@@ -1,0 +1,417 @@
+{
+  "osisId": "Nah",
+  "sblId": "Nah",
+  "name": "Nahum",
+  "shortName": "Na",
+  "orderIndex": 33,
+  "chaptersCount": 3,
+  "versesCount": 47,
+  "chapters": [
+    {
+      "osisId": "Nah.1",
+      "sblId": "Nah 1",
+      "name": "Nahum 1",
+      "shortName": "Na 1",
+      "orderIndex": 0,
+      "versesCount": 14,
+      "verses": [
+        {
+          "osisId": "Nah.1.1",
+          "sblId": "Nah 1:1",
+          "name": "Nahum 1:1",
+          "shortName": "Na 1:1",
+          "text": "Oraculum Nineve. Liber visio nis Nahum Elcesaei.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Nah.1.2",
+          "sblId": "Nah 1:2",
+          "name": "Nahum 1:2",
+          "shortName": "Na 1:2",
+          "text": "Deus aemulator et ulciscens Dominus,ulciscens Dominus et habens furorem,ulciscens Dominus in hostes suoset servans iram inimicis suis.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Nah.1.3",
+          "sblId": "Nah 1:3",
+          "name": "Nahum 1:3",
+          "shortName": "Na 1:3",
+          "text": "Dominus patiens et magnus fortitudine,nullumque impunitum derelinquet Dominus.In tempestate et turbine via eius,et nubes pulvis pedum eius.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Nah.1.4",
+          "sblId": "Nah 1:4",
+          "name": "Nahum 1:4",
+          "shortName": "Na 1:4",
+          "text": "Increpans mare et exsiccans illudet omnia flumina ad desertum deducens.Elanguit Basan et Carmelus,et flos Libani elanguit.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Nah.1.5",
+          "sblId": "Nah 1:5",
+          "name": "Nahum 1:5",
+          "shortName": "Na 1:5",
+          "text": "Montes commoti sunt ab eo,et colles conturbati;et contremuit terra a facie eiuset orbis et omnes habitantes in eo.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Nah.1.6",
+          "sblId": "Nah 1:6",
+          "name": "Nahum 1:6",
+          "shortName": "Na 1:6",
+          "text": "Ante faciem indignationis eius quis stabit,et quis resistet in aestu furoris eius? Indignatio eius effusa est ut ignis,et petrae dissolutae sunt ab eo.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Nah.1.7",
+          "sblId": "Nah 1:7",
+          "name": "Nahum 1:7",
+          "shortName": "Na 1:7",
+          "text": "Bonus Dominus,refugium in die tribulationiset sciens sperantes in se",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Nah.1.8",
+          "sblId": "Nah 1:8",
+          "name": "Nahum 1:8",
+          "shortName": "Na 1:8",
+          "text": "et in diluvio transeunte;consummationem faciet adversariorum suorum,et inimicos eius persequentur tenebrae.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Nah.1.9",
+          "sblId": "Nah 1:9",
+          "name": "Nahum 1:9",
+          "shortName": "Na 1:9",
+          "text": "Quid cogitatis contra Dominum?Consummationem ipse faciet;non consurget duplex tribulatio.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Nah.1.10",
+          "sblId": "Nah 1:10",
+          "name": "Nahum 1:10",
+          "shortName": "Na 1:10",
+          "text": "Sicut spinae condensae se invicem complectenteset sicut potatores inebriaticonsumentur quasi stipula omnino arida.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Nah.1.11",
+          "sblId": "Nah 1:11",
+          "name": "Nahum 1:11",
+          "shortName": "Na 1:11",
+          "text": "Ex te exivit cogitans contra Dominum malitiam,mente pertractans praevaricationem.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Nah.1.12",
+          "sblId": "Nah 1:12",
+          "name": "Nahum 1:12",
+          "shortName": "Na 1:12",
+          "text": "Haec dicit Dominus: Et si incolumes fuerint et numerosi,sic quoque attondentur et pertransibunt;afflixi te et non affligam te ultra.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Nah.1.13",
+          "sblId": "Nah 1:13",
+          "name": "Nahum 1:13",
+          "shortName": "Na 1:13",
+          "text": "Et nunc conteram virgam eius de dorso tuoet vincula tua disrumpam \".",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Nah.1.14",
+          "sblId": "Nah 1:14",
+          "name": "Nahum 1:14",
+          "shortName": "Na 1:14",
+          "text": "Et praecipiet super te Dominus: Non seminabitur ex nomine tuo amplius.De domo dei tui disperdam sculptile et conflatile;ponam sepulcrum tuum,quia inhonoratus es \".",
+          "orderIndex": 13
+        }
+      ]
+    },
+    {
+      "osisId": "Nah.2",
+      "sblId": "Nah 2",
+      "name": "Nahum 2",
+      "shortName": "Na 2",
+      "orderIndex": 1,
+      "versesCount": 14,
+      "verses": [
+        {
+          "osisId": "Nah.2.1",
+          "sblId": "Nah 2:1",
+          "name": "Nahum 2:1",
+          "shortName": "Na 2:1",
+          "text": "Ecce super montes pedes evan gelizantiset annuntiantis pacem.Celebra, Iuda, festivitates tuaset redde vota tua,quia non adiciet ultra ut pertranseat in te Belial:totus interiit.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Nah.2.2",
+          "sblId": "Nah 2:2",
+          "name": "Nahum 2:2",
+          "shortName": "Na 2:2",
+          "text": "Ascendit, qui dispergat, contra te. Custodi munitionem,contemplare viam, conforta lumbos, robora virtutem valde \".",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Nah.2.3",
+          "sblId": "Nah 2:3",
+          "name": "Nahum 2:3",
+          "shortName": "Na 2:3",
+          "text": "Quia restituet Dominus magnificentiam Iacobsicut magnificentiam Israel,quia praedones praedati sunt eoset propagines eorum corruperunt.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Nah.2.4",
+          "sblId": "Nah 2:4",
+          "name": "Nahum 2:4",
+          "shortName": "Na 2:4",
+          "text": "Clipeus fortium eius ruber,viri exercitus in coccineis;ignitae laminae ferreae curruum,quando praeparat bellum,et equites agitantur.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Nah.2.5",
+          "sblId": "Nah 2:5",
+          "name": "Nahum 2:5",
+          "shortName": "Na 2:5",
+          "text": "In viis furibundae currunt quadrigae,invicem colliduntur in plateis;aspectus eorum quasi lampades,quasi fulgura discurrentia.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Nah.2.6",
+          "sblId": "Nah 2:6",
+          "name": "Nahum 2:6",
+          "shortName": "Na 2:6",
+          "text": "Recordatur fortium suorum,ruunt in itineribus suis;currunt ad murum,et praeparatur umbraculum.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Nah.2.7",
+          "sblId": "Nah 2:7",
+          "name": "Nahum 2:7",
+          "shortName": "Na 2:7",
+          "text": "Portae fluviorum apertae sunt,palatium tremit.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Nah.2.8",
+          "sblId": "Nah 2:8",
+          "name": "Nahum 2:8",
+          "shortName": "Na 2:8",
+          "text": "Et speciosa denudatur, tollitur,et ancillae eius gemunt ut columbae et percutiunt corda sua.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Nah.2.9",
+          "sblId": "Nah 2:9",
+          "name": "Nahum 2:9",
+          "shortName": "Na 2:9",
+          "text": "Et Nineve quasi piscina aquarum,cuius aquae fugiunt. State, state! \";sed non est qui revertatur.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Nah.2.10",
+          "sblId": "Nah 2:10",
+          "name": "Nahum 2:10",
+          "shortName": "Na 2:10",
+          "text": "\" Diripite argentum, diripite aurum! \".Et non est finis divitiarum;thesaurus ex omnibus vasis desiderabilibus.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Nah.2.11",
+          "sblId": "Nah 2:11",
+          "name": "Nahum 2:11",
+          "shortName": "Na 2:11",
+          "text": "Dissipata et vastata et dilacerata,et cor tabescens,et dissolutio geniculorum;et tremor in cunctis renibus,et facies omnium eorum candentes.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Nah.2.12",
+          "sblId": "Nah 2:12",
+          "name": "Nahum 2:12",
+          "shortName": "Na 2:12",
+          "text": "Ubi est habitaculum leonum,et spelunca catulorum leonum,ad quam ivit leo, ut duceret illuc catulum leonis,et non erat qui exterreret?",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Nah.2.13",
+          "sblId": "Nah 2:13",
+          "name": "Nahum 2:13",
+          "shortName": "Na 2:13",
+          "text": "Leo cepit sufficienter catulis suiset necavit leaenis suis;et implevit praeda speluncas suaset cubile suum rapina.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Nah.2.14",
+          "sblId": "Nah 2:14",
+          "name": "Nahum 2:14",
+          "shortName": "Na 2:14",
+          "text": "\" Ecce ego ad te,dicit Dominus exercituum,et succendam usque ad fumum quadrigas tuas;et leunculos tuos comedet gladius,et exterminabo de terra praedam tuam,et non audietur ultra vox nuntiorum tuorum \".",
+          "orderIndex": 13
+        }
+      ]
+    },
+    {
+      "osisId": "Nah.3",
+      "sblId": "Nah 3",
+      "name": "Nahum 3",
+      "shortName": "Na 3",
+      "orderIndex": 2,
+      "versesCount": 19,
+      "verses": [
+        {
+          "osisId": "Nah.3.1",
+          "sblId": "Nah 3:1",
+          "name": "Nahum 3:1",
+          "shortName": "Na 3:1",
+          "text": "Vae, civitas sanguinum,universa mendaciipraeda plena!Non recedet a te rapina.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Nah.3.2",
+          "sblId": "Nah 3:2",
+          "name": "Nahum 3:2",
+          "shortName": "Na 3:2",
+          "text": "Vox flagellorum et vox strepitus rotarum,equi frementes et quadrigae ferventes,equites irruentes",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Nah.3.3",
+          "sblId": "Nah 3:3",
+          "name": "Nahum 3:3",
+          "shortName": "Na 3:3",
+          "text": "et gladii micantes et hastae fulguranteset multitudo interfectorum et acervi mortuorum;nec est finis cadaverum,et corruunt super corpora.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Nah.3.4",
+          "sblId": "Nah 3:4",
+          "name": "Nahum 3:4",
+          "shortName": "Na 3:4",
+          "text": "Hoc propter multitudinem fornicationum meretricisspeciosae et gratae et habentis maleficia,quae vendidit gentes fornicationibus suiset nationes maleficiis suis.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Nah.3.5",
+          "sblId": "Nah 3:5",
+          "name": "Nahum 3:5",
+          "shortName": "Na 3:5",
+          "text": "\" Ecce ego ad te,dicit Dominus exercituum;et levabo vestimentum tuum in faciem tuamet ostendam gentibus nuditatem tuamet regnis ignominiam tuam.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Nah.3.6",
+          "sblId": "Nah 3:6",
+          "name": "Nahum 3:6",
+          "shortName": "Na 3:6",
+          "text": "Et proiciam super te abominationeset contumeliis te afficiam;et ponam te in exemplum.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Nah.3.7",
+          "sblId": "Nah 3:7",
+          "name": "Nahum 3:7",
+          "shortName": "Na 3:7",
+          "text": "Et erit: omnis, qui viderit te,resiliet a te et dicet:Vastata est Nineve!Quis dolebit super eam?Unde quaeram consolatorem tibi?\".",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Nah.3.8",
+          "sblId": "Nah 3:8",
+          "name": "Nahum 3:8",
+          "shortName": "Na 3:8",
+          "text": "Numquid melior es quam Noamon,quae habitabat in fluminibus?Aquae in circuitu eius:cuius vallum mare,aquae muri eius.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Nah.3.9",
+          "sblId": "Nah 3:9",
+          "name": "Nahum 3:9",
+          "shortName": "Na 3:9",
+          "text": "Chus fuit fortitudo eiuset Aegyptus, cuius non est finis;Phut et Libyes fuerunt in auxilio eius.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Nah.3.10",
+          "sblId": "Nah 3:10",
+          "name": "Nahum 3:10",
+          "shortName": "Na 3:10",
+          "text": "Sed et ipsa in transmigrationem ducta est,ivit in captivitatem.Parvuli eius elisi suntin capite omnium viarum;et super inclitos eius miserunt sortem,et omnes optimates eius constricti sunt in compedibus.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Nah.3.11",
+          "sblId": "Nah 3:11",
+          "name": "Nahum 3:11",
+          "shortName": "Na 3:11",
+          "text": "Et tu ergo inebriaberis,eris despecta;et tu quaeresrefugium ab inimico.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Nah.3.12",
+          "sblId": "Nah 3:12",
+          "name": "Nahum 3:12",
+          "shortName": "Na 3:12",
+          "text": "Omnes munitiones tuae sicut ficuscum ficis praecocibus:si concussae fuerint,cadent in os comedentis.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Nah.3.13",
+          "sblId": "Nah 3:13",
+          "name": "Nahum 3:13",
+          "shortName": "Na 3:13",
+          "text": "Ecce populus tuus,mulieres in medio tui;inimicis tuis late patebuntportae terrae tuae;devorabit ignis vectes tuos.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Nah.3.14",
+          "sblId": "Nah 3:14",
+          "name": "Nahum 3:14",
+          "shortName": "Na 3:14",
+          "text": "Aquam propter obsidionem hauri tibi,firma munitiones tuas;intra in lutum et calca argillam,tene typum laterum.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Nah.3.15",
+          "sblId": "Nah 3:15",
+          "name": "Nahum 3:15",
+          "shortName": "Na 3:15",
+          "text": "Ibi comedet te ignis,peribis gladio,devorabit te ut bruchus.Augere ut bruchus,multiplicare ut locusta.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Nah.3.16",
+          "sblId": "Nah 3:16",
+          "name": "Nahum 3:16",
+          "shortName": "Na 3:16",
+          "text": "Plures fecisti negotiatores tuosquam stellae sint caeli;bruchus exuit pellemet avolavit.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Nah.3.17",
+          "sblId": "Nah 3:17",
+          "name": "Nahum 3:17",
+          "shortName": "Na 3:17",
+          "text": "Custodes tui quasi locustae,et scribae tui quasi agmen locustarum,quae considunt in saepibusin die frigoris;sol ortus est,et avolaverunt,non est cognitus locus earum,ubi fuerint.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Nah.3.18",
+          "sblId": "Nah 3:18",
+          "name": "Nahum 3:18",
+          "shortName": "Na 3:18",
+          "text": "Dormiunt pastores tui, rex Assyriae,requiescunt principes tui;dispersus est populus tuus in montibus,et non est qui congreget.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Nah.3.19",
+          "sblId": "Nah 3:19",
+          "name": "Nahum 3:19",
+          "shortName": "Na 3:19",
+          "text": "Non est remedium fracturae tuae,insanabilis est plaga tua;omnes, qui audierint auditionem tuam,plaudent manibus super te,quia super quem non transiitmalitia tua semper? \".",
+          "orderIndex": 18
+        }
+      ]
+    }
+  ]
+}

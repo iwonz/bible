@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="book" n="2John">
+        <div type="chapter" n="1">
+          <ab n="1">senior electae dominae et natis eius quos ego diligo in veritate et non ego solus sed et omnes qui cognoverunt veritatem</ab>
+          <ab n="2">propter veritatem quae permanet in nobis et nobiscum erit in aeternum</ab>
+          <ab n="3">sit nobiscum gratia misericordia pax a Deo Patre et a Christo Iesu Filio Patris in veritate et caritate</ab>
+          <ab n="4">gavisus sum valde quoniam inveni de filiis tuis ambulantes in veritate sicut mandatum accepimus a Patre</ab>
+          <ab n="5">et nunc rogo te domina non tamquam mandatum novum scribens tibi sed quod habuimus ab initio ut diligamus alterutrum</ab>
+          <ab n="6">et haec est caritas ut ambulemus secundum mandata eius hoc mandatum est ut quemadmodum audistis ab initio in eo ambuletis</ab>
+          <ab n="7">quoniam multi seductores exierunt in mundum qui non confitentur Iesum Christum venientem in carne hic est seductor et antichristus</ab>
+          <ab n="8">videte vosmet ipsos ne perdatis quae operati estis sed ut mercedem plenam accipiatis</ab>
+          <ab n="9">omnis qui praecedit et non manet in doctrina Christi Deum non habet qui permanet in doctrina hic et Filium et Patrem habet</ab>
+          <ab n="10">si quis venit ad vos et hanc doctrinam non adfert nolite recipere eum in domum nec have ei dixeritis</ab>
+          <ab n="11">qui enim dicit illi have communicat operibus illius malignis</ab>
+          <ab n="12">plura habens vobis scribere nolui per cartam et atramentum spero enim me futurum apud vos et os ad os loqui ut gaudium vestrum plenum sit</ab>
+          <ab n="13">salutant te filii sororis tuae electae</ab>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

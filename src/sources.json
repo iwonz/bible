@@ -1,0 +1,173 @@
+{
+  "RUS_SYNODAL": {
+    "lang": "ru",
+    "name": "Синодальный перевод",
+    "description": "Перевод утверждённый российским Святейшим синодом для домашнего (не богослужебного) чтения.",
+    "names": {
+      "en": "Synodal Translation",
+      "ru": "Синодальный перевод",
+      "uk": "Синодальний переклад",
+      "zh": "会众译本",
+      "la": "Translatio Synodalis"
+    },
+    "descriptions": {
+      "en": "Translation approved by the Russian Holy Synod for home (non-liturgical) reading.",
+      "ru": "Перевод утверждённый российским Святейшим синодом для домашнего (не богослужебного) чтения.",
+      "uk": "Переклад, затверджений Російським Святійшим синодом для домашнього (не богослужебного) читання.",
+      "zh": "俄罗斯圣议会批准的家庭（非礼拜）阅读译本。",
+      "la": "Translatio a Sancta Synodo Russica approbata pro lectione domestica (non liturgica)."
+    }
+  },
+  "NIV": {
+    "lang": "en",
+    "name": "New International Version",
+    "description": "A widely used modern English translation of the Bible.",
+    "names": {
+      "en": "New International Version",
+      "ru": "Новый Международный Перевод",
+      "uk": "Новий Міжнародний Переклад",
+      "zh": "新国际版",
+      "la": "Nova Versio Internationalis"
+    },
+    "descriptions": {
+      "en": "A widely used modern English translation of the Bible.",
+      "ru": "Широко используемый современный английский перевод Библии.",
+      "uk": "Широко використовуваний сучасний англійський переклад Біблії.",
+      "zh": "广泛使用的现代英文圣经译本。",
+      "la": "Translatio Anglica moderna late usitata Bibliorum."
+    }
+  },
+  "ESV": {
+    "lang": "en",
+    "name": "English Standard Version",
+    "description": "An essentially literal English translation of the Bible.",
+    "names": {
+      "en": "English Standard Version",
+      "ru": "Английский Стандартный Перевод",
+      "uk": "Англійський Стандартний Переклад",
+      "zh": "英文标准版",
+      "la": "Versio Anglica Standard"
+    },
+    "descriptions": {
+      "en": "An essentially literal English translation of the Bible.",
+      "ru": "По сути дословный английский перевод Библии.",
+      "uk": "По суті дослівний англійський переклад Біблії.",
+      "zh": "基本直译的英文圣经译本。",
+      "la": "Translatio Anglica essentialiter litteralis Bibliorum."
+    }
+  },
+  "KJV": {
+    "lang": "en",
+    "name": "King James Version",
+    "description": "A classic English translation of the Bible first published in 1611.",
+    "names": {
+      "en": "King James Version",
+      "ru": "Королевский Перевод Иакова",
+      "uk": "Королівський Переклад Якова",
+      "zh": "詹姆斯王版",
+      "la": "Versio Regis Iacobi"
+    },
+    "descriptions": {
+      "en": "A classic English translation of the Bible first published in 1611.",
+      "ru": "Классический английский перевод Библии, впервые опубликованный в 1611 году.",
+      "uk": "Класичний англійський переклад Біблії, вперше опублікований у 1611 році.",
+      "zh": "1611年首次出版的经典英文圣经译本。",
+      "la": "Translatio Anglica classica primum edita anno 1611."
+    }
+  },
+  "RCUVSS": {
+    "lang": "zh",
+    "name": "和合本修订版（简体）",
+    "description": "A revised and simplified Chinese Union Version of the Bible.",
+    "names": {
+      "en": "Chinese Union Version (Simplified) Revised",
+      "ru": "Китайский Объединённый Перевод (Упрощённый) Пересмотренный",
+      "uk": "Китайський Об'єднаний Переклад (Спрощений) Переглянутий",
+      "zh": "和合本修订版（简体）",
+      "la": "Versio Unionis Sinica (Simplificata) Revisita"
+    },
+    "descriptions": {
+      "en": "A revised and simplified Chinese Union Version of the Bible.",
+      "ru": "Пересмотренный и упрощённый Китайский Объединённый Перевод Библии.",
+      "uk": "Переглянутий і спрощений Китайський Об'єднаний Переклад Біблії.",
+      "zh": "圣经和合本修订版（简体）。",
+      "la": "Versio Unionis Sinica revisita et simplificata Bibliorum."
+    }
+  },
+  "RCUVT": {
+    "lang": "zh",
+    "name": "和合本修订版（繁体）",
+    "description": "A revised traditional Chinese Union Version of the Bible.",
+    "names": {
+      "en": "Chinese Union Version (Traditional) Revised",
+      "ru": "Китайский Объединённый Перевод (Традиционный) Пересмотренный",
+      "uk": "Китайський Об'єднаний Переклад (Традиційний) Переглянутий",
+      "zh": "和合本修订版（繁体）",
+      "la": "Versio Unionis Sinica (Traditionalis) Revisita"
+    },
+    "descriptions": {
+      "en": "A revised traditional Chinese Union Version of the Bible.",
+      "ru": "Пересмотренный традиционный Китайский Объединённый Перевод Библии.",
+      "uk": "Переглянутий традиційний Китайський Об'єднаний Переклад Біблії.",
+      "zh": "圣经和合本修订版（繁体）。",
+      "la": "Versio Unionis Sinica traditionalis revisita Bibliorum."
+    }
+  },
+  "NPU": {
+    "lang": "uk",
+    "name": "Новий Переклад Українською",
+    "description": "A modern Ukrainian translation of the Bible.",
+    "names": {
+      "en": "New Translation into Ukrainian",
+      "ru": "Новый Перевод на Украинский",
+      "uk": "Новий Переклад Українською",
+      "zh": "乌克兰语新译本",
+      "la": "Nova Translatio in Ucrainicam"
+    },
+    "descriptions": {
+      "en": "A modern Ukrainian translation of the Bible.",
+      "ru": "Современный украинский перевод Библии.",
+      "uk": "Сучасний український переклад Біблії.",
+      "zh": "现代乌克兰语圣经译本。",
+      "la": "Translatio Ucrainica moderna Bibliorum."
+    }
+  },
+  "VULGATA": {
+    "lang": "la",
+    "name": "Vulgata",
+    "description": "The Latin Vulgata translation of the Bible, traditionally attributed to Jerome.",
+    "names": {
+      "en": "Vulgata",
+      "ru": "Вульгата",
+      "uk": "Вульґата",
+      "zh": "武加大译本",
+      "la": "Vulgata"
+    },
+    "descriptions": {
+      "en": "The Latin Vulgata translation of the Bible, traditionally attributed to Jerome.",
+      "ru": "Латинская Вульгата перевод Библии, традиционно приписываемый Иерониму.",
+      "uk": "Латинська Вульґата переклад Біблії, традиційно приписуваний Ієроніму.",
+      "zh": "传统上归于哲罗姆的拉丁文武加大译本。",
+      "la": "Translatio Latina Vulgata Bibliorum, tradito Hieronymo attributa."
+    }
+  },
+  "NOVA_VULGATA": {
+    "lang": "la",
+    "name": "Nova Vulgata",
+    "description": "The official modern Latin edition of the Bible promulgated by the Vatican in 1979.",
+    "names": {
+      "en": "Nova Vulgata",
+      "ru": "Новая Вульгата",
+      "uk": "Нова Вульґата",
+      "zh": "新武加大译本",
+      "la": "Nova Vulgata"
+    },
+    "descriptions": {
+      "en": "The official modern Latin edition of the Bible promulgated by the Vatican in 1979.",
+      "ru": "Официальное современное латинское издание Библии, опубликованное Ватиканом в 1979 году.",
+      "uk": "Офіційне сучасне латинське видання Біблії, опубліковане Ватиканом у 1979 році.",
+      "zh": "梵蒂冈于1979年颁布的官方现代拉丁文圣经版本。",
+      "la": "Editio Latina moderna officialis Bibliorum a Vaticano promulgata anno 1979."
+    }
+  }
+}

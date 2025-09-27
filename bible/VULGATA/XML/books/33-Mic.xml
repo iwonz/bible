@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="Mic" sblId="Mic" name="Micheas" shortName="Mi" orderIndex="32" chaptersCount="7" versesCount="104">
+  <chapters>
+    <Chapter osisId="Mic.1" sblId="Mic 1" name="Micheas 1" shortName="Mi 1" orderIndex="0" versesCount="16">
+      <verses>
+        <Verse osisId="Mic.1.1" sblId="Mic 1:1" name="Micheas 1:1" shortName="Mi 1:1" orderIndex="0">verbum Domini quod factum est ad Micham Morasthiten in diebus Ioatham Ahaz Ezechiae regum Iuda quod vidit super Samariam et Hierusalem</Verse>
+        <Verse osisId="Mic.1.2" sblId="Mic 1:2" name="Micheas 1:2" shortName="Mi 1:2" orderIndex="1">audite populi omnes et adtendat terra et plenitudo eius et sit Dominus Deus vobis in testem Dominus de templo sancto suo</Verse>
+        <Verse osisId="Mic.1.3" sblId="Mic 1:3" name="Micheas 1:3" shortName="Mi 1:3" orderIndex="2">quia ecce Dominus egreditur de loco suo et descendet et calcabit super excelsa terrae</Verse>
+        <Verse osisId="Mic.1.4" sblId="Mic 1:4" name="Micheas 1:4" shortName="Mi 1:4" orderIndex="3">et consumentur montes subtus eum et valles scindentur sicut cera a facie ignis sicut aquae quae decurrunt in praeceps</Verse>
+        <Verse osisId="Mic.1.5" sblId="Mic 1:5" name="Micheas 1:5" shortName="Mi 1:5" orderIndex="4">in scelere Iacob omne istud et in peccatis domus Israhel quod scelus Iacob nonne Samaria et quae excelsa Iudae nonne Hierusalem</Verse>
+        <Verse osisId="Mic.1.6" sblId="Mic 1:6" name="Micheas 1:6" shortName="Mi 1:6" orderIndex="5">et ponam Samariam quasi acervum lapidum in agro cum plantatur vinea et detraham in vallem lapides eius et fundamenta eius revelabo</Verse>
+        <Verse osisId="Mic.1.7" sblId="Mic 1:7" name="Micheas 1:7" shortName="Mi 1:7" orderIndex="6">et omnia sculptilia eius concidentur et omnes mercedes eius conburentur igni et omnia idola eius ponam in perditionem quia de mercedibus meretricis congregata sunt et usque ad mercedem meretricis revertentur</Verse>
+        <Verse osisId="Mic.1.8" sblId="Mic 1:8" name="Micheas 1:8" shortName="Mi 1:8" orderIndex="7">super hoc plangam et ululabo vadam spoliatus et nudus faciam planctum velut draconum et luctum quasi strutionum</Verse>
+        <Verse osisId="Mic.1.9" sblId="Mic 1:9" name="Micheas 1:9" shortName="Mi 1:9" orderIndex="8">quia desperata est plaga eius quia venit usque ad Iudam tetigit portam populi mei usque ad Hierusalem</Verse>
+        <Verse osisId="Mic.1.10" sblId="Mic 1:10" name="Micheas 1:10" shortName="Mi 1:10" orderIndex="9">in Geth nolite adnuntiare lacrimis ne ploretis in domo Pulveris pulvere vos conspergite</Verse>
+        <Verse osisId="Mic.1.11" sblId="Mic 1:11" name="Micheas 1:11" shortName="Mi 1:11" orderIndex="10">et transite vobis habitatio Pulchra confusa ignominia non est egressa quae habitat in Exitu planctum domus Vicinae accipiet ex vobis quae stetit sibimet</Verse>
+        <Verse osisId="Mic.1.12" sblId="Mic 1:12" name="Micheas 1:12" shortName="Mi 1:12" orderIndex="11">quia infirmata est in bonum quae habitat in Amaritudinibus quia descendit malum a Domino in portam Hierusalem</Verse>
+        <Verse osisId="Mic.1.13" sblId="Mic 1:13" name="Micheas 1:13" shortName="Mi 1:13" orderIndex="12">tumultus quadrigae stuporis habitanti Lachis principium peccati est filiae Sion quia in te inventa sunt scelera Israhel</Verse>
+        <Verse osisId="Mic.1.14" sblId="Mic 1:14" name="Micheas 1:14" shortName="Mi 1:14" orderIndex="13">propterea dabit emissarios super hereditatem Geth domus Mendacii in deceptionem regibus Israhel</Verse>
+        <Verse osisId="Mic.1.15" sblId="Mic 1:15" name="Micheas 1:15" shortName="Mi 1:15" orderIndex="14">adhuc heredem adducam tibi quae habitas in Maresa usque Adollam veniet gloria Israhel</Verse>
+        <Verse osisId="Mic.1.16" sblId="Mic 1:16" name="Micheas 1:16" shortName="Mi 1:16" orderIndex="15">decalvare et tondere super filios deliciarum tuarum dilata calvitium tuum sicut aquila quoniam captivi ducti sunt ex te</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Mic.2" sblId="Mic 2" name="Micheas 2" shortName="Mi 2" orderIndex="1" versesCount="13">
+      <verses>
+        <Verse osisId="Mic.2.1" sblId="Mic 2:1" name="Micheas 2:1" shortName="Mi 2:1" orderIndex="0">vae qui cogitatis inutile et operamini malum in cubilibus vestris in luce matutina faciunt illud quoniam contra Deum est manus eorum</Verse>
+        <Verse osisId="Mic.2.2" sblId="Mic 2:2" name="Micheas 2:2" shortName="Mi 2:2" orderIndex="1">et concupierunt agros et violenter tulerunt et domos rapuerunt et calumniabantur virum et domum eius virum et hereditatem eius</Verse>
+        <Verse osisId="Mic.2.3" sblId="Mic 2:3" name="Micheas 2:3" shortName="Mi 2:3" orderIndex="2">idcirco haec dicit Dominus ecce ego cogito super familiam istam malum unde non auferetis colla vestra et non ambulabitis superbi quoniam tempus pessimum est</Verse>
+        <Verse osisId="Mic.2.4" sblId="Mic 2:4" name="Micheas 2:4" shortName="Mi 2:4" orderIndex="3">in die illa sumetur super vos parabola et cantabitur canticum cum suavitate dicentium depopulatione vastati sumus pars populi mei commutata est quomodo recedet a me cum revertatur qui regiones nostras dividat</Verse>
+        <Verse osisId="Mic.2.5" sblId="Mic 2:5" name="Micheas 2:5" shortName="Mi 2:5" orderIndex="4">propter hoc non erit tibi mittens funiculum sortis in coetu Domini</Verse>
+        <Verse osisId="Mic.2.6" sblId="Mic 2:6" name="Micheas 2:6" shortName="Mi 2:6" orderIndex="5">ne loquamini loquentes non stillabit super istos non conprehendet confusio</Verse>
+        <Verse osisId="Mic.2.7" sblId="Mic 2:7" name="Micheas 2:7" shortName="Mi 2:7" orderIndex="6">dicit domus Iacob numquid adbreviatus est spiritus Domini aut tales sunt cogitationes eius nonne verba mea bona sunt cum eo qui recte graditur</Verse>
+        <Verse osisId="Mic.2.8" sblId="Mic 2:8" name="Micheas 2:8" shortName="Mi 2:8" orderIndex="7">et e contrario populus meus in adversarium consurrexit desuper tunica pallium sustulistis eos qui transiebant simpliciter convertistis in bellum</Verse>
+        <Verse osisId="Mic.2.9" sblId="Mic 2:9" name="Micheas 2:9" shortName="Mi 2:9" orderIndex="8">mulieres populi mei eiecistis de domo deliciarum suarum a parvulis earum tulistis laudem meam in perpetuum</Verse>
+        <Verse osisId="Mic.2.10" sblId="Mic 2:10" name="Micheas 2:10" shortName="Mi 2:10" orderIndex="9">surgite et ite quia non habetis hic requiem propter inmunditiam eius corrumpetur putredine pessima</Verse>
+        <Verse osisId="Mic.2.11" sblId="Mic 2:11" name="Micheas 2:11" shortName="Mi 2:11" orderIndex="10">utinam non essem vir habens spiritum et mendacium potius loquerer stillabo tibi in vinum et in ebrietatem et erit super quem stillatur populus iste</Verse>
+        <Verse osisId="Mic.2.12" sblId="Mic 2:12" name="Micheas 2:12" shortName="Mi 2:12" orderIndex="11">congregatione congregabo Iacob totum te in unum conducam reliquias Israhel pariter ponam illum quasi gregem in ovili quasi pecus in medio caularum tumultuabuntur a multitudine hominum</Verse>
+        <Verse osisId="Mic.2.13" sblId="Mic 2:13" name="Micheas 2:13" shortName="Mi 2:13" orderIndex="12">ascendet enim pandens iter ante eos divident et transibunt portam et egredientur per eam et transibit rex eorum coram eis et Dominus in capite eorum</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Mic.3" sblId="Mic 3" name="Micheas 3" shortName="Mi 3" orderIndex="2" versesCount="12">
+      <verses>
+        <Verse osisId="Mic.3.1" sblId="Mic 3:1" name="Micheas 3:1" shortName="Mi 3:1" orderIndex="0">et dixi audite principes Iacob et duces domus Israhel numquid non vestrum est scire iudicium</Verse>
+        <Verse osisId="Mic.3.2" sblId="Mic 3:2" name="Micheas 3:2" shortName="Mi 3:2" orderIndex="1">qui odio habetis bonum et diligitis malum qui violenter tollitis pelles eorum desuper eos et carnem eorum desuper ossibus eorum</Verse>
+        <Verse osisId="Mic.3.3" sblId="Mic 3:3" name="Micheas 3:3" shortName="Mi 3:3" orderIndex="2">qui comederunt carnem populi mei et pellem eorum desuper excoriaverunt et ossa eorum confregerunt et conciderunt sicut in lebete et quasi carnem in medio ollae</Verse>
+        <Verse osisId="Mic.3.4" sblId="Mic 3:4" name="Micheas 3:4" shortName="Mi 3:4" orderIndex="3">tunc clamabunt ad Dominum et non exaudiet eos et abscondet faciem suam ab eis in tempore illo sicut nequiter egerunt in adinventionibus suis</Verse>
+        <Verse osisId="Mic.3.5" sblId="Mic 3:5" name="Micheas 3:5" shortName="Mi 3:5" orderIndex="4">haec dicit Dominus super prophetas qui seducunt populum meum qui mordent dentibus suis et praedicant pacem et si quis non dederit in ore eorum quippiam sanctificant super eum proelium</Verse>
+        <Verse osisId="Mic.3.6" sblId="Mic 3:6" name="Micheas 3:6" shortName="Mi 3:6" orderIndex="5">propterea nox vobis pro visione erit et tenebrae vobis pro divinatione et occumbet sol super prophetas et obtenebrabitur super eos dies</Verse>
+        <Verse osisId="Mic.3.7" sblId="Mic 3:7" name="Micheas 3:7" shortName="Mi 3:7" orderIndex="6">et confundentur qui vident visiones et confundentur divini et operient vultus suos omnes quia non est responsum Dei</Verse>
+        <Verse osisId="Mic.3.8" sblId="Mic 3:8" name="Micheas 3:8" shortName="Mi 3:8" orderIndex="7">verumtamen ego repletus sum fortitudine spiritus Domini iudicio et virtute ut adnuntiem Iacob scelus suum et Israhel peccatum suum</Verse>
+        <Verse osisId="Mic.3.9" sblId="Mic 3:9" name="Micheas 3:9" shortName="Mi 3:9" orderIndex="8">audite haec principes domus Iacob et iudices domus Israhel qui abominamini iudicium et omnia recta pervertitis</Verse>
+        <Verse osisId="Mic.3.10" sblId="Mic 3:10" name="Micheas 3:10" shortName="Mi 3:10" orderIndex="9">qui aedificatis Sion in sanguinibus et Hierusalem in iniquitate</Verse>
+        <Verse osisId="Mic.3.11" sblId="Mic 3:11" name="Micheas 3:11" shortName="Mi 3:11" orderIndex="10">principes eius in muneribus iudicabant et sacerdotes eius in mercede docebant et prophetae eius in pecunia divinabant et super Dominum requiescebant dicentes numquid non Dominus in medio nostrum non venient super nos mala</Verse>
+        <Verse osisId="Mic.3.12" sblId="Mic 3:12" name="Micheas 3:12" shortName="Mi 3:12" orderIndex="11">propter hoc causa vestri Sion quasi ager arabitur et Hierusalem quasi acervus lapidum erit et mons templi in excelsa silvarum</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Mic.4" sblId="Mic 4" name="Micheas 4" shortName="Mi 4" orderIndex="3" versesCount="13">
+      <verses>
+        <Verse osisId="Mic.4.1" sblId="Mic 4:1" name="Micheas 4:1" shortName="Mi 4:1" orderIndex="0">et in novissimo dierum erit mons domus Domini praeparatus in vertice montium et sublimis super colles et fluent ad eum populi</Verse>
+        <Verse osisId="Mic.4.2" sblId="Mic 4:2" name="Micheas 4:2" shortName="Mi 4:2" orderIndex="1">et properabunt gentes multae et dicent venite ascendamus ad montem Domini et ad domum Dei Iacob et docebit nos de viis suis et ibimus in semitis eius quia de Sion egredietur lex et verbum Domini de Hierusalem</Verse>
+        <Verse osisId="Mic.4.3" sblId="Mic 4:3" name="Micheas 4:3" shortName="Mi 4:3" orderIndex="2">et iudicabit inter populos multos et corripiet gentes fortes usque in longinquum et concident gladios suos in vomeres et hastas suas in ligones non sumet gens adversus gentem gladium et non discent ultra belligerare</Verse>
+        <Verse osisId="Mic.4.4" sblId="Mic 4:4" name="Micheas 4:4" shortName="Mi 4:4" orderIndex="3">et sedebit vir subtus vineam suam et subtus ficum suam et non erit qui deterreat quia os Domini exercituum locutum est</Verse>
+        <Verse osisId="Mic.4.5" sblId="Mic 4:5" name="Micheas 4:5" shortName="Mi 4:5" orderIndex="4">quia omnes populi ambulabunt unusquisque in nomine dei sui nos autem ambulabimus in nomine Domini Dei nostri in aeternum et ultra</Verse>
+        <Verse osisId="Mic.4.6" sblId="Mic 4:6" name="Micheas 4:6" shortName="Mi 4:6" orderIndex="5">in die illa dicit Dominus congregabo claudicantem et eam quam eieceram colligam et quam adflixeram</Verse>
+        <Verse osisId="Mic.4.7" sblId="Mic 4:7" name="Micheas 4:7" shortName="Mi 4:7" orderIndex="6">et ponam claudicantem in reliquias et eam quae laboraverat in gentem robustam et regnabit Dominus super eos in monte Sion ex hoc nunc et usque in aeternum</Verse>
+        <Verse osisId="Mic.4.8" sblId="Mic 4:8" name="Micheas 4:8" shortName="Mi 4:8" orderIndex="7">et tu turris Gregis nebulosa filiae Sion usque ad te veniet et veniet potestas prima regnum filiae Hierusalem</Verse>
+        <Verse osisId="Mic.4.9" sblId="Mic 4:9" name="Micheas 4:9" shortName="Mi 4:9" orderIndex="8">nunc quare maerore contraheris numquid rex non est tibi aut consiliarius tuus periit quia conprehendit te dolor sicut parturientem</Verse>
+        <Verse osisId="Mic.4.10" sblId="Mic 4:10" name="Micheas 4:10" shortName="Mi 4:10" orderIndex="9">dole et satage filia Sion quasi parturiens quia nunc egredieris de civitate et habitabis in regione et venies usque ad Babylonem ibi liberaberis ibi redimet te Dominus de manu inimicorum tuorum</Verse>
+        <Verse osisId="Mic.4.11" sblId="Mic 4:11" name="Micheas 4:11" shortName="Mi 4:11" orderIndex="10">et nunc congregatae sunt super te gentes multae quae dicunt lapidetur et aspiciat in Sion oculus noster</Verse>
+        <Verse osisId="Mic.4.12" sblId="Mic 4:12" name="Micheas 4:12" shortName="Mi 4:12" orderIndex="11">ipsi autem non cognoverunt cogitationes Domini et non intellexerunt consilium eius quia congregavit eos quasi faenum areae</Verse>
+        <Verse osisId="Mic.4.13" sblId="Mic 4:13" name="Micheas 4:13" shortName="Mi 4:13" orderIndex="12">surge et tritura filia Sion quia cornu tuum ponam ferreum et ungulas tuas ponam aereas et comminues populos multos et interficiam Domino rapinas eorum et fortitudinem eorum Domino universae terrae</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Mic.5" sblId="Mic 5" name="Micheas 5" shortName="Mi 5" orderIndex="4" versesCount="14">
+      <verses>
+        <Verse osisId="Mic.5.1" sblId="Mic 5:1" name="Micheas 5:1" shortName="Mi 5:1" orderIndex="0">nunc vastaberis filia latronis obsidionem posuerunt super nos in virga percutient maxillam iudicis Israhel</Verse>
+        <Verse osisId="Mic.5.2" sblId="Mic 5:2" name="Micheas 5:2" shortName="Mi 5:2" orderIndex="1">et tu Bethleem Ephrata parvulus es in milibus Iuda ex te mihi egredietur qui sit dominator in Israhel et egressus eius ab initio a diebus aeternitatis</Verse>
+        <Verse osisId="Mic.5.3" sblId="Mic 5:3" name="Micheas 5:3" shortName="Mi 5:3" orderIndex="2">propter hoc dabit eos usque ad tempus in quo parturiens pariet reliquiae fratrum eius convertentur ad filios Israhel</Verse>
+        <Verse osisId="Mic.5.4" sblId="Mic 5:4" name="Micheas 5:4" shortName="Mi 5:4" orderIndex="3">et stabit et pascet in fortitudine Domini in sublimitate nominis Domini Dei sui et convertentur quia nunc magnificabitur usque ad terminos terrae</Verse>
+        <Verse osisId="Mic.5.5" sblId="Mic 5:5" name="Micheas 5:5" shortName="Mi 5:5" orderIndex="4">et erit iste pax Assyrius cum venerit in terram nostram et quando calcaverit in domibus nostris et suscitabimus super eum septem pastores et octo primates homines</Verse>
+        <Verse osisId="Mic.5.6" sblId="Mic 5:6" name="Micheas 5:6" shortName="Mi 5:6" orderIndex="5">et pascent terram Assur in gladio et terram Nemrod in lanceis eius et liberabit ab Assur cum venerit in terram nostram et cum calcaverit in finibus nostris</Verse>
+        <Verse osisId="Mic.5.7" sblId="Mic 5:7" name="Micheas 5:7" shortName="Mi 5:7" orderIndex="6">et erunt reliquiae Iacob in medio populorum multorum quasi ros a Domino et quasi stillae super herbam quae non expectat virum et non praestolatur filios hominum</Verse>
+        <Verse osisId="Mic.5.8" sblId="Mic 5:8" name="Micheas 5:8" shortName="Mi 5:8" orderIndex="7">et erunt reliquiae Iacob in gentibus in medio populorum multorum quasi leo in iumentis silvarum et quasi catulus leonis in gregibus pecorum qui cum transierit et conculcaverit et ceperit non est qui eruat</Verse>
+        <Verse osisId="Mic.5.9" sblId="Mic 5:9" name="Micheas 5:9" shortName="Mi 5:9" orderIndex="8">exaltabitur manus tua super hostes tuos et omnes inimici tui interibunt</Verse>
+        <Verse osisId="Mic.5.10" sblId="Mic 5:10" name="Micheas 5:10" shortName="Mi 5:10" orderIndex="9">et erit in die illa dicit Dominus auferam equos tuos de medio tui et disperdam quadrigas tuas</Verse>
+        <Verse osisId="Mic.5.11" sblId="Mic 5:11" name="Micheas 5:11" shortName="Mi 5:11" orderIndex="10">et perdam civitates terrae tuae et destruam omnes munitiones tuas et auferam maleficia de manu tua et divinationes non erunt in te</Verse>
+        <Verse osisId="Mic.5.12" sblId="Mic 5:12" name="Micheas 5:12" shortName="Mi 5:12" orderIndex="11">et perire faciam sculptilia tua et statuas tuas de medio tui et non adorabis ultra opera manuum tuarum</Verse>
+        <Verse osisId="Mic.5.13" sblId="Mic 5:13" name="Micheas 5:13" shortName="Mi 5:13" orderIndex="12">et evellam lucos tuos de medio tui et conteram civitates tuas</Verse>
+        <Verse osisId="Mic.5.14" sblId="Mic 5:14" name="Micheas 5:14" shortName="Mi 5:14" orderIndex="13">et faciam in furore et in indignatione ultionem in omnibus gentibus quae non audierunt</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Mic.6" sblId="Mic 6" name="Micheas 6" shortName="Mi 6" orderIndex="5" versesCount="16">
+      <verses>
+        <Verse osisId="Mic.6.1" sblId="Mic 6:1" name="Micheas 6:1" shortName="Mi 6:1" orderIndex="0">audite quae Dominus loquitur surge contende iudicio adversum montes et audiant colles vocem tuam</Verse>
+        <Verse osisId="Mic.6.2" sblId="Mic 6:2" name="Micheas 6:2" shortName="Mi 6:2" orderIndex="1">audiant montes iudicium Domini et fortia fundamenta terrae quia iudicium Domini cum populo suo et cum Israhel diiudicabitur</Verse>
+        <Verse osisId="Mic.6.3" sblId="Mic 6:3" name="Micheas 6:3" shortName="Mi 6:3" orderIndex="2">populus meus quid feci tibi et quid molestus fui tibi responde mihi</Verse>
+        <Verse osisId="Mic.6.4" sblId="Mic 6:4" name="Micheas 6:4" shortName="Mi 6:4" orderIndex="3">quia eduxi te de terra Aegypti et de domo servientium liberavi te et misi ante faciem tuam Mosen et Aaron et Mariam</Verse>
+        <Verse osisId="Mic.6.5" sblId="Mic 6:5" name="Micheas 6:5" shortName="Mi 6:5" orderIndex="4">populus meus memento quaeso quid cogitaverit Balac rex Moab et quid responderit ei Balaam filius Beor de Setthim usque ad Galgalam ut cognosceret iustitias Domini</Verse>
+        <Verse osisId="Mic.6.6" sblId="Mic 6:6" name="Micheas 6:6" shortName="Mi 6:6" orderIndex="5">quid dignum offeram Domino curvem genu Deo excelso numquid offeram ei holocaustomata et vitulos anniculos</Verse>
+        <Verse osisId="Mic.6.7" sblId="Mic 6:7" name="Micheas 6:7" shortName="Mi 6:7" orderIndex="6">numquid placari potest Dominus in milibus arietum aut in multis milibus hircorum pinguium numquid dabo primogenitum meum pro scelere meo fructum ventris mei pro peccato animae meae</Verse>
+        <Verse osisId="Mic.6.8" sblId="Mic 6:8" name="Micheas 6:8" shortName="Mi 6:8" orderIndex="7">indicabo tibi o homo quid sit bonum et quid Dominus quaerat a te utique facere iudicium et diligere misericordiam et sollicitum ambulare cum Deo tuo</Verse>
+        <Verse osisId="Mic.6.9" sblId="Mic 6:9" name="Micheas 6:9" shortName="Mi 6:9" orderIndex="8">vox Domini ad civitatem clamat et salus erit timentibus nomen tuum audite tribus et quis adprobabit illud</Verse>
+        <Verse osisId="Mic.6.10" sblId="Mic 6:10" name="Micheas 6:10" shortName="Mi 6:10" orderIndex="9">adhuc ignis in domo impii thesauri iniquitatis et mensura minor irae plena</Verse>
+        <Verse osisId="Mic.6.11" sblId="Mic 6:11" name="Micheas 6:11" shortName="Mi 6:11" orderIndex="10">numquid iustificabo stateram impiam et saccelli pondera dolosa</Verse>
+        <Verse osisId="Mic.6.12" sblId="Mic 6:12" name="Micheas 6:12" shortName="Mi 6:12" orderIndex="11">in quibus divites eius repleti sunt iniquitate et habitantes in ea loquebantur mendacium et lingua eorum fraudulenta in ore eorum</Verse>
+        <Verse osisId="Mic.6.13" sblId="Mic 6:13" name="Micheas 6:13" shortName="Mi 6:13" orderIndex="12">et ego ergo coepi percutere te perditione super peccatis tuis</Verse>
+        <Verse osisId="Mic.6.14" sblId="Mic 6:14" name="Micheas 6:14" shortName="Mi 6:14" orderIndex="13">tu comedes et non saturaberis et humiliatio tua in medio tui et adprehendes et non salvabis et quos salvaveris in gladium dabo</Verse>
+        <Verse osisId="Mic.6.15" sblId="Mic 6:15" name="Micheas 6:15" shortName="Mi 6:15" orderIndex="14">tu seminabis et non metes tu calcabis olivam et non ungueris oleo et mustum et non bibes vinum</Verse>
+        <Verse osisId="Mic.6.16" sblId="Mic 6:16" name="Micheas 6:16" shortName="Mi 6:16" orderIndex="15">et custodisti praecepta Omri et omne opus domus Achab et ambulasti in voluntatibus eorum ut darem te in perditionem et habitantes in ea in sibilum et obprobrium populi mei portabitis</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Mic.7" sblId="Mic 7" name="Micheas 7" shortName="Mi 7" orderIndex="6" versesCount="20">
+      <verses>
+        <Verse osisId="Mic.7.1" sblId="Mic 7:1" name="Micheas 7:1" shortName="Mi 7:1" orderIndex="0">vae mihi quia factus sum sicut qui colligit in autumno racemos vindemiae non est botrus ad comedendum praecoquas ficus desideravit anima mea</Verse>
+        <Verse osisId="Mic.7.2" sblId="Mic 7:2" name="Micheas 7:2" shortName="Mi 7:2" orderIndex="1">periit sanctus de terra et rectus in hominibus non est omnes in sanguine insidiantur vir fratrem suum venatur ad mortem</Verse>
+        <Verse osisId="Mic.7.3" sblId="Mic 7:3" name="Micheas 7:3" shortName="Mi 7:3" orderIndex="2">malum manuum suarum dicunt bonum princeps postulat et iudex in reddendo est et magnus locutus est desiderium animae suae et conturbaverunt eam</Verse>
+        <Verse osisId="Mic.7.4" sblId="Mic 7:4" name="Micheas 7:4" shortName="Mi 7:4" orderIndex="3">qui optimus in eis est quasi paliurus et qui rectus quasi spina de sepe dies speculationis tuae visitatio tua venit nunc erit vastitas eorum</Verse>
+        <Verse osisId="Mic.7.5" sblId="Mic 7:5" name="Micheas 7:5" shortName="Mi 7:5" orderIndex="4">nolite credere amico et nolite confidere in duce ab ea quae dormit in sinu tuo custodi claustra oris tui</Verse>
+        <Verse osisId="Mic.7.6" sblId="Mic 7:6" name="Micheas 7:6" shortName="Mi 7:6" orderIndex="5">quia filius contumeliam facit patri filia consurgit adversus matrem suam nurus contra socrum suam inimici hominis domestici eius</Verse>
+        <Verse osisId="Mic.7.7" sblId="Mic 7:7" name="Micheas 7:7" shortName="Mi 7:7" orderIndex="6">ego autem ad Dominum aspiciam expectabo Deum salvatorem meum audiet me Deus meus</Verse>
+        <Verse osisId="Mic.7.8" sblId="Mic 7:8" name="Micheas 7:8" shortName="Mi 7:8" orderIndex="7">ne laeteris inimica mea super me quia cecidi consurgam cum sedero in tenebris Dominus lux mea est</Verse>
+        <Verse osisId="Mic.7.9" sblId="Mic 7:9" name="Micheas 7:9" shortName="Mi 7:9" orderIndex="8">iram Domini portabo quoniam peccavi ei donec iudicet causam meam et faciat iudicium meum educet me in lucem videbo in iustitiam eius</Verse>
+        <Verse osisId="Mic.7.10" sblId="Mic 7:10" name="Micheas 7:10" shortName="Mi 7:10" orderIndex="9">et aspiciet inimica mea et operietur confusione quae dicit ad me ubi est Dominus Deus tuus oculi mei videbunt in eam nunc erit in conculcationem ut lutum platearum</Verse>
+        <Verse osisId="Mic.7.11" sblId="Mic 7:11" name="Micheas 7:11" shortName="Mi 7:11" orderIndex="10">dies ut aedificentur maceriae tuae in die illa longe fiet lex</Verse>
+        <Verse osisId="Mic.7.12" sblId="Mic 7:12" name="Micheas 7:12" shortName="Mi 7:12" orderIndex="11">in die illa et usque ad te veniet Assur et usque ad civitates munitas et a civitatibus munitis usque ad flumen et ad mare de mari et ad montem de monte</Verse>
+        <Verse osisId="Mic.7.13" sblId="Mic 7:13" name="Micheas 7:13" shortName="Mi 7:13" orderIndex="12">et erit terra in desolationem propter habitatores suos et propter fructum cogitationum eorum</Verse>
+        <Verse osisId="Mic.7.14" sblId="Mic 7:14" name="Micheas 7:14" shortName="Mi 7:14" orderIndex="13">pasce populum tuum in virga tua gregem hereditatis tuae habitantes solos in saltu in medio Carmeli pascentur Basan et Galaad iuxta dies antiquos</Verse>
+        <Verse osisId="Mic.7.15" sblId="Mic 7:15" name="Micheas 7:15" shortName="Mi 7:15" orderIndex="14">secundum dies egressionis tuae de terra Aegypti ostendam ei mirabilia</Verse>
+        <Verse osisId="Mic.7.16" sblId="Mic 7:16" name="Micheas 7:16" shortName="Mi 7:16" orderIndex="15">videbunt gentes et confundentur super omni fortitudine sua ponent manus super os aures eorum surdae erunt</Verse>
+        <Verse osisId="Mic.7.17" sblId="Mic 7:17" name="Micheas 7:17" shortName="Mi 7:17" orderIndex="16">lingent pulverem sicut serpens velut reptilia terrae proturbabuntur de aedibus suis Dominum Deum nostrum desiderabunt et timebunt te</Verse>
+        <Verse osisId="Mic.7.18" sblId="Mic 7:18" name="Micheas 7:18" shortName="Mi 7:18" orderIndex="17">quis Deus similis tui qui aufers iniquitatem et transis peccatum reliquiarum hereditatis tuae non inmittet ultra furorem suum quoniam volens misericordiam est</Verse>
+        <Verse osisId="Mic.7.19" sblId="Mic 7:19" name="Micheas 7:19" shortName="Mi 7:19" orderIndex="18">revertetur et miserebitur nostri deponet iniquitates nostras et proiciet in profundum maris omnia peccata nostra</Verse>
+        <Verse osisId="Mic.7.20" sblId="Mic 7:20" name="Micheas 7:20" shortName="Mi 7:20" orderIndex="19">dabis veritatem Iacob misericordiam Abraham quae iurasti patribus nostris a diebus antiquis</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

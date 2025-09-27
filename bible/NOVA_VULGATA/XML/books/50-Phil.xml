@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="Phil" sblId="Phil" name="Epistula ad Philippenses" shortName="Phil" orderIndex="49" chaptersCount="4" versesCount="104">
+  <chapters>
+    <Chapter osisId="Phil.1" sblId="Phil 1" name="Epistula ad Philippenses 1" shortName="Phil 1" orderIndex="0" versesCount="30">
+      <verses>
+        <Verse osisId="Phil.1.1" sblId="Phil 1:1" name="Epistula ad Philippenses 1:1" shortName="Phil 1:1" orderIndex="0">Paulus et Timotheus servi Christi Iesu omnibus sanctis in Christo Iesu, qui sunt Philippis, cum episcopis et diaconis:</Verse>
+        <Verse osisId="Phil.1.2" sblId="Phil 1:2" name="Epistula ad Philippenses 1:2" shortName="Phil 1:2" orderIndex="1">gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.</Verse>
+        <Verse osisId="Phil.1.3" sblId="Phil 1:3" name="Epistula ad Philippenses 1:3" shortName="Phil 1:3" orderIndex="2">Gratias ago Deo meo in omni memoria vestri,</Verse>
+        <Verse osisId="Phil.1.4" sblId="Phil 1:4" name="Epistula ad Philippenses 1:4" shortName="Phil 1:4" orderIndex="3">semper in omni oratione mea pro omnibus vobis cum gaudio deprecationem faciens</Verse>
+        <Verse osisId="Phil.1.5" sblId="Phil 1:5" name="Epistula ad Philippenses 1:5" shortName="Phil 1:5" orderIndex="4">super communione vestra in evangelio a prima die usque nunc;</Verse>
+        <Verse osisId="Phil.1.6" sblId="Phil 1:6" name="Epistula ad Philippenses 1:6" shortName="Phil 1:6" orderIndex="5">confidens hoc ipsum, quia, qui coepit in vobis opus bonum, perficiet usque in diem Christi Iesu;</Verse>
+        <Verse osisId="Phil.1.7" sblId="Phil 1:7" name="Epistula ad Philippenses 1:7" shortName="Phil 1:7" orderIndex="6">sicut est mihi iustum hoc sentire pro omnibus vobis, eo quod habeam in corde vos et in vinculis meis et in defensione et confirmatione evangelii socios gratiae meae omnes vos esse.</Verse>
+        <Verse osisId="Phil.1.8" sblId="Phil 1:8" name="Epistula ad Philippenses 1:8" shortName="Phil 1:8" orderIndex="7">Testis enim mihi Deus, quomodo cupiam omnes vos in visceribus Christi Iesu.</Verse>
+        <Verse osisId="Phil.1.9" sblId="Phil 1:9" name="Epistula ad Philippenses 1:9" shortName="Phil 1:9" orderIndex="8">Et hoc oro, ut caritas vestra magis ac magis abundet in scientia et omni sensu,</Verse>
+        <Verse osisId="Phil.1.10" sblId="Phil 1:10" name="Epistula ad Philippenses 1:10" shortName="Phil 1:10" orderIndex="9">ut probetis potiora, ut sitis sinceri et sine offensa in diem Christi,</Verse>
+        <Verse osisId="Phil.1.11" sblId="Phil 1:11" name="Epistula ad Philippenses 1:11" shortName="Phil 1:11" orderIndex="10">repleti fructu iustitiae, qui est per Iesum Christum, in gloriam et laudem Dei.</Verse>
+        <Verse osisId="Phil.1.12" sblId="Phil 1:12" name="Epistula ad Philippenses 1:12" shortName="Phil 1:12" orderIndex="11">Scire autem vos volo, fratres, quia, quae circa me sunt, magis ad profectum venerunt evangelii,</Verse>
+        <Verse osisId="Phil.1.13" sblId="Phil 1:13" name="Epistula ad Philippenses 1:13" shortName="Phil 1:13" orderIndex="12">ita ut vincula mea manifesta fierent in Christo in omni praetorio et in ceteris omnibus;</Verse>
+        <Verse osisId="Phil.1.14" sblId="Phil 1:14" name="Epistula ad Philippenses 1:14" shortName="Phil 1:14" orderIndex="13">et plures e fratribus in Domino confidentes vinculis meis, abundantius audere sine timore verbum loqui.</Verse>
+        <Verse osisId="Phil.1.15" sblId="Phil 1:15" name="Epistula ad Philippenses 1:15" shortName="Phil 1:15" orderIndex="14">Quidam quidem et propter invidiam et contentionem, quidam autem et propter bonam voluntatem Christum praedicant;</Verse>
+        <Verse osisId="Phil.1.16" sblId="Phil 1:16" name="Epistula ad Philippenses 1:16" shortName="Phil 1:16" orderIndex="15">hi quidem ex caritate scientes quoniam in defensionem evangelii positus sum,</Verse>
+        <Verse osisId="Phil.1.17" sblId="Phil 1:17" name="Epistula ad Philippenses 1:17" shortName="Phil 1:17" orderIndex="16">illi autem ex contentione Christum annuntiant, non sincere, existimantes pressuram se suscitare vinculis meis.</Verse>
+        <Verse osisId="Phil.1.18" sblId="Phil 1:18" name="Epistula ad Philippenses 1:18" shortName="Phil 1:18" orderIndex="17">Quid enim? Dum omni modo, sive sub obtentu sive in veritate, Christus annuntietur, et in hoc gaudeo; sed et gaudebo,</Verse>
+        <Verse osisId="Phil.1.19" sblId="Phil 1:19" name="Epistula ad Philippenses 1:19" shortName="Phil 1:19" orderIndex="18">scio enim quia hoc mihi proveniet in salutem per vestram orationem et subministrationem Spiritus Iesu Christi,</Verse>
+        <Verse osisId="Phil.1.20" sblId="Phil 1:20" name="Epistula ad Philippenses 1:20" shortName="Phil 1:20" orderIndex="19">secundum exspectationem et spem meam quia in nullo confundar, sed in omni fiducia, sicut semper et nunc, magnificabitur Christus in corpore meo, sive per vitam sive per mortem.</Verse>
+        <Verse osisId="Phil.1.21" sblId="Phil 1:21" name="Epistula ad Philippenses 1:21" shortName="Phil 1:21" orderIndex="20">Mihi enim vivere Christus est et mori lucrum.</Verse>
+        <Verse osisId="Phil.1.22" sblId="Phil 1:22" name="Epistula ad Philippenses 1:22" shortName="Phil 1:22" orderIndex="21">Quod si vivere in carne, hic mihi fructus operis est, et quid eligam ignoro.</Verse>
+        <Verse osisId="Phil.1.23" sblId="Phil 1:23" name="Epistula ad Philippenses 1:23" shortName="Phil 1:23" orderIndex="22">Coartor autem ex his duobus: desiderium habens dissolvi et cum Christo esse, multo magis melius;</Verse>
+        <Verse osisId="Phil.1.24" sblId="Phil 1:24" name="Epistula ad Philippenses 1:24" shortName="Phil 1:24" orderIndex="23">permanere autem in carne, magis necessarium est propter vos.</Verse>
+        <Verse osisId="Phil.1.25" sblId="Phil 1:25" name="Epistula ad Philippenses 1:25" shortName="Phil 1:25" orderIndex="24">Et hoc confidens, scio quia manebo et permanebo omnibus vobis ad profectum vestrum et gaudium fidei,</Verse>
+        <Verse osisId="Phil.1.26" sblId="Phil 1:26" name="Epistula ad Philippenses 1:26" shortName="Phil 1:26" orderIndex="25">ut gloriatio vestra abundet in Christo Iesu in me, per meum adventum iterum ad vos.</Verse>
+        <Verse osisId="Phil.1.27" sblId="Phil 1:27" name="Epistula ad Philippenses 1:27" shortName="Phil 1:27" orderIndex="26">Tantum digne evangelio Christi conversamini, ut sive cum venero et videro vos, sive absens audiam de vobis quia statis in uno Spiritu unanimes, concertantes fide evangelii;</Verse>
+        <Verse osisId="Phil.1.28" sblId="Phil 1:28" name="Epistula ad Philippenses 1:28" shortName="Phil 1:28" orderIndex="27">et in nullo perterriti ab adversariis, quod est illis indicium perditionis, vobis autem salutis, et hoc a Deo;</Verse>
+        <Verse osisId="Phil.1.29" sblId="Phil 1:29" name="Epistula ad Philippenses 1:29" shortName="Phil 1:29" orderIndex="28">quia vobis hoc donatum est pro Christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini</Verse>
+        <Verse osisId="Phil.1.30" sblId="Phil 1:30" name="Epistula ad Philippenses 1:30" shortName="Phil 1:30" orderIndex="29">idem certamen habentes, quale vidistis in me et nunc auditis in me.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Phil.2" sblId="Phil 2" name="Epistula ad Philippenses 2" shortName="Phil 2" orderIndex="1" versesCount="30">
+      <verses>
+        <Verse osisId="Phil.2.1" sblId="Phil 2:1" name="Epistula ad Philippenses 2:1" shortName="Phil 2:1" orderIndex="0">Si qua ergo consolatio in Christo, si quod solacium cari tatis, si qua communio spiritus, si quae viscera et miserationes,</Verse>
+        <Verse osisId="Phil.2.2" sblId="Phil 2:2" name="Epistula ad Philippenses 2:2" shortName="Phil 2:2" orderIndex="1">implete gaudium meum, ut idem sapiatis, eandem caritatem habentes, unanimes, id ipsum sapientes;</Verse>
+        <Verse osisId="Phil.2.3" sblId="Phil 2:3" name="Epistula ad Philippenses 2:3" shortName="Phil 2:3" orderIndex="2">nihil per contentionem neque per inanem gloriam, sed in humilitate superiores sibi invicem arbitrantes;</Verse>
+        <Verse osisId="Phil.2.4" sblId="Phil 2:4" name="Epistula ad Philippenses 2:4" shortName="Phil 2:4" orderIndex="3">non, quae sua sunt, singuli considerantes, sed et ea, quae aliorum.</Verse>
+        <Verse osisId="Phil.2.5" sblId="Phil 2:5" name="Epistula ad Philippenses 2:5" shortName="Phil 2:5" orderIndex="4">Hoc sentite in vobis, quod et in Christo Iesu:</Verse>
+        <Verse osisId="Phil.2.6" sblId="Phil 2:6" name="Epistula ad Philippenses 2:6" shortName="Phil 2:6" orderIndex="5">qui cum in forma Dei esset,non rapinam arbitratus est esse se aequalem Deo,</Verse>
+        <Verse osisId="Phil.2.7" sblId="Phil 2:7" name="Epistula ad Philippenses 2:7" shortName="Phil 2:7" orderIndex="6">sed semetipsum exinanivit formam servi accipiens,in similitudinem hominum factus;et habitu inventus ut homo,</Verse>
+        <Verse osisId="Phil.2.8" sblId="Phil 2:8" name="Epistula ad Philippenses 2:8" shortName="Phil 2:8" orderIndex="7">humiliavit semetipsum factus oboediens usque ad mortem,mortem autem crucis.</Verse>
+        <Verse osisId="Phil.2.9" sblId="Phil 2:9" name="Epistula ad Philippenses 2:9" shortName="Phil 2:9" orderIndex="8">Propter quod et Deus illum exaltavitet donavit illi nomen,quod est super omne nomen,</Verse>
+        <Verse osisId="Phil.2.10" sblId="Phil 2:10" name="Epistula ad Philippenses 2:10" shortName="Phil 2:10" orderIndex="9">ut in nomine Iesu omne genu flectaturcaelestium et terrestrium et infernorum,</Verse>
+        <Verse osisId="Phil.2.11" sblId="Phil 2:11" name="Epistula ad Philippenses 2:11" shortName="Phil 2:11" orderIndex="10">et omnis lingua confiteatur Dominus Iesus Christus! ",in gloriam Dei Patris.</Verse>
+        <Verse osisId="Phil.2.12" sblId="Phil 2:12" name="Epistula ad Philippenses 2:12" shortName="Phil 2:12" orderIndex="11">Itaque, carissimi mei, sicut semper oboedistis, non ut in praesentia mei tantum sed multo magis nunc in absentia mea, cum metu et tremore vestram salutem operamini;</Verse>
+        <Verse osisId="Phil.2.13" sblId="Phil 2:13" name="Epistula ad Philippenses 2:13" shortName="Phil 2:13" orderIndex="12">Deus est enim, qui operatur in vobis et velle et perficere pro suo beneplacito.</Verse>
+        <Verse osisId="Phil.2.14" sblId="Phil 2:14" name="Epistula ad Philippenses 2:14" shortName="Phil 2:14" orderIndex="13">Omnia facite sine murmurationibus et haesitationibus,</Verse>
+        <Verse osisId="Phil.2.15" sblId="Phil 2:15" name="Epistula ad Philippenses 2:15" shortName="Phil 2:15" orderIndex="14">ut efficiamini sine querela et simplices, filii Dei sine reprehensione in medio generationis pravae et perversae, inter quos lucetis sicut luminaria in mundo,</Verse>
+        <Verse osisId="Phil.2.16" sblId="Phil 2:16" name="Epistula ad Philippenses 2:16" shortName="Phil 2:16" orderIndex="15">verbum vitae firmiter tenentes ad gloriam meam in die Christi, quia non in vacuum cucurri neque in vacuum laboravi.</Verse>
+        <Verse osisId="Phil.2.17" sblId="Phil 2:17" name="Epistula ad Philippenses 2:17" shortName="Phil 2:17" orderIndex="16">Sed et si delibor supra sacrificium et obsequium fidei vestrae, gaudeo et congaudeo omnibus vobis;</Verse>
+        <Verse osisId="Phil.2.18" sblId="Phil 2:18" name="Epistula ad Philippenses 2:18" shortName="Phil 2:18" orderIndex="17">idipsum autem et vos gaudete et congaudete mihi.</Verse>
+        <Verse osisId="Phil.2.19" sblId="Phil 2:19" name="Epistula ad Philippenses 2:19" shortName="Phil 2:19" orderIndex="18">Spero autem in Domino Iesu Timotheum cito me mittere ad vos, ut et ego bono animo sim, cognitis, quae circa vos sunt.</Verse>
+        <Verse osisId="Phil.2.20" sblId="Phil 2:20" name="Epistula ad Philippenses 2:20" shortName="Phil 2:20" orderIndex="19">Neminem enim habeo tam unanimem, qui sincere pro vobis sollicitus sit;</Verse>
+        <Verse osisId="Phil.2.21" sblId="Phil 2:21" name="Epistula ad Philippenses 2:21" shortName="Phil 2:21" orderIndex="20">omnes enim sua quaerunt, non quae sunt Iesu Christi.</Verse>
+        <Verse osisId="Phil.2.22" sblId="Phil 2:22" name="Epistula ad Philippenses 2:22" shortName="Phil 2:22" orderIndex="21">Probationem autem eius cognoscitis, quoniam sicut patri filius mecum servivit in evangelium.</Verse>
+        <Verse osisId="Phil.2.23" sblId="Phil 2:23" name="Epistula ad Philippenses 2:23" shortName="Phil 2:23" orderIndex="22">Hunc igitur spero me mittere, mox ut videro, quae circa me sunt;</Verse>
+        <Verse osisId="Phil.2.24" sblId="Phil 2:24" name="Epistula ad Philippenses 2:24" shortName="Phil 2:24" orderIndex="23">confido autem in Domino, quoniam et ipse cito veniam.</Verse>
+        <Verse osisId="Phil.2.25" sblId="Phil 2:25" name="Epistula ad Philippenses 2:25" shortName="Phil 2:25" orderIndex="24">Necessarium autem existimavi Epaphroditum fratrem et cooperatorem et commilitonem meum, vestrum autem apostolum et ministrum necessitatis meae, mittere ad vos,</Verse>
+        <Verse osisId="Phil.2.26" sblId="Phil 2:26" name="Epistula ad Philippenses 2:26" shortName="Phil 2:26" orderIndex="25">quoniam omnes vos desiderabat et maestus erat, propterea quod audieratis illum infirmatum.</Verse>
+        <Verse osisId="Phil.2.27" sblId="Phil 2:27" name="Epistula ad Philippenses 2:27" shortName="Phil 2:27" orderIndex="26">Nam et infirmatus est usque ad mortem, sed Deus misertus est eius; non solum autem eius, verum et mei, ne tristitiam super tristitiam haberem.</Verse>
+        <Verse osisId="Phil.2.28" sblId="Phil 2:28" name="Epistula ad Philippenses 2:28" shortName="Phil 2:28" orderIndex="27">Festinantius ergo misi illum, ut, viso eo, iterum gaudeatis, et ego sine tristitia sim.</Verse>
+        <Verse osisId="Phil.2.29" sblId="Phil 2:29" name="Epistula ad Philippenses 2:29" shortName="Phil 2:29" orderIndex="28">Excipite itaque illum in Domino cum omni gaudio et eiusmodi cum honore habetote,</Verse>
+        <Verse osisId="Phil.2.30" sblId="Phil 2:30" name="Epistula ad Philippenses 2:30" shortName="Phil 2:30" orderIndex="29">quoniam propter opus Christi usque ad mortem accessit in interitum tradens animam suam, ut suppleret id, quod vobis deerat ministerii erga me.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Phil.3" sblId="Phil 3" name="Epistula ad Philippenses 3" shortName="Phil 3" orderIndex="2" versesCount="21">
+      <verses>
+        <Verse osisId="Phil.3.1" sblId="Phil 3:1" name="Epistula ad Philippenses 3:1" shortName="Phil 3:1" orderIndex="0">De cetero, fratres mei, gaudete in Domino. Eadem vobis scribe re mihi quidem non pigrum, vobis autem securum.</Verse>
+        <Verse osisId="Phil.3.2" sblId="Phil 3:2" name="Epistula ad Philippenses 3:2" shortName="Phil 3:2" orderIndex="1">Videte canes, videte malos operarios, videte concisionem!</Verse>
+        <Verse osisId="Phil.3.3" sblId="Phil 3:3" name="Epistula ad Philippenses 3:3" shortName="Phil 3:3" orderIndex="2">Nos enim sumus circumcisio, qui Spiritu Dei servimus et gloriamur in Christo Iesu et non in carne fiduciam habentes,</Verse>
+        <Verse osisId="Phil.3.4" sblId="Phil 3:4" name="Epistula ad Philippenses 3:4" shortName="Phil 3:4" orderIndex="3">quamquam ego habeam confidentiam et in carne. Si quis alius videtur confidere in carne, ego magis:</Verse>
+        <Verse osisId="Phil.3.5" sblId="Phil 3:5" name="Epistula ad Philippenses 3:5" shortName="Phil 3:5" orderIndex="4">circumcisus octava die, ex genere Israel, de tribu Beniamin, Hebraeus ex Hebraeis, secundum legem pharisaeus,</Verse>
+        <Verse osisId="Phil.3.6" sblId="Phil 3:6" name="Epistula ad Philippenses 3:6" shortName="Phil 3:6" orderIndex="5">secundum aemulationem persequens ecclesiam, secundum iustitiam, quae in lege est, conversatus sine querela.</Verse>
+        <Verse osisId="Phil.3.7" sblId="Phil 3:7" name="Epistula ad Philippenses 3:7" shortName="Phil 3:7" orderIndex="6">Sed, quae mihi erant lucra, haec arbitratus sum propter Christum detrimentum.</Verse>
+        <Verse osisId="Phil.3.8" sblId="Phil 3:8" name="Epistula ad Philippenses 3:8" shortName="Phil 3:8" orderIndex="7">Verumtamen existimo omnia detrimentum esse propter eminentiam scientiae Christi Iesu Domini mei, propter quem omnia detrimentum feci et arbitror ut stercora, ut Christum lucrifaciam</Verse>
+        <Verse osisId="Phil.3.9" sblId="Phil 3:9" name="Epistula ad Philippenses 3:9" shortName="Phil 3:9" orderIndex="8">et inveniar in illo non habens meam iustitiam, quae ex lege est, sed illam, quae per fidem est Christi, quae ex Deo est iustitia in fide;</Verse>
+        <Verse osisId="Phil.3.10" sblId="Phil 3:10" name="Epistula ad Philippenses 3:10" shortName="Phil 3:10" orderIndex="9">ad cognoscendum illum et virtutem resurrectionis eius et communionem passionum illius, conformans me morti eius,</Verse>
+        <Verse osisId="Phil.3.11" sblId="Phil 3:11" name="Epistula ad Philippenses 3:11" shortName="Phil 3:11" orderIndex="10">si quo modo occurram ad resurrectionem, quae est ex mortuis.</Verse>
+        <Verse osisId="Phil.3.12" sblId="Phil 3:12" name="Epistula ad Philippenses 3:12" shortName="Phil 3:12" orderIndex="11">Non quod iam acceperim aut iam perfectus sim; persequor autem si umquam comprehendam, sicut et comprehensus sum a Christo Iesu.</Verse>
+        <Verse osisId="Phil.3.13" sblId="Phil 3:13" name="Epistula ad Philippenses 3:13" shortName="Phil 3:13" orderIndex="12">Fratres, ego me non arbitror comprehendisse; unum autem: quae quidem retro sunt, obliviscens, ad ea vero, quae ante sunt, extendens me</Verse>
+        <Verse osisId="Phil.3.14" sblId="Phil 3:14" name="Epistula ad Philippenses 3:14" shortName="Phil 3:14" orderIndex="13">ad destinatum persequor, ad bravium supernae vocationis Dei in Christo Iesu.</Verse>
+        <Verse osisId="Phil.3.15" sblId="Phil 3:15" name="Epistula ad Philippenses 3:15" shortName="Phil 3:15" orderIndex="14">Quicumque ergo perfecti, hoc sentiamus; et si quid aliter sapitis, et hoc vobis Deus revelabit;</Verse>
+        <Verse osisId="Phil.3.16" sblId="Phil 3:16" name="Epistula ad Philippenses 3:16" shortName="Phil 3:16" orderIndex="15">verumtamen, ad quod pervenimus, in eodem ambulemus.</Verse>
+        <Verse osisId="Phil.3.17" sblId="Phil 3:17" name="Epistula ad Philippenses 3:17" shortName="Phil 3:17" orderIndex="16">Coimitatores mei estote, fratres, et observate eos, qui ita ambulant, sicut habetis formam nos.</Verse>
+        <Verse osisId="Phil.3.18" sblId="Phil 3:18" name="Epistula ad Philippenses 3:18" shortName="Phil 3:18" orderIndex="17">Multi enim ambulant, quos saepe dicebam vobis, nunc autem et flens dico, inimicos crucis Christi,</Verse>
+        <Verse osisId="Phil.3.19" sblId="Phil 3:19" name="Epistula ad Philippenses 3:19" shortName="Phil 3:19" orderIndex="18">quorum finis interitus, quorum deus venter et gloria in confusione ipsorum, qui terrena sapiunt.</Verse>
+        <Verse osisId="Phil.3.20" sblId="Phil 3:20" name="Epistula ad Philippenses 3:20" shortName="Phil 3:20" orderIndex="19">Noster enim municipatus in caelis est, unde etiam salvatorem exspectamus Dominum Iesum Christum,</Verse>
+        <Verse osisId="Phil.3.21" sblId="Phil 3:21" name="Epistula ad Philippenses 3:21" shortName="Phil 3:21" orderIndex="20">qui transfigurabit corpus humilitatis nostrae, ut illud conforme faciat corpori gloriae suae secundum operationem, qua possit etiam subicere sibi omnia.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Phil.4" sblId="Phil 4" name="Epistula ad Philippenses 4" shortName="Phil 4" orderIndex="3" versesCount="23">
+      <verses>
+        <Verse osisId="Phil.4.1" sblId="Phil 4:1" name="Epistula ad Philippenses 4:1" shortName="Phil 4:1" orderIndex="0">Itaque, fratres mei carissimi et desideratissimi, gaudium et co rona mea, sic state in Domino, carissimi!</Verse>
+        <Verse osisId="Phil.4.2" sblId="Phil 4:2" name="Epistula ad Philippenses 4:2" shortName="Phil 4:2" orderIndex="1">Evodiam rogo et Syntychen deprecor idipsum sapere in Domino.</Verse>
+        <Verse osisId="Phil.4.3" sblId="Phil 4:3" name="Epistula ad Philippenses 4:3" shortName="Phil 4:3" orderIndex="2">Etiam rogo et te, germane compar, adiuva illas, quae mecum concertaverunt in evangelio cum Clemente et ceteris adiutoribus meis, quorum nomina sunt in libro vitae.</Verse>
+        <Verse osisId="Phil.4.4" sblId="Phil 4:4" name="Epistula ad Philippenses 4:4" shortName="Phil 4:4" orderIndex="3">Gaudete in Domino semper. Iterum dico: Gaudete!</Verse>
+        <Verse osisId="Phil.4.5" sblId="Phil 4:5" name="Epistula ad Philippenses 4:5" shortName="Phil 4:5" orderIndex="4">Modestia vestra nota sit omnibus hominibus. Dominus prope.</Verse>
+        <Verse osisId="Phil.4.6" sblId="Phil 4:6" name="Epistula ad Philippenses 4:6" shortName="Phil 4:6" orderIndex="5">Nihil solliciti sitis, sed in omnibus oratione et obsecratione cum gratiarum actione petitiones vestrae innotescant apud Deum.</Verse>
+        <Verse osisId="Phil.4.7" sblId="Phil 4:7" name="Epistula ad Philippenses 4:7" shortName="Phil 4:7" orderIndex="6">Et pax Dei, quae exsuperat omnem sensum, custodiet corda vestra et intellegentias vestras in Christo Iesu.</Verse>
+        <Verse osisId="Phil.4.8" sblId="Phil 4:8" name="Epistula ad Philippenses 4:8" shortName="Phil 4:8" orderIndex="7">De cetero, fratres, quaecumque sunt vera, quaecumque pudica, quaecumque iusta, quaecumque casta, quaecumque amabilia, quaecumque bonae famae, si qua virtus et si qua laus, haec cogitate;</Verse>
+        <Verse osisId="Phil.4.9" sblId="Phil 4:9" name="Epistula ad Philippenses 4:9" shortName="Phil 4:9" orderIndex="8">quae et didicistis et accepistis et audistis et vidistis in me, haec agite; et Deus pacis erit vobiscum.</Verse>
+        <Verse osisId="Phil.4.10" sblId="Phil 4:10" name="Epistula ad Philippenses 4:10" shortName="Phil 4:10" orderIndex="9">Gavisus sum autem in Domino vehementer, quoniam tandem aliquando refloruistis pro me sentire, sicut et sentiebatis, opportunitate autem carebatis.</Verse>
+        <Verse osisId="Phil.4.11" sblId="Phil 4:11" name="Epistula ad Philippenses 4:11" shortName="Phil 4:11" orderIndex="10">Non quasi propter penuriam dico, ego enim didici, in quibus sum, sufficiens esse.</Verse>
+        <Verse osisId="Phil.4.12" sblId="Phil 4:12" name="Epistula ad Philippenses 4:12" shortName="Phil 4:12" orderIndex="11">Scio et humiliari, scio et abundare; ubique et in omnibus institutus sum et satiari et esurire et abundare et penuriam pati.</Verse>
+        <Verse osisId="Phil.4.13" sblId="Phil 4:13" name="Epistula ad Philippenses 4:13" shortName="Phil 4:13" orderIndex="12">Omnia possum in eo, qui me confortat.</Verse>
+        <Verse osisId="Phil.4.14" sblId="Phil 4:14" name="Epistula ad Philippenses 4:14" shortName="Phil 4:14" orderIndex="13">Verumtamen bene fecistis communicantes tribulationi meae.</Verse>
+        <Verse osisId="Phil.4.15" sblId="Phil 4:15" name="Epistula ad Philippenses 4:15" shortName="Phil 4:15" orderIndex="14">Scitis autem et vos, Philippenses, quod in principio evangelii, quando profectus sum a Macedonia, nulla mihi ecclesia communicavit in ratione dati et accepti, nisi vos soli;</Verse>
+        <Verse osisId="Phil.4.16" sblId="Phil 4:16" name="Epistula ad Philippenses 4:16" shortName="Phil 4:16" orderIndex="15">quia et Thessalonicam et semel et bis in usum mihi misistis.</Verse>
+        <Verse osisId="Phil.4.17" sblId="Phil 4:17" name="Epistula ad Philippenses 4:17" shortName="Phil 4:17" orderIndex="16">Non quia quaero datum, sed requiro fructum, qui abundet in rationem vestram.</Verse>
+        <Verse osisId="Phil.4.18" sblId="Phil 4:18" name="Epistula ad Philippenses 4:18" shortName="Phil 4:18" orderIndex="17">Accepi autem omnia et abundo; repletus sum acceptis ab Epaphrodito, quae misistis odorem suavitatis, hostiam acceptam, placentem Deo.</Verse>
+        <Verse osisId="Phil.4.19" sblId="Phil 4:19" name="Epistula ad Philippenses 4:19" shortName="Phil 4:19" orderIndex="18">Deus autem meus implebit omne desiderium vestrum secundum divitias suas in gloria in Christo Iesu.</Verse>
+        <Verse osisId="Phil.4.20" sblId="Phil 4:20" name="Epistula ad Philippenses 4:20" shortName="Phil 4:20" orderIndex="19">Deo autem et Patri nostro gloria in saecula saeculorum. Amen.</Verse>
+        <Verse osisId="Phil.4.21" sblId="Phil 4:21" name="Epistula ad Philippenses 4:21" shortName="Phil 4:21" orderIndex="20">Salutate omnem sanctum in Christo Iesu. Salutant vos, qui mecum sunt, fratres.</Verse>
+        <Verse osisId="Phil.4.22" sblId="Phil 4:22" name="Epistula ad Philippenses 4:22" shortName="Phil 4:22" orderIndex="21">Salutant vos omnes sancti, maxime autem, qui de Caesaris domo sunt.</Verse>
+        <Verse osisId="Phil.4.23" sblId="Phil 4:23" name="Epistula ad Philippenses 4:23" shortName="Phil 4:23" orderIndex="22">Gratia Domini Iesu Christi cum spiritu vestro. Amen.</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

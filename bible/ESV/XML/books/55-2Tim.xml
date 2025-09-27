@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="2Tim" sblId="2Tim" name="2 Timothy" shortName="2 Tim" orderIndex="54" chaptersCount="4" versesCount="83">
+  <chapters>
+    <Chapter osisId="2Tim.1" sblId="2Tim 1" name="2 Timothy 1" shortName="2 Tim 1" orderIndex="0" versesCount="18">
+      <verses>
+        <Verse osisId="2Tim.1.1" sblId="2Tim 1:1" name="2 Timothy 1:1" shortName="2 Tim 1:1" orderIndex="0">Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,</Verse>
+        <Verse osisId="2Tim.1.2" sblId="2Tim 1:2" name="2 Timothy 1:2" shortName="2 Tim 1:2" orderIndex="1">To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.</Verse>
+        <Verse osisId="2Tim.1.3" sblId="2Tim 1:3" name="2 Timothy 1:3" shortName="2 Tim 1:3" orderIndex="2">I thank God whom I serve, as did my ancestors, with a clear conscience, as I remember you constantly in my prayers night and day.</Verse>
+        <Verse osisId="2Tim.1.4" sblId="2Tim 1:4" name="2 Timothy 1:4" shortName="2 Tim 1:4" orderIndex="3">As I remember your tears, I long to see you, that I may be filled with joy.</Verse>
+        <Verse osisId="2Tim.1.5" sblId="2Tim 1:5" name="2 Timothy 1:5" shortName="2 Tim 1:5" orderIndex="4">I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well.</Verse>
+        <Verse osisId="2Tim.1.6" sblId="2Tim 1:6" name="2 Timothy 1:6" shortName="2 Tim 1:6" orderIndex="5">For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands,</Verse>
+        <Verse osisId="2Tim.1.7" sblId="2Tim 1:7" name="2 Timothy 1:7" shortName="2 Tim 1:7" orderIndex="6">for God gave us a spirit not of fear but of power and love and self-control.</Verse>
+        <Verse osisId="2Tim.1.8" sblId="2Tim 1:8" name="2 Timothy 1:8" shortName="2 Tim 1:8" orderIndex="7">Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the gospel by the power of God,</Verse>
+        <Verse osisId="2Tim.1.9" sblId="2Tim 1:9" name="2 Timothy 1:9" shortName="2 Tim 1:9" orderIndex="8">who saved us and called us to a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began,</Verse>
+        <Verse osisId="2Tim.1.10" sblId="2Tim 1:10" name="2 Timothy 1:10" shortName="2 Tim 1:10" orderIndex="9">and which now has been manifested through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel,</Verse>
+        <Verse osisId="2Tim.1.11" sblId="2Tim 1:11" name="2 Timothy 1:11" shortName="2 Tim 1:11" orderIndex="10">for which I was appointed a preacher and apostle and teacher,</Verse>
+        <Verse osisId="2Tim.1.12" sblId="2Tim 1:12" name="2 Timothy 1:12" shortName="2 Tim 1:12" orderIndex="11">which is why I suffer as I do. But I am not ashamed, for I know whom I have believed, and I am convinced that he is able to guard until that Day what has been entrusted to me.</Verse>
+        <Verse osisId="2Tim.1.13" sblId="2Tim 1:13" name="2 Timothy 1:13" shortName="2 Tim 1:13" orderIndex="12">Follow the pattern of the sound words that you have heard from me, in the faith and love that are in Christ Jesus.</Verse>
+        <Verse osisId="2Tim.1.14" sblId="2Tim 1:14" name="2 Timothy 1:14" shortName="2 Tim 1:14" orderIndex="13">By the Holy Spirit who dwells within us, guard the good deposit entrusted to you.</Verse>
+        <Verse osisId="2Tim.1.15" sblId="2Tim 1:15" name="2 Timothy 1:15" shortName="2 Tim 1:15" orderIndex="14">You are aware that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes.</Verse>
+        <Verse osisId="2Tim.1.16" sblId="2Tim 1:16" name="2 Timothy 1:16" shortName="2 Tim 1:16" orderIndex="15">May the Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains,</Verse>
+        <Verse osisId="2Tim.1.17" sblId="2Tim 1:17" name="2 Timothy 1:17" shortName="2 Tim 1:17" orderIndex="16">but when he arrived in Rome he searched for me earnestly and found me-</Verse>
+        <Verse osisId="2Tim.1.18" sblId="2Tim 1:18" name="2 Timothy 1:18" shortName="2 Tim 1:18" orderIndex="17">may the Lord grant him to find mercy from the Lord on that Day!- and you well know all the service he rendered at Ephesus.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="2Tim.2" sblId="2Tim 2" name="2 Timothy 2" shortName="2 Tim 2" orderIndex="1" versesCount="26">
+      <verses>
+        <Verse osisId="2Tim.2.1" sblId="2Tim 2:1" name="2 Timothy 2:1" shortName="2 Tim 2:1" orderIndex="0">You then, my child, be strengthened by the grace that is in Christ Jesus,</Verse>
+        <Verse osisId="2Tim.2.2" sblId="2Tim 2:2" name="2 Timothy 2:2" shortName="2 Tim 2:2" orderIndex="1">and what you have heard from me in the presence of many witnesses entrust to faithful men who will be able to teach others also.</Verse>
+        <Verse osisId="2Tim.2.3" sblId="2Tim 2:3" name="2 Timothy 2:3" shortName="2 Tim 2:3" orderIndex="2">Share in suffering as a good soldier of Christ Jesus.</Verse>
+        <Verse osisId="2Tim.2.4" sblId="2Tim 2:4" name="2 Timothy 2:4" shortName="2 Tim 2:4" orderIndex="3">No soldier gets entangled in civilian pursuits, since his aim is to please the one who enlisted him.</Verse>
+        <Verse osisId="2Tim.2.5" sblId="2Tim 2:5" name="2 Timothy 2:5" shortName="2 Tim 2:5" orderIndex="4">An athlete is not crowned unless he competes according to the rules.</Verse>
+        <Verse osisId="2Tim.2.6" sblId="2Tim 2:6" name="2 Timothy 2:6" shortName="2 Tim 2:6" orderIndex="5">It is the hard-working farmer who ought to have the first share of the crops.</Verse>
+        <Verse osisId="2Tim.2.7" sblId="2Tim 2:7" name="2 Timothy 2:7" shortName="2 Tim 2:7" orderIndex="6">Think over what I say, for the Lord will give you understanding in everything.</Verse>
+        <Verse osisId="2Tim.2.8" sblId="2Tim 2:8" name="2 Timothy 2:8" shortName="2 Tim 2:8" orderIndex="7">Remember Jesus Christ, risen from the dead, the offspring of David, as preached in my gospel,</Verse>
+        <Verse osisId="2Tim.2.9" sblId="2Tim 2:9" name="2 Timothy 2:9" shortName="2 Tim 2:9" orderIndex="8">for which I am suffering, bound with chains as a criminal. But the word of God is not bound!</Verse>
+        <Verse osisId="2Tim.2.10" sblId="2Tim 2:10" name="2 Timothy 2:10" shortName="2 Tim 2:10" orderIndex="9">Therefore I endure everything for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus with eternal glory.</Verse>
+        <Verse osisId="2Tim.2.11" sblId="2Tim 2:11" name="2 Timothy 2:11" shortName="2 Tim 2:11" orderIndex="10">The saying is trustworthy, for: If we have died with him, we will also live with him;</Verse>
+        <Verse osisId="2Tim.2.12" sblId="2Tim 2:12" name="2 Timothy 2:12" shortName="2 Tim 2:12" orderIndex="11">if we endure, we will also reign with him; if we deny him, he also will deny us;</Verse>
+        <Verse osisId="2Tim.2.13" sblId="2Tim 2:13" name="2 Timothy 2:13" shortName="2 Tim 2:13" orderIndex="12">if we are faithless, he remains faithful- for he cannot deny himself.</Verse>
+        <Verse osisId="2Tim.2.14" sblId="2Tim 2:14" name="2 Timothy 2:14" shortName="2 Tim 2:14" orderIndex="13">Remind them of these things, and charge them before God not to quarrel about words, which does no good, but only ruins the hearers.</Verse>
+        <Verse osisId="2Tim.2.15" sblId="2Tim 2:15" name="2 Timothy 2:15" shortName="2 Tim 2:15" orderIndex="14">Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.</Verse>
+        <Verse osisId="2Tim.2.16" sblId="2Tim 2:16" name="2 Timothy 2:16" shortName="2 Tim 2:16" orderIndex="15">But avoid irreverent babble, for it will lead people into more and more ungodliness,</Verse>
+        <Verse osisId="2Tim.2.17" sblId="2Tim 2:17" name="2 Timothy 2:17" shortName="2 Tim 2:17" orderIndex="16">and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,</Verse>
+        <Verse osisId="2Tim.2.18" sblId="2Tim 2:18" name="2 Timothy 2:18" shortName="2 Tim 2:18" orderIndex="17">who have swerved from the truth, saying that the resurrection has already happened. They are upsetting the faith of some.</Verse>
+        <Verse osisId="2Tim.2.19" sblId="2Tim 2:19" name="2 Timothy 2:19" shortName="2 Tim 2:19" orderIndex="18">But God's firm foundation stands, bearing this seal: "The Lord knows those who are his," and, "Let everyone who names the name of the Lord depart from iniquity."</Verse>
+        <Verse osisId="2Tim.2.20" sblId="2Tim 2:20" name="2 Timothy 2:20" shortName="2 Tim 2:20" orderIndex="19">Now in a great house there are not only vessels of gold and silver but also of wood and clay, some for honorable use, some for dishonorable.</Verse>
+        <Verse osisId="2Tim.2.21" sblId="2Tim 2:21" name="2 Timothy 2:21" shortName="2 Tim 2:21" orderIndex="20">Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.</Verse>
+        <Verse osisId="2Tim.2.22" sblId="2Tim 2:22" name="2 Timothy 2:22" shortName="2 Tim 2:22" orderIndex="21">So flee youthful passions and pursue righteousness, faith, love, and peace, along with those who call on the Lord from a pure heart.</Verse>
+        <Verse osisId="2Tim.2.23" sblId="2Tim 2:23" name="2 Timothy 2:23" shortName="2 Tim 2:23" orderIndex="22">Have nothing to do with foolish, ignorant controversies; you know that they breed quarrels.</Verse>
+        <Verse osisId="2Tim.2.24" sblId="2Tim 2:24" name="2 Timothy 2:24" shortName="2 Tim 2:24" orderIndex="23">And the Lord's servant must not be quarrelsome but kind to everyone, able to teach, patiently enduring evil,</Verse>
+        <Verse osisId="2Tim.2.25" sblId="2Tim 2:25" name="2 Timothy 2:25" shortName="2 Tim 2:25" orderIndex="24">correcting his opponents with gentleness. God may perhaps grant them repentance leading to a knowledge of the truth,</Verse>
+        <Verse osisId="2Tim.2.26" sblId="2Tim 2:26" name="2 Timothy 2:26" shortName="2 Tim 2:26" orderIndex="25">and they may escape from the snare of the devil, after being captured by him to do his will.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="2Tim.3" sblId="2Tim 3" name="2 Timothy 3" shortName="2 Tim 3" orderIndex="2" versesCount="17">
+      <verses>
+        <Verse osisId="2Tim.3.1" sblId="2Tim 3:1" name="2 Timothy 3:1" shortName="2 Tim 3:1" orderIndex="0">But understand this, that in the last days there will come times of difficulty.</Verse>
+        <Verse osisId="2Tim.3.2" sblId="2Tim 3:2" name="2 Timothy 3:2" shortName="2 Tim 3:2" orderIndex="1">For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy,</Verse>
+        <Verse osisId="2Tim.3.3" sblId="2Tim 3:3" name="2 Timothy 3:3" shortName="2 Tim 3:3" orderIndex="2">heartless, unappeasable, slanderous, without self-control, brutal, not loving good,</Verse>
+        <Verse osisId="2Tim.3.4" sblId="2Tim 3:4" name="2 Timothy 3:4" shortName="2 Tim 3:4" orderIndex="3">treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God,</Verse>
+        <Verse osisId="2Tim.3.5" sblId="2Tim 3:5" name="2 Timothy 3:5" shortName="2 Tim 3:5" orderIndex="4">having the appearance of godliness, but denying its power. Avoid such people.</Verse>
+        <Verse osisId="2Tim.3.6" sblId="2Tim 3:6" name="2 Timothy 3:6" shortName="2 Tim 3:6" orderIndex="5">For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions,</Verse>
+        <Verse osisId="2Tim.3.7" sblId="2Tim 3:7" name="2 Timothy 3:7" shortName="2 Tim 3:7" orderIndex="6">always learning and never able to arrive at a knowledge of the truth.</Verse>
+        <Verse osisId="2Tim.3.8" sblId="2Tim 3:8" name="2 Timothy 3:8" shortName="2 Tim 3:8" orderIndex="7">Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men corrupted in mind and disqualified regarding the faith.</Verse>
+        <Verse osisId="2Tim.3.9" sblId="2Tim 3:9" name="2 Timothy 3:9" shortName="2 Tim 3:9" orderIndex="8">But they will not get very far, for their folly will be plain to all, as was that of those two men.</Verse>
+        <Verse osisId="2Tim.3.10" sblId="2Tim 3:10" name="2 Timothy 3:10" shortName="2 Tim 3:10" orderIndex="9">You, however, have followed my teaching, my conduct, my aim in life, my faith, my patience, my love, my steadfastness,</Verse>
+        <Verse osisId="2Tim.3.11" sblId="2Tim 3:11" name="2 Timothy 3:11" shortName="2 Tim 3:11" orderIndex="10">my persecutions and sufferings that happened to me at Antioch, at Iconium, and at Lystra- which persecutions I endured; yet from them all the Lord rescued me.</Verse>
+        <Verse osisId="2Tim.3.12" sblId="2Tim 3:12" name="2 Timothy 3:12" shortName="2 Tim 3:12" orderIndex="11">Indeed, all who desire to live a godly life in Christ Jesus will be persecuted,</Verse>
+        <Verse osisId="2Tim.3.13" sblId="2Tim 3:13" name="2 Timothy 3:13" shortName="2 Tim 3:13" orderIndex="12">while evil people and impostors will go on from bad to worse, deceiving and being deceived.</Verse>
+        <Verse osisId="2Tim.3.14" sblId="2Tim 3:14" name="2 Timothy 3:14" shortName="2 Tim 3:14" orderIndex="13">But as for you, continue in what you have learned and have firmly believed, knowing from whom you learned it</Verse>
+        <Verse osisId="2Tim.3.15" sblId="2Tim 3:15" name="2 Timothy 3:15" shortName="2 Tim 3:15" orderIndex="14">and how from childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus.</Verse>
+        <Verse osisId="2Tim.3.16" sblId="2Tim 3:16" name="2 Timothy 3:16" shortName="2 Tim 3:16" orderIndex="15">All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness,</Verse>
+        <Verse osisId="2Tim.3.17" sblId="2Tim 3:17" name="2 Timothy 3:17" shortName="2 Tim 3:17" orderIndex="16">that the man of God may be competent, equipped for every good work.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="2Tim.4" sblId="2Tim 4" name="2 Timothy 4" shortName="2 Tim 4" orderIndex="3" versesCount="22">
+      <verses>
+        <Verse osisId="2Tim.4.1" sblId="2Tim 4:1" name="2 Timothy 4:1" shortName="2 Tim 4:1" orderIndex="0">I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom:</Verse>
+        <Verse osisId="2Tim.4.2" sblId="2Tim 4:2" name="2 Timothy 4:2" shortName="2 Tim 4:2" orderIndex="1">preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching.</Verse>
+        <Verse osisId="2Tim.4.3" sblId="2Tim 4:3" name="2 Timothy 4:3" shortName="2 Tim 4:3" orderIndex="2">For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions,</Verse>
+        <Verse osisId="2Tim.4.4" sblId="2Tim 4:4" name="2 Timothy 4:4" shortName="2 Tim 4:4" orderIndex="3">and will turn away from listening to the truth and wander off into myths.</Verse>
+        <Verse osisId="2Tim.4.5" sblId="2Tim 4:5" name="2 Timothy 4:5" shortName="2 Tim 4:5" orderIndex="4">As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.</Verse>
+        <Verse osisId="2Tim.4.6" sblId="2Tim 4:6" name="2 Timothy 4:6" shortName="2 Tim 4:6" orderIndex="5">For I am already being poured out as a drink offering, and the time of my departure has come.</Verse>
+        <Verse osisId="2Tim.4.7" sblId="2Tim 4:7" name="2 Timothy 4:7" shortName="2 Tim 4:7" orderIndex="6">I have fought the good fight, I have finished the race, I have kept the faith.</Verse>
+        <Verse osisId="2Tim.4.8" sblId="2Tim 4:8" name="2 Timothy 4:8" shortName="2 Tim 4:8" orderIndex="7">Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on that Day, and not only to me but also to all who have loved his appearing.</Verse>
+        <Verse osisId="2Tim.4.9" sblId="2Tim 4:9" name="2 Timothy 4:9" shortName="2 Tim 4:9" orderIndex="8">Do your best to come to me soon.</Verse>
+        <Verse osisId="2Tim.4.10" sblId="2Tim 4:10" name="2 Timothy 4:10" shortName="2 Tim 4:10" orderIndex="9">For Demas, in love with this present world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, Titus to Dalmatia.</Verse>
+        <Verse osisId="2Tim.4.11" sblId="2Tim 4:11" name="2 Timothy 4:11" shortName="2 Tim 4:11" orderIndex="10">Luke alone is with me. Get Mark and bring him with you, for he is very useful to me for ministry.</Verse>
+        <Verse osisId="2Tim.4.12" sblId="2Tim 4:12" name="2 Timothy 4:12" shortName="2 Tim 4:12" orderIndex="11">Tychicus I have sent to Ephesus.</Verse>
+        <Verse osisId="2Tim.4.13" sblId="2Tim 4:13" name="2 Timothy 4:13" shortName="2 Tim 4:13" orderIndex="12">When you come, bring the cloak that I left with Carpus at Troas, also the books, and above all the parchments.</Verse>
+        <Verse osisId="2Tim.4.14" sblId="2Tim 4:14" name="2 Timothy 4:14" shortName="2 Tim 4:14" orderIndex="13">Alexander the coppersmith did me great harm; the Lord will repay him according to his deeds.</Verse>
+        <Verse osisId="2Tim.4.15" sblId="2Tim 4:15" name="2 Timothy 4:15" shortName="2 Tim 4:15" orderIndex="14">Beware of him yourself, for he strongly opposed our message.</Verse>
+        <Verse osisId="2Tim.4.16" sblId="2Tim 4:16" name="2 Timothy 4:16" shortName="2 Tim 4:16" orderIndex="15">At my first defense no one came to stand by me, but all deserted me. May it not be charged against them!</Verse>
+        <Verse osisId="2Tim.4.17" sblId="2Tim 4:17" name="2 Timothy 4:17" shortName="2 Tim 4:17" orderIndex="16">But the Lord stood by me and strengthened me, so that through me the message might be fully proclaimed and all the Gentiles might hear it. So I was rescued from the lion's mouth.</Verse>
+        <Verse osisId="2Tim.4.18" sblId="2Tim 4:18" name="2 Timothy 4:18" shortName="2 Tim 4:18" orderIndex="17">The Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom. To him be the glory forever and ever. Amen.</Verse>
+        <Verse osisId="2Tim.4.19" sblId="2Tim 4:19" name="2 Timothy 4:19" shortName="2 Tim 4:19" orderIndex="18">Greet Prisca and Aquila, and the household of Onesiphorus.</Verse>
+        <Verse osisId="2Tim.4.20" sblId="2Tim 4:20" name="2 Timothy 4:20" shortName="2 Tim 4:20" orderIndex="19">Erastus remained at Corinth, and I left Trophimus, who was ill, at Miletus.</Verse>
+        <Verse osisId="2Tim.4.21" sblId="2Tim 4:21" name="2 Timothy 4:21" shortName="2 Tim 4:21" orderIndex="20">Do your best to come before winter. Eubulus sends greetings to you, as do Pudens and Linus and Claudia and all the brothers.</Verse>
+        <Verse osisId="2Tim.4.22" sblId="2Tim 4:22" name="2 Timothy 4:22" shortName="2 Tim 4:22" orderIndex="21">The Lord be with your spirit. Grace be with you.</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

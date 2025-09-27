@@ -1,0 +1,773 @@
+{
+  "osisId": "1Thess",
+  "sblId": "1Thess",
+  "name": "Epistula I ad Thessalonicenses",
+  "shortName": "1 Th",
+  "orderIndex": 51,
+  "chaptersCount": 5,
+  "versesCount": 89,
+  "chapters": [
+    {
+      "osisId": "1Thess.1",
+      "sblId": "1Thess 1",
+      "name": "Epistula I ad Thessalonicenses 1",
+      "shortName": "1 Th 1",
+      "orderIndex": 0,
+      "versesCount": 10,
+      "verses": [
+        {
+          "osisId": "1Thess.1.1",
+          "sblId": "1Thess 1:1",
+          "name": "Epistula I ad Thessalonicenses 1:1",
+          "shortName": "1 Th 1:1",
+          "text": "Paulus et Silvanus et Timo theus ecclesiae Thessalonicen sium in Deo Patre et Domino Iesu Christo: gratia vobis et pax.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "1Thess.1.2",
+          "sblId": "1Thess 1:2",
+          "name": "Epistula I ad Thessalonicenses 1:2",
+          "shortName": "1 Th 1:2",
+          "text": "Gratias agimus Deo semper pro omnibus vobis, memoriam facientes in orationibus nostris, sine intermissione;",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "1Thess.1.3",
+          "sblId": "1Thess 1:3",
+          "name": "Epistula I ad Thessalonicenses 1:3",
+          "shortName": "1 Th 1:3",
+          "text": "memores operis fidei vestrae et laboris caritatis et sustinentiae spei Domini nostri Iesu Christi ante Deum et Patrem nostrum;",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "1Thess.1.4",
+          "sblId": "1Thess 1:4",
+          "name": "Epistula I ad Thessalonicenses 1:4",
+          "shortName": "1 Th 1:4",
+          "text": "scientes, fratres, dilecti a Deo, electionem vestram,",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "1Thess.1.5",
+          "sblId": "1Thess 1:5",
+          "name": "Epistula I ad Thessalonicenses 1:5",
+          "shortName": "1 Th 1:5",
+          "text": "quia evangelium nostrum non fuit ad vos in sermone tantum sed et in virtute et in Spiritu Sancto et in plenitudine multa, sicut scitis quales fuerimus vobis propter vos.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "1Thess.1.6",
+          "sblId": "1Thess 1:6",
+          "name": "Epistula I ad Thessalonicenses 1:6",
+          "shortName": "1 Th 1:6",
+          "text": "Et vos imitatores nostri facti estis et Domini, excipientes verbum in tribulatione multa cum gaudio Spiritus Sancti,",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "1Thess.1.7",
+          "sblId": "1Thess 1:7",
+          "name": "Epistula I ad Thessalonicenses 1:7",
+          "shortName": "1 Th 1:7",
+          "text": "ita ut facti sitis forma omnibus credentibus in Macedonia et in Achaia.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "1Thess.1.8",
+          "sblId": "1Thess 1:8",
+          "name": "Epistula I ad Thessalonicenses 1:8",
+          "shortName": "1 Th 1:8",
+          "text": "A vobis enim diffamatus est sermo Domini non solum in Macedonia et in Achaia, sed in omni loco fides vestra, quae est ad Deum, profecta est, ita ut non sit nobis necesse quidquam loqui;",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "1Thess.1.9",
+          "sblId": "1Thess 1:9",
+          "name": "Epistula I ad Thessalonicenses 1:9",
+          "shortName": "1 Th 1:9",
+          "text": "ipsi enim de nobis annuntiant qualem introitum habuerimus ad vos, et quomodo conversi estis ad Deum a simulacris, servire Deo vivo et vero",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "1Thess.1.10",
+          "sblId": "1Thess 1:10",
+          "name": "Epistula I ad Thessalonicenses 1:10",
+          "shortName": "1 Th 1:10",
+          "text": "et exspectare Filium eius de caelis, quem suscitavit ex mortuis, Iesum, qui eripit nos ab ira ventura.",
+          "orderIndex": 9
+        }
+      ]
+    },
+    {
+      "osisId": "1Thess.2",
+      "sblId": "1Thess 2",
+      "name": "Epistula I ad Thessalonicenses 2",
+      "shortName": "1 Th 2",
+      "orderIndex": 1,
+      "versesCount": 20,
+      "verses": [
+        {
+          "osisId": "1Thess.2.1",
+          "sblId": "1Thess 2:1",
+          "name": "Epistula I ad Thessalonicenses 2:1",
+          "shortName": "1 Th 2:1",
+          "text": "Nam ipsi scitis, fratres, introi tum nostrum ad vos, quia non inanis fuit;",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "1Thess.2.2",
+          "sblId": "1Thess 2:2",
+          "name": "Epistula I ad Thessalonicenses 2:2",
+          "shortName": "1 Th 2:2",
+          "text": "sed ante passi et contumeliis affecti, sicut scitis, in Philippis, fiduciam habuimus in Deo nostro loqui ad vos evangelium Dei in multa sollicitudine.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "1Thess.2.3",
+          "sblId": "1Thess 2:3",
+          "name": "Epistula I ad Thessalonicenses 2:3",
+          "shortName": "1 Th 2:3",
+          "text": "Exhortatio enim nostra non ex errore neque ex immunditia neque in dolo,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "1Thess.2.4",
+          "sblId": "1Thess 2:4",
+          "name": "Epistula I ad Thessalonicenses 2:4",
+          "shortName": "1 Th 2:4",
+          "text": "sed sicut probati sumus a Deo, ut crederetur nobis evangelium, ita loquimur non quasi hominibus placentes, sed Deo, qui probat corda nostra.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "1Thess.2.5",
+          "sblId": "1Thess 2:5",
+          "name": "Epistula I ad Thessalonicenses 2:5",
+          "shortName": "1 Th 2:5",
+          "text": "Neque enim aliquando fuimus in sermone adulationis, sicut scitis, neque sub praetextu avaritiae, Deus testis,",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "1Thess.2.6",
+          "sblId": "1Thess 2:6",
+          "name": "Epistula I ad Thessalonicenses 2:6",
+          "shortName": "1 Th 2:6",
+          "text": "nec quaerentes ab hominibus gloriam, neque a vobis neque ab aliis;",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "1Thess.2.7",
+          "sblId": "1Thess 2:7",
+          "name": "Epistula I ad Thessalonicenses 2:7",
+          "shortName": "1 Th 2:7",
+          "text": "cum possemus oneri esse ut Christi apostoli, sed facti sumus parvuli in medio vestrum, tamquam si nutrix foveat filios suos;",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "1Thess.2.8",
+          "sblId": "1Thess 2:8",
+          "name": "Epistula I ad Thessalonicenses 2:8",
+          "shortName": "1 Th 2:8",
+          "text": "ita desiderantes vos, cupide volebamus tradere vobis non solum evangelium Dei sed etiam animas nostras, quoniam carissimi nobis facti estis.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "1Thess.2.9",
+          "sblId": "1Thess 2:9",
+          "name": "Epistula I ad Thessalonicenses 2:9",
+          "shortName": "1 Th 2:9",
+          "text": "Memores enim estis, fratres, laboris nostri et fatigationis; nocte et die operantes, ne quem vestrum gravaremus, praedicavimus in vobis evangelium Dei.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "1Thess.2.10",
+          "sblId": "1Thess 2:10",
+          "name": "Epistula I ad Thessalonicenses 2:10",
+          "shortName": "1 Th 2:10",
+          "text": "Vos testes estis et Deus, quam sancte et iuste et sine querela vobis, qui credidistis, fuimus;",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "1Thess.2.11",
+          "sblId": "1Thess 2:11",
+          "name": "Epistula I ad Thessalonicenses 2:11",
+          "shortName": "1 Th 2:11",
+          "text": "sicut scitis qualiter unumquemque vestrum, tamquam pater filios suos,",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "1Thess.2.12",
+          "sblId": "1Thess 2:12",
+          "name": "Epistula I ad Thessalonicenses 2:12",
+          "shortName": "1 Th 2:12",
+          "text": "deprecantes vos et consolantes testificati sumus, ut ambularetis digne Deo, qui vocat vos in suum regnum et gloriam.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "1Thess.2.13",
+          "sblId": "1Thess 2:13",
+          "name": "Epistula I ad Thessalonicenses 2:13",
+          "shortName": "1 Th 2:13",
+          "text": "Ideo et nos gratias agimus Deo sine intermissione, quoniam cum accepissetis a nobis verbum auditus Dei, accepistis non ut verbum hominum sed, sicut est vere, verbum Dei, quod et operatur in vobis, qui creditis.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "1Thess.2.14",
+          "sblId": "1Thess 2:14",
+          "name": "Epistula I ad Thessalonicenses 2:14",
+          "shortName": "1 Th 2:14",
+          "text": "Vos enim imitatores facti estis, fratres, ecclesiarum Dei, quae sunt in Iudaea in Christo Iesu; quia eadem passi estis et vos a contribulibus vestris, sicut et ipsi a Iudaeis,",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "1Thess.2.15",
+          "sblId": "1Thess 2:15",
+          "name": "Epistula I ad Thessalonicenses 2:15",
+          "shortName": "1 Th 2:15",
+          "text": "qui et Dominum occiderunt Iesum et prophetas et nos persecuti sunt et Deo non placent et omnibus hominibus adversantur,",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "1Thess.2.16",
+          "sblId": "1Thess 2:16",
+          "name": "Epistula I ad Thessalonicenses 2:16",
+          "shortName": "1 Th 2:16",
+          "text": "prohibentes nos gentibus loqui, ut salvae fiant, ut impleant peccata sua semper. Pervenit autem ira Dei super illos usque in finem.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "1Thess.2.17",
+          "sblId": "1Thess 2:17",
+          "name": "Epistula I ad Thessalonicenses 2:17",
+          "shortName": "1 Th 2:17",
+          "text": "Nos autem, fratres, desolati a vobis ad tempus horae, facie non corde, abundantius festinavimus faciem vestram videre cum multo desiderio.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "1Thess.2.18",
+          "sblId": "1Thess 2:18",
+          "name": "Epistula I ad Thessalonicenses 2:18",
+          "shortName": "1 Th 2:18",
+          "text": "Propter quod voluimus venire ad vos, ego quidem Paulus et semel et iterum; et impedivit nos Satanas.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "1Thess.2.19",
+          "sblId": "1Thess 2:19",
+          "name": "Epistula I ad Thessalonicenses 2:19",
+          "shortName": "1 Th 2:19",
+          "text": "Quae est enim nostra spes aut gaudium aut corona gloriae - nonne et vos ante Dominum nostrum Iesum in adventu eius?",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "1Thess.2.20",
+          "sblId": "1Thess 2:20",
+          "name": "Epistula I ad Thessalonicenses 2:20",
+          "shortName": "1 Th 2:20",
+          "text": "Vos enim estis gloria nostra et gaudium.",
+          "orderIndex": 19
+        }
+      ]
+    },
+    {
+      "osisId": "1Thess.3",
+      "sblId": "1Thess 3",
+      "name": "Epistula I ad Thessalonicenses 3",
+      "shortName": "1 Th 3",
+      "orderIndex": 2,
+      "versesCount": 13,
+      "verses": [
+        {
+          "osisId": "1Thess.3.1",
+          "sblId": "1Thess 3:1",
+          "name": "Epistula I ad Thessalonicenses 3:1",
+          "shortName": "1 Th 3:1",
+          "text": "Propter quod non sustinentes amplius, placuit nobis, ut relin queremur Athenis soli,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "1Thess.3.2",
+          "sblId": "1Thess 3:2",
+          "name": "Epistula I ad Thessalonicenses 3:2",
+          "shortName": "1 Th 3:2",
+          "text": "et misimus Timotheum, fratrem nostrum et cooperatorem Dei in evangelio Christi, ad confirmandos vos et exhortandos pro fide vestra,",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "1Thess.3.3",
+          "sblId": "1Thess 3:3",
+          "name": "Epistula I ad Thessalonicenses 3:3",
+          "shortName": "1 Th 3:3",
+          "text": "ut nemo turbetur in tribulationibus istis. Ipsi enim scitis quod in hoc positi sumus;",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "1Thess.3.4",
+          "sblId": "1Thess 3:4",
+          "name": "Epistula I ad Thessalonicenses 3:4",
+          "shortName": "1 Th 3:4",
+          "text": "nam et cum apud vos essemus, praedicebamus vobis passuros nos tribulationes, sicut et factum est et scitis.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "1Thess.3.5",
+          "sblId": "1Thess 3:5",
+          "name": "Epistula I ad Thessalonicenses 3:5",
+          "shortName": "1 Th 3:5",
+          "text": "Propterea et ego amplius non sustinens, misi ad cognoscendam fidem vestram, ne forte tentaverit vos is qui tentat, et inanis fiat labor noster.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "1Thess.3.6",
+          "sblId": "1Thess 3:6",
+          "name": "Epistula I ad Thessalonicenses 3:6",
+          "shortName": "1 Th 3:6",
+          "text": "Nunc autem, veniente Timotheo ad nos a vobis et annuntiante nobis fidem et caritatem vestram, et quia memoriam nostri habetis bonam semper, desiderantes nos videre, sicut nos quoque vos;",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "1Thess.3.7",
+          "sblId": "1Thess 3:7",
+          "name": "Epistula I ad Thessalonicenses 3:7",
+          "shortName": "1 Th 3:7",
+          "text": "ideo consolati sumus, fratres, propter vos in omni necessitate et tribulatione nostra per vestram fidem;",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "1Thess.3.8",
+          "sblId": "1Thess 3:8",
+          "name": "Epistula I ad Thessalonicenses 3:8",
+          "shortName": "1 Th 3:8",
+          "text": "quoniam nunc vivimus, si vos statis in Domino.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "1Thess.3.9",
+          "sblId": "1Thess 3:9",
+          "name": "Epistula I ad Thessalonicenses 3:9",
+          "shortName": "1 Th 3:9",
+          "text": "Quam enim gratiarum actionem possumus Deo retribuere pro vobis in omni gaudio, quo gaudemus propter vos ante Deum nostrum,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "1Thess.3.10",
+          "sblId": "1Thess 3:10",
+          "name": "Epistula I ad Thessalonicenses 3:10",
+          "shortName": "1 Th 3:10",
+          "text": "nocte et die abundantius orantes, ut videamus faciem vestram et compleamus ea, quae desunt fidei vestrae?",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "1Thess.3.11",
+          "sblId": "1Thess 3:11",
+          "name": "Epistula I ad Thessalonicenses 3:11",
+          "shortName": "1 Th 3:11",
+          "text": "Ipse autem Deus et Pater noster et Dominus noster Iesus dirigat viam nostram ad vos;",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "1Thess.3.12",
+          "sblId": "1Thess 3:12",
+          "name": "Epistula I ad Thessalonicenses 3:12",
+          "shortName": "1 Th 3:12",
+          "text": "vos autem Dominus abundare et superabundare faciat caritate in invicem et in omnes, quemadmodum et nos in vos;",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "1Thess.3.13",
+          "sblId": "1Thess 3:13",
+          "name": "Epistula I ad Thessalonicenses 3:13",
+          "shortName": "1 Th 3:13",
+          "text": "ad confirmanda corda vestra sine querela in sanctitate ante Deum et Patrem nostrum, in adventu Domini nostri Iesu cum omnibus sanctis eius. Amen.",
+          "orderIndex": 12
+        }
+      ]
+    },
+    {
+      "osisId": "1Thess.4",
+      "sblId": "1Thess 4",
+      "name": "Epistula I ad Thessalonicenses 4",
+      "shortName": "1 Th 4",
+      "orderIndex": 3,
+      "versesCount": 18,
+      "verses": [
+        {
+          "osisId": "1Thess.4.1",
+          "sblId": "1Thess 4:1",
+          "name": "Epistula I ad Thessalonicenses 4:1",
+          "shortName": "1 Th 4:1",
+          "text": "De cetero ergo, fratres, rogamus vos et obsecramus in Domino Iesu, ut - quemadmodum accepistis a nobis quomodo vos oporteat ambulare et placere Deo, sicut et ambulatis - ut abundetis magis.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "1Thess.4.2",
+          "sblId": "1Thess 4:2",
+          "name": "Epistula I ad Thessalonicenses 4:2",
+          "shortName": "1 Th 4:2",
+          "text": "Scitis enim, quae praecepta dederimus vobis per Dominum Iesum.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "1Thess.4.3",
+          "sblId": "1Thess 4:3",
+          "name": "Epistula I ad Thessalonicenses 4:3",
+          "shortName": "1 Th 4:3",
+          "text": "Haec est enim voluntas Dei, sanctificatio vestra,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "1Thess.4.4",
+          "sblId": "1Thess 4:4",
+          "name": "Epistula I ad Thessalonicenses 4:4",
+          "shortName": "1 Th 4:4",
+          "text": "ut abstineatis a fornicatione; ut sciat unusquisque vestrum suum vas possidere in sanctificatione et honore,",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "1Thess.4.5",
+          "sblId": "1Thess 4:5",
+          "name": "Epistula I ad Thessalonicenses 4:5",
+          "shortName": "1 Th 4:5",
+          "text": "non in passione desiderii, sicut et gentes, quae ignorant Deum;",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "1Thess.4.6",
+          "sblId": "1Thess 4:6",
+          "name": "Epistula I ad Thessalonicenses 4:6",
+          "shortName": "1 Th 4:6",
+          "text": "ut ne quis supergrediatur neque circumveniat in negotio fratrem suum, quoniam vindex est Dominus de his omnibus, sicut et praediximus vobis et testificati sumus.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "1Thess.4.7",
+          "sblId": "1Thess 4:7",
+          "name": "Epistula I ad Thessalonicenses 4:7",
+          "shortName": "1 Th 4:7",
+          "text": "Non enim vocavit nos Deus in immunditiam sed in sanctificationem.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "1Thess.4.8",
+          "sblId": "1Thess 4:8",
+          "name": "Epistula I ad Thessalonicenses 4:8",
+          "shortName": "1 Th 4:8",
+          "text": "Itaque, qui spernit, non hominem spernit sed Deum, qui etiam dat Spiritum suum Sanctum in vos.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "1Thess.4.9",
+          "sblId": "1Thess 4:9",
+          "name": "Epistula I ad Thessalonicenses 4:9",
+          "shortName": "1 Th 4:9",
+          "text": "De caritate autem fraternitatis non necesse habetis, ut vobis scribam; ipsi enim vos a Deo edocti estis, ut diligatis invicem;",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "1Thess.4.10",
+          "sblId": "1Thess 4:10",
+          "name": "Epistula I ad Thessalonicenses 4:10",
+          "shortName": "1 Th 4:10",
+          "text": "etenim facitis illud in omnes fratres in universa Macedonia. Rogamus autem vos, fratres, ut abundetis magis;",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "1Thess.4.11",
+          "sblId": "1Thess 4:11",
+          "name": "Epistula I ad Thessalonicenses 4:11",
+          "shortName": "1 Th 4:11",
+          "text": "et operam detis, ut quieti sitis et ut vestrum negotium agatis et operemini manibus vestris, sicut praecipimus vobis;",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "1Thess.4.12",
+          "sblId": "1Thess 4:12",
+          "name": "Epistula I ad Thessalonicenses 4:12",
+          "shortName": "1 Th 4:12",
+          "text": "ut honeste ambuletis ad eos, qui foris sunt, et nullius aliquid desideretis.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "1Thess.4.13",
+          "sblId": "1Thess 4:13",
+          "name": "Epistula I ad Thessalonicenses 4:13",
+          "shortName": "1 Th 4:13",
+          "text": "Nolumus autem vos ignorare, fratres, de dormientibus, ut non contristemini sicut et ceteri, qui spem non habent.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "1Thess.4.14",
+          "sblId": "1Thess 4:14",
+          "name": "Epistula I ad Thessalonicenses 4:14",
+          "shortName": "1 Th 4:14",
+          "text": "Si enim credimus quod Iesus mortuus est et resurrexit, ita et Deus eos, qui dormierunt, per Iesum adducet cum eo.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "1Thess.4.15",
+          "sblId": "1Thess 4:15",
+          "name": "Epistula I ad Thessalonicenses 4:15",
+          "shortName": "1 Th 4:15",
+          "text": "Hoc enim vobis dicimus in verbo Domini, quia nos, qui vivimus, qui relinquimur in adventum Domini, non praeveniemus eos, qui dormierunt;",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "1Thess.4.16",
+          "sblId": "1Thess 4:16",
+          "name": "Epistula I ad Thessalonicenses 4:16",
+          "shortName": "1 Th 4:16",
+          "text": "quoniam ipse Dominus in iussu, in voce archangeli et in tuba Dei descendet de caelo, et mortui, qui in Christo sunt, resurgent primi;",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "1Thess.4.17",
+          "sblId": "1Thess 4:17",
+          "name": "Epistula I ad Thessalonicenses 4:17",
+          "shortName": "1 Th 4:17",
+          "text": "deinde nos, qui vivimus, qui relinquimur, simul rapiemur cum illis in nubibus obviam Domino in aera, et sic semper cum Domino erimus.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "1Thess.4.18",
+          "sblId": "1Thess 4:18",
+          "name": "Epistula I ad Thessalonicenses 4:18",
+          "shortName": "1 Th 4:18",
+          "text": "Itaque consolamini invicem in verbis istis.",
+          "orderIndex": 17
+        }
+      ]
+    },
+    {
+      "osisId": "1Thess.5",
+      "sblId": "1Thess 5",
+      "name": "Epistula I ad Thessalonicenses 5",
+      "shortName": "1 Th 5",
+      "orderIndex": 4,
+      "versesCount": 28,
+      "verses": [
+        {
+          "osisId": "1Thess.5.1",
+          "sblId": "1Thess 5:1",
+          "name": "Epistula I ad Thessalonicenses 5:1",
+          "shortName": "1 Th 5:1",
+          "text": "De temporibus autem et mo mentis, fratres, non indigetis, ut scribatur vobis;",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "1Thess.5.2",
+          "sblId": "1Thess 5:2",
+          "name": "Epistula I ad Thessalonicenses 5:2",
+          "shortName": "1 Th 5:2",
+          "text": "ipsi enim diligenter scitis quia dies Domini, sicut fur in nocte, ita veniet.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "1Thess.5.3",
+          "sblId": "1Thess 5:3",
+          "name": "Epistula I ad Thessalonicenses 5:3",
+          "shortName": "1 Th 5:3",
+          "text": "Cum enim dixerint: \" Pax et securitas \", tunc repentinus eis superveniet interitus, sicut dolor in utero habenti, et non effugient.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "1Thess.5.4",
+          "sblId": "1Thess 5:4",
+          "name": "Epistula I ad Thessalonicenses 5:4",
+          "shortName": "1 Th 5:4",
+          "text": "Vos autem, fratres, non estis in tenebris, ut vos dies ille tamquam fur comprehendat;",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "1Thess.5.5",
+          "sblId": "1Thess 5:5",
+          "name": "Epistula I ad Thessalonicenses 5:5",
+          "shortName": "1 Th 5:5",
+          "text": "omnes enim vos filii lucis estis et filii diei. Non sumus noctis neque tenebrarum;",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "1Thess.5.6",
+          "sblId": "1Thess 5:6",
+          "name": "Epistula I ad Thessalonicenses 5:6",
+          "shortName": "1 Th 5:6",
+          "text": "igitur non dormiamus sicut ceteri, sed vigilemus et sobrii simus.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "1Thess.5.7",
+          "sblId": "1Thess 5:7",
+          "name": "Epistula I ad Thessalonicenses 5:7",
+          "shortName": "1 Th 5:7",
+          "text": "Qui enim dormiunt, nocte dormiunt; et, qui ebrii sunt, nocte inebriantur.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "1Thess.5.8",
+          "sblId": "1Thess 5:8",
+          "name": "Epistula I ad Thessalonicenses 5:8",
+          "shortName": "1 Th 5:8",
+          "text": "Nos autem, qui diei sumus, sobrii simus, induti loricam fidei et caritatis et galeam spem salutis;",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "1Thess.5.9",
+          "sblId": "1Thess 5:9",
+          "name": "Epistula I ad Thessalonicenses 5:9",
+          "shortName": "1 Th 5:9",
+          "text": "quoniam non posuit nos Deus in iram sed in acquisitionem salutis per Dominum nostrum Iesum Christum,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "1Thess.5.10",
+          "sblId": "1Thess 5:10",
+          "name": "Epistula I ad Thessalonicenses 5:10",
+          "shortName": "1 Th 5:10",
+          "text": "qui mortuus est pro nobis, ut sive vigilemus sive dormiamus, simul cum illo vivamus.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "1Thess.5.11",
+          "sblId": "1Thess 5:11",
+          "name": "Epistula I ad Thessalonicenses 5:11",
+          "shortName": "1 Th 5:11",
+          "text": "Propter quod consolamini invicem et aedificate alterutrum, sicut et facitis.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "1Thess.5.12",
+          "sblId": "1Thess 5:12",
+          "name": "Epistula I ad Thessalonicenses 5:12",
+          "shortName": "1 Th 5:12",
+          "text": "Rogamus autem vos, fratres, ut noveritis eos, qui laborant inter vos et praesunt vobis in Domino et monent vos,",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "1Thess.5.13",
+          "sblId": "1Thess 5:13",
+          "name": "Epistula I ad Thessalonicenses 5:13",
+          "shortName": "1 Th 5:13",
+          "text": "ut habeatis illos superabundanter in caritate propter opus illorum. Pacem habete inter vos.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "1Thess.5.14",
+          "sblId": "1Thess 5:14",
+          "name": "Epistula I ad Thessalonicenses 5:14",
+          "shortName": "1 Th 5:14",
+          "text": "Hortamur autem vos, fratres: corripite inquietos, consolamini pusillanimes, suscipite infirmos, longanimes estote ad omnes.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "1Thess.5.15",
+          "sblId": "1Thess 5:15",
+          "name": "Epistula I ad Thessalonicenses 5:15",
+          "shortName": "1 Th 5:15",
+          "text": "Videte, ne quis malum pro malo alicui reddat, sed semper, quod bonum est, sectamini et in invicem et in omnes.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "1Thess.5.16",
+          "sblId": "1Thess 5:16",
+          "name": "Epistula I ad Thessalonicenses 5:16",
+          "shortName": "1 Th 5:16",
+          "text": "Semper gaudete,",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "1Thess.5.17",
+          "sblId": "1Thess 5:17",
+          "name": "Epistula I ad Thessalonicenses 5:17",
+          "shortName": "1 Th 5:17",
+          "text": "sine intermissione orate,",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "1Thess.5.18",
+          "sblId": "1Thess 5:18",
+          "name": "Epistula I ad Thessalonicenses 5:18",
+          "shortName": "1 Th 5:18",
+          "text": "in omnibus gratias agite; haec enim voluntas Dei est in Christo Iesu erga vos.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "1Thess.5.19",
+          "sblId": "1Thess 5:19",
+          "name": "Epistula I ad Thessalonicenses 5:19",
+          "shortName": "1 Th 5:19",
+          "text": "Spiritum nolite exstinguere,",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "1Thess.5.20",
+          "sblId": "1Thess 5:20",
+          "name": "Epistula I ad Thessalonicenses 5:20",
+          "shortName": "1 Th 5:20",
+          "text": "prophetias nolite spernere;",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "1Thess.5.21",
+          "sblId": "1Thess 5:21",
+          "name": "Epistula I ad Thessalonicenses 5:21",
+          "shortName": "1 Th 5:21",
+          "text": "omnia autem probate, quod bonum est tenete,",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "1Thess.5.22",
+          "sblId": "1Thess 5:22",
+          "name": "Epistula I ad Thessalonicenses 5:22",
+          "shortName": "1 Th 5:22",
+          "text": "ab omni specie mala abstinete vos.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "1Thess.5.23",
+          "sblId": "1Thess 5:23",
+          "name": "Epistula I ad Thessalonicenses 5:23",
+          "shortName": "1 Th 5:23",
+          "text": "Ipse autem Deus pacis sanctificet vos per omnia, et integer spiritus vester et anima et corpus sine querela in adventu Domini nostri Iesu Christi servetur.",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "1Thess.5.24",
+          "sblId": "1Thess 5:24",
+          "name": "Epistula I ad Thessalonicenses 5:24",
+          "shortName": "1 Th 5:24",
+          "text": "Fidelis est, qui vocat vos, qui etiam faciet.",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "1Thess.5.25",
+          "sblId": "1Thess 5:25",
+          "name": "Epistula I ad Thessalonicenses 5:25",
+          "shortName": "1 Th 5:25",
+          "text": "Fratres, orate etiam pro nobis.",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "1Thess.5.26",
+          "sblId": "1Thess 5:26",
+          "name": "Epistula I ad Thessalonicenses 5:26",
+          "shortName": "1 Th 5:26",
+          "text": "Salutate fratres omnes in osculo sancto.",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "1Thess.5.27",
+          "sblId": "1Thess 5:27",
+          "name": "Epistula I ad Thessalonicenses 5:27",
+          "shortName": "1 Th 5:27",
+          "text": "Adiuro vos per Dominum, ut legatur epistula omnibus fratribus.",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "1Thess.5.28",
+          "sblId": "1Thess 5:28",
+          "name": "Epistula I ad Thessalonicenses 5:28",
+          "shortName": "1 Th 5:28",
+          "text": "Gratia Domini nostri Iesu Christi vobiscum.",
+          "orderIndex": 27
+        }
+      ]
+    }
+  ]
+}

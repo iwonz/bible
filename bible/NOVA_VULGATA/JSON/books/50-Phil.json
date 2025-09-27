@@ -1,0 +1,883 @@
+{
+  "osisId": "Phil",
+  "sblId": "Phil",
+  "name": "Epistula ad Philippenses",
+  "shortName": "Phil",
+  "orderIndex": 49,
+  "chaptersCount": 4,
+  "versesCount": 104,
+  "chapters": [
+    {
+      "osisId": "Phil.1",
+      "sblId": "Phil 1",
+      "name": "Epistula ad Philippenses 1",
+      "shortName": "Phil 1",
+      "orderIndex": 0,
+      "versesCount": 30,
+      "verses": [
+        {
+          "osisId": "Phil.1.1",
+          "sblId": "Phil 1:1",
+          "name": "Epistula ad Philippenses 1:1",
+          "shortName": "Phil 1:1",
+          "text": "Paulus et Timotheus servi Christi Iesu omnibus sanctis in Christo Iesu, qui sunt Philippis, cum episcopis et diaconis:",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Phil.1.2",
+          "sblId": "Phil 1:2",
+          "name": "Epistula ad Philippenses 1:2",
+          "shortName": "Phil 1:2",
+          "text": "gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Phil.1.3",
+          "sblId": "Phil 1:3",
+          "name": "Epistula ad Philippenses 1:3",
+          "shortName": "Phil 1:3",
+          "text": "Gratias ago Deo meo in omni memoria vestri,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Phil.1.4",
+          "sblId": "Phil 1:4",
+          "name": "Epistula ad Philippenses 1:4",
+          "shortName": "Phil 1:4",
+          "text": "semper in omni oratione mea pro omnibus vobis cum gaudio deprecationem faciens",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Phil.1.5",
+          "sblId": "Phil 1:5",
+          "name": "Epistula ad Philippenses 1:5",
+          "shortName": "Phil 1:5",
+          "text": "super communione vestra in evangelio a prima die usque nunc;",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Phil.1.6",
+          "sblId": "Phil 1:6",
+          "name": "Epistula ad Philippenses 1:6",
+          "shortName": "Phil 1:6",
+          "text": "confidens hoc ipsum, quia, qui coepit in vobis opus bonum, perficiet usque in diem Christi Iesu;",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Phil.1.7",
+          "sblId": "Phil 1:7",
+          "name": "Epistula ad Philippenses 1:7",
+          "shortName": "Phil 1:7",
+          "text": "sicut est mihi iustum hoc sentire pro omnibus vobis, eo quod habeam in corde vos et in vinculis meis et in defensione et confirmatione evangelii socios gratiae meae omnes vos esse.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Phil.1.8",
+          "sblId": "Phil 1:8",
+          "name": "Epistula ad Philippenses 1:8",
+          "shortName": "Phil 1:8",
+          "text": "Testis enim mihi Deus, quomodo cupiam omnes vos in visceribus Christi Iesu.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Phil.1.9",
+          "sblId": "Phil 1:9",
+          "name": "Epistula ad Philippenses 1:9",
+          "shortName": "Phil 1:9",
+          "text": "Et hoc oro, ut caritas vestra magis ac magis abundet in scientia et omni sensu,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Phil.1.10",
+          "sblId": "Phil 1:10",
+          "name": "Epistula ad Philippenses 1:10",
+          "shortName": "Phil 1:10",
+          "text": "ut probetis potiora, ut sitis sinceri et sine offensa in diem Christi,",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Phil.1.11",
+          "sblId": "Phil 1:11",
+          "name": "Epistula ad Philippenses 1:11",
+          "shortName": "Phil 1:11",
+          "text": "repleti fructu iustitiae, qui est per Iesum Christum, in gloriam et laudem Dei.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Phil.1.12",
+          "sblId": "Phil 1:12",
+          "name": "Epistula ad Philippenses 1:12",
+          "shortName": "Phil 1:12",
+          "text": "Scire autem vos volo, fratres, quia, quae circa me sunt, magis ad profectum venerunt evangelii,",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Phil.1.13",
+          "sblId": "Phil 1:13",
+          "name": "Epistula ad Philippenses 1:13",
+          "shortName": "Phil 1:13",
+          "text": "ita ut vincula mea manifesta fierent in Christo in omni praetorio et in ceteris omnibus;",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Phil.1.14",
+          "sblId": "Phil 1:14",
+          "name": "Epistula ad Philippenses 1:14",
+          "shortName": "Phil 1:14",
+          "text": "et plures e fratribus in Domino confidentes vinculis meis, abundantius audere sine timore verbum loqui.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Phil.1.15",
+          "sblId": "Phil 1:15",
+          "name": "Epistula ad Philippenses 1:15",
+          "shortName": "Phil 1:15",
+          "text": "Quidam quidem et propter invidiam et contentionem, quidam autem et propter bonam voluntatem Christum praedicant;",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Phil.1.16",
+          "sblId": "Phil 1:16",
+          "name": "Epistula ad Philippenses 1:16",
+          "shortName": "Phil 1:16",
+          "text": "hi quidem ex caritate scientes quoniam in defensionem evangelii positus sum,",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Phil.1.17",
+          "sblId": "Phil 1:17",
+          "name": "Epistula ad Philippenses 1:17",
+          "shortName": "Phil 1:17",
+          "text": "illi autem ex contentione Christum annuntiant, non sincere, existimantes pressuram se suscitare vinculis meis.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Phil.1.18",
+          "sblId": "Phil 1:18",
+          "name": "Epistula ad Philippenses 1:18",
+          "shortName": "Phil 1:18",
+          "text": "Quid enim? Dum omni modo, sive sub obtentu sive in veritate, Christus annuntietur, et in hoc gaudeo; sed et gaudebo,",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Phil.1.19",
+          "sblId": "Phil 1:19",
+          "name": "Epistula ad Philippenses 1:19",
+          "shortName": "Phil 1:19",
+          "text": "scio enim quia hoc mihi proveniet in salutem per vestram orationem et subministrationem Spiritus Iesu Christi,",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Phil.1.20",
+          "sblId": "Phil 1:20",
+          "name": "Epistula ad Philippenses 1:20",
+          "shortName": "Phil 1:20",
+          "text": "secundum exspectationem et spem meam quia in nullo confundar, sed in omni fiducia, sicut semper et nunc, magnificabitur Christus in corpore meo, sive per vitam sive per mortem.",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Phil.1.21",
+          "sblId": "Phil 1:21",
+          "name": "Epistula ad Philippenses 1:21",
+          "shortName": "Phil 1:21",
+          "text": "Mihi enim vivere Christus est et mori lucrum.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Phil.1.22",
+          "sblId": "Phil 1:22",
+          "name": "Epistula ad Philippenses 1:22",
+          "shortName": "Phil 1:22",
+          "text": "Quod si vivere in carne, hic mihi fructus operis est, et quid eligam ignoro.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Phil.1.23",
+          "sblId": "Phil 1:23",
+          "name": "Epistula ad Philippenses 1:23",
+          "shortName": "Phil 1:23",
+          "text": "Coartor autem ex his duobus: desiderium habens dissolvi et cum Christo esse, multo magis melius;",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Phil.1.24",
+          "sblId": "Phil 1:24",
+          "name": "Epistula ad Philippenses 1:24",
+          "shortName": "Phil 1:24",
+          "text": "permanere autem in carne, magis necessarium est propter vos.",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Phil.1.25",
+          "sblId": "Phil 1:25",
+          "name": "Epistula ad Philippenses 1:25",
+          "shortName": "Phil 1:25",
+          "text": "Et hoc confidens, scio quia manebo et permanebo omnibus vobis ad profectum vestrum et gaudium fidei,",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Phil.1.26",
+          "sblId": "Phil 1:26",
+          "name": "Epistula ad Philippenses 1:26",
+          "shortName": "Phil 1:26",
+          "text": "ut gloriatio vestra abundet in Christo Iesu in me, per meum adventum iterum ad vos.",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Phil.1.27",
+          "sblId": "Phil 1:27",
+          "name": "Epistula ad Philippenses 1:27",
+          "shortName": "Phil 1:27",
+          "text": "Tantum digne evangelio Christi conversamini, ut sive cum venero et videro vos, sive absens audiam de vobis quia statis in uno Spiritu unanimes, concertantes fide evangelii;",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Phil.1.28",
+          "sblId": "Phil 1:28",
+          "name": "Epistula ad Philippenses 1:28",
+          "shortName": "Phil 1:28",
+          "text": "et in nullo perterriti ab adversariis, quod est illis indicium perditionis, vobis autem salutis, et hoc a Deo;",
+          "orderIndex": 27
+        },
+        {
+          "osisId": "Phil.1.29",
+          "sblId": "Phil 1:29",
+          "name": "Epistula ad Philippenses 1:29",
+          "shortName": "Phil 1:29",
+          "text": "quia vobis hoc donatum est pro Christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini",
+          "orderIndex": 28
+        },
+        {
+          "osisId": "Phil.1.30",
+          "sblId": "Phil 1:30",
+          "name": "Epistula ad Philippenses 1:30",
+          "shortName": "Phil 1:30",
+          "text": "idem certamen habentes, quale vidistis in me et nunc auditis in me.",
+          "orderIndex": 29
+        }
+      ]
+    },
+    {
+      "osisId": "Phil.2",
+      "sblId": "Phil 2",
+      "name": "Epistula ad Philippenses 2",
+      "shortName": "Phil 2",
+      "orderIndex": 1,
+      "versesCount": 30,
+      "verses": [
+        {
+          "osisId": "Phil.2.1",
+          "sblId": "Phil 2:1",
+          "name": "Epistula ad Philippenses 2:1",
+          "shortName": "Phil 2:1",
+          "text": "Si qua ergo consolatio in Christo, si quod solacium cari tatis, si qua communio spiritus, si quae viscera et miserationes,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Phil.2.2",
+          "sblId": "Phil 2:2",
+          "name": "Epistula ad Philippenses 2:2",
+          "shortName": "Phil 2:2",
+          "text": "implete gaudium meum, ut idem sapiatis, eandem caritatem habentes, unanimes, id ipsum sapientes;",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Phil.2.3",
+          "sblId": "Phil 2:3",
+          "name": "Epistula ad Philippenses 2:3",
+          "shortName": "Phil 2:3",
+          "text": "nihil per contentionem neque per inanem gloriam, sed in humilitate superiores sibi invicem arbitrantes;",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Phil.2.4",
+          "sblId": "Phil 2:4",
+          "name": "Epistula ad Philippenses 2:4",
+          "shortName": "Phil 2:4",
+          "text": "non, quae sua sunt, singuli considerantes, sed et ea, quae aliorum.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Phil.2.5",
+          "sblId": "Phil 2:5",
+          "name": "Epistula ad Philippenses 2:5",
+          "shortName": "Phil 2:5",
+          "text": "Hoc sentite in vobis, quod et in Christo Iesu:",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Phil.2.6",
+          "sblId": "Phil 2:6",
+          "name": "Epistula ad Philippenses 2:6",
+          "shortName": "Phil 2:6",
+          "text": "qui cum in forma Dei esset,non rapinam arbitratus est esse se aequalem Deo,",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Phil.2.7",
+          "sblId": "Phil 2:7",
+          "name": "Epistula ad Philippenses 2:7",
+          "shortName": "Phil 2:7",
+          "text": "sed semetipsum exinanivit formam servi accipiens,in similitudinem hominum factus;et habitu inventus ut homo,",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Phil.2.8",
+          "sblId": "Phil 2:8",
+          "name": "Epistula ad Philippenses 2:8",
+          "shortName": "Phil 2:8",
+          "text": "humiliavit semetipsum factus oboediens usque ad mortem,mortem autem crucis.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Phil.2.9",
+          "sblId": "Phil 2:9",
+          "name": "Epistula ad Philippenses 2:9",
+          "shortName": "Phil 2:9",
+          "text": "Propter quod et Deus illum exaltavitet donavit illi nomen,quod est super omne nomen,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Phil.2.10",
+          "sblId": "Phil 2:10",
+          "name": "Epistula ad Philippenses 2:10",
+          "shortName": "Phil 2:10",
+          "text": "ut in nomine Iesu omne genu flectaturcaelestium et terrestrium et infernorum,",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Phil.2.11",
+          "sblId": "Phil 2:11",
+          "name": "Epistula ad Philippenses 2:11",
+          "shortName": "Phil 2:11",
+          "text": "et omnis lingua confiteatur Dominus Iesus Christus! \",in gloriam Dei Patris.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Phil.2.12",
+          "sblId": "Phil 2:12",
+          "name": "Epistula ad Philippenses 2:12",
+          "shortName": "Phil 2:12",
+          "text": "Itaque, carissimi mei, sicut semper oboedistis, non ut in praesentia mei tantum sed multo magis nunc in absentia mea, cum metu et tremore vestram salutem operamini;",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Phil.2.13",
+          "sblId": "Phil 2:13",
+          "name": "Epistula ad Philippenses 2:13",
+          "shortName": "Phil 2:13",
+          "text": "Deus est enim, qui operatur in vobis et velle et perficere pro suo beneplacito.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Phil.2.14",
+          "sblId": "Phil 2:14",
+          "name": "Epistula ad Philippenses 2:14",
+          "shortName": "Phil 2:14",
+          "text": "Omnia facite sine murmurationibus et haesitationibus,",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Phil.2.15",
+          "sblId": "Phil 2:15",
+          "name": "Epistula ad Philippenses 2:15",
+          "shortName": "Phil 2:15",
+          "text": "ut efficiamini sine querela et simplices, filii Dei sine reprehensione in medio generationis pravae et perversae, inter quos lucetis sicut luminaria in mundo,",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Phil.2.16",
+          "sblId": "Phil 2:16",
+          "name": "Epistula ad Philippenses 2:16",
+          "shortName": "Phil 2:16",
+          "text": "verbum vitae firmiter tenentes ad gloriam meam in die Christi, quia non in vacuum cucurri neque in vacuum laboravi.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Phil.2.17",
+          "sblId": "Phil 2:17",
+          "name": "Epistula ad Philippenses 2:17",
+          "shortName": "Phil 2:17",
+          "text": "Sed et si delibor supra sacrificium et obsequium fidei vestrae, gaudeo et congaudeo omnibus vobis;",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Phil.2.18",
+          "sblId": "Phil 2:18",
+          "name": "Epistula ad Philippenses 2:18",
+          "shortName": "Phil 2:18",
+          "text": "idipsum autem et vos gaudete et congaudete mihi.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Phil.2.19",
+          "sblId": "Phil 2:19",
+          "name": "Epistula ad Philippenses 2:19",
+          "shortName": "Phil 2:19",
+          "text": "Spero autem in Domino Iesu Timotheum cito me mittere ad vos, ut et ego bono animo sim, cognitis, quae circa vos sunt.",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Phil.2.20",
+          "sblId": "Phil 2:20",
+          "name": "Epistula ad Philippenses 2:20",
+          "shortName": "Phil 2:20",
+          "text": "Neminem enim habeo tam unanimem, qui sincere pro vobis sollicitus sit;",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Phil.2.21",
+          "sblId": "Phil 2:21",
+          "name": "Epistula ad Philippenses 2:21",
+          "shortName": "Phil 2:21",
+          "text": "omnes enim sua quaerunt, non quae sunt Iesu Christi.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Phil.2.22",
+          "sblId": "Phil 2:22",
+          "name": "Epistula ad Philippenses 2:22",
+          "shortName": "Phil 2:22",
+          "text": "Probationem autem eius cognoscitis, quoniam sicut patri filius mecum servivit in evangelium.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Phil.2.23",
+          "sblId": "Phil 2:23",
+          "name": "Epistula ad Philippenses 2:23",
+          "shortName": "Phil 2:23",
+          "text": "Hunc igitur spero me mittere, mox ut videro, quae circa me sunt;",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Phil.2.24",
+          "sblId": "Phil 2:24",
+          "name": "Epistula ad Philippenses 2:24",
+          "shortName": "Phil 2:24",
+          "text": "confido autem in Domino, quoniam et ipse cito veniam.",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Phil.2.25",
+          "sblId": "Phil 2:25",
+          "name": "Epistula ad Philippenses 2:25",
+          "shortName": "Phil 2:25",
+          "text": "Necessarium autem existimavi Epaphroditum fratrem et cooperatorem et commilitonem meum, vestrum autem apostolum et ministrum necessitatis meae, mittere ad vos,",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Phil.2.26",
+          "sblId": "Phil 2:26",
+          "name": "Epistula ad Philippenses 2:26",
+          "shortName": "Phil 2:26",
+          "text": "quoniam omnes vos desiderabat et maestus erat, propterea quod audieratis illum infirmatum.",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Phil.2.27",
+          "sblId": "Phil 2:27",
+          "name": "Epistula ad Philippenses 2:27",
+          "shortName": "Phil 2:27",
+          "text": "Nam et infirmatus est usque ad mortem, sed Deus misertus est eius; non solum autem eius, verum et mei, ne tristitiam super tristitiam haberem.",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Phil.2.28",
+          "sblId": "Phil 2:28",
+          "name": "Epistula ad Philippenses 2:28",
+          "shortName": "Phil 2:28",
+          "text": "Festinantius ergo misi illum, ut, viso eo, iterum gaudeatis, et ego sine tristitia sim.",
+          "orderIndex": 27
+        },
+        {
+          "osisId": "Phil.2.29",
+          "sblId": "Phil 2:29",
+          "name": "Epistula ad Philippenses 2:29",
+          "shortName": "Phil 2:29",
+          "text": "Excipite itaque illum in Domino cum omni gaudio et eiusmodi cum honore habetote,",
+          "orderIndex": 28
+        },
+        {
+          "osisId": "Phil.2.30",
+          "sblId": "Phil 2:30",
+          "name": "Epistula ad Philippenses 2:30",
+          "shortName": "Phil 2:30",
+          "text": "quoniam propter opus Christi usque ad mortem accessit in interitum tradens animam suam, ut suppleret id, quod vobis deerat ministerii erga me.",
+          "orderIndex": 29
+        }
+      ]
+    },
+    {
+      "osisId": "Phil.3",
+      "sblId": "Phil 3",
+      "name": "Epistula ad Philippenses 3",
+      "shortName": "Phil 3",
+      "orderIndex": 2,
+      "versesCount": 21,
+      "verses": [
+        {
+          "osisId": "Phil.3.1",
+          "sblId": "Phil 3:1",
+          "name": "Epistula ad Philippenses 3:1",
+          "shortName": "Phil 3:1",
+          "text": "De cetero, fratres mei, gaudete in Domino. Eadem vobis scribe re mihi quidem non pigrum, vobis autem securum.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Phil.3.2",
+          "sblId": "Phil 3:2",
+          "name": "Epistula ad Philippenses 3:2",
+          "shortName": "Phil 3:2",
+          "text": "Videte canes, videte malos operarios, videte concisionem!",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Phil.3.3",
+          "sblId": "Phil 3:3",
+          "name": "Epistula ad Philippenses 3:3",
+          "shortName": "Phil 3:3",
+          "text": "Nos enim sumus circumcisio, qui Spiritu Dei servimus et gloriamur in Christo Iesu et non in carne fiduciam habentes,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Phil.3.4",
+          "sblId": "Phil 3:4",
+          "name": "Epistula ad Philippenses 3:4",
+          "shortName": "Phil 3:4",
+          "text": "quamquam ego habeam confidentiam et in carne. Si quis alius videtur confidere in carne, ego magis:",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Phil.3.5",
+          "sblId": "Phil 3:5",
+          "name": "Epistula ad Philippenses 3:5",
+          "shortName": "Phil 3:5",
+          "text": "circumcisus octava die, ex genere Israel, de tribu Beniamin, Hebraeus ex Hebraeis, secundum legem pharisaeus,",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Phil.3.6",
+          "sblId": "Phil 3:6",
+          "name": "Epistula ad Philippenses 3:6",
+          "shortName": "Phil 3:6",
+          "text": "secundum aemulationem persequens ecclesiam, secundum iustitiam, quae in lege est, conversatus sine querela.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Phil.3.7",
+          "sblId": "Phil 3:7",
+          "name": "Epistula ad Philippenses 3:7",
+          "shortName": "Phil 3:7",
+          "text": "Sed, quae mihi erant lucra, haec arbitratus sum propter Christum detrimentum.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Phil.3.8",
+          "sblId": "Phil 3:8",
+          "name": "Epistula ad Philippenses 3:8",
+          "shortName": "Phil 3:8",
+          "text": "Verumtamen existimo omnia detrimentum esse propter eminentiam scientiae Christi Iesu Domini mei, propter quem omnia detrimentum feci et arbitror ut stercora, ut Christum lucrifaciam",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Phil.3.9",
+          "sblId": "Phil 3:9",
+          "name": "Epistula ad Philippenses 3:9",
+          "shortName": "Phil 3:9",
+          "text": "et inveniar in illo non habens meam iustitiam, quae ex lege est, sed illam, quae per fidem est Christi, quae ex Deo est iustitia in fide;",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Phil.3.10",
+          "sblId": "Phil 3:10",
+          "name": "Epistula ad Philippenses 3:10",
+          "shortName": "Phil 3:10",
+          "text": "ad cognoscendum illum et virtutem resurrectionis eius et communionem passionum illius, conformans me morti eius,",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Phil.3.11",
+          "sblId": "Phil 3:11",
+          "name": "Epistula ad Philippenses 3:11",
+          "shortName": "Phil 3:11",
+          "text": "si quo modo occurram ad resurrectionem, quae est ex mortuis.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Phil.3.12",
+          "sblId": "Phil 3:12",
+          "name": "Epistula ad Philippenses 3:12",
+          "shortName": "Phil 3:12",
+          "text": "Non quod iam acceperim aut iam perfectus sim; persequor autem si umquam comprehendam, sicut et comprehensus sum a Christo Iesu.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Phil.3.13",
+          "sblId": "Phil 3:13",
+          "name": "Epistula ad Philippenses 3:13",
+          "shortName": "Phil 3:13",
+          "text": "Fratres, ego me non arbitror comprehendisse; unum autem: quae quidem retro sunt, obliviscens, ad ea vero, quae ante sunt, extendens me",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Phil.3.14",
+          "sblId": "Phil 3:14",
+          "name": "Epistula ad Philippenses 3:14",
+          "shortName": "Phil 3:14",
+          "text": "ad destinatum persequor, ad bravium supernae vocationis Dei in Christo Iesu.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Phil.3.15",
+          "sblId": "Phil 3:15",
+          "name": "Epistula ad Philippenses 3:15",
+          "shortName": "Phil 3:15",
+          "text": "Quicumque ergo perfecti, hoc sentiamus; et si quid aliter sapitis, et hoc vobis Deus revelabit;",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Phil.3.16",
+          "sblId": "Phil 3:16",
+          "name": "Epistula ad Philippenses 3:16",
+          "shortName": "Phil 3:16",
+          "text": "verumtamen, ad quod pervenimus, in eodem ambulemus.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Phil.3.17",
+          "sblId": "Phil 3:17",
+          "name": "Epistula ad Philippenses 3:17",
+          "shortName": "Phil 3:17",
+          "text": "Coimitatores mei estote, fratres, et observate eos, qui ita ambulant, sicut habetis formam nos.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Phil.3.18",
+          "sblId": "Phil 3:18",
+          "name": "Epistula ad Philippenses 3:18",
+          "shortName": "Phil 3:18",
+          "text": "Multi enim ambulant, quos saepe dicebam vobis, nunc autem et flens dico, inimicos crucis Christi,",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Phil.3.19",
+          "sblId": "Phil 3:19",
+          "name": "Epistula ad Philippenses 3:19",
+          "shortName": "Phil 3:19",
+          "text": "quorum finis interitus, quorum deus venter et gloria in confusione ipsorum, qui terrena sapiunt.",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Phil.3.20",
+          "sblId": "Phil 3:20",
+          "name": "Epistula ad Philippenses 3:20",
+          "shortName": "Phil 3:20",
+          "text": "Noster enim municipatus in caelis est, unde etiam salvatorem exspectamus Dominum Iesum Christum,",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Phil.3.21",
+          "sblId": "Phil 3:21",
+          "name": "Epistula ad Philippenses 3:21",
+          "shortName": "Phil 3:21",
+          "text": "qui transfigurabit corpus humilitatis nostrae, ut illud conforme faciat corpori gloriae suae secundum operationem, qua possit etiam subicere sibi omnia.",
+          "orderIndex": 20
+        }
+      ]
+    },
+    {
+      "osisId": "Phil.4",
+      "sblId": "Phil 4",
+      "name": "Epistula ad Philippenses 4",
+      "shortName": "Phil 4",
+      "orderIndex": 3,
+      "versesCount": 23,
+      "verses": [
+        {
+          "osisId": "Phil.4.1",
+          "sblId": "Phil 4:1",
+          "name": "Epistula ad Philippenses 4:1",
+          "shortName": "Phil 4:1",
+          "text": "Itaque, fratres mei carissimi et desideratissimi, gaudium et co rona mea, sic state in Domino, carissimi!",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Phil.4.2",
+          "sblId": "Phil 4:2",
+          "name": "Epistula ad Philippenses 4:2",
+          "shortName": "Phil 4:2",
+          "text": "Evodiam rogo et Syntychen deprecor idipsum sapere in Domino.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Phil.4.3",
+          "sblId": "Phil 4:3",
+          "name": "Epistula ad Philippenses 4:3",
+          "shortName": "Phil 4:3",
+          "text": "Etiam rogo et te, germane compar, adiuva illas, quae mecum concertaverunt in evangelio cum Clemente et ceteris adiutoribus meis, quorum nomina sunt in libro vitae.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Phil.4.4",
+          "sblId": "Phil 4:4",
+          "name": "Epistula ad Philippenses 4:4",
+          "shortName": "Phil 4:4",
+          "text": "Gaudete in Domino semper. Iterum dico: Gaudete!",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Phil.4.5",
+          "sblId": "Phil 4:5",
+          "name": "Epistula ad Philippenses 4:5",
+          "shortName": "Phil 4:5",
+          "text": "Modestia vestra nota sit omnibus hominibus. Dominus prope.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Phil.4.6",
+          "sblId": "Phil 4:6",
+          "name": "Epistula ad Philippenses 4:6",
+          "shortName": "Phil 4:6",
+          "text": "Nihil solliciti sitis, sed in omnibus oratione et obsecratione cum gratiarum actione petitiones vestrae innotescant apud Deum.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Phil.4.7",
+          "sblId": "Phil 4:7",
+          "name": "Epistula ad Philippenses 4:7",
+          "shortName": "Phil 4:7",
+          "text": "Et pax Dei, quae exsuperat omnem sensum, custodiet corda vestra et intellegentias vestras in Christo Iesu.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Phil.4.8",
+          "sblId": "Phil 4:8",
+          "name": "Epistula ad Philippenses 4:8",
+          "shortName": "Phil 4:8",
+          "text": "De cetero, fratres, quaecumque sunt vera, quaecumque pudica, quaecumque iusta, quaecumque casta, quaecumque amabilia, quaecumque bonae famae, si qua virtus et si qua laus, haec cogitate;",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Phil.4.9",
+          "sblId": "Phil 4:9",
+          "name": "Epistula ad Philippenses 4:9",
+          "shortName": "Phil 4:9",
+          "text": "quae et didicistis et accepistis et audistis et vidistis in me, haec agite; et Deus pacis erit vobiscum.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Phil.4.10",
+          "sblId": "Phil 4:10",
+          "name": "Epistula ad Philippenses 4:10",
+          "shortName": "Phil 4:10",
+          "text": "Gavisus sum autem in Domino vehementer, quoniam tandem aliquando refloruistis pro me sentire, sicut et sentiebatis, opportunitate autem carebatis.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Phil.4.11",
+          "sblId": "Phil 4:11",
+          "name": "Epistula ad Philippenses 4:11",
+          "shortName": "Phil 4:11",
+          "text": "Non quasi propter penuriam dico, ego enim didici, in quibus sum, sufficiens esse.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Phil.4.12",
+          "sblId": "Phil 4:12",
+          "name": "Epistula ad Philippenses 4:12",
+          "shortName": "Phil 4:12",
+          "text": "Scio et humiliari, scio et abundare; ubique et in omnibus institutus sum et satiari et esurire et abundare et penuriam pati.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Phil.4.13",
+          "sblId": "Phil 4:13",
+          "name": "Epistula ad Philippenses 4:13",
+          "shortName": "Phil 4:13",
+          "text": "Omnia possum in eo, qui me confortat.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Phil.4.14",
+          "sblId": "Phil 4:14",
+          "name": "Epistula ad Philippenses 4:14",
+          "shortName": "Phil 4:14",
+          "text": "Verumtamen bene fecistis communicantes tribulationi meae.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Phil.4.15",
+          "sblId": "Phil 4:15",
+          "name": "Epistula ad Philippenses 4:15",
+          "shortName": "Phil 4:15",
+          "text": "Scitis autem et vos, Philippenses, quod in principio evangelii, quando profectus sum a Macedonia, nulla mihi ecclesia communicavit in ratione dati et accepti, nisi vos soli;",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Phil.4.16",
+          "sblId": "Phil 4:16",
+          "name": "Epistula ad Philippenses 4:16",
+          "shortName": "Phil 4:16",
+          "text": "quia et Thessalonicam et semel et bis in usum mihi misistis.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Phil.4.17",
+          "sblId": "Phil 4:17",
+          "name": "Epistula ad Philippenses 4:17",
+          "shortName": "Phil 4:17",
+          "text": "Non quia quaero datum, sed requiro fructum, qui abundet in rationem vestram.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Phil.4.18",
+          "sblId": "Phil 4:18",
+          "name": "Epistula ad Philippenses 4:18",
+          "shortName": "Phil 4:18",
+          "text": "Accepi autem omnia et abundo; repletus sum acceptis ab Epaphrodito, quae misistis odorem suavitatis, hostiam acceptam, placentem Deo.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Phil.4.19",
+          "sblId": "Phil 4:19",
+          "name": "Epistula ad Philippenses 4:19",
+          "shortName": "Phil 4:19",
+          "text": "Deus autem meus implebit omne desiderium vestrum secundum divitias suas in gloria in Christo Iesu.",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Phil.4.20",
+          "sblId": "Phil 4:20",
+          "name": "Epistula ad Philippenses 4:20",
+          "shortName": "Phil 4:20",
+          "text": "Deo autem et Patri nostro gloria in saecula saeculorum. Amen.",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Phil.4.21",
+          "sblId": "Phil 4:21",
+          "name": "Epistula ad Philippenses 4:21",
+          "shortName": "Phil 4:21",
+          "text": "Salutate omnem sanctum in Christo Iesu. Salutant vos, qui mecum sunt, fratres.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Phil.4.22",
+          "sblId": "Phil 4:22",
+          "name": "Epistula ad Philippenses 4:22",
+          "shortName": "Phil 4:22",
+          "text": "Salutant vos omnes sancti, maxime autem, qui de Caesaris domo sunt.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Phil.4.23",
+          "sblId": "Phil 4:23",
+          "name": "Epistula ad Philippenses 4:23",
+          "shortName": "Phil 4:23",
+          "text": "Gratia Domini Iesu Christi cum spiritu vestro. Amen.",
+          "orderIndex": 22
+        }
+      ]
+    }
+  ]
+}

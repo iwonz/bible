@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="Song" sblId="Song" name="Canticum Canticorum" shortName="Ct" orderIndex="21" chaptersCount="8" versesCount="117">
+  <chapters>
+    <Chapter osisId="Song.1" sblId="Song 1" name="Canticum Canticorum 1" shortName="Ct 1" orderIndex="0" versesCount="17">
+      <verses>
+        <Verse osisId="Song.1.1" sblId="Song 1:1" name="Canticum Canticorum 1:1" shortName="Ct 1:1" orderIndex="0">Canticum Canticorum Salomonis.</Verse>
+        <Verse osisId="Song.1.2" sblId="Song 1:2" name="Canticum Canticorum 1:2" shortName="Ct 1:2" orderIndex="1">Osculetur me osculo oris sui!Nam meliores sunt amores tui vino:</Verse>
+        <Verse osisId="Song.1.3" sblId="Song 1:3" name="Canticum Canticorum 1:3" shortName="Ct 1:3" orderIndex="2">in fragrantiam unguentorum tuorum optimorum.Oleum effusum nomen tuum;ideo adulescentulae dilexerunt te.</Verse>
+        <Verse osisId="Song.1.4" sblId="Song 1:4" name="Canticum Canticorum 1:4" shortName="Ct 1:4" orderIndex="3">Trahe me post te. Curramus!Introducat me rex in cellaria sua;exsultemus et laetemur in tememores amorum tuorum super vinum;recte diligunt te.</Verse>
+        <Verse osisId="Song.1.5" sblId="Song 1:5" name="Canticum Canticorum 1:5" shortName="Ct 1:5" orderIndex="4">Nigra sum sed formosa,filiae Ierusalem,sicut tabernacula Cedar,sicut pelles Salma.</Verse>
+        <Verse osisId="Song.1.6" sblId="Song 1:6" name="Canticum Canticorum 1:6" shortName="Ct 1:6" orderIndex="5">Nolite me considerare quod fusca sim,quia decoloravit me sol.Filii matris meae irati sunt mihi;posuerunt me custodem in vineis,vineam meam non custodivi.</Verse>
+        <Verse osisId="Song.1.7" sblId="Song 1:7" name="Canticum Canticorum 1:7" shortName="Ct 1:7" orderIndex="6">Indica mihi, tu, quem diligit anima mea,ubi pascas,ubi cubes in meridie,ne vagari incipiampost greges sodalium tuorum.</Verse>
+        <Verse osisId="Song.1.8" sblId="Song 1:8" name="Canticum Canticorum 1:8" shortName="Ct 1:8" orderIndex="7">Si ignoras,o pulcherrima inter mulieres,egredere et abi post vestigia gregumet pasce haedos tuosiuxta tabernacula pastorum.</Verse>
+        <Verse osisId="Song.1.9" sblId="Song 1:9" name="Canticum Canticorum 1:9" shortName="Ct 1:9" orderIndex="8">Equae in curribus pharaonisassimilavi te, amica mea.</Verse>
+        <Verse osisId="Song.1.10" sblId="Song 1:10" name="Canticum Canticorum 1:10" shortName="Ct 1:10" orderIndex="9">Pulchrae sunt genae tuae inter inaures,collum tuum inter monilia.</Verse>
+        <Verse osisId="Song.1.11" sblId="Song 1:11" name="Canticum Canticorum 1:11" shortName="Ct 1:11" orderIndex="10">Inaures aureas faciemus tibivermiculatas argento.</Verse>
+        <Verse osisId="Song.1.12" sblId="Song 1:12" name="Canticum Canticorum 1:12" shortName="Ct 1:12" orderIndex="11">Dum esset rex in accubitu suo,nardus mea dedit odorem suum.</Verse>
+        <Verse osisId="Song.1.13" sblId="Song 1:13" name="Canticum Canticorum 1:13" shortName="Ct 1:13" orderIndex="12">Fasciculus myrrhae dilectus meus mihi,qui inter ubera mea commoratur.</Verse>
+        <Verse osisId="Song.1.14" sblId="Song 1:14" name="Canticum Canticorum 1:14" shortName="Ct 1:14" orderIndex="13">Botrus cypri dilectus meus mihiin vineis Engaddi.</Verse>
+        <Verse osisId="Song.1.15" sblId="Song 1:15" name="Canticum Canticorum 1:15" shortName="Ct 1:15" orderIndex="14">Ecce tu pulchra es, amica mea,ecce tu pulchra es:oculi tui columbarum.</Verse>
+        <Verse osisId="Song.1.16" sblId="Song 1:16" name="Canticum Canticorum 1:16" shortName="Ct 1:16" orderIndex="15">Ecce tu pulcher es, dilecte mi,et decorus.Lectulus noster floridus,</Verse>
+        <Verse osisId="Song.1.17" sblId="Song 1:17" name="Canticum Canticorum 1:17" shortName="Ct 1:17" orderIndex="16">tigna domorum nostrarum cedrina,laquearia nostra cupressina.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Song.2" sblId="Song 2" name="Canticum Canticorum 2" shortName="Ct 2" orderIndex="1" versesCount="17">
+      <verses>
+        <Verse osisId="Song.2.1" sblId="Song 2:1" name="Canticum Canticorum 2:1" shortName="Ct 2:1" orderIndex="0">Ego flos campiet lilium convallium.</Verse>
+        <Verse osisId="Song.2.2" sblId="Song 2:2" name="Canticum Canticorum 2:2" shortName="Ct 2:2" orderIndex="1">Sicut lilium inter spinas,sic amica mea inter filias.</Verse>
+        <Verse osisId="Song.2.3" sblId="Song 2:3" name="Canticum Canticorum 2:3" shortName="Ct 2:3" orderIndex="2">Sicut malus inter ligna silvarum,sic dilectus meus inter filios.Sub umbra illius, quem desideraveram, sedi,et fructus eius dulcis gutturi meo.</Verse>
+        <Verse osisId="Song.2.4" sblId="Song 2:4" name="Canticum Canticorum 2:4" shortName="Ct 2:4" orderIndex="3">Introduxit me in cellam vinariam,et vexillum eius super me est caritas.</Verse>
+        <Verse osisId="Song.2.5" sblId="Song 2:5" name="Canticum Canticorum 2:5" shortName="Ct 2:5" orderIndex="4">Fulcite me uvarum placentis,stipate me malis,quia amore langueo.</Verse>
+        <Verse osisId="Song.2.6" sblId="Song 2:6" name="Canticum Canticorum 2:6" shortName="Ct 2:6" orderIndex="5">Laeva eius sub capite meo,et dextera illius amplexatur me.</Verse>
+        <Verse osisId="Song.2.7" sblId="Song 2:7" name="Canticum Canticorum 2:7" shortName="Ct 2:7" orderIndex="6">Adiuro vos, filiae Ierusalem,per capreas cervasque camporum,ne suscitetis neque evigilare faciatis dilectam,quoadusque ipsa velit.</Verse>
+        <Verse osisId="Song.2.8" sblId="Song 2:8" name="Canticum Canticorum 2:8" shortName="Ct 2:8" orderIndex="7">Vox dilecti mei!Ecce iste venitsaliens in montibus,transiliens colles.</Verse>
+        <Verse osisId="Song.2.9" sblId="Song 2:9" name="Canticum Canticorum 2:9" shortName="Ct 2:9" orderIndex="8">Similis est dilectus meus capreaehinnuloque cervorum.En ipse statpost parietem nostrumrespiciens per fenestras,prospiciens per cancellos.</Verse>
+        <Verse osisId="Song.2.10" sblId="Song 2:10" name="Canticum Canticorum 2:10" shortName="Ct 2:10" orderIndex="9">En dilectus meus loquitur mihi: Surge, amica mea,columba mea, formosa mea, et veni.</Verse>
+        <Verse osisId="Song.2.11" sblId="Song 2:11" name="Canticum Canticorum 2:11" shortName="Ct 2:11" orderIndex="10">Iam enim hiems transiit,imber abiit et recessit.</Verse>
+        <Verse osisId="Song.2.12" sblId="Song 2:12" name="Canticum Canticorum 2:12" shortName="Ct 2:12" orderIndex="11">Flores apparuerunt in terra,tempus putationis advenit;vox turturis audita estin terra nostra,</Verse>
+        <Verse osisId="Song.2.13" sblId="Song 2:13" name="Canticum Canticorum 2:13" shortName="Ct 2:13" orderIndex="12">ficus protulit grossos suos,vineae florentes dederunt odorem suum;surge, amica mea,speciosa mea, et veni,</Verse>
+        <Verse osisId="Song.2.14" sblId="Song 2:14" name="Canticum Canticorum 2:14" shortName="Ct 2:14" orderIndex="13">columba mea, in foraminibus petrae,in caverna abrupta.Ostende mihi faciem tuam,sonet vox tua in auribus meis;vox enim tua dulcis,et facies tua decora ".</Verse>
+        <Verse osisId="Song.2.15" sblId="Song 2:15" name="Canticum Canticorum 2:15" shortName="Ct 2:15" orderIndex="14">Capite nobis vulpes, vulpes parvulas,quae demoliuntur vineas,nam vineae nostrae florescunt.</Verse>
+        <Verse osisId="Song.2.16" sblId="Song 2:16" name="Canticum Canticorum 2:16" shortName="Ct 2:16" orderIndex="15">Dilectus meus mihi, et ego illi,qui pascitur inter lilia,</Verse>
+        <Verse osisId="Song.2.17" sblId="Song 2:17" name="Canticum Canticorum 2:17" shortName="Ct 2:17" orderIndex="16">antequam aspiret dies,et festinent umbrae.Revertere; similis esto,dilecte mi, capreaehinnuloque cervorum super montes Bether.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Song.3" sblId="Song 3" name="Canticum Canticorum 3" shortName="Ct 3" orderIndex="2" versesCount="11">
+      <verses>
+        <Verse osisId="Song.3.1" sblId="Song 3:1" name="Canticum Canticorum 3:1" shortName="Ct 3:1" orderIndex="0">In lectulo meo per noctesquaesivi, quem diligit anima mea;quaesivi illum et non inveni.</Verse>
+        <Verse osisId="Song.3.2" sblId="Song 3:2" name="Canticum Canticorum 3:2" shortName="Ct 3:2" orderIndex="1">" Surgam et circuibo civitatem;per vicos et plateasquaeram, quem diligit anima mea".Quaesivi illum et non inveni.</Verse>
+        <Verse osisId="Song.3.3" sblId="Song 3:3" name="Canticum Canticorum 3:3" shortName="Ct 3:3" orderIndex="2">Invenerunt me vigiles,qui circumeunt civitatem: Num, quem diligit anima mea, vidistis? ".</Verse>
+        <Verse osisId="Song.3.4" sblId="Song 3:4" name="Canticum Canticorum 3:4" shortName="Ct 3:4" orderIndex="3">Paululum cum pertransissem eos,inveni, quem diligit anima mea;tenui eum nec dimittam,donec introducam illum in domum matris meaeet in cubiculum genetricis meae.</Verse>
+        <Verse osisId="Song.3.5" sblId="Song 3:5" name="Canticum Canticorum 3:5" shortName="Ct 3:5" orderIndex="4">Adiuro vos, filiae Ierusalem,per capreas cervasque camporum,ne suscitetis neque evigilare faciatis dilectam,donec ipsa velit.</Verse>
+        <Verse osisId="Song.3.6" sblId="Song 3:6" name="Canticum Canticorum 3:6" shortName="Ct 3:6" orderIndex="5">Quid hoc, quod ascendit per desertumsicut virgula fumi,aromatizans tus et myrrhamet universum pulverem pigmentarii?</Verse>
+        <Verse osisId="Song.3.7" sblId="Song 3:7" name="Canticum Canticorum 3:7" shortName="Ct 3:7" orderIndex="6">En lectulum Salomonis.Sexaginta fortes ambiunt illumex fortissimis Israel,</Verse>
+        <Verse osisId="Song.3.8" sblId="Song 3:8" name="Canticum Canticorum 3:8" shortName="Ct 3:8" orderIndex="7">omnes tenentes gladioset ad bella doctissimi,uniuscuiusque ensis super femur suumpropter timores nocturnos.</Verse>
+        <Verse osisId="Song.3.9" sblId="Song 3:9" name="Canticum Canticorum 3:9" shortName="Ct 3:9" orderIndex="8">Ferculum fecit sibi rex Salomonde lignis Libani;</Verse>
+        <Verse osisId="Song.3.10" sblId="Song 3:10" name="Canticum Canticorum 3:10" shortName="Ct 3:10" orderIndex="9">columnas eius fecit argenteas,reclinatorium aureum,sedile purpureum:medium eius stratum ebeneum.Filiae Ierusalem,</Verse>
+        <Verse osisId="Song.3.11" sblId="Song 3:11" name="Canticum Canticorum 3:11" shortName="Ct 3:11" orderIndex="10">egredimini et videte,filiae Sion,regem Salomonemin diademate, quo coronavit illum mater suain die desponsationis illiuset in die laetitiae cordis eius.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Song.4" sblId="Song 4" name="Canticum Canticorum 4" shortName="Ct 4" orderIndex="3" versesCount="16">
+      <verses>
+        <Verse osisId="Song.4.1" sblId="Song 4:1" name="Canticum Canticorum 4:1" shortName="Ct 4:1" orderIndex="0">Quam pulchra es, amica mea,quam pulchra es:oculi tui columbarumper velamen tuum.Capilli tui sicut grex caprarum,quae descenderunt de monte Galaad;</Verse>
+        <Verse osisId="Song.4.2" sblId="Song 4:2" name="Canticum Canticorum 4:2" shortName="Ct 4:2" orderIndex="1">dentes tui sicut grex tonsarum,quae ascenderunt de lavacro:omnes gemellis fetibus,et sterilis non est inter eas.</Verse>
+        <Verse osisId="Song.4.3" sblId="Song 4:3" name="Canticum Canticorum 4:3" shortName="Ct 4:3" orderIndex="2">Sicut vitta coccinea labia tua,et eloquium tuum dulce;sicut fragmen mali punici, ita genae tuaeper velamen tuum.</Verse>
+        <Verse osisId="Song.4.4" sblId="Song 4:4" name="Canticum Canticorum 4:4" shortName="Ct 4:4" orderIndex="3">Sicut turris David collum tuum,quae aedificata est cum propugnaculis:mille clipei pendent ex ea,omnis armatura fortium.</Verse>
+        <Verse osisId="Song.4.5" sblId="Song 4:5" name="Canticum Canticorum 4:5" shortName="Ct 4:5" orderIndex="4">Duo ubera tua sicut duo hinnuli,capreae gemelli,qui pascuntur in liliis.</Verse>
+        <Verse osisId="Song.4.6" sblId="Song 4:6" name="Canticum Canticorum 4:6" shortName="Ct 4:6" orderIndex="5">Antequam aspiret dies,et festinent umbrae,vadam ad montem myrrhaeet ad collem turis.</Verse>
+        <Verse osisId="Song.4.7" sblId="Song 4:7" name="Canticum Canticorum 4:7" shortName="Ct 4:7" orderIndex="6">Tota pulchra es, amica mea,et macula non est in te.</Verse>
+        <Verse osisId="Song.4.8" sblId="Song 4:8" name="Canticum Canticorum 4:8" shortName="Ct 4:8" orderIndex="7">Veni de Libano, sponsa,veni de Libano,ingredere;respice de capite Amana,de vertice Sanir et Hermon,de cubilibus leonum,de montibus pardorum.</Verse>
+        <Verse osisId="Song.4.9" sblId="Song 4:9" name="Canticum Canticorum 4:9" shortName="Ct 4:9" orderIndex="8">Vulnerasti cor meum, soror mea, sponsa,vulnerasti cor meum in uno oculorum tuorumet in uno monili torquis tui.</Verse>
+        <Verse osisId="Song.4.10" sblId="Song 4:10" name="Canticum Canticorum 4:10" shortName="Ct 4:10" orderIndex="9">Quam pulchri sunt amores tui, soror, mea sponsa;meliores sunt amores tui vino,et odor unguentorum tuorum super omnia aromata.</Verse>
+        <Verse osisId="Song.4.11" sblId="Song 4:11" name="Canticum Canticorum 4:11" shortName="Ct 4:11" orderIndex="10">Favus distillans labia tua, sponsa;mel et lac sub lingua tua,et odor vestimentorum tuorumsicut odor Libani.</Verse>
+        <Verse osisId="Song.4.12" sblId="Song 4:12" name="Canticum Canticorum 4:12" shortName="Ct 4:12" orderIndex="11">Hortus conclusus, soror mea, sponsa,hortus conclusus, fons signatus;</Verse>
+        <Verse osisId="Song.4.13" sblId="Song 4:13" name="Canticum Canticorum 4:13" shortName="Ct 4:13" orderIndex="12">propagines tuae paradisus malorum punicorumcum optimis fructibus,cypri cum nardo.</Verse>
+        <Verse osisId="Song.4.14" sblId="Song 4:14" name="Canticum Canticorum 4:14" shortName="Ct 4:14" orderIndex="13">Nardus et crocus,fistula et cinnamomumcum universis lignis turiferis,myrrha et aloecum omnibus primis unguentis.</Verse>
+        <Verse osisId="Song.4.15" sblId="Song 4:15" name="Canticum Canticorum 4:15" shortName="Ct 4:15" orderIndex="14">Fons hortorum,puteus aquarum viventium,quae fluunt impetu de Libano.</Verse>
+        <Verse osisId="Song.4.16" sblId="Song 4:16" name="Canticum Canticorum 4:16" shortName="Ct 4:16" orderIndex="15">Surge, aquilo,et veni, auster;perfla hortum meum,et fluant aromata illius.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Song.5" sblId="Song 5" name="Canticum Canticorum 5" shortName="Ct 5" orderIndex="4" versesCount="16">
+      <verses>
+        <Verse osisId="Song.5.1" sblId="Song 5:1" name="Canticum Canticorum 5:1" shortName="Ct 5:1" orderIndex="0">Veniat dilectus meus in hortum suumet comedat fructus eius optimos.Veni in hortum meum, soror mea, sponsa;messui myrrham meam cum aromatibus meis,comedi favum cum melle,bibi vinum cum lacte meo.Comedite, amici, et bibiteet inebriamini, carissimi.</Verse>
+        <Verse osisId="Song.5.2" sblId="Song 5:2" name="Canticum Canticorum 5:2" shortName="Ct 5:2" orderIndex="1">Ego dormio, et cor meum vigilat.Vox dilecti mei pulsantis: Aperi mihi, soror mea, amica mea,columba mea, immaculata mea,quia caput meum plenum est rore, et cincinni mei guttis noctium ".</Verse>
+        <Verse osisId="Song.5.3" sblId="Song 5:3" name="Canticum Canticorum 5:3" shortName="Ct 5:3" orderIndex="2">" Exspoliavi me tunica mea,quomodo induar illa?Lavi pedes meos,quomodo inquinabo illos?".</Verse>
+        <Verse osisId="Song.5.4" sblId="Song 5:4" name="Canticum Canticorum 5:4" shortName="Ct 5:4" orderIndex="3">Dilectus meus misit manum suam per foramen,et venter meus ilico intremuit.</Verse>
+        <Verse osisId="Song.5.5" sblId="Song 5:5" name="Canticum Canticorum 5:5" shortName="Ct 5:5" orderIndex="4">Surrexi, ut aperirem dilecto meo;manus meae stillaverunt myrrham,et digiti mei pleni myrrha probatissimasuper ansam pessuli.</Verse>
+        <Verse osisId="Song.5.6" sblId="Song 5:6" name="Canticum Canticorum 5:6" shortName="Ct 5:6" orderIndex="5">Aperui dilecto meo;at ille declinaverat atque transierat.Anima mea liquefacta est, quia discesserat.Quaesivi et non inveni illum;vocavi, et non respondit mihi.</Verse>
+        <Verse osisId="Song.5.7" sblId="Song 5:7" name="Canticum Canticorum 5:7" shortName="Ct 5:7" orderIndex="6">Invenerunt me custodes,qui circumeunt civitatem;percusserunt me et vulneraverunt me,tulerunt pallium meum mihicustodes murorum.</Verse>
+        <Verse osisId="Song.5.8" sblId="Song 5:8" name="Canticum Canticorum 5:8" shortName="Ct 5:8" orderIndex="7">Adiuro vos, filiae Ierusalem:si inveneritis dilectum meum,quid nuntietis ei? Quia amore langueo ".</Verse>
+        <Verse osisId="Song.5.9" sblId="Song 5:9" name="Canticum Canticorum 5:9" shortName="Ct 5:9" orderIndex="8">Quid est dilecto tuo prae ceteris,o pulcherrima mulierum?Quid est dilecto tuo prae ceteris,quia sic adiurasti nos?</Verse>
+        <Verse osisId="Song.5.10" sblId="Song 5:10" name="Canticum Canticorum 5:10" shortName="Ct 5:10" orderIndex="9">Dilectus meus candidus et rubicundusdignoscitur ex milibus.</Verse>
+        <Verse osisId="Song.5.11" sblId="Song 5:11" name="Canticum Canticorum 5:11" shortName="Ct 5:11" orderIndex="10">Caput eius aurum optimum,cincinni eius sicut racemi palmarum,nigri quasi corvus.</Verse>
+        <Verse osisId="Song.5.12" sblId="Song 5:12" name="Canticum Canticorum 5:12" shortName="Ct 5:12" orderIndex="11">Oculi eius sicut columbaesuper rivulos aquarum,quae lacte sunt lotaeet resident iuxta fluenta plenissima.</Verse>
+        <Verse osisId="Song.5.13" sblId="Song 5:13" name="Canticum Canticorum 5:13" shortName="Ct 5:13" orderIndex="12">Genae illius sicut areolae aromatum,turriculae unguentorum;labia eius liliadistillantia myrrham primam.</Verse>
+        <Verse osisId="Song.5.14" sblId="Song 5:14" name="Canticum Canticorum 5:14" shortName="Ct 5:14" orderIndex="13">Manus illius tornatiles aureae,plenae hyacinthis;venter eius opus eburneumdistinctum sapphiris.</Verse>
+        <Verse osisId="Song.5.15" sblId="Song 5:15" name="Canticum Canticorum 5:15" shortName="Ct 5:15" orderIndex="14">Crura illius columnae marmoreae,quae fundatae sunt super bases aureas;species eius ut Libani,electus ut cedri.</Verse>
+        <Verse osisId="Song.5.16" sblId="Song 5:16" name="Canticum Canticorum 5:16" shortName="Ct 5:16" orderIndex="15">Guttur illius suavissimum,et totus desiderabilis.Talis est dilectus meus, et ipse est amicus meus,filiae Ierusalem.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Song.6" sblId="Song 6" name="Canticum Canticorum 6" shortName="Ct 6" orderIndex="5" versesCount="12">
+      <verses>
+        <Verse osisId="Song.6.1" sblId="Song 6:1" name="Canticum Canticorum 6:1" shortName="Ct 6:1" orderIndex="0">Quo abiit dilectus tuus,o pulcherrima mulierum?Quo declinavit dilectus tuus,et quaeremus eum tecum?</Verse>
+        <Verse osisId="Song.6.2" sblId="Song 6:2" name="Canticum Canticorum 6:2" shortName="Ct 6:2" orderIndex="1">Dilectus meus descendit in hortum suumad areolam aromatum,ut pascatur in hortiset lilia colligat.</Verse>
+        <Verse osisId="Song.6.3" sblId="Song 6:3" name="Canticum Canticorum 6:3" shortName="Ct 6:3" orderIndex="2">Ego dilecto meo, et dilectus meus mihi,qui pascitur inter lilia.</Verse>
+        <Verse osisId="Song.6.4" sblId="Song 6:4" name="Canticum Canticorum 6:4" shortName="Ct 6:4" orderIndex="3">Pulchra es, amica mea, sicut Thersa,decora sicut Ierusalem,terribilis ut castrorum acies ordinata.</Verse>
+        <Verse osisId="Song.6.5" sblId="Song 6:5" name="Canticum Canticorum 6:5" shortName="Ct 6:5" orderIndex="4">Averte oculos tuos a me,quia ipsi me conturbant.Capilli tui sicut grex caprarum,quae descenderunt de Galaad.</Verse>
+        <Verse osisId="Song.6.6" sblId="Song 6:6" name="Canticum Canticorum 6:6" shortName="Ct 6:6" orderIndex="5">Dentes tui sicut grex ovium,quae ascenderunt de lavacro:omnes gemellis fetibus,et sterilis non est in eis.</Verse>
+        <Verse osisId="Song.6.7" sblId="Song 6:7" name="Canticum Canticorum 6:7" shortName="Ct 6:7" orderIndex="6">Sicut fragmen mali punici, sic genae tuaeper velamen tuum.</Verse>
+        <Verse osisId="Song.6.8" sblId="Song 6:8" name="Canticum Canticorum 6:8" shortName="Ct 6:8" orderIndex="7">Sexaginta sunt reginae,et octoginta concubinae,et adulescentularum non est numerus;</Verse>
+        <Verse osisId="Song.6.9" sblId="Song 6:9" name="Canticum Canticorum 6:9" shortName="Ct 6:9" orderIndex="8">una est columba mea, perfecta mea,una est matri suae,electa genetrici suae.Viderunt eam filiae et beatissimam praedicaverunt;reginae et concubinae, et laudaverunt eam:</Verse>
+        <Verse osisId="Song.6.10" sblId="Song 6:10" name="Canticum Canticorum 6:10" shortName="Ct 6:10" orderIndex="9">" Quae est ista, quae progreditur quasi aurora consurgens,pulchra ut luna,electa ut sol,terribilis ut castrorum acies ordinata? ".</Verse>
+        <Verse osisId="Song.6.11" sblId="Song 6:11" name="Canticum Canticorum 6:11" shortName="Ct 6:11" orderIndex="10">Descendi in hortum nucum,ut viderem poma convalliumet inspicerem, si floruisset vinea,et germinassent mala punica.</Verse>
+        <Verse osisId="Song.6.12" sblId="Song 6:12" name="Canticum Canticorum 6:12" shortName="Ct 6:12" orderIndex="11">Non advertit animus meus,cum posuit me in quadrigas principis populi mei.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Song.7" sblId="Song 7" name="Canticum Canticorum 7" shortName="Ct 7" orderIndex="6" versesCount="14">
+      <verses>
+        <Verse osisId="Song.7.1" sblId="Song 7:1" name="Canticum Canticorum 7:1" shortName="Ct 7:1" orderIndex="0">Convertere, convertere, Sula mitis;convertere, convertere, ut intueamur te.Quid aspicitis in Sulamitem,cum saltat inter binos choros?</Verse>
+        <Verse osisId="Song.7.2" sblId="Song 7:2" name="Canticum Canticorum 7:2" shortName="Ct 7:2" orderIndex="1">Quam pulchri sunt pedes tui in calceamentis,filia principis!Flexurae femorum tuorum sicut monilia,quae fabricata sunt manu artificis.</Verse>
+        <Verse osisId="Song.7.3" sblId="Song 7:3" name="Canticum Canticorum 7:3" shortName="Ct 7:3" orderIndex="2">Gremium tuum crater tornatilis:numquam indigeat vino mixto;venter tuus sicut acervus triticivallatus liliis.</Verse>
+        <Verse osisId="Song.7.4" sblId="Song 7:4" name="Canticum Canticorum 7:4" shortName="Ct 7:4" orderIndex="3">Duo ubera tua sicut duo hinnuli,gemelli capreae,</Verse>
+        <Verse osisId="Song.7.5" sblId="Song 7:5" name="Canticum Canticorum 7:5" shortName="Ct 7:5" orderIndex="4">collum tuum sicut turris eburnea.Oculi tui sicut piscinae in Hesebon,quae sunt ad portam Bathrabbim;nasus tuus sicut turris Libani,quae respicit contra Damascum.</Verse>
+        <Verse osisId="Song.7.6" sblId="Song 7:6" name="Canticum Canticorum 7:6" shortName="Ct 7:6" orderIndex="5">Caput tuum ut Carmelus,et comae capitis tui sicut purpura;rex vincitur cincinnis.</Verse>
+        <Verse osisId="Song.7.7" sblId="Song 7:7" name="Canticum Canticorum 7:7" shortName="Ct 7:7" orderIndex="6">Quam pulchra es et quam decora,carissima, in deliciis!</Verse>
+        <Verse osisId="Song.7.8" sblId="Song 7:8" name="Canticum Canticorum 7:8" shortName="Ct 7:8" orderIndex="7">Statura tua assimilata est palmae,et ubera tua botris.</Verse>
+        <Verse osisId="Song.7.9" sblId="Song 7:9" name="Canticum Canticorum 7:9" shortName="Ct 7:9" orderIndex="8">Dixi: " Ascendam in palmamet apprehendam fructus eius ".Et erunt ubera tua sicut botri vineae,et odor oris tui sicut malorum.</Verse>
+        <Verse osisId="Song.7.10" sblId="Song 7:10" name="Canticum Canticorum 7:10" shortName="Ct 7:10" orderIndex="9">Guttur tuum sicut vinum optimum,dignum dilecto meo ad potandum,labiisque et dentibus illius ad ruminandum.</Verse>
+        <Verse osisId="Song.7.11" sblId="Song 7:11" name="Canticum Canticorum 7:11" shortName="Ct 7:11" orderIndex="10">Ego dilecto meo,et ad me appetitus eius.</Verse>
+        <Verse osisId="Song.7.12" sblId="Song 7:12" name="Canticum Canticorum 7:12" shortName="Ct 7:12" orderIndex="11">Veni, dilecte mi, egrediamur in agrum,commoremur in villis;</Verse>
+        <Verse osisId="Song.7.13" sblId="Song 7:13" name="Canticum Canticorum 7:13" shortName="Ct 7:13" orderIndex="12">mane properabimus ad vineas,videbimus; si floruit vinea,si flores aperiuntur,si floruerunt mala punica;ibi dabo tibi amores meos.</Verse>
+        <Verse osisId="Song.7.14" sblId="Song 7:14" name="Canticum Canticorum 7:14" shortName="Ct 7:14" orderIndex="13">Mandragorae dederunt odorem;in portis nostris omnia poma optima,nova et vetera,dilecte mi, servavi tibi.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Song.8" sblId="Song 8" name="Canticum Canticorum 8" shortName="Ct 8" orderIndex="7" versesCount="14">
+      <verses>
+        <Verse osisId="Song.8.1" sblId="Song 8:1" name="Canticum Canticorum 8:1" shortName="Ct 8:1" orderIndex="0">Quis mihi det te fratrem meum,sugentem ubera matris meae,ut inveniam te foris et deosculer te,et iam me nemo despiciat?</Verse>
+        <Verse osisId="Song.8.2" sblId="Song 8:2" name="Canticum Canticorum 8:2" shortName="Ct 8:2" orderIndex="1">Apprehenderem te et ducerem in domum matris meae;ibi me doceres,et darem tibi poculum ex vino conditoet mustum malorum granatorum meorum.</Verse>
+        <Verse osisId="Song.8.3" sblId="Song 8:3" name="Canticum Canticorum 8:3" shortName="Ct 8:3" orderIndex="2">Laeva eius sub capite meo,et dextera illius amplexatur me.</Verse>
+        <Verse osisId="Song.8.4" sblId="Song 8:4" name="Canticum Canticorum 8:4" shortName="Ct 8:4" orderIndex="3">Adiuro vos, filiae Ierusalem,ne suscitetis neque evigilare faciatis dilectam,donec ipsa velit.</Verse>
+        <Verse osisId="Song.8.5" sblId="Song 8:5" name="Canticum Canticorum 8:5" shortName="Ct 8:5" orderIndex="4">Quae est ista, quae ascendit de desertoinnixa super dilectum suum?Sub arbore malo suscitavi te;ibi parturivit te mater tua,ibi parturivit te genetrix tua.</Verse>
+        <Verse osisId="Song.8.6" sblId="Song 8:6" name="Canticum Canticorum 8:6" shortName="Ct 8:6" orderIndex="5">Pone me ut signaculum super cor tuum,ut signaculum super brachium tuum,quia fortis est ut mors dilectio,dura sicut infernus aemulatio;lampades eius lampades ignisatque flammae divinae.</Verse>
+        <Verse osisId="Song.8.7" sblId="Song 8:7" name="Canticum Canticorum 8:7" shortName="Ct 8:7" orderIndex="6">Aquae multae non potuerunt exstinguere caritatem,nec flumina obruent illam;si dederit homo omnem substantiam domus suae pro dilectione,quasi nihil despicient eum.</Verse>
+        <Verse osisId="Song.8.8" sblId="Song 8:8" name="Canticum Canticorum 8:8" shortName="Ct 8:8" orderIndex="7">Soror nostra parvaet ubera non habet;quid faciemus sorori nostraein die, quando alloquenda est?</Verse>
+        <Verse osisId="Song.8.9" sblId="Song 8:9" name="Canticum Canticorum 8:9" shortName="Ct 8:9" orderIndex="8">Si murus est,aedificemus super eum propugnacula argentea;si ostium est,compingamus illud tabulis cedrinis.</Verse>
+        <Verse osisId="Song.8.10" sblId="Song 8:10" name="Canticum Canticorum 8:10" shortName="Ct 8:10" orderIndex="9">Ego murus,et ubera mea sicut turris;ex quo facta sum coram eoquasi pacem reperiens.</Verse>
+        <Verse osisId="Song.8.11" sblId="Song 8:11" name="Canticum Canticorum 8:11" shortName="Ct 8:11" orderIndex="10">Vinea fuit Salomoniin Baalhamon.Tradidit eam custodibus;vir affert pro fructu eiusmille argenteos.</Verse>
+        <Verse osisId="Song.8.12" sblId="Song 8:12" name="Canticum Canticorum 8:12" shortName="Ct 8:12" orderIndex="11">Vinea mea coram me est;mille tibi, Salomon,et ducenti his, qui custodiunt fructus eius.</Verse>
+        <Verse osisId="Song.8.13" sblId="Song 8:13" name="Canticum Canticorum 8:13" shortName="Ct 8:13" orderIndex="12">Quae habitas in hortis,amici auscultant,fac me audire vocem tuam.</Verse>
+        <Verse osisId="Song.8.14" sblId="Song 8:14" name="Canticum Canticorum 8:14" shortName="Ct 8:14" orderIndex="13">Fuge, dilecte mi,et assimilare capreaehinnuloque cervorumsuper montes aromatum.</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

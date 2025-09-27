@@ -1,0 +1,674 @@
+chapters:
+- name: Epistula ad Colossenses 1
+  orderIndex: 0
+  osisId: Col.1
+  sblId: Col 1
+  shortName: Col 1
+  verses:
+  - name: Epistula ad Colossenses 1:1
+    orderIndex: 0
+    osisId: Col.1.1
+    sblId: Col 1:1
+    shortName: Col 1:1
+    text: Paulus apostolus Christi Iesu per voluntatem Dei et Timotheus frater
+  - name: Epistula ad Colossenses 1:2
+    orderIndex: 1
+    osisId: Col.1.2
+    sblId: Col 1:2
+    shortName: Col 1:2
+    text: his qui sunt Colossis sanctis et fidelibus fratribus in Christo Iesu gratia
+      vobis et pax a Deo Patre nostro
+  - name: Epistula ad Colossenses 1:3
+    orderIndex: 2
+    osisId: Col.1.3
+    sblId: Col 1:3
+    shortName: Col 1:3
+    text: gratias agimus Deo et Patri Domini nostri Iesu Christi semper pro vobis
+      orantes
+  - name: Epistula ad Colossenses 1:4
+    orderIndex: 3
+    osisId: Col.1.4
+    sblId: Col 1:4
+    shortName: Col 1:4
+    text: audientes fidem vestram in Christo Iesu et dilectionem quam habetis in sanctos
+      omnes
+  - name: Epistula ad Colossenses 1:5
+    orderIndex: 4
+    osisId: Col.1.5
+    sblId: Col 1:5
+    shortName: Col 1:5
+    text: propter spem quae reposita est vobis in caelis quam audistis in verbo veritatis
+      evangelii
+  - name: Epistula ad Colossenses 1:6
+    orderIndex: 5
+    osisId: Col.1.6
+    sblId: Col 1:6
+    shortName: Col 1:6
+    text: quod pervenit ad vos sicut et in universo mundo est et fructificat et crescit
+      sicut in vobis ex ea die qua audistis et cognovistis gratiam Dei in veritate
+  - name: Epistula ad Colossenses 1:7
+    orderIndex: 6
+    osisId: Col.1.7
+    sblId: Col 1:7
+    shortName: Col 1:7
+    text: sicut didicistis ab Epaphra carissimo conservo nostro qui est fidelis pro
+      vobis minister Christi Iesu
+  - name: Epistula ad Colossenses 1:8
+    orderIndex: 7
+    osisId: Col.1.8
+    sblId: Col 1:8
+    shortName: Col 1:8
+    text: qui etiam manifestavit nobis dilectionem vestram in Spiritu
+  - name: Epistula ad Colossenses 1:9
+    orderIndex: 8
+    osisId: Col.1.9
+    sblId: Col 1:9
+    shortName: Col 1:9
+    text: ideo et nos ex qua die audivimus non cessamus pro vobis orantes et postulantes
+      ut impleamini agnitione voluntatis eius in omni sapientia et intellectu spiritali
+  - name: Epistula ad Colossenses 1:10
+    orderIndex: 9
+    osisId: Col.1.10
+    sblId: Col 1:10
+    shortName: Col 1:10
+    text: ut ambuletis digne Deo per omnia placentes in omni opere bono fructificantes
+      et crescentes in scientia Dei
+  - name: Epistula ad Colossenses 1:11
+    orderIndex: 10
+    osisId: Col.1.11
+    sblId: Col 1:11
+    shortName: Col 1:11
+    text: in omni virtute confortati secundum potentiam claritatis eius in omni patientia
+      et longanimitate cum gaudio
+  - name: Epistula ad Colossenses 1:12
+    orderIndex: 11
+    osisId: Col.1.12
+    sblId: Col 1:12
+    shortName: Col 1:12
+    text: gratias agentes Patri qui dignos nos fecit in partem sortis sanctorum in
+      lumine
+  - name: Epistula ad Colossenses 1:13
+    orderIndex: 12
+    osisId: Col.1.13
+    sblId: Col 1:13
+    shortName: Col 1:13
+    text: qui eripuit nos de potestate tenebrarum et transtulit in regnum Filii dilectionis
+      suae
+  - name: Epistula ad Colossenses 1:14
+    orderIndex: 13
+    osisId: Col.1.14
+    sblId: Col 1:14
+    shortName: Col 1:14
+    text: in quo habemus redemptionem remissionem peccatorum
+  - name: Epistula ad Colossenses 1:15
+    orderIndex: 14
+    osisId: Col.1.15
+    sblId: Col 1:15
+    shortName: Col 1:15
+    text: qui est imago Dei invisibilis primogenitus omnis creaturae
+  - name: Epistula ad Colossenses 1:16
+    orderIndex: 15
+    osisId: Col.1.16
+    sblId: Col 1:16
+    shortName: Col 1:16
+    text: quia in ipso condita sunt universa in caelis et in terra visibilia et invisibilia
+      sive throni sive dominationes sive principatus sive potestates omnia per ipsum
+      et in ipso creata sunt
+  - name: Epistula ad Colossenses 1:17
+    orderIndex: 16
+    osisId: Col.1.17
+    sblId: Col 1:17
+    shortName: Col 1:17
+    text: et ipse est ante omnes et omnia in ipso constant
+  - name: Epistula ad Colossenses 1:18
+    orderIndex: 17
+    osisId: Col.1.18
+    sblId: Col 1:18
+    shortName: Col 1:18
+    text: et ipse est caput corporis ecclesiae qui est principium primogenitus ex
+      mortuis ut sit in omnibus ipse primatum tenens
+  - name: Epistula ad Colossenses 1:19
+    orderIndex: 18
+    osisId: Col.1.19
+    sblId: Col 1:19
+    shortName: Col 1:19
+    text: quia in ipso conplacuit omnem plenitudinem habitare
+  - name: Epistula ad Colossenses 1:20
+    orderIndex: 19
+    osisId: Col.1.20
+    sblId: Col 1:20
+    shortName: Col 1:20
+    text: et per eum reconciliare omnia in ipsum pacificans per sanguinem crucis eius
+      sive quae in terris sive quae in caelis sunt
+  - name: Epistula ad Colossenses 1:21
+    orderIndex: 20
+    osisId: Col.1.21
+    sblId: Col 1:21
+    shortName: Col 1:21
+    text: et vos cum essetis aliquando alienati et inimici sensu in operibus malis
+  - name: Epistula ad Colossenses 1:22
+    orderIndex: 21
+    osisId: Col.1.22
+    sblId: Col 1:22
+    shortName: Col 1:22
+    text: nunc autem reconciliavit in corpore carnis eius per mortem exhibere vos
+      sanctos et inmaculatos et inreprehensibiles coram ipso
+  - name: Epistula ad Colossenses 1:23
+    orderIndex: 22
+    osisId: Col.1.23
+    sblId: Col 1:23
+    shortName: Col 1:23
+    text: si tamen permanetis in fide fundati et stabiles et inmobiles ab spe evangelii
+      quod audistis quod praedicatum est in universa creatura quae sub caelo est cuius
+      factus sum ego Paulus minister
+  - name: Epistula ad Colossenses 1:24
+    orderIndex: 23
+    osisId: Col.1.24
+    sblId: Col 1:24
+    shortName: Col 1:24
+    text: qui nunc gaudeo in passionibus pro vobis et adimpleo ea quae desunt passionum
+      Christi in carne mea pro corpore eius quod est ecclesia
+  - name: Epistula ad Colossenses 1:25
+    orderIndex: 24
+    osisId: Col.1.25
+    sblId: Col 1:25
+    shortName: Col 1:25
+    text: cuius factus sum ego minister secundum dispensationem Dei quae data est
+      mihi in vos ut impleam verbum Dei
+  - name: Epistula ad Colossenses 1:26
+    orderIndex: 25
+    osisId: Col.1.26
+    sblId: Col 1:26
+    shortName: Col 1:26
+    text: mysterium quod absconditum fuit a saeculis et generationibus nunc autem
+      manifestatum est sanctis eius
+  - name: Epistula ad Colossenses 1:27
+    orderIndex: 26
+    osisId: Col.1.27
+    sblId: Col 1:27
+    shortName: Col 1:27
+    text: quibus voluit Deus notas facere divitias gloriae sacramenti huius in gentibus
+      quod est Christus in vobis spes gloriae
+  - name: Epistula ad Colossenses 1:28
+    orderIndex: 27
+    osisId: Col.1.28
+    sblId: Col 1:28
+    shortName: Col 1:28
+    text: quem nos adnuntiamus corripientes omnem hominem et docentes omnem hominem
+      in omni sapientia ut exhibeamus omnem hominem perfectum in Christo Iesu
+  - name: Epistula ad Colossenses 1:29
+    orderIndex: 28
+    osisId: Col.1.29
+    sblId: Col 1:29
+    shortName: Col 1:29
+    text: in quo et laboro certando secundum operationem eius quam operatur in me
+      in virtute
+  versesCount: 29
+- name: Epistula ad Colossenses 2
+  orderIndex: 1
+  osisId: Col.2
+  sblId: Col 2
+  shortName: Col 2
+  verses:
+  - name: Epistula ad Colossenses 2:1
+    orderIndex: 0
+    osisId: Col.2.1
+    sblId: Col 2:1
+    shortName: Col 2:1
+    text: volo enim vos scire qualem sollicitudinem habeam pro vobis et pro his qui
+      sunt Laodiciae et quicumque non viderunt faciem meam in carne
+  - name: Epistula ad Colossenses 2:2
+    orderIndex: 1
+    osisId: Col.2.2
+    sblId: Col 2:2
+    shortName: Col 2:2
+    text: ut consolentur corda ipsorum instructi in caritate et in omnes divitias
+      plenitudinis intellectus in agnitionem mysterii Dei Patris Christi Iesu
+  - name: Epistula ad Colossenses 2:3
+    orderIndex: 2
+    osisId: Col.2.3
+    sblId: Col 2:3
+    shortName: Col 2:3
+    text: in quo sunt omnes thesauri sapientiae et scientiae absconditi
+  - name: Epistula ad Colossenses 2:4
+    orderIndex: 3
+    osisId: Col.2.4
+    sblId: Col 2:4
+    shortName: Col 2:4
+    text: hoc autem dico ut nemo vos decipiat in subtilitate sermonum
+  - name: Epistula ad Colossenses 2:5
+    orderIndex: 4
+    osisId: Col.2.5
+    sblId: Col 2:5
+    shortName: Col 2:5
+    text: nam et si corpore absens sum sed spiritu vobiscum sum gaudens et videns
+      ordinem vestrum et firmamentum eius quae in Christo est fidei vestrae
+  - name: Epistula ad Colossenses 2:6
+    orderIndex: 5
+    osisId: Col.2.6
+    sblId: Col 2:6
+    shortName: Col 2:6
+    text: sicut ergo accepistis Christum Iesum Dominum in ipso ambulate
+  - name: Epistula ad Colossenses 2:7
+    orderIndex: 6
+    osisId: Col.2.7
+    sblId: Col 2:7
+    shortName: Col 2:7
+    text: radicati et superaedificati in ipso et confirmati fide sicut et didicistis
+      abundantes in gratiarum actione
+  - name: Epistula ad Colossenses 2:8
+    orderIndex: 7
+    osisId: Col.2.8
+    sblId: Col 2:8
+    shortName: Col 2:8
+    text: videte ne quis vos decipiat per philosophiam et inanem fallaciam secundum
+      traditionem hominum secundum elementa mundi et non secundum Christum
+  - name: Epistula ad Colossenses 2:9
+    orderIndex: 8
+    osisId: Col.2.9
+    sblId: Col 2:9
+    shortName: Col 2:9
+    text: quia in ipso inhabitat omnis plenitudo divinitatis corporaliter
+  - name: Epistula ad Colossenses 2:10
+    orderIndex: 9
+    osisId: Col.2.10
+    sblId: Col 2:10
+    shortName: Col 2:10
+    text: et estis in illo repleti qui est caput omnis principatus et potestatis
+  - name: Epistula ad Colossenses 2:11
+    orderIndex: 10
+    osisId: Col.2.11
+    sblId: Col 2:11
+    shortName: Col 2:11
+    text: in quo et circumcisi estis circumcisione non manufacta in expoliatione corporis
+      carnis in circumcisione Christi
+  - name: Epistula ad Colossenses 2:12
+    orderIndex: 11
+    osisId: Col.2.12
+    sblId: Col 2:12
+    shortName: Col 2:12
+    text: consepulti ei in baptismo in quo et resurrexistis per fidem operationis
+      Dei qui suscitavit illum a mortuis
+  - name: Epistula ad Colossenses 2:13
+    orderIndex: 12
+    osisId: Col.2.13
+    sblId: Col 2:13
+    shortName: Col 2:13
+    text: et vos cum mortui essetis in delictis et praeputio carnis vestrae convivificavit
+      cum illo donans vobis omnia delicta
+  - name: Epistula ad Colossenses 2:14
+    orderIndex: 13
+    osisId: Col.2.14
+    sblId: Col 2:14
+    shortName: Col 2:14
+    text: delens quod adversum nos erat chirografum decretis quod erat contrarium
+      nobis et ipsum tulit de medio adfigens illud cruci
+  - name: Epistula ad Colossenses 2:15
+    orderIndex: 14
+    osisId: Col.2.15
+    sblId: Col 2:15
+    shortName: Col 2:15
+    text: expolians principatus et potestates traduxit palam triumphans illos in semet
+      ipso
+  - name: Epistula ad Colossenses 2:16
+    orderIndex: 15
+    osisId: Col.2.16
+    sblId: Col 2:16
+    shortName: Col 2:16
+    text: nemo ergo vos iudicet in cibo aut in potu aut in parte diei festi aut neomeniae
+      aut sabbatorum
+  - name: Epistula ad Colossenses 2:17
+    orderIndex: 16
+    osisId: Col.2.17
+    sblId: Col 2:17
+    shortName: Col 2:17
+    text: quae sunt umbra futurorum corpus autem Christi
+  - name: Epistula ad Colossenses 2:18
+    orderIndex: 17
+    osisId: Col.2.18
+    sblId: Col 2:18
+    shortName: Col 2:18
+    text: nemo vos seducat volens in humilitate et religione angelorum quae non vidit
+      ambulans frustra inflatus sensu carnis suae
+  - name: Epistula ad Colossenses 2:19
+    orderIndex: 18
+    osisId: Col.2.19
+    sblId: Col 2:19
+    shortName: Col 2:19
+    text: et non tenens caput ex quo totum corpus per nexus et coniunctiones subministratum
+      et constructum crescit in augmentum Dei
+  - name: Epistula ad Colossenses 2:20
+    orderIndex: 19
+    osisId: Col.2.20
+    sblId: Col 2:20
+    shortName: Col 2:20
+    text: si mortui estis cum Christo ab elementis mundi quid adhuc tamquam viventes
+      in mundo decernitis
+  - name: Epistula ad Colossenses 2:21
+    orderIndex: 20
+    osisId: Col.2.21
+    sblId: Col 2:21
+    shortName: Col 2:21
+    text: ne tetigeris neque gustaveris neque contrectaveris
+  - name: Epistula ad Colossenses 2:22
+    orderIndex: 21
+    osisId: Col.2.22
+    sblId: Col 2:22
+    shortName: Col 2:22
+    text: quae sunt omnia in interitu ipso usu secundum praecepta et doctrinas hominum
+  - name: Epistula ad Colossenses 2:23
+    orderIndex: 22
+    osisId: Col.2.23
+    sblId: Col 2:23
+    shortName: Col 2:23
+    text: quae sunt rationem quidem habentia sapientiae in superstitione et humilitate
+      et ad non parcendum corpori non in honore aliquo ad saturitatem carnis
+  versesCount: 23
+- name: Epistula ad Colossenses 3
+  orderIndex: 2
+  osisId: Col.3
+  sblId: Col 3
+  shortName: Col 3
+  verses:
+  - name: Epistula ad Colossenses 3:1
+    orderIndex: 0
+    osisId: Col.3.1
+    sblId: Col 3:1
+    shortName: Col 3:1
+    text: igitur si conresurrexistis Christo quae sursum sunt quaerite ubi Christus
+      est in dextera Dei sedens
+  - name: Epistula ad Colossenses 3:2
+    orderIndex: 1
+    osisId: Col.3.2
+    sblId: Col 3:2
+    shortName: Col 3:2
+    text: quae sursum sunt sapite non quae supra terram
+  - name: Epistula ad Colossenses 3:3
+    orderIndex: 2
+    osisId: Col.3.3
+    sblId: Col 3:3
+    shortName: Col 3:3
+    text: mortui enim estis et vita vestra abscondita est cum Christo in Deo
+  - name: Epistula ad Colossenses 3:4
+    orderIndex: 3
+    osisId: Col.3.4
+    sblId: Col 3:4
+    shortName: Col 3:4
+    text: cum Christus apparuerit vita vestra tunc et vos apparebitis cum ipso in
+      gloria
+  - name: Epistula ad Colossenses 3:5
+    orderIndex: 4
+    osisId: Col.3.5
+    sblId: Col 3:5
+    shortName: Col 3:5
+    text: mortificate ergo membra vestra quae sunt super terram fornicationem inmunditiam
+      libidinem concupiscentiam malam et avaritiam quae est simulacrorum servitus
+  - name: Epistula ad Colossenses 3:6
+    orderIndex: 5
+    osisId: Col.3.6
+    sblId: Col 3:6
+    shortName: Col 3:6
+    text: propter quae venit ira Dei super filios incredulitatis
+  - name: Epistula ad Colossenses 3:7
+    orderIndex: 6
+    osisId: Col.3.7
+    sblId: Col 3:7
+    shortName: Col 3:7
+    text: in quibus et vos ambulastis aliquando cum viveretis in illis
+  - name: Epistula ad Colossenses 3:8
+    orderIndex: 7
+    osisId: Col.3.8
+    sblId: Col 3:8
+    shortName: Col 3:8
+    text: nunc autem deponite et vos omnia iram indignationem malitiam blasphemiam
+      turpem sermonem de ore vestro
+  - name: Epistula ad Colossenses 3:9
+    orderIndex: 8
+    osisId: Col.3.9
+    sblId: Col 3:9
+    shortName: Col 3:9
+    text: nolite mentiri invicem expoliantes vos veterem hominem cum actibus eius
+  - name: Epistula ad Colossenses 3:10
+    orderIndex: 9
+    osisId: Col.3.10
+    sblId: Col 3:10
+    shortName: Col 3:10
+    text: et induentes novum eum qui renovatur in agnitionem secundum imaginem eius
+      qui creavit eum
+  - name: Epistula ad Colossenses 3:11
+    orderIndex: 10
+    osisId: Col.3.11
+    sblId: Col 3:11
+    shortName: Col 3:11
+    text: ubi non est gentilis et Iudaeus circumcisio et praeputium barbarus et Scytha
+      servus et liber sed omnia et in omnibus Christus
+  - name: Epistula ad Colossenses 3:12
+    orderIndex: 11
+    osisId: Col.3.12
+    sblId: Col 3:12
+    shortName: Col 3:12
+    text: induite vos ergo sicut electi Dei sancti et dilecti viscera misericordiae
+      benignitatem humilitatem modestiam patientiam
+  - name: Epistula ad Colossenses 3:13
+    orderIndex: 12
+    osisId: Col.3.13
+    sblId: Col 3:13
+    shortName: Col 3:13
+    text: subportantes invicem et donantes vobis ipsis si quis adversus aliquem habet
+      querellam sicut et Dominus donavit vobis ita et vos
+  - name: Epistula ad Colossenses 3:14
+    orderIndex: 13
+    osisId: Col.3.14
+    sblId: Col 3:14
+    shortName: Col 3:14
+    text: super omnia autem haec caritatem quod est vinculum perfectionis
+  - name: Epistula ad Colossenses 3:15
+    orderIndex: 14
+    osisId: Col.3.15
+    sblId: Col 3:15
+    shortName: Col 3:15
+    text: et pax Christi exultet in cordibus vestris in qua et vocati estis in uno
+      corpore et grati estote
+  - name: Epistula ad Colossenses 3:16
+    orderIndex: 15
+    osisId: Col.3.16
+    sblId: Col 3:16
+    shortName: Col 3:16
+    text: verbum Christi habitet in vobis abundanter in omni sapientia docentes et
+      commonentes vosmet ipsos psalmis hymnis canticis spiritalibus in gratia cantantes
+      in cordibus vestris Deo
+  - name: Epistula ad Colossenses 3:17
+    orderIndex: 16
+    osisId: Col.3.17
+    sblId: Col 3:17
+    shortName: Col 3:17
+    text: omne quodcumque facitis in verbo aut in opere omnia in nomine Domini Iesu
+      gratias agentes Deo et Patri per ipsum
+  - name: Epistula ad Colossenses 3:18
+    orderIndex: 17
+    osisId: Col.3.18
+    sblId: Col 3:18
+    shortName: Col 3:18
+    text: mulieres subditae estote viris sicut oportet in Domino
+  - name: Epistula ad Colossenses 3:19
+    orderIndex: 18
+    osisId: Col.3.19
+    sblId: Col 3:19
+    shortName: Col 3:19
+    text: viri diligite uxores et nolite amari esse ad illas
+  - name: Epistula ad Colossenses 3:20
+    orderIndex: 19
+    osisId: Col.3.20
+    sblId: Col 3:20
+    shortName: Col 3:20
+    text: filii oboedite parentibus per omnia hoc enim placitum est in Domino
+  - name: Epistula ad Colossenses 3:21
+    orderIndex: 20
+    osisId: Col.3.21
+    sblId: Col 3:21
+    shortName: Col 3:21
+    text: patres nolite ad indignationem provocare filios vestros ut non pusillo animo
+      fiant
+  - name: Epistula ad Colossenses 3:22
+    orderIndex: 21
+    osisId: Col.3.22
+    sblId: Col 3:22
+    shortName: Col 3:22
+    text: servi oboedite per omnia dominis carnalibus non ad oculum servientes quasi
+      hominibus placentes sed in simplicitate cordis timentes Dominum
+  - name: Epistula ad Colossenses 3:23
+    orderIndex: 22
+    osisId: Col.3.23
+    sblId: Col 3:23
+    shortName: Col 3:23
+    text: quodcumque facitis ex animo operamini sicut Domino et non hominibus
+  - name: Epistula ad Colossenses 3:24
+    orderIndex: 23
+    osisId: Col.3.24
+    sblId: Col 3:24
+    shortName: Col 3:24
+    text: scientes quod a Domino accipietis retributionem hereditatis Domino Christo
+      servite
+  - name: Epistula ad Colossenses 3:25
+    orderIndex: 24
+    osisId: Col.3.25
+    sblId: Col 3:25
+    shortName: Col 3:25
+    text: qui enim iniuriam facit recipiet id quod inique gessit et non est personarum
+      acceptio
+  versesCount: 25
+- name: Epistula ad Colossenses 4
+  orderIndex: 3
+  osisId: Col.4
+  sblId: Col 4
+  shortName: Col 4
+  verses:
+  - name: Epistula ad Colossenses 4:1
+    orderIndex: 0
+    osisId: Col.4.1
+    sblId: Col 4:1
+    shortName: Col 4:1
+    text: domini quod iustum est et aequum servis praestate scientes quoniam et vos
+      Dominum habetis in caelo
+  - name: Epistula ad Colossenses 4:2
+    orderIndex: 1
+    osisId: Col.4.2
+    sblId: Col 4:2
+    shortName: Col 4:2
+    text: orationi instate vigilantes in ea in gratiarum actione
+  - name: Epistula ad Colossenses 4:3
+    orderIndex: 2
+    osisId: Col.4.3
+    sblId: Col 4:3
+    shortName: Col 4:3
+    text: orantes simul et pro nobis ut Deus aperiat nobis ostium sermonis ad loquendum
+      mysterium Christi propter quod etiam vinctus sum
+  - name: Epistula ad Colossenses 4:4
+    orderIndex: 3
+    osisId: Col.4.4
+    sblId: Col 4:4
+    shortName: Col 4:4
+    text: ut manifestem illud ita ut oportet me loqui
+  - name: Epistula ad Colossenses 4:5
+    orderIndex: 4
+    osisId: Col.4.5
+    sblId: Col 4:5
+    shortName: Col 4:5
+    text: in sapientia ambulate ad eos qui foris sunt tempus redimentes
+  - name: Epistula ad Colossenses 4:6
+    orderIndex: 5
+    osisId: Col.4.6
+    sblId: Col 4:6
+    shortName: Col 4:6
+    text: sermo vester semper in gratia sale sit conditus ut sciatis quomodo oporteat
+      vos unicuique respondere
+  - name: Epistula ad Colossenses 4:7
+    orderIndex: 6
+    osisId: Col.4.7
+    sblId: Col 4:7
+    shortName: Col 4:7
+    text: quae circa me sunt omnia vobis nota faciet Tychicus carissimus frater et
+      fidelis minister et conservus in Domino
+  - name: Epistula ad Colossenses 4:8
+    orderIndex: 7
+    osisId: Col.4.8
+    sblId: Col 4:8
+    shortName: Col 4:8
+    text: quem misi ad vos ad hoc ipsum ut cognoscat quae circa vos sunt et consoletur
+      corda vestra
+  - name: Epistula ad Colossenses 4:9
+    orderIndex: 8
+    osisId: Col.4.9
+    sblId: Col 4:9
+    shortName: Col 4:9
+    text: cum Onesimo carissimo et fideli fratre qui est ex vobis omnia quae hic aguntur
+      nota facient vobis
+  - name: Epistula ad Colossenses 4:10
+    orderIndex: 9
+    osisId: Col.4.10
+    sblId: Col 4:10
+    shortName: Col 4:10
+    text: salutat vos Aristarchus concaptivus meus et Marcus consobrinus Barnabae
+      de quo accepistis mandata si venerit ad vos excipite illum
+  - name: Epistula ad Colossenses 4:11
+    orderIndex: 10
+    osisId: Col.4.11
+    sblId: Col 4:11
+    shortName: Col 4:11
+    text: et Iesus qui dicitur Iustus qui sunt ex circumcisione hii soli sunt adiutores
+      in regno Dei qui mihi fuerunt solacio
+  - name: Epistula ad Colossenses 4:12
+    orderIndex: 11
+    osisId: Col.4.12
+    sblId: Col 4:12
+    shortName: Col 4:12
+    text: salutat vos Epaphras qui ex vobis est servus Christi Iesu semper sollicitus
+      pro vobis in orationibus ut stetis perfecti et pleni in omni voluntate Dei
+  - name: Epistula ad Colossenses 4:13
+    orderIndex: 12
+    osisId: Col.4.13
+    sblId: Col 4:13
+    shortName: Col 4:13
+    text: testimonium enim illi perhibeo quod habet multum laborem pro vobis et pro
+      his qui sunt Laodiciae et qui Hierapoli
+  - name: Epistula ad Colossenses 4:14
+    orderIndex: 13
+    osisId: Col.4.14
+    sblId: Col 4:14
+    shortName: Col 4:14
+    text: salutat vos Lucas medicus carissimus et Demas
+  - name: Epistula ad Colossenses 4:15
+    orderIndex: 14
+    osisId: Col.4.15
+    sblId: Col 4:15
+    shortName: Col 4:15
+    text: salutate fratres qui sunt Laodiciae et Nympham et quae in domo eius est
+      ecclesiam
+  - name: Epistula ad Colossenses 4:16
+    orderIndex: 15
+    osisId: Col.4.16
+    sblId: Col 4:16
+    shortName: Col 4:16
+    text: et cum lecta fuerit apud vos epistula facite ut et in Laodicensium ecclesia
+      legatur et eam quae Laodicensium est vos legatis
+  - name: Epistula ad Colossenses 4:17
+    orderIndex: 16
+    osisId: Col.4.17
+    sblId: Col 4:17
+    shortName: Col 4:17
+    text: et dicite Archippo vide ministerium quod accepisti in Domino ut illud impleas
+  - name: Epistula ad Colossenses 4:18
+    orderIndex: 17
+    osisId: Col.4.18
+    sblId: Col 4:18
+    shortName: Col 4:18
+    text: salutatio mea manu Pauli memores estote vinculorum meorum gratia vobiscum
+      amen
+  versesCount: 18
+chaptersCount: 4
+name: Epistula ad Colossenses
+orderIndex: 50
+osisId: Col
+sblId: Col
+shortName: Col
+versesCount: 95

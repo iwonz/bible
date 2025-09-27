@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="Phlm" sblId="Phlm" name="К Филимону" shortName="Флм" orderIndex="56" chaptersCount="1" versesCount="25">
+  <chapters>
+    <Chapter osisId="Phlm.1" sblId="Phlm 1" name="К Филимону 1" shortName="Флм 1" orderIndex="0" versesCount="25">
+      <verses>
+        <Verse osisId="Phlm.1.1" sblId="Phlm 1:1" name="К Филимону 1:1" shortName="Флм 1:1" orderIndex="0">Павел, узник Иисуса Христа, и Тимофей брат, Филимону возлюбленному и сотруднику нашему,</Verse>
+        <Verse osisId="Phlm.1.2" sblId="Phlm 1:2" name="К Филимону 1:2" shortName="Флм 1:2" orderIndex="1">и Апфии, (сестре) возлюбленной, и Архиппу, сподвижнику нашему, и домашней твоей церкви:</Verse>
+        <Verse osisId="Phlm.1.3" sblId="Phlm 1:3" name="К Филимону 1:3" shortName="Флм 1:3" orderIndex="2">благодать вам и мир от Бога Отца нашего и Господа Иисуса Христа.</Verse>
+        <Verse osisId="Phlm.1.4" sblId="Phlm 1:4" name="К Филимону 1:4" shortName="Флм 1:4" orderIndex="3">Благодарю Бога моего, всегда вспоминая о тебе в молитвах моих,</Verse>
+        <Verse osisId="Phlm.1.5" sblId="Phlm 1:5" name="К Филимону 1:5" shortName="Флм 1:5" orderIndex="4">слыша о твоей любви и вере, которую имеешь к Господу Иисусу и ко всем святым,</Verse>
+        <Verse osisId="Phlm.1.6" sblId="Phlm 1:6" name="К Филимону 1:6" shortName="Флм 1:6" orderIndex="5">дабы общение веры твоей оказалось деятельным в познании всякого у вас добра во Христе Иисусе.</Verse>
+        <Verse osisId="Phlm.1.7" sblId="Phlm 1:7" name="К Филимону 1:7" shortName="Флм 1:7" orderIndex="6">Ибо мы имеем великую радость и утешение в любви твоей, потому что тобою, брат, успокоены сердца святых.</Verse>
+        <Verse osisId="Phlm.1.8" sblId="Phlm 1:8" name="К Филимону 1:8" shortName="Флм 1:8" orderIndex="7">Посему, имея великое во Христе дерзновение приказывать тебе, что должно,</Verse>
+        <Verse osisId="Phlm.1.9" sblId="Phlm 1:9" name="К Филимону 1:9" shortName="Флм 1:9" orderIndex="8">по любви лучше прошу, не иной кто, как я, Павел старец, а теперь и узник Иисуса Христа;</Verse>
+        <Verse osisId="Phlm.1.10" sblId="Phlm 1:10" name="К Филимону 1:10" shortName="Флм 1:10" orderIndex="9">прошу тебя о сыне моем Онисиме, которого родил я в узах моих:</Verse>
+        <Verse osisId="Phlm.1.11" sblId="Phlm 1:11" name="К Филимону 1:11" shortName="Флм 1:11" orderIndex="10">он был некогда негоден для тебя, а теперь годен тебе и мне; я возвращаю его;</Verse>
+        <Verse osisId="Phlm.1.12" sblId="Phlm 1:12" name="К Филимону 1:12" shortName="Флм 1:12" orderIndex="11">ты же прими его, как мое сердце.</Verse>
+        <Verse osisId="Phlm.1.13" sblId="Phlm 1:13" name="К Филимону 1:13" shortName="Флм 1:13" orderIndex="12">Я хотел при себе удержать его, дабы он вместо тебя послужил мне в узах [за] благовествование;</Verse>
+        <Verse osisId="Phlm.1.14" sblId="Phlm 1:14" name="К Филимону 1:14" shortName="Флм 1:14" orderIndex="13">но без твоего согласия ничего не хотел сделать, чтобы доброе дело твое было не вынужденно, а добровольно.</Verse>
+        <Verse osisId="Phlm.1.15" sblId="Phlm 1:15" name="К Филимону 1:15" shortName="Флм 1:15" orderIndex="14">Ибо, может быть, он для того на время отлучился, чтобы тебе принять его навсегда,</Verse>
+        <Verse osisId="Phlm.1.16" sblId="Phlm 1:16" name="К Филимону 1:16" shortName="Флм 1:16" orderIndex="15">не как уже раба, но выше раба, брата возлюбленного, особенно мне, а тем больше тебе, и по плоти и в Господе.</Verse>
+        <Verse osisId="Phlm.1.17" sblId="Phlm 1:17" name="К Филимону 1:17" shortName="Флм 1:17" orderIndex="16">Итак, если ты имеешь общение со мною, то прими его, как меня.</Verse>
+        <Verse osisId="Phlm.1.18" sblId="Phlm 1:18" name="К Филимону 1:18" shortName="Флм 1:18" orderIndex="17">Если же он чем обидел тебя, или должен, считай это на мне.</Verse>
+        <Verse osisId="Phlm.1.19" sblId="Phlm 1:19" name="К Филимону 1:19" shortName="Флм 1:19" orderIndex="18">Я, Павел, написал моею рукою: я заплачу; не говорю тебе о том, что ты и самим собою мне должен.</Verse>
+        <Verse osisId="Phlm.1.20" sblId="Phlm 1:20" name="К Филимону 1:20" shortName="Флм 1:20" orderIndex="19">Так, брат, дай мне воспользоваться от тебя в Господе; успокой мое сердце в Господе.</Verse>
+        <Verse osisId="Phlm.1.21" sblId="Phlm 1:21" name="К Филимону 1:21" shortName="Флм 1:21" orderIndex="20">Надеясь на послушание твое, я написал к тебе, зная, что ты сделаешь и более, нежели говорю.</Verse>
+        <Verse osisId="Phlm.1.22" sblId="Phlm 1:22" name="К Филимону 1:22" shortName="Флм 1:22" orderIndex="21">А вместе приготовь для меня и помещение; ибо надеюсь, что по молитвам вашим я буду дарован вам.</Verse>
+        <Verse osisId="Phlm.1.23" sblId="Phlm 1:23" name="К Филимону 1:23" shortName="Флм 1:23" orderIndex="22">Приветствует тебя Епафрас, узник вместе со мною ради Христа Иисуса,</Verse>
+        <Verse osisId="Phlm.1.24" sblId="Phlm 1:24" name="К Филимону 1:24" shortName="Флм 1:24" orderIndex="23">Марк, Аристарх, Димас, Лука, сотрудники мои.</Verse>
+        <Verse osisId="Phlm.1.25" sblId="Phlm 1:25" name="К Филимону 1:25" shortName="Флм 1:25" orderIndex="24">Благодать Господа нашего Иисуса Христа со духом вашим. Аминь.</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

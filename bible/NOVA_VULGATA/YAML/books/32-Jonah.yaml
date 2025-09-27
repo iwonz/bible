@@ -1,0 +1,375 @@
+chapters:
+- name: Ionas 1
+  orderIndex: 0
+  osisId: Jonah.1
+  sblId: Jonah 1
+  shortName: Ion 1
+  verses:
+  - name: Ionas 1:1
+    orderIndex: 0
+    osisId: Jonah.1.1
+    sblId: Jonah 1:1
+    shortName: Ion 1:1
+    text: 'Et factum est verbum Domini ad Ionam filium Amathi dicens:'
+  - name: Ionas 1:2
+    orderIndex: 1
+    osisId: Jonah.1.2
+    sblId: Jonah 1:2
+    shortName: Ion 1:2
+    text: '" Surge et vade in Nineven civitatem grandem et praedica in ea, quia ascendit
+      malitia eius coram me ".'
+  - name: Ionas 1:3
+    orderIndex: 2
+    osisId: Jonah.1.3
+    sblId: Jonah 1:3
+    shortName: Ion 1:3
+    text: Et surrexit Ionas, ut fugeret in Tharsis a facie Domini; et descendit Ioppen
+      et invenit navem euntem in Tharsis et dedit naulum eius et descendit in eam,
+      ut iret cum eis in Tharsis a facie Domini.
+  - name: Ionas 1:4
+    orderIndex: 3
+    osisId: Jonah.1.4
+    sblId: Jonah 1:4
+    shortName: Ion 1:4
+    text: Dominus autem misit ventum magnum in mare, et facta est tempestas magna
+      in mari, et navis periclitabatur conteri.
+  - name: Ionas 1:5
+    orderIndex: 4
+    osisId: Jonah.1.5
+    sblId: Jonah 1:5
+    shortName: Ion 1:5
+    text: Et timuerunt nautae et clamaverunt unusquisque ad deum suum et miserunt
+      vasa, quae erant in navi, in mare, ut alleviaretur ab eis. Ionas autem descenderat
+      ad interiora navis et, cum recubuisset, dormiebat sopore gravi.
+  - name: Ionas 1:6
+    orderIndex: 5
+    osisId: Jonah.1.6
+    sblId: Jonah 1:6
+    shortName: Ion 1:6
+    text: 'Et accessit ad eum gubernator et dixit ei: " Quid? Tu sopore deprimeris?
+      Surge, invoca Deum tuum, si forte recogitet Deus de nobis, et non pereamus.'
+  - name: Ionas 1:7
+    orderIndex: 6
+    osisId: Jonah.1.7
+    sblId: Jonah 1:7
+    shortName: Ion 1:7
+    text: 'Et dixit unusquisque ad collegam suum: " Venite, et mittamus sortes, ut
+      sciamus quare hoc malum sit nobis ". Et miserunt sortes, et cecidit sors super
+      Ionam.'
+  - name: Ionas 1:8
+    orderIndex: 7
+    osisId: Jonah.1.8
+    sblId: Jonah 1:8
+    shortName: Ion 1:8
+    text: 'Et dixerunt ad eum: " Indica nobis cuius causa malum istud sit nobis. Quod
+      est opus tuum, et unde venis? Quae terra tua, et ex quo populo es tu?.'
+  - name: Ionas 1:9
+    orderIndex: 8
+    osisId: Jonah.1.9
+    sblId: Jonah 1:9
+    shortName: Ion 1:9
+    text: 'Et dixit ad eos: " Hebraeus ego sum et Dominum, Deum caeli, ego timeo,
+      qui fecit mare et aridam ".'
+  - name: Ionas 1:10
+    orderIndex: 9
+    osisId: Jonah.1.10
+    sblId: Jonah 1:10
+    shortName: Ion 1:10
+    text: 'Et timuerunt viri timore magno et dixerunt ad eum: " Quid hoc fecisti?.
+      Cognoverant enim viri quod a facie Domini fugeret, quia indicaverat eis.'
+  - name: Ionas 1:11
+    orderIndex: 10
+    osisId: Jonah.1.11
+    sblId: Jonah 1:11
+    shortName: Ion 1:11
+    text: 'Et dixerunt ad eum: " Quid faciemus tibi, ut conticescat mare a nobis?.
+      Mare enim magis ac magis intumescebat.'
+  - name: Ionas 1:12
+    orderIndex: 11
+    osisId: Jonah.1.12
+    sblId: Jonah 1:12
+    shortName: Ion 1:12
+    text: 'Et dixit ad eos: " Tollite me et mittite in mare, et cessabit mare a vobis;
+      scio enim ego quoniam propter me tempestas haec grandis super vos.'
+  - name: Ionas 1:13
+    orderIndex: 12
+    osisId: Jonah.1.13
+    sblId: Jonah 1:13
+    shortName: Ion 1:13
+    text: Et remigabant viri, ut reverterentur ad aridam; et non valebant, quia mare
+      magis intumescebat super eos.
+  - name: Ionas 1:14
+    orderIndex: 13
+    osisId: Jonah.1.14
+    sblId: Jonah 1:14
+    shortName: Ion 1:14
+    text: 'Et clamaverunt ad Dominum et dixerunt: " Quaesumus, Domine, ne pereamus
+      in anima viri istius, et ne des super nos sanguinem innocentem; quia tu, Domine,
+      sicut voluisti, fecisti ".'
+  - name: Ionas 1:15
+    orderIndex: 14
+    osisId: Jonah.1.15
+    sblId: Jonah 1:15
+    shortName: Ion 1:15
+    text: Et tulerunt Ionam et miserunt in mare; et stetit mare a fervore suo.
+  - name: Ionas 1:16
+    orderIndex: 15
+    osisId: Jonah.1.16
+    sblId: Jonah 1:16
+    shortName: Ion 1:16
+    text: Et timuerunt viri timore magno Dominum et immolaverunt hostias Domino et
+      voverunt vota.
+  versesCount: 16
+- name: Ionas 2
+  orderIndex: 1
+  osisId: Jonah.2
+  sblId: Jonah 2
+  shortName: Ion 2
+  verses:
+  - name: Ionas 2:1
+    orderIndex: 0
+    osisId: Jonah.2.1
+    sblId: Jonah 2:1
+    shortName: Ion 2:1
+    text: Et praeparavit Dominus piscem grandem, ut deglutiret Ionam; et erat Ionas
+      in ventre piscis tribus diebus et tribus noctibus.
+  - name: Ionas 2:2
+    orderIndex: 1
+    osisId: Jonah.2.2
+    sblId: Jonah 2:2
+    shortName: Ion 2:2
+    text: Et oravit Ionas ad Dominum Deum suum de ventre piscis
+  - name: Ionas 2:3
+    orderIndex: 2
+    osisId: Jonah.2.3
+    sblId: Jonah 2:3
+    shortName: Ion 2:3
+    text: 'et dixit: " Clamavi de tribulatione mea ad Dominum,et respondit mihi;de
+      ventre inferi clamavi,et exaudisti vocem meam.'
+  - name: Ionas 2:4
+    orderIndex: 3
+    osisId: Jonah.2.4
+    sblId: Jonah 2:4
+    shortName: Ion 2:4
+    text: Et proiecisti me in profundum in corde maris,et flumen circumdedit me;omnes
+      gurgites tui et fluctus tuisuper me transierunt.
+  - name: Ionas 2:5
+    orderIndex: 4
+    osisId: Jonah.2.5
+    sblId: Jonah 2:5
+    shortName: Ion 2:5
+    text: 'Et ego dixi: "Abiectus suma conspectu oculorum tuorum;verumtamen rursus
+      videbotemplum sanctum tuum".'
+  - name: Ionas 2:6
+    orderIndex: 5
+    osisId: Jonah.2.6
+    sblId: Jonah 2:6
+    shortName: Ion 2:6
+    text: Circumdederunt me aquae usque ad guttur,abyssus vallavit me,iuncus alligatus
+      est capiti meo.
+  - name: Ionas 2:7
+    orderIndex: 6
+    osisId: Jonah.2.7
+    sblId: Jonah 2:7
+    shortName: Ion 2:7
+    text: Ad extrema montium descendi,terrae vectes concluserunt me in aeternum,sed
+      eduxisti de fovea vitam meam,Domine Deus meus.
+  - name: Ionas 2:8
+    orderIndex: 7
+    osisId: Jonah.2.8
+    sblId: Jonah 2:8
+    shortName: Ion 2:8
+    text: Cum angustiaretur in me anima mea,Domini recordatus sum,et venit ad te oratio
+      mea,ad templum sanctum tuum.
+  - name: Ionas 2:9
+    orderIndex: 8
+    osisId: Jonah.2.9
+    sblId: Jonah 2:9
+    shortName: Ion 2:9
+    text: Qui colunt idola vana,pietatem suam derelinquunt;
+  - name: Ionas 2:10
+    orderIndex: 9
+    osisId: Jonah.2.10
+    sblId: Jonah 2:10
+    shortName: Ion 2:10
+    text: ego autem in voce laudisimmolabo tibi,quaecumque vovi, reddam;salus Domini
+      est ".
+  - name: Ionas 2:11
+    orderIndex: 10
+    osisId: Jonah.2.11
+    sblId: Jonah 2:11
+    shortName: Ion 2:11
+    text: Et dixit Dominus pisci, et evomuit Ionam in aridam.
+  versesCount: 11
+- name: Ionas 3
+  orderIndex: 2
+  osisId: Jonah.3
+  sblId: Jonah 3
+  shortName: Ion 3
+  verses:
+  - name: Ionas 3:1
+    orderIndex: 0
+    osisId: Jonah.3.1
+    sblId: Jonah 3:1
+    shortName: Ion 3:1
+    text: 'Et factum est verbum Domini ad Ionam secundo dicens:'
+  - name: Ionas 3:2
+    orderIndex: 1
+    osisId: Jonah.3.2
+    sblId: Jonah 3:2
+    shortName: Ion 3:2
+    text: '" Surge, vade in Nineven civitatem magnam et praedica in ea praedicationem,
+      quam ego loquor ad te ".'
+  - name: Ionas 3:3
+    orderIndex: 2
+    osisId: Jonah.3.3
+    sblId: Jonah 3:3
+    shortName: Ion 3:3
+    text: Et surrexit Ionas et abiit in Nineven iuxta verbum Domini.Et Nineve erat
+      civitas magna coram Deo, itinere trium dierum.
+  - name: Ionas 3:4
+    orderIndex: 3
+    osisId: Jonah.3.4
+    sblId: Jonah 3:4
+    shortName: Ion 3:4
+    text: 'Et coepit Ionas introire in civitatem itinere diei unius; et clamavit et
+      dixit: " Adhuc quadraginta dies, et Nineve subvertetur ".'
+  - name: Ionas 3:5
+    orderIndex: 4
+    osisId: Jonah.3.5
+    sblId: Jonah 3:5
+    shortName: Ion 3:5
+    text: Et crediderunt viri Ninevitae in Deo; et praedicaverunt ieiunium et vestiti
+      sunt saccis a maiore usque ad minorem.
+  - name: Ionas 3:6
+    orderIndex: 5
+    osisId: Jonah.3.6
+    sblId: Jonah 3:6
+    shortName: Ion 3:6
+    text: Et pervenit verbum ad regem Nineve; et surrexit de solio suo et abiecit
+      pallium suum a se et indutus est sacco et sedit in cinere.
+  - name: Ionas 3:7
+    orderIndex: 6
+    osisId: Jonah.3.7
+    sblId: Jonah 3:7
+    shortName: Ion 3:7
+    text: 'Et clamavit et dixit in Nineve decreto regis et principum eius dicens:
+      " Homines et iumenta et boves et pecora non gustent quidquam nec pascantur et
+      aquam non bibant;'
+  - name: Ionas 3:8
+    orderIndex: 7
+    osisId: Jonah.3.8
+    sblId: Jonah 3:8
+    shortName: Ion 3:8
+    text: et operiantur saccis homines et iumenta et clament ad Deum in fortitudine,
+      et convertatur vir a via sua mala et a violentia, quae est in manibus eorum.
+  - name: Ionas 3:9
+    orderIndex: 8
+    osisId: Jonah.3.9
+    sblId: Jonah 3:9
+    shortName: Ion 3:9
+    text: Quis scit si convertatur et ignoscat Deus et revertatur a furore irae suae,
+      et non peribimus? ".
+  - name: Ionas 3:10
+    orderIndex: 9
+    osisId: Jonah.3.10
+    sblId: Jonah 3:10
+    shortName: Ion 3:10
+    text: Et vidit Deus opera eorum, quia conversi sunt de via sua mala; et misertus
+      est Deus super malum, quod lo cutus fuerat ut faceret eis, etnon fecit.
+  versesCount: 10
+- name: Ionas 4
+  orderIndex: 3
+  osisId: Jonah.4
+  sblId: Jonah 4
+  shortName: Ion 4
+  verses:
+  - name: Ionas 4:1
+    orderIndex: 0
+    osisId: Jonah.4.1
+    sblId: Jonah 4:1
+    shortName: Ion 4:1
+    text: Et afflictus est Ionas afflictione magna et iratus est;
+  - name: Ionas 4:2
+    orderIndex: 1
+    osisId: Jonah.4.2
+    sblId: Jonah 4:2
+    shortName: Ion 4:2
+    text: 'et oravit ad Dominum et dixit: " Obsecro, Domine, numquid non hoc est verbum
+      meum, cum adhuc essem in terra mea? Propter hoc praeoccupavi ut fugerem in Tharsis.
+      Sciebam enim quia tu Deus clemens et misericors es, longanimis et multae miserationis
+      et ignoscens super malitia.'
+  - name: Ionas 4:3
+    orderIndex: 2
+    osisId: Jonah.4.3
+    sblId: Jonah 4:3
+    shortName: Ion 4:3
+    text: Et nunc, Domine, tolle, quaeso, animam meam a me, quia melior est mihi mors
+      quam vita".
+  - name: Ionas 4:4
+    orderIndex: 3
+    osisId: Jonah.4.4
+    sblId: Jonah 4:4
+    shortName: Ion 4:4
+    text: 'Et dixit Dominus: " Putasne bene irasceris tu? ".'
+  - name: Ionas 4:5
+    orderIndex: 4
+    osisId: Jonah.4.5
+    sblId: Jonah 4:5
+    shortName: Ion 4:5
+    text: Et egressus est Ionas de civitate et sedit contra orientem civitatis et
+      fecit sibimet umbraculum ibi et sedebat subter illud in umbra, donec videret
+      quid accideret in civitate.
+  - name: Ionas 4:6
+    orderIndex: 5
+    osisId: Jonah.4.6
+    sblId: Jonah 4:6
+    shortName: Ion 4:6
+    text: Et praeparavit Dominus Deus hederam, et ascendit super Ionam, ut esset umbra
+      super caput eius et protegeret eum ab afflictione sua. Et laetatus est Ionas
+      super hedera laetitia magna.
+  - name: Ionas 4:7
+    orderIndex: 6
+    osisId: Jonah.4.7
+    sblId: Jonah 4:7
+    shortName: Ion 4:7
+    text: Et paravit Deus vermem, cum surgeret aurora in crastinum, et percussit hederam,
+      quae exaruit.
+  - name: Ionas 4:8
+    orderIndex: 7
+    osisId: Jonah.4.8
+    sblId: Jonah 4:8
+    shortName: Ion 4:8
+    text: 'Et, cum ortus fuisset sol, praecepit Deus vento orientali calido; et percussit
+      sol super caput Ionae, et elanguit; et petivit animae suae, ut moreretur, et
+      dixit: " Melius est mihi mori quam vivere "'
+  - name: Ionas 4:9
+    orderIndex: 8
+    osisId: Jonah.4.9
+    sblId: Jonah 4:9
+    shortName: Ion 4:9
+    text: 'Et dixit Deus ad Ionam: " Putasne bene irasceris tu super hedera? ". Et
+      dixit: " Bene irascor ego usque ad mortem ".'
+  - name: Ionas 4:10
+    orderIndex: 9
+    osisId: Jonah.4.10
+    sblId: Jonah 4:10
+    shortName: Ion 4:10
+    text: 'Et dixit Dominus: " Tu doles super hederam, in qua non laborasti neque
+      fecisti, ut cresceret, quae sub una nocte nata est et sub una nocte periit.'
+  - name: Ionas 4:11
+    orderIndex: 10
+    osisId: Jonah.4.11
+    sblId: Jonah 4:11
+    shortName: Ion 4:11
+    text: Et ego non parcam Nineve civitati magnae, in qua sunt plus quam centum viginti
+      milia hominum, qui nesciunt quid sit inter dexteram et sinistram suam, et iumenta
+      multa? ".
+  versesCount: 11
+chaptersCount: 4
+name: Ionas
+orderIndex: 31
+osisId: Jonah
+sblId: Jonah
+shortName: Ion
+versesCount: 48

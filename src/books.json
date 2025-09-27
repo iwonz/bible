@@ -1,0 +1,1992 @@
+{
+  "en": [
+    {
+      "sblId": "Gen",
+      "osisId": "Gen",
+      "name": "Genesis",
+      "shortName": "Gen"
+    },
+    {
+      "sblId": "Exod",
+      "osisId": "Exod",
+      "name": "Exodus",
+      "shortName": "Exod"
+    },
+    {
+      "sblId": "Lev",
+      "osisId": "Lev",
+      "name": "Leviticus",
+      "shortName": "Lev"
+    },
+    {
+      "sblId": "Num",
+      "osisId": "Num",
+      "name": "Numbers",
+      "shortName": "Num"
+    },
+    {
+      "sblId": "Deut",
+      "osisId": "Deut",
+      "name": "Deuteronomy",
+      "shortName": "Deut"
+    },
+    {
+      "sblId": "Josh",
+      "osisId": "Josh",
+      "name": "Joshua",
+      "shortName": "Josh"
+    },
+    {
+      "sblId": "Judg",
+      "osisId": "Judg",
+      "name": "Judges",
+      "shortName": "Judg"
+    },
+    {
+      "sblId": "Ruth",
+      "osisId": "Ruth",
+      "name": "Ruth",
+      "shortName": "Ruth"
+    },
+    {
+      "sblId": "1Sam",
+      "osisId": "1Sam",
+      "name": "1 Samuel",
+      "shortName": "1 Sam"
+    },
+    {
+      "sblId": "2Sam",
+      "osisId": "2Sam",
+      "name": "2 Samuel",
+      "shortName": "2 Sam"
+    },
+    {
+      "sblId": "1Kgs",
+      "osisId": "1Kgs",
+      "name": "1 Kings",
+      "shortName": "1 Kgs"
+    },
+    {
+      "sblId": "2Kgs",
+      "osisId": "2Kgs",
+      "name": "2 Kings",
+      "shortName": "2 Kgs"
+    },
+    {
+      "sblId": "1Chr",
+      "osisId": "1Chr",
+      "name": "1 Chronicles",
+      "shortName": "1 Chr"
+    },
+    {
+      "sblId": "2Chr",
+      "osisId": "2Chr",
+      "name": "2 Chronicles",
+      "shortName": "2 Chr"
+    },
+    {
+      "sblId": "Ezra",
+      "osisId": "Ezra",
+      "name": "Ezra",
+      "shortName": "Ezra"
+    },
+    {
+      "sblId": "Neh",
+      "osisId": "Neh",
+      "name": "Nehemiah",
+      "shortName": "Neh"
+    },
+    {
+      "sblId": "Esth",
+      "osisId": "Esth",
+      "name": "Esther",
+      "shortName": "Esth"
+    },
+    {
+      "sblId": "Job",
+      "osisId": "Job",
+      "name": "Job",
+      "shortName": "Job"
+    },
+    {
+      "sblId": "Ps",
+      "osisId": "Ps",
+      "name": "Psalms",
+      "shortName": "Ps"
+    },
+    {
+      "sblId": "Prov",
+      "osisId": "Prov",
+      "name": "Proverbs",
+      "shortName": "Prov"
+    },
+    {
+      "sblId": "Eccl",
+      "osisId": "Eccl",
+      "name": "Ecclesiastes",
+      "shortName": "Eccl"
+    },
+    {
+      "sblId": "Song",
+      "osisId": "Song",
+      "name": "Song of Songs",
+      "shortName": "Song"
+    },
+    {
+      "sblId": "Isa",
+      "osisId": "Isa",
+      "name": "Isaiah",
+      "shortName": "Isa"
+    },
+    {
+      "sblId": "Jer",
+      "osisId": "Jer",
+      "name": "Jeremiah",
+      "shortName": "Jer"
+    },
+    {
+      "sblId": "Lam",
+      "osisId": "Lam",
+      "name": "Lamentations",
+      "shortName": "Lam"
+    },
+    {
+      "sblId": "Ezek",
+      "osisId": "Ezek",
+      "name": "Ezekiel",
+      "shortName": "Ezek"
+    },
+    {
+      "sblId": "Dan",
+      "osisId": "Dan",
+      "name": "Daniel",
+      "shortName": "Dan"
+    },
+    {
+      "sblId": "Hos",
+      "osisId": "Hos",
+      "name": "Hosea",
+      "shortName": "Hos"
+    },
+    {
+      "sblId": "Joel",
+      "osisId": "Joel",
+      "name": "Joel",
+      "shortName": "Joel"
+    },
+    {
+      "sblId": "Amos",
+      "osisId": "Amos",
+      "name": "Amos",
+      "shortName": "Amos"
+    },
+    {
+      "sblId": "Obad",
+      "osisId": "Obad",
+      "name": "Obadiah",
+      "shortName": "Obad"
+    },
+    {
+      "sblId": "Jonah",
+      "osisId": "Jonah",
+      "name": "Jonah",
+      "shortName": "Jonah"
+    },
+    {
+      "sblId": "Mic",
+      "osisId": "Mic",
+      "name": "Micah",
+      "shortName": "Mic"
+    },
+    {
+      "sblId": "Nah",
+      "osisId": "Nah",
+      "name": "Nahum",
+      "shortName": "Nah"
+    },
+    {
+      "sblId": "Hab",
+      "osisId": "Hab",
+      "name": "Habakkuk",
+      "shortName": "Hab"
+    },
+    {
+      "sblId": "Zeph",
+      "osisId": "Zeph",
+      "name": "Zephaniah",
+      "shortName": "Zeph"
+    },
+    {
+      "sblId": "Hag",
+      "osisId": "Hag",
+      "name": "Haggai",
+      "shortName": "Hag"
+    },
+    {
+      "sblId": "Zech",
+      "osisId": "Zech",
+      "name": "Zechariah",
+      "shortName": "Zech"
+    },
+    {
+      "sblId": "Mal",
+      "osisId": "Mal",
+      "name": "Malachi",
+      "shortName": "Mal"
+    },
+    {
+      "sblId": "Matt",
+      "osisId": "Matt",
+      "name": "Matthew",
+      "shortName": "Matt"
+    },
+    {
+      "sblId": "Mark",
+      "osisId": "Mark",
+      "name": "Mark",
+      "shortName": "Mark"
+    },
+    {
+      "sblId": "Luke",
+      "osisId": "Luke",
+      "name": "Luke",
+      "shortName": "Luke"
+    },
+    {
+      "sblId": "John",
+      "osisId": "John",
+      "name": "John",
+      "shortName": "John"
+    },
+    {
+      "sblId": "Acts",
+      "osisId": "Acts",
+      "name": "Acts",
+      "shortName": "Acts"
+    },
+    {
+      "sblId": "Rom",
+      "osisId": "Rom",
+      "name": "Romans",
+      "shortName": "Rom"
+    },
+    {
+      "sblId": "1Cor",
+      "osisId": "1Cor",
+      "name": "1 Corinthians",
+      "shortName": "1 Cor"
+    },
+    {
+      "sblId": "2Cor",
+      "osisId": "2Cor",
+      "name": "2 Corinthians",
+      "shortName": "2 Cor"
+    },
+    {
+      "sblId": "Gal",
+      "osisId": "Gal",
+      "name": "Galatians",
+      "shortName": "Gal"
+    },
+    {
+      "sblId": "Eph",
+      "osisId": "Eph",
+      "name": "Ephesians",
+      "shortName": "Eph"
+    },
+    {
+      "sblId": "Phil",
+      "osisId": "Phil",
+      "name": "Philippians",
+      "shortName": "Phil"
+    },
+    {
+      "sblId": "Col",
+      "osisId": "Col",
+      "name": "Colossians",
+      "shortName": "Col"
+    },
+    {
+      "sblId": "1Thess",
+      "osisId": "1Thess",
+      "name": "1 Thessalonians",
+      "shortName": "1 Thess"
+    },
+    {
+      "sblId": "2Thess",
+      "osisId": "2Thess",
+      "name": "2 Thessalonians",
+      "shortName": "2 Thess"
+    },
+    {
+      "sblId": "1Tim",
+      "osisId": "1Tim",
+      "name": "1 Timothy",
+      "shortName": "1 Tim"
+    },
+    {
+      "sblId": "2Tim",
+      "osisId": "2Tim",
+      "name": "2 Timothy",
+      "shortName": "2 Tim"
+    },
+    {
+      "sblId": "Titus",
+      "osisId": "Titus",
+      "name": "Titus",
+      "shortName": "Titus"
+    },
+    {
+      "sblId": "Phlm",
+      "osisId": "Phlm",
+      "name": "Philemon",
+      "shortName": "Phlm"
+    },
+    {
+      "sblId": "Heb",
+      "osisId": "Heb",
+      "name": "Hebrews",
+      "shortName": "Heb"
+    },
+    {
+      "sblId": "Jas",
+      "osisId": "Jas",
+      "name": "James",
+      "shortName": "Jas"
+    },
+    {
+      "sblId": "1Pet",
+      "osisId": "1Pet",
+      "name": "1 Peter",
+      "shortName": "1 Pet"
+    },
+    {
+      "sblId": "2Pet",
+      "osisId": "2Pet",
+      "name": "2 Peter",
+      "shortName": "2 Pet"
+    },
+    {
+      "sblId": "1John",
+      "osisId": "1John",
+      "name": "1 John",
+      "shortName": "1 John"
+    },
+    {
+      "sblId": "2John",
+      "osisId": "2John",
+      "name": "2 John",
+      "shortName": "2 John"
+    },
+    {
+      "sblId": "3John",
+      "osisId": "3John",
+      "name": "3 John",
+      "shortName": "3 John"
+    },
+    {
+      "sblId": "Jude",
+      "osisId": "Jude",
+      "name": "Jude",
+      "shortName": "Jude"
+    },
+    {
+      "sblId": "Rev",
+      "osisId": "Rev",
+      "name": "Revelation",
+      "shortName": "Rev"
+    }
+  ],
+  "ru": [
+    {
+      "sblId": "Gen",
+      "osisId": "Gen",
+      "name": "Бытие",
+      "shortName": "Быт"
+    },
+    {
+      "sblId": "Exod",
+      "osisId": "Exod",
+      "name": "Исход",
+      "shortName": "Исх"
+    },
+    {
+      "sblId": "Lev",
+      "osisId": "Lev",
+      "name": "Левит",
+      "shortName": "Лев"
+    },
+    {
+      "sblId": "Num",
+      "osisId": "Num",
+      "name": "Числа",
+      "shortName": "Чис"
+    },
+    {
+      "sblId": "Deut",
+      "osisId": "Deut",
+      "name": "Второзаконие",
+      "shortName": "Втор"
+    },
+    {
+      "sblId": "Josh",
+      "osisId": "Josh",
+      "name": "Иисус Навин",
+      "shortName": "Нав"
+    },
+    {
+      "sblId": "Judg",
+      "osisId": "Judg",
+      "name": "Судьи",
+      "shortName": "Суд"
+    },
+    {
+      "sblId": "Ruth",
+      "osisId": "Ruth",
+      "name": "Руфь",
+      "shortName": "Руф"
+    },
+    {
+      "sblId": "1Sam",
+      "osisId": "1Sam",
+      "name": "1 Царств",
+      "shortName": "1 Цар"
+    },
+    {
+      "sblId": "2Sam",
+      "osisId": "2Sam",
+      "name": "2 Царств",
+      "shortName": "2 Цар"
+    },
+    {
+      "sblId": "1Kgs",
+      "osisId": "1Kgs",
+      "name": "3 Царств",
+      "shortName": "3 Цар"
+    },
+    {
+      "sblId": "2Kgs",
+      "osisId": "2Kgs",
+      "name": "4 Царств",
+      "shortName": "4 Цар"
+    },
+    {
+      "sblId": "1Chr",
+      "osisId": "1Chr",
+      "name": "1 Паралипоменон",
+      "shortName": "1 Пар"
+    },
+    {
+      "sblId": "2Chr",
+      "osisId": "2Chr",
+      "name": "2 Паралипоменон",
+      "shortName": "2 Пар"
+    },
+    {
+      "sblId": "Ezra",
+      "osisId": "Ezra",
+      "name": "Ездра",
+      "shortName": "Езд"
+    },
+    {
+      "sblId": "Neh",
+      "osisId": "Neh",
+      "name": "Неемия",
+      "shortName": "Неем"
+    },
+    {
+      "sblId": "Esth",
+      "osisId": "Esth",
+      "name": "Есфирь",
+      "shortName": "Есф"
+    },
+    {
+      "sblId": "Job",
+      "osisId": "Job",
+      "name": "Иов",
+      "shortName": "Иов"
+    },
+    {
+      "sblId": "Ps",
+      "osisId": "Ps",
+      "name": "Псалтирь",
+      "shortName": "Пс"
+    },
+    {
+      "sblId": "Prov",
+      "osisId": "Prov",
+      "name": "Притчи",
+      "shortName": "Прит"
+    },
+    {
+      "sblId": "Eccl",
+      "osisId": "Eccl",
+      "name": "Екклесиаст",
+      "shortName": "Еккл"
+    },
+    {
+      "sblId": "Song",
+      "osisId": "Song",
+      "name": "Песнь Песней",
+      "shortName": "Песн"
+    },
+    {
+      "sblId": "Isa",
+      "osisId": "Isa",
+      "name": "Исаия",
+      "shortName": "Ис"
+    },
+    {
+      "sblId": "Jer",
+      "osisId": "Jer",
+      "name": "Иеремия",
+      "shortName": "Иер"
+    },
+    {
+      "sblId": "Lam",
+      "osisId": "Lam",
+      "name": "Плач Иеремии",
+      "shortName": "Плач"
+    },
+    {
+      "sblId": "Ezek",
+      "osisId": "Ezek",
+      "name": "Иезекииль",
+      "shortName": "Иез"
+    },
+    {
+      "sblId": "Dan",
+      "osisId": "Dan",
+      "name": "Даниил",
+      "shortName": "Дан"
+    },
+    {
+      "sblId": "Hos",
+      "osisId": "Hos",
+      "name": "Осия",
+      "shortName": "Ос"
+    },
+    {
+      "sblId": "Joel",
+      "osisId": "Joel",
+      "name": "Иоиль",
+      "shortName": "Иоил"
+    },
+    {
+      "sblId": "Amos",
+      "osisId": "Amos",
+      "name": "Амос",
+      "shortName": "Ам"
+    },
+    {
+      "sblId": "Obad",
+      "osisId": "Obad",
+      "name": "Авдий",
+      "shortName": "Авд"
+    },
+    {
+      "sblId": "Jonah",
+      "osisId": "Jonah",
+      "name": "Иона",
+      "shortName": "Ион"
+    },
+    {
+      "sblId": "Mic",
+      "osisId": "Mic",
+      "name": "Михей",
+      "shortName": "Мих"
+    },
+    {
+      "sblId": "Nah",
+      "osisId": "Nah",
+      "name": "Наум",
+      "shortName": "Наум"
+    },
+    {
+      "sblId": "Hab",
+      "osisId": "Hab",
+      "name": "Аввакум",
+      "shortName": "Авв"
+    },
+    {
+      "sblId": "Zeph",
+      "osisId": "Zeph",
+      "name": "Софония",
+      "shortName": "Соф"
+    },
+    {
+      "sblId": "Hag",
+      "osisId": "Hag",
+      "name": "Аггей",
+      "shortName": "Агг"
+    },
+    {
+      "sblId": "Zech",
+      "osisId": "Zech",
+      "name": "Захария",
+      "shortName": "Зах"
+    },
+    {
+      "sblId": "Mal",
+      "osisId": "Mal",
+      "name": "Малахия",
+      "shortName": "Мал"
+    },
+    {
+      "sblId": "Matt",
+      "osisId": "Matt",
+      "name": "От Матфея",
+      "shortName": "Мф"
+    },
+    {
+      "sblId": "Mark",
+      "osisId": "Mark",
+      "name": "От Марка",
+      "shortName": "Мк"
+    },
+    {
+      "sblId": "Luke",
+      "osisId": "Luke",
+      "name": "От Луки",
+      "shortName": "Лк"
+    },
+    {
+      "sblId": "John",
+      "osisId": "John",
+      "name": "От Иоанна",
+      "shortName": "Ин"
+    },
+    {
+      "sblId": "Acts",
+      "osisId": "Acts",
+      "name": "Деяния",
+      "shortName": "Деян"
+    },
+    {
+      "sblId": "Rom",
+      "osisId": "Rom",
+      "name": "К Римлянам",
+      "shortName": "Рим"
+    },
+    {
+      "sblId": "1Cor",
+      "osisId": "1Cor",
+      "name": "1 К Коринфянам",
+      "shortName": "1 Кор"
+    },
+    {
+      "sblId": "2Cor",
+      "osisId": "2Cor",
+      "name": "2 К Коринфянам",
+      "shortName": "2 Кор"
+    },
+    {
+      "sblId": "Gal",
+      "osisId": "Gal",
+      "name": "К Галатам",
+      "shortName": "Гал"
+    },
+    {
+      "sblId": "Eph",
+      "osisId": "Eph",
+      "name": "К Ефесянам",
+      "shortName": "Еф"
+    },
+    {
+      "sblId": "Phil",
+      "osisId": "Phil",
+      "name": "К Филиппийцам",
+      "shortName": "Флп"
+    },
+    {
+      "sblId": "Col",
+      "osisId": "Col",
+      "name": "К Колоссянам",
+      "shortName": "Кол"
+    },
+    {
+      "sblId": "1Thess",
+      "osisId": "1Thess",
+      "name": "1 К Фессалоникийцам",
+      "shortName": "1 Фес"
+    },
+    {
+      "sblId": "2Thess",
+      "osisId": "2Thess",
+      "name": "2 К Фессалоникийцам",
+      "shortName": "2 Фес"
+    },
+    {
+      "sblId": "1Tim",
+      "osisId": "1Tim",
+      "name": "1 К Тимофею",
+      "shortName": "1 Тим"
+    },
+    {
+      "sblId": "2Tim",
+      "osisId": "2Tim",
+      "name": "2 К Тимофею",
+      "shortName": "2 Тим"
+    },
+    {
+      "sblId": "Titus",
+      "osisId": "Titus",
+      "name": "К Титу",
+      "shortName": "Тит"
+    },
+    {
+      "sblId": "Phlm",
+      "osisId": "Phlm",
+      "name": "К Филимону",
+      "shortName": "Флм"
+    },
+    {
+      "sblId": "Heb",
+      "osisId": "Heb",
+      "name": "К Евреям",
+      "shortName": "Евр"
+    },
+    {
+      "sblId": "Jas",
+      "osisId": "Jas",
+      "name": "Иакова",
+      "shortName": "Иак"
+    },
+    {
+      "sblId": "1Pet",
+      "osisId": "1Pet",
+      "name": "1 Петра",
+      "shortName": "1 Пет"
+    },
+    {
+      "sblId": "2Pet",
+      "osisId": "2Pet",
+      "name": "2 Петра",
+      "shortName": "2 Пет"
+    },
+    {
+      "sblId": "1John",
+      "osisId": "1John",
+      "name": "1 Иоанна",
+      "shortName": "1 Ин"
+    },
+    {
+      "sblId": "2John",
+      "osisId": "2John",
+      "name": "2 Иоанна",
+      "shortName": "2 Ин"
+    },
+    {
+      "sblId": "3John",
+      "osisId": "3John",
+      "name": "3 Иоанна",
+      "shortName": "3 Ин"
+    },
+    {
+      "sblId": "Jude",
+      "osisId": "Jude",
+      "name": "Иуды",
+      "shortName": "Иуд"
+    },
+    {
+      "sblId": "Rev",
+      "osisId": "Rev",
+      "name": "Откровение",
+      "shortName": "Откр"
+    }
+  ],
+  "uk": [
+    {
+      "sblId": "Gen",
+      "osisId": "Gen",
+      "name": "Буття",
+      "shortName": "Бут"
+    },
+    {
+      "sblId": "Exod",
+      "osisId": "Exod",
+      "name": "Вихід",
+      "shortName": "Вих"
+    },
+    {
+      "sblId": "Lev",
+      "osisId": "Lev",
+      "name": "Левит",
+      "shortName": "Лев"
+    },
+    {
+      "sblId": "Num",
+      "osisId": "Num",
+      "name": "Числа",
+      "shortName": "Чис"
+    },
+    {
+      "sblId": "Deut",
+      "osisId": "Deut",
+      "name": "Повторення Закону",
+      "shortName": "Повт"
+    },
+    {
+      "sblId": "Josh",
+      "osisId": "Josh",
+      "name": "Ісус Навин",
+      "shortName": "Нав"
+    },
+    {
+      "sblId": "Judg",
+      "osisId": "Judg",
+      "name": "Суддів",
+      "shortName": "Суд"
+    },
+    {
+      "sblId": "Ruth",
+      "osisId": "Ruth",
+      "name": "Рут",
+      "shortName": "Рут"
+    },
+    {
+      "sblId": "1Sam",
+      "osisId": "1Sam",
+      "name": "1 Самуїла",
+      "shortName": "1 Сам"
+    },
+    {
+      "sblId": "2Sam",
+      "osisId": "2Sam",
+      "name": "2 Самуїла",
+      "shortName": "2 Сам"
+    },
+    {
+      "sblId": "1Kgs",
+      "osisId": "1Kgs",
+      "name": "1 Царів",
+      "shortName": "1 Цар"
+    },
+    {
+      "sblId": "2Kgs",
+      "osisId": "2Kgs",
+      "name": "2 Царів",
+      "shortName": "2 Цар"
+    },
+    {
+      "sblId": "1Chr",
+      "osisId": "1Chr",
+      "name": "1 Хронік",
+      "shortName": "1 Хр"
+    },
+    {
+      "sblId": "2Chr",
+      "osisId": "2Chr",
+      "name": "2 Хронік",
+      "shortName": "2 Хр"
+    },
+    {
+      "sblId": "Ezra",
+      "osisId": "Ezra",
+      "name": "Ездра",
+      "shortName": "Езд"
+    },
+    {
+      "sblId": "Neh",
+      "osisId": "Neh",
+      "name": "Неємія",
+      "shortName": "Неєм"
+    },
+    {
+      "sblId": "Esth",
+      "osisId": "Esth",
+      "name": "Естер",
+      "shortName": "Ест"
+    },
+    {
+      "sblId": "Job",
+      "osisId": "Job",
+      "name": "Йов",
+      "shortName": "Йов"
+    },
+    {
+      "sblId": "Ps",
+      "osisId": "Ps",
+      "name": "Псалми",
+      "shortName": "Пс"
+    },
+    {
+      "sblId": "Prov",
+      "osisId": "Prov",
+      "name": "Приповісті",
+      "shortName": "Прип"
+    },
+    {
+      "sblId": "Eccl",
+      "osisId": "Eccl",
+      "name": "Екклезіаст",
+      "shortName": "Еккл"
+    },
+    {
+      "sblId": "Song",
+      "osisId": "Song",
+      "name": "Пісня над піснями",
+      "shortName": "Пісн"
+    },
+    {
+      "sblId": "Isa",
+      "osisId": "Isa",
+      "name": "Ісая",
+      "shortName": "Іс"
+    },
+    {
+      "sblId": "Jer",
+      "osisId": "Jer",
+      "name": "Єремія",
+      "shortName": "Єр"
+    },
+    {
+      "sblId": "Lam",
+      "osisId": "Lam",
+      "name": "Плач Єремії",
+      "shortName": "Плач"
+    },
+    {
+      "sblId": "Ezek",
+      "osisId": "Ezek",
+      "name": "Єзекіїль",
+      "shortName": "Єз"
+    },
+    {
+      "sblId": "Dan",
+      "osisId": "Dan",
+      "name": "Данило",
+      "shortName": "Дан"
+    },
+    {
+      "sblId": "Hos",
+      "osisId": "Hos",
+      "name": "Осія",
+      "shortName": "Ос"
+    },
+    {
+      "sblId": "Joel",
+      "osisId": "Joel",
+      "name": "Йоїл",
+      "shortName": "Йоїл"
+    },
+    {
+      "sblId": "Amos",
+      "osisId": "Amos",
+      "name": "Амос",
+      "shortName": "Ам"
+    },
+    {
+      "sblId": "Obad",
+      "osisId": "Obad",
+      "name": "Авдій",
+      "shortName": "Авд"
+    },
+    {
+      "sblId": "Jonah",
+      "osisId": "Jonah",
+      "name": "Йона",
+      "shortName": "Йон"
+    },
+    {
+      "sblId": "Mic",
+      "osisId": "Mic",
+      "name": "Михей",
+      "shortName": "Мих"
+    },
+    {
+      "sblId": "Nah",
+      "osisId": "Nah",
+      "name": "Наум",
+      "shortName": "Наум"
+    },
+    {
+      "sblId": "Hab",
+      "osisId": "Hab",
+      "name": "Авакум",
+      "shortName": "Авак"
+    },
+    {
+      "sblId": "Zeph",
+      "osisId": "Zeph",
+      "name": "Софонія",
+      "shortName": "Соф"
+    },
+    {
+      "sblId": "Hag",
+      "osisId": "Hag",
+      "name": "Огій",
+      "shortName": "Ог"
+    },
+    {
+      "sblId": "Zech",
+      "osisId": "Zech",
+      "name": "Захарія",
+      "shortName": "Зах"
+    },
+    {
+      "sblId": "Mal",
+      "osisId": "Mal",
+      "name": "Малахія",
+      "shortName": "Мал"
+    },
+    {
+      "sblId": "Matt",
+      "osisId": "Matt",
+      "name": "Від Матвія",
+      "shortName": "Мт"
+    },
+    {
+      "sblId": "Mark",
+      "osisId": "Mark",
+      "name": "Від Марка",
+      "shortName": "Мк"
+    },
+    {
+      "sblId": "Luke",
+      "osisId": "Luke",
+      "name": "Від Луки",
+      "shortName": "Лк"
+    },
+    {
+      "sblId": "John",
+      "osisId": "John",
+      "name": "Від Івана",
+      "shortName": "Ів"
+    },
+    {
+      "sblId": "Acts",
+      "osisId": "Acts",
+      "name": "Дії Апостолів",
+      "shortName": "Дії"
+    },
+    {
+      "sblId": "Rom",
+      "osisId": "Rom",
+      "name": "До Римлян",
+      "shortName": "Рим"
+    },
+    {
+      "sblId": "1Cor",
+      "osisId": "1Cor",
+      "name": "1 До Коринтян",
+      "shortName": "1 Кор"
+    },
+    {
+      "sblId": "2Cor",
+      "osisId": "2Cor",
+      "name": "2 До Коринтян",
+      "shortName": "2 Кор"
+    },
+    {
+      "sblId": "Gal",
+      "osisId": "Gal",
+      "name": "До Галатів",
+      "shortName": "Гал"
+    },
+    {
+      "sblId": "Eph",
+      "osisId": "Eph",
+      "name": "До Ефесян",
+      "shortName": "Еф"
+    },
+    {
+      "sblId": "Phil",
+      "osisId": "Phil",
+      "name": "До Филип'ян",
+      "shortName": "Флп"
+    },
+    {
+      "sblId": "Col",
+      "osisId": "Col",
+      "name": "До Колосян",
+      "shortName": "Кол"
+    },
+    {
+      "sblId": "1Thess",
+      "osisId": "1Thess",
+      "name": "1 До Солунян",
+      "shortName": "1 Сол"
+    },
+    {
+      "sblId": "2Thess",
+      "osisId": "2Thess",
+      "name": "2 До Солунян",
+      "shortName": "2 Сол"
+    },
+    {
+      "sblId": "1Tim",
+      "osisId": "1Tim",
+      "name": "1 До Тимотея",
+      "shortName": "1 Тим"
+    },
+    {
+      "sblId": "2Tim",
+      "osisId": "2Tim",
+      "name": "2 До Тимотея",
+      "shortName": "2 Тим"
+    },
+    {
+      "sblId": "Titus",
+      "osisId": "Titus",
+      "name": "До Тита",
+      "shortName": "Тит"
+    },
+    {
+      "sblId": "Phlm",
+      "osisId": "Phlm",
+      "name": "До Филимона",
+      "shortName": "Флм"
+    },
+    {
+      "sblId": "Heb",
+      "osisId": "Heb",
+      "name": "До Євреїв",
+      "shortName": "Євр"
+    },
+    {
+      "sblId": "Jas",
+      "osisId": "Jas",
+      "name": "Якова",
+      "shortName": "Як"
+    },
+    {
+      "sblId": "1Pet",
+      "osisId": "1Pet",
+      "name": "1 Петра",
+      "shortName": "1 Пет"
+    },
+    {
+      "sblId": "2Pet",
+      "osisId": "2Pet",
+      "name": "2 Петра",
+      "shortName": "2 Пет"
+    },
+    {
+      "sblId": "1John",
+      "osisId": "1John",
+      "name": "1 Івана",
+      "shortName": "1 Ів"
+    },
+    {
+      "sblId": "2John",
+      "osisId": "2John",
+      "name": "2 Івана",
+      "shortName": "2 Ів"
+    },
+    {
+      "sblId": "3John",
+      "osisId": "3John",
+      "name": "3 Івана",
+      "shortName": "3 Ів"
+    },
+    {
+      "sblId": "Jude",
+      "osisId": "Jude",
+      "name": "Юди",
+      "shortName": "Юд"
+    },
+    {
+      "sblId": "Rev",
+      "osisId": "Rev",
+      "name": "Об'явлення",
+      "shortName": "Об"
+    }
+  ],
+  "zh": [
+    {
+      "sblId": "Gen",
+      "osisId": "Gen",
+      "name": "创世记",
+      "shortName": "创"
+    },
+    {
+      "sblId": "Exod",
+      "osisId": "Exod",
+      "name": "出埃及记",
+      "shortName": "出"
+    },
+    {
+      "sblId": "Lev",
+      "osisId": "Lev",
+      "name": "利未记",
+      "shortName": "利"
+    },
+    {
+      "sblId": "Num",
+      "osisId": "Num",
+      "name": "民数记",
+      "shortName": "民"
+    },
+    {
+      "sblId": "Deut",
+      "osisId": "Deut",
+      "name": "申命记",
+      "shortName": "申"
+    },
+    {
+      "sblId": "Josh",
+      "osisId": "Josh",
+      "name": "约书亚记",
+      "shortName": "书"
+    },
+    {
+      "sblId": "Judg",
+      "osisId": "Judg",
+      "name": "士师记",
+      "shortName": "士"
+    },
+    {
+      "sblId": "Ruth",
+      "osisId": "Ruth",
+      "name": "路得记",
+      "shortName": "得"
+    },
+    {
+      "sblId": "1Sam",
+      "osisId": "1Sam",
+      "name": "撒母耳记上",
+      "shortName": "撒上"
+    },
+    {
+      "sblId": "2Sam",
+      "osisId": "2Sam",
+      "name": "撒母耳记下",
+      "shortName": "撒下"
+    },
+    {
+      "sblId": "1Kgs",
+      "osisId": "1Kgs",
+      "name": "列王纪上",
+      "shortName": "王上"
+    },
+    {
+      "sblId": "2Kgs",
+      "osisId": "2Kgs",
+      "name": "列王纪下",
+      "shortName": "王下"
+    },
+    {
+      "sblId": "1Chr",
+      "osisId": "1Chr",
+      "name": "历代志上",
+      "shortName": "代上"
+    },
+    {
+      "sblId": "2Chr",
+      "osisId": "2Chr",
+      "name": "历代志下",
+      "shortName": "代下"
+    },
+    {
+      "sblId": "Ezra",
+      "osisId": "Ezra",
+      "name": "以斯拉记",
+      "shortName": "拉"
+    },
+    {
+      "sblId": "Neh",
+      "osisId": "Neh",
+      "name": "尼希米记",
+      "shortName": "尼"
+    },
+    {
+      "sblId": "Esth",
+      "osisId": "Esth",
+      "name": "以斯帖记",
+      "shortName": "斯"
+    },
+    {
+      "sblId": "Job",
+      "osisId": "Job",
+      "name": "约伯记",
+      "shortName": "伯"
+    },
+    {
+      "sblId": "Ps",
+      "osisId": "Ps",
+      "name": "诗篇",
+      "shortName": "诗"
+    },
+    {
+      "sblId": "Prov",
+      "osisId": "Prov",
+      "name": "箴言",
+      "shortName": "箴"
+    },
+    {
+      "sblId": "Eccl",
+      "osisId": "Eccl",
+      "name": "传道书",
+      "shortName": "传"
+    },
+    {
+      "sblId": "Song",
+      "osisId": "Song",
+      "name": "雅歌",
+      "shortName": "歌"
+    },
+    {
+      "sblId": "Isa",
+      "osisId": "Isa",
+      "name": "以赛亚书",
+      "shortName": "赛"
+    },
+    {
+      "sblId": "Jer",
+      "osisId": "Jer",
+      "name": "耶利米书",
+      "shortName": "耶"
+    },
+    {
+      "sblId": "Lam",
+      "osisId": "Lam",
+      "name": "耶利米哀歌",
+      "shortName": "哀"
+    },
+    {
+      "sblId": "Ezek",
+      "osisId": "Ezek",
+      "name": "以西结书",
+      "shortName": "结"
+    },
+    {
+      "sblId": "Dan",
+      "osisId": "Dan",
+      "name": "但以理书",
+      "shortName": "但"
+    },
+    {
+      "sblId": "Hos",
+      "osisId": "Hos",
+      "name": "何西阿书",
+      "shortName": "何"
+    },
+    {
+      "sblId": "Joel",
+      "osisId": "Joel",
+      "name": "约珥书",
+      "shortName": "珥"
+    },
+    {
+      "sblId": "Amos",
+      "osisId": "Amos",
+      "name": "阿摩司书",
+      "shortName": "摩"
+    },
+    {
+      "sblId": "Obad",
+      "osisId": "Obad",
+      "name": "俄巴底亚书",
+      "shortName": "俄"
+    },
+    {
+      "sblId": "Jonah",
+      "osisId": "Jonah",
+      "name": "约拿书",
+      "shortName": "拿"
+    },
+    {
+      "sblId": "Mic",
+      "osisId": "Mic",
+      "name": "弥迦书",
+      "shortName": "弥"
+    },
+    {
+      "sblId": "Nah",
+      "osisId": "Nah",
+      "name": "那鸿书",
+      "shortName": "鸿"
+    },
+    {
+      "sblId": "Hab",
+      "osisId": "Hab",
+      "name": "哈巴谷书",
+      "shortName": "哈"
+    },
+    {
+      "sblId": "Zeph",
+      "osisId": "Zeph",
+      "name": "西番雅书",
+      "shortName": "番"
+    },
+    {
+      "sblId": "Hag",
+      "osisId": "Hag",
+      "name": "哈该书",
+      "shortName": "该"
+    },
+    {
+      "sblId": "Zech",
+      "osisId": "Zech",
+      "name": "撒迦利亚书",
+      "shortName": "亚"
+    },
+    {
+      "sblId": "Mal",
+      "osisId": "Mal",
+      "name": "玛拉基书",
+      "shortName": "玛"
+    },
+    {
+      "sblId": "Matt",
+      "osisId": "Matt",
+      "name": "马太福音",
+      "shortName": "太"
+    },
+    {
+      "sblId": "Mark",
+      "osisId": "Mark",
+      "name": "马可福音",
+      "shortName": "可"
+    },
+    {
+      "sblId": "Luke",
+      "osisId": "Luke",
+      "name": "路加福音",
+      "shortName": "路"
+    },
+    {
+      "sblId": "John",
+      "osisId": "John",
+      "name": "约翰福音",
+      "shortName": "约"
+    },
+    {
+      "sblId": "Acts",
+      "osisId": "Acts",
+      "name": "使徒行传",
+      "shortName": "徒"
+    },
+    {
+      "sblId": "Rom",
+      "osisId": "Rom",
+      "name": "罗马书",
+      "shortName": "罗"
+    },
+    {
+      "sblId": "1Cor",
+      "osisId": "1Cor",
+      "name": "哥林多前书",
+      "shortName": "林前"
+    },
+    {
+      "sblId": "2Cor",
+      "osisId": "2Cor",
+      "name": "哥林多后书",
+      "shortName": "林后"
+    },
+    {
+      "sblId": "Gal",
+      "osisId": "Gal",
+      "name": "加拉太书",
+      "shortName": "加"
+    },
+    {
+      "sblId": "Eph",
+      "osisId": "Eph",
+      "name": "以弗所书",
+      "shortName": "弗"
+    },
+    {
+      "sblId": "Phil",
+      "osisId": "Phil",
+      "name": "腓立比书",
+      "shortName": "腓"
+    },
+    {
+      "sblId": "Col",
+      "osisId": "Col",
+      "name": "歌罗西书",
+      "shortName": "西"
+    },
+    {
+      "sblId": "1Thess",
+      "osisId": "1Thess",
+      "name": "帖撒罗尼迦前书",
+      "shortName": "帖前"
+    },
+    {
+      "sblId": "2Thess",
+      "osisId": "2Thess",
+      "name": "帖撒罗尼迦后书",
+      "shortName": "帖后"
+    },
+    {
+      "sblId": "1Tim",
+      "osisId": "1Tim",
+      "name": "提摩太前书",
+      "shortName": "提前"
+    },
+    {
+      "sblId": "2Tim",
+      "osisId": "2Tim",
+      "name": "提摩太后书",
+      "shortName": "提后"
+    },
+    {
+      "sblId": "Titus",
+      "osisId": "Titus",
+      "name": "提多书",
+      "shortName": "多"
+    },
+    {
+      "sblId": "Phlm",
+      "osisId": "Phlm",
+      "name": "腓利门书",
+      "shortName": "门"
+    },
+    {
+      "sblId": "Heb",
+      "osisId": "Heb",
+      "name": "希伯来书",
+      "shortName": "来"
+    },
+    {
+      "sblId": "Jas",
+      "osisId": "Jas",
+      "name": "雅各书",
+      "shortName": "雅"
+    },
+    {
+      "sblId": "1Pet",
+      "osisId": "1Pet",
+      "name": "彼得前书",
+      "shortName": "彼前"
+    },
+    {
+      "sblId": "2Pet",
+      "osisId": "2Pet",
+      "name": "彼得后书",
+      "shortName": "彼后"
+    },
+    {
+      "sblId": "1John",
+      "osisId": "1John",
+      "name": "约翰一书",
+      "shortName": "约一"
+    },
+    {
+      "sblId": "2John",
+      "osisId": "2John",
+      "name": "约翰二书",
+      "shortName": "约二"
+    },
+    {
+      "sblId": "3John",
+      "osisId": "3John",
+      "name": "约翰三书",
+      "shortName": "约三"
+    },
+    {
+      "sblId": "Jude",
+      "osisId": "Jude",
+      "name": "犹大书",
+      "shortName": "犹"
+    },
+    {
+      "sblId": "Rev",
+      "osisId": "Rev",
+      "name": "启示录",
+      "shortName": "启"
+    }
+  ],
+  "la": [
+    {
+      "sblId": "Gen",
+      "osisId": "Gen",
+      "name": "Genesis",
+      "shortName": "Gen"
+    },
+    {
+      "sblId": "Exod",
+      "osisId": "Exod",
+      "name": "Exodus",
+      "shortName": "Ex"
+    },
+    {
+      "sblId": "Lev",
+      "osisId": "Lev",
+      "name": "Leviticus",
+      "shortName": "Lev"
+    },
+    {
+      "sblId": "Num",
+      "osisId": "Num",
+      "name": "Numeri",
+      "shortName": "Num"
+    },
+    {
+      "sblId": "Deut",
+      "osisId": "Deut",
+      "name": "Deuteronomium",
+      "shortName": "Deut"
+    },
+    {
+      "sblId": "Josh",
+      "osisId": "Josh",
+      "name": "Iosue",
+      "shortName": "Ios"
+    },
+    {
+      "sblId": "Judg",
+      "osisId": "Judg",
+      "name": "Iudicum",
+      "shortName": "Idc"
+    },
+    {
+      "sblId": "Ruth",
+      "osisId": "Ruth",
+      "name": "Ruth",
+      "shortName": "Rt"
+    },
+    {
+      "sblId": "1Sam",
+      "osisId": "1Sam",
+      "name": "I Samuelis",
+      "shortName": "1 Sam"
+    },
+    {
+      "sblId": "2Sam",
+      "osisId": "2Sam",
+      "name": "II Samuelis",
+      "shortName": "2 Sam"
+    },
+    {
+      "sblId": "1Kgs",
+      "osisId": "1Kgs",
+      "name": "I Regum",
+      "shortName": "1 Reg"
+    },
+    {
+      "sblId": "2Kgs",
+      "osisId": "2Kgs",
+      "name": "II Regum",
+      "shortName": "2 Reg"
+    },
+    {
+      "sblId": "1Chr",
+      "osisId": "1Chr",
+      "name": "I Paralipomenon",
+      "shortName": "1 Par"
+    },
+    {
+      "sblId": "2Chr",
+      "osisId": "2Chr",
+      "name": "II Paralipomenon",
+      "shortName": "2 Par"
+    },
+    {
+      "sblId": "Ezra",
+      "osisId": "Ezra",
+      "name": "Esdrae",
+      "shortName": "Esd"
+    },
+    {
+      "sblId": "Neh",
+      "osisId": "Neh",
+      "name": "Nehemiae",
+      "shortName": "Neh"
+    },
+    {
+      "sblId": "Esth",
+      "osisId": "Esth",
+      "name": "Esther",
+      "shortName": "Est"
+    },
+    {
+      "sblId": "Job",
+      "osisId": "Job",
+      "name": "Iob",
+      "shortName": "Iob"
+    },
+    {
+      "sblId": "Ps",
+      "osisId": "Ps",
+      "name": "Psalmi",
+      "shortName": "Ps"
+    },
+    {
+      "sblId": "Prov",
+      "osisId": "Prov",
+      "name": "Proverbia",
+      "shortName": "Prv"
+    },
+    {
+      "sblId": "Eccl",
+      "osisId": "Eccl",
+      "name": "Ecclesiastes",
+      "shortName": "Eccl"
+    },
+    {
+      "sblId": "Song",
+      "osisId": "Song",
+      "name": "Canticum Canticorum",
+      "shortName": "Ct"
+    },
+    {
+      "sblId": "Isa",
+      "osisId": "Isa",
+      "name": "Isaias",
+      "shortName": "Is"
+    },
+    {
+      "sblId": "Jer",
+      "osisId": "Jer",
+      "name": "Ieremias",
+      "shortName": "Ier"
+    },
+    {
+      "sblId": "Lam",
+      "osisId": "Lam",
+      "name": "Lamentationes",
+      "shortName": "Lam"
+    },
+    {
+      "sblId": "Ezek",
+      "osisId": "Ezek",
+      "name": "Ezechiel",
+      "shortName": "Ez"
+    },
+    {
+      "sblId": "Dan",
+      "osisId": "Dan",
+      "name": "Daniel",
+      "shortName": "Dn"
+    },
+    {
+      "sblId": "Hos",
+      "osisId": "Hos",
+      "name": "Osee",
+      "shortName": "Os"
+    },
+    {
+      "sblId": "Joel",
+      "osisId": "Joel",
+      "name": "Ioel",
+      "shortName": "Ioel"
+    },
+    {
+      "sblId": "Amos",
+      "osisId": "Amos",
+      "name": "Amos",
+      "shortName": "Am"
+    },
+    {
+      "sblId": "Obad",
+      "osisId": "Obad",
+      "name": "Abdias",
+      "shortName": "Abd"
+    },
+    {
+      "sblId": "Jonah",
+      "osisId": "Jonah",
+      "name": "Ionas",
+      "shortName": "Ion"
+    },
+    {
+      "sblId": "Mic",
+      "osisId": "Mic",
+      "name": "Micheas",
+      "shortName": "Mi"
+    },
+    {
+      "sblId": "Nah",
+      "osisId": "Nah",
+      "name": "Nahum",
+      "shortName": "Na"
+    },
+    {
+      "sblId": "Hab",
+      "osisId": "Hab",
+      "name": "Habacuc",
+      "shortName": "Hab"
+    },
+    {
+      "sblId": "Zeph",
+      "osisId": "Zeph",
+      "name": "Sophonias",
+      "shortName": "So"
+    },
+    {
+      "sblId": "Hag",
+      "osisId": "Hag",
+      "name": "Aggeus",
+      "shortName": "Ag"
+    },
+    {
+      "sblId": "Zech",
+      "osisId": "Zech",
+      "name": "Zacharias",
+      "shortName": "Za"
+    },
+    {
+      "sblId": "Mal",
+      "osisId": "Mal",
+      "name": "Malachias",
+      "shortName": "Mal"
+    },
+    {
+      "sblId": "Matt",
+      "osisId": "Matt",
+      "name": "Evangelium secundum Matthaeum",
+      "shortName": "Mt"
+    },
+    {
+      "sblId": "Mark",
+      "osisId": "Mark",
+      "name": "Evangelium secundum Marcum",
+      "shortName": "Mc"
+    },
+    {
+      "sblId": "Luke",
+      "osisId": "Luke",
+      "name": "Evangelium secundum Lucam",
+      "shortName": "Lc"
+    },
+    {
+      "sblId": "John",
+      "osisId": "John",
+      "name": "Evangelium secundum Ioannem",
+      "shortName": "Io"
+    },
+    {
+      "sblId": "Acts",
+      "osisId": "Acts",
+      "name": "Actus Apostolorum",
+      "shortName": "Act"
+    },
+    {
+      "sblId": "Rom",
+      "osisId": "Rom",
+      "name": "Epistula ad Romanos",
+      "shortName": "Rm"
+    },
+    {
+      "sblId": "1Cor",
+      "osisId": "1Cor",
+      "name": "Epistula I ad Corinthios",
+      "shortName": "1 Cor"
+    },
+    {
+      "sblId": "2Cor",
+      "osisId": "2Cor",
+      "name": "Epistula II ad Corinthios",
+      "shortName": "2 Cor"
+    },
+    {
+      "sblId": "Gal",
+      "osisId": "Gal",
+      "name": "Epistula ad Galatas",
+      "shortName": "Gal"
+    },
+    {
+      "sblId": "Eph",
+      "osisId": "Eph",
+      "name": "Epistula ad Ephesios",
+      "shortName": "Eph"
+    },
+    {
+      "sblId": "Phil",
+      "osisId": "Phil",
+      "name": "Epistula ad Philippenses",
+      "shortName": "Phil"
+    },
+    {
+      "sblId": "Col",
+      "osisId": "Col",
+      "name": "Epistula ad Colossenses",
+      "shortName": "Col"
+    },
+    {
+      "sblId": "1Thess",
+      "osisId": "1Thess",
+      "name": "Epistula I ad Thessalonicenses",
+      "shortName": "1 Th"
+    },
+    {
+      "sblId": "2Thess",
+      "osisId": "2Thess",
+      "name": "Epistula II ad Thessalonicenses",
+      "shortName": "2 Th"
+    },
+    {
+      "sblId": "1Tim",
+      "osisId": "1Tim",
+      "name": "Epistula I ad Timotheum",
+      "shortName": "1 Tim"
+    },
+    {
+      "sblId": "2Tim",
+      "osisId": "2Tim",
+      "name": "Epistula II ad Timotheum",
+      "shortName": "2 Tim"
+    },
+    {
+      "sblId": "Titus",
+      "osisId": "Titus",
+      "name": "Epistula ad Titum",
+      "shortName": "Tit"
+    },
+    {
+      "sblId": "Phlm",
+      "osisId": "Phlm",
+      "name": "Epistula ad Philemonem",
+      "shortName": "Phlm"
+    },
+    {
+      "sblId": "Heb",
+      "osisId": "Heb",
+      "name": "Epistula ad Hebraeos",
+      "shortName": "Heb"
+    },
+    {
+      "sblId": "Jas",
+      "osisId": "Jas",
+      "name": "Epistula Iacobi",
+      "shortName": "Iac"
+    },
+    {
+      "sblId": "1Pet",
+      "osisId": "1Pet",
+      "name": "Epistula I Petri",
+      "shortName": "1 Pt"
+    },
+    {
+      "sblId": "2Pet",
+      "osisId": "2Pet",
+      "name": "Epistula II Petri",
+      "shortName": "2 Pt"
+    },
+    {
+      "sblId": "1John",
+      "osisId": "1John",
+      "name": "Epistula I Ioannis",
+      "shortName": "1 Io"
+    },
+    {
+      "sblId": "2John",
+      "osisId": "2John",
+      "name": "Epistula II Ioannis",
+      "shortName": "2 Io"
+    },
+    {
+      "sblId": "3John",
+      "osisId": "3John",
+      "name": "Epistula III Ioannis",
+      "shortName": "3 Io"
+    },
+    {
+      "sblId": "Jude",
+      "osisId": "Jude",
+      "name": "Epistula Iudae",
+      "shortName": "Iud"
+    },
+    {
+      "sblId": "Rev",
+      "osisId": "Rev",
+      "name": "Apocalypsis Ioannis",
+      "shortName": "Ap"
+    }
+  ]
+}

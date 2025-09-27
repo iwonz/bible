@@ -1,0 +1,221 @@
+{
+  "osisId": "Phlm",
+  "sblId": "Phlm",
+  "name": "腓利门书",
+  "shortName": "门",
+  "orderIndex": 56,
+  "chaptersCount": 1,
+  "versesCount": 25,
+  "chapters": [
+    {
+      "osisId": "Phlm.1",
+      "sblId": "Phlm 1",
+      "name": "腓利门书 1",
+      "shortName": "门 1",
+      "orderIndex": 0,
+      "versesCount": 25,
+      "verses": [
+        {
+          "osisId": "Phlm.1.1",
+          "sblId": "Phlm 1:1",
+          "name": "腓利门书 1:1",
+          "shortName": "门 1:1",
+          "text": "为基督耶稣被囚的 保罗 ，同弟兄 提摩太 ，写信给我们所亲爱的同工 腓利门 、",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Phlm.1.2",
+          "sblId": "Phlm 1:2",
+          "name": "腓利门书 1:2",
+          "shortName": "门 1:2",
+          "text": "亚腓亚 姊妹，和我们的战友 亚基布 ，以及在你家里的教会。",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Phlm.1.3",
+          "sblId": "Phlm 1:3",
+          "name": "腓利门书 1:3",
+          "shortName": "门 1:3",
+          "text": "愿恩惠、平安 从我们的父上帝和主耶稣基督归给你们！",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Phlm.1.4",
+          "sblId": "Phlm 1:4",
+          "name": "腓利门书 1:4",
+          "shortName": "门 1:4",
+          "text": "我在祷告中记念你的时候，常为你感谢我的上帝，",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Phlm.1.5",
+          "sblId": "Phlm 1:5",
+          "name": "腓利门书 1:5",
+          "shortName": "门 1:5",
+          "text": "因听说你对众圣徒的爱心，和你对主耶稣的信心。",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Phlm.1.6",
+          "sblId": "Phlm 1:6",
+          "name": "腓利门书 1:6",
+          "shortName": "门 1:6",
+          "text": "愿你与人分享信心的时候，能产生功效，让人知道我们 所行的各样善事都是为基督做的。",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Phlm.1.7",
+          "sblId": "Phlm 1:7",
+          "name": "腓利门书 1:7",
+          "shortName": "门 1:7",
+          "text": "弟兄啊，由于你的爱心，我得到极大的快乐和安慰，因为众圣徒的心从你得到舒畅。",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Phlm.1.8",
+          "sblId": "Phlm 1:8",
+          "name": "腓利门书 1:8",
+          "shortName": "门 1:8",
+          "text": "虽然我靠着基督能放胆吩咐你做该做的事，",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Phlm.1.9",
+          "sblId": "Phlm 1:9",
+          "name": "腓利门书 1:9",
+          "shortName": "门 1:9",
+          "text": "可是像我这上了年纪的 保罗 ，现在又是为基督耶稣被囚的，宁可凭着爱心求你，",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Phlm.1.10",
+          "sblId": "Phlm 1:10",
+          "name": "腓利门书 1:10",
+          "shortName": "门 1:10",
+          "text": "就是为我在捆锁中所生的儿子 阿尼西谋 求你。",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Phlm.1.11",
+          "sblId": "Phlm 1:11",
+          "name": "腓利门书 1:11",
+          "shortName": "门 1:11",
+          "text": "从前他与你没有益处，但如今与你我都有益处。",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Phlm.1.12",
+          "sblId": "Phlm 1:12",
+          "name": "腓利门书 1:12",
+          "shortName": "门 1:12",
+          "text": "我现在打发他回到你那里去，他是我心肝。",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Phlm.1.13",
+          "sblId": "Phlm 1:13",
+          "name": "腓利门书 1:13",
+          "shortName": "门 1:13",
+          "text": "我本来有意将他留下，在我为福音所受的捆锁中替你伺候我。",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Phlm.1.14",
+          "sblId": "Phlm 1:14",
+          "name": "腓利门书 1:14",
+          "shortName": "门 1:14",
+          "text": "但不知道你的意见，我不愿意这样做，好使你的善行不是出于勉强，而是出于自愿。",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Phlm.1.15",
+          "sblId": "Phlm 1:15",
+          "name": "腓利门书 1:15",
+          "shortName": "门 1:15",
+          "text": "他暂时离开你，也许是要让你永远得着他，",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Phlm.1.16",
+          "sblId": "Phlm 1:16",
+          "name": "腓利门书 1:16",
+          "shortName": "门 1:16",
+          "text": "不再是奴隶，而是高过奴隶，是亲爱的弟兄；对我确实如此，何况对你呢！无论在肉身或在主里更是如此。",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Phlm.1.17",
+          "sblId": "Phlm 1:17",
+          "name": "腓利门书 1:17",
+          "shortName": "门 1:17",
+          "text": "所以，你若以我为同伴，就接纳他，如同接纳我一样。",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Phlm.1.18",
+          "sblId": "Phlm 1:18",
+          "name": "腓利门书 1:18",
+          "shortName": "门 1:18",
+          "text": "他若亏负你，或欠你什么，都算在我的账上吧，",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Phlm.1.19",
+          "sblId": "Phlm 1:19",
+          "name": "腓利门书 1:19",
+          "shortName": "门 1:19",
+          "text": "我必偿还。这是我— 保罗 亲笔写的。我并不用对你说，甚至你自己也亏欠我呢！",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Phlm.1.20",
+          "sblId": "Phlm 1:20",
+          "name": "腓利门书 1:20",
+          "shortName": "门 1:20",
+          "text": "弟兄啊，希望你使我在主里因你得益处，让我的心在基督里得到舒畅。",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Phlm.1.21",
+          "sblId": "Phlm 1:21",
+          "name": "腓利门书 1:21",
+          "shortName": "门 1:21",
+          "text": "我写信给你，深信你必顺服，知道你所要做的，必过于我所说的。",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Phlm.1.22",
+          "sblId": "Phlm 1:22",
+          "name": "腓利门书 1:22",
+          "shortName": "门 1:22",
+          "text": "此外，还请给我预备住处，因为我盼望藉着你们的祷告，必蒙恩回到你们那里去。",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Phlm.1.23",
+          "sblId": "Phlm 1:23",
+          "name": "腓利门书 1:23",
+          "shortName": "门 1:23",
+          "text": "为基督耶稣与我一同坐监的 以巴弗 问候你。",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Phlm.1.24",
+          "sblId": "Phlm 1:24",
+          "name": "腓利门书 1:24",
+          "shortName": "门 1:24",
+          "text": "我的同工 马可 、 亚里达古 、 底马 、 路加 也都问候你。",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Phlm.1.25",
+          "sblId": "Phlm 1:25",
+          "name": "腓利门书 1:25",
+          "shortName": "门 1:25",
+          "text": "愿 主耶稣基督的恩与你们的灵同在。",
+          "orderIndex": 24
+        }
+      ]
+    }
+  ]
+}

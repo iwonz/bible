@@ -1,0 +1,695 @@
+chapters:
+- name: Colossians 1
+  orderIndex: 0
+  osisId: Col.1
+  sblId: Col 1
+  shortName: Col 1
+  verses:
+  - name: Colossians 1:1
+    orderIndex: 0
+    osisId: Col.1.1
+    sblId: Col 1:1
+    shortName: Col 1:1
+    text: Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
+  - name: Colossians 1:2
+    orderIndex: 1
+    osisId: Col.1.2
+    sblId: Col 1:2
+    shortName: Col 1:2
+    text: 'To the holy and faithful brothers in Christ at Colosse: Grace and peace
+      to you from God our Father.'
+  - name: Colossians 1:3
+    orderIndex: 2
+    osisId: Col.1.3
+    sblId: Col 1:3
+    shortName: Col 1:3
+    text: We always thank God, the Father of our Lord Jesus Christ, when we pray for
+      you,
+  - name: Colossians 1:4
+    orderIndex: 3
+    osisId: Col.1.4
+    sblId: Col 1:4
+    shortName: Col 1:4
+    text: because we have heard of your faith in Christ Jesus and of the love you
+      have for all the saints--
+  - name: Colossians 1:5
+    orderIndex: 4
+    osisId: Col.1.5
+    sblId: Col 1:5
+    shortName: Col 1:5
+    text: the faith and love that spring from the hope that is stored up for you in
+      heaven and that you have already heard about in the word of truth, the gospel
+  - name: Colossians 1:6
+    orderIndex: 5
+    osisId: Col.1.6
+    sblId: Col 1:6
+    shortName: Col 1:6
+    text: that has come to you. All over the world this gospel is bearing fruit and
+      growing, just as it has been doing among you since the day you heard it and
+      understood God's grace in all its truth.
+  - name: Colossians 1:7
+    orderIndex: 6
+    osisId: Col.1.7
+    sblId: Col 1:7
+    shortName: Col 1:7
+    text: You learned it from Epaphras, our dear fellow servant, who is a faithful
+      minister of Christ on our behalf,
+  - name: Colossians 1:8
+    orderIndex: 7
+    osisId: Col.1.8
+    sblId: Col 1:8
+    shortName: Col 1:8
+    text: and who also told us of your love in the Spirit.
+  - name: Colossians 1:9
+    orderIndex: 8
+    osisId: Col.1.9
+    sblId: Col 1:9
+    shortName: Col 1:9
+    text: For this reason, since the day we heard about you, we have not stopped praying
+      for you and asking God to fill you with the knowledge of his will through all
+      spiritual wisdom and understanding.
+  - name: Colossians 1:10
+    orderIndex: 9
+    osisId: Col.1.10
+    sblId: Col 1:10
+    shortName: Col 1:10
+    text: 'And we pray this in order that you may live a life worthy of the Lord and
+      may please him in every way: bearing fruit in every good work, growing in the
+      knowledge of God,'
+  - name: Colossians 1:11
+    orderIndex: 10
+    osisId: Col.1.11
+    sblId: Col 1:11
+    shortName: Col 1:11
+    text: being strengthened with all power according to his glorious might so that
+      you may have great endurance and patience, and joyfully
+  - name: Colossians 1:12
+    orderIndex: 11
+    osisId: Col.1.12
+    sblId: Col 1:12
+    shortName: Col 1:12
+    text: giving thanks to the Father, who has qualified you to share in the inheritance
+      of the saints in the kingdom of light.
+  - name: Colossians 1:13
+    orderIndex: 12
+    osisId: Col.1.13
+    sblId: Col 1:13
+    shortName: Col 1:13
+    text: For he has rescued us from the dominion of darkness and brought us into
+      the kingdom of the Son he loves,
+  - name: Colossians 1:14
+    orderIndex: 13
+    osisId: Col.1.14
+    sblId: Col 1:14
+    shortName: Col 1:14
+    text: in whom we have redemption, the forgiveness of sins.
+  - name: Colossians 1:15
+    orderIndex: 14
+    osisId: Col.1.15
+    sblId: Col 1:15
+    shortName: Col 1:15
+    text: He is the image of the invisible God, the firstborn over all creation.
+  - name: Colossians 1:16
+    orderIndex: 15
+    osisId: Col.1.16
+    sblId: Col 1:16
+    shortName: Col 1:16
+    text: 'For by him all things were created: things in heaven and on earth, visible
+      and invisible, whether thrones or powers or rulers or authorities; all things
+      were created by him and for him.'
+  - name: Colossians 1:17
+    orderIndex: 16
+    osisId: Col.1.17
+    sblId: Col 1:17
+    shortName: Col 1:17
+    text: He is before all things, and in him all things hold together.
+  - name: Colossians 1:18
+    orderIndex: 17
+    osisId: Col.1.18
+    sblId: Col 1:18
+    shortName: Col 1:18
+    text: And he is the head of the body, the church; he is the beginning and the
+      firstborn from among the dead, so that in everything he might have the supremacy.
+  - name: Colossians 1:19
+    orderIndex: 18
+    osisId: Col.1.19
+    sblId: Col 1:19
+    shortName: Col 1:19
+    text: For God was pleased to have all his fullness dwell in him,
+  - name: Colossians 1:20
+    orderIndex: 19
+    osisId: Col.1.20
+    sblId: Col 1:20
+    shortName: Col 1:20
+    text: and through him to reconcile to himself all things, whether things on earth
+      or things in heaven, by making peace through his blood, shed on the cross.
+  - name: Colossians 1:21
+    orderIndex: 20
+    osisId: Col.1.21
+    sblId: Col 1:21
+    shortName: Col 1:21
+    text: Once you were alienated from God and were enemies in your minds because
+      of your evil behavior.
+  - name: Colossians 1:22
+    orderIndex: 21
+    osisId: Col.1.22
+    sblId: Col 1:22
+    shortName: Col 1:22
+    text: But now he has reconciled you by Christ's physical body through death to
+      present you holy in his sight, without blemish and free from accusation--
+  - name: Colossians 1:23
+    orderIndex: 22
+    osisId: Col.1.23
+    sblId: Col 1:23
+    shortName: Col 1:23
+    text: if you continue in your faith, established and firm, not moved from the
+      hope held out in the gospel. This is the gospel that you heard and that has
+      been proclaimed to every creature under heaven, and of which I, Paul, have become
+      a servant.
+  - name: Colossians 1:24
+    orderIndex: 23
+    osisId: Col.1.24
+    sblId: Col 1:24
+    shortName: Col 1:24
+    text: Now I rejoice in what was suffered for you, and I fill up in my flesh what
+      is still lacking in regard to Christ's afflictions, for the sake of his body,
+      which is the church.
+  - name: Colossians 1:25
+    orderIndex: 24
+    osisId: Col.1.25
+    sblId: Col 1:25
+    shortName: Col 1:25
+    text: I have become its servant by the commission God gave me to present to you
+      the word of God in its fullness--
+  - name: Colossians 1:26
+    orderIndex: 25
+    osisId: Col.1.26
+    sblId: Col 1:26
+    shortName: Col 1:26
+    text: the mystery that has been kept hidden for ages and generations, but is now
+      disclosed to the saints.
+  - name: Colossians 1:27
+    orderIndex: 26
+    osisId: Col.1.27
+    sblId: Col 1:27
+    shortName: Col 1:27
+    text: To them God has chosen to make known among the Gentiles the glorious riches
+      of this mystery, which is Christ in you, the hope of glory.
+  - name: Colossians 1:28
+    orderIndex: 27
+    osisId: Col.1.28
+    sblId: Col 1:28
+    shortName: Col 1:28
+    text: We proclaim him, admonishing and teaching everyone with all wisdom, so that
+      we may present everyone perfect in Christ.
+  - name: Colossians 1:29
+    orderIndex: 28
+    osisId: Col.1.29
+    sblId: Col 1:29
+    shortName: Col 1:29
+    text: To this end I labor, struggling with all his energy, which so powerfully
+      works in me.
+  versesCount: 29
+- name: Colossians 2
+  orderIndex: 1
+  osisId: Col.2
+  sblId: Col 2
+  shortName: Col 2
+  verses:
+  - name: Colossians 2:1
+    orderIndex: 0
+    osisId: Col.2.1
+    sblId: Col 2:1
+    shortName: Col 2:1
+    text: I want you to know how much I am struggling for you and for those at Laodicea,
+      and for all who have not met me personally.
+  - name: Colossians 2:2
+    orderIndex: 1
+    osisId: Col.2.2
+    sblId: Col 2:2
+    shortName: Col 2:2
+    text: My purpose is that they may be encouraged in heart and united in love, so
+      that they may have the full riches of complete understanding, in order that
+      they may know the mystery of God, namely, Christ,
+  - name: Colossians 2:3
+    orderIndex: 2
+    osisId: Col.2.3
+    sblId: Col 2:3
+    shortName: Col 2:3
+    text: in whom are hidden all the treasures of wisdom and knowledge.
+  - name: Colossians 2:4
+    orderIndex: 3
+    osisId: Col.2.4
+    sblId: Col 2:4
+    shortName: Col 2:4
+    text: I tell you this so that no one may deceive you by fine-sounding arguments.
+  - name: Colossians 2:5
+    orderIndex: 4
+    osisId: Col.2.5
+    sblId: Col 2:5
+    shortName: Col 2:5
+    text: For though I am absent from you in body, I am present with you in spirit
+      and delight to see how orderly you are and how firm your faith in Christ is.
+  - name: Colossians 2:6
+    orderIndex: 5
+    osisId: Col.2.6
+    sblId: Col 2:6
+    shortName: Col 2:6
+    text: So then, just as you received Christ Jesus as Lord, continue to live in
+      him,
+  - name: Colossians 2:7
+    orderIndex: 6
+    osisId: Col.2.7
+    sblId: Col 2:7
+    shortName: Col 2:7
+    text: rooted and built up in him, strengthened in the faith as you were taught,
+      and overflowing with thankfulness.
+  - name: Colossians 2:8
+    orderIndex: 7
+    osisId: Col.2.8
+    sblId: Col 2:8
+    shortName: Col 2:8
+    text: See to it that no one takes you captive through hollow and deceptive philosophy,
+      which depends on human tradition and the basic principles of this world rather
+      than on Christ.
+  - name: Colossians 2:9
+    orderIndex: 8
+    osisId: Col.2.9
+    sblId: Col 2:9
+    shortName: Col 2:9
+    text: For in Christ all the fullness of the Deity lives in bodily form,
+  - name: Colossians 2:10
+    orderIndex: 9
+    osisId: Col.2.10
+    sblId: Col 2:10
+    shortName: Col 2:10
+    text: and you have been given fullness in Christ, who is the head over every power
+      and authority.
+  - name: Colossians 2:11
+    orderIndex: 10
+    osisId: Col.2.11
+    sblId: Col 2:11
+    shortName: Col 2:11
+    text: In him you were also circumcised, in the putting off of the sinful nature,
+      not with a circumcision done by the hands of men but with the circumcision done
+      by Christ,
+  - name: Colossians 2:12
+    orderIndex: 11
+    osisId: Col.2.12
+    sblId: Col 2:12
+    shortName: Col 2:12
+    text: having been buried with him in baptism and raised with him through your
+      faith in the power of God, who raised him from the dead.
+  - name: Colossians 2:13
+    orderIndex: 12
+    osisId: Col.2.13
+    sblId: Col 2:13
+    shortName: Col 2:13
+    text: When you were dead in your sins and in the uncircumcision of your sinful
+      nature, God made you alive with Christ. He forgave us all our sins,
+  - name: Colossians 2:14
+    orderIndex: 13
+    osisId: Col.2.14
+    sblId: Col 2:14
+    shortName: Col 2:14
+    text: having canceled the written code, with its regulations, that was against
+      us and that stood opposed to us; he took it away, nailing it to the cross.
+  - name: Colossians 2:15
+    orderIndex: 14
+    osisId: Col.2.15
+    sblId: Col 2:15
+    shortName: Col 2:15
+    text: And having disarmed the powers and authorities, he made a public spectacle
+      of them, triumphing over them by the cross.
+  - name: Colossians 2:16
+    orderIndex: 15
+    osisId: Col.2.16
+    sblId: Col 2:16
+    shortName: Col 2:16
+    text: Therefore do not let anyone judge you by what you eat or drink, or with
+      regard to a religious festival, a New Moon celebration or a Sabbath day.
+  - name: Colossians 2:17
+    orderIndex: 16
+    osisId: Col.2.17
+    sblId: Col 2:17
+    shortName: Col 2:17
+    text: These are a shadow of the things that were to come; the reality, however,
+      is found in Christ.
+  - name: Colossians 2:18
+    orderIndex: 17
+    osisId: Col.2.18
+    sblId: Col 2:18
+    shortName: Col 2:18
+    text: Do not let anyone who delights in false humility and the worship of angels
+      disqualify you for the prize. Such a person goes into great detail about what
+      he has seen, and his unspiritual mind puffs him up with idle notions.
+  - name: Colossians 2:19
+    orderIndex: 18
+    osisId: Col.2.19
+    sblId: Col 2:19
+    shortName: Col 2:19
+    text: He has lost connection with the Head, from whom the whole body, supported
+      and held together by its ligaments and sinews, grows as God causes it to grow.
+  - name: Colossians 2:20
+    orderIndex: 19
+    osisId: Col.2.20
+    sblId: Col 2:20
+    shortName: Col 2:20
+    text: 'Since you died with Christ to the basic principles of this world, why,
+      as though you still belonged to it, do you submit to its rules:'
+  - name: Colossians 2:21
+    orderIndex: 20
+    osisId: Col.2.21
+    sblId: Col 2:21
+    shortName: Col 2:21
+    text: '"Do not handle! Do not taste! Do not touch!"?'
+  - name: Colossians 2:22
+    orderIndex: 21
+    osisId: Col.2.22
+    sblId: Col 2:22
+    shortName: Col 2:22
+    text: These are all destined to perish with use, because they are based on human
+      commands and teachings.
+  - name: Colossians 2:23
+    orderIndex: 22
+    osisId: Col.2.23
+    sblId: Col 2:23
+    shortName: Col 2:23
+    text: Such regulations indeed have an appearance of wisdom, with their self-imposed
+      worship, their false humility and their harsh treatment of the body, but they
+      lack any value in restraining sensual indulgence.
+  versesCount: 23
+- name: Colossians 3
+  orderIndex: 2
+  osisId: Col.3
+  sblId: Col 3
+  shortName: Col 3
+  verses:
+  - name: Colossians 3:1
+    orderIndex: 0
+    osisId: Col.3.1
+    sblId: Col 3:1
+    shortName: Col 3:1
+    text: Since, then, you have been raised with Christ, set your hearts on things
+      above, where Christ is seated at the right hand of God.
+  - name: Colossians 3:2
+    orderIndex: 1
+    osisId: Col.3.2
+    sblId: Col 3:2
+    shortName: Col 3:2
+    text: Set your minds on things above, not on earthly things.
+  - name: Colossians 3:3
+    orderIndex: 2
+    osisId: Col.3.3
+    sblId: Col 3:3
+    shortName: Col 3:3
+    text: For you died, and your life is now hidden with Christ in God.
+  - name: Colossians 3:4
+    orderIndex: 3
+    osisId: Col.3.4
+    sblId: Col 3:4
+    shortName: Col 3:4
+    text: When Christ, who is your life, appears, then you also will appear with him
+      in glory.
+  - name: Colossians 3:5
+    orderIndex: 4
+    osisId: Col.3.5
+    sblId: Col 3:5
+    shortName: Col 3:5
+    text: 'Put to death, therefore, whatever belongs to your earthly nature: sexual
+      immorality, impurity, lust, evil desires and greed, which is idolatry.'
+  - name: Colossians 3:6
+    orderIndex: 5
+    osisId: Col.3.6
+    sblId: Col 3:6
+    shortName: Col 3:6
+    text: Because of these, the wrath of God is coming.
+  - name: Colossians 3:7
+    orderIndex: 6
+    osisId: Col.3.7
+    sblId: Col 3:7
+    shortName: Col 3:7
+    text: You used to walk in these ways, in the life you once lived.
+  - name: Colossians 3:8
+    orderIndex: 7
+    osisId: Col.3.8
+    sblId: Col 3:8
+    shortName: Col 3:8
+    text: 'But now you must rid yourselves of all such things as these: anger, rage,
+      malice, slander, and filthy language from your lips.'
+  - name: Colossians 3:9
+    orderIndex: 8
+    osisId: Col.3.9
+    sblId: Col 3:9
+    shortName: Col 3:9
+    text: Do not lie to each other, since you have taken off your old self with its
+      practices
+  - name: Colossians 3:10
+    orderIndex: 9
+    osisId: Col.3.10
+    sblId: Col 3:10
+    shortName: Col 3:10
+    text: and have put on the new self, which is being renewed in knowledge in the
+      image of its Creator.
+  - name: Colossians 3:11
+    orderIndex: 10
+    osisId: Col.3.11
+    sblId: Col 3:11
+    shortName: Col 3:11
+    text: Here there is no Greek or Jew, circumcised or uncircumcised, barbarian,
+      Scythian, slave or free, but Christ is all, and is in all.
+  - name: Colossians 3:12
+    orderIndex: 11
+    osisId: Col.3.12
+    sblId: Col 3:12
+    shortName: Col 3:12
+    text: Therefore, as God's chosen people, holy and dearly loved, clothe yourselves
+      with compassion, kindness, humility, gentleness and patience.
+  - name: Colossians 3:13
+    orderIndex: 12
+    osisId: Col.3.13
+    sblId: Col 3:13
+    shortName: Col 3:13
+    text: Bear with each other and forgive whatever grievances you may have against
+      one another. Forgive as the Lord forgave you.
+  - name: Colossians 3:14
+    orderIndex: 13
+    osisId: Col.3.14
+    sblId: Col 3:14
+    shortName: Col 3:14
+    text: And over all these virtues put on love, which binds them all together in
+      perfect unity.
+  - name: Colossians 3:15
+    orderIndex: 14
+    osisId: Col.3.15
+    sblId: Col 3:15
+    shortName: Col 3:15
+    text: Let the peace of Christ rule in your hearts, since as members of one body
+      you were called to peace. And be thankful.
+  - name: Colossians 3:16
+    orderIndex: 15
+    osisId: Col.3.16
+    sblId: Col 3:16
+    shortName: Col 3:16
+    text: Let the word of Christ dwell in you richly as you teach and admonish one
+      another with all wisdom, and as you sing psalms, hymns and spiritual songs with
+      gratitude in your hearts to God.
+  - name: Colossians 3:17
+    orderIndex: 16
+    osisId: Col.3.17
+    sblId: Col 3:17
+    shortName: Col 3:17
+    text: And whatever you do, whether in word or deed, do it all in the name of the
+      Lord Jesus, giving thanks to God the Father through him.
+  - name: Colossians 3:18
+    orderIndex: 17
+    osisId: Col.3.18
+    sblId: Col 3:18
+    shortName: Col 3:18
+    text: Wives, submit to your husbands, as is fitting in the Lord.
+  - name: Colossians 3:19
+    orderIndex: 18
+    osisId: Col.3.19
+    sblId: Col 3:19
+    shortName: Col 3:19
+    text: Husbands, love your wives and do not be harsh with them.
+  - name: Colossians 3:20
+    orderIndex: 19
+    osisId: Col.3.20
+    sblId: Col 3:20
+    shortName: Col 3:20
+    text: Children, obey your parents in everything, for this pleases the Lord.
+  - name: Colossians 3:21
+    orderIndex: 20
+    osisId: Col.3.21
+    sblId: Col 3:21
+    shortName: Col 3:21
+    text: Fathers, do not embitter your children, or they will become discouraged.
+  - name: Colossians 3:22
+    orderIndex: 21
+    osisId: Col.3.22
+    sblId: Col 3:22
+    shortName: Col 3:22
+    text: Slaves, obey your earthly masters in everything; and do it, not only when
+      their eye is on you and to win their favor, but with sincerity of heart and
+      reverence for the Lord.
+  - name: Colossians 3:23
+    orderIndex: 22
+    osisId: Col.3.23
+    sblId: Col 3:23
+    shortName: Col 3:23
+    text: Whatever you do, work at it with all your heart, as working for the Lord,
+      not for men,
+  - name: Colossians 3:24
+    orderIndex: 23
+    osisId: Col.3.24
+    sblId: Col 3:24
+    shortName: Col 3:24
+    text: since you know that you will receive an inheritance from the Lord as a reward.
+      It is the Lord Christ you are serving.
+  - name: Colossians 3:25
+    orderIndex: 24
+    osisId: Col.3.25
+    sblId: Col 3:25
+    shortName: Col 3:25
+    text: Anyone who does wrong will be repaid for his wrong, and there is no favoritism.
+  versesCount: 25
+- name: Colossians 4
+  orderIndex: 3
+  osisId: Col.4
+  sblId: Col 4
+  shortName: Col 4
+  verses:
+  - name: Colossians 4:1
+    orderIndex: 0
+    osisId: Col.4.1
+    sblId: Col 4:1
+    shortName: Col 4:1
+    text: Masters, provide your slaves with what is right and fair, because you know
+      that you also have a Master in heaven.
+  - name: Colossians 4:2
+    orderIndex: 1
+    osisId: Col.4.2
+    sblId: Col 4:2
+    shortName: Col 4:2
+    text: Devote yourselves to prayer, being watchful and thankful.
+  - name: Colossians 4:3
+    orderIndex: 2
+    osisId: Col.4.3
+    sblId: Col 4:3
+    shortName: Col 4:3
+    text: And pray for us, too, that God may open a door for our message, so that
+      we may proclaim the mystery of Christ, for which I am in chains.
+  - name: Colossians 4:4
+    orderIndex: 3
+    osisId: Col.4.4
+    sblId: Col 4:4
+    shortName: Col 4:4
+    text: Pray that I may proclaim it clearly, as I should.
+  - name: Colossians 4:5
+    orderIndex: 4
+    osisId: Col.4.5
+    sblId: Col 4:5
+    shortName: Col 4:5
+    text: Be wise in the way you act toward outsiders; make the most of every opportunity.
+  - name: Colossians 4:6
+    orderIndex: 5
+    osisId: Col.4.6
+    sblId: Col 4:6
+    shortName: Col 4:6
+    text: Let your conversation be always full of grace, seasoned with salt, so that
+      you may know how to answer everyone.
+  - name: Colossians 4:7
+    orderIndex: 6
+    osisId: Col.4.7
+    sblId: Col 4:7
+    shortName: Col 4:7
+    text: Tychicus will tell you all the news about me. He is a dear brother, a faithful
+      minister and fellow servant in the Lord.
+  - name: Colossians 4:8
+    orderIndex: 7
+    osisId: Col.4.8
+    sblId: Col 4:8
+    shortName: Col 4:8
+    text: I am sending him to you for the express purpose that you may know about
+      our circumstances and that he may encourage your hearts.
+  - name: Colossians 4:9
+    orderIndex: 8
+    osisId: Col.4.9
+    sblId: Col 4:9
+    shortName: Col 4:9
+    text: He is coming with Onesimus, our faithful and dear brother, who is one of
+      you. They will tell you everything that is happening here.
+  - name: Colossians 4:10
+    orderIndex: 9
+    osisId: Col.4.10
+    sblId: Col 4:10
+    shortName: Col 4:10
+    text: My fellow prisoner Aristarchus sends you his greetings, as does Mark, the
+      cousin of Barnabas. (You have received instructions about him; if he comes to
+      you, welcome him.)
+  - name: Colossians 4:11
+    orderIndex: 10
+    osisId: Col.4.11
+    sblId: Col 4:11
+    shortName: Col 4:11
+    text: Jesus, who is called Justus, also sends greetings. These are the only Jews
+      among my fellow workers for the kingdom of God, and they have proved a comfort
+      to me.
+  - name: Colossians 4:12
+    orderIndex: 11
+    osisId: Col.4.12
+    sblId: Col 4:12
+    shortName: Col 4:12
+    text: Epaphras, who is one of you and a servant of Christ Jesus, sends greetings.
+      He is always wrestling in prayer for you, that you may stand firm in all the
+      will of God, mature and fully assured.
+  - name: Colossians 4:13
+    orderIndex: 12
+    osisId: Col.4.13
+    sblId: Col 4:13
+    shortName: Col 4:13
+    text: I vouch for him that he is working hard for you and for those at Laodicea
+      and Hierapolis.
+  - name: Colossians 4:14
+    orderIndex: 13
+    osisId: Col.4.14
+    sblId: Col 4:14
+    shortName: Col 4:14
+    text: Our dear friend Luke, the doctor, and Demas send greetings.
+  - name: Colossians 4:15
+    orderIndex: 14
+    osisId: Col.4.15
+    sblId: Col 4:15
+    shortName: Col 4:15
+    text: Give my greetings to the brothers at Laodicea, and to Nympha and the church
+      in her house.
+  - name: Colossians 4:16
+    orderIndex: 15
+    osisId: Col.4.16
+    sblId: Col 4:16
+    shortName: Col 4:16
+    text: After this letter has been read to you, see that it is also read in the
+      church of the Laodiceans and that you in turn read the letter from Laodicea.
+  - name: Colossians 4:17
+    orderIndex: 16
+    osisId: Col.4.17
+    sblId: Col 4:17
+    shortName: Col 4:17
+    text: 'Tell Archippus: "See to it that you complete the work you have received
+      in the Lord."'
+  - name: Colossians 4:18
+    orderIndex: 17
+    osisId: Col.4.18
+    sblId: Col 4:18
+    shortName: Col 4:18
+    text: I, Paul, write this greeting in my own hand. Remember my chains. Grace be
+      with you.
+  versesCount: 18
+chaptersCount: 4
+name: Colossians
+orderIndex: 50
+osisId: Col
+sblId: Col
+shortName: Col
+versesCount: 95

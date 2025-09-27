@@ -1,0 +1,534 @@
+chapters:
+- name: 提摩太后书 1
+  orderIndex: 0
+  osisId: 2Tim.1
+  sblId: 2Tim 1
+  shortName: 提后 1
+  verses:
+  - name: 提摩太后书 1:1
+    orderIndex: 0
+    osisId: 2Tim.1.1
+    sblId: 2Tim 1:1
+    shortName: 提后 1:1
+    text: 奉上帝旨意，按照基督耶穌裏所應許的生命，作基督耶穌使徒的 保羅 ，
+  - name: 提摩太后书 1:2
+    orderIndex: 1
+    osisId: 2Tim.1.2
+    sblId: 2Tim 1:2
+    shortName: 提后 1:2
+    text: 寫信給我親愛的兒子 提摩太 。願恩惠、憐憫、平安 從父上帝和我們的主基督耶穌歸給你！
+  - name: 提摩太后书 1:3
+    orderIndex: 2
+    osisId: 2Tim.1.3
+    sblId: 2Tim 1:3
+    shortName: 提后 1:3
+    text: 我感謝上帝，就是我接續祖先用純潔的良心所事奉的上帝，在祈禱中晝夜不停地想念你。
+  - name: 提摩太后书 1:4
+    orderIndex: 3
+    osisId: 2Tim.1.4
+    sblId: 2Tim 1:4
+    shortName: 提后 1:4
+    text: 我一想起你的眼淚，就急切想見你，好讓我滿心快樂。
+  - name: 提摩太后书 1:5
+    orderIndex: 4
+    osisId: 2Tim.1.5
+    sblId: 2Tim 1:5
+    shortName: 提后 1:5
+    text: 我記得你無偽的信心，這信心先存在你外祖母 羅以 和你母親 友妮基 的心裏，我深信也存在你的心裏。
+  - name: 提摩太后书 1:6
+    orderIndex: 5
+    osisId: 2Tim.1.6
+    sblId: 2Tim 1:6
+    shortName: 提后 1:6
+    text: 為這緣故，我提醒你要把上帝藉著我按手所給你的恩賜再如火挑旺起來。
+  - name: 提摩太后书 1:7
+    orderIndex: 6
+    osisId: 2Tim.1.7
+    sblId: 2Tim 1:7
+    shortName: 提后 1:7
+    text: 因為上帝賜給我們的不是膽怯的心，而是剛強、仁愛、自制的心。
+  - name: 提摩太后书 1:8
+    orderIndex: 7
+    osisId: 2Tim.1.8
+    sblId: 2Tim 1:8
+    shortName: 提后 1:8
+    text: 所以，不要以給我們的主作見證為恥，也不要以我這為主被囚的為恥；總要靠著上帝的大能，與我為福音同受苦難。
+  - name: 提摩太后书 1:9
+    orderIndex: 8
+    osisId: 2Tim.1.9
+    sblId: 2Tim 1:9
+    shortName: 提后 1:9
+    text: 上帝救了我們， 以聖召召我們， 不是按我們的行為， 而是按他的旨意和恩典； 這恩典是萬古之先 在基督耶穌裏賜給我們的，
+  - name: 提摩太后书 1:10
+    orderIndex: 9
+    osisId: 2Tim.1.10
+    sblId: 2Tim 1:10
+    shortName: 提后 1:10
+    text: 但如今 藉著我們的救主基督耶穌的顯現已經表明出來； 他把死廢去， 藉著福音，將不朽的生命彰顯出來。
+  - name: 提摩太后书 1:11
+    orderIndex: 10
+    osisId: 2Tim.1.11
+    sblId: 2Tim 1:11
+    shortName: 提后 1:11
+    text: 我為這福音奉派作傳道，作使徒，作教師。
+  - name: 提摩太后书 1:12
+    orderIndex: 11
+    osisId: 2Tim.1.12
+    sblId: 2Tim 1:12
+    shortName: 提后 1:12
+    text: 為這緣故，我也受這些苦難。然而，我不以為恥，因為我知道我所信的是誰，也深信他能保全他所交託我的 ，直到那日。
+  - name: 提摩太后书 1:13
+    orderIndex: 12
+    osisId: 2Tim.1.13
+    sblId: 2Tim 1:13
+    shortName: 提后 1:13
+    text: 你從我聽到那健全的言論，要用在基督耶穌裏的信心和愛心常常守著，作為規範。
+  - name: 提摩太后书 1:14
+    orderIndex: 13
+    osisId: 2Tim.1.14
+    sblId: 2Tim 1:14
+    shortName: 提后 1:14
+    text: 你要靠著那住在我們裏面的聖靈，牢牢守住所交託給你那美好的事。
+  - name: 提摩太后书 1:15
+    orderIndex: 14
+    osisId: 2Tim.1.15
+    sblId: 2Tim 1:15
+    shortName: 提后 1:15
+    text: 你知道，所有在 亞細亞 的人都離棄了我，其中有 腓吉路 和 黑摩其尼 。
+  - name: 提摩太后书 1:16
+    orderIndex: 15
+    osisId: 2Tim.1.16
+    sblId: 2Tim 1:16
+    shortName: 提后 1:16
+    text: 願主憐憫 阿尼色弗 一家的人，因為他屢次令我欣慰。他不以我的鐵鏈為恥，
+  - name: 提摩太后书 1:17
+    orderIndex: 16
+    osisId: 2Tim.1.17
+    sblId: 2Tim 1:17
+    shortName: 提后 1:17
+    text: 反而一到 羅馬 就急切尋找我，並且找到了。
+  - name: 提摩太后书 1:18
+    orderIndex: 17
+    osisId: 2Tim.1.18
+    sblId: 2Tim 1:18
+    shortName: 提后 1:18
+    text: 願主使他在那日能蒙主的憐憫。他在 以弗所 怎樣多服事我，你是清楚知道的。
+  versesCount: 18
+- name: 提摩太后书 2
+  orderIndex: 1
+  osisId: 2Tim.2
+  sblId: 2Tim 2
+  shortName: 提后 2
+  verses:
+  - name: 提摩太后书 2:1
+    orderIndex: 0
+    osisId: 2Tim.2.1
+    sblId: 2Tim 2:1
+    shortName: 提后 2:1
+    text: 我兒啊，你要在基督耶穌的恩典上剛強起來。
+  - name: 提摩太后书 2:2
+    orderIndex: 1
+    osisId: 2Tim.2.2
+    sblId: 2Tim 2:2
+    shortName: 提后 2:2
+    text: 你在許多見證人面前聽見我所教導的，也要交託給那忠心而又能教導別人的人。
+  - name: 提摩太后书 2:3
+    orderIndex: 2
+    osisId: 2Tim.2.3
+    sblId: 2Tim 2:3
+    shortName: 提后 2:3
+    text: 你要和我同受苦難，作基督耶穌的精兵。
+  - name: 提摩太后书 2:4
+    orderIndex: 3
+    osisId: 2Tim.2.4
+    sblId: 2Tim 2:4
+    shortName: 提后 2:4
+    text: 凡當兵的，不讓世務纏身，好使那招他當兵的人喜悅。
+  - name: 提摩太后书 2:5
+    orderIndex: 4
+    osisId: 2Tim.2.5
+    sblId: 2Tim 2:5
+    shortName: 提后 2:5
+    text: 運動員在比賽的時候，不按規則就不能得冠冕。
+  - name: 提摩太后书 2:6
+    orderIndex: 5
+    osisId: 2Tim.2.6
+    sblId: 2Tim 2:6
+    shortName: 提后 2:6
+    text: 勤勞的農夫理當先得糧食。
+  - name: 提摩太后书 2:7
+    orderIndex: 6
+    osisId: 2Tim.2.7
+    sblId: 2Tim 2:7
+    shortName: 提后 2:7
+    text: 我所說的話，你要考慮，因為主必在凡事上給你聰明。
+  - name: 提摩太后书 2:8
+    orderIndex: 7
+    osisId: 2Tim.2.8
+    sblId: 2Tim 2:8
+    shortName: 提后 2:8
+    text: 要記得耶穌基督，他是 大衛 的後裔，從死人中復活；這就是我所傳的福音。
+  - name: 提摩太后书 2:9
+    orderIndex: 8
+    osisId: 2Tim.2.9
+    sblId: 2Tim 2:9
+    shortName: 提后 2:9
+    text: 我為這福音受苦難，甚至像犯人一樣被捆綁，然而上帝的話沒有被捆綁。
+  - name: 提摩太后书 2:10
+    orderIndex: 9
+    osisId: 2Tim.2.10
+    sblId: 2Tim 2:10
+    shortName: 提后 2:10
+    text: 所以，我為了選民事事忍耐，為使他們也能得到那在基督耶穌裏的救恩和永遠的榮耀。
+  - name: 提摩太后书 2:11
+    orderIndex: 10
+    osisId: 2Tim.2.11
+    sblId: 2Tim 2:11
+    shortName: 提后 2:11
+    text: 這話是可信的： 我們若與基督同死，也必與他同活；
+  - name: 提摩太后书 2:12
+    orderIndex: 11
+    osisId: 2Tim.2.12
+    sblId: 2Tim 2:12
+    shortName: 提后 2:12
+    text: 我們若忍耐到底，也必和他一同作王。 我們若不認他，他也必不認我們；
+  - name: 提摩太后书 2:13
+    orderIndex: 12
+    osisId: 2Tim.2.13
+    sblId: 2Tim 2:13
+    shortName: 提后 2:13
+    text: 我們縱然失信，他仍是可信的， 因為他不能否認自己。
+  - name: 提摩太后书 2:14
+    orderIndex: 13
+    osisId: 2Tim.2.14
+    sblId: 2Tim 2:14
+    shortName: 提后 2:14
+    text: 你要向眾人提醒這些事，在上帝 面前囑咐他們不可在言詞上爭辯；這是沒有益處的，只能傷害聽的人。
+  - name: 提摩太后书 2:15
+    orderIndex: 14
+    osisId: 2Tim.2.15
+    sblId: 2Tim 2:15
+    shortName: 提后 2:15
+    text: 你當竭力在上帝面前作一個經得起考驗、無愧的工人，按著正意講解真理的話。
+  - name: 提摩太后书 2:16
+    orderIndex: 15
+    osisId: 2Tim.2.16
+    sblId: 2Tim 2:16
+    shortName: 提后 2:16
+    text: 要遠避世俗的空談，因為這等空談會使人進到更不敬虔的地步。
+  - name: 提摩太后书 2:17
+    orderIndex: 16
+    osisId: 2Tim.2.17
+    sblId: 2Tim 2:17
+    shortName: 提后 2:17
+    text: 他們的話如同毒瘡越爛越大；其中有 許米乃 和 腓理徒 ，
+  - name: 提摩太后书 2:18
+    orderIndex: 17
+    osisId: 2Tim.2.18
+    sblId: 2Tim 2:18
+    shortName: 提后 2:18
+    text: 他們偏離了真理，說復活的事已過去，敗壞了好些人的信心。
+  - name: 提摩太后书 2:19
+    orderIndex: 18
+    osisId: 2Tim.2.19
+    sblId: 2Tim 2:19
+    shortName: 提后 2:19
+    text: 然而，上帝堅固的根基屹立不移；上面有這印記說：「主認得他自己的人」，又說：「凡稱呼主名的人總要離開不義。」
+  - name: 提摩太后书 2:20
+    orderIndex: 19
+    osisId: 2Tim.2.20
+    sblId: 2Tim 2:20
+    shortName: 提后 2:20
+    text: 大戶人家不但有金器銀器，也有木器瓦器；有作為貴重之用的，有作為卑賤之用的。
+  - name: 提摩太后书 2:21
+    orderIndex: 20
+    osisId: 2Tim.2.21
+    sblId: 2Tim 2:21
+    shortName: 提后 2:21
+    text: 人若自潔，脫離卑賤的事，必成為貴重的器皿，成為聖潔，合乎主用，預備行各樣的善事。
+  - name: 提摩太后书 2:22
+    orderIndex: 21
+    osisId: 2Tim.2.22
+    sblId: 2Tim 2:22
+    shortName: 提后 2:22
+    text: 你要逃避年輕人的私慾，同那以純潔的心求告主的人追求公義、信實、仁愛、和平。
+  - name: 提摩太后书 2:23
+    orderIndex: 22
+    osisId: 2Tim.2.23
+    sblId: 2Tim 2:23
+    shortName: 提后 2:23
+    text: 但要棄絕那愚拙無知的辯論，因為你知道這等事只會引起爭辯。
+  - name: 提摩太后书 2:24
+    orderIndex: 23
+    osisId: 2Tim.2.24
+    sblId: 2Tim 2:24
+    shortName: 提后 2:24
+    text: 主的僕人不可爭辯，只要溫和待人，善於教導，恆心忍耐，
+  - name: 提摩太后书 2:25
+    orderIndex: 24
+    osisId: 2Tim.2.25
+    sblId: 2Tim 2:25
+    shortName: 提后 2:25
+    text: 用溫柔勸導反對的人。也許上帝會給他們悔改的心能明白真理，
+  - name: 提摩太后书 2:26
+    orderIndex: 25
+    osisId: 2Tim.2.26
+    sblId: 2Tim 2:26
+    shortName: 提后 2:26
+    text: 讓他們這些已被魔鬼擄去順從他詭計的人能醒悟過來，脫離他的羅網。
+  versesCount: 26
+- name: 提摩太后书 3
+  orderIndex: 2
+  osisId: 2Tim.3
+  sblId: 2Tim 3
+  shortName: 提后 3
+  verses:
+  - name: 提摩太后书 3:1
+    orderIndex: 0
+    osisId: 2Tim.3.1
+    sblId: 2Tim 3:1
+    shortName: 提后 3:1
+    text: 你該知道，末世必有艱難的日子來到。
+  - name: 提摩太后书 3:2
+    orderIndex: 1
+    osisId: 2Tim.3.2
+    sblId: 2Tim 3:2
+    shortName: 提后 3:2
+    text: 那時人會專愛自己，貪愛錢財，自誇，狂傲，毀謗，違背父母，忘恩負義，心不聖潔，
+  - name: 提摩太后书 3:3
+    orderIndex: 2
+    osisId: 2Tim.3.3
+    sblId: 2Tim 3:3
+    shortName: 提后 3:3
+    text: 沒有親情，抗拒和解，好說讒言，不能節制，性情兇暴，不愛良善，
+  - name: 提摩太后书 3:4
+    orderIndex: 3
+    osisId: 2Tim.3.4
+    sblId: 2Tim 3:4
+    shortName: 提后 3:4
+    text: 賣主賣友，任意妄為，自高自大，愛好宴樂，不愛上帝，
+  - name: 提摩太后书 3:5
+    orderIndex: 4
+    osisId: 2Tim.3.5
+    sblId: 2Tim 3:5
+    shortName: 提后 3:5
+    text: 有敬虔的外貌，卻背棄了敬虔的實質，這等人你要避開。
+  - name: 提摩太后书 3:6
+    orderIndex: 5
+    osisId: 2Tim.3.6
+    sblId: 2Tim 3:6
+    shortName: 提后 3:6
+    text: 他們當中有人潛入別人家裏，操縱無知的婦女；這些婦女被罪惡壓制，被各樣的私慾引誘，
+  - name: 提摩太后书 3:7
+    orderIndex: 6
+    osisId: 2Tim.3.7
+    sblId: 2Tim 3:7
+    shortName: 提后 3:7
+    text: 雖然常常學習，終久無法達到明白真理的地步。
+  - name: 提摩太后书 3:8
+    orderIndex: 7
+    osisId: 2Tim.3.8
+    sblId: 2Tim 3:8
+    shortName: 提后 3:8
+    text: 從前 雅尼 和 佯庇 怎樣反對 摩西 ，這等人也怎樣抵擋真理；他們的心地敗壞，信仰經不起考驗。
+  - name: 提摩太后书 3:9
+    orderIndex: 8
+    osisId: 2Tim.3.9
+    sblId: 2Tim 3:9
+    shortName: 提后 3:9
+    text: 然而，他們沒有進步，因為他們的愚昧必在眾人面前顯露出來，像那兩人一樣。
+  - name: 提摩太后书 3:10
+    orderIndex: 9
+    osisId: 2Tim.3.10
+    sblId: 2Tim 3:10
+    shortName: 提后 3:10
+    text: 但你已經追隨了我的教導、行為、志向、信心、寬容、愛心、忍耐，
+  - name: 提摩太后书 3:11
+    orderIndex: 10
+    osisId: 2Tim.3.11
+    sblId: 2Tim 3:11
+    shortName: 提后 3:11
+    text: 以及我在 安提阿 、 以哥念 、 路司得 所遭遇的迫害和苦難。我忍受了何等的迫害！但從這一切苦難中，主都把我救了出來。
+  - name: 提摩太后书 3:12
+    orderIndex: 11
+    osisId: 2Tim.3.12
+    sblId: 2Tim 3:12
+    shortName: 提后 3:12
+    text: 其實，凡立志在基督耶穌裏敬虔度日的，也都將受迫害。
+  - name: 提摩太后书 3:13
+    orderIndex: 12
+    osisId: 2Tim.3.13
+    sblId: 2Tim 3:13
+    shortName: 提后 3:13
+    text: 只是作惡的和騙人的將變本加厲，迷惑人也被人迷惑。
+  - name: 提摩太后书 3:14
+    orderIndex: 13
+    osisId: 2Tim.3.14
+    sblId: 2Tim 3:14
+    shortName: 提后 3:14
+    text: 至於你，你要持守所學習的和所確信的，因為你知道是跟誰學的，
+  - name: 提摩太后书 3:15
+    orderIndex: 14
+    osisId: 2Tim.3.15
+    sblId: 2Tim 3:15
+    shortName: 提后 3:15
+    text: 並且知道你從小明白聖經，這聖經能使你因在基督耶穌裏的信 有得救的智慧。
+  - name: 提摩太后书 3:16
+    orderIndex: 15
+    osisId: 2Tim.3.16
+    sblId: 2Tim 3:16
+    shortName: 提后 3:16
+    text: 聖經都是上帝所默示的 ，於教訓、督責、使人歸正、教導人學義都是有益的，
+  - name: 提摩太后书 3:17
+    orderIndex: 16
+    osisId: 2Tim.3.17
+    sblId: 2Tim 3:17
+    shortName: 提后 3:17
+    text: 叫屬上帝的人得以完全，預備行各樣的善事。
+  versesCount: 17
+- name: 提摩太后书 4
+  orderIndex: 3
+  osisId: 2Tim.4
+  sblId: 2Tim 4
+  shortName: 提后 4
+  verses:
+  - name: 提摩太后书 4:1
+    orderIndex: 0
+    osisId: 2Tim.4.1
+    sblId: 2Tim 4:1
+    shortName: 提后 4:1
+    text: 我在上帝面前，並在將來審判活人死人的基督耶穌面前，憑著他的顯現和他的國度鄭重地勸戒你：
+  - name: 提摩太后书 4:2
+    orderIndex: 1
+    osisId: 2Tim.4.2
+    sblId: 2Tim 4:2
+    shortName: 提后 4:2
+    text: 務要傳道；無論得時不得時總要專心，並以百般的忍耐和各樣的教導責備人，警戒人，勸勉人。
+  - name: 提摩太后书 4:3
+    orderIndex: 2
+    osisId: 2Tim.4.3
+    sblId: 2Tim 4:3
+    shortName: 提后 4:3
+    text: 因為時候將到，那時人會厭煩健全的教導，耳朵發癢，就隨心所欲地增添好些教師，
+  - name: 提摩太后书 4:4
+    orderIndex: 3
+    osisId: 2Tim.4.4
+    sblId: 2Tim 4:4
+    shortName: 提后 4:4
+    text: 並且掩耳不聽真理，偏向無稽的傳說。
+  - name: 提摩太后书 4:5
+    orderIndex: 4
+    osisId: 2Tim.4.5
+    sblId: 2Tim 4:5
+    shortName: 提后 4:5
+    text: 至於你，凡事要謹慎，忍受苦難，做傳福音的工作，盡你的職分。
+  - name: 提摩太后书 4:6
+    orderIndex: 5
+    osisId: 2Tim.4.6
+    sblId: 2Tim 4:6
+    shortName: 提后 4:6
+    text: 至於我，我已經被澆獻，離世的時候到了。
+  - name: 提摩太后书 4:7
+    orderIndex: 6
+    osisId: 2Tim.4.7
+    sblId: 2Tim 4:7
+    shortName: 提后 4:7
+    text: 那美好的仗我已經打過了，當跑的路我已經跑盡了，該信的道我已經守住了。
+  - name: 提摩太后书 4:8
+    orderIndex: 7
+    osisId: 2Tim.4.8
+    sblId: 2Tim 4:8
+    shortName: 提后 4:8
+    text: 從此以後，有公義的冠冕為我存留，就是按著公義審判的主到了那日要賜給我的；不但賜給我，也賜給凡愛慕他顯現的人。
+  - name: 提摩太后书 4:9
+    orderIndex: 8
+    osisId: 2Tim.4.9
+    sblId: 2Tim 4:9
+    shortName: 提后 4:9
+    text: 你要趕緊到我這裏來。
+  - name: 提摩太后书 4:10
+    orderIndex: 9
+    osisId: 2Tim.4.10
+    sblId: 2Tim 4:10
+    shortName: 提后 4:10
+    text: 因為 底馬 貪愛現今的世界，已經離棄我，往 帖撒羅尼迦 去了； 革勒士 往 加拉太 去； 提多 往 撻馬太 去；
+  - name: 提摩太后书 4:11
+    orderIndex: 10
+    osisId: 2Tim.4.11
+    sblId: 2Tim 4:11
+    shortName: 提后 4:11
+    text: 只有 路加 在我這裏。你來的時候把 馬可 帶來，因為他在服事 上於我有益。
+  - name: 提摩太后书 4:12
+    orderIndex: 11
+    osisId: 2Tim.4.12
+    sblId: 2Tim 4:12
+    shortName: 提后 4:12
+    text: 我已經打發 推基古 往 以弗所 去。
+  - name: 提摩太后书 4:13
+    orderIndex: 12
+    osisId: 2Tim.4.13
+    sblId: 2Tim 4:13
+    shortName: 提后 4:13
+    text: 我在 特羅亞 留給 加布 的那件外衣，你來的時候要帶來，那些書也帶來，特別是那幾卷羊皮的書。
+  - name: 提摩太后书 4:14
+    orderIndex: 13
+    osisId: 2Tim.4.14
+    sblId: 2Tim 4:14
+    shortName: 提后 4:14
+    text: 銅匠 亞歷山大 多方害我；主必照他所行的報應他。
+  - name: 提摩太后书 4:15
+    orderIndex: 14
+    osisId: 2Tim.4.15
+    sblId: 2Tim 4:15
+    shortName: 提后 4:15
+    text: 你也要防備他，因為他極力抗拒我們的話。
+  - name: 提摩太后书 4:16
+    orderIndex: 15
+    osisId: 2Tim.4.16
+    sblId: 2Tim 4:16
+    shortName: 提后 4:16
+    text: 我初次上訴時，沒有人前來幫助，竟都離棄了我，但願這罪不歸在他們身上。
+  - name: 提摩太后书 4:17
+    orderIndex: 16
+    osisId: 2Tim.4.17
+    sblId: 2Tim 4:17
+    shortName: 提后 4:17
+    text: 惟有主站在我身邊，加給我力量，使我能把福音完整地傳開，讓所有的外邦人都聽見；我也從獅子口裏被救出來。
+  - name: 提摩太后书 4:18
+    orderIndex: 17
+    osisId: 2Tim.4.18
+    sblId: 2Tim 4:18
+    shortName: 提后 4:18
+    text: 主必救我脫離一切的兇惡，也必救我進他的天國。願榮耀歸給他，直到永永遠遠。阿們！
+  - name: 提摩太后书 4:19
+    orderIndex: 18
+    osisId: 2Tim.4.19
+    sblId: 2Tim 4:19
+    shortName: 提后 4:19
+    text: 請向 百基拉 、 亞居拉 和 阿尼色弗 一家的人問安。
+  - name: 提摩太后书 4:20
+    orderIndex: 19
+    osisId: 2Tim.4.20
+    sblId: 2Tim 4:20
+    shortName: 提后 4:20
+    text: 以拉都 在 哥林多 住下了。 特羅非摩 病了，我把他留在 米利都 。
+  - name: 提摩太后书 4:21
+    orderIndex: 20
+    osisId: 2Tim.4.21
+    sblId: 2Tim 4:21
+    shortName: 提后 4:21
+    text: 你要趕緊在冬天以前到我這裏來。 友布羅 、 布田 、 利奴 、 革老底亞 和眾弟兄都向你問安。
+  - name: 提摩太后书 4:22
+    orderIndex: 21
+    osisId: 2Tim.4.22
+    sblId: 2Tim 4:22
+    shortName: 提后 4:22
+    text: 願主與你的靈同在！願恩惠與你們同在！
+  versesCount: 22
+chaptersCount: 4
+name: 提摩太后书
+orderIndex: 54
+osisId: 2Tim
+sblId: 2Tim
+shortName: 提后
+versesCount: 83

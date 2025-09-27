@@ -1,0 +1,1019 @@
+{
+  "osisId": "Song",
+  "sblId": "Song",
+  "name": "Canticum Canticorum",
+  "shortName": "Ct",
+  "orderIndex": 21,
+  "chaptersCount": 8,
+  "versesCount": 116,
+  "chapters": [
+    {
+      "osisId": "Song.1",
+      "sblId": "Song 1",
+      "name": "Canticum Canticorum 1",
+      "shortName": "Ct 1",
+      "orderIndex": 0,
+      "versesCount": 16,
+      "verses": [
+        {
+          "osisId": "Song.1.1",
+          "sblId": "Song 1:1",
+          "name": "Canticum Canticorum 1:1",
+          "shortName": "Ct 1:1",
+          "text": "osculetur me osculo oris sui quia meliora sunt ubera tua vino",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.1.2",
+          "sblId": "Song 1:2",
+          "name": "Canticum Canticorum 1:2",
+          "shortName": "Ct 1:2",
+          "text": "fraglantia unguentis optimis oleum effusum nomen tuum ideo adulescentulae dilexerunt te",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.1.3",
+          "sblId": "Song 1:3",
+          "name": "Canticum Canticorum 1:3",
+          "shortName": "Ct 1:3",
+          "text": "trahe me post te curremus introduxit me rex in cellaria sua exultabimus et laetabimur in te memores uberum tuorum super vinum recti diligunt te",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.1.4",
+          "sblId": "Song 1:4",
+          "name": "Canticum Canticorum 1:4",
+          "shortName": "Ct 1:4",
+          "text": "nigra sum sed formonsa filiae Hierusalem sicut tabernacula Cedar sicut pelles Salomonis",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.1.5",
+          "sblId": "Song 1:5",
+          "name": "Canticum Canticorum 1:5",
+          "shortName": "Ct 1:5",
+          "text": "nolite me considerare quod fusca sim quia decoloravit me sol filii matris meae pugnaverunt contra me posuerunt me custodem in vineis vineam meam non custodivi",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.1.6",
+          "sblId": "Song 1:6",
+          "name": "Canticum Canticorum 1:6",
+          "shortName": "Ct 1:6",
+          "text": "indica mihi quem diligit anima mea ubi pascas ubi cubes in meridie ne vagari incipiam per greges sodalium tuorum",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.1.7",
+          "sblId": "Song 1:7",
+          "name": "Canticum Canticorum 1:7",
+          "shortName": "Ct 1:7",
+          "text": "si ignoras te o pulchra inter mulieres egredere et abi post vestigia gregum et pasce hedos tuos iuxta tabernacula pastorum",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.1.8",
+          "sblId": "Song 1:8",
+          "name": "Canticum Canticorum 1:8",
+          "shortName": "Ct 1:8",
+          "text": "equitatui meo in curribus Pharaonis adsimilavi te amica mea",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.1.9",
+          "sblId": "Song 1:9",
+          "name": "Canticum Canticorum 1:9",
+          "shortName": "Ct 1:9",
+          "text": "pulchrae sunt genae tuae sicut turturis collum tuum sicut monilia",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.1.10",
+          "sblId": "Song 1:10",
+          "name": "Canticum Canticorum 1:10",
+          "shortName": "Ct 1:10",
+          "text": "murenulas aureas faciemus tibi vermiculatas argento",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.1.11",
+          "sblId": "Song 1:11",
+          "name": "Canticum Canticorum 1:11",
+          "shortName": "Ct 1:11",
+          "text": "dum esset rex in accubitu suo nardus mea dedit odorem suum",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.1.12",
+          "sblId": "Song 1:12",
+          "name": "Canticum Canticorum 1:12",
+          "shortName": "Ct 1:12",
+          "text": "fasciculus murrae dilectus meus mihi inter ubera mea commorabitur",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.1.13",
+          "sblId": "Song 1:13",
+          "name": "Canticum Canticorum 1:13",
+          "shortName": "Ct 1:13",
+          "text": "botrus cypri dilectus meus mihi in vineis Engaddi",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.1.14",
+          "sblId": "Song 1:14",
+          "name": "Canticum Canticorum 1:14",
+          "shortName": "Ct 1:14",
+          "text": "ecce tu pulchra es amica mea ecce tu pulchra oculi tui columbarum",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Song.1.15",
+          "sblId": "Song 1:15",
+          "name": "Canticum Canticorum 1:15",
+          "shortName": "Ct 1:15",
+          "text": "ecce tu pulcher es dilecte mi et decorus lectulus noster floridus",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Song.1.16",
+          "sblId": "Song 1:16",
+          "name": "Canticum Canticorum 1:16",
+          "shortName": "Ct 1:16",
+          "text": "tigna domorum nostrarum cedrina laquearia nostra cypressina",
+          "orderIndex": 15
+        }
+      ]
+    },
+    {
+      "osisId": "Song.2",
+      "sblId": "Song 2",
+      "name": "Canticum Canticorum 2",
+      "shortName": "Ct 2",
+      "orderIndex": 1,
+      "versesCount": 17,
+      "verses": [
+        {
+          "osisId": "Song.2.1",
+          "sblId": "Song 2:1",
+          "name": "Canticum Canticorum 2:1",
+          "shortName": "Ct 2:1",
+          "text": "ego flos campi et lilium convallium",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.2.2",
+          "sblId": "Song 2:2",
+          "name": "Canticum Canticorum 2:2",
+          "shortName": "Ct 2:2",
+          "text": "sicut lilium inter spinas sic amica mea inter filias",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.2.3",
+          "sblId": "Song 2:3",
+          "name": "Canticum Canticorum 2:3",
+          "shortName": "Ct 2:3",
+          "text": "sicut malum inter ligna silvarum sic dilectus meus inter filios sub umbra illius quam desideraveram sedi et fructus eius dulcis gutturi meo",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.2.4",
+          "sblId": "Song 2:4",
+          "name": "Canticum Canticorum 2:4",
+          "shortName": "Ct 2:4",
+          "text": "introduxit me in cellam vinariam ordinavit in me caritatem",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.2.5",
+          "sblId": "Song 2:5",
+          "name": "Canticum Canticorum 2:5",
+          "shortName": "Ct 2:5",
+          "text": "fulcite me floribus stipate me malis quia amore langueo",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.2.6",
+          "sblId": "Song 2:6",
+          "name": "Canticum Canticorum 2:6",
+          "shortName": "Ct 2:6",
+          "text": "leva eius sub capite meo et dextera illius amplexabitur me",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.2.7",
+          "sblId": "Song 2:7",
+          "name": "Canticum Canticorum 2:7",
+          "shortName": "Ct 2:7",
+          "text": "adiuro vos filiae Hierusalem per capreas cervosque camporum ne suscitetis neque evigilare faciatis dilectam quoadusque ipsa velit",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.2.8",
+          "sblId": "Song 2:8",
+          "name": "Canticum Canticorum 2:8",
+          "shortName": "Ct 2:8",
+          "text": "vox dilecti mei ecce iste venit saliens in montibus transiliens colles",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.2.9",
+          "sblId": "Song 2:9",
+          "name": "Canticum Canticorum 2:9",
+          "shortName": "Ct 2:9",
+          "text": "similis est dilectus meus capreae hinuloque cervorum en ipse stat post parietem nostrum despiciens per fenestras prospiciens per cancellos",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.2.10",
+          "sblId": "Song 2:10",
+          "name": "Canticum Canticorum 2:10",
+          "shortName": "Ct 2:10",
+          "text": "et dilectus meus loquitur mihi surge propera amica mea formonsa mea et veni",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.2.11",
+          "sblId": "Song 2:11",
+          "name": "Canticum Canticorum 2:11",
+          "shortName": "Ct 2:11",
+          "text": "iam enim hiemps transiit imber abiit et recessit",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.2.12",
+          "sblId": "Song 2:12",
+          "name": "Canticum Canticorum 2:12",
+          "shortName": "Ct 2:12",
+          "text": "flores apparuerunt in terra tempus putationis advenit vox turturis audita est in terra nostra",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.2.13",
+          "sblId": "Song 2:13",
+          "name": "Canticum Canticorum 2:13",
+          "shortName": "Ct 2:13",
+          "text": "ficus protulit grossos suos vineae florent dederunt odorem surge amica mea speciosa mea et veni",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.2.14",
+          "sblId": "Song 2:14",
+          "name": "Canticum Canticorum 2:14",
+          "shortName": "Ct 2:14",
+          "text": "columba mea in foraminibus petrae in caverna maceriae ostende mihi faciem tuam sonet vox tua in auribus meis vox enim tua dulcis et facies tua decora",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Song.2.15",
+          "sblId": "Song 2:15",
+          "name": "Canticum Canticorum 2:15",
+          "shortName": "Ct 2:15",
+          "text": "capite nobis vulpes vulpes parvulas quae demoliuntur vineas nam vinea nostra floruit",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Song.2.16",
+          "sblId": "Song 2:16",
+          "name": "Canticum Canticorum 2:16",
+          "shortName": "Ct 2:16",
+          "text": "dilectus meus mihi et ego illi qui pascitur inter lilia",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Song.2.17",
+          "sblId": "Song 2:17",
+          "name": "Canticum Canticorum 2:17",
+          "shortName": "Ct 2:17",
+          "text": "donec adspiret dies et inclinentur umbrae revertere similis esto dilecte mi capreae aut hinulo cervorum super montes Bether",
+          "orderIndex": 16
+        }
+      ]
+    },
+    {
+      "osisId": "Song.3",
+      "sblId": "Song 3",
+      "name": "Canticum Canticorum 3",
+      "shortName": "Ct 3",
+      "orderIndex": 2,
+      "versesCount": 11,
+      "verses": [
+        {
+          "osisId": "Song.3.1",
+          "sblId": "Song 3:1",
+          "name": "Canticum Canticorum 3:1",
+          "shortName": "Ct 3:1",
+          "text": "in lectulo meo per noctes quaesivi quem diligit anima mea quaesivi illum et non inveni",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.3.2",
+          "sblId": "Song 3:2",
+          "name": "Canticum Canticorum 3:2",
+          "shortName": "Ct 3:2",
+          "text": "surgam et circuibo civitatem per vicos et plateas quaeram quem diligit anima mea quaesivi illum et non inveni",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.3.3",
+          "sblId": "Song 3:3",
+          "name": "Canticum Canticorum 3:3",
+          "shortName": "Ct 3:3",
+          "text": "invenerunt me vigiles qui custodiunt civitatem num quem dilexit anima mea vidistis",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.3.4",
+          "sblId": "Song 3:4",
+          "name": "Canticum Canticorum 3:4",
+          "shortName": "Ct 3:4",
+          "text": "paululum cum pertransissem eos inveni quem diligit anima mea tenui eum nec dimittam donec introducam illum in domum matris meae et in cubiculum genetricis meae",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.3.5",
+          "sblId": "Song 3:5",
+          "name": "Canticum Canticorum 3:5",
+          "shortName": "Ct 3:5",
+          "text": "adiuro vos filiae Hierusalem per capreas cervosque camporum ne suscitetis neque evigilare faciatis dilectam donec ipsa velit",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.3.6",
+          "sblId": "Song 3:6",
+          "name": "Canticum Canticorum 3:6",
+          "shortName": "Ct 3:6",
+          "text": "quae est ista quae ascendit per desertum sicut virgula fumi ex aromatibus murrae et turis et universi pulveris pigmentarii",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.3.7",
+          "sblId": "Song 3:7",
+          "name": "Canticum Canticorum 3:7",
+          "shortName": "Ct 3:7",
+          "text": "en lectulum Salomonis sexaginta fortes ambiunt ex fortissimis Israhel",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.3.8",
+          "sblId": "Song 3:8",
+          "name": "Canticum Canticorum 3:8",
+          "shortName": "Ct 3:8",
+          "text": "omnes tenentes gladios et ad bella doctissimi uniuscuiusque ensis super femur suum propter timores nocturnos",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.3.9",
+          "sblId": "Song 3:9",
+          "name": "Canticum Canticorum 3:9",
+          "shortName": "Ct 3:9",
+          "text": "ferculum fecit sibi rex Salomon de lignis Libani",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.3.10",
+          "sblId": "Song 3:10",
+          "name": "Canticum Canticorum 3:10",
+          "shortName": "Ct 3:10",
+          "text": "columnas eius fecit argenteas reclinatorium aureum ascensum purpureum media caritate constravit propter filias Hierusalem",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.3.11",
+          "sblId": "Song 3:11",
+          "name": "Canticum Canticorum 3:11",
+          "shortName": "Ct 3:11",
+          "text": "egredimini et videte filiae Sion regem Salomonem in diademate quo coronavit eum mater sua in die disponsionis illius et in die laetitiae cordis eius",
+          "orderIndex": 10
+        }
+      ]
+    },
+    {
+      "osisId": "Song.4",
+      "sblId": "Song 4",
+      "name": "Canticum Canticorum 4",
+      "shortName": "Ct 4",
+      "orderIndex": 3,
+      "versesCount": 16,
+      "verses": [
+        {
+          "osisId": "Song.4.1",
+          "sblId": "Song 4:1",
+          "name": "Canticum Canticorum 4:1",
+          "shortName": "Ct 4:1",
+          "text": "quam pulchra es amica mea quam pulchra es oculi tui columbarum absque eo quod intrinsecus latet capilli tui sicut greges caprarum quae ascenderunt de monte Galaad",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.4.2",
+          "sblId": "Song 4:2",
+          "name": "Canticum Canticorum 4:2",
+          "shortName": "Ct 4:2",
+          "text": "dentes tui sicut greges tonsarum quae ascenderunt de lavacro omnes gemellis fetibus et sterilis non est inter eas",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.4.3",
+          "sblId": "Song 4:3",
+          "name": "Canticum Canticorum 4:3",
+          "shortName": "Ct 4:3",
+          "text": "sicut vitta coccinea labia tua et eloquium tuum dulce sicut fragmen mali punici ita genae tuae absque eo quod intrinsecus latet",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.4.4",
+          "sblId": "Song 4:4",
+          "name": "Canticum Canticorum 4:4",
+          "shortName": "Ct 4:4",
+          "text": "sicut turris David collum tuum quae aedificata est cum propugnaculis mille clypei pendent ex ea omnis armatura fortium",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.4.5",
+          "sblId": "Song 4:5",
+          "name": "Canticum Canticorum 4:5",
+          "shortName": "Ct 4:5",
+          "text": "duo ubera tua sicut duo hinuli capreae gemelli qui pascuntur in liliis",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.4.6",
+          "sblId": "Song 4:6",
+          "name": "Canticum Canticorum 4:6",
+          "shortName": "Ct 4:6",
+          "text": "donec adspiret dies et inclinentur umbrae vadam ad montem murrae et ad collem turis",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.4.7",
+          "sblId": "Song 4:7",
+          "name": "Canticum Canticorum 4:7",
+          "shortName": "Ct 4:7",
+          "text": "tota pulchra es amica mea et macula non est in te",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.4.8",
+          "sblId": "Song 4:8",
+          "name": "Canticum Canticorum 4:8",
+          "shortName": "Ct 4:8",
+          "text": "veni de Libano sponsa veni de Libano veni coronaberis de capite Amana de vertice Sanir et Hermon de cubilibus leonum de montibus pardorum",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.4.9",
+          "sblId": "Song 4:9",
+          "name": "Canticum Canticorum 4:9",
+          "shortName": "Ct 4:9",
+          "text": "vulnerasti cor meum soror mea sponsa vulnerasti cor meum in uno oculorum tuorum et in uno crine colli tui",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.4.10",
+          "sblId": "Song 4:10",
+          "name": "Canticum Canticorum 4:10",
+          "shortName": "Ct 4:10",
+          "text": "quam pulchrae sunt mammae tuae soror mea sponsa pulchriora ubera tua vino et odor unguentorum tuorum super omnia aromata",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.4.11",
+          "sblId": "Song 4:11",
+          "name": "Canticum Canticorum 4:11",
+          "shortName": "Ct 4:11",
+          "text": "favus distillans labia tua sponsa mel et lac sub lingua tua et odor vestimentorum tuorum sicut odor turis",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.4.12",
+          "sblId": "Song 4:12",
+          "name": "Canticum Canticorum 4:12",
+          "shortName": "Ct 4:12",
+          "text": "hortus conclusus soror mea sponsa hortus conclusus fons signatus",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.4.13",
+          "sblId": "Song 4:13",
+          "name": "Canticum Canticorum 4:13",
+          "shortName": "Ct 4:13",
+          "text": "emissiones tuae paradisus malorum punicorum cum pomorum fructibus cypri cum nardo",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.4.14",
+          "sblId": "Song 4:14",
+          "name": "Canticum Canticorum 4:14",
+          "shortName": "Ct 4:14",
+          "text": "nardus et crocus fistula et cinnamomum cum universis lignis Libani murra et aloe cum omnibus primis unguentis",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Song.4.15",
+          "sblId": "Song 4:15",
+          "name": "Canticum Canticorum 4:15",
+          "shortName": "Ct 4:15",
+          "text": "fons hortorum puteus aquarum viventium quae fluunt impetu de Libano",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Song.4.16",
+          "sblId": "Song 4:16",
+          "name": "Canticum Canticorum 4:16",
+          "shortName": "Ct 4:16",
+          "text": "surge aquilo et veni auster perfla hortum meum et fluant aromata illius",
+          "orderIndex": 15
+        }
+      ]
+    },
+    {
+      "osisId": "Song.5",
+      "sblId": "Song 5",
+      "name": "Canticum Canticorum 5",
+      "shortName": "Ct 5",
+      "orderIndex": 4,
+      "versesCount": 17,
+      "verses": [
+        {
+          "osisId": "Song.5.1",
+          "sblId": "Song 5:1",
+          "name": "Canticum Canticorum 5:1",
+          "shortName": "Ct 5:1",
+          "text": "veniat dilectus meus in hortum suum et comedat fructum pomorum suorum veni in hortum meum soror mea sponsa messui murram meam cum aromatibus meis comedi favum cum melle meo bibi vinum meum cum lacte meo comedite amici bibite et inebriamini carissimi",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.5.2",
+          "sblId": "Song 5:2",
+          "name": "Canticum Canticorum 5:2",
+          "shortName": "Ct 5:2",
+          "text": "ego dormio et cor meum vigilat vox dilecti mei pulsantis aperi mihi soror mea amica mea columba mea inmaculata mea quia caput meum plenum est rore et cincinni mei guttis noctium",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.5.3",
+          "sblId": "Song 5:3",
+          "name": "Canticum Canticorum 5:3",
+          "shortName": "Ct 5:3",
+          "text": "expoliavi me tunica mea quomodo induar illa lavi pedes meos quomodo inquinabo illos",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.5.4",
+          "sblId": "Song 5:4",
+          "name": "Canticum Canticorum 5:4",
+          "shortName": "Ct 5:4",
+          "text": "dilectus meus misit manum suam per foramen et venter meus intremuit ad tactum eius",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.5.5",
+          "sblId": "Song 5:5",
+          "name": "Canticum Canticorum 5:5",
+          "shortName": "Ct 5:5",
+          "text": "surrexi ut aperirem dilecto meo manus meae stillaverunt murra digiti mei pleni murra probatissima",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.5.6",
+          "sblId": "Song 5:6",
+          "name": "Canticum Canticorum 5:6",
+          "shortName": "Ct 5:6",
+          "text": "pessulum ostii aperui dilecto meo at ille declinaverat atque transierat anima mea liquefacta est ut locutus est quaesivi et non inveni illum vocavi et non respondit mihi",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.5.7",
+          "sblId": "Song 5:7",
+          "name": "Canticum Canticorum 5:7",
+          "shortName": "Ct 5:7",
+          "text": "invenerunt me custodes qui circumeunt civitatem percusserunt me vulneraverunt me tulerunt pallium meum mihi custodes murorum",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.5.8",
+          "sblId": "Song 5:8",
+          "name": "Canticum Canticorum 5:8",
+          "shortName": "Ct 5:8",
+          "text": "adiuro vos filiae Hierusalem si inveneritis dilectum meum ut nuntietis ei quia amore langueo",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.5.9",
+          "sblId": "Song 5:9",
+          "name": "Canticum Canticorum 5:9",
+          "shortName": "Ct 5:9",
+          "text": "qualis est dilectus tuus ex dilecto o pulcherrima mulierum qualis est dilectus tuus ex dilecto quia sic adiurasti nos",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.5.10",
+          "sblId": "Song 5:10",
+          "name": "Canticum Canticorum 5:10",
+          "shortName": "Ct 5:10",
+          "text": "dilectus meus candidus et rubicundus electus ex milibus",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.5.11",
+          "sblId": "Song 5:11",
+          "name": "Canticum Canticorum 5:11",
+          "shortName": "Ct 5:11",
+          "text": "caput eius aurum optimum comae eius sicut elatae palmarum nigrae quasi corvus",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.5.12",
+          "sblId": "Song 5:12",
+          "name": "Canticum Canticorum 5:12",
+          "shortName": "Ct 5:12",
+          "text": "oculi eius sicut columbae super rivulos aquarum quae lacte sunt lotae et resident iuxta fluenta plenissima",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.5.13",
+          "sblId": "Song 5:13",
+          "name": "Canticum Canticorum 5:13",
+          "shortName": "Ct 5:13",
+          "text": "genae illius sicut areolae aromatum consitae a pigmentariis labia eius lilia distillantia murram primam",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.5.14",
+          "sblId": "Song 5:14",
+          "name": "Canticum Canticorum 5:14",
+          "shortName": "Ct 5:14",
+          "text": "manus illius tornatiles aureae plenae hyacinthis venter eius eburneus distinctus sapphyris",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Song.5.15",
+          "sblId": "Song 5:15",
+          "name": "Canticum Canticorum 5:15",
+          "shortName": "Ct 5:15",
+          "text": "crura illius columnae marmoreae quae fundatae sunt super bases aureas species eius ut Libani electus ut cedri",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Song.5.16",
+          "sblId": "Song 5:16",
+          "name": "Canticum Canticorum 5:16",
+          "shortName": "Ct 5:16",
+          "text": "guttur illius suavissimum et totus desiderabilis talis est dilectus meus et iste est amicus meus filiae Hierusalem",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Song.5.17",
+          "sblId": "Song 5:17",
+          "name": "Canticum Canticorum 5:17",
+          "shortName": "Ct 5:17",
+          "text": "quo abiit dilectus tuus o pulcherrima mulierum quo declinavit dilectus tuus et quaeremus eum tecum",
+          "orderIndex": 16
+        }
+      ]
+    },
+    {
+      "osisId": "Song.6",
+      "sblId": "Song 6",
+      "name": "Canticum Canticorum 6",
+      "shortName": "Ct 6",
+      "orderIndex": 5,
+      "versesCount": 12,
+      "verses": [
+        {
+          "osisId": "Song.6.1",
+          "sblId": "Song 6:1",
+          "name": "Canticum Canticorum 6:1",
+          "shortName": "Ct 6:1",
+          "text": "dilectus meus descendit in hortum suum ad areolam aromatis ut pascatur in hortis et lilia colligat",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.6.2",
+          "sblId": "Song 6:2",
+          "name": "Canticum Canticorum 6:2",
+          "shortName": "Ct 6:2",
+          "text": "ego dilecto meo et dilectus meus mihi qui pascitur inter lilia",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.6.3",
+          "sblId": "Song 6:3",
+          "name": "Canticum Canticorum 6:3",
+          "shortName": "Ct 6:3",
+          "text": "pulchra es amica mea suavis et decora sicut Hierusalem terribilis ut castrorum acies ordinata",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.6.4",
+          "sblId": "Song 6:4",
+          "name": "Canticum Canticorum 6:4",
+          "shortName": "Ct 6:4",
+          "text": "averte oculos tuos a me quia ipsi me avolare fecerunt capilli tui sicut grex caprarum quae apparuerunt de Galaad",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.6.5",
+          "sblId": "Song 6:5",
+          "name": "Canticum Canticorum 6:5",
+          "shortName": "Ct 6:5",
+          "text": "dentes tui sicut grex ovium quae ascenderunt de lavacro omnes gemellis fetibus et sterilis non est in eis",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.6.6",
+          "sblId": "Song 6:6",
+          "name": "Canticum Canticorum 6:6",
+          "shortName": "Ct 6:6",
+          "text": "sicut cortex mali punici genae tuae absque occultis tuis",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.6.7",
+          "sblId": "Song 6:7",
+          "name": "Canticum Canticorum 6:7",
+          "shortName": "Ct 6:7",
+          "text": "sexaginta sunt reginae et octoginta concubinae et adulescentularum non est numerus",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.6.8",
+          "sblId": "Song 6:8",
+          "name": "Canticum Canticorum 6:8",
+          "shortName": "Ct 6:8",
+          "text": "una est columba mea perfecta mea una est matris suae electa genetrici suae viderunt illam filiae et beatissimam praedicaverunt reginae et concubinae et laudaverunt eam",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.6.9",
+          "sblId": "Song 6:9",
+          "name": "Canticum Canticorum 6:9",
+          "shortName": "Ct 6:9",
+          "text": "quae est ista quae progreditur quasi aurora consurgens pulchra ut luna electa ut sol terribilis ut acies ordinata",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.6.10",
+          "sblId": "Song 6:10",
+          "name": "Canticum Canticorum 6:10",
+          "shortName": "Ct 6:10",
+          "text": "descendi ad hortum nucum ut viderem poma convallis ut inspicerem si floruisset vinea et germinassent mala punica",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.6.11",
+          "sblId": "Song 6:11",
+          "name": "Canticum Canticorum 6:11",
+          "shortName": "Ct 6:11",
+          "text": "nescivi anima mea conturbavit me propter quadrigas Aminadab",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.6.12",
+          "sblId": "Song 6:12",
+          "name": "Canticum Canticorum 6:12",
+          "shortName": "Ct 6:12",
+          "text": "revertere revertere Sulamitis revertere revertere ut intueamur te",
+          "orderIndex": 11
+        }
+      ]
+    },
+    {
+      "osisId": "Song.7",
+      "sblId": "Song 7",
+      "name": "Canticum Canticorum 7",
+      "shortName": "Ct 7",
+      "orderIndex": 6,
+      "versesCount": 13,
+      "verses": [
+        {
+          "osisId": "Song.7.1",
+          "sblId": "Song 7:1",
+          "name": "Canticum Canticorum 7:1",
+          "shortName": "Ct 7:1",
+          "text": "quid videbis in Sulamiten nisi choros castrorum quam pulchri sunt gressus tui in calciamentis filia principis iunctura feminum tuorum sicut monilia quae fabricata sunt manu artificis",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.7.2",
+          "sblId": "Song 7:2",
+          "name": "Canticum Canticorum 7:2",
+          "shortName": "Ct 7:2",
+          "text": "umbilicus tuus crater tornatilis numquam indigens poculis venter tuus sicut acervus tritici vallatus liliis",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.7.3",
+          "sblId": "Song 7:3",
+          "name": "Canticum Canticorum 7:3",
+          "shortName": "Ct 7:3",
+          "text": "duo ubera tua sicut duo hinuli gemelli capreae",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.7.4",
+          "sblId": "Song 7:4",
+          "name": "Canticum Canticorum 7:4",
+          "shortName": "Ct 7:4",
+          "text": "collum tuum sicut turris eburnea oculi tui sicut piscinae in Esebon quae sunt in porta filiae multitudinis nasus tuus sicut turris Libani quae respicit contra Damascum",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.7.5",
+          "sblId": "Song 7:5",
+          "name": "Canticum Canticorum 7:5",
+          "shortName": "Ct 7:5",
+          "text": "caput tuum ut Carmelus et comae capitis tui sicut purpura regis vincta canalibus",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.7.6",
+          "sblId": "Song 7:6",
+          "name": "Canticum Canticorum 7:6",
+          "shortName": "Ct 7:6",
+          "text": "quam pulchra es et quam decora carissima in deliciis",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.7.7",
+          "sblId": "Song 7:7",
+          "name": "Canticum Canticorum 7:7",
+          "shortName": "Ct 7:7",
+          "text": "statura tua adsimilata est palmae et ubera tua botris",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.7.8",
+          "sblId": "Song 7:8",
+          "name": "Canticum Canticorum 7:8",
+          "shortName": "Ct 7:8",
+          "text": "dixi ascendam in palmam adprehendam fructus eius et erunt ubera tua sicut botri vineae et odor oris tui sicut malorum",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.7.9",
+          "sblId": "Song 7:9",
+          "name": "Canticum Canticorum 7:9",
+          "shortName": "Ct 7:9",
+          "text": "guttur tuum sicut vinum optimum dignum dilecto meo ad potandum labiisque et dentibus illius ruminandum",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.7.10",
+          "sblId": "Song 7:10",
+          "name": "Canticum Canticorum 7:10",
+          "shortName": "Ct 7:10",
+          "text": "ego dilecto meo et ad me conversio eius",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.7.11",
+          "sblId": "Song 7:11",
+          "name": "Canticum Canticorum 7:11",
+          "shortName": "Ct 7:11",
+          "text": "veni dilecte mi egrediamur in agrum commoremur in villis",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.7.12",
+          "sblId": "Song 7:12",
+          "name": "Canticum Canticorum 7:12",
+          "shortName": "Ct 7:12",
+          "text": "mane surgamus ad vineas videamus si floruit vinea si flores fructus parturiunt si floruerunt mala punica ibi dabo tibi ubera mea",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.7.13",
+          "sblId": "Song 7:13",
+          "name": "Canticum Canticorum 7:13",
+          "shortName": "Ct 7:13",
+          "text": "mandragorae dederunt odorem in portis nostris omnia poma nova et vetera dilecte mi servavi tibi",
+          "orderIndex": 12
+        }
+      ]
+    },
+    {
+      "osisId": "Song.8",
+      "sblId": "Song 8",
+      "name": "Canticum Canticorum 8",
+      "shortName": "Ct 8",
+      "orderIndex": 7,
+      "versesCount": 14,
+      "verses": [
+        {
+          "osisId": "Song.8.1",
+          "sblId": "Song 8:1",
+          "name": "Canticum Canticorum 8:1",
+          "shortName": "Ct 8:1",
+          "text": "quis mihi det te fratrem meum sugentem ubera matris meae ut inveniam te foris et deosculer et iam me nemo despiciat",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.8.2",
+          "sblId": "Song 8:2",
+          "name": "Canticum Canticorum 8:2",
+          "shortName": "Ct 8:2",
+          "text": "adprehendam te et ducam in domum matris meae ibi me docebis et dabo tibi poculum ex vino condito et mustum malorum granatorum meorum",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.8.3",
+          "sblId": "Song 8:3",
+          "name": "Canticum Canticorum 8:3",
+          "shortName": "Ct 8:3",
+          "text": "leva eius sub capite meo et dextera illius amplexabitur me",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.8.4",
+          "sblId": "Song 8:4",
+          "name": "Canticum Canticorum 8:4",
+          "shortName": "Ct 8:4",
+          "text": "adiuro vos filiae Hierusalem ne suscitetis et evigilare faciatis dilectam donec ipsa velit",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.8.5",
+          "sblId": "Song 8:5",
+          "name": "Canticum Canticorum 8:5",
+          "shortName": "Ct 8:5",
+          "text": "quae est ista quae ascendit de deserto deliciis affluens et nixa super dilectum suum sub arbore malo suscitavi te ibi corrupta est mater tua ibi violata est genetrix tua",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.8.6",
+          "sblId": "Song 8:6",
+          "name": "Canticum Canticorum 8:6",
+          "shortName": "Ct 8:6",
+          "text": "pone me ut signaculum super cor tuum ut signaculum super brachium tuum quia fortis est ut mors dilectio dura sicut inferus aemulatio lampades eius lampades ignis atque flammarum",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.8.7",
+          "sblId": "Song 8:7",
+          "name": "Canticum Canticorum 8:7",
+          "shortName": "Ct 8:7",
+          "text": "aquae multae non poterunt extinguere caritatem nec flumina obruent illam si dederit homo omnem substantiam domus suae pro dilectione quasi nihil despicient eum",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.8.8",
+          "sblId": "Song 8:8",
+          "name": "Canticum Canticorum 8:8",
+          "shortName": "Ct 8:8",
+          "text": "soror nostra parva et ubera non habet quid faciemus sorori nostrae in die quando adloquenda est",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.8.9",
+          "sblId": "Song 8:9",
+          "name": "Canticum Canticorum 8:9",
+          "shortName": "Ct 8:9",
+          "text": "si murus est aedificemus super eum propugnacula argentea si ostium est conpingamus illud tabulis cedrinis",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.8.10",
+          "sblId": "Song 8:10",
+          "name": "Canticum Canticorum 8:10",
+          "shortName": "Ct 8:10",
+          "text": "ego murus et ubera mea sicut turris ex quo facta sum coram eo quasi pacem repperiens",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.8.11",
+          "sblId": "Song 8:11",
+          "name": "Canticum Canticorum 8:11",
+          "shortName": "Ct 8:11",
+          "text": "vinea fuit Pacifico in ea quae habet populos tradidit eam custodibus vir adfert pro fructu eius mille argenteos",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.8.12",
+          "sblId": "Song 8:12",
+          "name": "Canticum Canticorum 8:12",
+          "shortName": "Ct 8:12",
+          "text": "vinea mea coram me est mille tui Pacifice et ducenti his qui custodiunt fructus eius",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.8.13",
+          "sblId": "Song 8:13",
+          "name": "Canticum Canticorum 8:13",
+          "shortName": "Ct 8:13",
+          "text": "quae habitas in hortis amici auscultant fac me audire vocem tuam",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.8.14",
+          "sblId": "Song 8:14",
+          "name": "Canticum Canticorum 8:14",
+          "shortName": "Ct 8:14",
+          "text": "fuge dilecte mi et adsimilare capreae hinuloque cervorum super montes aromatum",
+          "orderIndex": 13
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5912 @@
+chapters:
+- name: Приповісті 1
+  orderIndex: 0
+  osisId: Prov.1
+  sblId: Prov 1
+  shortName: Прип 1
+  verses:
+  - name: Приповісті 1:1
+    orderIndex: 0
+    osisId: Prov.1.1
+    sblId: Prov 1:1
+    shortName: Прип 1:1
+    text: Приповісті Соломона, сина Давидового, царя Ізраїлевого,
+  - name: Приповісті 1:2
+    orderIndex: 1
+    osisId: Prov.1.2
+    sblId: Prov 1:2
+    shortName: Прип 1:2
+    text: щоб пізнати премудрість і карність, щоб зрозуміти розсудні слова,
+  - name: Приповісті 1:3
+    orderIndex: 2
+    osisId: Prov.1.3
+    sblId: Prov 1:3
+    shortName: Прип 1:3
+    text: щоб прийняти напоумлення мудрости, праведности, і права й простоти,
+  - name: Приповісті 1:4
+    orderIndex: 3
+    osisId: Prov.1.4
+    sblId: Prov 1:4
+    shortName: Прип 1:4
+    text: щоб мудрости дати простодушним, юнакові пізнання й розважність.
+  - name: Приповісті 1:5
+    orderIndex: 4
+    osisId: Prov.1.5
+    sblId: Prov 1:5
+    shortName: Прип 1:5
+    text: Хай послухає мудрий і примножить науку, а розумний здобуде хай мудрих думок,
+  - name: Приповісті 1:6
+    orderIndex: 5
+    osisId: Prov.1.6
+    sblId: Prov 1:6
+    shortName: Прип 1:6
+    text: щоб пізнати ту приповість та загадкове говорення, слова мудреців та їхні
+      загадки.
+  - name: Приповісті 1:7
+    orderIndex: 6
+    osisId: Prov.1.7
+    sblId: Prov 1:7
+    shortName: Прип 1:7
+    text: Страх Господній початок премудрости, нерозумні погорджують мудрістю та напучуванням.
+  - name: Приповісті 1:8
+    orderIndex: 7
+    osisId: Prov.1.8
+    sblId: Prov 1:8
+    shortName: Прип 1:8
+    text: Послухай, мій сину, напучення батька свого, і не відкидай науки матері своєї,
+  - name: Приповісті 1:9
+    orderIndex: 8
+    osisId: Prov.1.9
+    sblId: Prov 1:9
+    shortName: Прип 1:9
+    text: вони бо хороший вінок для твоєї голови, і прикраса на шию твою.
+  - name: Приповісті 1:10
+    orderIndex: 9
+    osisId: Prov.1.10
+    sblId: Prov 1:10
+    shortName: Прип 1:10
+    text: Мій сину, як грішники будуть тебе намовляти, то з ними не згоджуйся ти!
+  - name: Приповісті 1:11
+    orderIndex: 10
+    osisId: Prov.1.11
+    sblId: Prov 1:11
+    shortName: Прип 1:11
+    text: 'Якщо скажуть вони: Ходи з нами, чатуймо на кров, безпричинно засядьмо на
+      неповинного,'
+  - name: Приповісті 1:12
+    orderIndex: 11
+    osisId: Prov.1.12
+    sblId: Prov 1:12
+    shortName: Прип 1:12
+    text: живих поковтаймо ми їх, як шеол, та здорових, як тих, які сходять до гробу!
+  - name: Приповісті 1:13
+    orderIndex: 12
+    osisId: Prov.1.13
+    sblId: Prov 1:13
+    shortName: Прип 1:13
+    text: Ми знайдемо всіляке багатство цінне, переповнимо здобиччю наші хати.
+  - name: Приповісті 1:14
+    orderIndex: 13
+    osisId: Prov.1.14
+    sblId: Prov 1:14
+    shortName: Прип 1:14
+    text: Жеребок свій ти кинеш із нами, буде саква одна для всіх нас,
+  - name: Приповісті 1:15
+    orderIndex: 14
+    osisId: Prov.1.15
+    sblId: Prov 1:15
+    shortName: Прип 1:15
+    text: сину мій, не ходи ти дорогою з ними, спини ногу свою від їхньої стежки,
+  - name: Приповісті 1:16
+    orderIndex: 15
+    osisId: Prov.1.16
+    sblId: Prov 1:16
+    shortName: Прип 1:16
+    text: бо біжать їхні ноги на зло, і поспішають, щоб кров проливати!
+  - name: Приповісті 1:17
+    orderIndex: 16
+    osisId: Prov.1.17
+    sblId: Prov 1:17
+    shortName: Прип 1:17
+    text: 'Бож надармо поставлена сітка на очах усього крилатого:'
+  - name: Приповісті 1:18
+    orderIndex: 17
+    osisId: Prov.1.18
+    sblId: Prov 1:18
+    shortName: Прип 1:18
+    text: то вони на кров власну чатують, засідають на душу свою!
+  - name: Приповісті 1:19
+    orderIndex: 18
+    osisId: Prov.1.19
+    sblId: Prov 1:19
+    shortName: Прип 1:19
+    text: 'Такі то дороги усіх, хто заздрий чужого добра: воно бере душу свого власника!'
+  - name: Приповісті 1:20
+    orderIndex: 19
+    osisId: Prov.1.20
+    sblId: Prov 1:20
+    shortName: Прип 1:20
+    text: Кличе мудрість на вулиці, на площах свій голос дає,
+  - name: Приповісті 1:21
+    orderIndex: 20
+    osisId: Prov.1.21
+    sblId: Prov 1:21
+    shortName: Прип 1:21
+    text: 'на шумливих місцях проповідує, у місті при входах до брам вона каже слова
+      свої:'
+  - name: Приповісті 1:22
+    orderIndex: 21
+    osisId: Prov.1.22
+    sblId: Prov 1:22
+    shortName: Прип 1:22
+    text: Доки ви, нерозумні, глупоту любитимете? Аж доки насмішники будуть кохатись
+      собі в глузуванні, а безглузді ненавидіти будуть знання?
+  - name: Приповісті 1:23
+    orderIndex: 22
+    osisId: Prov.1.23
+    sblId: Prov 1:23
+    shortName: Прип 1:23
+    text: Зверніться но ви до картання мого, ось я виллю вам духа свого, сповіщу вам
+      слова свої!
+  - name: Приповісті 1:24
+    orderIndex: 23
+    osisId: Prov.1.24
+    sblId: Prov 1:24
+    shortName: Прип 1:24
+    text: Бо кликала я, та відмовились ви, простягла була руку свою, та ніхто не прислухувався!
+  - name: Приповісті 1:25
+    orderIndex: 24
+    osisId: Prov.1.25
+    sblId: Prov 1:25
+    shortName: Прип 1:25
+    text: І всю раду мою ви відкинули, картання ж мого не схотіли!
+  - name: Приповісті 1:26
+    orderIndex: 25
+    osisId: Prov.1.26
+    sblId: Prov 1:26
+    shortName: Прип 1:26
+    text: Тож у вашім нещасті сміятися буду і я, насміхатися буду, як прийде ваш страх.
+  - name: Приповісті 1:27
+    orderIndex: 26
+    osisId: Prov.1.27
+    sblId: Prov 1:27
+    shortName: Прип 1:27
+    text: Коли прийде ваш страх, немов вихор, і привалиться ваше нещастя, мов буря,
+      як прийде недоля та утиск на вас,
+  - name: Приповісті 1:28
+    orderIndex: 27
+    osisId: Prov.1.28
+    sblId: Prov 1:28
+    shortName: Прип 1:28
+    text: тоді кликати будуть мене, але не відповім, будуть шукати мене, та не знайдуть
+      мене,
+  - name: Приповісті 1:29
+    orderIndex: 28
+    osisId: Prov.1.29
+    sblId: Prov 1:29
+    shortName: Прип 1:29
+    text: за те, що науку зненавиділи, і не вибрали страху Господнього,
+  - name: Приповісті 1:30
+    orderIndex: 29
+    osisId: Prov.1.30
+    sblId: Prov 1:30
+    shortName: Прип 1:30
+    text: не хотіли поради моєї, погорджували всіма моїми докорами!
+  - name: Приповісті 1:31
+    orderIndex: 30
+    osisId: Prov.1.31
+    sblId: Prov 1:31
+    shortName: Прип 1:31
+    text: І тому хай їдять вони з плоду дороги своєї, а з порад своїх хай насищаються,
+  - name: Приповісті 1:32
+    orderIndex: 31
+    osisId: Prov.1.32
+    sblId: Prov 1:32
+    shortName: Прип 1:32
+    text: бо відступство безумних заб'є їх, і безпечність безтямних їх вигубить!
+  - name: Приповісті 1:33
+    orderIndex: 32
+    osisId: Prov.1.33
+    sblId: Prov 1:33
+    shortName: Прип 1:33
+    text: А хто мене слухає, той буде жити безпечно, і буде спокійний від страху перед
+      злом!
+  versesCount: 33
+- name: Приповісті 2
+  orderIndex: 1
+  osisId: Prov.2
+  sblId: Prov 2
+  shortName: Прип 2
+  verses:
+  - name: Приповісті 2:1
+    orderIndex: 0
+    osisId: Prov.2.1
+    sblId: Prov 2:1
+    shortName: Прип 2:1
+    text: Сину мій, якщо приймеш слова мої ти, а накази мої при собі заховаєш,
+  - name: Приповісті 2:2
+    orderIndex: 1
+    osisId: Prov.2.2
+    sblId: Prov 2:2
+    shortName: Прип 2:2
+    text: щоб слухало мудрости вухо твоє, своє серце прихилиш до розуму,
+  - name: Приповісті 2:3
+    orderIndex: 2
+    osisId: Prov.2.3
+    sblId: Prov 2:3
+    shortName: Прип 2:3
+    text: якщо до розсудку ти кликати будеш, до розуму кликатимеш своїм голосом,
+  - name: Приповісті 2:4
+    orderIndex: 3
+    osisId: Prov.2.4
+    sblId: Prov 2:4
+    shortName: Прип 2:4
+    text: якщо будеш шукати його, немов срібла, і будеш його ти пошукувати, як тих
+      схованих скарбів,
+  - name: Приповісті 2:5
+    orderIndex: 4
+    osisId: Prov.2.5
+    sblId: Prov 2:5
+    shortName: Прип 2:5
+    text: тоді зрозумієш страх Господній, і знайдеш ти Богопізнання,
+  - name: Приповісті 2:6
+    orderIndex: 5
+    osisId: Prov.2.6
+    sblId: Prov 2:6
+    shortName: Прип 2:6
+    text: бо Господь дає мудрість, з Його уст знання й розум!
+  - name: Приповісті 2:7
+    orderIndex: 6
+    osisId: Prov.2.7
+    sblId: Prov 2:7
+    shortName: Прип 2:7
+    text: Він спасіння ховає для щирих, мов щит той для тих, хто в невинності ходить,
+  - name: Приповісті 2:8
+    orderIndex: 7
+    osisId: Prov.2.8
+    sblId: Prov 2:8
+    shortName: Прип 2:8
+    text: щоб справедливих стежок стерегти, і береже Він дорогу Своїх богобійних!
+  - name: Приповісті 2:9
+    orderIndex: 8
+    osisId: Prov.2.9
+    sblId: Prov 2:9
+    shortName: Прип 2:9
+    text: Тоді ти збагнеш справедливість та право, і простоту, всіляку дорогу добра,
+  - name: Приповісті 2:10
+    orderIndex: 9
+    osisId: Prov.2.10
+    sblId: Prov 2:10
+    shortName: Прип 2:10
+    text: бо мудрість увійде до серця твого, і буде приємне знання для твоєї душі!
+  - name: Приповісті 2:11
+    orderIndex: 10
+    osisId: Prov.2.11
+    sblId: Prov 2:11
+    shortName: Прип 2:11
+    text: розважність тоді тебе пильнуватиме, розум тебе стерегтиме,
+  - name: Приповісті 2:12
+    orderIndex: 11
+    osisId: Prov.2.12
+    sblId: Prov 2:12
+    shortName: Прип 2:12
+    text: щоб тебе врятувати від злої дороги, від людини, що каже лукаве,
+  - name: Приповісті 2:13
+    orderIndex: 12
+    osisId: Prov.2.13
+    sblId: Prov 2:13
+    shortName: Прип 2:13
+    text: від тих, хто стежки простоти покидає, щоб ходити дорогами темряви,
+  - name: Приповісті 2:14
+    orderIndex: 13
+    osisId: Prov.2.14
+    sblId: Prov 2:14
+    shortName: Прип 2:14
+    text: що тішаться, роблячи зло, що радіють крутійствами злого,
+  - name: Приповісті 2:15
+    orderIndex: 14
+    osisId: Prov.2.15
+    sblId: Prov 2:15
+    shortName: Прип 2:15
+    text: що стежки їхні круті, і відходять своїми путями,
+  - name: Приповісті 2:16
+    orderIndex: 15
+    osisId: Prov.2.16
+    sblId: Prov 2:16
+    shortName: Прип 2:16
+    text: щоб тебе врятувати від блудниці, від чужинки, що мовить м'якенькі слова,
+  - name: Приповісті 2:17
+    orderIndex: 16
+    osisId: Prov.2.17
+    sblId: Prov 2:17
+    shortName: Прип 2:17
+    text: що покинула друга юнацтва свого, а про заповіт свого Бога забула,
+  - name: Приповісті 2:18
+    orderIndex: 17
+    osisId: Prov.2.18
+    sblId: Prov 2:18
+    shortName: Прип 2:18
+    text: вона бо із домом своїм западеться у смерть, а стежки її до померлих,
+  - name: Приповісті 2:19
+    orderIndex: 18
+    osisId: Prov.2.19
+    sblId: Prov 2:19
+    shortName: Прип 2:19
+    text: ніхто, хто входить до неї, не вернеться, і стежки життя не досягне,
+  - name: Приповісті 2:20
+    orderIndex: 19
+    osisId: Prov.2.20
+    sblId: Prov 2:20
+    shortName: Прип 2:20
+    text: щоб ходив ти дорогою добрих, і стежки справедливих беріг!
+  - name: Приповісті 2:21
+    orderIndex: 20
+    osisId: Prov.2.21
+    sblId: Prov 2:21
+    shortName: Прип 2:21
+    text: Бо замешкають праведні землю, і невинні зостануться в ній,
+  - name: Приповісті 2:22
+    orderIndex: 21
+    osisId: Prov.2.22
+    sblId: Prov 2:22
+    shortName: Прип 2:22
+    text: а безбожні з землі будуть вигублені, і повириваються з неї невірні!
+  versesCount: 22
+- name: Приповісті 3
+  orderIndex: 2
+  osisId: Prov.3
+  sblId: Prov 3
+  shortName: Прип 3
+  verses:
+  - name: Приповісті 3:1
+    orderIndex: 0
+    osisId: Prov.3.1
+    sblId: Prov 3:1
+    shortName: Прип 3:1
+    text: Сину мій, не забудь ти моєї науки, і нехай мої заповіді стережуть твоє серце,
+  - name: Приповісті 3:2
+    orderIndex: 1
+    osisId: Prov.3.2
+    sblId: Prov 3:2
+    shortName: Прип 3:2
+    text: бо примножать для тебе вони довготу твоїх днів, і років життя та спокою!
+  - name: Приповісті 3:3
+    orderIndex: 2
+    osisId: Prov.3.3
+    sblId: Prov 3:3
+    shortName: Прип 3:3
+    text: Милість та правда нехай не залишать тебе, прив'яжи їх до шиї своєї, напиши
+      їх на таблиці серця свого,
+  - name: Приповісті 3:4
+    orderIndex: 3
+    osisId: Prov.3.4
+    sblId: Prov 3:4
+    shortName: Прип 3:4
+    text: і знайдеш ти ласку та добру премудрість в очах Бога й людини!
+  - name: Приповісті 3:5
+    orderIndex: 4
+    osisId: Prov.3.5
+    sblId: Prov 3:5
+    shortName: Прип 3:5
+    text: Надійся на Господа всім своїм серцем, а на розум свій не покладайся!
+  - name: Приповісті 3:6
+    orderIndex: 5
+    osisId: Prov.3.6
+    sblId: Prov 3:6
+    shortName: Прип 3:6
+    text: Пізнавай ти Його на всіх дорогах своїх, і Він випростує твої стежки.
+  - name: Приповісті 3:7
+    orderIndex: 6
+    osisId: Prov.3.7
+    sblId: Prov 3:7
+    shortName: Прип 3:7
+    text: Не будь мудрий у власних очах, бійся Господа та ухиляйся від злого!
+  - name: Приповісті 3:8
+    orderIndex: 7
+    osisId: Prov.3.8
+    sblId: Prov 3:8
+    shortName: Прип 3:8
+    text: Це буде ліком для тіла твого, напоєм для костей твоїх.
+  - name: Приповісті 3:9
+    orderIndex: 8
+    osisId: Prov.3.9
+    sblId: Prov 3:9
+    shortName: Прип 3:9
+    text: Шануй Господа із маєтку свого, і з початку всіх плодів своїх,
+  - name: Приповісті 3:10
+    orderIndex: 9
+    osisId: Prov.3.10
+    sblId: Prov 3:10
+    shortName: Прип 3:10
+    text: і будуть комори твої переповнені ситістю, а чавила твої будуть переливатись
+      вином молодим!
+  - name: Приповісті 3:11
+    orderIndex: 10
+    osisId: Prov.3.11
+    sblId: Prov 3:11
+    shortName: Прип 3:11
+    text: Мій сину, карання Господнього не відкидай, і картання Його не вважай тягарем,
+  - name: Приповісті 3:12
+    orderIndex: 11
+    osisId: Prov.3.12
+    sblId: Prov 3:12
+    shortName: Прип 3:12
+    text: бо кого Господь любить, картає того, і кохає, немов батько сина!
+  - name: Приповісті 3:13
+    orderIndex: 12
+    osisId: Prov.3.13
+    sblId: Prov 3:13
+    shortName: Прип 3:13
+    text: Блаженна людина, що мудрість знайшла, і людина, що розум одержала,
+  - name: Приповісті 3:14
+    orderIndex: 13
+    osisId: Prov.3.14
+    sblId: Prov 3:14
+    shortName: Прип 3:14
+    text: бо ліпше надбання її від надбання срібла, і від щирого золота ліпший прибуток
+      її,
+  - name: Приповісті 3:15
+    orderIndex: 14
+    osisId: Prov.3.15
+    sblId: Prov 3:15
+    shortName: Прип 3:15
+    text: дорожча за перли вона, і всіляке жадання твоє не зрівняється з нею.
+  - name: Приповісті 3:16
+    orderIndex: 15
+    osisId: Prov.3.16
+    sblId: Prov 3:16
+    shortName: Прип 3:16
+    text: Довгість днів у правиці її, багатство та слава в лівиці її.
+  - name: Приповісті 3:17
+    orderIndex: 16
+    osisId: Prov.3.17
+    sblId: Prov 3:17
+    shortName: Прип 3:17
+    text: Дороги її то дороги приємности, всі стежки її мир.
+  - name: Приповісті 3:18
+    orderIndex: 17
+    osisId: Prov.3.18
+    sblId: Prov 3:18
+    shortName: Прип 3:18
+    text: Вона дерево життя для тих, хто тримається міцно її, і блаженний, хто держить
+      її!
+  - name: Приповісті 3:19
+    orderIndex: 18
+    osisId: Prov.3.19
+    sblId: Prov 3:19
+    shortName: Прип 3:19
+    text: Господь мудрістю землю заклав, небо розумом міцно поставив.
+  - name: Приповісті 3:20
+    orderIndex: 19
+    osisId: Prov.3.20
+    sblId: Prov 3:20
+    shortName: Прип 3:20
+    text: Знанням Його порозкривались безодні, і кроплять росою ті хмари.
+  - name: Приповісті 3:21
+    orderIndex: 20
+    osisId: Prov.3.21
+    sblId: Prov 3:21
+    shortName: Прип 3:21
+    text: Мій сину, нехай від очей твоїх це не відходить, стережи добрий розум і розважність,
+  - name: Приповісті 3:22
+    orderIndex: 21
+    osisId: Prov.3.22
+    sblId: Prov 3:22
+    shortName: Прип 3:22
+    text: і вони будуть життям для твоєї душі, і прикрасою шиї твоєї,
+  - name: Приповісті 3:23
+    orderIndex: 22
+    osisId: Prov.3.23
+    sblId: Prov 3:23
+    shortName: Прип 3:23
+    text: Тоді підеш безпечно своєю дорогою, а нога твоя не спотикнеться!
+  - name: Приповісті 3:24
+    orderIndex: 23
+    osisId: Prov.3.24
+    sblId: Prov 3:24
+    shortName: Прип 3:24
+    text: Якщо покладешся не будеш боятись, а ляжеш, то буде приємний твій сон.
+  - name: Приповісті 3:25
+    orderIndex: 24
+    osisId: Prov.3.25
+    sblId: Prov 3:25
+    shortName: Прип 3:25
+    text: Не будеш боятися наглого страху, ні бурі безбожних, як прийде,
+  - name: Приповісті 3:26
+    orderIndex: 25
+    osisId: Prov.3.26
+    sblId: Prov 3:26
+    shortName: Прип 3:26
+    text: бо твоєю надією буде Господь, і Він пильнуватиме ногу твою, щоб вона не
+      зловилась у пастку!
+  - name: Приповісті 3:27
+    orderIndex: 26
+    osisId: Prov.3.27
+    sblId: Prov 3:27
+    shortName: Прип 3:27
+    text: Не стримуй добра потребуючому, коли в силі твоєї руки це вчинити,
+  - name: Приповісті 3:28
+    orderIndex: 27
+    osisId: Prov.3.28
+    sblId: Prov 3:28
+    shortName: Прип 3:28
+    text: 'не кажи своїм ближнім: Іди, і знову прийди, а взавтра я дам, коли маєш
+      з собою.'
+  - name: Приповісті 3:29
+    orderIndex: 28
+    osisId: Prov.3.29
+    sblId: Prov 3:29
+    shortName: Прип 3:29
+    text: Не виорюй лихого на свого ближнього, коли він безпечно з тобою сидить.
+  - name: Приповісті 3:30
+    orderIndex: 29
+    osisId: Prov.3.30
+    sblId: Prov 3:30
+    shortName: Прип 3:30
+    text: Не сварися з людиною дармо, якщо злого вона не вчинила тобі.
+  - name: Приповісті 3:31
+    orderIndex: 30
+    osisId: Prov.3.31
+    sblId: Prov 3:31
+    shortName: Прип 3:31
+    text: Не заздри насильникові, і ні однієї з доріг його не вибирай,
+  - name: Приповісті 3:32
+    orderIndex: 31
+    osisId: Prov.3.32
+    sblId: Prov 3:32
+    shortName: Прип 3:32
+    text: бо бридить Господь крутіями, а з праведними в Нього дружба.
+  - name: Приповісті 3:33
+    orderIndex: 32
+    osisId: Prov.3.33
+    sblId: Prov 3:33
+    shortName: Прип 3:33
+    text: Прокляття Господнє на домі безбожного, а мешкання праведних Він благословить,
+  - name: Приповісті 3:34
+    orderIndex: 33
+    osisId: Prov.3.34
+    sblId: Prov 3:34
+    shortName: Прип 3:34
+    text: з насмішників Він насміхається, а покірливим милість дає.
+  - name: Приповісті 3:35
+    orderIndex: 34
+    osisId: Prov.3.35
+    sblId: Prov 3:35
+    shortName: Прип 3:35
+    text: Мудрі славу вспадковують, а нерозумні носитимуть сором.
+  versesCount: 35
+- name: Приповісті 4
+  orderIndex: 3
+  osisId: Prov.4
+  sblId: Prov 4
+  shortName: Прип 4
+  verses:
+  - name: Приповісті 4:1
+    orderIndex: 0
+    osisId: Prov.4.1
+    sblId: Prov 4:1
+    shortName: Прип 4:1
+    text: Послухайте, діти, напучення батькового, і прислухайтеся, щоб навчитися розуму,
+  - name: Приповісті 4:2
+    orderIndex: 1
+    osisId: Prov.4.2
+    sblId: Prov 4:2
+    shortName: Прип 4:2
+    text: 'бо даю я вам добру науку: закона мого не кидайте,'
+  - name: Приповісті 4:3
+    orderIndex: 2
+    osisId: Prov.4.3
+    sblId: Prov 4:3
+    shortName: Прип 4:3
+    text: бо сином у батька свого я був, пещений й єдиний у неньки своєї.
+  - name: Приповісті 4:4
+    orderIndex: 3
+    osisId: Prov.4.4
+    sblId: Prov 4:4
+    shortName: Прип 4:4
+    text: 'І навчав він мене, і мені говорив: Нехай держиться серце твоє моїх слів,
+      стережи мої заповіді та й живи!'
+  - name: Приповісті 4:5
+    orderIndex: 4
+    osisId: Prov.4.5
+    sblId: Prov 4:5
+    shortName: Прип 4:5
+    text: Здобудь мудрість, здобудь собі розум, не забудь, і не цурайся слів моїх
+      уст,
+  - name: Приповісті 4:6
+    orderIndex: 5
+    osisId: Prov.4.6
+    sblId: Prov 4:6
+    shortName: Прип 4:6
+    text: не кидай її й вона буде тебе стерегти! Кохай ти її й вона буде тебе пильнувати!
+  - name: Приповісті 4:7
+    orderIndex: 6
+    osisId: Prov.4.7
+    sblId: Prov 4:7
+    shortName: Прип 4:7
+    text: Початок премудрости мудрість здобудь, а за ввесь свій маєток здобудь собі
+      розуму!
+  - name: Приповісті 4:8
+    orderIndex: 7
+    osisId: Prov.4.8
+    sblId: Prov 4:8
+    shortName: Прип 4:8
+    text: 'Тримай її високо і підійме тебе, ушанує тебе, як її ти пригорнеш:'
+  - name: Приповісті 4:9
+    orderIndex: 8
+    osisId: Prov.4.9
+    sblId: Prov 4:9
+    shortName: Прип 4:9
+    text: вона дасть голові твоїй гарний вінок, пишну корону тобі подарує!
+  - name: Приповісті 4:10
+    orderIndex: 9
+    osisId: Prov.4.10
+    sblId: Prov 4:10
+    shortName: Прип 4:10
+    text: Послухай, мій сину, й бери ти слова мої, і помножаться роки твойого життя,
+  - name: Приповісті 4:11
+    orderIndex: 10
+    osisId: Prov.4.11
+    sblId: Prov 4:11
+    shortName: Прип 4:11
+    text: 'дороги премудрости вчу я тебе, стежками прямими проваджу тебе:'
+  - name: Приповісті 4:12
+    orderIndex: 11
+    osisId: Prov.4.12
+    sblId: Prov 4:12
+    shortName: Прип 4:12
+    text: коли підеш, то крок твій не буде тісний, а коли побіжиш не спіткнешся!
+  - name: Приповісті 4:13
+    orderIndex: 12
+    osisId: Prov.4.13
+    sblId: Prov 4:13
+    shortName: Прип 4:13
+    text: Міцно тримайся напучування, не лишай, його стережи, воно бо життя твоє!
+  - name: Приповісті 4:14
+    orderIndex: 13
+    osisId: Prov.4.14
+    sblId: Prov 4:14
+    shortName: Прип 4:14
+    text: На стежку безбожних не йди, і не ходи на дорогу лихих,
+  - name: Приповісті 4:15
+    orderIndex: 14
+    osisId: Prov.4.15
+    sblId: Prov 4:15
+    shortName: Прип 4:15
+    text: покинь ти її, не йди нею, усунься від неї й мини,
+  - name: Приповісті 4:16
+    orderIndex: 15
+    osisId: Prov.4.16
+    sblId: Prov 4:16
+    shortName: Прип 4:16
+    text: бо вони не заснуть, якщо злого не вчинять, відійметься сон їм, як не зроблять
+      кому, щоб спіткнувся!...
+  - name: Приповісті 4:17
+    orderIndex: 16
+    osisId: Prov.4.17
+    sblId: Prov 4:17
+    shortName: Прип 4:17
+    text: Бо вони хліб безбожжя їдять, і вино грабежу попивають.
+  - name: Приповісті 4:18
+    orderIndex: 17
+    osisId: Prov.4.18
+    sblId: Prov 4:18
+    shortName: Прип 4:18
+    text: А путь праведних ніби те світло ясне, що світить все більше та більш аж
+      до повного дня!
+  - name: Приповісті 4:19
+    orderIndex: 18
+    osisId: Prov.4.19
+    sblId: Prov 4:19
+    shortName: Прип 4:19
+    text: 'Дорога ж безбожних як темність: не знають, об що спотикнуться...'
+  - name: Приповісті 4:20
+    orderIndex: 19
+    osisId: Prov.4.20
+    sblId: Prov 4:20
+    shortName: Прип 4:20
+    text: Мій сину, прислухуйся до моїх слів, до речей моїх ухо своє нахили!
+  - name: Приповісті 4:21
+    orderIndex: 20
+    osisId: Prov.4.21
+    sblId: Prov 4:21
+    shortName: Прип 4:21
+    text: Нехай не відійдуть вони від очей твоїх, бережи їх в середині серця свого!
+  - name: Приповісті 4:22
+    orderIndex: 21
+    osisId: Prov.4.22
+    sblId: Prov 4:22
+    shortName: Прип 4:22
+    text: Бо життя вони тим, хто їх знайде, а для тіла усього його лікування.
+  - name: Приповісті 4:23
+    orderIndex: 22
+    osisId: Prov.4.23
+    sblId: Prov 4:23
+    shortName: Прип 4:23
+    text: Над усе, що лише стережеться, серце своє стережи, бо з нього походить життя.
+  - name: Приповісті 4:24
+    orderIndex: 23
+    osisId: Prov.4.24
+    sblId: Prov 4:24
+    shortName: Прип 4:24
+    text: Відкинь ти від себе лукавство уст, віддали ти від себе крутійство губ.
+  - name: Приповісті 4:25
+    orderIndex: 24
+    osisId: Prov.4.25
+    sblId: Prov 4:25
+    shortName: Прип 4:25
+    text: Нехай дивляться очі твої уперед, а повіки твої нехай перед тобою простують.
+  - name: Приповісті 4:26
+    orderIndex: 25
+    osisId: Prov.4.26
+    sblId: Prov 4:26
+    shortName: Прип 4:26
+    text: 'Стежку ніг своїх вирівняй, і стануть міцні всі дороги твої:'
+  - name: Приповісті 4:27
+    orderIndex: 26
+    osisId: Prov.4.27
+    sblId: Prov 4:27
+    shortName: Прип 4:27
+    text: не вступайся ні вправо, ні вліво, усунь свою ногу від зла!
+  versesCount: 27
+- name: Приповісті 5
+  orderIndex: 4
+  osisId: Prov.5
+  sblId: Prov 5
+  shortName: Прип 5
+  verses:
+  - name: Приповісті 5:1
+    orderIndex: 0
+    osisId: Prov.5.1
+    sblId: Prov 5:1
+    shortName: Прип 5:1
+    text: Мій сину, на мудрість мою уважай, нахили своє ухо до мого розуму,
+  - name: Приповісті 5:2
+    orderIndex: 1
+    osisId: Prov.5.2
+    sblId: Prov 5:2
+    shortName: Прип 5:2
+    text: щоб розважність ти міг стерегти, а пізнання хай уста твої стережуть!
+  - name: Приповісті 5:3
+    orderIndex: 2
+    osisId: Prov.5.3
+    sblId: Prov 5:3
+    shortName: Прип 5:3
+    text: Бо крапають солодощ губи блудниці, а уста її від оливи масніші,
+  - name: Приповісті 5:4
+    orderIndex: 3
+    osisId: Prov.5.4
+    sblId: Prov 5:4
+    shortName: Прип 5:4
+    text: та гіркий їй кінець, мов полин, гострий, як меч обосічний,
+  - name: Приповісті 5:5
+    orderIndex: 4
+    osisId: Prov.5.5
+    sblId: Prov 5:5
+    shortName: Прип 5:5
+    text: її ноги до смерти спускаються, шеолу тримаються кроки її!
+  - name: Приповісті 5:6
+    orderIndex: 5
+    osisId: Prov.5.6
+    sblId: Prov 5:6
+    shortName: Прип 5:6
+    text: Вона путь життя не урівнює, її стежки непевні, і цього не знає вона.
+  - name: Приповісті 5:7
+    orderIndex: 6
+    osisId: Prov.5.7
+    sblId: Prov 5:7
+    shortName: Прип 5:7
+    text: 'Тож тепер, мої діти, мене ви послухайте, не відходьте від слів моїх уст:'
+  - name: Приповісті 5:8
+    orderIndex: 7
+    osisId: Prov.5.8
+    sblId: Prov 5:8
+    shortName: Прип 5:8
+    text: віддали ти від неї дорогу свою, і не зближайсь до дверей її дому,
+  - name: Приповісті 5:9
+    orderIndex: 8
+    osisId: Prov.5.9
+    sblId: Prov 5:9
+    shortName: Прип 5:9
+    text: щоб слави своєї ти іншим не дав, а роки свої для жорстокого,
+  - name: Приповісті 5:10
+    orderIndex: 9
+    osisId: Prov.5.10
+    sblId: Prov 5:10
+    shortName: Прип 5:10
+    text: щоб чужі не наситились сили твоєї й маєтку твого в чужім домі!...
+  - name: Приповісті 5:11
+    orderIndex: 10
+    osisId: Prov.5.11
+    sblId: Prov 5:11
+    shortName: Прип 5:11
+    text: І будеш стогнати при своєму кінці, як знеможеться тіло твоє й твої сили,
+  - name: Приповісті 5:12
+    orderIndex: 11
+    osisId: Prov.5.12
+    sblId: Prov 5:12
+    shortName: Прип 5:12
+    text: 'і скажеш: Як ненавидів я те напучування, а картання те серце моє відкидало!'
+  - name: Приповісті 5:13
+    orderIndex: 12
+    osisId: Prov.5.13
+    sblId: Prov 5:13
+    shortName: Прип 5:13
+    text: І не слухав я голосу своїх учителів, і уха свого не схиляв до наставників...
+  - name: Приповісті 5:14
+    orderIndex: 13
+    osisId: Prov.5.14
+    sblId: Prov 5:14
+    shortName: Прип 5:14
+    text: Трохи не був я при кожному злому, в середині збору й громади!...
+  - name: Приповісті 5:15
+    orderIndex: 14
+    osisId: Prov.5.15
+    sblId: Prov 5:15
+    shortName: Прип 5:15
+    text: 'Пий воду з криниці своєї, і текуче з свого колодязя:'
+  - name: Приповісті 5:16
+    orderIndex: 15
+    osisId: Prov.5.16
+    sblId: Prov 5:16
+    shortName: Прип 5:16
+    text: чи ж мають на вулицю вилиті бути джерела твої, а на площі потоки твоєї води?
+  - name: Приповісті 5:17
+    orderIndex: 16
+    osisId: Prov.5.17
+    sblId: Prov 5:17
+    shortName: Прип 5:17
+    text: Нехай вони будуть для тебе, для тебе самого, а не для чужих із тобою!
+  - name: Приповісті 5:18
+    orderIndex: 17
+    osisId: Prov.5.18
+    sblId: Prov 5:18
+    shortName: Прип 5:18
+    text: Хай твоє джерело буде благословенне, і радій через жінку твоїх юних літ,
+  - name: Приповісті 5:19
+    orderIndex: 18
+    osisId: Prov.5.19
+    sblId: Prov 5:19
+    shortName: Прип 5:19
+    text: вона ланя любовна та серна прекрасна, її перса напоять тебе кожночасно,
+      впивайся ж назавжди коханням її!
+  - name: Приповісті 5:20
+    orderIndex: 19
+    osisId: Prov.5.20
+    sblId: Prov 5:20
+    shortName: Прип 5:20
+    text: І нащо, мій сину, ти маєш впиватись блудницею, і нащо ти будеш пригортати
+      груди чужинки?
+  - name: Приповісті 5:21
+    orderIndex: 20
+    osisId: Prov.5.21
+    sblId: Prov 5:21
+    shortName: Прип 5:21
+    text: 'Бож перед очима Господніми всі дороги людини, і стежки її всі Він рівняє:'
+  - name: Приповісті 5:22
+    orderIndex: 21
+    osisId: Prov.5.22
+    sblId: Prov 5:22
+    shortName: Прип 5:22
+    text: власні провини безбожного схоплять його, і повороззям свого гріха буде зв'язаний
+      він,
+  - name: Приповісті 5:23
+    orderIndex: 22
+    osisId: Prov.5.23
+    sblId: Prov 5:23
+    shortName: Прип 5:23
+    text: помиратиме він без напучування, і буде блукати в великій глупоті своїй!...
+  versesCount: 23
+- name: Приповісті 6
+  orderIndex: 5
+  osisId: Prov.6
+  sblId: Prov 6
+  shortName: Прип 6
+  verses:
+  - name: Приповісті 6:1
+    orderIndex: 0
+    osisId: Prov.6.1
+    sblId: Prov 6:1
+    shortName: Прип 6:1
+    text: Мій сину, якщо поручився ти за свого ближнього, дав руку свою за чужого,
+  - name: Приповісті 6:2
+    orderIndex: 1
+    osisId: Prov.6.2
+    sblId: Prov 6:2
+    shortName: Прип 6:2
+    text: ти попався до пастки з-за слів своїх уст, схоплений ти із-за слів своїх
+      уст!
+  - name: Приповісті 6:3
+    orderIndex: 2
+    osisId: Prov.6.3
+    sblId: Prov 6:3
+    shortName: Прип 6:3
+    text: 'Учини тоді це, сину мій, та рятуйсь, бо впав ти до рук свого ближнього:
+      іди, впади в порох, і на ближніх своїх напирай,'
+  - name: Приповісті 6:4
+    orderIndex: 3
+    osisId: Prov.6.4
+    sblId: Prov 6:4
+    shortName: Прип 6:4
+    text: не дай сну своїм очам, і дрімання повікам своїм,
+  - name: Приповісті 6:5
+    orderIndex: 4
+    osisId: Prov.6.5
+    sblId: Prov 6:5
+    shortName: Прип 6:5
+    text: рятуйся, як серна, з руки, і як птах із руки птахолова!
+  - name: Приповісті 6:6
+    orderIndex: 5
+    osisId: Prov.6.6
+    sblId: Prov 6:6
+    shortName: Прип 6:6
+    text: 'Іди до мурашки, лінюху, поглянь на дороги її й помудрій:'
+  - name: Приповісті 6:7
+    orderIndex: 6
+    osisId: Prov.6.7
+    sblId: Prov 6:7
+    shortName: Прип 6:7
+    text: нема в неї володаря, ані урядника, ані правителя;
+  - name: Приповісті 6:8
+    orderIndex: 7
+    osisId: Prov.6.8
+    sblId: Prov 6:8
+    shortName: Прип 6:8
+    text: вона заготовлює літом свій хліб, збирає в жнива свою їжу.
+  - name: Приповісті 6:9
+    orderIndex: 8
+    osisId: Prov.6.9
+    sblId: Prov 6:9
+    shortName: Прип 6:9
+    text: Аж доки, лінюху, ти будеш вилежуватись, коли ти зо сну свого встанеш?
+  - name: Приповісті 6:10
+    orderIndex: 9
+    osisId: Prov.6.10
+    sblId: Prov 6:10
+    shortName: Прип 6:10
+    text: Ще трохи поспати, подрімати ще трохи, руки трохи зложити, щоб полежати,
+  - name: Приповісті 6:11
+    orderIndex: 10
+    osisId: Prov.6.11
+    sblId: Prov 6:11
+    shortName: Прип 6:11
+    text: і прийде, немов волоцюга, твоя незаможність, і злидні твої, як озброєний
+      муж!...
+  - name: Приповісті 6:12
+    orderIndex: 11
+    osisId: Prov.6.12
+    sblId: Prov 6:12
+    shortName: Прип 6:12
+    text: Людина нікчемна, чоловік злочинний, він ходить з лукавими устами,
+  - name: Приповісті 6:13
+    orderIndex: 12
+    osisId: Prov.6.13
+    sblId: Prov 6:13
+    shortName: Прип 6:13
+    text: він моргає очима своїми, шургає своїми ногами, знаки подає пальцями своїми,
+  - name: Приповісті 6:14
+    orderIndex: 13
+    osisId: Prov.6.14
+    sblId: Prov 6:14
+    shortName: Прип 6:14
+    text: в його серці лукавство виорює зло кожночасно, сварки розсіває,
+  - name: Приповісті 6:15
+    orderIndex: 14
+    osisId: Prov.6.15
+    sblId: Prov 6:15
+    shortName: Прип 6:15
+    text: тому нагло приходить погибіль його, буде раптом побитий і ліку нема!
+  - name: Приповісті 6:16
+    orderIndex: 15
+    osisId: Prov.6.16
+    sblId: Prov 6:16
+    shortName: Прип 6:16
+    text: 'Оцих шість ненавидить Господь, а ці сім то гидота душі Його:'
+  - name: Приповісті 6:17
+    orderIndex: 16
+    osisId: Prov.6.17
+    sblId: Prov 6:17
+    shortName: Прип 6:17
+    text: очі пишні, брехливий язик, і руки, що кров неповинну ллють,
+  - name: Приповісті 6:18
+    orderIndex: 17
+    osisId: Prov.6.18
+    sblId: Prov 6:18
+    shortName: Прип 6:18
+    text: серце, що плекає злочинні думки, ноги, що сквапно біжать на лихе,
+  - name: Приповісті 6:19
+    orderIndex: 18
+    osisId: Prov.6.19
+    sblId: Prov 6:19
+    shortName: Прип 6:19
+    text: свідок брехливий, що брехні роздмухує, і хто розсіває сварки між братів!
+  - name: Приповісті 6:20
+    orderIndex: 19
+    osisId: Prov.6.20
+    sblId: Prov 6:20
+    shortName: Прип 6:20
+    text: Стережи, сину мій, заповідь батька свого, і не відкидай науки матері своєї!
+  - name: Приповісті 6:21
+    orderIndex: 20
+    osisId: Prov.6.21
+    sblId: Prov 6:21
+    shortName: Прип 6:21
+    text: Прив'яжи їх на серці своєму назавжди, повісь їх на шиї своїй!
+  - name: Приповісті 6:22
+    orderIndex: 21
+    osisId: Prov.6.22
+    sblId: Prov 6:22
+    shortName: Прип 6:22
+    text: Вона буде провадити тебе у ході, стерегтиме тебе, коли будеш лежати, а пробудишся
+      мовити буде до тебе!
+  - name: Приповісті 6:23
+    orderIndex: 22
+    osisId: Prov.6.23
+    sblId: Prov 6:23
+    shortName: Прип 6:23
+    text: Бо заповідь Божа світильник, а наука то світло, дорога ж життя то навчальні
+      картання,
+  - name: Приповісті 6:24
+    orderIndex: 23
+    osisId: Prov.6.24
+    sblId: Prov 6:24
+    shortName: Прип 6:24
+    text: щоб тебе стерегти від злосливої жінки, від облесливого язика чужинки.
+  - name: Приповісті 6:25
+    orderIndex: 24
+    osisId: Prov.6.25
+    sblId: Prov 6:25
+    shortName: Прип 6:25
+    text: Не жадай її вроди у серці своїм, і тебе хай не візьме своїми повіками,
+  - name: Приповісті 6:26
+    orderIndex: 25
+    osisId: Prov.6.26
+    sblId: Prov 6:26
+    shortName: Прип 6:26
+    text: бо вартість розпусної жінки то боханець хліба, а жінка заміжня вловлює душу
+      цінну...
+  - name: Приповісті 6:27
+    orderIndex: 26
+    osisId: Prov.6.27
+    sblId: Prov 6:27
+    shortName: Прип 6:27
+    text: Чи візьме людина огонь на лоно своє, і одіж її не згорить?
+  - name: Приповісті 6:28
+    orderIndex: 27
+    osisId: Prov.6.28
+    sblId: Prov 6:28
+    shortName: Прип 6:28
+    text: Чи буде людина ходити по вугіллю розпаленому, і не попаляться ноги її?
+  - name: Приповісті 6:29
+    orderIndex: 28
+    osisId: Prov.6.29
+    sblId: Prov 6:29
+    shortName: Прип 6:29
+    text: 'Так і той, хто вчащає до жінки свого ближнього: не буде некараним кожен,
+      хто доторкнеться до неї!'
+  - name: Приповісті 6:30
+    orderIndex: 29
+    osisId: Prov.6.30
+    sblId: Prov 6:30
+    shortName: Прип 6:30
+    text: Не погорджують злодієм, якщо він украде, щоб рятувати життя своє, коли він
+      голодує,
+  - name: Приповісті 6:31
+    orderIndex: 30
+    osisId: Prov.6.31
+    sblId: Prov 6:31
+    shortName: Прип 6:31
+    text: та як буде він знайдений, всемеро він відшкодує, віддасть все майно свого
+      дому!
+  - name: Приповісті 6:32
+    orderIndex: 31
+    osisId: Prov.6.32
+    sblId: Prov 6:32
+    shortName: Прип 6:32
+    text: Хто чинить перелюб, не має той розуму, він знищує душу свою,
+  - name: Приповісті 6:33
+    orderIndex: 32
+    osisId: Prov.6.33
+    sblId: Prov 6:33
+    shortName: Прип 6:33
+    text: побої та сором він знайде, а ганьба його не зітреться,
+  - name: Приповісті 6:34
+    orderIndex: 33
+    osisId: Prov.6.34
+    sblId: Prov 6:34
+    shortName: Прип 6:34
+    text: 'бо заздрощі лютість мужчини, і не змилосердиться він у день помсти:'
+  - name: Приповісті 6:35
+    orderIndex: 34
+    osisId: Prov.6.35
+    sblId: Prov 6:35
+    shortName: Прип 6:35
+    text: він не зверне уваги на жоден твій викуп, і не схоче, коли ти гостинця прибільшиш!
+  versesCount: 35
+- name: Приповісті 7
+  orderIndex: 6
+  osisId: Prov.7
+  sblId: Prov 7
+  shortName: Прип 7
+  verses:
+  - name: Приповісті 7:1
+    orderIndex: 0
+    osisId: Prov.7.1
+    sblId: Prov 7:1
+    shortName: Прип 7:1
+    text: Сину мій, бережи ти слова мої, мої ж заповіді заховай при собі,
+  - name: Приповісті 7:2
+    orderIndex: 1
+    osisId: Prov.7.2
+    sblId: Prov 7:2
+    shortName: Прип 7:2
+    text: бережи мої заповіді та й живи, а наука моя немов в очах твоїх та зіниця,
+  - name: Приповісті 7:3
+    orderIndex: 2
+    osisId: Prov.7.3
+    sblId: Prov 7:3
+    shortName: Прип 7:3
+    text: прив'яжи їх на пальцях своїх, напиши на таблиці тій серця свого!
+  - name: Приповісті 7:4
+    orderIndex: 3
+    osisId: Prov.7.4
+    sblId: Prov 7:4
+    shortName: Прип 7:4
+    text: 'На мудрість скажи: Ти сестра моя! а розум назви: Мій довірений!'
+  - name: Приповісті 7:5
+    orderIndex: 4
+    osisId: Prov.7.5
+    sblId: Prov 7:5
+    shortName: Прип 7:5
+    text: щоб тебе стерегти від блудниці, від чужинки, що мовить м'якенькі слова.
+  - name: Приповісті 7:6
+    orderIndex: 5
+    osisId: Prov.7.6
+    sblId: Prov 7:6
+    shortName: Прип 7:6
+    text: Бо я визирав був в вікно свого дому, через ґрати мого вікна,
+  - name: Приповісті 7:7
+    orderIndex: 6
+    osisId: Prov.7.7
+    sblId: Prov 7:7
+    shortName: Прип 7:7
+    text: і приглядавсь до невіж, розглядався між молоддю. І юнак ось, позбавлений
+      розуму,
+  - name: Приповісті 7:8
+    orderIndex: 7
+    osisId: Prov.7.8
+    sblId: Prov 7:8
+    shortName: Прип 7:8
+    text: проходив по ринку при розі його, і ступив по дорозі до дому її,
+  - name: Приповісті 7:9
+    orderIndex: 8
+    osisId: Prov.7.9
+    sblId: Prov 7:9
+    shortName: Прип 7:9
+    text: коли вітерець повівав був увечорі дня, у темряві ночі та мороку.
+  - name: Приповісті 7:10
+    orderIndex: 9
+    osisId: Prov.7.10
+    sblId: Prov 7:10
+    shortName: Прип 7:10
+    text: Аж ось жінка в убранні блудниці назустріч йому, із серцем підступним,
+  - name: Приповісті 7:11
+    orderIndex: 10
+    osisId: Prov.7.11
+    sblId: Prov 7:11
+    shortName: Прип 7:11
+    text: 'галаслива та непогамована, її ноги у домі своїм не бувають:'
+  - name: Приповісті 7:12
+    orderIndex: 11
+    osisId: Prov.7.12
+    sblId: Prov 7:12
+    shortName: Прип 7:12
+    text: раз на вулиці, раз на майданах, і при кожному розі чатує вона...
+  - name: Приповісті 7:13
+    orderIndex: 12
+    osisId: Prov.7.13
+    sblId: Prov 7:13
+    shortName: Прип 7:13
+    text: 'І вхопила вона його міцно та й поцілувала його, безсоромним зробила обличчя
+      своє та й сказала йому:'
+  - name: Приповісті 7:14
+    orderIndex: 13
+    osisId: Prov.7.14
+    sblId: Prov 7:14
+    shortName: Прип 7:14
+    text: У мене тепер мирні жертви, виповнила я сьогодні обіти свої!
+  - name: Приповісті 7:15
+    orderIndex: 14
+    osisId: Prov.7.15
+    sblId: Prov 7:15
+    shortName: Прип 7:15
+    text: Тому то я вийшла назустріч тобі, пошукати обличчя твого, і знайшла я тебе!
+  - name: Приповісті 7:16
+    orderIndex: 15
+    osisId: Prov.7.16
+    sblId: Prov 7:16
+    shortName: Прип 7:16
+    text: Килимами я вистелила своє ложе, тканинами різних кольорів з єгипетського
+      полотна,
+  - name: Приповісті 7:17
+    orderIndex: 16
+    osisId: Prov.7.17
+    sblId: Prov 7:17
+    shortName: Прип 7:17
+    text: постелю свою я посипала миррою, алоєм та цинамоном...
+  - name: Приповісті 7:18
+    orderIndex: 17
+    osisId: Prov.7.18
+    sblId: Prov 7:18
+    shortName: Прип 7:18
+    text: Ходи ж, аж до ранку впиватися будем коханням, любов'ю натішимось ми!
+  - name: Приповісті 7:19
+    orderIndex: 18
+    osisId: Prov.7.19
+    sblId: Prov 7:19
+    shortName: Прип 7:19
+    text: 'Бо вдома нема чоловіка, пішов у далеку дорогу:'
+  - name: Приповісті 7:20
+    orderIndex: 19
+    osisId: Prov.7.20
+    sblId: Prov 7:20
+    shortName: Прип 7:20
+    text: вузлик срібла він узяв в свою руку, хіба на день повні поверне до дому свого...
+  - name: Приповісті 7:21
+    orderIndex: 20
+    osisId: Prov.7.21
+    sblId: Prov 7:21
+    shortName: Прип 7:21
+    text: Прихилила його велемовством своїм, облесливістю своїх губ його звабила,
+  - name: Приповісті 7:22
+    orderIndex: 21
+    osisId: Prov.7.22
+    sblId: Prov 7:22
+    shortName: Прип 7:22
+    text: він раптом за нею пішов, немов віл, до зарізу проваджений, і немов пес,
+      що ведуть його на ланцюгу до ув'язнення,
+  - name: Приповісті 7:23
+    orderIndex: 22
+    osisId: Prov.7.23
+    sblId: Prov 7:23
+    shortName: Прип 7:23
+    text: як той птах, поспішає до сітки, і не знає, що це на життя його пастка...
+  - name: Приповісті 7:24
+    orderIndex: 23
+    osisId: Prov.7.24
+    sblId: Prov 7:24
+    shortName: Прип 7:24
+    text: 'А тепер, мої діти, мене ви послухайте, і на слова моїх уст уважайте:'
+  - name: Приповісті 7:25
+    orderIndex: 24
+    osisId: Prov.7.25
+    sblId: Prov 7:25
+    shortName: Прип 7:25
+    text: Хай не збочує серце твоє на дороги її, не блукай ти стежками її,
+  - name: Приповісті 7:26
+    orderIndex: 25
+    osisId: Prov.7.26
+    sblId: Prov 7:26
+    shortName: Прип 7:26
+    text: бо вона багатьох уже трупами кинула, і численні всі, нею забиті!
+  - name: Приповісті 7:27
+    orderIndex: 26
+    osisId: Prov.7.27
+    sblId: Prov 7:27
+    shortName: Прип 7:27
+    text: Її дім до шеолу дороги, що провадять до смертних кімнат...
+  versesCount: 27
+- name: Приповісті 8
+  orderIndex: 7
+  osisId: Prov.8
+  sblId: Prov 8
+  shortName: Прип 8
+  verses:
+  - name: Приповісті 8:1
+    orderIndex: 0
+    osisId: Prov.8.1
+    sblId: Prov 8:1
+    shortName: Прип 8:1
+    text: Чи ж мудрість не кличе, і не подає свого голосу розум?
+  - name: Приповісті 8:2
+    orderIndex: 1
+    osisId: Prov.8.2
+    sblId: Prov 8:2
+    shortName: Прип 8:2
+    text: На верхів'ях холмів, при дорозі та на перехрестях стоїть он вона!
+  - name: Приповісті 8:3
+    orderIndex: 2
+    osisId: Prov.8.3
+    sblId: Prov 8:3
+    shortName: Прип 8:3
+    text: 'При брамах, при вході до міста, де входиться в двері, там голосно кличе
+      вона:'
+  - name: Приповісті 8:4
+    orderIndex: 3
+    osisId: Prov.8.4
+    sblId: Prov 8:4
+    shortName: Прип 8:4
+    text: 'До вас, мужі, я кличу, а мій голос до людських синів:'
+  - name: Приповісті 8:5
+    orderIndex: 4
+    osisId: Prov.8.5
+    sblId: Prov 8:5
+    shortName: Прип 8:5
+    text: Зрозумійте но, неуки, мудрість, зрозумійте ви розум, безглузді!
+  - name: Приповісті 8:6
+    orderIndex: 5
+    osisId: Prov.8.6
+    sblId: Prov 8:6
+    shortName: Прип 8:6
+    text: Послухайте, я бо шляхетне кажу, і відкриття моїх губ то простота.
+  - name: Приповісті 8:7
+    orderIndex: 6
+    osisId: Prov.8.7
+    sblId: Prov 8:7
+    shortName: Прип 8:7
+    text: Бо правду говорять уста мої, а лукавство гидота для губ моїх.
+  - name: Приповісті 8:8
+    orderIndex: 7
+    osisId: Prov.8.8
+    sblId: Prov 8:8
+    shortName: Прип 8:8
+    text: Всі слова моїх уст справедливі, нема в них крутійства й лукавства.
+  - name: Приповісті 8:9
+    orderIndex: 8
+    osisId: Prov.8.9
+    sblId: Prov 8:9
+    shortName: Прип 8:9
+    text: Усі вони прості, хто їх розуміє, і щирі для тих, хто знаходить знання.
+  - name: Приповісті 8:10
+    orderIndex: 9
+    osisId: Prov.8.10
+    sblId: Prov 8:10
+    shortName: Прип 8:10
+    text: 'Візьміть ви картання моє, а не срібло, і знання, добірніше від щирого золота:'
+  - name: Приповісті 8:11
+    orderIndex: 10
+    osisId: Prov.8.11
+    sblId: Prov 8:11
+    shortName: Прип 8:11
+    text: ліпша бо мудрість за перли, і не рівняються їй всі клейноди!
+  - name: Приповісті 8:12
+    orderIndex: 11
+    osisId: Prov.8.12
+    sblId: Prov 8:12
+    shortName: Прип 8:12
+    text: Я, мудрість, живу разом з розумом, і знаходжу пізнання розважне.
+  - name: Приповісті 8:13
+    orderIndex: 12
+    osisId: Prov.8.13
+    sblId: Prov 8:13
+    shortName: Прип 8:13
+    text: 'Страх Господній лихе все ненавидіти: я ненавиджу пиху та гордість, і дорогу
+      лиху та лукаві уста!'
+  - name: Приповісті 8:14
+    orderIndex: 13
+    osisId: Prov.8.14
+    sblId: Prov 8:14
+    shortName: Прип 8:14
+    text: В мене рада й оглядність, я розум, і сила у мене.
+  - name: Приповісті 8:15
+    orderIndex: 14
+    osisId: Prov.8.15
+    sblId: Prov 8:15
+    shortName: Прип 8:15
+    text: Мною царюють царі, а законодавці права справедливі встановлюють.
+  - name: Приповісті 8:16
+    orderIndex: 15
+    osisId: Prov.8.16
+    sblId: Prov 8:16
+    shortName: Прип 8:16
+    text: Мною правлять владики й вельможні, всі праведні судді.
+  - name: Приповісті 8:17
+    orderIndex: 16
+    osisId: Prov.8.17
+    sblId: Prov 8:17
+    shortName: Прип 8:17
+    text: Я кохаю всіх тих, хто кохає мене, хто ж шукає мене мене знайде!
+  - name: Приповісті 8:18
+    orderIndex: 17
+    osisId: Prov.8.18
+    sblId: Prov 8:18
+    shortName: Прип 8:18
+    text: 'Зо мною багатство та слава, тривалий маєток та правда:'
+  - name: Приповісті 8:19
+    orderIndex: 18
+    osisId: Prov.8.19
+    sblId: Prov 8:19
+    shortName: Прип 8:19
+    text: ліпший плід мій від щирого золота й золота чистого, а прибуток мій ліпший
+      за срібло добірне!
+  - name: Приповісті 8:20
+    orderIndex: 19
+    osisId: Prov.8.20
+    sblId: Prov 8:20
+    shortName: Прип 8:20
+    text: Путтю праведною я ходжу, поміж правних стежок,
+  - name: Приповісті 8:21
+    orderIndex: 20
+    osisId: Prov.8.21
+    sblId: Prov 8:21
+    shortName: Прип 8:21
+    text: щоб дати багатство в спадщину для тих, хто кохає мене, і я понаповнюю їхні
+      скарбниці!
+  - name: Приповісті 8:22
+    orderIndex: 21
+    osisId: Prov.8.22
+    sblId: Prov 8:22
+    shortName: Прип 8:22
+    text: Господь мене мав на початку Своєї дороги, перше чинів Своїх, спервовіку,
+  - name: Приповісті 8:23
+    orderIndex: 22
+    osisId: Prov.8.23
+    sblId: Prov 8:23
+    shortName: Прип 8:23
+    text: відвіку була я встановлена, від початку, від правіку землі.
+  - name: Приповісті 8:24
+    orderIndex: 23
+    osisId: Prov.8.24
+    sblId: Prov 8:24
+    shortName: Прип 8:24
+    text: Народжена я, як безодень іще не було, коли не було ще джерел, водою обтяжених.
+  - name: Приповісті 8:25
+    orderIndex: 24
+    osisId: Prov.8.25
+    sblId: Prov 8:25
+    shortName: Прип 8:25
+    text: Народжена я, поки гори поставлені ще не були, давніше за пагірки,
+  - name: Приповісті 8:26
+    orderIndex: 25
+    osisId: Prov.8.26
+    sblId: Prov 8:26
+    shortName: Прип 8:26
+    text: коли ще землі не вчинив Він, ні піль, ні початкового пороху всесвіту.
+  - name: Приповісті 8:27
+    orderIndex: 26
+    osisId: Prov.8.27
+    sblId: Prov 8:27
+    shortName: Прип 8:27
+    text: Коли приправляв небеса я була там, коли круга вставляв на поверхні безодні,
+  - name: Приповісті 8:28
+    orderIndex: 27
+    osisId: Prov.8.28
+    sblId: Prov 8:28
+    shortName: Прип 8:28
+    text: коли хмари уміцнював Він нагорі, як джерела безодні зміцняв,
+  - name: Приповісті 8:29
+    orderIndex: 28
+    osisId: Prov.8.29
+    sblId: Prov 8:29
+    shortName: Прип 8:29
+    text: коли клав Він для моря устава його, щоб його берегів вода не переходила,
+      коли ставив основи землі,
+  - name: Приповісті 8:30
+    orderIndex: 29
+    osisId: Prov.8.30
+    sblId: Prov 8:30
+    shortName: Прип 8:30
+    text: то я майстром у Нього була, і була я веселощами день-у-день, радіючи перед
+      обличчям Його кожночасно,
+  - name: Приповісті 8:31
+    orderIndex: 30
+    osisId: Prov.8.31
+    sblId: Prov 8:31
+    shortName: Прип 8:31
+    text: радіючи на земнім крузі Його, а забава моя із синами людськими!
+  - name: Приповісті 8:32
+    orderIndex: 31
+    osisId: Prov.8.32
+    sblId: Prov 8:32
+    shortName: Прип 8:32
+    text: Тепер же, послухайте, діти, мене, і блаженні, хто буде дороги мої стерегти!
+  - name: Приповісті 8:33
+    orderIndex: 32
+    osisId: Prov.8.33
+    sblId: Prov 8:33
+    shortName: Прип 8:33
+    text: Навчання послухайте й мудрими станьте, і не відступайте від нього!
+  - name: Приповісті 8:34
+    orderIndex: 33
+    osisId: Prov.8.34
+    sblId: Prov 8:34
+    shortName: Прип 8:34
+    text: Блаженна людина, яка мене слухає, щоб пильнувати при дверях моїх день-у-день,
+      щоб одвірки мої берегти!
+  - name: Приповісті 8:35
+    orderIndex: 34
+    osisId: Prov.8.35
+    sblId: Prov 8:35
+    shortName: Прип 8:35
+    text: Хто бо знаходить мене, той знаходить життя, і одержує милість від Господа.
+  - name: Приповісті 8:36
+    orderIndex: 35
+    osisId: Prov.8.36
+    sblId: Prov 8:36
+    shortName: Прип 8:36
+    text: А хто проти мене грішить, ограбовує душу свою; всі, хто мене ненавидить,
+      ті смерть покохали!
+  versesCount: 36
+- name: Приповісті 9
+  orderIndex: 8
+  osisId: Prov.9
+  sblId: Prov 9
+  shortName: Прип 9
+  verses:
+  - name: Приповісті 9:1
+    orderIndex: 0
+    osisId: Prov.9.1
+    sblId: Prov 9:1
+    shortName: Прип 9:1
+    text: Мудрість свій дім збудувала, сім стовпів своїх витесала.
+  - name: Приповісті 9:2
+    orderIndex: 1
+    osisId: Prov.9.2
+    sblId: Prov 9:2
+    shortName: Прип 9:2
+    text: Зарізала те, що було на заріз, змішала вино своє, і трапезу свою приготовила.
+  - name: Приповісті 9:3
+    orderIndex: 2
+    osisId: Prov.9.3
+    sblId: Prov 9:3
+    shortName: Прип 9:3
+    text: 'Дівчат своїх вислала, і кличе вона на висотах міських:'
+  - name: Приповісті 9:4
+    orderIndex: 3
+    osisId: Prov.9.4
+    sblId: Prov 9:4
+    shortName: Прип 9:4
+    text: 'Хто бідний на розум, хай прийде сюди, а хто нерозумний, говорить йому:'
+  - name: Приповісті 9:5
+    orderIndex: 4
+    osisId: Prov.9.5
+    sblId: Prov 9:5
+    shortName: Прип 9:5
+    text: Ходіть, споживайте із хліба мого, та пийте з вина, що його я змішала!
+  - name: Приповісті 9:6
+    orderIndex: 5
+    osisId: Prov.9.6
+    sblId: Prov 9:6
+    shortName: Прип 9:6
+    text: Покиньте глупоту і будете жити, і ходіте дорогою розуму!
+  - name: Приповісті 9:7
+    orderIndex: 6
+    osisId: Prov.9.7
+    sblId: Prov 9:7
+    shortName: Прип 9:7
+    text: Хто картає насмішника, той собі ганьбу бере, хто ж безбожникові виговорює,
+      сором собі набуває.
+  - name: Приповісті 9:8
+    orderIndex: 7
+    osisId: Prov.9.8
+    sblId: Prov 9:8
+    shortName: Прип 9:8
+    text: Не дорікай пересмішникові, щоб тебе не зненавидів він, викартай мудрого
+      й він покохає тебе.
+  - name: Приповісті 9:9
+    orderIndex: 8
+    osisId: Prov.9.9
+    sblId: Prov 9:9
+    shortName: Прип 9:9
+    text: Дай мудрому й він помудріє іще, навчи праведного і прибільшить він мудрости!
+  - name: Приповісті 9:10
+    orderIndex: 9
+    osisId: Prov.9.10
+    sblId: Prov 9:10
+    shortName: Прип 9:10
+    text: Страх Господній початок премудрости, а пізнання Святого це розум,
+  - name: Приповісті 9:11
+    orderIndex: 10
+    osisId: Prov.9.11
+    sblId: Prov 9:11
+    shortName: Прип 9:11
+    text: бо мною помножаться дні твої, і додадуть тобі років життя.
+  - name: Приповісті 9:12
+    orderIndex: 11
+    osisId: Prov.9.12
+    sblId: Prov 9:12
+    shortName: Прип 9:12
+    text: Якщо ти змудрів то для себе змудрів, а як станеш насмішником, сам понесеш!
+  - name: Приповісті 9:13
+    orderIndex: 12
+    osisId: Prov.9.13
+    sblId: Prov 9:13
+    shortName: Прип 9:13
+    text: Жінка безглузда криклива, нерозумна, і нічого не знає!
+  - name: Приповісті 9:14
+    orderIndex: 13
+    osisId: Prov.9.14
+    sblId: Prov 9:14
+    shortName: Прип 9:14
+    text: Сідає вона на сидінні при вході до дому свого, на високостях міста,
+  - name: Приповісті 9:15
+    orderIndex: 14
+    osisId: Prov.9.15
+    sblId: Prov 9:15
+    shortName: Прип 9:15
+    text: 'щоб кликати тих, хто дорогою йде, хто путтю своєю простує:'
+  - name: Приповісті 9:16
+    orderIndex: 15
+    osisId: Prov.9.16
+    sblId: Prov 9:16
+    shortName: Прип 9:16
+    text: 'Хто бідний на розум, хай прийде сюди, а хто нерозумний, то каже йому:'
+  - name: Приповісті 9:17
+    orderIndex: 16
+    osisId: Prov.9.17
+    sblId: Prov 9:17
+    shortName: Прип 9:17
+    text: Вода крадена солодка, і приємний прихований хліб...
+  - name: Приповісті 9:18
+    orderIndex: 17
+    osisId: Prov.9.18
+    sblId: Prov 9:18
+    shortName: Прип 9:18
+    text: І не відає він, що самі там мерці, у глибинах шеолу запрошені нею!...
+  versesCount: 18
+- name: Приповісті 10
+  orderIndex: 9
+  osisId: Prov.10
+  sblId: Prov 10
+  shortName: Прип 10
+  verses:
+  - name: Приповісті 10:1
+    orderIndex: 0
+    osisId: Prov.10.1
+    sblId: Prov 10:1
+    shortName: Прип 10:1
+    text: Син мудрий потіха для батька, а син нерозумний то смуток для неньки його.
+  - name: Приповісті 10:2
+    orderIndex: 1
+    osisId: Prov.10.2
+    sblId: Prov 10:2
+    shortName: Прип 10:2
+    text: Не поможуть неправедні скарби, а справедливість від смерти визволює.
+  - name: Приповісті 10:3
+    orderIndex: 2
+    osisId: Prov.10.3
+    sblId: Prov 10:3
+    shortName: Прип 10:3
+    text: Не допустить Господь голодувати душу праведного, а набуток безбожників згине.
+  - name: Приповісті 10:4
+    orderIndex: 3
+    osisId: Prov.10.4
+    sblId: Prov 10:4
+    shortName: Прип 10:4
+    text: Ледача рука до убозтва веде, рука ж роботяща збагачує.
+  - name: Приповісті 10:5
+    orderIndex: 4
+    osisId: Prov.10.5
+    sblId: Prov 10:5
+    shortName: Прип 10:5
+    text: Хто літом збирає син мудрий, хто ж дрімає в жнива син безпутній.
+  - name: Приповісті 10:6
+    orderIndex: 5
+    osisId: Prov.10.6
+    sblId: Prov 10:6
+    shortName: Прип 10:6
+    text: Благословенства на голову праведного, а уста безбожним прикриє насильство.
+  - name: Приповісті 10:7
+    orderIndex: 6
+    osisId: Prov.10.7
+    sblId: Prov 10:7
+    shortName: Прип 10:7
+    text: Пам'ять про праведного на благословення, а ймення безбожних загине.
+  - name: Приповісті 10:8
+    orderIndex: 7
+    osisId: Prov.10.8
+    sblId: Prov 10:8
+    shortName: Прип 10:8
+    text: Заповіді мудросердий приймає, але дурногубий впаде.
+  - name: Приповісті 10:9
+    orderIndex: 8
+    osisId: Prov.10.9
+    sblId: Prov 10:9
+    shortName: Прип 10:9
+    text: Хто в невинності ходить, той ходить безпечно, а хто кривить дороги свої,
+      буде виявлений.
+  - name: Приповісті 10:10
+    orderIndex: 9
+    osisId: Prov.10.10
+    sblId: Prov 10:10
+    shortName: Прип 10:10
+    text: Хто оком моргає, той смуток дає, але дурногубий впаде.
+  - name: Приповісті 10:11
+    orderIndex: 10
+    osisId: Prov.10.11
+    sblId: Prov 10:11
+    shortName: Прип 10:11
+    text: Уста праведного то джерело життя, а уста безбожним прикриє насильство.
+  - name: Приповісті 10:12
+    orderIndex: 11
+    osisId: Prov.10.12
+    sblId: Prov 10:12
+    shortName: Прип 10:12
+    text: Ненависть побуджує сварки, а любов покриває всі вини.
+  - name: Приповісті 10:13
+    orderIndex: 12
+    osisId: Prov.10.13
+    sblId: Prov 10:13
+    shortName: Прип 10:13
+    text: В устах розумного мудрість знаходиться, а різка на спину безтямного.
+  - name: Приповісті 10:14
+    orderIndex: 13
+    osisId: Prov.10.14
+    sblId: Prov 10:14
+    shortName: Прип 10:14
+    text: Приховують мудрі знання, а уста нерозумного близькі до загибелі.
+  - name: Приповісті 10:15
+    orderIndex: 14
+    osisId: Prov.10.15
+    sblId: Prov 10:15
+    shortName: Прип 10:15
+    text: Маєток багатого місто твердинне його, погибіль убогих їхні злидні.
+  - name: Приповісті 10:16
+    orderIndex: 15
+    osisId: Prov.10.16
+    sblId: Prov 10:16
+    shortName: Прип 10:16
+    text: Дорібок праведного на життя, прибуток безбожного в гріх.
+  - name: Приповісті 10:17
+    orderIndex: 16
+    osisId: Prov.10.17
+    sblId: Prov 10:17
+    shortName: Прип 10:17
+    text: Хто напучування стереже той на стежці життя, а хто нехтує картання, той
+      блудить.
+  - name: Приповісті 10:18
+    orderIndex: 17
+    osisId: Prov.10.18
+    sblId: Prov 10:18
+    shortName: Прип 10:18
+    text: Хто ненависть ховає, в того губи брехливі, а хто наклепи ширить, той дурноверхий.
+  - name: Приповісті 10:19
+    orderIndex: 18
+    osisId: Prov.10.19
+    sblId: Prov 10:19
+    shortName: Прип 10:19
+    text: Не бракує гріха в многомовності, а хто стримує губи свої, той розумний.
+  - name: Приповісті 10:20
+    orderIndex: 19
+    osisId: Prov.10.20
+    sblId: Prov 10:20
+    shortName: Прип 10:20
+    text: Язик праведного то добірне срібло, а розум безбожних мізерний.
+  - name: Приповісті 10:21
+    orderIndex: 20
+    osisId: Prov.10.21
+    sblId: Prov 10:21
+    shortName: Прип 10:21
+    text: Пасуть багатьох губи праведного, безглузді ж умирають з нерозуму.
+  - name: Приповісті 10:22
+    orderIndex: 21
+    osisId: Prov.10.22
+    sblId: Prov 10:22
+    shortName: Прип 10:22
+    text: Благословення Господнє воно збагачає, і смутку воно не приносить з собою.
+  - name: Приповісті 10:23
+    orderIndex: 22
+    osisId: Prov.10.23
+    sblId: Prov 10:23
+    shortName: Прип 10:23
+    text: Нешляхетне робити забава невігласа, а мудрість людині розумній.
+  - name: Приповісті 10:24
+    orderIndex: 23
+    osisId: Prov.10.24
+    sblId: Prov 10:24
+    shortName: Прип 10:24
+    text: Чого нечестивий боїться, те прийде на нього, а прагнення праведних сповняться.
+  - name: Приповісті 10:25
+    orderIndex: 24
+    osisId: Prov.10.25
+    sblId: Prov 10:25
+    shortName: Прип 10:25
+    text: Як буря, яка пронесеться, то й гине безбожний, а праведний має довічну основу.
+  - name: Приповісті 10:26
+    orderIndex: 25
+    osisId: Prov.10.26
+    sblId: Prov 10:26
+    shortName: Прип 10:26
+    text: Як оцет зубам, і як дим для очей, так лінивий для тих, хто його посилає.
+  - name: Приповісті 10:27
+    orderIndex: 26
+    osisId: Prov.10.27
+    sblId: Prov 10:27
+    shortName: Прип 10:27
+    text: Страх Господній примножує днів, а роки безбожних вкоротяться.
+  - name: Приповісті 10:28
+    orderIndex: 27
+    osisId: Prov.10.28
+    sblId: Prov 10:28
+    shortName: Прип 10:28
+    text: Сподівання для праведних радість, а надія безбожних загине.
+  - name: Приповісті 10:29
+    orderIndex: 28
+    osisId: Prov.10.29
+    sblId: Prov 10:29
+    shortName: Прип 10:29
+    text: Дорога Господня твердиня невинним, а загибіль злочинцям.
+  - name: Приповісті 10:30
+    orderIndex: 29
+    osisId: Prov.10.30
+    sblId: Prov 10:30
+    shortName: Прип 10:30
+    text: Повік праведний не захитається, а безбожники не поживуть на землі.
+  - name: Приповісті 10:31
+    orderIndex: 30
+    osisId: Prov.10.31
+    sblId: Prov 10:31
+    shortName: Прип 10:31
+    text: Уста праведного дають мудрість, а лукавий язик буде втятий.
+  - name: Приповісті 10:32
+    orderIndex: 31
+    osisId: Prov.10.32
+    sblId: Prov 10:32
+    shortName: Прип 10:32
+    text: Уста праведного уподобання знають, а уста безбожних лукавство.
+  versesCount: 32
+- name: Приповісті 11
+  orderIndex: 10
+  osisId: Prov.11
+  sblId: Prov 11
+  shortName: Прип 11
+  verses:
+  - name: Приповісті 11:1
+    orderIndex: 0
+    osisId: Prov.11.1
+    sblId: Prov 11:1
+    shortName: Прип 11:1
+    text: Обманливі шальки огида для Господа, а повна вага це Його уподоба.
+  - name: Приповісті 11:2
+    orderIndex: 1
+    osisId: Prov.11.2
+    sblId: Prov 11:2
+    shortName: Прип 11:2
+    text: Прийде пишність, та прийде і ганьба, а з сумирними мудрість.
+  - name: Приповісті 11:3
+    orderIndex: 2
+    osisId: Prov.11.3
+    sblId: Prov 11:3
+    shortName: Прип 11:3
+    text: Невинність простосердих веде їх, а лукавство зрадливих їх вигубить.
+  - name: Приповісті 11:4
+    orderIndex: 3
+    osisId: Prov.11.4
+    sblId: Prov 11:4
+    shortName: Прип 11:4
+    text: Не поможе багатство в день гніву, а справедливість від смерти визволює.
+  - name: Приповісті 11:5
+    orderIndex: 4
+    osisId: Prov.11.5
+    sblId: Prov 11:5
+    shortName: Прип 11:5
+    text: Справедливість невинного дорогу йому випростовує, безбожний же падає через
+      безбожність свою.
+  - name: Приповісті 11:6
+    orderIndex: 5
+    osisId: Prov.11.6
+    sblId: Prov 11:6
+    shortName: Прип 11:6
+    text: Справедливість прямих їх рятує, а зрадливі захоплені будуть своєю захланністю.
+  - name: Приповісті 11:7
+    orderIndex: 6
+    osisId: Prov.11.7
+    sblId: Prov 11:7
+    shortName: Прип 11:7
+    text: При смерті людини безбожної гине надія, зникає чекання людини нікчемної.
+  - name: Приповісті 11:8
+    orderIndex: 7
+    osisId: Prov.11.8
+    sblId: Prov 11:8
+    shortName: Прип 11:8
+    text: Виривається праведний з утиску, і замість нього безбожний іде.
+  - name: Приповісті 11:9
+    orderIndex: 8
+    osisId: Prov.11.9
+    sblId: Prov 11:9
+    shortName: Прип 11:9
+    text: Свого ближнього нищить лукавий устами, а знанням визволяються праведні.
+  - name: Приповісті 11:10
+    orderIndex: 9
+    osisId: Prov.11.10
+    sblId: Prov 11:10
+    shortName: Прип 11:10
+    text: Добром праведних місто радіє, а як гинуть безбожні співає.
+  - name: Приповісті 11:11
+    orderIndex: 10
+    osisId: Prov.11.11
+    sblId: Prov 11:11
+    shortName: Прип 11:11
+    text: Благословенням чесних підноситься місто, а устами безбожних руйнується.
+  - name: Приповісті 11:12
+    orderIndex: 11
+    osisId: Prov.11.12
+    sblId: Prov 11:12
+    shortName: Прип 11:12
+    text: Хто погорджує ближнім своїм, той позбавлений розуму, а розумна людина мовчить.
+  - name: Приповісті 11:13
+    orderIndex: 12
+    osisId: Prov.11.13
+    sblId: Prov 11:13
+    shortName: Прип 11:13
+    text: Виявляє обмовник таємне, вірнодухий же справу ховає.
+  - name: Приповісті 11:14
+    orderIndex: 13
+    osisId: Prov.11.14
+    sblId: Prov 11:14
+    shortName: Прип 11:14
+    text: Народ падає з браку розумного проводу, при численності ж радників спасіння
+      буває.
+  - name: Приповісті 11:15
+    orderIndex: 14
+    osisId: Prov.11.15
+    sblId: Prov 11:15
+    shortName: Прип 11:15
+    text: Зле робить, як хто за чужого поручується, хто ж поруку ненавидить, той безпечний.
+  - name: Приповісті 11:16
+    orderIndex: 15
+    osisId: Prov.11.16
+    sblId: Prov 11:16
+    shortName: Прип 11:16
+    text: Жінка чеснотна осягує слави, і пильні багатства здобудуть.
+  - name: Приповісті 11:17
+    orderIndex: 16
+    osisId: Prov.11.17
+    sblId: Prov 11:17
+    shortName: Прип 11:17
+    text: Людина ласкава душі своїй чинить добро, а жорстока замучує тіло своє.
+  - name: Приповісті 11:18
+    orderIndex: 17
+    osisId: Prov.11.18
+    sblId: Prov 11:18
+    shortName: Прип 11:18
+    text: Чинить діло безвартне безбожний, хто ж праведність сіє заплату правдиву
+      одержує.
+  - name: Приповісті 11:19
+    orderIndex: 18
+    osisId: Prov.11.19
+    sblId: Prov 11:19
+    shortName: Прип 11:19
+    text: Отак праведність є на життя, хто ж женеться за злом, той до смерти зближається.
+  - name: Приповісті 11:20
+    orderIndex: 19
+    osisId: Prov.11.20
+    sblId: Prov 11:20
+    shortName: Прип 11:20
+    text: Серцем лукаві огида для Господа, а хто в неповинності ходить Його уподоба.
+  - name: Приповісті 11:21
+    orderIndex: 20
+    osisId: Prov.11.21
+    sblId: Prov 11:21
+    shortName: Прип 11:21
+    text: 'Ручаюсь: не буде невинним лихий, а нащадок правдивих захований буде.'
+  - name: Приповісті 11:22
+    orderIndex: 21
+    osisId: Prov.11.22
+    sblId: Prov 11:22
+    shortName: Прип 11:22
+    text: Золотая сережка в свині на ніздрі це жінка гарна, позбавлена розуму.
+  - name: Приповісті 11:23
+    orderIndex: 22
+    osisId: Prov.11.23
+    sblId: Prov 11:23
+    shortName: Прип 11:23
+    text: Жадання у праведних тільки добро, надія безбожних то гнів.
+  - name: Приповісті 11:24
+    orderIndex: 23
+    osisId: Prov.11.24
+    sblId: Prov 11:24
+    shortName: Прип 11:24
+    text: Дехто щедро дає, та ще додається йому, а дехто ховає над міру, та тільки
+      бідніє.
+  - name: Приповісті 11:25
+    orderIndex: 24
+    osisId: Prov.11.25
+    sblId: Prov 11:25
+    shortName: Прип 11:25
+    text: Душа, яка благословляє, насичена буде, а хто поїть інших, напоєний буде
+      і він.
+  - name: Приповісті 11:26
+    orderIndex: 25
+    osisId: Prov.11.26
+    sblId: Prov 11:26
+    shortName: Прип 11:26
+    text: Хто задержує збіжжя, того проклинає народ, хто ж поживу випродує, тому благословення
+      на голову.
+  - name: Приповісті 11:27
+    orderIndex: 26
+    osisId: Prov.11.27
+    sblId: Prov 11:27
+    shortName: Прип 11:27
+    text: Хто прагне добра, той шукає вподобання, хто ж лихого жадає, то й прийде
+      на нього воно.
+  - name: Приповісті 11:28
+    orderIndex: 27
+    osisId: Prov.11.28
+    sblId: Prov 11:28
+    shortName: Прип 11:28
+    text: Хто надію кладе на багатство своє, той впаде, а праведники зеленіють, як
+      листя.
+  - name: Приповісті 11:29
+    orderIndex: 28
+    osisId: Prov.11.29
+    sblId: Prov 11:29
+    shortName: Прип 11:29
+    text: Хто неряд уносить до дому свого, той вітер посяде, а дурноголовий розумному
+      стане рабом.
+  - name: Приповісті 11:30
+    orderIndex: 29
+    osisId: Prov.11.30
+    sblId: Prov 11:30
+    shortName: Прип 11:30
+    text: Плід праведного дерево життя, і мудрий життя набуває.
+  - name: Приповісті 11:31
+    orderIndex: 30
+    osisId: Prov.11.31
+    sblId: Prov 11:31
+    shortName: Прип 11:31
+    text: Коли праведний ось надолужується на землі, то тим більше безбожний та грішний!
+  versesCount: 31
+- name: Приповісті 12
+  orderIndex: 11
+  osisId: Prov.12
+  sblId: Prov 12
+  shortName: Прип 12
+  verses:
+  - name: Приповісті 12:1
+    orderIndex: 0
+    osisId: Prov.12.1
+    sblId: Prov 12:1
+    shortName: Прип 12:1
+    text: Хто любить навчання, той любить пізнання, а хто докір ненавидить, той нерозумний.
+  - name: Приповісті 12:2
+    orderIndex: 1
+    osisId: Prov.12.2
+    sblId: Prov 12:2
+    shortName: Прип 12:2
+    text: Добрий від Господа має вподобання, а людину злих замірів осудить Господь.
+  - name: Приповісті 12:3
+    orderIndex: 2
+    osisId: Prov.12.3
+    sblId: Prov 12:3
+    shortName: Прип 12:3
+    text: Не зміцниться людина безбожністю, корінь же праведних не захитається.
+  - name: Приповісті 12:4
+    orderIndex: 3
+    osisId: Prov.12.4
+    sblId: Prov 12:4
+    shortName: Прип 12:4
+    text: Жінка чеснотна корона для чоловіка свого, а засоромлююча мов та гниль в
+      його костях.
+  - name: Приповісті 12:5
+    orderIndex: 4
+    osisId: Prov.12.5
+    sblId: Prov 12:5
+    shortName: Прип 12:5
+    text: Думки праведних право, підступні заміри безбожних омана.
+  - name: Приповісті 12:6
+    orderIndex: 5
+    osisId: Prov.12.6
+    sblId: Prov 12:6
+    shortName: Прип 12:6
+    text: Безбожних слова чатування на кров, а уста невинних урятовують їх.
+  - name: Приповісті 12:7
+    orderIndex: 6
+    osisId: Prov.12.7
+    sblId: Prov 12:7
+    shortName: Прип 12:7
+    text: Перевернути безбожних і вже їх нема, а дім праведних буде стояти.
+  - name: Приповісті 12:8
+    orderIndex: 7
+    osisId: Prov.12.8
+    sblId: Prov 12:8
+    shortName: Прип 12:8
+    text: Хвалять людину за розум її, а кривосердий стає на погорду.
+  - name: Приповісті 12:9
+    orderIndex: 8
+    osisId: Prov.12.9
+    sblId: Prov 12:9
+    shortName: Прип 12:9
+    text: Ліпше простий, але роботящий на себе, від того, хто поважним себе видає,
+      та хліба позбавлений.
+  - name: Приповісті 12:10
+    orderIndex: 9
+    osisId: Prov.12.10
+    sblId: Prov 12:10
+    shortName: Прип 12:10
+    text: Піклується праведний життям худоби своєї, а серце безбожних жорстоке.
+  - name: Приповісті 12:11
+    orderIndex: 10
+    osisId: Prov.12.11
+    sblId: Prov 12:11
+    shortName: Прип 12:11
+    text: Хто оброблює землю свою, той хлібом насичується, хто ж за марницею гониться,
+      той позбавлений розуму.
+  - name: Приповісті 12:12
+    orderIndex: 11
+    osisId: Prov.12.12
+    sblId: Prov 12:12
+    shortName: Прип 12:12
+    text: Безбожний жадає ловити у сітку лихих, а в праведних корень приносить плоди.
+  - name: Приповісті 12:13
+    orderIndex: 12
+    osisId: Prov.12.13
+    sblId: Prov 12:13
+    shortName: Прип 12:13
+    text: Пастка злого в гріху його уст, а праведний з утиску вийде.
+  - name: Приповісті 12:14
+    orderIndex: 13
+    osisId: Prov.12.14
+    sblId: Prov 12:14
+    shortName: Прип 12:14
+    text: Людина насичується добром з плоду уст, і зроблене рук чоловіка до нього
+      впаде.
+  - name: Приповісті 12:15
+    orderIndex: 14
+    osisId: Prov.12.15
+    sblId: Prov 12:15
+    shortName: Прип 12:15
+    text: Дорога безумця пряма в його очах, а мудрий послухає ради.
+  - name: Приповісті 12:16
+    orderIndex: 15
+    osisId: Prov.12.16
+    sblId: Prov 12:16
+    shortName: Прип 12:16
+    text: Нерозумного гнів пізнається відразу, розумний же мовчки ховає зневагу.
+  - name: Приповісті 12:17
+    orderIndex: 16
+    osisId: Prov.12.17
+    sblId: Prov 12:17
+    shortName: Прип 12:17
+    text: Хто правду говорить, той виявлює праведність, а свідок брехливий оману.
+  - name: Приповісті 12:18
+    orderIndex: 17
+    osisId: Prov.12.18
+    sblId: Prov 12:18
+    shortName: Прип 12:18
+    text: Дехто говорить, мов коле мечем, язик же премудрих то ліки.
+  - name: Приповісті 12:19
+    orderIndex: 18
+    osisId: Prov.12.19
+    sblId: Prov 12:19
+    shortName: Прип 12:19
+    text: Уста правдиві стоятимуть вічно, а брехливий язик лиш на хвилю.
+  - name: Приповісті 12:20
+    orderIndex: 19
+    osisId: Prov.12.20
+    sblId: Prov 12:20
+    shortName: Прип 12:20
+    text: В серці тих, хто зло оре, омана, а радість у тих, хто дораджує мир.
+  - name: Приповісті 12:21
+    orderIndex: 20
+    osisId: Prov.12.21
+    sblId: Prov 12:21
+    shortName: Прип 12:21
+    text: Жодна кривда не трапиться праведному, а безбожні наповняться лихом.
+  - name: Приповісті 12:22
+    orderIndex: 21
+    osisId: Prov.12.22
+    sblId: Prov 12:22
+    shortName: Прип 12:22
+    text: Уста брехливі огида у Господа, а чинячі правду Його уподоба.
+  - name: Приповісті 12:23
+    orderIndex: 22
+    osisId: Prov.12.23
+    sblId: Prov 12:23
+    shortName: Прип 12:23
+    text: Приховує мудра людина знання, а серце безумних глупоту викликує.
+  - name: Приповісті 12:24
+    orderIndex: 23
+    osisId: Prov.12.24
+    sblId: Prov 12:24
+    shortName: Прип 12:24
+    text: Роботяща рука пануватиме, а лінива даниною стане.
+  - name: Приповісті 12:25
+    orderIndex: 24
+    osisId: Prov.12.25
+    sblId: Prov 12:25
+    shortName: Прип 12:25
+    text: Туга на серці людини чавить її, добре ж слово її веселить.
+  - name: Приповісті 12:26
+    orderIndex: 25
+    osisId: Prov.12.26
+    sblId: Prov 12:26
+    shortName: Прип 12:26
+    text: Праведний вивідає свою путь, а дорога безбожних зведе їх самих.
+  - name: Приповісті 12:27
+    orderIndex: 26
+    osisId: Prov.12.27
+    sblId: Prov 12:27
+    shortName: Прип 12:27
+    text: Не буде ледачий пекти свого полову, а людина трудяща набуде маєток цінний.
+  - name: Приповісті 12:28
+    orderIndex: 27
+    osisId: Prov.12.28
+    sblId: Prov 12:28
+    shortName: Прип 12:28
+    text: В путі праведности є життя, і на стежці її нема смерти.
+  versesCount: 28
+- name: Приповісті 13
+  orderIndex: 12
+  osisId: Prov.13
+  sblId: Prov 13
+  shortName: Прип 13
+  verses:
+  - name: Приповісті 13:1
+    orderIndex: 0
+    osisId: Prov.13.1
+    sblId: Prov 13:1
+    shortName: Прип 13:1
+    text: Син мудрий приймає картання від батька, а насмішник докору не слухає.
+  - name: Приповісті 13:2
+    orderIndex: 1
+    osisId: Prov.13.2
+    sblId: Prov 13:2
+    shortName: Прип 13:2
+    text: З плоду уст чоловік споживає добро, а жадоба зрадливих насильство.
+  - name: Приповісті 13:3
+    orderIndex: 2
+    osisId: Prov.13.3
+    sblId: Prov 13:3
+    shortName: Прип 13:3
+    text: Хто уста свої стереже, той душу свою береже, а хто губи свої розпускає,
+      на того погибіль.
+  - name: Приповісті 13:4
+    orderIndex: 3
+    osisId: Prov.13.4
+    sblId: Prov 13:4
+    shortName: Прип 13:4
+    text: Пожадає душа лінюха, та даремно, душа ж роботящих насититься.
+  - name: Приповісті 13:5
+    orderIndex: 4
+    osisId: Prov.13.5
+    sblId: Prov 13:5
+    shortName: Прип 13:5
+    text: Ненавидить праведний слово брехливе, безбожний же чинить лихе, і себе засоромлює.
+  - name: Приповісті 13:6
+    orderIndex: 5
+    osisId: Prov.13.6
+    sblId: Prov 13:6
+    shortName: Прип 13:6
+    text: Праведність оберігає невинного на дорозі його, а безбожність погублює грішника.
+  - name: Приповісті 13:7
+    orderIndex: 6
+    osisId: Prov.13.7
+    sblId: Prov 13:7
+    shortName: Прип 13:7
+    text: Дехто вдає багача, хоч нічого не має, а дехто вдає бідака, хоч маєток великий
+      у нього.
+  - name: Приповісті 13:8
+    orderIndex: 7
+    osisId: Prov.13.8
+    sblId: Prov 13:8
+    shortName: Прип 13:8
+    text: Викуп за душу людини багатство її, а вбогий й докору не чує.
+  - name: Приповісті 13:9
+    orderIndex: 8
+    osisId: Prov.13.9
+    sblId: Prov 13:9
+    shortName: Прип 13:9
+    text: Світло праведних весело світить, а світильник безбожних погасне.
+  - name: Приповісті 13:10
+    orderIndex: 9
+    osisId: Prov.13.10
+    sblId: Prov 13:10
+    shortName: Прип 13:10
+    text: Тільки сварка пихою зчиняється, а мудрість із тими, хто радиться.
+  - name: Приповісті 13:11
+    orderIndex: 10
+    osisId: Prov.13.11
+    sblId: Prov 13:11
+    shortName: Прип 13:11
+    text: Багатство, заскоро здобуте, поменшується, хто ж збирає помалу примножує.
+  - name: Приповісті 13:12
+    orderIndex: 11
+    osisId: Prov.13.12
+    sblId: Prov 13:12
+    shortName: Прип 13:12
+    text: Задовга надія недуга для серця, а бажання, що сповнюється, це дерево життя.
+  - name: Приповісті 13:13
+    orderIndex: 12
+    osisId: Prov.13.13
+    sblId: Prov 13:13
+    shortName: Прип 13:13
+    text: Хто погорджує словом Господнім, той шкодить собі, хто ж страх має до заповіді,
+      тому надолужиться.
+  - name: Приповісті 13:14
+    orderIndex: 13
+    osisId: Prov.13.14
+    sblId: Prov 13:14
+    shortName: Прип 13:14
+    text: Наука премудрого криниця життя, щоб віддалитися від пасток смерти.
+  - name: Приповісті 13:15
+    orderIndex: 14
+    osisId: Prov.13.15
+    sblId: Prov 13:15
+    shortName: Прип 13:15
+    text: Добрий розум приносить приємність, а дорога зрадливих погуба для них.
+  - name: Приповісті 13:16
+    orderIndex: 15
+    osisId: Prov.13.16
+    sblId: Prov 13:16
+    shortName: Прип 13:16
+    text: Кожен розумний за мудрістю робить, а безумний глупоту показує.
+  - name: Приповісті 13:17
+    orderIndex: 16
+    osisId: Prov.13.17
+    sblId: Prov 13:17
+    shortName: Прип 13:17
+    text: Безбожний посол у нещастя впаде, а вірний посол немов лік.
+  - name: Приповісті 13:18
+    orderIndex: 17
+    osisId: Prov.13.18
+    sblId: Prov 13:18
+    shortName: Прип 13:18
+    text: Хто ламає поуку убозтво та ганьба тому, а хто береже осторогу шанований
+      він.
+  - name: Приповісті 13:19
+    orderIndex: 18
+    osisId: Prov.13.19
+    sblId: Prov 13:19
+    shortName: Прип 13:19
+    text: Виконане побажання приємне душі, а вступитись від зла то огида безумним.
+  - name: Приповісті 13:20
+    orderIndex: 19
+    osisId: Prov.13.20
+    sblId: Prov 13:20
+    shortName: Прип 13:20
+    text: Хто з мудрими ходить, той мудрим стає, а хто товаришує з безумним, той лиха
+      набуде.
+  - name: Приповісті 13:21
+    orderIndex: 20
+    osisId: Prov.13.21
+    sblId: Prov 13:21
+    shortName: Прип 13:21
+    text: Грішників зло доганяє, а праведним Бог надолужить добром.
+  - name: Приповісті 13:22
+    orderIndex: 21
+    osisId: Prov.13.22
+    sblId: Prov 13:22
+    shortName: Прип 13:22
+    text: Добрий лишає спадок і онукам, маєток же грішника схований буде для праведного.
+  - name: Приповісті 13:23
+    orderIndex: 22
+    osisId: Prov.13.23
+    sblId: Prov 13:23
+    shortName: Прип 13:23
+    text: Убогому буде багато поживи і з поля невправного, та деякі гинуть з безправ'я.
+  - name: Приповісті 13:24
+    orderIndex: 23
+    osisId: Prov.13.24
+    sblId: Prov 13:24
+    shortName: Прип 13:24
+    text: Хто стримує різку свою, той ненавидить сина свого, хто ж кохає його, той
+      шукає для нього картання.
+  - name: Приповісті 13:25
+    orderIndex: 24
+    osisId: Prov.13.25
+    sblId: Prov 13:25
+    shortName: Прип 13:25
+    text: Праведний їсть, скільки схоче душа, живіт же безбожників завсіди брак відчуває.
+  versesCount: 25
+- name: Приповісті 14
+  orderIndex: 13
+  osisId: Prov.14
+  sblId: Prov 14
+  shortName: Прип 14
+  verses:
+  - name: Приповісті 14:1
+    orderIndex: 0
+    osisId: Prov.14.1
+    sblId: Prov 14:1
+    shortName: Прип 14:1
+    text: Мудра жінка будує свій дім, а безумна своєю рукою руйнує його.
+  - name: Приповісті 14:2
+    orderIndex: 1
+    osisId: Prov.14.2
+    sblId: Prov 14:2
+    shortName: Прип 14:2
+    text: Хто ходить в простоті своїй, боїться той Господа, а в кого дороги криві,
+      той погорджує Ним.
+  - name: Приповісті 14:3
+    orderIndex: 2
+    osisId: Prov.14.3
+    sblId: Prov 14:3
+    shortName: Прип 14:3
+    text: На устах безумця галузка пихи, а губи премудрих їх стережуть.
+  - name: Приповісті 14:4
+    orderIndex: 3
+    osisId: Prov.14.4
+    sblId: Prov 14:4
+    shortName: Прип 14:4
+    text: Де немає биків, там ясла порожні, а щедрість врожаю у силі вола.
+  - name: Приповісті 14:5
+    orderIndex: 4
+    osisId: Prov.14.5
+    sblId: Prov 14:5
+    shortName: Прип 14:5
+    text: Свідок правдивий не лже, а свідок брехливий говорить неправду.
+  - name: Приповісті 14:6
+    orderIndex: 5
+    osisId: Prov.14.6
+    sblId: Prov 14:6
+    shortName: Прип 14:6
+    text: Насмішник шукає премудрости, та надаремно, пізнання легке для розумного.
+  - name: Приповісті 14:7
+    orderIndex: 6
+    osisId: Prov.14.7
+    sblId: Prov 14:7
+    shortName: Прип 14:7
+    text: Ходи здалека від людини безумної, і від того, в кого мудрих уст ти не бачив.
+  - name: Приповісті 14:8
+    orderIndex: 7
+    osisId: Prov.14.8
+    sblId: Prov 14:8
+    shortName: Прип 14:8
+    text: Мудрість розумного то розуміння дороги своєї, а глупота дурних то омана.
+  - name: Приповісті 14:9
+    orderIndex: 8
+    osisId: Prov.14.9
+    sblId: Prov 14:9
+    shortName: Прип 14:9
+    text: Нерозумні сміються з гріха, а між праведними уподобання.
+  - name: Приповісті 14:10
+    orderIndex: 9
+    osisId: Prov.14.10
+    sblId: Prov 14:10
+    shortName: Прип 14:10
+    text: Серце знає гіркоту своєї душі, і в радість його не втручається інший.
+  - name: Приповісті 14:11
+    orderIndex: 10
+    osisId: Prov.14.11
+    sblId: Prov 14:11
+    shortName: Прип 14:11
+    text: Буде вигублений дім безбожних, а намет безневинних розквітне.
+  - name: Приповісті 14:12
+    orderIndex: 11
+    osisId: Prov.14.12
+    sblId: Prov 14:12
+    shortName: Прип 14:12
+    text: Буває, дорога людині здається простою, та кінець її стежка до смерти.
+  - name: Приповісті 14:13
+    orderIndex: 12
+    osisId: Prov.14.13
+    sblId: Prov 14:13
+    shortName: Прип 14:13
+    text: Також іноді і від сміху болить серце, і закінчення радости смуток.
+  - name: Приповісті 14:14
+    orderIndex: 13
+    osisId: Prov.14.14
+    sblId: Prov 14:14
+    shortName: Прип 14:14
+    text: Хто підступного серця, насититься той із доріг своїх, а добра людина із
+      чинів своїх.
+  - name: Приповісті 14:15
+    orderIndex: 14
+    osisId: Prov.14.15
+    sblId: Prov 14:15
+    shortName: Прип 14:15
+    text: Вірить безглуздий в кожнісіньке слово, а мудрий зважає на кроки свої.
+  - name: Приповісті 14:16
+    orderIndex: 15
+    osisId: Prov.14.16
+    sblId: Prov 14:16
+    shortName: Прип 14:16
+    text: Мудрий боїться й від злого вступає, нерозумний же гнівається та сміливий.
+  - name: Приповісті 14:17
+    orderIndex: 16
+    osisId: Prov.14.17
+    sblId: Prov 14:17
+    shortName: Прип 14:17
+    text: Скорий на гнів учиняє глупоту, а людина лукава зненавиджена.
+  - name: Приповісті 14:18
+    orderIndex: 17
+    osisId: Prov.14.18
+    sblId: Prov 14:18
+    shortName: Прип 14:18
+    text: Нерозумні глупоту вспадковують, а мудрі знанням коронуються.
+  - name: Приповісті 14:19
+    orderIndex: 18
+    osisId: Prov.14.19
+    sblId: Prov 14:19
+    shortName: Прип 14:19
+    text: Поклоняться злі перед добрими, а безбожники при брамах праведного.
+  - name: Приповісті 14:20
+    orderIndex: 19
+    osisId: Prov.14.20
+    sblId: Prov 14:20
+    shortName: Прип 14:20
+    text: Убогий зненавиджений навіть ближнім своїм, а в багатого друзі численні.
+  - name: Приповісті 14:21
+    orderIndex: 20
+    osisId: Prov.14.21
+    sblId: Prov 14:21
+    shortName: Прип 14:21
+    text: Хто погорджує ближнім своїм, той грішить, а ласкавий до вбогих блаженний.
+  - name: Приповісті 14:22
+    orderIndex: 21
+    osisId: Prov.14.22
+    sblId: Prov 14:22
+    shortName: Прип 14:22
+    text: Чи ж не блудять, хто оре лихе? А милість та правда для тих, хто оре добро.
+  - name: Приповісті 14:23
+    orderIndex: 22
+    osisId: Prov.14.23
+    sblId: Prov 14:23
+    shortName: Прип 14:23
+    text: Кожна праця приносить достаток, але праця уст в недостаток веде.
+  - name: Приповісті 14:24
+    orderIndex: 23
+    osisId: Prov.14.24
+    sblId: Prov 14:24
+    shortName: Прип 14:24
+    text: Корона премудрих їхня мудрість, а вінець нерозумних глупота.
+  - name: Приповісті 14:25
+    orderIndex: 24
+    osisId: Prov.14.25
+    sblId: Prov 14:25
+    shortName: Прип 14:25
+    text: Свідок правдивий визволює душі, а свідок обманливий брехні торочить.
+  - name: Приповісті 14:26
+    orderIndex: 25
+    osisId: Prov.14.26
+    sblId: Prov 14:26
+    shortName: Прип 14:26
+    text: У Господньому страхові сильна надія, і Він пристановище дітям Своїм.
+  - name: Приповісті 14:27
+    orderIndex: 26
+    osisId: Prov.14.27
+    sblId: Prov 14:27
+    shortName: Прип 14:27
+    text: Страх Господній криниця життя, щоб віддалятися від пасток смерти.
+  - name: Приповісті 14:28
+    orderIndex: 27
+    osisId: Prov.14.28
+    sblId: Prov 14:28
+    shortName: Прип 14:28
+    text: У численності люду величність царя, а в браку народу погибіль володаря.
+  - name: Приповісті 14:29
+    orderIndex: 28
+    osisId: Prov.14.29
+    sblId: Prov 14:29
+    shortName: Прип 14:29
+    text: Терпеливий у гніві багаторозумний, а гнівливий вчиняє глупоту.
+  - name: Приповісті 14:30
+    orderIndex: 29
+    osisId: Prov.14.30
+    sblId: Prov 14:30
+    shortName: Прип 14:30
+    text: Лагідне серце життя то для тіла, а заздрість гнилизна костей.
+  - name: Приповісті 14:31
+    orderIndex: 30
+    osisId: Prov.14.31
+    sblId: Prov 14:31
+    shortName: Прип 14:31
+    text: Хто тисне нужденного, той ображає свого Творця, а хто милостивий до вбогого,
+      той поважає Його.
+  - name: Приповісті 14:32
+    orderIndex: 31
+    osisId: Prov.14.32
+    sblId: Prov 14:32
+    shortName: Прип 14:32
+    text: Безбожний у зло своє падає, а праведний повний надії й при смерті своїй.
+  - name: Приповісті 14:33
+    orderIndex: 32
+    osisId: Prov.14.33
+    sblId: Prov 14:33
+    shortName: Прип 14:33
+    text: Мудрість має спочинок у серці розумного, а що в нутрі безумних, те виявиться.
+  - name: Приповісті 14:34
+    orderIndex: 33
+    osisId: Prov.14.34
+    sblId: Prov 14:34
+    shortName: Прип 14:34
+    text: Праведність люд підіймає, а беззаконня то сором народів.
+  - name: Приповісті 14:35
+    orderIndex: 34
+    osisId: Prov.14.35
+    sblId: Prov 14:35
+    shortName: Прип 14:35
+    text: Ласка царева рабові розумному, гнів же його проти того, хто соромить його.
+  versesCount: 35
+- name: Приповісті 15
+  orderIndex: 14
+  osisId: Prov.15
+  sblId: Prov 15
+  shortName: Прип 15
+  verses:
+  - name: Приповісті 15:1
+    orderIndex: 0
+    osisId: Prov.15.1
+    sblId: Prov 15:1
+    shortName: Прип 15:1
+    text: Лагідна відповідь гнів відвертає, а слово вразливе гнів підіймає.
+  - name: Приповісті 15:2
+    orderIndex: 1
+    osisId: Prov.15.2
+    sblId: Prov 15:2
+    shortName: Прип 15:2
+    text: Язик мудрих то добре знання, а уста нерозумних глупоту висловлюють.
+  - name: Приповісті 15:3
+    orderIndex: 2
+    osisId: Prov.15.3
+    sblId: Prov 15:3
+    shortName: Прип 15:3
+    text: Очі Господні на кожному місці, позирають на злих та на добрих.
+  - name: Приповісті 15:4
+    orderIndex: 3
+    osisId: Prov.15.4
+    sblId: Prov 15:4
+    shortName: Прип 15:4
+    text: Язик лагідний то дерево життя, а лукавство його заламання на дусі.
+  - name: Приповісті 15:5
+    orderIndex: 4
+    osisId: Prov.15.5
+    sblId: Prov 15:5
+    shortName: Прип 15:5
+    text: Зневажає безумний напучення батькове, а хто береже осторогу, стає розумніший.
+  - name: Приповісті 15:6
+    orderIndex: 5
+    osisId: Prov.15.6
+    sblId: Prov 15:6
+    shortName: Прип 15:6
+    text: Дім праведного скарб великий, а в плоді безбожного безлад.
+  - name: Приповісті 15:7
+    orderIndex: 6
+    osisId: Prov.15.7
+    sblId: Prov 15:7
+    shortName: Прип 15:7
+    text: Уста мудрих знання розсівають, а серце безглуздих не так.
+  - name: Приповісті 15:8
+    orderIndex: 7
+    osisId: Prov.15.8
+    sblId: Prov 15:8
+    shortName: Прип 15:8
+    text: Жертва безбожних огида для Господа, а молитва невинних Його уподоба.
+  - name: Приповісті 15:9
+    orderIndex: 8
+    osisId: Prov.15.9
+    sblId: Prov 15:9
+    shortName: Прип 15:9
+    text: Господеві огида дорога безбожного, а того, хто женеться за праведністю,
+      Він кохає.
+  - name: Приповісті 15:10
+    orderIndex: 9
+    osisId: Prov.15.10
+    sblId: Prov 15:10
+    shortName: Прип 15:10
+    text: Люта кара на того, хто путь оставляє, а хто осторогу ненавидить, той умирає.
+  - name: Приповісті 15:11
+    orderIndex: 10
+    osisId: Prov.15.11
+    sblId: Prov 15:11
+    shortName: Прип 15:11
+    text: Шеол й Аваддон перед Господом, тим більше серця синів людських!
+  - name: Приповісті 15:12
+    orderIndex: 11
+    osisId: Prov.15.12
+    sblId: Prov 15:12
+    shortName: Прип 15:12
+    text: Насмішник не любить картання собі, він до мудрих не піде.
+  - name: Приповісті 15:13
+    orderIndex: 12
+    osisId: Prov.15.13
+    sblId: Prov 15:13
+    shortName: Прип 15:13
+    text: Радісне серце лице веселить, а при смутку сердечному дух приголомшений.
+  - name: Приповісті 15:14
+    orderIndex: 13
+    osisId: Prov.15.14
+    sblId: Prov 15:14
+    shortName: Прип 15:14
+    text: Серце розумне шукає знання, а уста безумних глупоту пасуть.
+  - name: Приповісті 15:15
+    orderIndex: 14
+    osisId: Prov.15.15
+    sblId: Prov 15:15
+    shortName: Прип 15:15
+    text: Нужденному всі дні лихі, кому ж добре на серці, у того гостина постійно.
+  - name: Приповісті 15:16
+    orderIndex: 15
+    osisId: Prov.15.16
+    sblId: Prov 15:16
+    shortName: Прип 15:16
+    text: Ліпше мале у Господньому страху, ані ж скарб великий, та тривога при тому.
+  - name: Приповісті 15:17
+    orderIndex: 16
+    osisId: Prov.15.17
+    sblId: Prov 15:17
+    shortName: Прип 15:17
+    text: Ліпша пожива яринна, і при тому любов, аніж тучний віл, та ненависть при
+      тому.
+  - name: Приповісті 15:18
+    orderIndex: 17
+    osisId: Prov.15.18
+    sblId: Prov 15:18
+    shortName: Прип 15:18
+    text: Гнівлива людина роздражнює сварку, терпелива ж у гніві вспокоює заколот.
+  - name: Приповісті 15:19
+    orderIndex: 18
+    osisId: Prov.15.19
+    sblId: Prov 15:19
+    shortName: Прип 15:19
+    text: Дорога лінивого то терновиння, а путь щирих дорога гладка.
+  - name: Приповісті 15:20
+    orderIndex: 19
+    osisId: Prov.15.20
+    sblId: Prov 15:20
+    shortName: Прип 15:20
+    text: Мудрий син тішить батька свого, а людина безумна погорджує матір'ю своєю.
+  - name: Приповісті 15:21
+    orderIndex: 20
+    osisId: Prov.15.21
+    sblId: Prov 15:21
+    shortName: Прип 15:21
+    text: Глупота то радість для нерозумного, а людина розумна дорогою простою ходить.
+  - name: Приповісті 15:22
+    orderIndex: 21
+    osisId: Prov.15.22
+    sblId: Prov 15:22
+    shortName: Прип 15:22
+    text: Ламаються задуми з браку поради, при численності ж радників сповняться.
+  - name: Приповісті 15:23
+    orderIndex: 22
+    osisId: Prov.15.23
+    sblId: Prov 15:23
+    shortName: Прип 15:23
+    text: Радість людині у відповіді його уст, а слово на часі своєму яке воно добре!
+  - name: Приповісті 15:24
+    orderIndex: 23
+    osisId: Prov.15.24
+    sblId: Prov 15:24
+    shortName: Прип 15:24
+    text: Путь життя для премудрого угору, щоб віддалюватись від шеолу внизу.
+  - name: Приповісті 15:25
+    orderIndex: 24
+    osisId: Prov.15.25
+    sblId: Prov 15:25
+    shortName: Прип 15:25
+    text: Дім пишних руйнує Господь, але ставить межу для вдови.
+  - name: Приповісті 15:26
+    orderIndex: 25
+    osisId: Prov.15.26
+    sblId: Prov 15:26
+    shortName: Прип 15:26
+    text: Думки злого огида для Господа, але чисті для Нього приємні слова.
+  - name: Приповісті 15:27
+    orderIndex: 26
+    osisId: Prov.15.27
+    sblId: Prov 15:27
+    shortName: Прип 15:27
+    text: Зажерливий робить нещасним свій дім, хто ж дарунки ненавидить, той буде
+      жити.
+  - name: Приповісті 15:28
+    orderIndex: 27
+    osisId: Prov.15.28
+    sblId: Prov 15:28
+    shortName: Прип 15:28
+    text: Серце праведного розмірковує про відповідь, а уста безбожних вибризкують
+      зло.
+  - name: Приповісті 15:29
+    orderIndex: 28
+    osisId: Prov.15.29
+    sblId: Prov 15:29
+    shortName: Прип 15:29
+    text: Далекий Господь від безбожних, але справедливих молитву Він чує.
+  - name: Приповісті 15:30
+    orderIndex: 29
+    osisId: Prov.15.30
+    sblId: Prov 15:30
+    shortName: Прип 15:30
+    text: Світло очей тішить серце, добра звістка підкріплює кості.
+  - name: Приповісті 15:31
+    orderIndex: 30
+    osisId: Prov.15.31
+    sblId: Prov 15:31
+    shortName: Прип 15:31
+    text: Ухо, що навчання життя вислуховує, буде перебувати між мудрими.
+  - name: Приповісті 15:32
+    orderIndex: 31
+    osisId: Prov.15.32
+    sblId: Prov 15:32
+    shortName: Прип 15:32
+    text: Хто напучування не приймає, той не дбає про душу свою, а хто слухається
+      остороги, здобуде той розум.
+  - name: Приповісті 15:33
+    orderIndex: 32
+    osisId: Prov.15.33
+    sblId: Prov 15:33
+    shortName: Прип 15:33
+    text: Страх Господній навчання премудрости, а перед славою скромність іде.
+  versesCount: 33
+- name: Приповісті 16
+  orderIndex: 15
+  osisId: Prov.16
+  sblId: Prov 16
+  shortName: Прип 16
+  verses:
+  - name: Приповісті 16:1
+    orderIndex: 0
+    osisId: Prov.16.1
+    sblId: Prov 16:1
+    shortName: Прип 16:1
+    text: Заміри серця належать людині, та від Господа відповідь язика.
+  - name: Приповісті 16:2
+    orderIndex: 1
+    osisId: Prov.16.2
+    sblId: Prov 16:2
+    shortName: Прип 16:2
+    text: Всі дороги людини чисті в очах її, та зважує душі Господь.
+  - name: Приповісті 16:3
+    orderIndex: 2
+    osisId: Prov.16.3
+    sblId: Prov 16:3
+    shortName: Прип 16:3
+    text: Поклади свої чини на Господа, і будуть поставлені міцно думки твої.
+  - name: Приповісті 16:4
+    orderIndex: 3
+    osisId: Prov.16.4
+    sblId: Prov 16:4
+    shortName: Прип 16:4
+    text: Все Господь учинив ради цілей Своїх, і безбожного на днину зла.
+  - name: Приповісті 16:5
+    orderIndex: 4
+    osisId: Prov.16.5
+    sblId: Prov 16:5
+    shortName: Прип 16:5
+    text: 'Огида для Господа всякий бундючний, ручуся: не буде такий без вини!'
+  - name: Приповісті 16:6
+    orderIndex: 5
+    osisId: Prov.16.6
+    sblId: Prov 16:6
+    shortName: Прип 16:6
+    text: Провина викуплюється через милість та правду, і страх Господній відводить
+      від злого.
+  - name: Приповісті 16:7
+    orderIndex: 6
+    osisId: Prov.16.7
+    sblId: Prov 16:7
+    shortName: Прип 16:7
+    text: Як дороги людини Господь уподобає, то й її ворогів Він замирює з нею.
+  - name: Приповісті 16:8
+    orderIndex: 7
+    osisId: Prov.16.8
+    sblId: Prov 16:8
+    shortName: Прип 16:8
+    text: Ліпше мале справедливе, аніж великі прибутки з безправ'я.
+  - name: Приповісті 16:9
+    orderIndex: 8
+    osisId: Prov.16.9
+    sblId: Prov 16:9
+    shortName: Прип 16:9
+    text: Розум людини обдумує путь її, але кроки її наставляє Господь.
+  - name: Приповісті 16:10
+    orderIndex: 9
+    osisId: Prov.16.10
+    sblId: Prov 16:10
+    shortName: Прип 16:10
+    text: Вирішальне слово в царя на губах, тому в суді уста його не спроневіряться.
+  - name: Приповісті 16:11
+    orderIndex: 10
+    osisId: Prov.16.11
+    sblId: Prov 16:11
+    shortName: Прип 16:11
+    text: Вага й шальки правдиві від Господа, все каміння вагове в торбинці то діло
+      Його.
+  - name: Приповісті 16:12
+    orderIndex: 11
+    osisId: Prov.16.12
+    sblId: Prov 16:12
+    shortName: Прип 16:12
+    text: Чинити безбожне огида царям, бо трон зміцнюється справедливістю.
+  - name: Приповісті 16:13
+    orderIndex: 12
+    osisId: Prov.16.13
+    sblId: Prov 16:13
+    shortName: Прип 16:13
+    text: Уподоба царям губи праведности, і він любить того, хто правдиве говорить.
+  - name: Приповісті 16:14
+    orderIndex: 13
+    osisId: Prov.16.14
+    sblId: Prov 16:14
+    shortName: Прип 16:14
+    text: Гнів царя вісник смерти, та мудра людина злагіднить його.
+  - name: Приповісті 16:15
+    orderIndex: 14
+    osisId: Prov.16.15
+    sblId: Prov 16:15
+    shortName: Прип 16:15
+    text: У світлі царського обличчя життя, а його уподоба мов хмара дощева весною.
+  - name: Приповісті 16:16
+    orderIndex: 15
+    osisId: Prov.16.16
+    sblId: Prov 16:16
+    shortName: Прип 16:16
+    text: Набування премудрости як же це ліпше від золота, набування ж розуму добірніше
+      від срібла!
+  - name: Приповісті 16:17
+    orderIndex: 16
+    osisId: Prov.16.17
+    sblId: Prov 16:17
+    shortName: Прип 16:17
+    text: Путь справедливих ухилятись від зла; хто дорогу свою береже, той душу свою
+      охоронює.
+  - name: Приповісті 16:18
+    orderIndex: 17
+    osisId: Prov.16.18
+    sblId: Prov 16:18
+    shortName: Прип 16:18
+    text: Перед загибіллю гордість буває, а перед упадком бундючність.
+  - name: Приповісті 16:19
+    orderIndex: 18
+    osisId: Prov.16.19
+    sblId: Prov 16:19
+    shortName: Прип 16:19
+    text: Ліпше бути покірливим із лагідними, ніж здобич ділити з бундючними.
+  - name: Приповісті 16:20
+    orderIndex: 19
+    osisId: Prov.16.20
+    sblId: Prov 16:20
+    shortName: Прип 16:20
+    text: Хто вважає на слово, той знайде добро, хто ж надію складає на Господа буде
+      блаженний.
+  - name: Приповісті 16:21
+    orderIndex: 20
+    osisId: Prov.16.21
+    sblId: Prov 16:21
+    shortName: Прип 16:21
+    text: Мудросердого кличуть розумний, а солодощ уст прибавляє науки.
+  - name: Приповісті 16:22
+    orderIndex: 21
+    osisId: Prov.16.22
+    sblId: Prov 16:22
+    shortName: Прип 16:22
+    text: Розум джерело життя власникові його, а картання безумних глупота.
+  - name: Приповісті 16:23
+    orderIndex: 22
+    osisId: Prov.16.23
+    sblId: Prov 16:23
+    shortName: Прип 16:23
+    text: Серце мудрого чинить розумними уста його, і на уста його прибавляє навчання.
+  - name: Приповісті 16:24
+    orderIndex: 23
+    osisId: Prov.16.24
+    sblId: Prov 16:24
+    shortName: Прип 16:24
+    text: Приємні слова щільниковий то мед, солодкий душі й лік на кості.
+  - name: Приповісті 16:25
+    orderIndex: 24
+    osisId: Prov.16.25
+    sblId: Prov 16:25
+    shortName: Прип 16:25
+    text: Буває, дорога людині здається простою, та кінець її стежка до смерти.
+  - name: Приповісті 16:26
+    orderIndex: 25
+    osisId: Prov.16.26
+    sblId: Prov 16:26
+    shortName: Прип 16:26
+    text: Людина трудяща працює для себе, бо до того примушує рот її.
+  - name: Приповісті 16:27
+    orderIndex: 26
+    osisId: Prov.16.27
+    sblId: Prov 16:27
+    shortName: Прип 16:27
+    text: Нікчемна людина копає лихе, а на устах її як палючий огонь.
+  - name: Приповісті 16:28
+    orderIndex: 27
+    osisId: Prov.16.28
+    sblId: Prov 16:28
+    shortName: Прип 16:28
+    text: Лукава людина сварки розсіває, а обмовник розділює друзів.
+  - name: Приповісті 16:29
+    orderIndex: 28
+    osisId: Prov.16.29
+    sblId: Prov 16:29
+    shortName: Прип 16:29
+    text: Насильник підмовлює друга свого, і провадить його по недобрій дорозі.
+  - name: Приповісті 16:30
+    orderIndex: 29
+    osisId: Prov.16.30
+    sblId: Prov 16:30
+    shortName: Прип 16:30
+    text: Хто прижмурює очі свої, той крутійства видумує, хто губами знаки подає,
+      той виконує зло.
+  - name: Приповісті 16:31
+    orderIndex: 30
+    osisId: Prov.16.31
+    sblId: Prov 16:31
+    shortName: Прип 16:31
+    text: Сивизна то пишна корона, знаходять її на дорозі праведности.
+  - name: Приповісті 16:32
+    orderIndex: 31
+    osisId: Prov.16.32
+    sblId: Prov 16:32
+    shortName: Прип 16:32
+    text: Ліпший від силача, хто не скорий до гніву, хто ж панує над собою самим,
+      ліпший від завойовника міста.
+  - name: Приповісті 16:33
+    orderIndex: 32
+    osisId: Prov.16.33
+    sblId: Prov 16:33
+    shortName: Прип 16:33
+    text: За пазуху жереб вкладається, та ввесь його вирок від Господа.
+  versesCount: 33
+- name: Приповісті 17
+  orderIndex: 16
+  osisId: Prov.17
+  sblId: Prov 17
+  shortName: Прип 17
+  verses:
+  - name: Приповісті 17:1
+    orderIndex: 0
+    osisId: Prov.17.1
+    sblId: Prov 17:1
+    shortName: Прип 17:1
+    text: Ліпший черствий кусок зо спокоєм, ніж дім, повний учти м'ясної зо сваркою.
+  - name: Приповісті 17:2
+    orderIndex: 1
+    osisId: Prov.17.2
+    sblId: Prov 17:2
+    shortName: Прип 17:2
+    text: Раб розумний панує над сином безпутнім, і серед братів він поділить спадок.
+  - name: Приповісті 17:3
+    orderIndex: 2
+    osisId: Prov.17.3
+    sblId: Prov 17:3
+    shortName: Прип 17:3
+    text: Для срібла топильна посудина, а горно для золота, Господь же серця випробовує.
+  - name: Приповісті 17:4
+    orderIndex: 3
+    osisId: Prov.17.4
+    sblId: Prov 17:4
+    shortName: Прип 17:4
+    text: Лиходій слухається уст безбожних, слухає неправдомов язика лиходійного.
+  - name: Приповісті 17:5
+    orderIndex: 4
+    osisId: Prov.17.5
+    sblId: Prov 17:5
+    shortName: Прип 17:5
+    text: Хто сміється з убогого, той ображає свого Творця, хто радіє з нещастя, не
+      буде такий без вини.
+  - name: Приповісті 17:6
+    orderIndex: 5
+    osisId: Prov.17.6
+    sblId: Prov 17:6
+    shortName: Прип 17:6
+    text: Корона для старших онуки, а пишнота дітей їхні батьки.
+  - name: Приповісті 17:7
+    orderIndex: 6
+    osisId: Prov.17.7
+    sblId: Prov 17:7
+    shortName: Прип 17:7
+    text: Не пристойна безумному мова поважна, а тим більше шляхетному мова брехлива.
+  - name: Приповісті 17:8
+    orderIndex: 7
+    osisId: Prov.17.8
+    sblId: Prov 17:8
+    shortName: Прип 17:8
+    text: 'Хабар в очах його власника самоцвіт: до всього, до чого повернеться, буде
+      щастити йому.'
+  - name: Приповісті 17:9
+    orderIndex: 8
+    osisId: Prov.17.9
+    sblId: Prov 17:9
+    shortName: Прип 17:9
+    text: Хто шукає любови провину ховає, хто ж про неї повторює, розгонює друзів.
+  - name: Приповісті 17:10
+    orderIndex: 9
+    osisId: Prov.17.10
+    sblId: Prov 17:10
+    shortName: Прип 17:10
+    text: На розумного більше впливає одне остереження, як на глупака сто ударів.
+  - name: Приповісті 17:11
+    orderIndex: 10
+    osisId: Prov.17.11
+    sblId: Prov 17:11
+    shortName: Прип 17:11
+    text: Злий шукає лише неслухняности, та вісник жорстокий на нього пошлеться.
+  - name: Приповісті 17:12
+    orderIndex: 11
+    osisId: Prov.17.12
+    sblId: Prov 17:12
+    shortName: Прип 17:12
+    text: Ліпше спіткати обездітнену ведмедицю, що кидається на людину, аніж нерозумного
+      в глупоті його.
+  - name: Приповісті 17:13
+    orderIndex: 12
+    osisId: Prov.17.13
+    sblId: Prov 17:13
+    shortName: Прип 17:13
+    text: Хто відплачує злом за добро, не відступить лихе з його дому.
+  - name: Приповісті 17:14
+    orderIndex: 13
+    osisId: Prov.17.14
+    sblId: Prov 17:14
+    shortName: Прип 17:14
+    text: Почин сварки то прорив води, тому перед вибухом сварки покинь ти її!
+  - name: Приповісті 17:15
+    orderIndex: 14
+    osisId: Prov.17.15
+    sblId: Prov 17:15
+    shortName: Прип 17:15
+    text: Хто оправдує несправедливого, і хто засуджує праведного, обидва вони Господеві
+      огидні.
+  - name: Приповісті 17:16
+    orderIndex: 15
+    osisId: Prov.17.16
+    sblId: Prov 17:16
+    shortName: Прип 17:16
+    text: Нащо ті гроші в руці нерозумного, щоб мудрість купити, як мозку нема?
+  - name: Приповісті 17:17
+    orderIndex: 16
+    osisId: Prov.17.17
+    sblId: Prov 17:17
+    shortName: Прип 17:17
+    text: Правдивий друг любить за всякого часу, в недолі ж він робиться братом.
+  - name: Приповісті 17:18
+    orderIndex: 17
+    osisId: Prov.17.18
+    sblId: Prov 17:18
+    shortName: Прип 17:18
+    text: Людина, позбавлена розуму, ручиться, поруку дає за друга свого.
+  - name: Приповісті 17:19
+    orderIndex: 18
+    osisId: Prov.17.19
+    sblId: Prov 17:19
+    shortName: Прип 17:19
+    text: Хто сварку кохає, той любить гріх; хто ж підвищує уста свої, той шукає нещастя.
+  - name: Приповісті 17:20
+    orderIndex: 19
+    osisId: Prov.17.20
+    sblId: Prov 17:20
+    shortName: Прип 17:20
+    text: Людина лукавого серця не знайде добра, хто ж лукавить своїм язиком, упаде
+      в зло.
+  - name: Приповісті 17:21
+    orderIndex: 20
+    osisId: Prov.17.21
+    sblId: Prov 17:21
+    shortName: Прип 17:21
+    text: Хто родить безумного, родить на смуток собі, і не потішиться батько безглуздого.
+  - name: Приповісті 17:22
+    orderIndex: 21
+    osisId: Prov.17.22
+    sblId: Prov 17:22
+    shortName: Прип 17:22
+    text: Серце радісне добре лікує, а пригноблений дух сушить кості.
+  - name: Приповісті 17:23
+    orderIndex: 22
+    osisId: Prov.17.23
+    sblId: Prov 17:23
+    shortName: Прип 17:23
+    text: Безбожний таємно бере хабара, щоб зігнути путі правосуддя.
+  - name: Приповісті 17:24
+    orderIndex: 23
+    osisId: Prov.17.24
+    sblId: Prov 17:24
+    shortName: Прип 17:24
+    text: З обличчям розумного мудрість, а очі глупця аж на кінці землі.
+  - name: Приповісті 17:25
+    orderIndex: 24
+    osisId: Prov.17.25
+    sblId: Prov 17:25
+    shortName: Прип 17:25
+    text: Нерозумний син смуток для батька, для своєї ж родительки гіркість.
+  - name: Приповісті 17:26
+    orderIndex: 25
+    osisId: Prov.17.26
+    sblId: Prov 17:26
+    shortName: Прип 17:26
+    text: Не добре карати справедливого, бити шляхетних за щирість!
+  - name: Приповісті 17:27
+    orderIndex: 26
+    osisId: Prov.17.27
+    sblId: Prov 17:27
+    shortName: Прип 17:27
+    text: Хто слова свої стримує, той знає пізнання, і холоднокровний розумна людина.
+  - name: Приповісті 17:28
+    orderIndex: 27
+    osisId: Prov.17.28
+    sblId: Prov 17:28
+    shortName: Прип 17:28
+    text: І глупак, як мовчить, уважається мудрим, а як уста свої закриває розумним.
+  versesCount: 28
+- name: Приповісті 18
+  orderIndex: 17
+  osisId: Prov.18
+  sblId: Prov 18
+  shortName: Прип 18
+  verses:
+  - name: Приповісті 18:1
+    orderIndex: 0
+    osisId: Prov.18.1
+    sblId: Prov 18:1
+    shortName: Прип 18:1
+    text: Примхливий шукає сваволі, стає проти всього розумного.
+  - name: Приповісті 18:2
+    orderIndex: 1
+    osisId: Prov.18.2
+    sblId: Prov 18:2
+    shortName: Прип 18:2
+    text: Нерозумний не хоче навчатися, а тільки свій ум показати.
+  - name: Приповісті 18:3
+    orderIndex: 2
+    osisId: Prov.18.3
+    sblId: Prov 18:3
+    shortName: Прип 18:3
+    text: З приходом безбожного й ганьба приходить, а з легковаженням сором.
+  - name: Приповісті 18:4
+    orderIndex: 3
+    osisId: Prov.18.4
+    sblId: Prov 18:4
+    shortName: Прип 18:4
+    text: Слова уст людини глибока вода, джерело премудрости бризкотливий потік.
+  - name: Приповісті 18:5
+    orderIndex: 4
+    osisId: Prov.18.5
+    sblId: Prov 18:5
+    shortName: Прип 18:5
+    text: Не добре вважати на обличчя безбожного, щоб праведного повалити на суді.
+  - name: Приповісті 18:6
+    orderIndex: 5
+    osisId: Prov.18.6
+    sblId: Prov 18:6
+    shortName: Прип 18:6
+    text: Уста нерозумного тягнуть до сварки, а слова його кличуть бійки.
+  - name: Приповісті 18:7
+    orderIndex: 6
+    osisId: Prov.18.7
+    sblId: Prov 18:7
+    shortName: Прип 18:7
+    text: Язик нерозумного загибіль для нього, а уста його то тенета на душу його.
+  - name: Приповісті 18:8
+    orderIndex: 7
+    osisId: Prov.18.8
+    sblId: Prov 18:8
+    shortName: Прип 18:8
+    text: Слова обмовника мов ті присмаки, і вони сходять у нутро утроби.
+  - name: Приповісті 18:9
+    orderIndex: 8
+    osisId: Prov.18.9
+    sblId: Prov 18:9
+    shortName: Прип 18:9
+    text: Теж недбалий у праці своїй то брат марнотратнику.
+  - name: Приповісті 18:10
+    orderIndex: 9
+    osisId: Prov.18.10
+    sblId: Prov 18:10
+    shortName: Прип 18:10
+    text: 'Господнє Ім''я сильна башта: до неї втече справедливий і буде безпечний.'
+  - name: Приповісті 18:11
+    orderIndex: 10
+    osisId: Prov.18.11
+    sblId: Prov 18:11
+    shortName: Прип 18:11
+    text: Маєток багатому місто твердинне його, і немов міцний мур ув уяві його.
+  - name: Приповісті 18:12
+    orderIndex: 11
+    osisId: Prov.18.12
+    sblId: Prov 18:12
+    shortName: Прип 18:12
+    text: Перед загибіллю серце людини високо несеться, перед славою ж скромність.
+  - name: Приповісті 18:13
+    orderIndex: 12
+    osisId: Prov.18.13
+    sblId: Prov 18:13
+    shortName: Прип 18:13
+    text: Хто відповідає на слово, ще поки почув, то глупота та сором йому!
+  - name: Приповісті 18:14
+    orderIndex: 13
+    osisId: Prov.18.14
+    sblId: Prov 18:14
+    shortName: Прип 18:14
+    text: Дух дійсного мужа виносить терпіння своє, а духа прибитого хто піднесе?
+  - name: Приповісті 18:15
+    orderIndex: 14
+    osisId: Prov.18.15
+    sblId: Prov 18:15
+    shortName: Прип 18:15
+    text: Серце розумне знання набуває, і вухо премудрих шукає знання.
+  - name: Приповісті 18:16
+    orderIndex: 15
+    osisId: Prov.18.16
+    sblId: Prov 18:16
+    shortName: Прип 18:16
+    text: Дарунок людини виводить із утиску, і провадить її до великих людей.
+  - name: Приповісті 18:17
+    orderIndex: 16
+    osisId: Prov.18.17
+    sblId: Prov 18:17
+    shortName: Прип 18:17
+    text: Перший у сварці своїй уважає себе справедливим, але прийде противник його
+      та й дослідить його.
+  - name: Приповісті 18:18
+    orderIndex: 17
+    osisId: Prov.18.18
+    sblId: Prov 18:18
+    shortName: Прип 18:18
+    text: Жереб перериває сварки, та відділює сильних один від одного.
+  - name: Приповісті 18:19
+    orderIndex: 18
+    osisId: Prov.18.19
+    sblId: Prov 18:19
+    shortName: Прип 18:19
+    text: Розлючений брат протиставиться більше за місто твердинне, а сварки, немов
+      засуви замку.
+  - name: Приповісті 18:20
+    orderIndex: 19
+    osisId: Prov.18.20
+    sblId: Prov 18:20
+    shortName: Прип 18:20
+    text: Із плоду уст людини насичується її шлунок, вона насичується плодом уст своїх.
+  - name: Приповісті 18:21
+    orderIndex: 20
+    osisId: Prov.18.21
+    sblId: Prov 18:21
+    shortName: Прип 18:21
+    text: Смерть та життя у владі язика, хто ж кохає його, його плід поїдає.
+  - name: Приповісті 18:22
+    orderIndex: 21
+    osisId: Prov.18.22
+    sblId: Prov 18:22
+    shortName: Прип 18:22
+    text: Хто жінку чеснотну знайшов, знайшов той добро, і милість отримав від Господа.
+  - name: Приповісті 18:23
+    orderIndex: 22
+    osisId: Prov.18.23
+    sblId: Prov 18:23
+    shortName: Прип 18:23
+    text: Убогий говорить благально, багатий же відповідає зухвало.
+  - name: Приповісті 18:24
+    orderIndex: 23
+    osisId: Prov.18.24
+    sblId: Prov 18:24
+    shortName: Прип 18:24
+    text: Є товариші на розбиття, та є й приятель, більше від брата прив'язаний.
+  versesCount: 24
+- name: Приповісті 19
+  orderIndex: 18
+  osisId: Prov.19
+  sblId: Prov 19
+  shortName: Прип 19
+  verses:
+  - name: Приповісті 19:1
+    orderIndex: 0
+    osisId: Prov.19.1
+    sblId: Prov 19:1
+    shortName: Прип 19:1
+    text: Ліпший убогий, що ходить в своїй неповинності, ніж лукавий устами та нерозумний.
+  - name: Приповісті 19:2
+    orderIndex: 1
+    osisId: Prov.19.2
+    sblId: Prov 19:2
+    shortName: Прип 19:2
+    text: Теж не добра душа без знання, а хто наглить ногами, спіткнеться.
+  - name: Приповісті 19:3
+    orderIndex: 2
+    osisId: Prov.19.3
+    sblId: Prov 19:3
+    shortName: Прип 19:3
+    text: Глупота людини дорогу її викривляє, і на Господа гнівається її серце.
+  - name: Приповісті 19:4
+    orderIndex: 3
+    osisId: Prov.19.4
+    sblId: Prov 19:4
+    shortName: Прип 19:4
+    text: Маєток примножує друзів численних, а від бідака відпадає й товариш його...
+  - name: Приповісті 19:5
+    orderIndex: 4
+    osisId: Prov.19.5
+    sblId: Prov 19:5
+    shortName: Прип 19:5
+    text: Свідок брехливий не буде без кари, а хто брехні говорить, не буде врятований.
+  - name: Приповісті 19:6
+    orderIndex: 5
+    osisId: Prov.19.6
+    sblId: Prov 19:6
+    shortName: Прип 19:6
+    text: Багато-хто годять тому, хто гостинці дає, і кожен товариш людині, яка не
+      скупиться на дари.
+  - name: Приповісті 19:7
+    orderIndex: 6
+    osisId: Prov.19.7
+    sblId: Prov 19:7
+    shortName: Прип 19:7
+    text: Бідаря ненавидять всі браття його, а тимбільш його приятелі відпадають від
+      нього; а коли за словами поради женеться, нема їх!
+  - name: Приповісті 19:8
+    orderIndex: 7
+    osisId: Prov.19.8
+    sblId: Prov 19:8
+    shortName: Прип 19:8
+    text: Хто ума набуває, кохає той душу свою, а хто розум стереже, той знаходить
+      добро.
+  - name: Приповісті 19:9
+    orderIndex: 8
+    osisId: Prov.19.9
+    sblId: Prov 19:9
+    shortName: Прип 19:9
+    text: Свідок брехливий не буде без кари, хто ж неправду говорить, загине.
+  - name: Приповісті 19:10
+    orderIndex: 9
+    osisId: Prov.19.10
+    sblId: Prov 19:10
+    shortName: Прип 19:10
+    text: Не лицює пишнота безумному, тим більше рабові панувати над зверхником.
+  - name: Приповісті 19:11
+    orderIndex: 10
+    osisId: Prov.19.11
+    sblId: Prov 19:11
+    shortName: Прип 19:11
+    text: Розум людини припинює гнів її, а величність її перейти над провиною.
+  - name: Приповісті 19:12
+    orderIndex: 11
+    osisId: Prov.19.12
+    sblId: Prov 19:12
+    shortName: Прип 19:12
+    text: Гнів царя немов рик левчука, а ласкавість його як роса на траву.
+  - name: Приповісті 19:13
+    orderIndex: 12
+    osisId: Prov.19.13
+    sblId: Prov 19:13
+    shortName: Прип 19:13
+    text: Син безумний погибіль для батька свого, а жінка сварлива як ринва, що з
+      неї вода тече завжди.
+  - name: Приповісті 19:14
+    orderIndex: 13
+    osisId: Prov.19.14
+    sblId: Prov 19:14
+    shortName: Прип 19:14
+    text: Хата й маєток спадщина батьків, а жінка розумна від Господа.
+  - name: Приповісті 19:15
+    orderIndex: 14
+    osisId: Prov.19.15
+    sblId: Prov 19:15
+    shortName: Прип 19:15
+    text: Лінощі сон накидають, і лінива душа голодує.
+  - name: Приповісті 19:16
+    orderIndex: 15
+    osisId: Prov.19.16
+    sblId: Prov 19:16
+    shortName: Прип 19:16
+    text: Хто заповідь охороняє, той душу свою стереже; хто дороги свої легковажить,
+      помре.
+  - name: Приповісті 19:17
+    orderIndex: 16
+    osisId: Prov.19.17
+    sblId: Prov 19:17
+    shortName: Прип 19:17
+    text: Хто милостивий до вбогого, той позичає для Господа, і чин його Він надолужить
+      йому.
+  - name: Приповісті 19:18
+    orderIndex: 17
+    osisId: Prov.19.18
+    sblId: Prov 19:18
+    shortName: Прип 19:18
+    text: Картай свого сина, коли є надія навчити, та забити його не піднось свою
+      душу.
+  - name: Приповісті 19:19
+    orderIndex: 18
+    osisId: Prov.19.19
+    sblId: Prov 19:19
+    shortName: Прип 19:19
+    text: Людина великого гніву хай кару несе, бо якщо ти врятуєш її, то вчиниш ще
+      гірше.
+  - name: Приповісті 19:20
+    orderIndex: 19
+    osisId: Prov.19.20
+    sblId: Prov 19:20
+    shortName: Прип 19:20
+    text: Слухай ради й картання приймай, щоб мудрим ти став при своєму кінці.
+  - name: Приповісті 19:21
+    orderIndex: 20
+    osisId: Prov.19.21
+    sblId: Prov 19:21
+    shortName: Прип 19:21
+    text: У серці людини багато думок, але виповниться тільки задум Господній.
+  - name: Приповісті 19:22
+    orderIndex: 21
+    osisId: Prov.19.22
+    sblId: Prov 19:22
+    shortName: Прип 19:22
+    text: Здобуток людині то милість її, але ліпший бідар за людину брехливу.
+  - name: Приповісті 19:23
+    orderIndex: 22
+    osisId: Prov.19.23
+    sblId: Prov 19:23
+    shortName: Прип 19:23
+    text: Страх Господній веде до життя, і хто його має, той ситим ночує, і зло не
+      досягне його.
+  - name: Приповісті 19:24
+    orderIndex: 23
+    osisId: Prov.19.24
+    sblId: Prov 19:24
+    shortName: Прип 19:24
+    text: У миску стромляє лінюх свою руку, до уст же своїх не підійме її.
+  - name: Приповісті 19:25
+    orderIndex: 24
+    osisId: Prov.19.25
+    sblId: Prov 19:25
+    shortName: Прип 19:25
+    text: Як битимеш нерозважного, то помудріє й немудрий, а будеш розумного остерігати,
+      то він зрозуміє поуку.
+  - name: Приповісті 19:26
+    orderIndex: 25
+    osisId: Prov.19.26
+    sblId: Prov 19:26
+    shortName: Прип 19:26
+    text: Хто батька грабує, хто матір жене? Це син, що застиджує та осоромлює,
+  - name: Приповісті 19:27
+    orderIndex: 26
+    osisId: Prov.19.27
+    sblId: Prov 19:27
+    shortName: Прип 19:27
+    text: перестань же, мій сину, навчатися від нерозумних, щоб відступитися від слів
+      знання!
+  - name: Приповісті 19:28
+    orderIndex: 27
+    osisId: Prov.19.28
+    sblId: Prov 19:28
+    shortName: Прип 19:28
+    text: Свідок нікчемний висміює суд, а уста безбожних вибризкують кривду.
+  - name: Приповісті 19:29
+    orderIndex: 28
+    osisId: Prov.19.29
+    sblId: Prov 19:29
+    shortName: Прип 19:29
+    text: На насмішників кари готові постійно, і вдари на спину безумним.
+  versesCount: 29
+- name: Приповісті 20
+  orderIndex: 19
+  osisId: Prov.20
+  sblId: Prov 20
+  shortName: Прип 20
+  verses:
+  - name: Приповісті 20:1
+    orderIndex: 0
+    osisId: Prov.20.1
+    sblId: Prov 20:1
+    shortName: Прип 20:1
+    text: Вино то насмішник, напій п'янкий галасун, і кожен, хто блудить у ньому,
+      немудрий.
+  - name: Приповісті 20:2
+    orderIndex: 1
+    osisId: Prov.20.2
+    sblId: Prov 20:2
+    shortName: Прип 20:2
+    text: Страх царя як рик лева; хто до гніву доводить його, проти свого життя прогрішає.
+  - name: Приповісті 20:3
+    orderIndex: 2
+    osisId: Prov.20.3
+    sblId: Prov 20:3
+    shortName: Прип 20:3
+    text: Слава людині, що гнів покидає, а кожен глупак вибухає.
+  - name: Приповісті 20:4
+    orderIndex: 3
+    osisId: Prov.20.4
+    sblId: Prov 20:4
+    shortName: Прип 20:4
+    text: Лінивий не оре із осени, а захоче в жнива і нічого нема.
+  - name: Приповісті 20:5
+    orderIndex: 4
+    osisId: Prov.20.5
+    sblId: Prov 20:5
+    shortName: Прип 20:5
+    text: Рада в серці людини глибока вода, і розумна людина її повичерпує.
+  - name: Приповісті 20:6
+    orderIndex: 5
+    osisId: Prov.20.6
+    sblId: Prov 20:6
+    shortName: Прип 20:6
+    text: Багато людей себе звуть милосердними, та вірну людину хто знайде?
+  - name: Приповісті 20:7
+    orderIndex: 6
+    osisId: Prov.20.7
+    sblId: Prov 20:7
+    shortName: Прип 20:7
+    text: У своїй неповинності праведний ходить, блаженні по ньому сини його!
+  - name: Приповісті 20:8
+    orderIndex: 7
+    osisId: Prov.20.8
+    sblId: Prov 20:8
+    shortName: Прип 20:8
+    text: Цар сидить на суддевім престолі, всяке зло розганяє своїми очима.
+  - name: Приповісті 20:9
+    orderIndex: 8
+    osisId: Prov.20.9
+    sblId: Prov 20:9
+    shortName: Прип 20:9
+    text: 'Хто скаже: Очистив я серце своє, очистився я від свого гріха?'
+  - name: Приповісті 20:10
+    orderIndex: 9
+    osisId: Prov.20.10
+    sblId: Prov 20:10
+    shortName: Прип 20:10
+    text: Вага неоднакова, неоднакова міра, обоє вони то огида для Господа.
+  - name: Приповісті 20:11
+    orderIndex: 10
+    osisId: Prov.20.11
+    sblId: Prov 20:11
+    shortName: Прип 20:11
+    text: Навіть юнак буде пізнаний з чинів своїх, чи чин його чистий й чи простий.
+  - name: Приповісті 20:12
+    orderIndex: 11
+    osisId: Prov.20.12
+    sblId: Prov 20:12
+    shortName: Прип 20:12
+    text: Ухо, що слухає, й око, що бачить, Господь учинив їх обоє.
+  - name: Приповісті 20:13
+    orderIndex: 12
+    osisId: Prov.20.13
+    sblId: Prov 20:13
+    shortName: Прип 20:13
+    text: Не кохайся в спанні, щоб не збідніти; розплющ свої очі та хлібом наситься!
+  - name: Приповісті 20:14
+    orderIndex: 13
+    osisId: Prov.20.14
+    sblId: Prov 20:14
+    shortName: Прип 20:14
+    text: Зле, зле! каже той, хто купує, а як піде собі, тоді хвалиться купном.
+  - name: Приповісті 20:15
+    orderIndex: 14
+    osisId: Prov.20.15
+    sblId: Prov 20:15
+    shortName: Прип 20:15
+    text: Є золото й перел багато, та розумні уста найцінніший то посуд.
+  - name: Приповісті 20:16
+    orderIndex: 15
+    osisId: Prov.20.16
+    sblId: Prov 20:16
+    shortName: Прип 20:16
+    text: Візьми його одіж, бо він поручивсь за чужого, і за чужинку візьми його застав.
+  - name: Приповісті 20:17
+    orderIndex: 16
+    osisId: Prov.20.17
+    sblId: Prov 20:17
+    shortName: Прип 20:17
+    text: Хліб з неправди солодкий людині, та піском потім будуть наповнені уста її.
+  - name: Приповісті 20:18
+    orderIndex: 17
+    osisId: Prov.20.18
+    sblId: Prov 20:18
+    shortName: Прип 20:18
+    text: Тримаються заміри радою, і війну провадь мудрими радами.
+  - name: Приповісті 20:19
+    orderIndex: 18
+    osisId: Prov.20.19
+    sblId: Prov 20:19
+    shortName: Прип 20:19
+    text: Виявляє обмовник таємне, а ти не втручайся до того, легко хто розтулює уста
+      свої.
+  - name: Приповісті 20:20
+    orderIndex: 19
+    osisId: Prov.20.20
+    sblId: Prov 20:20
+    shortName: Прип 20:20
+    text: Хто кляне свого батька та матір свою, погасне світильник йому серед темряви!
+  - name: Приповісті 20:21
+    orderIndex: 20
+    osisId: Prov.20.21
+    sblId: Prov 20:21
+    shortName: Прип 20:21
+    text: Спадок спочатку заскоро набутий, не буде кінець його поблагословлений!
+  - name: Приповісті 20:22
+    orderIndex: 21
+    osisId: Prov.20.22
+    sblId: Prov 20:22
+    shortName: Прип 20:22
+    text: 'Не кажи: Надолужу я зло! май надію на Господа, і Він допоможе тобі.'
+  - name: Приповісті 20:23
+    orderIndex: 22
+    osisId: Prov.20.23
+    sblId: Prov 20:23
+    shortName: Прип 20:23
+    text: Вага неоднакова то огида для Господа, а оманливі шальки не добрі.
+  - name: Приповісті 20:24
+    orderIndex: 23
+    osisId: Prov.20.24
+    sblId: Prov 20:24
+    shortName: Прип 20:24
+    text: Від Господа кроки людини, а людина як вона зрозуміє дорогу свою?
+  - name: Приповісті 20:25
+    orderIndex: 24
+    osisId: Prov.20.25
+    sblId: Prov 20:25
+    shortName: Прип 20:25
+    text: Тенета людині казати святе нерозважно, а згодом свої обітниці досліджувати.
+  - name: Приповісті 20:26
+    orderIndex: 25
+    osisId: Prov.20.26
+    sblId: Prov 20:26
+    shortName: Прип 20:26
+    text: Мудрий цар розпорошить безбожних, і зверне на них своє коло для мук.
+  - name: Приповісті 20:27
+    orderIndex: 26
+    osisId: Prov.20.27
+    sblId: Prov 20:27
+    shortName: Прип 20:27
+    text: Дух людини світильник Господній, що все нутро обшукує.
+  - name: Приповісті 20:28
+    orderIndex: 27
+    osisId: Prov.20.28
+    sblId: Prov 20:28
+    shortName: Прип 20:28
+    text: Милість та правда царя стережуть, і трона свого він підтримує милістю.
+  - name: Приповісті 20:29
+    orderIndex: 28
+    osisId: Prov.20.29
+    sblId: Prov 20:29
+    shortName: Прип 20:29
+    text: Окраса юнацтва їхня сила, а пишність старих сивина.
+  - name: Приповісті 20:30
+    orderIndex: 29
+    osisId: Prov.20.30
+    sblId: Prov 20:30
+    shortName: Прип 20:30
+    text: Синяки від побоїв то масть лікувальна на злого, та вдари нутру живота.
+  versesCount: 30
+- name: Приповісті 21
+  orderIndex: 20
+  osisId: Prov.21
+  sblId: Prov 21
+  shortName: Прип 21
+  verses:
+  - name: Приповісті 21:1
+    orderIndex: 0
+    osisId: Prov.21.1
+    sblId: Prov 21:1
+    shortName: Прип 21:1
+    text: 'Водні потоки цареве це серце в Господній руці: куди тільки захоче, його
+      Він скеровує.'
+  - name: Приповісті 21:2
+    orderIndex: 1
+    osisId: Prov.21.2
+    sblId: Prov 21:2
+    shortName: Прип 21:2
+    text: Всяка дорога людини пряма в її очах, та керує серцями Господь.
+  - name: Приповісті 21:3
+    orderIndex: 2
+    osisId: Prov.21.3
+    sblId: Prov 21:3
+    shortName: Прип 21:3
+    text: Справедливість та правду чинити для Господа це добірніше за жертву.
+  - name: Приповісті 21:4
+    orderIndex: 3
+    osisId: Prov.21.4
+    sblId: Prov 21:4
+    shortName: Прип 21:4
+    text: Муж гордого ока та серця надутого несправедливий, а світильник безбожних
+      це гріх.
+  - name: Приповісті 21:5
+    orderIndex: 4
+    osisId: Prov.21.5
+    sblId: Prov 21:5
+    shortName: Прип 21:5
+    text: Думки пильного лиш на достаток ведуть, а всякий квапливий на збиток.
+  - name: Приповісті 21:6
+    orderIndex: 5
+    osisId: Prov.21.6
+    sblId: Prov 21:6
+    shortName: Прип 21:6
+    text: Набування майна язиком неправдивим це скороминуща марнота шукаючих смерти.
+  - name: Приповісті 21:7
+    orderIndex: 6
+    osisId: Prov.21.7
+    sblId: Prov 21:7
+    shortName: Прип 21:7
+    text: Насильство безбожних прямує на них, бо права чинити не хочуть.
+  - name: Приповісті 21:8
+    orderIndex: 7
+    osisId: Prov.21.8
+    sblId: Prov 21:8
+    shortName: Прип 21:8
+    text: Дорога злочинця крута, а чистий прямий його чин.
+  - name: Приповісті 21:9
+    orderIndex: 8
+    osisId: Prov.21.9
+    sblId: Prov 21:9
+    shortName: Прип 21:9
+    text: Ліпше жити в куті на даху, ніж з сварливою жінкою в спільному домі.
+  - name: Приповісті 21:10
+    orderIndex: 9
+    osisId: Prov.21.10
+    sblId: Prov 21:10
+    shortName: Прип 21:10
+    text: Лихого жадає душа нечестивого, і в очах його ближній його не отримає милости.
+  - name: Приповісті 21:11
+    orderIndex: 10
+    osisId: Prov.21.11
+    sblId: Prov 21:11
+    shortName: Прип 21:11
+    text: Як карають глумливця мудріє безумний, а як мудрого вчать, знання набуває.
+  - name: Приповісті 21:12
+    orderIndex: 11
+    osisId: Prov.21.12
+    sblId: Prov 21:12
+    shortName: Прип 21:12
+    text: До дому свого приглядається праведний, а безбожний доводить до зла.
+  - name: Приповісті 21:13
+    orderIndex: 12
+    osisId: Prov.21.13
+    sblId: Prov 21:13
+    shortName: Прип 21:13
+    text: Хто вухо своє затикає від зойку убогого, то й він буде кликати, та не отримає
+      відповіді.
+  - name: Приповісті 21:14
+    orderIndex: 13
+    osisId: Prov.21.14
+    sblId: Prov 21:14
+    shortName: Прип 21:14
+    text: Таємний дарунок погашує гнів, а неявний гостинець лють сильну.
+  - name: Приповісті 21:15
+    orderIndex: 14
+    osisId: Prov.21.15
+    sblId: Prov 21:15
+    shortName: Прип 21:15
+    text: Радість праведному правосуддя чинити, а злочинцеві страх.
+  - name: Приповісті 21:16
+    orderIndex: 15
+    osisId: Prov.21.16
+    sblId: Prov 21:16
+    shortName: Прип 21:16
+    text: Людина, що зблуджує від путі розуму, у зборі померлих спочине.
+  - name: Приповісті 21:17
+    orderIndex: 16
+    osisId: Prov.21.17
+    sblId: Prov 21:17
+    shortName: Прип 21:17
+    text: Хто любить веселощі, той немаючий, хто любить вино та оливу, той не збагатіє.
+  - name: Приповісті 21:18
+    orderIndex: 17
+    osisId: Prov.21.18
+    sblId: Prov 21:18
+    shortName: Прип 21:18
+    text: Безбожний то викуп за праведного, а лукавий за щирого.
+  - name: Приповісті 21:19
+    orderIndex: 18
+    osisId: Prov.21.19
+    sblId: Prov 21:19
+    shortName: Прип 21:19
+    text: Ліпше сидіти в пустинній країні, ніж з сварливою та сердитою жінкою.
+  - name: Приповісті 21:20
+    orderIndex: 19
+    osisId: Prov.21.20
+    sblId: Prov 21:20
+    shortName: Прип 21:20
+    text: Скарб цінний та олива в мешканні премудрого, та нищить безумна людина його.
+  - name: Приповісті 21:21
+    orderIndex: 20
+    osisId: Prov.21.21
+    sblId: Prov 21:21
+    shortName: Прип 21:21
+    text: Хто женеться за праведністю та за милістю, той знаходить життя, справедливість
+      та славу.
+  - name: Приповісті 21:22
+    orderIndex: 21
+    osisId: Prov.21.22
+    sblId: Prov 21:22
+    shortName: Прип 21:22
+    text: До міста хоробрих увійде премудрий, і твердиню надії його поруйнує.
+  - name: Приповісті 21:23
+    orderIndex: 22
+    osisId: Prov.21.23
+    sblId: Prov 21:23
+    shortName: Прип 21:23
+    text: Хто стереже свої уста й свого язика, той душу свою зберігає від лиха.
+  - name: Приповісті 21:24
+    orderIndex: 23
+    osisId: Prov.21.24
+    sblId: Prov 21:24
+    shortName: Прип 21:24
+    text: Надутий пихою насмішник ім'я йому, він робить усе із бундючним зухвальством.
+  - name: Приповісті 21:25
+    orderIndex: 24
+    osisId: Prov.21.25
+    sblId: Prov 21:25
+    shortName: Прип 21:25
+    text: Пожадання лінивого вб'є його, бо руки його відмовляють робити,
+  - name: Приповісті 21:26
+    orderIndex: 25
+    osisId: Prov.21.26
+    sblId: Prov 21:26
+    shortName: Прип 21:26
+    text: він кожного дня пожадливо жадає, а справедливий дає та не жалує.
+  - name: Приповісті 21:27
+    orderIndex: 26
+    osisId: Prov.21.27
+    sblId: Prov 21:27
+    shortName: Прип 21:27
+    text: Жертва безбожних огида, а надто тоді, як за діло безчесне приноситься.
+  - name: Приповісті 21:28
+    orderIndex: 27
+    osisId: Prov.21.28
+    sblId: Prov 21:28
+    shortName: Прип 21:28
+    text: Свідок брехливий загине, а людина, що слухає Боже, говоритиме завжди.
+  - name: Приповісті 21:29
+    orderIndex: 28
+    osisId: Prov.21.29
+    sblId: Prov 21:29
+    shortName: Прип 21:29
+    text: Безбожна людина жорстока обличчям своїм, а невинний зміцняє дорогу свою.
+  - name: Приповісті 21:30
+    orderIndex: 29
+    osisId: Prov.21.30
+    sblId: Prov 21:30
+    shortName: Прип 21:30
+    text: Нема мудрости, ані розуму, ані ради насупроти Господа.
+  - name: Приповісті 21:31
+    orderIndex: 30
+    osisId: Prov.21.31
+    sblId: Prov 21:31
+    shortName: Прип 21:31
+    text: Приготовлений кінь на день бою, але перемога від Господа!
+  versesCount: 31
+- name: Приповісті 22
+  orderIndex: 21
+  osisId: Prov.22
+  sblId: Prov 22
+  shortName: Прип 22
+  verses:
+  - name: Приповісті 22:1
+    orderIndex: 0
+    osisId: Prov.22.1
+    sblId: Prov 22:1
+    shortName: Прип 22:1
+    text: Ліпше добре ім'я за багатство велике, і ліпша милість за срібло та золото.
+  - name: Приповісті 22:2
+    orderIndex: 1
+    osisId: Prov.22.2
+    sblId: Prov 22:2
+    shortName: Прип 22:2
+    text: Багатий та вбогий стрічаються, Господь їх обох створив.
+  - name: Приповісті 22:3
+    orderIndex: 2
+    osisId: Prov.22.3
+    sblId: Prov 22:3
+    shortName: Прип 22:3
+    text: Мудрий бачить лихе і ховається, а безумні йдуть і караються.
+  - name: Приповісті 22:4
+    orderIndex: 3
+    osisId: Prov.22.4
+    sblId: Prov 22:4
+    shortName: Прип 22:4
+    text: Заплата покори і страху Господнього, це багатство, і слава, й життя.
+  - name: Приповісті 22:5
+    orderIndex: 4
+    osisId: Prov.22.5
+    sblId: Prov 22:5
+    shortName: Прип 22:5
+    text: Тернина й пастки на дорозі лукавого, а хто стереже свою душу, відійде далеко
+      від них.
+  - name: Приповісті 22:6
+    orderIndex: 5
+    osisId: Prov.22.6
+    sblId: Prov 22:6
+    shortName: Прип 22:6
+    text: Привчай юнака до дороги його, і він, як постаріється, не уступиться з неї.
+  - name: Приповісті 22:7
+    orderIndex: 6
+    osisId: Prov.22.7
+    sblId: Prov 22:7
+    shortName: Прип 22:7
+    text: Багатий панує над бідними, а боржник раб позичальника.
+  - name: Приповісті 22:8
+    orderIndex: 7
+    osisId: Prov.22.8
+    sblId: Prov 22:8
+    shortName: Прип 22:8
+    text: Хто сіє кривду, той жатиме лихо, а бич гніву його покінчиться.
+  - name: Приповісті 22:9
+    orderIndex: 8
+    osisId: Prov.22.9
+    sblId: Prov 22:9
+    shortName: Прип 22:9
+    text: Хто доброго ока, той поблагословлений буде, бо дає він убогому з хліба свого.
+  - name: Приповісті 22:10
+    orderIndex: 9
+    osisId: Prov.22.10
+    sblId: Prov 22:10
+    shortName: Прип 22:10
+    text: Глумливого вижени, й вийде з ним сварка, і суперечка та ганьба припиняться.
+  - name: Приповісті 22:11
+    orderIndex: 10
+    osisId: Prov.22.11
+    sblId: Prov 22:11
+    shortName: Прип 22:11
+    text: Хто чистість серця кохає, той має хороше на устах, і другом йому буде цар.
+  - name: Приповісті 22:12
+    orderIndex: 11
+    osisId: Prov.22.12
+    sblId: Prov 22:12
+    shortName: Прип 22:12
+    text: Очі Господа оберігають знання, а лукаві слова Він відкине.
+  - name: Приповісті 22:13
+    orderIndex: 12
+    osisId: Prov.22.13
+    sblId: Prov 22:13
+    shortName: Прип 22:13
+    text: 'Лінивий говорить: На вулиці лев, серед майдану я буду забитий!'
+  - name: Приповісті 22:14
+    orderIndex: 13
+    osisId: Prov.22.14
+    sblId: Prov 22:14
+    shortName: Прип 22:14
+    text: 'Уста коханки яма глибока: на кого Господь має гнів, той впадає туди.'
+  - name: Приповісті 22:15
+    orderIndex: 14
+    osisId: Prov.22.15
+    sblId: Prov 22:15
+    shortName: Прип 22:15
+    text: До юнакового серця глупота прив'язана, та різка картання віддалить від нього
+      її.
+  - name: Приповісті 22:16
+    orderIndex: 15
+    osisId: Prov.22.16
+    sblId: Prov 22:16
+    shortName: Прип 22:16
+    text: Хто тисне убогого, щоб собі збагатитись, і хто багачеві дає, той певно збідніє.
+  - name: Приповісті 22:17
+    orderIndex: 16
+    osisId: Prov.22.17
+    sblId: Prov 22:17
+    shortName: Прип 22:17
+    text: Нахили своє вухо, і послухай слів мудрих, і серце зверни до мого знання,
+  - name: Приповісті 22:18
+    orderIndex: 17
+    osisId: Prov.22.18
+    sblId: Prov 22:18
+    shortName: Прип 22:18
+    text: бо гарне воно, коли будеш ти їх у своєму нутрі стерегти, хай стануть на
+      устах твоїх вони разом!
+  - name: Приповісті 22:19
+    orderIndex: 18
+    osisId: Prov.22.19
+    sblId: Prov 22:19
+    shortName: Прип 22:19
+    text: Щоб надія твоя була в Господі, я й сьогодні навчаю тебе.
+  - name: Приповісті 22:20
+    orderIndex: 19
+    osisId: Prov.22.20
+    sblId: Prov 22:20
+    shortName: Прип 22:20
+    text: Хіба ж не писав тобі тричі з порадами та із знанням,
+  - name: Приповісті 22:21
+    orderIndex: 20
+    osisId: Prov.22.21
+    sblId: Prov 22:21
+    shortName: Прип 22:21
+    text: щоб тобі завідомити правду, правдиві слова, щоб ти істину міг відповісти
+      тому, хто тебе запитає.
+  - name: Приповісті 22:22
+    orderIndex: 21
+    osisId: Prov.22.22
+    sblId: Prov 22:22
+    shortName: Прип 22:22
+    text: Не грабуй незаможнього, бо він незаможній, і не тисни убогого в брамі,
+  - name: Приповісті 22:23
+    orderIndex: 22
+    osisId: Prov.22.23
+    sblId: Prov 22:23
+    shortName: Прип 22:23
+    text: бо Господь за їхню справу судитиметься, і грабіжникам їхнім ограбує Він
+      душу.
+  - name: Приповісті 22:24
+    orderIndex: 23
+    osisId: Prov.22.24
+    sblId: Prov 22:24
+    shortName: Прип 22:24
+    text: Не дружись із чоловіком гнівливим, і не ходи із людиною лютою,
+  - name: Приповісті 22:25
+    orderIndex: 24
+    osisId: Prov.22.25
+    sblId: Prov 22:25
+    shortName: Прип 22:25
+    text: щоб доріг її ти не навчився, і тенета не взяв для своєї душі.
+  - name: Приповісті 22:26
+    orderIndex: 25
+    osisId: Prov.22.26
+    sblId: Prov 22:26
+    shortName: Прип 22:26
+    text: 'Не будь серед тих, хто поруку дає, серед тих, хто поручується за борги:'
+  - name: Приповісті 22:27
+    orderIndex: 26
+    osisId: Prov.22.27
+    sblId: Prov 22:27
+    shortName: Прип 22:27
+    text: коли ти не матимеш чим заплатити, нащо візьмуть з-під тебе постелю твою?
+  - name: Приповісті 22:28
+    orderIndex: 27
+    osisId: Prov.22.28
+    sblId: Prov 22:28
+    shortName: Прип 22:28
+    text: Не пересувай вікової границі, яку встановили батьки твої.
+  - name: Приповісті 22:29
+    orderIndex: 28
+    osisId: Prov.22.29
+    sblId: Prov 22:29
+    shortName: Прип 22:29
+    text: Ти бачив людину, моторну в занятті своїм? Вона перед царями спокійно стоятиме,
+      та не встоїть вона перед простими.
+  versesCount: 29
+- name: Приповісті 23
+  orderIndex: 22
+  osisId: Prov.23
+  sblId: Prov 23
+  shortName: Прип 23
+  verses:
+  - name: Приповісті 23:1
+    orderIndex: 0
+    osisId: Prov.23.1
+    sblId: Prov 23:1
+    shortName: Прип 23:1
+    text: Коли сядеш хліб їсти з володарем, то пильно вважай, що перед тобою,
+  - name: Приповісті 23:2
+    orderIndex: 1
+    osisId: Prov.23.2
+    sblId: Prov 23:2
+    shortName: Прип 23:2
+    text: 'і поклади собі в горло ножа, якщо ти ненажера:'
+  - name: Приповісті 23:3
+    orderIndex: 2
+    osisId: Prov.23.3
+    sblId: Prov 23:3
+    shortName: Прип 23:3
+    text: не жадай його ласощів, бо вони хліб обманливий!
+  - name: Приповісті 23:4
+    orderIndex: 3
+    osisId: Prov.23.4
+    sblId: Prov 23:4
+    shortName: Прип 23:4
+    text: Не мордуйся, щоб мати багатство, відступися від думки своєї про це,
+  - name: Приповісті 23:5
+    orderIndex: 4
+    osisId: Prov.23.5
+    sblId: Prov 23:5
+    shortName: Прип 23:5
+    text: 'свої очі ти звернеш на нього, й нема вже його: бо конче змайструє воно
+      собі крила, і полетить, мов орел той, до неба...'
+  - name: Приповісті 23:6
+    orderIndex: 5
+    osisId: Prov.23.6
+    sblId: Prov 23:6
+    shortName: Прип 23:6
+    text: Не їж хліба в злоокого, і не пожадай лакоминок його,
+  - name: Приповісті 23:7
+    orderIndex: 6
+    osisId: Prov.23.7
+    sblId: Prov 23:7
+    shortName: Прип 23:7
+    text: 'бо як у душі своїй він обраховує, такий є. Він скаже тобі: Їж та пий! але
+      серце його не з тобою,'
+  - name: Приповісті 23:8
+    orderIndex: 7
+    osisId: Prov.23.8
+    sblId: Prov 23:8
+    shortName: Прип 23:8
+    text: той кавалок, якого ти з'їв, із себе викинеш, і свої гарні слова надаремно
+      потратиш!
+  - name: Приповісті 23:9
+    orderIndex: 8
+    osisId: Prov.23.9
+    sblId: Prov 23:9
+    shortName: Прип 23:9
+    text: Не кажи до ушей нерозумному, бо погордить він мудрістю слів твоїх.
+  - name: Приповісті 23:10
+    orderIndex: 9
+    osisId: Prov.23.10
+    sblId: Prov 23:10
+    shortName: Прип 23:10
+    text: Не пересувай вікової границі, і не входь на сирітські поля,
+  - name: Приповісті 23:11
+    orderIndex: 10
+    osisId: Prov.23.11
+    sblId: Prov 23:11
+    shortName: Прип 23:11
+    text: бо їхній Визволитель міцний, Він за справу їхню буде судитись з тобою!
+  - name: Приповісті 23:12
+    orderIndex: 11
+    osisId: Prov.23.12
+    sblId: Prov 23:12
+    shortName: Прип 23:12
+    text: Своє серце зверни до навчання, а уші свої до розумних речей.
+  - name: Приповісті 23:13
+    orderIndex: 12
+    osisId: Prov.23.13
+    sblId: Prov 23:13
+    shortName: Прип 23:13
+    text: 'Не стримуй напучування юнака, коли різкою виб''єш його, не помре:'
+  - name: Приповісті 23:14
+    orderIndex: 13
+    osisId: Prov.23.14
+    sblId: Prov 23:14
+    shortName: Прип 23:14
+    text: ти різкою виб'єш його, і душу його від шеолу врятуєш.
+  - name: Приповісті 23:15
+    orderIndex: 14
+    osisId: Prov.23.15
+    sblId: Prov 23:15
+    shortName: Прип 23:15
+    text: Мій сину, якщо твоє серце змудріло, то буде радіти також моє серце,
+  - name: Приповісті 23:16
+    orderIndex: 15
+    osisId: Prov.23.16
+    sblId: Prov 23:16
+    shortName: Прип 23:16
+    text: і нутро моє буде тішитись, коли уста твої говоритимуть слушне.
+  - name: Приповісті 23:17
+    orderIndex: 16
+    osisId: Prov.23.17
+    sblId: Prov 23:17
+    shortName: Прип 23:17
+    text: Нехай серце твоє не завидує грішним, і повсякчас пильнуй тільки страху Господнього,
+  - name: Приповісті 23:18
+    orderIndex: 17
+    osisId: Prov.23.18
+    sblId: Prov 23:18
+    shortName: Прип 23:18
+    text: бо існує майбутнє, і надія твоя не загине.
+  - name: Приповісті 23:19
+    orderIndex: 18
+    osisId: Prov.23.19
+    sblId: Prov 23:19
+    shortName: Прип 23:19
+    text: Послухай, мій сину, та й помудрій, і нехай твоє серце ступає дорогою рівною.
+  - name: Приповісті 23:20
+    orderIndex: 19
+    osisId: Prov.23.20
+    sblId: Prov 23:20
+    shortName: Прип 23:20
+    text: Не будь поміж тими, що жлуктять вино, поміж тими, що м'ясо собі пожирають,
+  - name: Приповісті 23:21
+    orderIndex: 20
+    osisId: Prov.23.21
+    sblId: Prov 23:21
+    shortName: Прип 23:21
+    text: бо п'яниця й жерун збідніють, а сонливий одягне лахміття.
+  - name: Приповісті 23:22
+    orderIndex: 21
+    osisId: Prov.23.22
+    sblId: Prov 23:22
+    shortName: Прип 23:22
+    text: Слухай батька свого, він тебе породив, і не гордуй, як постаріла мати твоя.
+  - name: Приповісті 23:23
+    orderIndex: 22
+    osisId: Prov.23.23
+    sblId: Prov 23:23
+    shortName: Прип 23:23
+    text: Купи собі й не продавай правду, мудрість, і картання та розум.
+  - name: Приповісті 23:24
+    orderIndex: 23
+    osisId: Prov.23.24
+    sblId: Prov 23:24
+    shortName: Прип 23:24
+    text: Буде вельми радіти батько праведного, і родитель премудрого втішиться ним.
+  - name: Приповісті 23:25
+    orderIndex: 24
+    osisId: Prov.23.25
+    sblId: Prov 23:25
+    shortName: Прип 23:25
+    text: Хай радіє твій батько та мати твоя, хай потішиться та, що тебе породила.
+  - name: Приповісті 23:26
+    orderIndex: 25
+    osisId: Prov.23.26
+    sblId: Prov 23:26
+    shortName: Прип 23:26
+    text: Дай мені, сину мій, своє серце, і очі твої хай кохають дороги мої.
+  - name: Приповісті 23:27
+    orderIndex: 26
+    osisId: Prov.23.27
+    sblId: Prov 23:27
+    shortName: Прип 23:27
+    text: Бо блудниця то яма глибока, а криниця тісна чужа жінка.
+  - name: Приповісті 23:28
+    orderIndex: 27
+    osisId: Prov.23.28
+    sblId: Prov 23:28
+    shortName: Прип 23:28
+    text: І вона, мов грабіжник, чатує, і примножує зрадників поміж людьми.
+  - name: Приповісті 23:29
+    orderIndex: 28
+    osisId: Prov.23.29
+    sblId: Prov 23:29
+    shortName: Прип 23:29
+    text: В кого ой, в кого ай, в кого сварки, в кого клопіт, в кого рани даремні,
+      в кого очі червоні?
+  - name: Приповісті 23:30
+    orderIndex: 29
+    osisId: Prov.23.30
+    sblId: Prov 23:30
+    shortName: Прип 23:30
+    text: У тих, хто запізнюється над вином, у тих, хто приходить попробувати вина
+      змішаного.
+  - name: Приповісті 23:31
+    orderIndex: 30
+    osisId: Prov.23.31
+    sblId: Prov 23:31
+    shortName: Прип 23:31
+    text: Не дивись на вино, як воно рум'яніє, як виблискує в келіху й рівненько ллється,
+  - name: Приповісті 23:32
+    orderIndex: 31
+    osisId: Prov.23.32
+    sblId: Prov 23:32
+    shortName: Прип 23:32
+    text: кінець його буде кусати, як гад, і вжалить, немов та гадюка,
+  - name: Приповісті 23:33
+    orderIndex: 32
+    osisId: Prov.23.33
+    sblId: Prov 23:33
+    shortName: Прип 23:33
+    text: пантруватимуть очі твої на чужі жінки, і серце твоє говоритиме дурощі...
+  - name: Приповісті 23:34
+    orderIndex: 33
+    osisId: Prov.23.34
+    sblId: Prov 23:34
+    shortName: Прип 23:34
+    text: І ти будеш, як той, хто лежить у середині моря, й як той, хто лежить на
+      щогловім верху.
+  - name: Приповісті 23:35
+    orderIndex: 34
+    osisId: Prov.23.35
+    sblId: Prov 23:35
+    shortName: Прип 23:35
+    text: 'І скажеш: Побили мене, та мені не боліло, мене штурхали, я ж не почув,
+      коли я прокинусь, шукатиму далі того ж...'
+  versesCount: 35
+- name: Приповісті 24
+  orderIndex: 23
+  osisId: Prov.24
+  sblId: Prov 24
+  shortName: Прип 24
+  verses:
+  - name: Приповісті 24:1
+    orderIndex: 0
+    osisId: Prov.24.1
+    sblId: Prov 24:1
+    shortName: Прип 24:1
+    text: Не завидуй злим людям, не бажай бути з ними,
+  - name: Приповісті 24:2
+    orderIndex: 1
+    osisId: Prov.24.2
+    sblId: Prov 24:2
+    shortName: Прип 24:2
+    text: бо їхне серце говорить про здирство, а уста їхні мовлять про зло.
+  - name: Приповісті 24:3
+    orderIndex: 2
+    osisId: Prov.24.3
+    sblId: Prov 24:3
+    shortName: Прип 24:3
+    text: Дім будується мудрістю, і розумом ставиться міцно.
+  - name: Приповісті 24:4
+    orderIndex: 3
+    osisId: Prov.24.4
+    sblId: Prov 24:4
+    shortName: Прип 24:4
+    text: А через пізнання кімнати наповнюються усіляким маєтком цінним та приємним.
+  - name: Приповісті 24:5
+    orderIndex: 4
+    osisId: Prov.24.5
+    sblId: Prov 24:5
+    shortName: Прип 24:5
+    text: Мудрий сильніший від сильного, а людина розумна від повносилого.
+  - name: Приповісті 24:6
+    orderIndex: 5
+    osisId: Prov.24.6
+    sblId: Prov 24:6
+    shortName: Прип 24:6
+    text: Тому то провадь війну мудрими радами, бо спасіння в численності радників.
+  - name: Приповісті 24:7
+    orderIndex: 6
+    osisId: Prov.24.7
+    sblId: Prov 24:7
+    shortName: Прип 24:7
+    text: Для безумного мудрість занадто висока, своїх уст не розкриє при брамі.
+  - name: Приповісті 24:8
+    orderIndex: 7
+    osisId: Prov.24.8
+    sblId: Prov 24:8
+    shortName: Прип 24:8
+    text: Хто чинити лихе заміряє, того звуть лукавим.
+  - name: Приповісті 24:9
+    orderIndex: 8
+    osisId: Prov.24.9
+    sblId: Prov 24:9
+    shortName: Прип 24:9
+    text: Замір глупоти то гріх, а насмішник огида людині.
+  - name: Приповісті 24:10
+    orderIndex: 9
+    osisId: Prov.24.10
+    sblId: Prov 24:10
+    shortName: Прип 24:10
+    text: Якщо ти в день недолі знесилився, то мала твоя сила.
+  - name: Приповісті 24:11
+    orderIndex: 10
+    osisId: Prov.24.11
+    sblId: Prov 24:11
+    shortName: Прип 24:11
+    text: Рятуй узятих на смерть, також тих, хто на страчення хилиться, хіба не підтримаєш
+      їх?
+  - name: Приповісті 24:12
+    orderIndex: 11
+    osisId: Prov.24.12
+    sblId: Prov 24:12
+    shortName: Прип 24:12
+    text: 'Якщо скажеш: Цього ми не знали! чи ж Той, хто серця випробовує, знати не
+      буде? Він Сторож твоєї душі, і він знає про це, і поверне людині за чином її.'
+  - name: Приповісті 24:13
+    orderIndex: 12
+    osisId: Prov.24.13
+    sblId: Prov 24:13
+    shortName: Прип 24:13
+    text: Їж, сину мій, мед, бо він добрий, а мед щільниковий солодкий він на піднебінні
+      твоїм,
+  - name: Приповісті 24:14
+    orderIndex: 13
+    osisId: Prov.24.14
+    sblId: Prov 24:14
+    shortName: Прип 24:14
+    text: 'отак мудрість пізнай для своєї душі: якщо знайдеш її, то ти маєш майбутність,
+      і надія твоя не понищиться!'
+  - name: Приповісті 24:15
+    orderIndex: 14
+    osisId: Prov.24.15
+    sblId: Prov 24:15
+    shortName: Прип 24:15
+    text: Не чатуй на помешкання праведного, ти безбожнику, не ограблюй мешкання його,
+  - name: Приповісті 24:16
+    orderIndex: 15
+    osisId: Prov.24.16
+    sblId: Prov 24:16
+    shortName: Прип 24:16
+    text: бо праведний сім раз впаде та зведеться, а безбожний в погибіль впаде!
+  - name: Приповісті 24:17
+    orderIndex: 16
+    osisId: Prov.24.17
+    sblId: Prov 24:17
+    shortName: Прип 24:17
+    text: Не тішся, як ворог твій падає, а коли він спіткнеться, хай серце твоє не
+      радіє,
+  - name: Приповісті 24:18
+    orderIndex: 17
+    osisId: Prov.24.18
+    sblId: Prov 24:18
+    shortName: Прип 24:18
+    text: щоб Господь не побачив, і це не було в Його очах лихим, і щоб Він не звернув
+      Свого гніву від нього на тебе!
+  - name: Приповісті 24:19
+    orderIndex: 18
+    osisId: Prov.24.19
+    sblId: Prov 24:19
+    shortName: Прип 24:19
+    text: Не пались на злочинців, не заздри безбожним,
+  - name: Приповісті 24:20
+    orderIndex: 19
+    osisId: Prov.24.20
+    sblId: Prov 24:20
+    shortName: Прип 24:20
+    text: бо злому не буде майбутности, світильник безбожних погасне.
+  - name: Приповісті 24:21
+    orderIndex: 20
+    osisId: Prov.24.21
+    sblId: Prov 24:21
+    shortName: Прип 24:21
+    text: Бійся, сину мій, Господа та царя, не водися з непевними,
+  - name: Приповісті 24:22
+    orderIndex: 21
+    osisId: Prov.24.22
+    sblId: Prov 24:22
+    shortName: Прип 24:22
+    text: бо погибіль їхня нагло постане, а біду від обох тих хто знає?
+  - name: Приповісті 24:23
+    orderIndex: 22
+    osisId: Prov.24.23
+    sblId: Prov 24:23
+    shortName: Прип 24:23
+    text: 'І оце ось походить від мудрих: Звертати увагу в суді на обличчя не добре.'
+  - name: Приповісті 24:24
+    orderIndex: 23
+    osisId: Prov.24.24
+    sblId: Prov 24:24
+    shortName: Прип 24:24
+    text: 'Хто буде казати безбожному: Праведний ти! того проклинатимуть люди, і гніватись
+      будуть на того народи.'
+  - name: Приповісті 24:25
+    orderIndex: 24
+    osisId: Prov.24.25
+    sblId: Prov 24:25
+    shortName: Прип 24:25
+    text: А тим, хто картає його, буде миле оце, і прийде на них благословення добра!
+  - name: Приповісті 24:26
+    orderIndex: 25
+    osisId: Prov.24.26
+    sblId: Prov 24:26
+    shortName: Прип 24:26
+    text: Мов у губи цілує, хто відповідає правдиве.
+  - name: Приповісті 24:27
+    orderIndex: 26
+    osisId: Prov.24.27
+    sblId: Prov 24:27
+    shortName: Прип 24:27
+    text: Приготуй свою працю надворі, й оброби собі поле, а потім збудуєш свій дім.
+  - name: Приповісті 24:28
+    orderIndex: 27
+    osisId: Prov.24.28
+    sblId: Prov 24:28
+    shortName: Прип 24:28
+    text: Не будь ложним свідком на свого ближнього, і не підговорюй устами своїми.
+  - name: Приповісті 24:29
+    orderIndex: 28
+    osisId: Prov.24.29
+    sblId: Prov 24:29
+    shortName: Прип 24:29
+    text: 'Не кажи: Як зробив він мені, так зроблю я йому, верну людині за чином її!'
+  - name: Приповісті 24:30
+    orderIndex: 29
+    osisId: Prov.24.30
+    sblId: Prov 24:30
+    shortName: Прип 24:30
+    text: Я проходив край поля людини лінивої, та край виноградника недоумкуватого,
+  - name: Приповісті 24:31
+    orderIndex: 30
+    osisId: Prov.24.31
+    sblId: Prov 24:31
+    shortName: Прип 24:31
+    text: і ось все воно позаростало терням, будяками покрита поверхня його, камінний
+      же мур його був поруйнований...
+  - name: Приповісті 24:32
+    orderIndex: 31
+    osisId: Prov.24.32
+    sblId: Prov 24:32
+    shortName: Прип 24:32
+    text: 'І бачив я те, і увагу звернув, і взяв я поуку собі:'
+  - name: Приповісті 24:33
+    orderIndex: 32
+    osisId: Prov.24.33
+    sblId: Prov 24:33
+    shortName: Прип 24:33
+    text: Ще трохи поспати, подрімати ще трохи, руки трохи зложити, щоб полежати,
+  - name: Приповісті 24:34
+    orderIndex: 33
+    osisId: Prov.24.34
+    sblId: Prov 24:34
+    shortName: Прип 24:34
+    text: і приходить, немов мандрівник, незаможність твоя, і нужда твоя, як озброєний
+      муж!...
+  versesCount: 34
+- name: Приповісті 25
+  orderIndex: 24
+  osisId: Prov.25
+  sblId: Prov 25
+  shortName: Прип 25
+  verses:
+  - name: Приповісті 25:1
+    orderIndex: 0
+    osisId: Prov.25.1
+    sblId: Prov 25:1
+    shortName: Прип 25:1
+    text: І оце Соломонові приповісті, що зібрали люди Єзекії, Юдиного царя.
+  - name: Приповісті 25:2
+    orderIndex: 1
+    osisId: Prov.25.2
+    sblId: Prov 25:2
+    shortName: Прип 25:2
+    text: Слава Божа щоб справу сховати, а слава царів щоб розвідати справу.
+  - name: Приповісті 25:3
+    orderIndex: 2
+    osisId: Prov.25.3
+    sblId: Prov 25:3
+    shortName: Прип 25:3
+    text: Небо високістю, і земля глибиною, і серце царів недослідимі.
+  - name: Приповісті 25:4
+    orderIndex: 3
+    osisId: Prov.25.4
+    sblId: Prov 25:4
+    shortName: Прип 25:4
+    text: Як відкинути жужель від срібла, то золотареві виходить посудина,
+  - name: Приповісті 25:5
+    orderIndex: 4
+    osisId: Prov.25.5
+    sblId: Prov 25:5
+    shortName: Прип 25:5
+    text: коли віддалити безбожного з-перед обличчя царевого, то справедливістю міцно
+      поставиться трон його.
+  - name: Приповісті 25:6
+    orderIndex: 5
+    osisId: Prov.25.6
+    sblId: Prov 25:6
+    shortName: Прип 25:6
+    text: Перед царем не пишайся, а на місці великих не стій,
+  - name: Приповісті 25:7
+    orderIndex: 6
+    osisId: Prov.25.7
+    sblId: Prov 25:7
+    shortName: Прип 25:7
+    text: 'бо ліпше, як скажуть тобі: Ходи вище сюди! аніж тебе знизити перед шляхетним,
+      що бачили очі твої.'
+  - name: Приповісті 25:8
+    orderIndex: 7
+    osisId: Prov.25.8
+    sblId: Prov 25:8
+    shortName: Прип 25:8
+    text: Не спішися ставати до позову, бо що будеш робити в кінці його, як тебе засоромить
+      твій ближній?
+  - name: Приповісті 25:9
+    orderIndex: 8
+    osisId: Prov.25.9
+    sblId: Prov 25:9
+    shortName: Прип 25:9
+    text: Судися за сварку свою з своїм ближнім, але не виявляй таємниці іншого,
+  - name: Приповісті 25:10
+    orderIndex: 9
+    osisId: Prov.25.10
+    sblId: Prov 25:10
+    shortName: Прип 25:10
+    text: щоб тебе не образив, хто слухати буде, і щоб не вернулась на тебе обмова
+      твоя.
+  - name: Приповісті 25:11
+    orderIndex: 10
+    osisId: Prov.25.11
+    sblId: Prov 25:11
+    shortName: Прип 25:11
+    text: Золоті яблука на срібнім тарелі це слово, проказане часу свого.
+  - name: Приповісті 25:12
+    orderIndex: 11
+    osisId: Prov.25.12
+    sblId: Prov 25:12
+    shortName: Прип 25:12
+    text: Золотая сережка й оздоба зо щирого золота це мудрий картач для уважного
+      уха.
+  - name: Приповісті 25:13
+    orderIndex: 12
+    osisId: Prov.25.13
+    sblId: Prov 25:13
+    shortName: Прип 25:13
+    text: Немов снігова прохолода в день жнив посол вірний для тих, хто його посилає,
+      і він душу пана свого оживляє.
+  - name: Приповісті 25:14
+    orderIndex: 13
+    osisId: Prov.25.14
+    sblId: Prov 25:14
+    shortName: Прип 25:14
+    text: Хмари та вітер, а немає дощу це людина, що чваниться даром, та його не дає.
+  - name: Приповісті 25:15
+    orderIndex: 14
+    osisId: Prov.25.15
+    sblId: Prov 25:15
+    shortName: Прип 25:15
+    text: Володар зм'якшується терпеливістю, а м'якенький язик ломить кістку.
+  - name: Приповісті 25:16
+    orderIndex: 15
+    osisId: Prov.25.16
+    sblId: Prov 25:16
+    shortName: Прип 25:16
+    text: Якщо мед ти знайшов, то спожий, скільки досить тобі, щоб ним не пересититися
+      та не звернути.
+  - name: Приповісті 25:17
+    orderIndex: 16
+    osisId: Prov.25.17
+    sblId: Prov 25:17
+    shortName: Прип 25:17
+    text: Здержуй ногу свою від дому твого товариша, щоб тобою він не переситивсь,
+      і не зненавидів тебе.
+  - name: Приповісті 25:18
+    orderIndex: 17
+    osisId: Prov.25.18
+    sblId: Prov 25:18
+    shortName: Прип 25:18
+    text: Молот, і меч, і гостра стріла, людина, що говорить на ближнього свого, як
+      свідок брехливий.
+  - name: Приповісті 25:19
+    orderIndex: 18
+    osisId: Prov.25.19
+    sblId: Prov 25:19
+    shortName: Прип 25:19
+    text: Гнилий зуб та кульгава нога це надія на зрадливого радника в день твого
+      утиску.
+  - name: Приповісті 25:20
+    orderIndex: 19
+    osisId: Prov.25.20
+    sblId: Prov 25:20
+    shortName: Прип 25:20
+    text: Що здіймати одежу холодного дня, що лити оцет на соду, це співати пісні
+      серцю засмученому.
+  - name: Приповісті 25:21
+    orderIndex: 20
+    osisId: Prov.25.21
+    sblId: Prov 25:21
+    shortName: Прип 25:21
+    text: Якщо голодує твій ворог нагодуй його хлібом, а як спрагнений він водою напій
+      ти його,
+  - name: Приповісті 25:22
+    orderIndex: 21
+    osisId: Prov.25.22
+    sblId: Prov 25:22
+    shortName: Прип 25:22
+    text: бо цим пригортаєш ти жар на його голову, і Господь надолужить тобі!
+  - name: Приповісті 25:23
+    orderIndex: 22
+    osisId: Prov.25.23
+    sblId: Prov 25:23
+    shortName: Прип 25:23
+    text: Вітер північний народжує дощ, а таємний язик сердите обличчя.
+  - name: Приповісті 25:24
+    orderIndex: 23
+    osisId: Prov.25.24
+    sblId: Prov 25:24
+    shortName: Прип 25:24
+    text: Ліпше жити в куті на даху, ніж з сварливою жінкою в спільному домі.
+  - name: Приповісті 25:25
+    orderIndex: 24
+    osisId: Prov.25.25
+    sblId: Prov 25:25
+    shortName: Прип 25:25
+    text: Добра звістка з далекого краю це холодна водиця на спрагнену душу.
+  - name: Приповісті 25:26
+    orderIndex: 25
+    osisId: Prov.25.26
+    sblId: Prov 25:26
+    shortName: Прип 25:26
+    text: Джерело скаламучене чи зіпсутий потік це праведний, що схиляється перед
+      безбожним.
+  - name: Приповісті 25:27
+    orderIndex: 26
+    osisId: Prov.25.27
+    sblId: Prov 25:27
+    shortName: Прип 25:27
+    text: Їсти меду багато не добре, так досліджувати власну славу неслава.
+  - name: Приповісті 25:28
+    orderIndex: 27
+    osisId: Prov.25.28
+    sblId: Prov 25:28
+    shortName: Прип 25:28
+    text: Людина, що стриму немає для духу свого, це зруйноване місто без муру.
+  versesCount: 28
+- name: Приповісті 26
+  orderIndex: 25
+  osisId: Prov.26
+  sblId: Prov 26
+  shortName: Прип 26
+  verses:
+  - name: Приповісті 26:1
+    orderIndex: 0
+    osisId: Prov.26.1
+    sblId: Prov 26:1
+    shortName: Прип 26:1
+    text: Як літом той сніг, і як дощ у жнива, так не лицює глупцеві пошана.
+  - name: Приповісті 26:2
+    orderIndex: 1
+    osisId: Prov.26.2
+    sblId: Prov 26:2
+    shortName: Прип 26:2
+    text: Як пташка літає, як ластівка лине, так невинне прокляття не сповниться.
+  - name: Приповісті 26:3
+    orderIndex: 2
+    osisId: Prov.26.3
+    sblId: Prov 26:3
+    shortName: Прип 26:3
+    text: Батіг на коня, оброть на осла, а різка на спину глупців.
+  - name: Приповісті 26:4
+    orderIndex: 3
+    osisId: Prov.26.4
+    sblId: Prov 26:4
+    shortName: Прип 26:4
+    text: Нерозумному відповіді не давай за нерозум його, щоб і ти не став рівний
+      йому.
+  - name: Приповісті 26:5
+    orderIndex: 4
+    osisId: Prov.26.5
+    sblId: Prov 26:5
+    shortName: Прип 26:5
+    text: Нерозумному відповідь дай за безумством його, щоб він в очах своїх не став
+      мудрим.
+  - name: Приповісті 26:6
+    orderIndex: 5
+    osisId: Prov.26.6
+    sblId: Prov 26:6
+    shortName: Прип 26:6
+    text: Хто через глупця посилає слова, той ноги собі обтинає, отруту він п'є.
+  - name: Приповісті 26:7
+    orderIndex: 6
+    osisId: Prov.26.7
+    sblId: Prov 26:7
+    shortName: Прип 26:7
+    text: Як волочаться ноги в кульгавого, так у безумних устах приповістка.
+  - name: Приповісті 26:8
+    orderIndex: 7
+    osisId: Prov.26.8
+    sblId: Prov 26:8
+    shortName: Прип 26:8
+    text: Як прив'язувати камінь коштовний до пращі, так глупцеві пошану давати.
+  - name: Приповісті 26:9
+    orderIndex: 8
+    osisId: Prov.26.9
+    sblId: Prov 26:9
+    shortName: Прип 26:9
+    text: Як терен, що влізе у руку, отак приповістка в устах нерозумного.
+  - name: Приповісті 26:10
+    orderIndex: 9
+    osisId: Prov.26.10
+    sblId: Prov 26:10
+    shortName: Прип 26:10
+    text: Як стрілець, що все ранить, так і той, хто наймає глупця, і наймає усяких
+      прохожих.
+  - name: Приповісті 26:11
+    orderIndex: 10
+    osisId: Prov.26.11
+    sblId: Prov 26:11
+    shortName: Прип 26:11
+    text: Як вертається пес до своєї блювотини, так глупоту свою повторяє глупак.
+  - name: Приповісті 26:12
+    orderIndex: 11
+    osisId: Prov.26.12
+    sblId: Prov 26:12
+    shortName: Прип 26:12
+    text: Чи ти бачив людину, що мудра в очах своїх? Більша надія глупцеві, ніж їй.
+  - name: Приповісті 26:13
+    orderIndex: 12
+    osisId: Prov.26.13
+    sblId: Prov 26:13
+    shortName: Прип 26:13
+    text: 'Лінивий говорить: Лев на дорозі! Лев на майдані!'
+  - name: Приповісті 26:14
+    orderIndex: 13
+    osisId: Prov.26.14
+    sblId: Prov 26:14
+    shortName: Прип 26:14
+    text: Двері обертаються на своєму чопі, а лінивий на ліжку своїм.
+  - name: Приповісті 26:15
+    orderIndex: 14
+    osisId: Prov.26.15
+    sblId: Prov 26:15
+    shortName: Прип 26:15
+    text: Свою руку лінивий стромляє до миски, та піднести до рота її йому тяжко.
+  - name: Приповісті 26:16
+    orderIndex: 15
+    osisId: Prov.26.16
+    sblId: Prov 26:16
+    shortName: Прип 26:16
+    text: Лінивий мудріший ув очах своїх за сімох, що відповідають розумно.
+  - name: Приповісті 26:17
+    orderIndex: 16
+    osisId: Prov.26.17
+    sblId: Prov 26:17
+    shortName: Прип 26:17
+    text: Пса за вуха хапає, хто, йдучи, устряває до сварки чужої.
+  - name: Приповісті 26:18
+    orderIndex: 17
+    osisId: Prov.26.18
+    sblId: Prov 26:18
+    shortName: Прип 26:18
+    text: Як той, хто вдає божевільного, кидає іскри, стріли та смерть,
+  - name: Приповісті 26:19
+    orderIndex: 18
+    osisId: Prov.26.19
+    sblId: Prov 26:19
+    shortName: Прип 26:19
+    text: 'так і людина, що обманює друга свого та каже: Таж це я жартую!...'
+  - name: Приповісті 26:20
+    orderIndex: 19
+    osisId: Prov.26.20
+    sblId: Prov 26:20
+    shortName: Прип 26:20
+    text: З браку дров огонь гасне, а без пліткаря мовкне сварка.
+  - name: Приповісті 26:21
+    orderIndex: 20
+    osisId: Prov.26.21
+    sblId: Prov 26:21
+    shortName: Прип 26:21
+    text: Вугілля для жару, а дрова огневі, а людина сварлива щоб сварку розпалювати.
+  - name: Приповісті 26:22
+    orderIndex: 21
+    osisId: Prov.26.22
+    sblId: Prov 26:22
+    shortName: Прип 26:22
+    text: Слова обмовника мов ті присмаки, й у нутро живота вони сходять.
+  - name: Приповісті 26:23
+    orderIndex: 22
+    osisId: Prov.26.23
+    sblId: Prov 26:23
+    shortName: Прип 26:23
+    text: Як срібло з жужелицею, на горшкові накладене, так полум'яні уста, а серце
+      лихе,
+  - name: Приповісті 26:24
+    orderIndex: 23
+    osisId: Prov.26.24
+    sblId: Prov 26:24
+    shortName: Прип 26:24
+    text: 'устами своїми маскується ворог, і ховає оману в своєму нутрі:'
+  - name: Приповісті 26:25
+    orderIndex: 24
+    osisId: Prov.26.25
+    sblId: Prov 26:25
+    shortName: Прип 26:25
+    text: коли він говорить лагідно не вір ти йому, бо в серці його сім огид!
+  - name: Приповісті 26:26
+    orderIndex: 25
+    osisId: Prov.26.26
+    sblId: Prov 26:26
+    shortName: Прип 26:26
+    text: Як ненависть прикрита оманою, її зло відкривається в зборі.
+  - name: Приповісті 26:27
+    orderIndex: 26
+    osisId: Prov.26.27
+    sblId: Prov 26:27
+    shortName: Прип 26:27
+    text: Хто яму копає, той в неї впаде, а хто котить каміння на нього воно повертається.
+  - name: Приповісті 26:28
+    orderIndex: 27
+    osisId: Prov.26.28
+    sblId: Prov 26:28
+    shortName: Прип 26:28
+    text: Брехливий язик ненавидить своїх утискуваних, і уста гладенькі до згуби провадять.
+  versesCount: 28
+- name: Приповісті 27
+  orderIndex: 26
+  osisId: Prov.27
+  sblId: Prov 27
+  shortName: Прип 27
+  verses:
+  - name: Приповісті 27:1
+    orderIndex: 0
+    osisId: Prov.27.1
+    sblId: Prov 27:1
+    shortName: Прип 27:1
+    text: Не вихвалюйся завтрішнім днем, бо не знаєш, що день той породить.
+  - name: Приповісті 27:2
+    orderIndex: 1
+    osisId: Prov.27.2
+    sblId: Prov 27:2
+    shortName: Прип 27:2
+    text: Нехай інший тебе вихваляє, а не уста твої, чужий, а не губи твої.
+  - name: Приповісті 27:3
+    orderIndex: 2
+    osisId: Prov.27.3
+    sblId: Prov 27:3
+    shortName: Прип 27:3
+    text: Каміння тягар, і пісок важка річ, та гнів нерозумного тяжчий від них від
+      обох.
+  - name: Приповісті 27:4
+    orderIndex: 3
+    osisId: Prov.27.4
+    sblId: Prov 27:4
+    shortName: Прип 27:4
+    text: Лютість жорстокість, а гнів то затоплення, та хто перед заздрістю встоїть?
+  - name: Приповісті 27:5
+    orderIndex: 4
+    osisId: Prov.27.5
+    sblId: Prov 27:5
+    shortName: Прип 27:5
+    text: Ліпше відкрите картання, ніж таємна любов.
+  - name: Приповісті 27:6
+    orderIndex: 5
+    osisId: Prov.27.6
+    sblId: Prov 27:6
+    shortName: Прип 27:6
+    text: Побої коханого вірність показують, а в ненависника поцілунки численні.
+  - name: Приповісті 27:7
+    orderIndex: 6
+    osisId: Prov.27.7
+    sblId: Prov 27:7
+    shortName: Прип 27:7
+    text: Сита душа топче й мед щільниковий, а голодній душі все гірке то солодке.
+  - name: Приповісті 27:8
+    orderIndex: 7
+    osisId: Prov.27.8
+    sblId: Prov 27:8
+    shortName: Прип 27:8
+    text: Як птах, що гніздо своє кинув, так і людина, що з місця свого мандрує.
+  - name: Приповісті 27:9
+    orderIndex: 8
+    osisId: Prov.27.9
+    sblId: Prov 27:9
+    shortName: Прип 27:9
+    text: Олива й кадило потішують серце, і солодкий нам друг за душевну пораду.
+  - name: Приповісті 27:10
+    orderIndex: 9
+    osisId: Prov.27.10
+    sblId: Prov 27:10
+    shortName: Прип 27:10
+    text: Друга свого й друга батька свого не кидай, а в дім брата свого не приходь
+      в день нещастя свого, ліпший сусіда близький за далекого брата!
+  - name: Приповісті 27:11
+    orderIndex: 10
+    osisId: Prov.27.11
+    sblId: Prov 27:11
+    shortName: Прип 27:11
+    text: Будь мудрий, мій сину, й потіш моє серце, і я матиму що відповісти, як мені
+      докорятиме хто.
+  - name: Приповісті 27:12
+    orderIndex: 11
+    osisId: Prov.27.12
+    sblId: Prov 27:12
+    shortName: Прип 27:12
+    text: Мудрий бачить лихе і ховається, а безумні йдуть і караються.
+  - name: Приповісті 27:13
+    orderIndex: 12
+    osisId: Prov.27.13
+    sblId: Prov 27:13
+    shortName: Прип 27:13
+    text: Візьми його одіж, бо він поручивсь за чужого, і за чужинку заставу візьми.
+  - name: Приповісті 27:14
+    orderIndex: 13
+    osisId: Prov.27.14
+    sblId: Prov 27:14
+    shortName: Прип 27:14
+    text: Хто сильним голосом благословляє із раннього ранку свого товариша, за прокляття
+      залічується це йому.
+  - name: Приповісті 27:15
+    orderIndex: 14
+    osisId: Prov.27.15
+    sblId: Prov 27:15
+    shortName: Прип 27:15
+    text: 'Ринва, постійно текуча слотливого дня та жінка сварлива однакове:'
+  - name: Приповісті 27:16
+    orderIndex: 15
+    osisId: Prov.27.16
+    sblId: Prov 27:16
+    shortName: Прип 27:16
+    text: хто хоче сховати її той вітра ховає, чи оливу пахучу правиці своєї, що видасть
+      себе.
+  - name: Приповісті 27:17
+    orderIndex: 16
+    osisId: Prov.27.17
+    sblId: Prov 27:17
+    shortName: Прип 27:17
+    text: Як гострить залізо залізо, так гострить людина лице свого друга.
+  - name: Приповісті 27:18
+    orderIndex: 17
+    osisId: Prov.27.18
+    sblId: Prov 27:18
+    shortName: Прип 27:18
+    text: Сторож фіґовниці плоди її споживає, а хто пана свого стереже, той шанований.
+  - name: Приповісті 27:19
+    orderIndex: 18
+    osisId: Prov.27.19
+    sblId: Prov 27:19
+    shortName: Прип 27:19
+    text: Як лице до лиця у воді, так серце людини до серця людини.
+  - name: Приповісті 27:20
+    orderIndex: 19
+    osisId: Prov.27.20
+    sblId: Prov 27:20
+    shortName: Прип 27:20
+    text: Шеол й Аваддон не наситяться, не наситяться й очі людини.
+  - name: Приповісті 27:21
+    orderIndex: 20
+    osisId: Prov.27.21
+    sblId: Prov 27:21
+    shortName: Прип 27:21
+    text: Що для срібла топильна посудина, і горно для золота, те для людини уста,
+      які хвалять її.
+  - name: Приповісті 27:22
+    orderIndex: 21
+    osisId: Prov.27.22
+    sblId: Prov 27:22
+    shortName: Прип 27:22
+    text: Хоч нерозумного будеш товкти товкачем поміж зернами в ступі, не відійде
+      від нього глупота його!
+  - name: Приповісті 27:23
+    orderIndex: 22
+    osisId: Prov.27.23
+    sblId: Prov 27:23
+    shortName: Прип 27:23
+    text: Добре знай вигляд своєї отари, поклади своє серце на череди,
+  - name: Приповісті 27:24
+    orderIndex: 23
+    osisId: Prov.27.24
+    sblId: Prov 27:24
+    shortName: Прип 27:24
+    text: бо багатство твоє не навіки, і чи корона твоя з роду в рід?
+  - name: Приповісті 27:25
+    orderIndex: 24
+    osisId: Prov.27.25
+    sblId: Prov 27:25
+    shortName: Прип 27:25
+    text: Появилася зелень, і трава показалась, і збирається сіно із гір,
+  - name: Приповісті 27:26
+    orderIndex: 25
+    osisId: Prov.27.26
+    sblId: Prov 27:26
+    shortName: Прип 27:26
+    text: будуть вівці тобі на вбрання, і козли ціна поля,
+  - name: Приповісті 27:27
+    orderIndex: 26
+    osisId: Prov.27.27
+    sblId: Prov 27:27
+    shortName: Прип 27:27
+    text: і молока твоїх кіз буде досить на їжу тобі, на їду твого дому, і на життя
+      для служниць твоїх.
+  versesCount: 27
+- name: Приповісті 28
+  orderIndex: 27
+  osisId: Prov.28
+  sblId: Prov 28
+  shortName: Прип 28
+  verses:
+  - name: Приповісті 28:1
+    orderIndex: 0
+    osisId: Prov.28.1
+    sblId: Prov 28:1
+    shortName: Прип 28:1
+    text: Безбожні втікають, коли й не женуться за ними, а справедливий безпечний,
+      немов той левчук.
+  - name: Приповісті 28:2
+    orderIndex: 1
+    osisId: Prov.28.2
+    sblId: Prov 28:2
+    shortName: Прип 28:2
+    text: Коли край провиниться, то має багато володарів, коли ж є людина розумна
+      й знаюча, то держиться довго.
+  - name: Приповісті 28:3
+    orderIndex: 2
+    osisId: Prov.28.3
+    sblId: Prov 28:3
+    shortName: Прип 28:3
+    text: Людина убога, що гнобить нужденних, це злива рвучка, що хліба по ній не
+      буває.
+  - name: Приповісті 28:4
+    orderIndex: 3
+    osisId: Prov.28.4
+    sblId: Prov 28:4
+    shortName: Прип 28:4
+    text: Ті, хто Закон залишає, хвалять безбожних, а ті, хто Закон береже, на них
+      буряться.
+  - name: Приповісті 28:5
+    orderIndex: 4
+    osisId: Prov.28.5
+    sblId: Prov 28:5
+    shortName: Прип 28:5
+    text: Люди лихі правосуддя не розуміють, а шукаючі Господа все розуміють.
+  - name: Приповісті 28:6
+    orderIndex: 5
+    osisId: Prov.28.6
+    sblId: Prov 28:6
+    shortName: Прип 28:6
+    text: Ліпше убогий, що ходить в своїй неповинності, ніж криводорогий, хоч він
+      і багач.
+  - name: Приповісті 28:7
+    orderIndex: 6
+    osisId: Prov.28.7
+    sblId: Prov 28:7
+    shortName: Прип 28:7
+    text: Хто Закон береже, розумний той син, а хто водиться із гультяями, засоромлює
+      батька свого.
+  - name: Приповісті 28:8
+    orderIndex: 7
+    osisId: Prov.28.8
+    sblId: Prov 28:8
+    shortName: Прип 28:8
+    text: Хто множить лихварським відсотком багатство своє, той для того громадить
+      його, хто ласкавий для бідних.
+  - name: Приповісті 28:9
+    orderIndex: 8
+    osisId: Prov.28.9
+    sblId: Prov 28:9
+    shortName: Прип 28:9
+    text: Хто відхилює вухо своє, щоб не слухати Закона, то буде огидна й молитва
+      того.
+  - name: Приповісті 28:10
+    orderIndex: 9
+    osisId: Prov.28.10
+    sblId: Prov 28:10
+    shortName: Прип 28:10
+    text: Хто простих доводить блудити дорогою зла, сам до ями своєї впаде, а невинні
+      посядуть добро.
+  - name: Приповісті 28:11
+    orderIndex: 10
+    osisId: Prov.28.11
+    sblId: Prov 28:11
+    shortName: Прип 28:11
+    text: Багата людина в очах своїх мудра, та розумний убогий розслідить її.
+  - name: Приповісті 28:12
+    orderIndex: 11
+    osisId: Prov.28.12
+    sblId: Prov 28:12
+    shortName: Прип 28:12
+    text: Велика пишнота, як тішаться праведні, коли ж несправедливі зростають, то
+      треба шукати людину.
+  - name: Приповісті 28:13
+    orderIndex: 12
+    osisId: Prov.28.13
+    sblId: Prov 28:13
+    shortName: Прип 28:13
+    text: Хто ховає провини свої, тому не ведеться, а хто признається та кидає їх,
+      той буде помилуваний.
+  - name: Приповісті 28:14
+    orderIndex: 13
+    osisId: Prov.28.14
+    sblId: Prov 28:14
+    shortName: Прип 28:14
+    text: Блаженна людина, що завжди обачна, а хто ожорсточує серце своє, той впадає
+      в лихе.
+  - name: Приповісті 28:15
+    orderIndex: 14
+    osisId: Prov.28.15
+    sblId: Prov 28:15
+    shortName: Прип 28:15
+    text: Лев ричучий й ведмідь ненажерливий це безбожний володар над людом убогим.
+  - name: Приповісті 28:16
+    orderIndex: 15
+    osisId: Prov.28.16
+    sblId: Prov 28:16
+    shortName: Прип 28:16
+    text: Володар, позбавлений розуму, тисне дошкульно, а ненависник зажерливости
+      буде мати дні довгі.
+  - name: Приповісті 28:17
+    orderIndex: 16
+    osisId: Prov.28.17
+    sblId: Prov 28:17
+    shortName: Прип 28:17
+    text: Людина, обтяжена за душогубство, втікає до гробу, нехай її не підпирають!
+  - name: Приповісті 28:18
+    orderIndex: 17
+    osisId: Prov.28.18
+    sblId: Prov 28:18
+    shortName: Прип 28:18
+    text: Хто ходить невинний, той буде спасений, а криводорогий впаде на одній із
+      доріг.
+  - name: Приповісті 28:19
+    orderIndex: 18
+    osisId: Prov.28.19
+    sblId: Prov 28:19
+    shortName: Прип 28:19
+    text: Хто землю свою обробляє, той насититься хлібом, а хто за марнотним женеться,
+      насититься вбогістю.
+  - name: Приповісті 28:20
+    orderIndex: 19
+    osisId: Prov.28.20
+    sblId: Prov 28:20
+    shortName: Прип 28:20
+    text: Вірна людина багата на благословення, а хто спішно збагачується, непокараним
+      той не залишиться.
+  - name: Приповісті 28:21
+    orderIndex: 20
+    osisId: Prov.28.21
+    sblId: Prov 28:21
+    shortName: Прип 28:21
+    text: Увагу звертати на особу не добре, бо й за кус хліба людина згрішить.
+  - name: Приповісті 28:22
+    orderIndex: 21
+    osisId: Prov.28.22
+    sblId: Prov 28:22
+    shortName: Прип 28:22
+    text: Завидюща людина спішить до багатства, і не знає, що прийде на неї нужда.
+  - name: Приповісті 28:23
+    orderIndex: 22
+    osisId: Prov.28.23
+    sblId: Prov 28:23
+    shortName: Прип 28:23
+    text: Хто напоумляє людину, той знаходить вкінці більшу ласку, ніж той, хто лестить
+      язиком.
+  - name: Приповісті 28:24
+    orderIndex: 23
+    osisId: Prov.28.24
+    sblId: Prov 28:24
+    shortName: Прип 28:24
+    text: 'Хто батька свого й свою матір грабує і каже: Це не гріх, той розбійнику
+      друг.'
+  - name: Приповісті 28:25
+    orderIndex: 24
+    osisId: Prov.28.25
+    sblId: Prov 28:25
+    shortName: Прип 28:25
+    text: Захланний викликує сварку, хто ж має надію на Господа, буде насичений.
+  - name: Приповісті 28:26
+    orderIndex: 25
+    osisId: Prov.28.26
+    sblId: Prov 28:26
+    shortName: Прип 28:26
+    text: Хто надію кладе на свій розум, то він нерозумний, а хто мудрістю ходить,
+      той буде врятований.
+  - name: Приповісті 28:27
+    orderIndex: 26
+    osisId: Prov.28.27
+    sblId: Prov 28:27
+    shortName: Прип 28:27
+    text: Хто дає немаючому, той недостатку не знатиме, хто ж свої очі ховає від нього,
+      той зазнає багато проклять.
+  - name: Приповісті 28:28
+    orderIndex: 27
+    osisId: Prov.28.28
+    sblId: Prov 28:28
+    shortName: Прип 28:28
+    text: Коли підіймаються люди безбожні, людина ховається, а як гинуть вони, то
+      множаться праведні.
+  versesCount: 28
+- name: Приповісті 29
+  orderIndex: 28
+  osisId: Prov.29
+  sblId: Prov 29
+  shortName: Прип 29
+  verses:
+  - name: Приповісті 29:1
+    orderIndex: 0
+    osisId: Prov.29.1
+    sblId: Prov 29:1
+    shortName: Прип 29:1
+    text: Чоловік остережуваний, та твердошиїй, буде зламаний нагло, і ліку не буде
+      йому.
+  - name: Приповісті 29:2
+    orderIndex: 1
+    osisId: Prov.29.2
+    sblId: Prov 29:2
+    shortName: Прип 29:2
+    text: Коли множаться праведні, радіє народ, як панує ж безбожний то стогне народ.
+  - name: Приповісті 29:3
+    orderIndex: 2
+    osisId: Prov.29.3
+    sblId: Prov 29:3
+    shortName: Прип 29:3
+    text: Людина, що мудрість кохає, потішує батька свого, а хто попасає блудниць,
+      той губить маєток.
+  - name: Приповісті 29:4
+    orderIndex: 3
+    osisId: Prov.29.4
+    sblId: Prov 29:4
+    shortName: Прип 29:4
+    text: Цар утримує край правосуддям, а людина хабарна руйнує його.
+  - name: Приповісті 29:5
+    orderIndex: 4
+    osisId: Prov.29.5
+    sblId: Prov 29:5
+    shortName: Прип 29:5
+    text: Людина, що другові своєму підлещує, на стопах його пастку ставить.
+  - name: Приповісті 29:6
+    orderIndex: 5
+    osisId: Prov.29.6
+    sblId: Prov 29:6
+    shortName: Прип 29:6
+    text: У провині людини лихої знаходиться пастка, а справедливий радіє та тішиться.
+  - name: Приповісті 29:7
+    orderIndex: 6
+    osisId: Prov.29.7
+    sblId: Prov 29:7
+    shortName: Прип 29:7
+    text: Праведний знає про право вбогих, безбожний же не розуміє пізнання про це.
+  - name: Приповісті 29:8
+    orderIndex: 7
+    osisId: Prov.29.8
+    sblId: Prov 29:8
+    shortName: Прип 29:8
+    text: Люди глузливі підбурюють місто, а мудрі утишують гнів.
+  - name: Приповісті 29:9
+    orderIndex: 8
+    osisId: Prov.29.9
+    sblId: Prov 29:9
+    shortName: Прип 29:9
+    text: Мудра людина, що правується із нерозумним, то чи гнівається, чи сміється,
+      спокою не знає.
+  - name: Приповісті 29:10
+    orderIndex: 9
+    osisId: Prov.29.10
+    sblId: Prov 29:10
+    shortName: Прип 29:10
+    text: Кровожерці ненавидять праведного, справедливі ж шукають спасти його душу.
+  - name: Приповісті 29:11
+    orderIndex: 10
+    osisId: Prov.29.11
+    sblId: Prov 29:11
+    shortName: Прип 29:11
+    text: Глупак увесь свій гнів увиявляє, а мудрий назад його стримує.
+  - name: Приповісті 29:12
+    orderIndex: 11
+    osisId: Prov.29.12
+    sblId: Prov 29:12
+    shortName: Прип 29:12
+    text: Володар, що слухає слова брехливого, безбожні всі слуги його!
+  - name: Приповісті 29:13
+    orderIndex: 12
+    osisId: Prov.29.13
+    sblId: Prov 29:13
+    shortName: Прип 29:13
+    text: Убогий й гнобитель стрічаються, їм обом Господь очі освітлює.
+  - name: Приповісті 29:14
+    orderIndex: 13
+    osisId: Prov.29.14
+    sblId: Prov 29:14
+    shortName: Прип 29:14
+    text: Як цар правдою судить убогих, стоятиме трон його завжди.
+  - name: Приповісті 29:15
+    orderIndex: 14
+    osisId: Prov.29.15
+    sblId: Prov 29:15
+    shortName: Прип 29:15
+    text: Різка й поука премудрість дають, а дитина, залишена тільки собі, засоромлює
+      матір свою.
+  - name: Приповісті 29:16
+    orderIndex: 15
+    osisId: Prov.29.16
+    sblId: Prov 29:16
+    shortName: Прип 29:16
+    text: Як множаться несправедливі провина розмножується, але праведні бачитимуть
+      їхній упадок.
+  - name: Приповісті 29:17
+    orderIndex: 16
+    osisId: Prov.29.17
+    sblId: Prov 29:17
+    shortName: Прип 29:17
+    text: Карай сина свого й він тебе заспокоїть, і приємнощі дасть для твоєї душі.
+  - name: Приповісті 29:18
+    orderIndex: 17
+    osisId: Prov.29.18
+    sblId: Prov 29:18
+    shortName: Прип 29:18
+    text: Без пророчих видінь люд розбещений, коли ж стереже він Закона блаженний.
+  - name: Приповісті 29:19
+    orderIndex: 18
+    osisId: Prov.29.19
+    sblId: Prov 29:19
+    shortName: Прип 29:19
+    text: Раб словами не буде покараний, хоч він розуміє, але не послухає.
+  - name: Приповісті 29:20
+    orderIndex: 19
+    osisId: Prov.29.20
+    sblId: Prov 29:20
+    shortName: Прип 29:20
+    text: Чи бачив людину, квапливу в словах своїх? Більша надія глупцеві, ніж їй!
+  - name: Приповісті 29:21
+    orderIndex: 20
+    osisId: Prov.29.21
+    sblId: Prov 29:21
+    shortName: Прип 29:21
+    text: Хто розпещує змалку свого раба, то кінець його буде невдячний.
+  - name: Приповісті 29:22
+    orderIndex: 21
+    osisId: Prov.29.22
+    sblId: Prov 29:22
+    shortName: Прип 29:22
+    text: Гнівлива людина викликує сварку, а лютий вчиняє багато провин.
+  - name: Приповісті 29:23
+    orderIndex: 22
+    osisId: Prov.29.23
+    sblId: Prov 29:23
+    shortName: Прип 29:23
+    text: Гординя людини її понижає, а чести набуває покірливий духом.
+  - name: Приповісті 29:24
+    orderIndex: 23
+    osisId: Prov.29.24
+    sblId: Prov 29:24
+    shortName: Прип 29:24
+    text: Хто ділиться з злодієм, той ненавидить душу свою, він чує прокляття, та
+      не виявляє.
+  - name: Приповісті 29:25
+    orderIndex: 24
+    osisId: Prov.29.25
+    sblId: Prov 29:25
+    shortName: Прип 29:25
+    text: Страх перед людиною пастку дає, хто ж надію складає на Господа, буде безпечний.
+  - name: Приповісті 29:26
+    orderIndex: 25
+    osisId: Prov.29.26
+    sblId: Prov 29:26
+    shortName: Прип 29:26
+    text: Багато шукають для себе обличчя володаря, та від Господа суд для людини.
+  - name: Приповісті 29:27
+    orderIndex: 26
+    osisId: Prov.29.27
+    sblId: Prov 29:27
+    shortName: Прип 29:27
+    text: Насильник огида для праведних, а простодорогий огида безбожному.
+  versesCount: 27
+- name: Приповісті 30
+  orderIndex: 29
+  osisId: Prov.30
+  sblId: Prov 30
+  shortName: Прип 30
+  verses:
+  - name: Приповісті 30:1
+    orderIndex: 0
+    osisId: Prov.30.1
+    sblId: Prov 30:1
+    shortName: Прип 30:1
+    text: 'Слова Агура, Якеєвого сина, массеянина: Слово мужчини: Трудився я, Боже,
+      трудився я, Боже, і змучився я!'
+  - name: Приповісті 30:2
+    orderIndex: 1
+    osisId: Prov.30.2
+    sblId: Prov 30:2
+    shortName: Прип 30:2
+    text: Бо думаю, що немудріший за кожного я, і не маю я людського розуму,
+  - name: Приповісті 30:3
+    orderIndex: 2
+    osisId: Prov.30.3
+    sblId: Prov 30:3
+    shortName: Прип 30:3
+    text: і не навчився я мудрости, і не знаю пізнання святих...
+  - name: Приповісті 30:4
+    orderIndex: 3
+    osisId: Prov.30.4
+    sblId: Prov 30:4
+    shortName: Прип 30:4
+    text: Хто на небо ввійшов і зійшов? Хто у жмені свої зібрав вітер? Хто воду в
+      одежу зв'язав? Хто поставив усі кінці землі? Яке ймення його, і яке ймення сина
+      його, коли знаєш?
+  - name: Приповісті 30:5
+    orderIndex: 4
+    osisId: Prov.30.5
+    sblId: Prov 30:5
+    shortName: Прип 30:5
+    text: Кожне Боже слово очищене, щит Він для тих, хто в Нім пристановище має.
+  - name: Приповісті 30:6
+    orderIndex: 5
+    osisId: Prov.30.6
+    sblId: Prov 30:6
+    shortName: Прип 30:6
+    text: До слів Його не додавай, щоб тебе не скартав Він, і щоб неправдомовцем не
+      став ти.
+  - name: Приповісті 30:7
+    orderIndex: 6
+    osisId: Prov.30.7
+    sblId: Prov 30:7
+    shortName: Прип 30:7
+    text: 'Двох речей я від Тебе просив, не відмов мені, поки помру:'
+  - name: Приповісті 30:8
+    orderIndex: 7
+    osisId: Prov.30.8
+    sblId: Prov 30:8
+    shortName: Прип 30:8
+    text: віддали Ти від мене марноту та слово брехливе, убозтва й багатства мені
+      не давай! Годуй мене хлібом, для мене призначеним,
+  - name: Приповісті 30:9
+    orderIndex: 8
+    osisId: Prov.30.9
+    sblId: Prov 30:9
+    shortName: Прип 30:9
+    text: 'щоб я не переситився та й не відрікся, і не сказав: Хто Господь? і щоб
+      я не збіднів і не крав, і не зневажив Ім''я мого Бога.'
+  - name: Приповісті 30:10
+    orderIndex: 9
+    osisId: Prov.30.10
+    sblId: Prov 30:10
+    shortName: Прип 30:10
+    text: Раба не обмовляй перед паном його, щоб тебе не прокляв він, і ти винуватим
+      не став.
+  - name: Приповісті 30:11
+    orderIndex: 10
+    osisId: Prov.30.11
+    sblId: Prov 30:11
+    shortName: Прип 30:11
+    text: Оце покоління, що батька свого проклинає, і неньки своєї не благословляє,
+  - name: Приповісті 30:12
+    orderIndex: 11
+    osisId: Prov.30.12
+    sblId: Prov 30:12
+    shortName: Прип 30:12
+    text: покоління, що чисте в очах своїх, та від бруду свого не обмите,
+  - name: Приповісті 30:13
+    orderIndex: 12
+    osisId: Prov.30.13
+    sblId: Prov 30:13
+    shortName: Прип 30:13
+    text: покоління, які гордісні очі його, а повіки його як піднеслися!
+  - name: Приповісті 30:14
+    orderIndex: 13
+    osisId: Prov.30.14
+    sblId: Prov 30:14
+    shortName: Прип 30:14
+    text: Покоління, що в нього мечі його зуби, а гострі ножі його щелепи, щоб пожерти
+      убогих із краю й нужденних з землі!
+  - name: Приповісті 30:15
+    orderIndex: 14
+    osisId: Prov.30.15
+    sblId: Prov 30:15
+    shortName: Прип 30:15
+    text: 'Дві дочки в кровожерця: Дай, дай! Оці три не наситяться, чотири не скажуть
+      досить:'
+  - name: Приповісті 30:16
+    orderIndex: 15
+    osisId: Prov.30.16
+    sblId: Prov 30:16
+    shortName: Прип 30:16
+    text: шеол та утроба неплідна, водою земля не насититься, і не скаже досить огонь!
+  - name: Приповісті 30:17
+    orderIndex: 16
+    osisId: Prov.30.17
+    sblId: Prov 30:17
+    shortName: Прип 30:17
+    text: Око, що з батька сміється й погорджує послухом матері, нехай видзьобають
+      його круки поточні, і нехай орленята його пожеруть!
+  - name: Приповісті 30:18
+    orderIndex: 17
+    osisId: Prov.30.18
+    sblId: Prov 30:18
+    shortName: Прип 30:18
+    text: 'Три речі оці дивовижні для мене, і чотири, яких я не знаю:'
+  - name: Приповісті 30:19
+    orderIndex: 18
+    osisId: Prov.30.19
+    sblId: Prov 30:19
+    shortName: Прип 30:19
+    text: дорога орлина в повітрі, дорога зміїна на скелі, корабельна дорога в середині
+      моря, і дорога мужчини при дівчині!...
+  - name: Приповісті 30:20
+    orderIndex: 19
+    osisId: Prov.30.20
+    sblId: Prov 30:20
+    shortName: Прип 30:20
+    text: 'Така ось дорога блудливої жінки: наїлась та витерла уста свої й повіла:
+      Не вчинила я злого!...'
+  - name: Приповісті 30:21
+    orderIndex: 20
+    osisId: Prov.30.21
+    sblId: Prov 30:21
+    shortName: Прип 30:21
+    text: 'Трясеться земля під трьома, і під чотирма, яких знести не може вона:'
+  - name: Приповісті 30:22
+    orderIndex: 21
+    osisId: Prov.30.22
+    sblId: Prov 30:22
+    shortName: Прип 30:22
+    text: під рабом, коли він зацарює, і під нерозумним, як хліба наїсться,
+  - name: Приповісті 30:23
+    orderIndex: 22
+    osisId: Prov.30.23
+    sblId: Prov 30:23
+    shortName: Прип 30:23
+    text: під розпустницею, коли взята за жінку, і невільницею, коли вижене пані свою!...
+  - name: Приповісті 30:24
+    orderIndex: 23
+    osisId: Prov.30.24
+    sblId: Prov 30:24
+    shortName: Прип 30:24
+    text: 'Оці ось чотири малі на землі, та вони вельми мудрі:'
+  - name: Приповісті 30:25
+    orderIndex: 24
+    osisId: Prov.30.25
+    sblId: Prov 30:25
+    shortName: Прип 30:25
+    text: мурашки, не сильний народ, та поживу свою заготовлюють літом;
+  - name: Приповісті 30:26
+    orderIndex: 25
+    osisId: Prov.30.26
+    sblId: Prov 30:26
+    shortName: Прип 30:26
+    text: борсуки, люд не сильний, та в скелі свій дім вони ставлять;
+  - name: Приповісті 30:27
+    orderIndex: 26
+    osisId: Prov.30.27
+    sblId: Prov 30:27
+    shortName: Прип 30:27
+    text: немає царя в сарани, але вся вона в строї бойовім виходить;
+  - name: Приповісті 30:28
+    orderIndex: 27
+    osisId: Prov.30.28
+    sblId: Prov 30:28
+    shortName: Прип 30:28
+    text: павук тільки лапками пнеться, та він і в палатах царських!
+  - name: Приповісті 30:29
+    orderIndex: 28
+    osisId: Prov.30.29
+    sblId: Prov 30:29
+    shortName: Прип 30:29
+    text: 'Добре ступають ці троє, і добре ходять чотири:'
+  - name: Приповісті 30:30
+    orderIndex: 29
+    osisId: Prov.30.30
+    sblId: Prov 30:30
+    shortName: Прип 30:30
+    text: лев, найсильніший поміж звіриною, який не вступається ні перед ким,
+  - name: Приповісті 30:31
+    orderIndex: 30
+    osisId: Prov.30.31
+    sblId: Prov 30:31
+    shortName: Прип 30:31
+    text: осідланий кінь, і козел, та той цар, що з ним військо!
+  - name: Приповісті 30:32
+    orderIndex: 31
+    osisId: Prov.30.32
+    sblId: Prov 30:32
+    shortName: Прип 30:32
+    text: Якщо ти допустився глупоти пихою, й якщо заміряєш лихе, то руку на уста!
+  - name: Приповісті 30:33
+    orderIndex: 32
+    osisId: Prov.30.33
+    sblId: Prov 30:33
+    shortName: Прип 30:33
+    text: Бо збивання молока дає масло, і дає кров вдар по носі, тиск же на гнів дає
+      сварку.
+  versesCount: 33
+- name: Приповісті 31
+  orderIndex: 30
+  osisId: Prov.31
+  sblId: Prov 31
+  shortName: Прип 31
+  verses:
+  - name: Приповісті 31:1
+    orderIndex: 0
+    osisId: Prov.31.1
+    sblId: Prov 31:1
+    shortName: Прип 31:1
+    text: 'Слова Лемуїла, царя Масси, що ними навчала його його мати:'
+  - name: Приповісті 31:2
+    orderIndex: 1
+    osisId: Prov.31.2
+    sblId: Prov 31:2
+    shortName: Прип 31:2
+    text: Що, сину мій, і що, сину утроби моєї, і що, сину обітниць моїх?
+  - name: Приповісті 31:3
+    orderIndex: 2
+    osisId: Prov.31.3
+    sblId: Prov 31:3
+    shortName: Прип 31:3
+    text: Не давай жінкам сили своєї, ні доріг своїх для руйнувальниць царів!
+  - name: Приповісті 31:4
+    orderIndex: 3
+    osisId: Prov.31.4
+    sblId: Prov 31:4
+    shortName: Прип 31:4
+    text: Не царям, Лемуїле, вино, не царям, і напій той п'янкий не князям,
+  - name: Приповісті 31:5
+    orderIndex: 4
+    osisId: Prov.31.5
+    sblId: Prov 31:5
+    shortName: Прип 31:5
+    text: щоб не впився він та не забув про Закона, і щоб не змінив для всіх гноблених
+      права!
+  - name: Приповісті 31:6
+    orderIndex: 5
+    osisId: Prov.31.6
+    sblId: Prov 31:6
+    shortName: Прип 31:6
+    text: 'Дайте напою п''янкого тому, хто гине, а вина гіркодухим:'
+  - name: Приповісті 31:7
+    orderIndex: 6
+    osisId: Prov.31.7
+    sblId: Prov 31:7
+    shortName: Прип 31:7
+    text: він вип'є й забуде за бідність свою, і муки своєї вже не пам'ятатиме!
+  - name: Приповісті 31:8
+    orderIndex: 7
+    osisId: Prov.31.8
+    sblId: Prov 31:8
+    shortName: Прип 31:8
+    text: Відкривай свої уста немові, для суда всім нещасним.
+  - name: Приповісті 31:9
+    orderIndex: 8
+    osisId: Prov.31.9
+    sblId: Prov 31:9
+    shortName: Прип 31:9
+    text: Відкривай свої уста, й суди справедливо, і правосуддя зроби для убогого
+      та для нужденного.
+  - name: Приповісті 31:10
+    orderIndex: 9
+    osisId: Prov.31.10
+    sblId: Prov 31:10
+    shortName: Прип 31:10
+    text: 'Хто жінку чеснотну знайде? а ціна її більша від перел:'
+  - name: Приповісті 31:11
+    orderIndex: 10
+    osisId: Prov.31.11
+    sblId: Prov 31:11
+    shortName: Прип 31:11
+    text: довіряє їй серце її чоловіка, і йому не забракне прибутку!
+  - name: Приповісті 31:12
+    orderIndex: 11
+    osisId: Prov.31.12
+    sblId: Prov 31:12
+    shortName: Прип 31:12
+    text: Вона чинить для нього добро, а не зло, по всі дні свого життя.
+  - name: Приповісті 31:13
+    orderIndex: 12
+    osisId: Prov.31.13
+    sblId: Prov 31:13
+    shortName: Прип 31:13
+    text: Шукає вона вовни й льону, і робить охоче своїми руками.
+  - name: Приповісті 31:14
+    orderIndex: 13
+    osisId: Prov.31.14
+    sblId: Prov 31:14
+    shortName: Прип 31:14
+    text: Вона, немов кораблі ті купецькі, здалека спроваджує хліб свій.
+  - name: Приповісті 31:15
+    orderIndex: 14
+    osisId: Prov.31.15
+    sblId: Prov 31:15
+    shortName: Прип 31:15
+    text: І встане вона ще вночі, і видасть для дому свого поживу, а порядок служницям
+      своїм.
+  - name: Приповісті 31:16
+    orderIndex: 15
+    osisId: Prov.31.16
+    sblId: Prov 31:16
+    shortName: Прип 31:16
+    text: Про поле вона намишляла, і його набула, із плоду долоней своїх засадила
+      вона виноградника.
+  - name: Приповісті 31:17
+    orderIndex: 16
+    osisId: Prov.31.17
+    sblId: Prov 31:17
+    shortName: Прип 31:17
+    text: Вона підперізує силою стегна свої та зміцняє рамена свої.
+  - name: Приповісті 31:18
+    orderIndex: 17
+    osisId: Prov.31.18
+    sblId: Prov 31:18
+    shortName: Прип 31:18
+    text: Вона розуміє, що добра робота її, і світильник її не погасне вночі.
+  - name: Приповісті 31:19
+    orderIndex: 18
+    osisId: Prov.31.19
+    sblId: Prov 31:19
+    shortName: Прип 31:19
+    text: Вона руки свої простягає до прядки, а долоні її веретено тримають.
+  - name: Приповісті 31:20
+    orderIndex: 19
+    osisId: Prov.31.20
+    sblId: Prov 31:20
+    shortName: Прип 31:20
+    text: Долоню свою відкриває для вбогого, а руки свої простягає до бідного.
+  - name: Приповісті 31:21
+    orderIndex: 20
+    osisId: Prov.31.21
+    sblId: Prov 31:21
+    shortName: Прип 31:21
+    text: Холоду в домі своїм не боїться вона, бо подвійно одягнений ввесь її дім.
+  - name: Приповісті 31:22
+    orderIndex: 21
+    osisId: Prov.31.22
+    sblId: Prov 31:22
+    shortName: Прип 31:22
+    text: Килими поробила собі, віссон та кармазин убрання її.
+  - name: Приповісті 31:23
+    orderIndex: 22
+    osisId: Prov.31.23
+    sblId: Prov 31:23
+    shortName: Прип 31:23
+    text: Чоловік її знаний при брамах, як сидить він із старшими краю.
+  - name: Приповісті 31:24
+    orderIndex: 23
+    osisId: Prov.31.24
+    sblId: Prov 31:24
+    shortName: Прип 31:24
+    text: Тонку туніку робить вона й продає, і купцеві дає пояси.
+  - name: Приповісті 31:25
+    orderIndex: 24
+    osisId: Prov.31.25
+    sblId: Prov 31:25
+    shortName: Прип 31:25
+    text: Сила та пишність одежа її, і сміється вона до прийдещнього дня.
+  - name: Приповісті 31:26
+    orderIndex: 25
+    osisId: Prov.31.26
+    sblId: Prov 31:26
+    shortName: Прип 31:26
+    text: Свої уста вона відкриває на мудрість, і милостива наука їй на язиці.
+  - name: Приповісті 31:27
+    orderIndex: 26
+    osisId: Prov.31.27
+    sblId: Prov 31:27
+    shortName: Прип 31:27
+    text: Доглядає вона ходи дому свого, і хліба з лінивства не їсть.
+  - name: Приповісті 31:28
+    orderIndex: 27
+    osisId: Prov.31.28
+    sblId: Prov 31:28
+    shortName: Прип 31:28
+    text: 'Устають її діти, і хвалять її, чоловік її й він похваляє її:'
+  - name: Приповісті 31:29
+    orderIndex: 28
+    osisId: Prov.31.29
+    sblId: Prov 31:29
+    shortName: Прип 31:29
+    text: Багато було тих чеснотних дочок, та ти їх усіх перевищила!
+  - name: Приповісті 31:30
+    orderIndex: 29
+    osisId: Prov.31.30
+    sblId: Prov 31:30
+    shortName: Прип 31:30
+    text: Краса то омана, а врода марнота, жінка ж богобоязна вона буде хвалена!
+  - name: Приповісті 31:31
+    orderIndex: 30
+    osisId: Prov.31.31
+    sblId: Prov 31:31
+    shortName: Прип 31:31
+    text: Дайте їй з плоду рук її, і нехай її вчинки її вихваляють при брамах!
+  versesCount: 31
+chaptersCount: 31
+name: Приповісті
+orderIndex: 19
+osisId: Prov
+sblId: Prov
+shortName: Прип
+versesCount: 915

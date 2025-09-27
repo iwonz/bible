@@ -1,0 +1,1027 @@
+{
+  "osisId": "Song",
+  "sblId": "Song",
+  "name": "雅歌",
+  "shortName": "歌",
+  "orderIndex": 21,
+  "chaptersCount": 8,
+  "versesCount": 117,
+  "chapters": [
+    {
+      "osisId": "Song.1",
+      "sblId": "Song 1",
+      "name": "雅歌 1",
+      "shortName": "歌 1",
+      "orderIndex": 0,
+      "versesCount": 17,
+      "verses": [
+        {
+          "osisId": "Song.1.1",
+          "sblId": "Song 1:1",
+          "name": "雅歌 1:1",
+          "shortName": "歌 1:1",
+          "text": "所羅門 的雅歌 。",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.1.2",
+          "sblId": "Song 1:2",
+          "name": "雅歌 1:2",
+          "shortName": "歌 1:2",
+          "text": "願他用口與我親吻。 你的愛情比酒更美，",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.1.3",
+          "sblId": "Song 1:3",
+          "name": "雅歌 1:3",
+          "shortName": "歌 1:3",
+          "text": "你的膏油馨香， 你的名如傾瀉而出的香膏， 所以童女都愛你。",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.1.4",
+          "sblId": "Song 1:4",
+          "name": "雅歌 1:4",
+          "shortName": "歌 1:4",
+          "text": "願你吸引我跟隨你；讓我們快跑吧！ 王領我進入他的內室。 我們必因你歡喜快樂， 我們要思念你的愛情， 勝似思念美酒。 她們愛你是理所當然的。",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.1.5",
+          "sblId": "Song 1:5",
+          "name": "雅歌 1:5",
+          "shortName": "歌 1:5",
+          "text": "耶路撒冷 的女子啊， 我雖然黑，卻是秀美， 如同 基達 的帳棚， 好像 所羅門 的幔子，",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.1.6",
+          "sblId": "Song 1:6",
+          "name": "雅歌 1:6",
+          "shortName": "歌 1:6",
+          "text": "不要因太陽把我曬黑了就瞪著我。 我母親的兒子向我發怒， 他們使我看守葡萄園； 我自己的葡萄園我卻沒有看守。",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.1.7",
+          "sblId": "Song 1:7",
+          "name": "雅歌 1:7",
+          "shortName": "歌 1:7",
+          "text": "我心所愛的啊，請告訴我， 你在何處牧羊？ 正午在何處使羊歇臥？ 我何必像蒙著臉的女子 在你同伴的羊群旁邊呢？",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.1.8",
+          "sblId": "Song 1:8",
+          "name": "雅歌 1:8",
+          "shortName": "歌 1:8",
+          "text": "你這女子中最美麗的， 你若不知道， 只管跟隨羊群的腳蹤行， 在牧人的帳棚邊，牧放你的小山羊。",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.1.9",
+          "sblId": "Song 1:9",
+          "name": "雅歌 1:9",
+          "shortName": "歌 1:9",
+          "text": "我的佳偶， 你好比法老戰車上的駿馬。",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.1.10",
+          "sblId": "Song 1:10",
+          "name": "雅歌 1:10",
+          "shortName": "歌 1:10",
+          "text": "你的兩頰因髮辮而秀美， 你的頸項因珠串而華麗。",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.1.11",
+          "sblId": "Song 1:11",
+          "name": "雅歌 1:11",
+          "shortName": "歌 1:11",
+          "text": "我們要為你編上金鏈，鑲上銀飾。",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.1.12",
+          "sblId": "Song 1:12",
+          "name": "雅歌 1:12",
+          "shortName": "歌 1:12",
+          "text": "王正坐席的時候， 我的哪噠香膏散發香味。",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.1.13",
+          "sblId": "Song 1:13",
+          "name": "雅歌 1:13",
+          "shortName": "歌 1:13",
+          "text": "我的良人好像一袋沒藥， 在我胸懷中。",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.1.14",
+          "sblId": "Song 1:14",
+          "name": "雅歌 1:14",
+          "shortName": "歌 1:14",
+          "text": "我的良人好像一束鳳仙花， 在 隱‧基底 的葡萄園中。",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Song.1.15",
+          "sblId": "Song 1:15",
+          "name": "雅歌 1:15",
+          "shortName": "歌 1:15",
+          "text": "看哪，我的佳偶，你真美麗！ 看哪，你真美麗！你的眼睛是鴿子。",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Song.1.16",
+          "sblId": "Song 1:16",
+          "name": "雅歌 1:16",
+          "shortName": "歌 1:16",
+          "text": "看哪，我的良人，你多英俊可愛！ 讓我們以青草為床榻，",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Song.1.17",
+          "sblId": "Song 1:17",
+          "name": "雅歌 1:17",
+          "shortName": "歌 1:17",
+          "text": "以香柏樹為房子的棟梁， 以松樹作屋頂的椽木。",
+          "orderIndex": 16
+        }
+      ]
+    },
+    {
+      "osisId": "Song.2",
+      "sblId": "Song 2",
+      "name": "雅歌 2",
+      "shortName": "歌 2",
+      "orderIndex": 1,
+      "versesCount": 17,
+      "verses": [
+        {
+          "osisId": "Song.2.1",
+          "sblId": "Song 2:1",
+          "name": "雅歌 2:1",
+          "shortName": "歌 2:1",
+          "text": "我是 沙崙 的玫瑰花， 是谷中的百合花。",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.2.2",
+          "sblId": "Song 2:2",
+          "name": "雅歌 2:2",
+          "shortName": "歌 2:2",
+          "text": "我的佳偶在女子中， 好像荊棘裏的百合花。",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.2.3",
+          "sblId": "Song 2:3",
+          "name": "雅歌 2:3",
+          "shortName": "歌 2:3",
+          "text": "我的良人在男子中， 如同蘋果樹在樹林裏。 我歡歡喜喜坐在他的蔭下， 嘗他果子的滋味，覺得甘甜。",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.2.4",
+          "sblId": "Song 2:4",
+          "name": "雅歌 2:4",
+          "shortName": "歌 2:4",
+          "text": "他領我進入宴會廳， 為我插上愛的旗幟。",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.2.5",
+          "sblId": "Song 2:5",
+          "name": "雅歌 2:5",
+          "shortName": "歌 2:5",
+          "text": "請你們用葡萄餅增補我力， 以蘋果暢快我的心， 因我為愛而生病。",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.2.6",
+          "sblId": "Song 2:6",
+          "name": "雅歌 2:6",
+          "shortName": "歌 2:6",
+          "text": "他的左手在我頭下， 他的右手將我環抱。",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.2.7",
+          "sblId": "Song 2:7",
+          "name": "雅歌 2:7",
+          "shortName": "歌 2:7",
+          "text": "耶路撒冷 的女子啊， 我指著羚羊或田野的母鹿囑咐你們， 不要喚醒，不要挑動愛情，等它自發。",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.2.8",
+          "sblId": "Song 2:8",
+          "name": "雅歌 2:8",
+          "shortName": "歌 2:8",
+          "text": "聽啊！我良人的聲音， 看哪！他穿山越嶺而來。",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.2.9",
+          "sblId": "Song 2:9",
+          "name": "雅歌 2:9",
+          "shortName": "歌 2:9",
+          "text": "我的良人像羚羊，像小鹿。 看哪，他站在我們的牆壁邊， 從窗戶往裏觀看， 從窗格子往裏窺探。",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.2.10",
+          "sblId": "Song 2:10",
+          "name": "雅歌 2:10",
+          "shortName": "歌 2:10",
+          "text": "我的良人對我說： 「我的佳偶，起來！ 我的美人，與我同去！",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.2.11",
+          "sblId": "Song 2:11",
+          "name": "雅歌 2:11",
+          "shortName": "歌 2:11",
+          "text": "看哪，因為冬天已逝， 雨水止住，已經過去了。",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.2.12",
+          "sblId": "Song 2:12",
+          "name": "雅歌 2:12",
+          "shortName": "歌 2:12",
+          "text": "地上百花開放， 歌唱的時候到了， 斑鳩的聲音在我們境內也聽見了。",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.2.13",
+          "sblId": "Song 2:13",
+          "name": "雅歌 2:13",
+          "shortName": "歌 2:13",
+          "text": "無花果樹的果子漸漸成熟， 葡萄樹開花，散發香氣。 我的佳偶，起來！ 我的美人，與我同去！",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.2.14",
+          "sblId": "Song 2:14",
+          "name": "雅歌 2:14",
+          "shortName": "歌 2:14",
+          "text": "我的鴿子啊，你在磐石穴中， 在陡巖的隱密處。 求你容我得見你的面貌， 求你容我得聽你的聲音； 因你的聲音悅耳， 你的容貌秀美。",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Song.2.15",
+          "sblId": "Song 2:15",
+          "name": "雅歌 2:15",
+          "shortName": "歌 2:15",
+          "text": "請為我們擒拿狐狸， 就是毀壞葡萄園的小狐狸， 我們的葡萄正在開花。」",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Song.2.16",
+          "sblId": "Song 2:16",
+          "name": "雅歌 2:16",
+          "shortName": "歌 2:16",
+          "text": "我的良人屬我，我也屬他， 他在百合花中放牧。",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Song.2.17",
+          "sblId": "Song 2:17",
+          "name": "雅歌 2:17",
+          "shortName": "歌 2:17",
+          "text": "我的良人哪， 等到天起涼風、 日影飛去的時候， 願你歸回，像羚羊， 像小鹿，在崎嶇的山 上。",
+          "orderIndex": 16
+        }
+      ]
+    },
+    {
+      "osisId": "Song.3",
+      "sblId": "Song 3",
+      "name": "雅歌 3",
+      "shortName": "歌 3",
+      "orderIndex": 2,
+      "versesCount": 11,
+      "verses": [
+        {
+          "osisId": "Song.3.1",
+          "sblId": "Song 3:1",
+          "name": "雅歌 3:1",
+          "shortName": "歌 3:1",
+          "text": "我夜間躺臥在床上， 尋找我心所愛的； 我尋找他，卻尋不著。",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.3.2",
+          "sblId": "Song 3:2",
+          "name": "雅歌 3:2",
+          "shortName": "歌 3:2",
+          "text": "「我要起來，繞行城中， 在街市上，在廣場上， 尋找我心所愛的。」 我尋找他，卻尋不著。",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.3.3",
+          "sblId": "Song 3:3",
+          "name": "雅歌 3:3",
+          "shortName": "歌 3:3",
+          "text": "城中巡邏的守衛遇見我， 「你們看見我心所愛的沒有？」",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.3.4",
+          "sblId": "Song 3:4",
+          "name": "雅歌 3:4",
+          "shortName": "歌 3:4",
+          "text": "我剛離開他們，就遇見我心所愛的。 我拉住他，不放他走， 領他進入我母親的家， 到懷我者的內室。",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.3.5",
+          "sblId": "Song 3:5",
+          "name": "雅歌 3:5",
+          "shortName": "歌 3:5",
+          "text": "耶路撒冷 的女子啊， 我指著羚羊或田野的母鹿囑咐你們， 不要喚醒，不要挑動愛情，等它自發。",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.3.6",
+          "sblId": "Song 3:6",
+          "name": "雅歌 3:6",
+          "shortName": "歌 3:6",
+          "text": "那如煙柱從曠野上來， 薰了沒藥、乳香，撲上商人各樣香粉的是誰呢？",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.3.7",
+          "sblId": "Song 3:7",
+          "name": "雅歌 3:7",
+          "shortName": "歌 3:7",
+          "text": "看哪，是 所羅門 的轎， 周圍有六十個勇士， 都是 以色列 中的勇士。",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.3.8",
+          "sblId": "Song 3:8",
+          "name": "雅歌 3:8",
+          "shortName": "歌 3:8",
+          "text": "他們的手都持刀，善於爭戰， 各人腰間佩刀，防備夜間恐怖的攻擊。",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.3.9",
+          "sblId": "Song 3:9",
+          "name": "雅歌 3:9",
+          "shortName": "歌 3:9",
+          "text": "所羅門 王用 黎巴嫩 木 為自己製作轎子。",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.3.10",
+          "sblId": "Song 3:10",
+          "name": "雅歌 3:10",
+          "shortName": "歌 3:10",
+          "text": "轎柱是用銀做的， 轎底是用金做的， 坐墊是紫色的， 其中所鋪的是 耶路撒冷 女子的愛情。",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.3.11",
+          "sblId": "Song 3:11",
+          "name": "雅歌 3:11",
+          "shortName": "歌 3:11",
+          "text": "錫安的女子啊， 你們要出去觀看 所羅門 王！ 他頭戴冠冕，就是在他結婚當天 心中喜樂的時候，他母親給他戴上的。",
+          "orderIndex": 10
+        }
+      ]
+    },
+    {
+      "osisId": "Song.4",
+      "sblId": "Song 4",
+      "name": "雅歌 4",
+      "shortName": "歌 4",
+      "orderIndex": 3,
+      "versesCount": 16,
+      "verses": [
+        {
+          "osisId": "Song.4.1",
+          "sblId": "Song 4:1",
+          "name": "雅歌 4:1",
+          "shortName": "歌 4:1",
+          "text": "看哪，我的佳偶，你真美麗！看哪，你真美麗！ 你的眼睛在面紗後好像鴿子。 你的頭髮如同一群山羊，從 基列山 下來。",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.4.2",
+          "sblId": "Song 4:2",
+          "name": "雅歌 4:2",
+          "shortName": "歌 4:2",
+          "text": "你的牙齒如新剪毛的一群母羊，洗淨之後走上來， 它們成對，沒有一顆是單獨的。",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.4.3",
+          "sblId": "Song 4:3",
+          "name": "雅歌 4:3",
+          "shortName": "歌 4:3",
+          "text": "你的唇好像一條朱紅線， 你的嘴秀美。 你的鬢角在面紗後， 如同迸開的石榴。",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.4.4",
+          "sblId": "Song 4:4",
+          "name": "雅歌 4:4",
+          "shortName": "歌 4:4",
+          "text": "你的頸項猶如 大衛 為收藏軍器而造的高塔， 其上懸掛一千個盾牌， 都是勇士的盾牌。",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.4.5",
+          "sblId": "Song 4:5",
+          "name": "雅歌 4:5",
+          "shortName": "歌 4:5",
+          "text": "你的兩乳好像百合花中吃草的一對小鹿， 是母鹿雙生的。",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.4.6",
+          "sblId": "Song 4:6",
+          "name": "雅歌 4:6",
+          "shortName": "歌 4:6",
+          "text": "我要往沒藥山和乳香岡去， 直到天起涼風、 日影飛去的時候。",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.4.7",
+          "sblId": "Song 4:7",
+          "name": "雅歌 4:7",
+          "shortName": "歌 4:7",
+          "text": "我的佳偶，你全然美麗， 毫無瑕疵！",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.4.8",
+          "sblId": "Song 4:8",
+          "name": "雅歌 4:8",
+          "shortName": "歌 4:8",
+          "text": "我的新娘，請你與我一同離開 黎巴嫩 ， 與我一同離開 黎巴嫩 。 從 亞瑪拿 山巔， 從 示尼珥 ，就是 黑門山 頂， 從獅子的洞， 從豹子的山往下觀看。",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.4.9",
+          "sblId": "Song 4:9",
+          "name": "雅歌 4:9",
+          "shortName": "歌 4:9",
+          "text": "我的妹子，我的新娘， 你奪了我的心。 你明眸一瞥， 你頸項的鏈子， 奪了我的心！",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.4.10",
+          "sblId": "Song 4:10",
+          "name": "雅歌 4:10",
+          "shortName": "歌 4:10",
+          "text": "我的妹子，我的新娘， 你的愛情 何其美！ 你的愛情比酒甜美！ 你膏油的馨香勝過一切香料！",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.4.11",
+          "sblId": "Song 4:11",
+          "name": "雅歌 4:11",
+          "shortName": "歌 4:11",
+          "text": "我的新娘，你的唇滴下蜂蜜， 你的舌下有蜜，有奶。 你衣服的香氣宛如 黎巴嫩 的芬芳。",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.4.12",
+          "sblId": "Song 4:12",
+          "name": "雅歌 4:12",
+          "shortName": "歌 4:12",
+          "text": "我的妹子，我的新娘 是上鎖的園子， 是禁閉的園子 ， 是封閉的泉源。",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.4.13",
+          "sblId": "Song 4:13",
+          "name": "雅歌 4:13",
+          "shortName": "歌 4:13",
+          "text": "你園內所種的結了石榴， 有佳美的果子， 並鳳仙花與哪噠樹。",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.4.14",
+          "sblId": "Song 4:14",
+          "name": "雅歌 4:14",
+          "shortName": "歌 4:14",
+          "text": "有哪噠和番紅花， 香菖蒲和桂樹， 並各樣乳香木、沒藥、沉香， 與一切上等的香料。",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Song.4.15",
+          "sblId": "Song 4:15",
+          "name": "雅歌 4:15",
+          "shortName": "歌 4:15",
+          "text": "你是園中的泉，活水的井， 是從 黎巴嫩 湧流而下的溪水。",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Song.4.16",
+          "sblId": "Song 4:16",
+          "name": "雅歌 4:16",
+          "shortName": "歌 4:16",
+          "text": "北風啊，興起！ 南風啊，吹來！ 吹在我的園內， 使其中的香氣散發出來。 願我的良人進入自己園裏， 吃他佳美的果子。",
+          "orderIndex": 15
+        }
+      ]
+    },
+    {
+      "osisId": "Song.5",
+      "sblId": "Song 5",
+      "name": "雅歌 5",
+      "shortName": "歌 5",
+      "orderIndex": 4,
+      "versesCount": 16,
+      "verses": [
+        {
+          "osisId": "Song.5.1",
+          "sblId": "Song 5:1",
+          "name": "雅歌 5:1",
+          "shortName": "歌 5:1",
+          "text": "我的妹子，我的新娘， 我進入我的園中， 採了我的沒藥和香料， 吃了我的蜂房和蜂蜜， 喝了我的酒和奶。 我的朋友，請吃！ 我親愛的，請喝，多多地喝！",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.5.2",
+          "sblId": "Song 5:2",
+          "name": "雅歌 5:2",
+          "shortName": "歌 5:2",
+          "text": "我身躺臥，我心卻醒。 這是我良人的聲音； 他敲門： 「我的妹子，我的佳偶， 我的鴿子，我完美的人兒， 請你為我開門； 因我的頭沾滿露水， 我的髮被夜露滴濕。」",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.5.3",
+          "sblId": "Song 5:3",
+          "name": "雅歌 5:3",
+          "shortName": "歌 5:3",
+          "text": "我脫了衣裳，怎能再穿上呢？ 我洗了腳，怎可再弄髒呢？",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.5.4",
+          "sblId": "Song 5:4",
+          "name": "雅歌 5:4",
+          "shortName": "歌 5:4",
+          "text": "我的良人從門縫裏伸進他的手， 我便因他動了心。",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.5.5",
+          "sblId": "Song 5:5",
+          "name": "雅歌 5:5",
+          "shortName": "歌 5:5",
+          "text": "我起來，要為我的良人開門。 我的兩手滴下沒藥， 我的指頭有沒藥汁滴在門閂上。",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.5.6",
+          "sblId": "Song 5:6",
+          "name": "雅歌 5:6",
+          "shortName": "歌 5:6",
+          "text": "我為我的良人開了門， 我的良人卻已轉身走了。 他說話的時候，我魂不守舍。 我尋找他，竟尋不著， 我呼叫他，他卻不回答。",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.5.7",
+          "sblId": "Song 5:7",
+          "name": "雅歌 5:7",
+          "shortName": "歌 5:7",
+          "text": "城中巡邏的守衛遇見我， 打了我，傷了我， 看守城牆的人奪去我的披肩。",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.5.8",
+          "sblId": "Song 5:8",
+          "name": "雅歌 5:8",
+          "shortName": "歌 5:8",
+          "text": "耶路撒冷 的女子啊，我囑咐你們： 若遇見我的良人， 要告訴他，我為愛而生病。",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.5.9",
+          "sblId": "Song 5:9",
+          "name": "雅歌 5:9",
+          "shortName": "歌 5:9",
+          "text": "你這女子中最美麗的， 你的良人有甚麼勝過別的良人呢？ 你的良人有甚麼勝過別的良人， 使你這樣囑咐我們？",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.5.10",
+          "sblId": "Song 5:10",
+          "name": "雅歌 5:10",
+          "shortName": "歌 5:10",
+          "text": "我的良人紅潤發亮， 超乎萬人之上。",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.5.11",
+          "sblId": "Song 5:11",
+          "name": "雅歌 5:11",
+          "shortName": "歌 5:11",
+          "text": "他的頭像千足的純金， 他的髮綹卷曲，黑如烏鴉。",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.5.12",
+          "sblId": "Song 5:12",
+          "name": "雅歌 5:12",
+          "shortName": "歌 5:12",
+          "text": "他的眼如溪水旁的鴿子， 沐浴在奶中，安得合式 。",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.5.13",
+          "sblId": "Song 5:13",
+          "name": "雅歌 5:13",
+          "shortName": "歌 5:13",
+          "text": "他的兩頰如香花園， 如香草臺 ； 他的嘴唇像百合花， 滴下沒藥汁。",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.5.14",
+          "sblId": "Song 5:14",
+          "name": "雅歌 5:14",
+          "shortName": "歌 5:14",
+          "text": "他的雙手宛如金條， 鑲嵌水蒼玉； 他的身體如同雕刻的象牙， 周圍鑲嵌藍寶石。",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Song.5.15",
+          "sblId": "Song 5:15",
+          "name": "雅歌 5:15",
+          "shortName": "歌 5:15",
+          "text": "他的腿好比白玉石柱， 安在精金座上； 他的容貌如 黎巴嫩 ， 佳美如香柏樹。",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Song.5.16",
+          "sblId": "Song 5:16",
+          "name": "雅歌 5:16",
+          "shortName": "歌 5:16",
+          "text": "他的口甘甜， 他全然可愛。 耶路撒冷 的女子啊， 這是我的良人， 這是我的朋友。",
+          "orderIndex": 15
+        }
+      ]
+    },
+    {
+      "osisId": "Song.6",
+      "sblId": "Song 6",
+      "name": "雅歌 6",
+      "shortName": "歌 6",
+      "orderIndex": 5,
+      "versesCount": 13,
+      "verses": [
+        {
+          "osisId": "Song.6.1",
+          "sblId": "Song 6:1",
+          "name": "雅歌 6:1",
+          "shortName": "歌 6:1",
+          "text": "你這女子中最美麗的， 你的良人往何處去？ 你的良人轉向何處去了？ 我們好與你同去尋找他。",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.6.2",
+          "sblId": "Song 6:2",
+          "name": "雅歌 6:2",
+          "shortName": "歌 6:2",
+          "text": "我的良人進入自己園中， 到香花園， 在園內放牧， 採百合花。",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.6.3",
+          "sblId": "Song 6:3",
+          "name": "雅歌 6:3",
+          "shortName": "歌 6:3",
+          "text": "我屬我的良人， 我的良人屬我； 他在百合花中放牧。",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.6.4",
+          "sblId": "Song 6:4",
+          "name": "雅歌 6:4",
+          "shortName": "歌 6:4",
+          "text": "我的佳偶啊，你美麗如 得撒 ， 秀美如 耶路撒冷 ， 威武如展開旌旗的軍隊。",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.6.5",
+          "sblId": "Song 6:5",
+          "name": "雅歌 6:5",
+          "shortName": "歌 6:5",
+          "text": "求你轉開眼睛不要看我， 因你的眼睛使我慌亂。 你的頭髮如同一群山羊，從 基列山 下來。",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.6.6",
+          "sblId": "Song 6:6",
+          "name": "雅歌 6:6",
+          "shortName": "歌 6:6",
+          "text": "你的牙齒如一群母羊，洗淨之後走上來， 它們成對，沒有一顆是單獨的。",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.6.7",
+          "sblId": "Song 6:7",
+          "name": "雅歌 6:7",
+          "shortName": "歌 6:7",
+          "text": "你的鬢角在面紗後， 如同迸開的石榴。",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.6.8",
+          "sblId": "Song 6:8",
+          "name": "雅歌 6:8",
+          "shortName": "歌 6:8",
+          "text": "雖有六十王后、八十妃嬪， 並有無數的童女。",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.6.9",
+          "sblId": "Song 6:9",
+          "name": "雅歌 6:9",
+          "shortName": "歌 6:9",
+          "text": "她是我獨一的鴿子、我完美的人兒， 是她母親獨生的， 是生養她的所寵愛的。 女子見了都稱她有福， 王后妃嬪見了也讚美她。",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.6.10",
+          "sblId": "Song 6:10",
+          "name": "雅歌 6:10",
+          "shortName": "歌 6:10",
+          "text": "那俯視如晨曦、 美麗如月亮、皎潔如太陽、 威武如展開旌旗軍隊的是誰呢？",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.6.11",
+          "sblId": "Song 6:11",
+          "name": "雅歌 6:11",
+          "shortName": "歌 6:11",
+          "text": "我下到堅果園， 要看谷中青翠的植物， 要看葡萄可曾發芽， 石榴可曾放蕊；",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.6.12",
+          "sblId": "Song 6:12",
+          "name": "雅歌 6:12",
+          "shortName": "歌 6:12",
+          "text": "不知不覺， 我彷彿坐在我百姓高官 的戰車中。",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.6.13",
+          "sblId": "Song 6:13",
+          "name": "雅歌 6:13",
+          "shortName": "歌 6:13",
+          "text": "回來，回來， 書拉密 的女子； 回來，回來，我們要看你。 你們為何要觀看 書拉密 的女子， 像觀看兩隊人馬在跳舞 呢？",
+          "orderIndex": 12
+        }
+      ]
+    },
+    {
+      "osisId": "Song.7",
+      "sblId": "Song 7",
+      "name": "雅歌 7",
+      "shortName": "歌 7",
+      "orderIndex": 6,
+      "versesCount": 13,
+      "verses": [
+        {
+          "osisId": "Song.7.1",
+          "sblId": "Song 7:1",
+          "name": "雅歌 7:1",
+          "shortName": "歌 7:1",
+          "text": "尊貴的女子啊，你的腳在鞋中何等秀美！ 你的大腿圓潤，好像美玉， 是巧匠的手做成的。",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.7.2",
+          "sblId": "Song 7:2",
+          "name": "雅歌 7:2",
+          "shortName": "歌 7:2",
+          "text": "你的肚臍如圓杯， 不缺調和的酒。 你的肚子如一堆麥子， 周圍有百合花。",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.7.3",
+          "sblId": "Song 7:3",
+          "name": "雅歌 7:3",
+          "shortName": "歌 7:3",
+          "text": "你的兩乳好像一對小鹿， 是母鹿雙生的。",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.7.4",
+          "sblId": "Song 7:4",
+          "name": "雅歌 7:4",
+          "shortName": "歌 7:4",
+          "text": "你的頸項如象牙塔， 你的眼睛像 希實本 、 巴特‧拉併 門旁的水池， 你的鼻子彷彿朝向 大馬士革 的 黎巴嫩 塔。",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.7.5",
+          "sblId": "Song 7:5",
+          "name": "雅歌 7:5",
+          "shortName": "歌 7:5",
+          "text": "你的頭在你身上好像 迦密山 ， 你頭上的髮呈紫色， 王被這髮綹繫住了。",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.7.6",
+          "sblId": "Song 7:6",
+          "name": "雅歌 7:6",
+          "shortName": "歌 7:6",
+          "text": "我親愛的，喜樂的女子啊， 你何等美麗！何等令人喜悅！",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.7.7",
+          "sblId": "Song 7:7",
+          "name": "雅歌 7:7",
+          "shortName": "歌 7:7",
+          "text": "你的身材好像棕樹， 你的兩乳如同纍纍的果實。",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.7.8",
+          "sblId": "Song 7:8",
+          "name": "雅歌 7:8",
+          "shortName": "歌 7:8",
+          "text": "我說：我要爬上棕樹，抓住枝子。 願你的兩乳好像葡萄纍纍， 願你鼻子的香氣如蘋果；",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.7.9",
+          "sblId": "Song 7:9",
+          "name": "雅歌 7:9",
+          "shortName": "歌 7:9",
+          "text": "你的上顎如美酒， 直流入我良人的口裏， 流入沉睡者的口中 。",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.7.10",
+          "sblId": "Song 7:10",
+          "name": "雅歌 7:10",
+          "shortName": "歌 7:10",
+          "text": "我屬我的良人， 他也戀慕我。",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.7.11",
+          "sblId": "Song 7:11",
+          "name": "雅歌 7:11",
+          "shortName": "歌 7:11",
+          "text": "來吧！我的良人， 讓我們往田間去， 在村莊住宿。",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.7.12",
+          "sblId": "Song 7:12",
+          "name": "雅歌 7:12",
+          "shortName": "歌 7:12",
+          "text": "早晨讓我們起來往葡萄園去， 看葡萄樹發芽沒有， 花開了沒有， 石榴放蕊沒有， 在那裏我要將我的愛情給你。",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.7.13",
+          "sblId": "Song 7:13",
+          "name": "雅歌 7:13",
+          "shortName": "歌 7:13",
+          "text": "曼陀羅草 散發香味， 在我們的門內有各樣新陳佳美的果子； 我的良人，這都是我為你保存的。",
+          "orderIndex": 12
+        }
+      ]
+    },
+    {
+      "osisId": "Song.8",
+      "sblId": "Song 8",
+      "name": "雅歌 8",
+      "shortName": "歌 8",
+      "orderIndex": 7,
+      "versesCount": 14,
+      "verses": [
+        {
+          "osisId": "Song.8.1",
+          "sblId": "Song 8:1",
+          "name": "雅歌 8:1",
+          "shortName": "歌 8:1",
+          "text": "惟願你像我的兄弟， 像吃我母親奶的兄弟。 我在外頭遇見你就與你親吻， 誰也不輕看我。",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Song.8.2",
+          "sblId": "Song 8:2",
+          "name": "雅歌 8:2",
+          "shortName": "歌 8:2",
+          "text": "我必引導你， 領你進入我母親的家， 她必教導我， 我必使你喝石榴汁釀的香酒。",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Song.8.3",
+          "sblId": "Song 8:3",
+          "name": "雅歌 8:3",
+          "shortName": "歌 8:3",
+          "text": "他的左手在我頭下， 他的右手將我環抱。",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Song.8.4",
+          "sblId": "Song 8:4",
+          "name": "雅歌 8:4",
+          "shortName": "歌 8:4",
+          "text": "耶路撒冷 的女子啊， 我囑咐你們， 不要喚醒、不要挑動愛情，等它自發。",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Song.8.5",
+          "sblId": "Song 8:5",
+          "name": "雅歌 8:5",
+          "shortName": "歌 8:5",
+          "text": "那靠著良人從曠野上來的是誰呢？ 在蘋果樹下，我叫醒了你； 在那裏，你母親曾為了生你而陣痛， 在那裏，生你的為你陣痛。",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Song.8.6",
+          "sblId": "Song 8:6",
+          "name": "雅歌 8:6",
+          "shortName": "歌 8:6",
+          "text": "求你將我放在你心上如印記， 帶在你臂上如戳記。 因為愛情如死之堅強， 熱戀如陰間之牢固， 所發的光是火焰的光， 是極其猛烈的火焰 。",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Song.8.7",
+          "sblId": "Song 8:7",
+          "name": "雅歌 8:7",
+          "shortName": "歌 8:7",
+          "text": "愛情，眾水不能熄滅， 江河也不能淹沒。 若有人拿家中所有的財寶要換愛情， 就全被藐視。",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Song.8.8",
+          "sblId": "Song 8:8",
+          "name": "雅歌 8:8",
+          "shortName": "歌 8:8",
+          "text": "我們有一小妹， 她還沒有乳房， 人來提親的日子， 我們當為她怎麼辦呢？",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Song.8.9",
+          "sblId": "Song 8:9",
+          "name": "雅歌 8:9",
+          "shortName": "歌 8:9",
+          "text": "她若是牆， 我們要在其上建造銀塔； 她若是門， 我們要用香柏木板圍護她。",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Song.8.10",
+          "sblId": "Song 8:10",
+          "name": "雅歌 8:10",
+          "shortName": "歌 8:10",
+          "text": "我是牆， 我的兩乳像塔。 那時，我在他眼中是找到平安的人。",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Song.8.11",
+          "sblId": "Song 8:11",
+          "name": "雅歌 8:11",
+          "shortName": "歌 8:11",
+          "text": "所羅門 在 巴力‧哈們 有一葡萄園， 他將這葡萄園租給看守的人， 每人為其中的果子要交一千銀子。",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Song.8.12",
+          "sblId": "Song 8:12",
+          "name": "雅歌 8:12",
+          "shortName": "歌 8:12",
+          "text": "我有屬自己的葡萄園。 所羅門 哪，一千歸你， 兩百歸看守果子的人。",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Song.8.13",
+          "sblId": "Song 8:13",
+          "name": "雅歌 8:13",
+          "shortName": "歌 8:13",
+          "text": "你這住在園中的， 同伴都要聽你的聲音， 求你使我也得以聽見。",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Song.8.14",
+          "sblId": "Song 8:14",
+          "name": "雅歌 8:14",
+          "shortName": "歌 8:14",
+          "text": "我的良人哪，求你快來！ 像羚羊，像小鹿，在香草山上。",
+          "orderIndex": 13
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "osisId": "2Pet",
+  "sblId": "2Pet",
+  "name": "Epistula II Petri",
+  "shortName": "2 Pt",
+  "orderIndex": 60,
+  "chaptersCount": 3,
+  "versesCount": 61,
+  "chapters": [
+    {
+      "osisId": "2Pet.1",
+      "sblId": "2Pet 1",
+      "name": "Epistula II Petri 1",
+      "shortName": "2 Pt 1",
+      "orderIndex": 0,
+      "versesCount": 21,
+      "verses": [
+        {
+          "osisId": "2Pet.1.1",
+          "sblId": "2Pet 1:1",
+          "name": "Epistula II Petri 1:1",
+          "shortName": "2 Pt 1:1",
+          "text": "Simon Petrus servus et apo stolus Iesu Christi his, qui coae qualem nobis sortiti sunt fidem in iustitia Dei nostri et salvatoris Iesu Christi:",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "2Pet.1.2",
+          "sblId": "2Pet 1:2",
+          "name": "Epistula II Petri 1:2",
+          "shortName": "2 Pt 1:2",
+          "text": "gratia vobis et pax multiplicetur in cognitione Dei et Iesu Domini nostri.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "2Pet.1.3",
+          "sblId": "2Pet 1:3",
+          "name": "Epistula II Petri 1:3",
+          "shortName": "2 Pt 1:3",
+          "text": "Quomodo omnia nobis divinae virtutis suae ad vitam et pietatem donatae per cognitionem eius, qui vocavit nos propria gloria et virtute,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "2Pet.1.4",
+          "sblId": "2Pet 1:4",
+          "name": "Epistula II Petri 1:4",
+          "shortName": "2 Pt 1:4",
+          "text": "per quae pretiosa et maxima nobis promissa donata sunt, ut per haec efficiamini divinae consortes naturae, fugientes eam, quae in mundo est in concupiscentia, corruptionem;",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "2Pet.1.5",
+          "sblId": "2Pet 1:5",
+          "name": "Epistula II Petri 1:5",
+          "shortName": "2 Pt 1:5",
+          "text": "et propter hoc ipsum curam omnem subinferentes ministrate in fide vestra virtutem, in virtute autem scientiam,",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "2Pet.1.6",
+          "sblId": "2Pet 1:6",
+          "name": "Epistula II Petri 1:6",
+          "shortName": "2 Pt 1:6",
+          "text": "in scientia autem continentiam, in continentia autem patientiam, in patientia autem pietatem,",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "2Pet.1.7",
+          "sblId": "2Pet 1:7",
+          "name": "Epistula II Petri 1:7",
+          "shortName": "2 Pt 1:7",
+          "text": "in pietate autem amorem fraternitatis, in amore autem fraternitatis caritatem.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "2Pet.1.8",
+          "sblId": "2Pet 1:8",
+          "name": "Epistula II Petri 1:8",
+          "shortName": "2 Pt 1:8",
+          "text": "Haec enim vobis, cum adsint et abundent, non vacuos nec sine fructu vos constituunt in Domini nostri Iesu Christi cognitionem;",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "2Pet.1.9",
+          "sblId": "2Pet 1:9",
+          "name": "Epistula II Petri 1:9",
+          "shortName": "2 Pt 1:9",
+          "text": "cui enim non praesto sunt haec, caecus est et nihil procul cernens, oblivionem accipiens purgationis veterum suorum delictorum.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "2Pet.1.10",
+          "sblId": "2Pet 1:10",
+          "name": "Epistula II Petri 1:10",
+          "shortName": "2 Pt 1:10",
+          "text": "Quapropter, fratres, magis satagite, ut firmam vestram vocationem et electionem faciatis. Haec enim facientes non offendetis aliquando;",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "2Pet.1.11",
+          "sblId": "2Pet 1:11",
+          "name": "Epistula II Petri 1:11",
+          "shortName": "2 Pt 1:11",
+          "text": "sic enim abundanter ministrabitur vobis introitus in aeternum regnum Domini nostri et salvatoris Iesu Christi.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "2Pet.1.12",
+          "sblId": "2Pet 1:12",
+          "name": "Epistula II Petri 1:12",
+          "shortName": "2 Pt 1:12",
+          "text": "Propter quod incipiam vos semper commonere de his, et quidem scientes et confirmatos in praesenti veritate.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "2Pet.1.13",
+          "sblId": "2Pet 1:13",
+          "name": "Epistula II Petri 1:13",
+          "shortName": "2 Pt 1:13",
+          "text": "Iustum autem arbitror, quamdiu sum in hoc tabernaculo, suscitare vos in commonitione,",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "2Pet.1.14",
+          "sblId": "2Pet 1:14",
+          "name": "Epistula II Petri 1:14",
+          "shortName": "2 Pt 1:14",
+          "text": "certus quod velox est depositio tabernaculi mei, secundum quod et Dominus noster Iesus Christus significavit mihi;",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "2Pet.1.15",
+          "sblId": "2Pet 1:15",
+          "name": "Epistula II Petri 1:15",
+          "shortName": "2 Pt 1:15",
+          "text": "dabo autem operam et frequenter habere vos post obitum meum, ut horum memoriam faciatis.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "2Pet.1.16",
+          "sblId": "2Pet 1:16",
+          "name": "Epistula II Petri 1:16",
+          "shortName": "2 Pt 1:16",
+          "text": "Non enim captiosas fabulas secuti notam fecimus vobis Domini nostri Iesu Christi virtutem et adventum, sed speculatores facti illius magnitudinis.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "2Pet.1.17",
+          "sblId": "2Pet 1:17",
+          "name": "Epistula II Petri 1:17",
+          "shortName": "2 Pt 1:17",
+          "text": "Accipiens enim a Deo Patre honorem et gloriam, voce prolata ad eum huiuscemodi a magnifica gloria: \" Filius meus, dilectus meus hic est, in quo ego mihi complacui \";",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "2Pet.1.18",
+          "sblId": "2Pet 1:18",
+          "name": "Epistula II Petri 1:18",
+          "shortName": "2 Pt 1:18",
+          "text": "et hanc vocem nos audivimus de caelo prolatam, cum essemus cum ipso in monte sancto.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "2Pet.1.19",
+          "sblId": "2Pet 1:19",
+          "name": "Epistula II Petri 1:19",
+          "shortName": "2 Pt 1:19",
+          "text": "Et habemus firmiorem propheticum sermonem, cui bene facitis attendentes quasi lucernae lucenti in caliginoso loco, donec dies illucescat, et lucifer oriatur in cordibus vestris,",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "2Pet.1.20",
+          "sblId": "2Pet 1:20",
+          "name": "Epistula II Petri 1:20",
+          "shortName": "2 Pt 1:20",
+          "text": "hoc primum intellegentes quod omnis prophetia Scripturae propria interpretatione non fit;",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "2Pet.1.21",
+          "sblId": "2Pet 1:21",
+          "name": "Epistula II Petri 1:21",
+          "shortName": "2 Pt 1:21",
+          "text": "non enim voluntate humana prolata est prophetia aliquando, sed a Spiritu Sancto ducti locuti sunt a Deo homines.",
+          "orderIndex": 20
+        }
+      ]
+    },
+    {
+      "osisId": "2Pet.2",
+      "sblId": "2Pet 2",
+      "name": "Epistula II Petri 2",
+      "shortName": "2 Pt 2",
+      "orderIndex": 1,
+      "versesCount": 22,
+      "verses": [
+        {
+          "osisId": "2Pet.2.1",
+          "sblId": "2Pet 2:1",
+          "name": "Epistula II Petri 2:1",
+          "shortName": "2 Pt 2:1",
+          "text": "Fuerunt vero et pseudopro phetae in populo, sicut et in vo bis erunt magistri mendaces, qui introducent sectas perditionis et eum, qui emit eos, Dominatorem negantes superducent sibi celerem perditionem.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "2Pet.2.2",
+          "sblId": "2Pet 2:2",
+          "name": "Epistula II Petri 2:2",
+          "shortName": "2 Pt 2:2",
+          "text": "Et multi sequentur eorum luxurias, propter quos via veritatis blasphemabitur;",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "2Pet.2.3",
+          "sblId": "2Pet 2:3",
+          "name": "Epistula II Petri 2:3",
+          "shortName": "2 Pt 2:3",
+          "text": "et in avaritia fictis verbis de vobis negotiabuntur. Quibus iudicium iam olim non cessat, et perditio eorum non dormitat.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "2Pet.2.4",
+          "sblId": "2Pet 2:4",
+          "name": "Epistula II Petri 2:4",
+          "shortName": "2 Pt 2:4",
+          "text": "Si enim Deus angelis peccantibus non pepercit, sed rudentibus inferni detractos in tartarum tradidit in iudicium reservatos:",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "2Pet.2.5",
+          "sblId": "2Pet 2:5",
+          "name": "Epistula II Petri 2:5",
+          "shortName": "2 Pt 2:5",
+          "text": "et originali mundo non pepercit, sed octavum Noe iustitiae praeconem custodivit diluvium mundo impiorum inducens;",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "2Pet.2.6",
+          "sblId": "2Pet 2:6",
+          "name": "Epistula II Petri 2:6",
+          "shortName": "2 Pt 2:6",
+          "text": "et civitates Sodomae et Gomorrae in cinerem redigens eversione damnavit, exemplum ponens eorum, quae sunt impiis futura:",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "2Pet.2.7",
+          "sblId": "2Pet 2:7",
+          "name": "Epistula II Petri 2:7",
+          "shortName": "2 Pt 2:7",
+          "text": "et iustum Lot oppressum a nefandorum luxuria conversationis eruit:",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "2Pet.2.8",
+          "sblId": "2Pet 2:8",
+          "name": "Epistula II Petri 2:8",
+          "shortName": "2 Pt 2:8",
+          "text": "aspectu enim et auditu iustus habitans apud eos, de die in diem animam iustam iniquis operibus cruciabat.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "2Pet.2.9",
+          "sblId": "2Pet 2:9",
+          "name": "Epistula II Petri 2:9",
+          "shortName": "2 Pt 2:9",
+          "text": "Novit Dominus pios de tentatione eripere, iniquos vero in diem iudicii puniendos reservare,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "2Pet.2.10",
+          "sblId": "2Pet 2:10",
+          "name": "Epistula II Petri 2:10",
+          "shortName": "2 Pt 2:10",
+          "text": "maxime autem eos, qui post carnem in concupiscentia immunditiae ambulant dominationemque contemnunt.Audaces, superbi, glorias non metuunt blasphemantes,",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "2Pet.2.11",
+          "sblId": "2Pet 2:11",
+          "name": "Epistula II Petri 2:11",
+          "shortName": "2 Pt 2:11",
+          "text": "ubi angeli fortitudine et virtute cum sint maiores, non portant adversum illas coram Domino iudicium blasphemiae.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "2Pet.2.12",
+          "sblId": "2Pet 2:12",
+          "name": "Epistula II Petri 2:12",
+          "shortName": "2 Pt 2:12",
+          "text": "Hi vero, velut irrationabilia animalia naturaliter genita in captionem et in corruptionem, in his, quae ignorant, blasphemantes, in corruptione sua et corrumpentur",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "2Pet.2.13",
+          "sblId": "2Pet 2:13",
+          "name": "Epistula II Petri 2:13",
+          "shortName": "2 Pt 2:13",
+          "text": "inviti percipientes mercedem iniustitiae; voluptatem existimantes diei delicias, coinquinationes et maculae deliciis affluentes, in voluptatibus suis luxuriantes vobiscum,",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "2Pet.2.14",
+          "sblId": "2Pet 2:14",
+          "name": "Epistula II Petri 2:14",
+          "shortName": "2 Pt 2:14",
+          "text": "oculos habentes plenos adulterae et incessabiles delicti, pellicientes animas instabiles, cor exercitatum avaritiae habentes, maledictionis filii;",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "2Pet.2.15",
+          "sblId": "2Pet 2:15",
+          "name": "Epistula II Petri 2:15",
+          "shortName": "2 Pt 2:15",
+          "text": "derelinquentes rectam viam erraverunt, secuti viam Balaam ex Bosor, qui mercedem iniquitatis amavit,",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "2Pet.2.16",
+          "sblId": "2Pet 2:16",
+          "name": "Epistula II Petri 2:16",
+          "shortName": "2 Pt 2:16",
+          "text": "correptionem vero habuit suae praevaricationis; subiugale mutum in hominis voce loquens prohibuit prophetae insipientiam.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "2Pet.2.17",
+          "sblId": "2Pet 2:17",
+          "name": "Epistula II Petri 2:17",
+          "shortName": "2 Pt 2:17",
+          "text": "Hi sunt fontes sine aqua, et nebulae turbine exagitatae, quibus caligo tenebrarum reservatur.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "2Pet.2.18",
+          "sblId": "2Pet 2:18",
+          "name": "Epistula II Petri 2:18",
+          "shortName": "2 Pt 2:18",
+          "text": "Superba enim vanitatis loquentes pelliciunt in concupiscentiis carnis luxuriis illos, qui paululum effugiunt eos, qui in errore conversantur,",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "2Pet.2.19",
+          "sblId": "2Pet 2:19",
+          "name": "Epistula II Petri 2:19",
+          "shortName": "2 Pt 2:19",
+          "text": "libertatem illis promittentes, cum ipsi servi sint corruptionis; a quo enim quis superatus est, huius servus est.",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "2Pet.2.20",
+          "sblId": "2Pet 2:20",
+          "name": "Epistula II Petri 2:20",
+          "shortName": "2 Pt 2:20",
+          "text": "Si enim refugientes coinquinationes mundi in cognitione Domini nostri et Salvatoris Iesu Christi his rursus implicati superantur, facta sunt eis posteriora deteriora prioribus.",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "2Pet.2.21",
+          "sblId": "2Pet 2:21",
+          "name": "Epistula II Petri 2:21",
+          "shortName": "2 Pt 2:21",
+          "text": "Melius enim erat illis non cognoscere viam iustitiae, quam post agnitionem retrorsum converti ab eo, quod illis traditum est, sancto mandato.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "2Pet.2.22",
+          "sblId": "2Pet 2:22",
+          "name": "Epistula II Petri 2:22",
+          "shortName": "2 Pt 2:22",
+          "text": "Contigit enim eis illud veri proverbii: Canis reversus ad suum vomitum \",et \" Sus lota in volutabro luti \".",
+          "orderIndex": 21
+        }
+      ]
+    },
+    {
+      "osisId": "2Pet.3",
+      "sblId": "2Pet 3",
+      "name": "Epistula II Petri 3",
+      "shortName": "2 Pt 3",
+      "orderIndex": 2,
+      "versesCount": 18,
+      "verses": [
+        {
+          "osisId": "2Pet.3.1",
+          "sblId": "2Pet 3:1",
+          "name": "Epistula II Petri 3:1",
+          "shortName": "2 Pt 3:1",
+          "text": "Hanc vobis, carissimi, iam se cundam scribo epistulam, in quibus excito vestram in commonitione sinceram mentem,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "2Pet.3.2",
+          "sblId": "2Pet 3:2",
+          "name": "Epistula II Petri 3:2",
+          "shortName": "2 Pt 3:2",
+          "text": "ut memores sitis eorum, quae praedicta sunt verborum a sanctis prophetis, et ab apostolis traditi vobis praecepti Domini et Salvatoris;",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "2Pet.3.3",
+          "sblId": "2Pet 3:3",
+          "name": "Epistula II Petri 3:3",
+          "shortName": "2 Pt 3:3",
+          "text": "hoc primum scientes, quod venient in novissimis diebus in illusione illudentes, iuxta proprias concupiscentias suas ambulantes,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "2Pet.3.4",
+          "sblId": "2Pet 3:4",
+          "name": "Epistula II Petri 3:4",
+          "shortName": "2 Pt 3:4",
+          "text": "dicentes: \" Ubi est promissio adventus eius? Ex quo enim patres dormierunt, omnia sic perseverant ab initio creaturae \".",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "2Pet.3.5",
+          "sblId": "2Pet 3:5",
+          "name": "Epistula II Petri 3:5",
+          "shortName": "2 Pt 3:5",
+          "text": "Latet enim eos hoc volentes, quod caeli erant prius, et terra de aqua et per aquam consistens Dei verbo,",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "2Pet.3.6",
+          "sblId": "2Pet 3:6",
+          "name": "Epistula II Petri 3:6",
+          "shortName": "2 Pt 3:6",
+          "text": "per quae ille tunc mundus aqua inundatus periit;",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "2Pet.3.7",
+          "sblId": "2Pet 3:7",
+          "name": "Epistula II Petri 3:7",
+          "shortName": "2 Pt 3:7",
+          "text": "caeli autem, qui nunc sunt, et terra eodem verbo repositi sunt igni, servati in diem iudicii et perditionis impiorum hominum.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "2Pet.3.8",
+          "sblId": "2Pet 3:8",
+          "name": "Epistula II Petri 3:8",
+          "shortName": "2 Pt 3:8",
+          "text": "Unum vero hoc non lateat vos, carissimi, quia unus dies apud Dominum sicut mille anni, et mille anni sicut dies unus.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "2Pet.3.9",
+          "sblId": "2Pet 3:9",
+          "name": "Epistula II Petri 3:9",
+          "shortName": "2 Pt 3:9",
+          "text": "Non tardat Dominus promissionem, sicut quidam tarditatem existimant, sed patienter agit in vos nolens aliquos perire, sed omnes ad paenitentiam reverti.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "2Pet.3.10",
+          "sblId": "2Pet 3:10",
+          "name": "Epistula II Petri 3:10",
+          "shortName": "2 Pt 3:10",
+          "text": "Adveniet autem dies Domini ut fur, in qua caeli magno impetu transient, elementa vero calore solventur, et terra et opera, quae in ea invenientur.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "2Pet.3.11",
+          "sblId": "2Pet 3:11",
+          "name": "Epistula II Petri 3:11",
+          "shortName": "2 Pt 3:11",
+          "text": "Cum haec omnia ita dissolvenda sint, quales oportet esse vos in sanctis conversationibus et pietatibus,",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "2Pet.3.12",
+          "sblId": "2Pet 3:12",
+          "name": "Epistula II Petri 3:12",
+          "shortName": "2 Pt 3:12",
+          "text": "exspectantes et properantes adventum diei Dei, propter quam caeli ardentes solventur, et elementa ignis ardore tabescent!",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "2Pet.3.13",
+          "sblId": "2Pet 3:13",
+          "name": "Epistula II Petri 3:13",
+          "shortName": "2 Pt 3:13",
+          "text": "Novos vero caelos et terram novam secundum promissum ipsius exspectamus, in quibus iustitia habitat.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "2Pet.3.14",
+          "sblId": "2Pet 3:14",
+          "name": "Epistula II Petri 3:14",
+          "shortName": "2 Pt 3:14",
+          "text": "Propter quod, carissimi, haec exspectantes satagite immaculati et inviolati ei inveniri in pace;",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "2Pet.3.15",
+          "sblId": "2Pet 3:15",
+          "name": "Epistula II Petri 3:15",
+          "shortName": "2 Pt 3:15",
+          "text": "et Domini nostri longanimitatem, salutem arbitramini, sicut et carissimus frater noster Paulus secundum datam sibi sapientiam scripsit vobis,",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "2Pet.3.16",
+          "sblId": "2Pet 3:16",
+          "name": "Epistula II Petri 3:16",
+          "shortName": "2 Pt 3:16",
+          "text": "sicut et in omnibus epistulis loquens in eis de his; in quibus sunt quaedam difficilia intellectu, quae indocti et instabiles depravant, sicut et ceteras Scripturas, ad suam ipsorum perditionem.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "2Pet.3.17",
+          "sblId": "2Pet 3:17",
+          "name": "Epistula II Petri 3:17",
+          "shortName": "2 Pt 3:17",
+          "text": "Vos igitur, dilecti, praescientes custodite, ne iniquorum errore simul abducti excidatis a propria firmitate;",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "2Pet.3.18",
+          "sblId": "2Pet 3:18",
+          "name": "Epistula II Petri 3:18",
+          "shortName": "2 Pt 3:18",
+          "text": "crescite vero in gratia et in cognitione Domini nostri et Salvatoris Iesu Christi. Ipsi gloria et nunc et in diem aeternitatis. Amen.",
+          "orderIndex": 17
+        }
+      ]
+    }
+  ]
+}

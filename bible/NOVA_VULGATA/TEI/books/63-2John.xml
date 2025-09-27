@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="book" n="2John">
+        <div type="chapter" n="1">
+          <ab n="1">Presbyter electae dominae et filiis eius, quos ego diligo in veritate, et non ego solus, sed et omnes, qui noverunt veritatem,</ab>
+          <ab n="2">propter veritatem, quae permanet in nobis et nobiscum erit in sempiternum.</ab>
+          <ab n="3">Erit nobiscum gratia, misericordia, pax a Deo Patre et a Iesu Christo, Filio Patris, in veritate et caritate.</ab>
+          <ab n="4">Gavisus sum valde, quoniam inveni de filiis tuis ambulantes in veritate, sicut mandatum accepimus a Patre.</ab>
+          <ab n="5">Et nunc rogo te, domina, non tamquam mandatum novum scribens tibi, sed quod habuimus ab initio, ut diligamus alterutrum.</ab>
+          <ab n="6">Et haec est caritas, ut ambulemus secundum mandata eius; hoc mandatum est, quemadmodum audistis ab initio, ut in eo ambuletis.</ab>
+          <ab n="7">Quoniam multi seductores prodierunt in mundum, qui non confitentur Iesum Christum venientem in carne; hic est seductor et antichristus.</ab>
+          <ab n="8">Videte vosmetipsos, ne perdatis, quae operati estis, sed ut mercedem plenam accipiatis.</ab>
+          <ab n="9">Omnis, qui ultra procedit et non manet in doctrina Christi, Deum non habet; qui permanet in doctri na, hic et Patrem et Filium habet.</ab>
+          <ab n="10">Si quis venit ad vos et hanc doctrinam non affert, nolite accipere eum in domum nec " Ave " ei dixeritis;</ab>
+          <ab n="11">qui enim dicit illi: " Ave ", communicat operibus illius malignis.</ab>
+          <ab n="12">Plura habens vobis scribere, nolui per chartam et atramentum; spero enim me futurum apud vos, et os ad os loqui, ut gaudium nostrum plenum sit.</ab>
+          <ab n="13">Salutant te filii sororis tuae electae.</ab>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

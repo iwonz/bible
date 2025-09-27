@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="Eph" sblId="Eph" name="К Ефесянам" shortName="Еф" orderIndex="48" chaptersCount="6" versesCount="155">
+  <chapters>
+    <Chapter osisId="Eph.1" sblId="Eph 1" name="К Ефесянам 1" shortName="Еф 1" orderIndex="0" versesCount="23">
+      <verses>
+        <Verse osisId="Eph.1.1" sblId="Eph 1:1" name="К Ефесянам 1:1" shortName="Еф 1:1" orderIndex="0">Павел, волею Божиею Апостол Иисуса Христа, находящимся в Ефесе святым и верным во Христе Иисусе:</Verse>
+        <Verse osisId="Eph.1.2" sblId="Eph 1:2" name="К Ефесянам 1:2" shortName="Еф 1:2" orderIndex="1">благодать вам и мир от Бога Отца нашего и Господа Иисуса Христа.</Verse>
+        <Verse osisId="Eph.1.3" sblId="Eph 1:3" name="К Ефесянам 1:3" shortName="Еф 1:3" orderIndex="2">Благословен Бог и Отец Господа нашего Иисуса Христа, благословивший нас во Христе всяким духовным благословением в небесах,</Verse>
+        <Verse osisId="Eph.1.4" sblId="Eph 1:4" name="К Ефесянам 1:4" shortName="Еф 1:4" orderIndex="3">так как Он избрал нас в Нем прежде создания мира, чтобы мы были святы и непорочны пред Ним в любви,</Verse>
+        <Verse osisId="Eph.1.5" sblId="Eph 1:5" name="К Ефесянам 1:5" shortName="Еф 1:5" orderIndex="4">предопределив усыновить нас Себе чрез Иисуса Христа, по благоволению воли Своей,</Verse>
+        <Verse osisId="Eph.1.6" sblId="Eph 1:6" name="К Ефесянам 1:6" shortName="Еф 1:6" orderIndex="5">в похвалу славы благодати Своей, которою Он облагодатствовал нас в Возлюбленном,</Verse>
+        <Verse osisId="Eph.1.7" sblId="Eph 1:7" name="К Ефесянам 1:7" shortName="Еф 1:7" orderIndex="6">в Котором мы имеем искупление Кровию Его, прощение грехов, по богатству благодати Его,</Verse>
+        <Verse osisId="Eph.1.8" sblId="Eph 1:8" name="К Ефесянам 1:8" shortName="Еф 1:8" orderIndex="7">каковую Он в преизбытке даровал нам во всякой премудрости и разумении,</Verse>
+        <Verse osisId="Eph.1.9" sblId="Eph 1:9" name="К Ефесянам 1:9" shortName="Еф 1:9" orderIndex="8">открыв нам тайну Своей воли по Своему благоволению, которое Он прежде положил в Нем,</Verse>
+        <Verse osisId="Eph.1.10" sblId="Eph 1:10" name="К Ефесянам 1:10" shortName="Еф 1:10" orderIndex="9">в устроении полноты времен, дабы все небесное и земное соединить под главою Христом.</Verse>
+        <Verse osisId="Eph.1.11" sblId="Eph 1:11" name="К Ефесянам 1:11" shortName="Еф 1:11" orderIndex="10">В Нем мы и сделались наследниками, быв предназначены [к тому] по определению Совершающего все по изволению воли Своей,</Verse>
+        <Verse osisId="Eph.1.12" sblId="Eph 1:12" name="К Ефесянам 1:12" shortName="Еф 1:12" orderIndex="11">дабы послужить к похвале славы Его нам, которые ранее уповали на Христа.</Verse>
+        <Verse osisId="Eph.1.13" sblId="Eph 1:13" name="К Ефесянам 1:13" shortName="Еф 1:13" orderIndex="12">В Нем и вы, услышав слово истины, благовествование вашего спасения, и уверовав в Него, запечатлены обетованным Святым Духом,</Verse>
+        <Verse osisId="Eph.1.14" sblId="Eph 1:14" name="К Ефесянам 1:14" shortName="Еф 1:14" orderIndex="13">Который есть залог наследия нашего, для искупления удела [Его], в похвалу славы Его.</Verse>
+        <Verse osisId="Eph.1.15" sblId="Eph 1:15" name="К Ефесянам 1:15" shortName="Еф 1:15" orderIndex="14">Посему и я, услышав о вашей вере во Христа Иисуса и о любви ко всем святым,</Verse>
+        <Verse osisId="Eph.1.16" sblId="Eph 1:16" name="К Ефесянам 1:16" shortName="Еф 1:16" orderIndex="15">непрестанно благодарю за вас [Бога], вспоминая о вас в молитвах моих,</Verse>
+        <Verse osisId="Eph.1.17" sblId="Eph 1:17" name="К Ефесянам 1:17" shortName="Еф 1:17" orderIndex="16">чтобы Бог Господа нашего Иисуса Христа, Отец славы, дал вам Духа премудрости и откровения к познанию Его,</Verse>
+        <Verse osisId="Eph.1.18" sblId="Eph 1:18" name="К Ефесянам 1:18" shortName="Еф 1:18" orderIndex="17">и просветил очи сердца вашего, дабы вы познали, в чем состоит надежда призвания Его, и какое богатство славного наследия Его для святых,</Verse>
+        <Verse osisId="Eph.1.19" sblId="Eph 1:19" name="К Ефесянам 1:19" shortName="Еф 1:19" orderIndex="18">и как безмерно величие могущества Его в нас, верующих по действию державной силы Его,</Verse>
+        <Verse osisId="Eph.1.20" sblId="Eph 1:20" name="К Ефесянам 1:20" shortName="Еф 1:20" orderIndex="19">которою Он воздействовал во Христе, воскресив Его из мертвых и посадив одесную Себя на небесах,</Verse>
+        <Verse osisId="Eph.1.21" sblId="Eph 1:21" name="К Ефесянам 1:21" shortName="Еф 1:21" orderIndex="20">превыше всякого Начальства, и Власти, и Силы, и Господства, и всякого имени, именуемого не только в сем веке, но и в будущем,</Verse>
+        <Verse osisId="Eph.1.22" sblId="Eph 1:22" name="К Ефесянам 1:22" shortName="Еф 1:22" orderIndex="21">и все покорил под ноги Его, и поставил Его выше всего, главою Церкви,</Verse>
+        <Verse osisId="Eph.1.23" sblId="Eph 1:23" name="К Ефесянам 1:23" shortName="Еф 1:23" orderIndex="22">которая есть Тело Его, полнота Наполняющего все во всем.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Eph.2" sblId="Eph 2" name="К Ефесянам 2" shortName="Еф 2" orderIndex="1" versesCount="22">
+      <verses>
+        <Verse osisId="Eph.2.1" sblId="Eph 2:1" name="К Ефесянам 2:1" shortName="Еф 2:1" orderIndex="0">И вас, мертвых по преступлениям и грехам вашим,</Verse>
+        <Verse osisId="Eph.2.2" sblId="Eph 2:2" name="К Ефесянам 2:2" shortName="Еф 2:2" orderIndex="1">в которых вы некогда жили, по обычаю мира сего, по [воле] князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</Verse>
+        <Verse osisId="Eph.2.3" sblId="Eph 2:3" name="К Ефесянам 2:3" shortName="Еф 2:3" orderIndex="2">между которыми и мы все жили некогда по нашим плотским похотям, исполняя желания плоти и помыслов, и были по природе чадами гнева, как и прочие,</Verse>
+        <Verse osisId="Eph.2.4" sblId="Eph 2:4" name="К Ефесянам 2:4" shortName="Еф 2:4" orderIndex="3">Бог, богатый милостью, по Своей великой любви, которою возлюбил нас,</Verse>
+        <Verse osisId="Eph.2.5" sblId="Eph 2:5" name="К Ефесянам 2:5" shortName="Еф 2:5" orderIndex="4">и нас, мертвых по преступлениям, оживотворил со Христом, – благодатью вы спасены, –</Verse>
+        <Verse osisId="Eph.2.6" sblId="Eph 2:6" name="К Ефесянам 2:6" shortName="Еф 2:6" orderIndex="5">и воскресил с Ним, и посадил на небесах во Христе Иисусе,</Verse>
+        <Verse osisId="Eph.2.7" sblId="Eph 2:7" name="К Ефесянам 2:7" shortName="Еф 2:7" orderIndex="6">дабы явить в грядущих веках преизобильное богатство благодати Своей в благости к нам во Христе Иисусе.</Verse>
+        <Verse osisId="Eph.2.8" sblId="Eph 2:8" name="К Ефесянам 2:8" shortName="Еф 2:8" orderIndex="7">Ибо благодатью вы спасены через веру, и сие не от вас, Божий дар:</Verse>
+        <Verse osisId="Eph.2.9" sblId="Eph 2:9" name="К Ефесянам 2:9" shortName="Еф 2:9" orderIndex="8">не от дел, чтобы никто не хвалился.</Verse>
+        <Verse osisId="Eph.2.10" sblId="Eph 2:10" name="К Ефесянам 2:10" shortName="Еф 2:10" orderIndex="9">Ибо мы – Его творение, созданы во Христе Иисусе на добрые дела, которые Бог предназначил нам исполнять.</Verse>
+        <Verse osisId="Eph.2.11" sblId="Eph 2:11" name="К Ефесянам 2:11" shortName="Еф 2:11" orderIndex="10">Итак помните, что вы, некогда язычники по плоти, которых называли необрезанными так называемые обрезанные плотским [обрезанием], совершаемым руками,</Verse>
+        <Verse osisId="Eph.2.12" sblId="Eph 2:12" name="К Ефесянам 2:12" shortName="Еф 2:12" orderIndex="11">что вы были в то время без Христа, отчуждены от общества Израильского, чужды заветов обетования, не имели надежды и были безбожники в мире.</Verse>
+        <Verse osisId="Eph.2.13" sblId="Eph 2:13" name="К Ефесянам 2:13" shortName="Еф 2:13" orderIndex="12">А теперь во Христе Иисусе вы, бывшие некогда далеко, стали близки Кровию Христовою.</Verse>
+        <Verse osisId="Eph.2.14" sblId="Eph 2:14" name="К Ефесянам 2:14" shortName="Еф 2:14" orderIndex="13">Ибо Он есть мир наш, соделавший из обоих одно и разрушивший стоявшую посреди преграду,</Verse>
+        <Verse osisId="Eph.2.15" sblId="Eph 2:15" name="К Ефесянам 2:15" shortName="Еф 2:15" orderIndex="14">упразднив вражду Плотию Своею, а закон заповедей учением, дабы из двух создать в Себе Самом одного нового человека, устрояя мир,</Verse>
+        <Verse osisId="Eph.2.16" sblId="Eph 2:16" name="К Ефесянам 2:16" shortName="Еф 2:16" orderIndex="15">и в одном теле примирить обоих с Богом посредством креста, убив вражду на нем.</Verse>
+        <Verse osisId="Eph.2.17" sblId="Eph 2:17" name="К Ефесянам 2:17" shortName="Еф 2:17" orderIndex="16">И, придя, благовествовал мир вам, дальним и близким,</Verse>
+        <Verse osisId="Eph.2.18" sblId="Eph 2:18" name="К Ефесянам 2:18" shortName="Еф 2:18" orderIndex="17">потому что через Него и те и другие имеем доступ к Отцу, в одном Духе.</Verse>
+        <Verse osisId="Eph.2.19" sblId="Eph 2:19" name="К Ефесянам 2:19" shortName="Еф 2:19" orderIndex="18">Итак вы уже не чужие и не пришельцы, но сограждане святым и свои Богу,</Verse>
+        <Verse osisId="Eph.2.20" sblId="Eph 2:20" name="К Ефесянам 2:20" shortName="Еф 2:20" orderIndex="19">быв утверждены на основании Апостолов и пророков, имея Самого Иисуса Христа краеугольным [камнем],</Verse>
+        <Verse osisId="Eph.2.21" sblId="Eph 2:21" name="К Ефесянам 2:21" shortName="Еф 2:21" orderIndex="20">на котором все здание, слагаясь стройно, возрастает в святый храм в Господе,</Verse>
+        <Verse osisId="Eph.2.22" sblId="Eph 2:22" name="К Ефесянам 2:22" shortName="Еф 2:22" orderIndex="21">на котором и вы устрояетесь в жилище Божие Духом.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Eph.3" sblId="Eph 3" name="К Ефесянам 3" shortName="Еф 3" orderIndex="2" versesCount="21">
+      <verses>
+        <Verse osisId="Eph.3.1" sblId="Eph 3:1" name="К Ефесянам 3:1" shortName="Еф 3:1" orderIndex="0">Для сего–то я, Павел, [сделался] узником Иисуса Христа за вас язычников.</Verse>
+        <Verse osisId="Eph.3.2" sblId="Eph 3:2" name="К Ефесянам 3:2" shortName="Еф 3:2" orderIndex="1">Как вы слышали о домостроительстве благодати Божией, данной мне для вас,</Verse>
+        <Verse osisId="Eph.3.3" sblId="Eph 3:3" name="К Ефесянам 3:3" shortName="Еф 3:3" orderIndex="2">потому что мне через откровение возвещена тайна (о чем я и выше писал кратко),</Verse>
+        <Verse osisId="Eph.3.4" sblId="Eph 3:4" name="К Ефесянам 3:4" shortName="Еф 3:4" orderIndex="3">то вы, читая, можете усмотреть мое разумение тайны Христовой,</Verse>
+        <Verse osisId="Eph.3.5" sblId="Eph 3:5" name="К Ефесянам 3:5" shortName="Еф 3:5" orderIndex="4">которая не была возвещена прежним поколениям сынов человеческих, как ныне открыта святым Апостолам Его и пророкам Духом Святым,</Verse>
+        <Verse osisId="Eph.3.6" sblId="Eph 3:6" name="К Ефесянам 3:6" shortName="Еф 3:6" orderIndex="5">чтобы и язычникам быть сонаследниками, составляющими одно тело, и сопричастниками обетования Его во Христе Иисусе посредством благовествования,</Verse>
+        <Verse osisId="Eph.3.7" sblId="Eph 3:7" name="К Ефесянам 3:7" shortName="Еф 3:7" orderIndex="6">которого служителем сделался я по дару благодати Божией, данной мне действием силы Его.</Verse>
+        <Verse osisId="Eph.3.8" sblId="Eph 3:8" name="К Ефесянам 3:8" shortName="Еф 3:8" orderIndex="7">Мне, наименьшему из всех святых, дана благодать сия – благовествовать язычникам неисследимое богатство Христово</Verse>
+        <Verse osisId="Eph.3.9" sblId="Eph 3:9" name="К Ефесянам 3:9" shortName="Еф 3:9" orderIndex="8">и открыть всем, в чем состоит домостроительство тайны, сокрывавшейся от вечности в Боге, создавшем все Иисусом Христом,</Verse>
+        <Verse osisId="Eph.3.10" sblId="Eph 3:10" name="К Ефесянам 3:10" shortName="Еф 3:10" orderIndex="9">дабы ныне соделалась известною через Церковь начальствам и властям на небесах многоразличная премудрость Божия,</Verse>
+        <Verse osisId="Eph.3.11" sblId="Eph 3:11" name="К Ефесянам 3:11" shortName="Еф 3:11" orderIndex="10">по предвечному определению, которое Он исполнил во Христе Иисусе, Господе нашем,</Verse>
+        <Verse osisId="Eph.3.12" sblId="Eph 3:12" name="К Ефесянам 3:12" shortName="Еф 3:12" orderIndex="11">в Котором мы имеем дерзновение и надежный доступ через веру в Него.</Verse>
+        <Verse osisId="Eph.3.13" sblId="Eph 3:13" name="К Ефесянам 3:13" shortName="Еф 3:13" orderIndex="12">Посему прошу вас не унывать при моих ради вас скорбях, которые суть ваша слава.</Verse>
+        <Verse osisId="Eph.3.14" sblId="Eph 3:14" name="К Ефесянам 3:14" shortName="Еф 3:14" orderIndex="13">Для сего преклоняю колени мои пред Отцем Господа нашего Иисуса Христа,</Verse>
+        <Verse osisId="Eph.3.15" sblId="Eph 3:15" name="К Ефесянам 3:15" shortName="Еф 3:15" orderIndex="14">от Которого именуется всякое отечество на небесах и на земле,</Verse>
+        <Verse osisId="Eph.3.16" sblId="Eph 3:16" name="К Ефесянам 3:16" shortName="Еф 3:16" orderIndex="15">да даст вам, по богатству славы Своей, крепко утвердиться Духом Его во внутреннем человеке,</Verse>
+        <Verse osisId="Eph.3.17" sblId="Eph 3:17" name="К Ефесянам 3:17" shortName="Еф 3:17" orderIndex="16">верою вселиться Христу в сердца ваши,</Verse>
+        <Verse osisId="Eph.3.18" sblId="Eph 3:18" name="К Ефесянам 3:18" shortName="Еф 3:18" orderIndex="17">чтобы вы, укорененные и утвержденные в любви, могли постигнуть со всеми святыми, что широта и долгота, и глубина и высота,</Verse>
+        <Verse osisId="Eph.3.19" sblId="Eph 3:19" name="К Ефесянам 3:19" shortName="Еф 3:19" orderIndex="18">и уразуметь превосходящую разумение любовь Христову, дабы вам исполниться всею полнотою Божиею.</Verse>
+        <Verse osisId="Eph.3.20" sblId="Eph 3:20" name="К Ефесянам 3:20" shortName="Еф 3:20" orderIndex="19">А Тому, Кто действующею в нас силою может сделать несравненно больше всего, чего мы просим, или о чем помышляем,</Verse>
+        <Verse osisId="Eph.3.21" sblId="Eph 3:21" name="К Ефесянам 3:21" shortName="Еф 3:21" orderIndex="20">Тому слава в Церкви во Христе Иисусе во все роды, от века до века. Аминь.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Eph.4" sblId="Eph 4" name="К Ефесянам 4" shortName="Еф 4" orderIndex="3" versesCount="32">
+      <verses>
+        <Verse osisId="Eph.4.1" sblId="Eph 4:1" name="К Ефесянам 4:1" shortName="Еф 4:1" orderIndex="0">Итак я, узник в Господе, умоляю вас поступать достойно звания, в которое вы призваны,</Verse>
+        <Verse osisId="Eph.4.2" sblId="Eph 4:2" name="К Ефесянам 4:2" shortName="Еф 4:2" orderIndex="1">со всяким смиренномудрием и кротостью и долготерпением, снисходя друг ко другу любовью,</Verse>
+        <Verse osisId="Eph.4.3" sblId="Eph 4:3" name="К Ефесянам 4:3" shortName="Еф 4:3" orderIndex="2">стараясь сохранять единство духа в союзе мира.</Verse>
+        <Verse osisId="Eph.4.4" sblId="Eph 4:4" name="К Ефесянам 4:4" shortName="Еф 4:4" orderIndex="3">Одно тело и один дух, как вы и призваны к одной надежде вашего звания;</Verse>
+        <Verse osisId="Eph.4.5" sblId="Eph 4:5" name="К Ефесянам 4:5" shortName="Еф 4:5" orderIndex="4">один Господь, одна вера, одно крещение,</Verse>
+        <Verse osisId="Eph.4.6" sblId="Eph 4:6" name="К Ефесянам 4:6" shortName="Еф 4:6" orderIndex="5">один Бог и Отец всех, Который над всеми, и через всех, и во всех нас.</Verse>
+        <Verse osisId="Eph.4.7" sblId="Eph 4:7" name="К Ефесянам 4:7" shortName="Еф 4:7" orderIndex="6">Каждому же из нас дана благодать по мере дара Христова.</Verse>
+        <Verse osisId="Eph.4.8" sblId="Eph 4:8" name="К Ефесянам 4:8" shortName="Еф 4:8" orderIndex="7">Посему и сказано: восшед на высоту, пленил плен и дал дары человекам.</Verse>
+        <Verse osisId="Eph.4.9" sblId="Eph 4:9" name="К Ефесянам 4:9" shortName="Еф 4:9" orderIndex="8">А "восшел" что означает, как не то, что Он и нисходил прежде в преисподние места земли?</Verse>
+        <Verse osisId="Eph.4.10" sblId="Eph 4:10" name="К Ефесянам 4:10" shortName="Еф 4:10" orderIndex="9">Нисшедший, Он же есть и восшедший превыше всех небес, дабы наполнить все.</Verse>
+        <Verse osisId="Eph.4.11" sblId="Eph 4:11" name="К Ефесянам 4:11" shortName="Еф 4:11" orderIndex="10">И Он поставил одних Апостолами, других пророками, иных Евангелистами, иных пастырями и учителями,</Verse>
+        <Verse osisId="Eph.4.12" sblId="Eph 4:12" name="К Ефесянам 4:12" shortName="Еф 4:12" orderIndex="11">к совершению святых, на дело служения, для созидания Тела Христова,</Verse>
+        <Verse osisId="Eph.4.13" sblId="Eph 4:13" name="К Ефесянам 4:13" shortName="Еф 4:13" orderIndex="12">доколе все придем в единство веры и познания Сына Божия, в мужа совершенного, в меру полного возраста Христова;</Verse>
+        <Verse osisId="Eph.4.14" sblId="Eph 4:14" name="К Ефесянам 4:14" shortName="Еф 4:14" orderIndex="13">дабы мы не были более младенцами, колеблющимися и увлекающимися всяким ветром учения, по лукавству человеков, по хитрому искусству обольщения,</Verse>
+        <Verse osisId="Eph.4.15" sblId="Eph 4:15" name="К Ефесянам 4:15" shortName="Еф 4:15" orderIndex="14">но истинною любовью все возращали в Того, Который есть глава Христос,</Verse>
+        <Verse osisId="Eph.4.16" sblId="Eph 4:16" name="К Ефесянам 4:16" shortName="Еф 4:16" orderIndex="15">из Которого все тело, составляемое и совокупляемое посредством всяких взаимно скрепляющих связей, при действии в свою меру каждого члена, получает приращение для созидания самого себя в любви.</Verse>
+        <Verse osisId="Eph.4.17" sblId="Eph 4:17" name="К Ефесянам 4:17" shortName="Еф 4:17" orderIndex="16">Посему я говорю и заклинаю Господом, чтобы вы более не поступали, как поступают прочие народы, по суетности ума своего,</Verse>
+        <Verse osisId="Eph.4.18" sblId="Eph 4:18" name="К Ефесянам 4:18" shortName="Еф 4:18" orderIndex="17">будучи помрачены в разуме, отчуждены от жизни Божией, по причине их невежества и ожесточения сердца их.</Verse>
+        <Verse osisId="Eph.4.19" sblId="Eph 4:19" name="К Ефесянам 4:19" shortName="Еф 4:19" orderIndex="18">Они, дойдя до бесчувствия, предались распутству так, что делают всякую нечистоту с ненасытимостью.</Verse>
+        <Verse osisId="Eph.4.20" sblId="Eph 4:20" name="К Ефесянам 4:20" shortName="Еф 4:20" orderIndex="19">Но вы не так познали Христа;</Verse>
+        <Verse osisId="Eph.4.21" sblId="Eph 4:21" name="К Ефесянам 4:21" shortName="Еф 4:21" orderIndex="20">потому что вы слышали о Нем и в Нем научились, – так как истина во Иисусе, –</Verse>
+        <Verse osisId="Eph.4.22" sblId="Eph 4:22" name="К Ефесянам 4:22" shortName="Еф 4:22" orderIndex="21">отложить прежний образ жизни ветхого человека, истлевающего в обольстительных похотях,</Verse>
+        <Verse osisId="Eph.4.23" sblId="Eph 4:23" name="К Ефесянам 4:23" shortName="Еф 4:23" orderIndex="22">а обновиться духом ума вашего</Verse>
+        <Verse osisId="Eph.4.24" sblId="Eph 4:24" name="К Ефесянам 4:24" shortName="Еф 4:24" orderIndex="23">и облечься в нового человека, созданного по Богу, в праведности и святости истины.</Verse>
+        <Verse osisId="Eph.4.25" sblId="Eph 4:25" name="К Ефесянам 4:25" shortName="Еф 4:25" orderIndex="24">Посему, отвергнув ложь, говорите истину каждый ближнему своему, потому что мы члены друг другу.</Verse>
+        <Verse osisId="Eph.4.26" sblId="Eph 4:26" name="К Ефесянам 4:26" shortName="Еф 4:26" orderIndex="25">Гневаясь, не согрешайте: солнце да не зайдет во гневе вашем;</Verse>
+        <Verse osisId="Eph.4.27" sblId="Eph 4:27" name="К Ефесянам 4:27" shortName="Еф 4:27" orderIndex="26">и не давайте места диаволу.</Verse>
+        <Verse osisId="Eph.4.28" sblId="Eph 4:28" name="К Ефесянам 4:28" shortName="Еф 4:28" orderIndex="27">Кто крал, вперед не кради, а лучше трудись, делая своими руками полезное, чтобы было из чего уделять нуждающемуся.</Verse>
+        <Verse osisId="Eph.4.29" sblId="Eph 4:29" name="К Ефесянам 4:29" shortName="Еф 4:29" orderIndex="28">Никакое гнилое слово да не исходит из уст ваших, а только доброе для назидания в вере, дабы оно доставляло благодать слушающим.</Verse>
+        <Verse osisId="Eph.4.30" sblId="Eph 4:30" name="К Ефесянам 4:30" shortName="Еф 4:30" orderIndex="29">И не оскорбляйте Святаго Духа Божия, Которым вы запечатлены в день искупления.</Verse>
+        <Verse osisId="Eph.4.31" sblId="Eph 4:31" name="К Ефесянам 4:31" shortName="Еф 4:31" orderIndex="30">Всякое раздражение и ярость, и гнев, и крик, и злоречие со всякою злобою да будут удалены от вас;</Verse>
+        <Verse osisId="Eph.4.32" sblId="Eph 4:32" name="К Ефесянам 4:32" shortName="Еф 4:32" orderIndex="31">но будьте друг ко другу добры, сострадательны, прощайте друг друга, как и Бог во Христе простил вас.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Eph.5" sblId="Eph 5" name="К Ефесянам 5" shortName="Еф 5" orderIndex="4" versesCount="33">
+      <verses>
+        <Verse osisId="Eph.5.1" sblId="Eph 5:1" name="К Ефесянам 5:1" shortName="Еф 5:1" orderIndex="0">Итак, подражайте Богу, как чада возлюбленные,</Verse>
+        <Verse osisId="Eph.5.2" sblId="Eph 5:2" name="К Ефесянам 5:2" shortName="Еф 5:2" orderIndex="1">и живите в любви, как и Христос возлюбил нас и предал Себя за нас в приношение и жертву Богу, в благоухание приятное.</Verse>
+        <Verse osisId="Eph.5.3" sblId="Eph 5:3" name="К Ефесянам 5:3" shortName="Еф 5:3" orderIndex="2">А блуд и всякая нечистота и любостяжание не должны даже именоваться у вас, как прилично святым.</Verse>
+        <Verse osisId="Eph.5.4" sblId="Eph 5:4" name="К Ефесянам 5:4" shortName="Еф 5:4" orderIndex="3">Также сквернословие и пустословие и смехотворство не приличны [вам], а, напротив, благодарение;</Verse>
+        <Verse osisId="Eph.5.5" sblId="Eph 5:5" name="К Ефесянам 5:5" shortName="Еф 5:5" orderIndex="4">ибо знайте, что никакой блудник, или нечистый, или любостяжатель, который есть идолослужитель, не имеет наследия в Царстве Христа и Бога.</Verse>
+        <Verse osisId="Eph.5.6" sblId="Eph 5:6" name="К Ефесянам 5:6" shortName="Еф 5:6" orderIndex="5">Никто да не обольщает вас пустыми словами, ибо за это приходит гнев Божий на сынов противления;</Verse>
+        <Verse osisId="Eph.5.7" sblId="Eph 5:7" name="К Ефесянам 5:7" shortName="Еф 5:7" orderIndex="6">итак, не будьте сообщниками их.</Verse>
+        <Verse osisId="Eph.5.8" sblId="Eph 5:8" name="К Ефесянам 5:8" shortName="Еф 5:8" orderIndex="7">Вы были некогда тьма, а теперь – свет в Господе: поступайте, как чада света,</Verse>
+        <Verse osisId="Eph.5.9" sblId="Eph 5:9" name="К Ефесянам 5:9" shortName="Еф 5:9" orderIndex="8">потому что плод Духа состоит во всякой благости, праведности и истине.</Verse>
+        <Verse osisId="Eph.5.10" sblId="Eph 5:10" name="К Ефесянам 5:10" shortName="Еф 5:10" orderIndex="9">Испытывайте, что благоугодно Богу,</Verse>
+        <Verse osisId="Eph.5.11" sblId="Eph 5:11" name="К Ефесянам 5:11" shortName="Еф 5:11" orderIndex="10">и не участвуйте в бесплодных делах тьмы, но и обличайте.</Verse>
+        <Verse osisId="Eph.5.12" sblId="Eph 5:12" name="К Ефесянам 5:12" shortName="Еф 5:12" orderIndex="11">Ибо о том, что они делают тайно, стыдно и говорить.</Verse>
+        <Verse osisId="Eph.5.13" sblId="Eph 5:13" name="К Ефесянам 5:13" shortName="Еф 5:13" orderIndex="12">Все же обнаруживаемое делается явным от света, ибо все, делающееся явным, свет есть.</Verse>
+        <Verse osisId="Eph.5.14" sblId="Eph 5:14" name="К Ефесянам 5:14" shortName="Еф 5:14" orderIndex="13">Посему сказано: "встань, спящий, и воскресни из мертвых, и осветит тебя Христос".</Verse>
+        <Verse osisId="Eph.5.15" sblId="Eph 5:15" name="К Ефесянам 5:15" shortName="Еф 5:15" orderIndex="14">Итак, смотрите, поступайте осторожно, не как неразумные, но как мудрые,</Verse>
+        <Verse osisId="Eph.5.16" sblId="Eph 5:16" name="К Ефесянам 5:16" shortName="Еф 5:16" orderIndex="15">дорожа временем, потому что дни лукавы.</Verse>
+        <Verse osisId="Eph.5.17" sblId="Eph 5:17" name="К Ефесянам 5:17" shortName="Еф 5:17" orderIndex="16">Итак, не будьте нерассудительны, но познавайте, что есть воля Божия.</Verse>
+        <Verse osisId="Eph.5.18" sblId="Eph 5:18" name="К Ефесянам 5:18" shortName="Еф 5:18" orderIndex="17">И не упивайтесь вином, от которого бывает распутство; но исполняйтесь Духом,</Verse>
+        <Verse osisId="Eph.5.19" sblId="Eph 5:19" name="К Ефесянам 5:19" shortName="Еф 5:19" orderIndex="18">назидая самих себя псалмами и славословиями и песнопениями духовными, поя и воспевая в сердцах ваших Господу,</Verse>
+        <Verse osisId="Eph.5.20" sblId="Eph 5:20" name="К Ефесянам 5:20" shortName="Еф 5:20" orderIndex="19">благодаря всегда за все Бога и Отца, во имя Господа нашего Иисуса Христа,</Verse>
+        <Verse osisId="Eph.5.21" sblId="Eph 5:21" name="К Ефесянам 5:21" shortName="Еф 5:21" orderIndex="20">повинуясь друг другу в страхе Божием.</Verse>
+        <Verse osisId="Eph.5.22" sblId="Eph 5:22" name="К Ефесянам 5:22" shortName="Еф 5:22" orderIndex="21">Жены, повинуйтесь своим мужьям, как Господу,</Verse>
+        <Verse osisId="Eph.5.23" sblId="Eph 5:23" name="К Ефесянам 5:23" shortName="Еф 5:23" orderIndex="22">потому что муж есть глава жены, как и Христос глава Церкви, и Он же Спаситель тела.</Verse>
+        <Verse osisId="Eph.5.24" sblId="Eph 5:24" name="К Ефесянам 5:24" shortName="Еф 5:24" orderIndex="23">Но как Церковь повинуется Христу, так и жены своим мужьям во всем.</Verse>
+        <Verse osisId="Eph.5.25" sblId="Eph 5:25" name="К Ефесянам 5:25" shortName="Еф 5:25" orderIndex="24">Мужья, любите своих жен, как и Христос возлюбил Церковь и предал Себя за нее,</Verse>
+        <Verse osisId="Eph.5.26" sblId="Eph 5:26" name="К Ефесянам 5:26" shortName="Еф 5:26" orderIndex="25">чтобы освятить ее, очистив банею водною посредством слова;</Verse>
+        <Verse osisId="Eph.5.27" sblId="Eph 5:27" name="К Ефесянам 5:27" shortName="Еф 5:27" orderIndex="26">чтобы представить ее Себе славною Церковью, не имеющею пятна, или порока, или чего–либо подобного, но дабы она была свята и непорочна.</Verse>
+        <Verse osisId="Eph.5.28" sblId="Eph 5:28" name="К Ефесянам 5:28" shortName="Еф 5:28" orderIndex="27">Так должны мужья любить своих жен, как свои тела: любящий свою жену любит самого себя.</Verse>
+        <Verse osisId="Eph.5.29" sblId="Eph 5:29" name="К Ефесянам 5:29" shortName="Еф 5:29" orderIndex="28">Ибо никто никогда не имел ненависти к своей плоти, но питает и греет ее, как и Господь Церковь,</Verse>
+        <Verse osisId="Eph.5.30" sblId="Eph 5:30" name="К Ефесянам 5:30" shortName="Еф 5:30" orderIndex="29">потому что мы члены тела Его, от плоти Его и от костей Его.</Verse>
+        <Verse osisId="Eph.5.31" sblId="Eph 5:31" name="К Ефесянам 5:31" shortName="Еф 5:31" orderIndex="30">Посему оставит человек отца своего и мать и прилепится к жене своей, и будут двое одна плоть.</Verse>
+        <Verse osisId="Eph.5.32" sblId="Eph 5:32" name="К Ефесянам 5:32" shortName="Еф 5:32" orderIndex="31">Тайна сия велика; я говорю по отношению ко Христу и к Церкви.</Verse>
+        <Verse osisId="Eph.5.33" sblId="Eph 5:33" name="К Ефесянам 5:33" shortName="Еф 5:33" orderIndex="32">Так каждый из вас да любит свою жену, как самого себя; а жена да боится своего мужа.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Eph.6" sblId="Eph 6" name="К Ефесянам 6" shortName="Еф 6" orderIndex="5" versesCount="24">
+      <verses>
+        <Verse osisId="Eph.6.1" sblId="Eph 6:1" name="К Ефесянам 6:1" shortName="Еф 6:1" orderIndex="0">Дети, повинуйтесь своим родителям в Господе, ибо сего [требует] справедливость.</Verse>
+        <Verse osisId="Eph.6.2" sblId="Eph 6:2" name="К Ефесянам 6:2" shortName="Еф 6:2" orderIndex="1">Почитай отца твоего и мать, это первая заповедь с обетованием:</Verse>
+        <Verse osisId="Eph.6.3" sblId="Eph 6:3" name="К Ефесянам 6:3" shortName="Еф 6:3" orderIndex="2">да будет тебе благо, и будешь долголетен на земле.</Verse>
+        <Verse osisId="Eph.6.4" sblId="Eph 6:4" name="К Ефесянам 6:4" shortName="Еф 6:4" orderIndex="3">И вы, отцы, не раздражайте детей ваших, но воспитывайте их в учении и наставлении Господнем.</Verse>
+        <Verse osisId="Eph.6.5" sblId="Eph 6:5" name="К Ефесянам 6:5" shortName="Еф 6:5" orderIndex="4">Рабы, повинуйтесь господам своим по плоти со страхом и трепетом, в простоте сердца вашего, как Христу,</Verse>
+        <Verse osisId="Eph.6.6" sblId="Eph 6:6" name="К Ефесянам 6:6" shortName="Еф 6:6" orderIndex="5">не с видимою только услужливостью, как человекоугодники, но как рабы Христовы, исполняя волю Божию от души,</Verse>
+        <Verse osisId="Eph.6.7" sblId="Eph 6:7" name="К Ефесянам 6:7" shortName="Еф 6:7" orderIndex="6">служа с усердием, как Господу, а не как человекам,</Verse>
+        <Verse osisId="Eph.6.8" sblId="Eph 6:8" name="К Ефесянам 6:8" shortName="Еф 6:8" orderIndex="7">зная, что каждый получит от Господа по мере добра, которое он сделал, раб ли, или свободный.</Verse>
+        <Verse osisId="Eph.6.9" sblId="Eph 6:9" name="К Ефесянам 6:9" shortName="Еф 6:9" orderIndex="8">И вы, господа, поступайте с ними так же, умеряя строгость, зная, что и над вами самими и над ними есть на небесах Господь, у Которого нет лицеприятия.</Verse>
+        <Verse osisId="Eph.6.10" sblId="Eph 6:10" name="К Ефесянам 6:10" shortName="Еф 6:10" orderIndex="9">Наконец, братия мои, укрепляйтесь Господом и могуществом силы Его.</Verse>
+        <Verse osisId="Eph.6.11" sblId="Eph 6:11" name="К Ефесянам 6:11" shortName="Еф 6:11" orderIndex="10">Облекитесь во всеоружие Божие, чтобы вам можно было стать против козней диавольских,</Verse>
+        <Verse osisId="Eph.6.12" sblId="Eph 6:12" name="К Ефесянам 6:12" shortName="Еф 6:12" orderIndex="11">потому что наша брань не против крови и плоти, но против начальств, против властей, против мироправителей тьмы века сего, против духов злобы поднебесной.</Verse>
+        <Verse osisId="Eph.6.13" sblId="Eph 6:13" name="К Ефесянам 6:13" shortName="Еф 6:13" orderIndex="12">Для сего приимите всеоружие Божие, дабы вы могли противостать в день злый и, все преодолев, устоять.</Verse>
+        <Verse osisId="Eph.6.14" sblId="Eph 6:14" name="К Ефесянам 6:14" shortName="Еф 6:14" orderIndex="13">Итак станьте, препоясав чресла ваши истиною и облекшись в броню праведности,</Verse>
+        <Verse osisId="Eph.6.15" sblId="Eph 6:15" name="К Ефесянам 6:15" shortName="Еф 6:15" orderIndex="14">и обув ноги в готовность благовествовать мир;</Verse>
+        <Verse osisId="Eph.6.16" sblId="Eph 6:16" name="К Ефесянам 6:16" shortName="Еф 6:16" orderIndex="15">а паче всего возьмите щит веры, которым возможете угасить все раскаленные стрелы лукавого;</Verse>
+        <Verse osisId="Eph.6.17" sblId="Eph 6:17" name="К Ефесянам 6:17" shortName="Еф 6:17" orderIndex="16">и шлем спасения возьмите, и меч духовный, который есть Слово Божие.</Verse>
+        <Verse osisId="Eph.6.18" sblId="Eph 6:18" name="К Ефесянам 6:18" shortName="Еф 6:18" orderIndex="17">Всякою молитвою и прошением молитесь во всякое время духом, и старайтесь о сем самом со всяким постоянством и молением о всех святых</Verse>
+        <Verse osisId="Eph.6.19" sblId="Eph 6:19" name="К Ефесянам 6:19" shortName="Еф 6:19" orderIndex="18">и о мне, дабы мне дано было слово – устами моими открыто с дерзновением возвещать тайну благовествования,</Verse>
+        <Verse osisId="Eph.6.20" sblId="Eph 6:20" name="К Ефесянам 6:20" shortName="Еф 6:20" orderIndex="19">для которого я исполняю посольство в узах, дабы я смело проповедывал, как мне должно.</Verse>
+        <Verse osisId="Eph.6.21" sblId="Eph 6:21" name="К Ефесянам 6:21" shortName="Еф 6:21" orderIndex="20">А дабы и вы знали о моих обстоятельствах и делах, обо всем известит вас Тихик, возлюбленный брат и верный в Господе служитель,</Verse>
+        <Verse osisId="Eph.6.22" sblId="Eph 6:22" name="К Ефесянам 6:22" shortName="Еф 6:22" orderIndex="21">которого я и послал к вам для того самого, чтобы вы узнали о нас и чтобы он утешил сердца ваши.</Verse>
+        <Verse osisId="Eph.6.23" sblId="Eph 6:23" name="К Ефесянам 6:23" shortName="Еф 6:23" orderIndex="22">Мир братиям и любовь с верою от Бога Отца и Господа Иисуса Христа.</Verse>
+        <Verse osisId="Eph.6.24" sblId="Eph 6:24" name="К Ефесянам 6:24" shortName="Еф 6:24" orderIndex="23">Благодать со всеми, неизменно любящими Господа нашего Иисуса Христа. Аминь.</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

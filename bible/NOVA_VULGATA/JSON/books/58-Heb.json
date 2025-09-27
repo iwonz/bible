@@ -1,0 +1,2565 @@
+{
+  "osisId": "Heb",
+  "sblId": "Heb",
+  "name": "Epistula ad Hebraeos",
+  "shortName": "Heb",
+  "orderIndex": 57,
+  "chaptersCount": 13,
+  "versesCount": 303,
+  "chapters": [
+    {
+      "osisId": "Heb.1",
+      "sblId": "Heb 1",
+      "name": "Epistula ad Hebraeos 1",
+      "shortName": "Heb 1",
+      "orderIndex": 0,
+      "versesCount": 14,
+      "verses": [
+        {
+          "osisId": "Heb.1.1",
+          "sblId": "Heb 1:1",
+          "name": "Epistula ad Hebraeos 1:1",
+          "shortName": "Heb 1:1",
+          "text": "Multifariam et multis modis olim Deus locutus patribus in prophetis,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.1.2",
+          "sblId": "Heb 1:2",
+          "name": "Epistula ad Hebraeos 1:2",
+          "shortName": "Heb 1:2",
+          "text": "in novissimis his diebus locutus est nobis in Filio, quem constituit heredem universorum, per quem fecit et saecula;",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.1.3",
+          "sblId": "Heb 1:3",
+          "name": "Epistula ad Hebraeos 1:3",
+          "shortName": "Heb 1:3",
+          "text": "qui, cum sit splendor gloriae et figura substantiae eius et portet omnia verbo virtutis suae, purgatione peccatorum facta, consedit ad dexteram maiestatis in excelsis,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.1.4",
+          "sblId": "Heb 1:4",
+          "name": "Epistula ad Hebraeos 1:4",
+          "shortName": "Heb 1:4",
+          "text": "tanto melior angelis effectus, quanto differentius prae illis nomen hereditavit.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.1.5",
+          "sblId": "Heb 1:5",
+          "name": "Epistula ad Hebraeos 1:5",
+          "shortName": "Heb 1:5",
+          "text": "Cui enim dixit aliquando angelorum: Filius meus es tu;ego hodie genui te \"et rursum: \" Ego ero illi in patrem, et ipse erit mihi in filium \"?",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.1.6",
+          "sblId": "Heb 1:6",
+          "name": "Epistula ad Hebraeos 1:6",
+          "shortName": "Heb 1:6",
+          "text": "Cum autem iterum introducit primogenitum in orbem terrae, dicit: Et adorent eum omnes angeli Dei \".",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.1.7",
+          "sblId": "Heb 1:7",
+          "name": "Epistula ad Hebraeos 1:7",
+          "shortName": "Heb 1:7",
+          "text": "Et ad angelos quidem dicit: Qui facit angelos suos spirituset ministros suos flammam ignis \";",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.1.8",
+          "sblId": "Heb 1:8",
+          "name": "Epistula ad Hebraeos 1:8",
+          "shortName": "Heb 1:8",
+          "text": "ad Filium autem: Thronus tuus, Deus, in saeculum saeculi,et virga aequitatis virga regni tui.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.1.9",
+          "sblId": "Heb 1:9",
+          "name": "Epistula ad Hebraeos 1:9",
+          "shortName": "Heb 1:9",
+          "text": "Dilexisti iustitiam et odisti iniquitatem,propterea unxit te Deus, Deus tuus,oleo exsultationis prae participibus tuis \"",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.1.10",
+          "sblId": "Heb 1:10",
+          "name": "Epistula ad Hebraeos 1:10",
+          "shortName": "Heb 1:10",
+          "text": "et: Tu in principio, Domine, terram fundasti;et opera manuum tuarum sunt caeli.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.1.11",
+          "sblId": "Heb 1:11",
+          "name": "Epistula ad Hebraeos 1:11",
+          "shortName": "Heb 1:11",
+          "text": "Ipsi peribunt, tu autem permanes;et omnes ut vestimentum veterascent,",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.1.12",
+          "sblId": "Heb 1:12",
+          "name": "Epistula ad Hebraeos 1:12",
+          "shortName": "Heb 1:12",
+          "text": "et velut amictum involves eos,sicut vestimentum et mutabuntur.Tu autem idem es, et anni tui non deficient \".",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.1.13",
+          "sblId": "Heb 1:13",
+          "name": "Epistula ad Hebraeos 1:13",
+          "shortName": "Heb 1:13",
+          "text": "Ad quem autem angelorum dixit aliquando: Sede a dextris meis,donec ponam inimicos tuos scabellum pedum tuorum \"?",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.1.14",
+          "sblId": "Heb 1:14",
+          "name": "Epistula ad Hebraeos 1:14",
+          "shortName": "Heb 1:14",
+          "text": "Nonne omnes sunt administratorii spiritus, qui in ministerium mittuntur propter eos, qui hereditatem capient salutis?",
+          "orderIndex": 13
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.2",
+      "sblId": "Heb 2",
+      "name": "Epistula ad Hebraeos 2",
+      "shortName": "Heb 2",
+      "orderIndex": 1,
+      "versesCount": 18,
+      "verses": [
+        {
+          "osisId": "Heb.2.1",
+          "sblId": "Heb 2:1",
+          "name": "Epistula ad Hebraeos 2:1",
+          "shortName": "Heb 2:1",
+          "text": "Propterea abundantius oportet observare nos ea, quae audivi mus, ne forte praeterfluamus.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.2.2",
+          "sblId": "Heb 2:2",
+          "name": "Epistula ad Hebraeos 2:2",
+          "shortName": "Heb 2:2",
+          "text": "Si enim, qui per angelos dictus est, sermo factus est firmus, et omnis praevaricatio et inoboedientia accepit iustam mercedis retributionem,",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.2.3",
+          "sblId": "Heb 2:3",
+          "name": "Epistula ad Hebraeos 2:3",
+          "shortName": "Heb 2:3",
+          "text": "quomodo nos effugiemus, si tantam neglexerimus salutem? Quae, cum initium accepisset enarrari per Dominum, ab eis, qui audierunt, in nos confirmata est,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.2.4",
+          "sblId": "Heb 2:4",
+          "name": "Epistula ad Hebraeos 2:4",
+          "shortName": "Heb 2:4",
+          "text": "contestante Deo signis et portentis et variis virtutibus et Spiritus Sancti distributionibus secundum suam voluntatem.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.2.5",
+          "sblId": "Heb 2:5",
+          "name": "Epistula ad Hebraeos 2:5",
+          "shortName": "Heb 2:5",
+          "text": "Non enim angelis subiecit orbem terrae futurum, de quo loquimur.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.2.6",
+          "sblId": "Heb 2:6",
+          "name": "Epistula ad Hebraeos 2:6",
+          "shortName": "Heb 2:6",
+          "text": "Testatus est autem in quodam loco quis dicens: Quid est homo, quod memor es eius,aut filius hominis, quoniam visitas eum?",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.2.7",
+          "sblId": "Heb 2:7",
+          "name": "Epistula ad Hebraeos 2:7",
+          "shortName": "Heb 2:7",
+          "text": "Minuisti eum paulo minus ab angelis,gloria et honore coronasti eum,",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.2.8",
+          "sblId": "Heb 2:8",
+          "name": "Epistula ad Hebraeos 2:8",
+          "shortName": "Heb 2:8",
+          "text": "omnia subiecisti sub pedibus eius \".In eo enim quod ei omnia subiecit, nihil dimisit non subiectibile ei. Nunc autem necdum videmus omnia subiecta ei;",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.2.9",
+          "sblId": "Heb 2:9",
+          "name": "Epistula ad Hebraeos 2:9",
+          "shortName": "Heb 2:9",
+          "text": "eum autem, qui paulo minus ab angelis minoratus est, videmus Iesum propter passionem mortis gloria et honore coronatum, ut gratia Dei pro omnibus gustaverit mortem.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.2.10",
+          "sblId": "Heb 2:10",
+          "name": "Epistula ad Hebraeos 2:10",
+          "shortName": "Heb 2:10",
+          "text": "Decebat enim eum, propter quem omnia et per quem omnia, qui multos filios in gloriam adduxit, ducem salutis eorum per passiones consummare.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.2.11",
+          "sblId": "Heb 2:11",
+          "name": "Epistula ad Hebraeos 2:11",
+          "shortName": "Heb 2:11",
+          "text": "Qui enim sanctificat et qui sanctificantur, ex uno omnes; propter quam causam non erubescit fratres eos vocare",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.2.12",
+          "sblId": "Heb 2:12",
+          "name": "Epistula ad Hebraeos 2:12",
+          "shortName": "Heb 2:12",
+          "text": "dicens: Nuntiabo nomen tuum fratribus meis,in medio ecclesiae laudabo te\";",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.2.13",
+          "sblId": "Heb 2:13",
+          "name": "Epistula ad Hebraeos 2:13",
+          "shortName": "Heb 2:13",
+          "text": "et iterum: \" Ego ero fidens in eum \";et iterum: \" Ecce ego et pueri, quos mihi dedit Deus \".",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.2.14",
+          "sblId": "Heb 2:14",
+          "name": "Epistula ad Hebraeos 2:14",
+          "shortName": "Heb 2:14",
+          "text": "Quia ergo pueri communicaverunt sanguini et carni, et ipse similiter participavit iisdem, ut per mortem destrueret eum, qui habebat mortis imperium, id est Diabolum,",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.2.15",
+          "sblId": "Heb 2:15",
+          "name": "Epistula ad Hebraeos 2:15",
+          "shortName": "Heb 2:15",
+          "text": "et liberaret eos, qui timore mortis per totam vitam obnoxii erant servituti.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.2.16",
+          "sblId": "Heb 2:16",
+          "name": "Epistula ad Hebraeos 2:16",
+          "shortName": "Heb 2:16",
+          "text": "Nusquam enim angelos apprehendit, sed semen Abrahae apprehendit.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Heb.2.17",
+          "sblId": "Heb 2:17",
+          "name": "Epistula ad Hebraeos 2:17",
+          "shortName": "Heb 2:17",
+          "text": "Unde debuit per omnia fratribus similari, ut misericors fieret et fidelis pontifex in iis,quae sunt ad Deum, ut repropitiaret delicta populi;",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Heb.2.18",
+          "sblId": "Heb 2:18",
+          "name": "Epistula ad Hebraeos 2:18",
+          "shortName": "Heb 2:18",
+          "text": "in quo enim passus est ipse tentatus, po tens est eis, qui tentantur, auxiliari.",
+          "orderIndex": 17
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.3",
+      "sblId": "Heb 3",
+      "name": "Epistula ad Hebraeos 3",
+      "shortName": "Heb 3",
+      "orderIndex": 2,
+      "versesCount": 19,
+      "verses": [
+        {
+          "osisId": "Heb.3.1",
+          "sblId": "Heb 3:1",
+          "name": "Epistula ad Hebraeos 3:1",
+          "shortName": "Heb 3:1",
+          "text": "Unde, fratres sancti, vocationis caelestis participes, considerate apostolum et pontificem confessionis nostrae Iesum,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.3.2",
+          "sblId": "Heb 3:2",
+          "name": "Epistula ad Hebraeos 3:2",
+          "shortName": "Heb 3:2",
+          "text": "qui fidelis est ei, qui fecit illum, sicut et Moyses in tota domo illius.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.3.3",
+          "sblId": "Heb 3:3",
+          "name": "Epistula ad Hebraeos 3:3",
+          "shortName": "Heb 3:3",
+          "text": "Amplioris enim gloriae iste prae Moyse dignus est habitus, quanto ampliorem honorem habet quam domus, qui fabricavit illam.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.3.4",
+          "sblId": "Heb 3:4",
+          "name": "Epistula ad Hebraeos 3:4",
+          "shortName": "Heb 3:4",
+          "text": "Omnis namque domus fabricatur ab aliquo; qui autem omnia fabricavit, Deus est.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.3.5",
+          "sblId": "Heb 3:5",
+          "name": "Epistula ad Hebraeos 3:5",
+          "shortName": "Heb 3:5",
+          "text": "Et Moyses quidem fidelis erat in tota domo eius tamquam famulus in testimonium eorum, quae dicenda erant,",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.3.6",
+          "sblId": "Heb 3:6",
+          "name": "Epistula ad Hebraeos 3:6",
+          "shortName": "Heb 3:6",
+          "text": "Christus vero tamquam Filius super domum illius; cuius domus sumus nos, si fiduciam et gloriationem spei retineamus.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.3.7",
+          "sblId": "Heb 3:7",
+          "name": "Epistula ad Hebraeos 3:7",
+          "shortName": "Heb 3:7",
+          "text": "Quapropter, sicut dicit Spiritus Sanctus: Hodie, si vocem eius audieritis,",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.3.8",
+          "sblId": "Heb 3:8",
+          "name": "Epistula ad Hebraeos 3:8",
+          "shortName": "Heb 3:8",
+          "text": "nolite obdurare corda vestra sicut in exacerbatione,secundum diem tentationis in deserto,",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.3.9",
+          "sblId": "Heb 3:9",
+          "name": "Epistula ad Hebraeos 3:9",
+          "shortName": "Heb 3:9",
+          "text": "ubi tentaverunt me patres vestri in probationeet viderunt opera mea",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.3.10",
+          "sblId": "Heb 3:10",
+          "name": "Epistula ad Hebraeos 3:10",
+          "shortName": "Heb 3:10",
+          "text": "quadraginta annos. Propter quod infensus fui generationi huic et dixi: Semper errant corde.Ipsi autem non cognoverunt vias meas;",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.3.11",
+          "sblId": "Heb 3:11",
+          "name": "Epistula ad Hebraeos 3:11",
+          "shortName": "Heb 3:11",
+          "text": "sicut icut iuravi in ira mea:Non introibunt in requiem meam \".",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.3.12",
+          "sblId": "Heb 3:12",
+          "name": "Epistula ad Hebraeos 3:12",
+          "shortName": "Heb 3:12",
+          "text": "Videte, fratres, ne forte sit in aliquo vestrum cor malum incredulitatis discedendi a Deo vivo,",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.3.13",
+          "sblId": "Heb 3:13",
+          "name": "Epistula ad Hebraeos 3:13",
+          "shortName": "Heb 3:13",
+          "text": "sed adhortamini vosmetipsos per singulos dies, donec illud \" hodie \" vocatur, ut non obduretur quis ex vobis fallacia peccati;",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.3.14",
+          "sblId": "Heb 3:14",
+          "name": "Epistula ad Hebraeos 3:14",
+          "shortName": "Heb 3:14",
+          "text": "participes enim Christi effecti sumus, si tamen initium substantiae usque ad finem firmum retineamus,",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.3.15",
+          "sblId": "Heb 3:15",
+          "name": "Epistula ad Hebraeos 3:15",
+          "shortName": "Heb 3:15",
+          "text": "dum dicitur: Hodie, si vocem eius audieritis,nolite obdurare corda vestra quemadmodum in illa exacerbatione \".",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.3.16",
+          "sblId": "Heb 3:16",
+          "name": "Epistula ad Hebraeos 3:16",
+          "shortName": "Heb 3:16",
+          "text": "Qui sunt enim qui audientes exacerbaverunt? Nonne universi, qui profecti sunt ab Aegypto per Moysen?",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Heb.3.17",
+          "sblId": "Heb 3:17",
+          "name": "Epistula ad Hebraeos 3:17",
+          "shortName": "Heb 3:17",
+          "text": "Quibus autem infensus fuit quadraginta annos? Nonne illis, qui peccaverunt, quorum membra ceciderunt in deserto?",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Heb.3.18",
+          "sblId": "Heb 3:18",
+          "name": "Epistula ad Hebraeos 3:18",
+          "shortName": "Heb 3:18",
+          "text": "Quibus autem iuravit non introire in requiem ipsius, nisi illis, qui increduli fuerunt?",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Heb.3.19",
+          "sblId": "Heb 3:19",
+          "name": "Epistula ad Hebraeos 3:19",
+          "shortName": "Heb 3:19",
+          "text": "Et videmus quia non potuerunt introire propter incredulitatem.",
+          "orderIndex": 18
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.4",
+      "sblId": "Heb 4",
+      "name": "Epistula ad Hebraeos 4",
+      "shortName": "Heb 4",
+      "orderIndex": 3,
+      "versesCount": 16,
+      "verses": [
+        {
+          "osisId": "Heb.4.1",
+          "sblId": "Heb 4:1",
+          "name": "Epistula ad Hebraeos 4:1",
+          "shortName": "Heb 4:1",
+          "text": "Timeamus ergo, ne forte, relicta pollicitatione introeundi in re quiem eius, existimetur aliquis ex vobis deesse;",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.4.2",
+          "sblId": "Heb 4:2",
+          "name": "Epistula ad Hebraeos 4:2",
+          "shortName": "Heb 4:2",
+          "text": "etenim et nobis evangelizatum est quemadmodum et illis, sed non profuit illis sermo auditus, non commixtis fide cum iis, qui audierant.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.4.3",
+          "sblId": "Heb 4:3",
+          "name": "Epistula ad Hebraeos 4:3",
+          "shortName": "Heb 4:3",
+          "text": "Ingredimur enim in requiem, qui credidimus, quemadmodum dixit: Sicut iuravi in ira mea:Non introibunt in requiem meam \",et quidem operibus ab institutione mundi factis.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.4.4",
+          "sblId": "Heb 4:4",
+          "name": "Epistula ad Hebraeos 4:4",
+          "shortName": "Heb 4:4",
+          "text": "Dixit enim quodam loco de die septima sic: \"Et requievit Deus die septima ab omnibus operibus suis \";",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.4.5",
+          "sblId": "Heb 4:5",
+          "name": "Epistula ad Hebraeos 4:5",
+          "shortName": "Heb 4:5",
+          "text": "et in isto rursum: \" Non introibunt in requiem meam \".",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.4.6",
+          "sblId": "Heb 4:6",
+          "name": "Epistula ad Hebraeos 4:6",
+          "shortName": "Heb 4:6",
+          "text": "Quoniam ergo superest quosdam introire in illam, et hi, quibus prioribus evangelizatum est, non introierunt propter inoboedientiam,",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.4.7",
+          "sblId": "Heb 4:7",
+          "name": "Epistula ad Hebraeos 4:7",
+          "shortName": "Heb 4:7",
+          "text": "iterum terminat diem quendam, \" Hodie \", in David dicendo post tantum temporis, sicut supra dictum est: Hodie, si vocem eius audieritis,nolite obdurare corda vestra \".",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.4.8",
+          "sblId": "Heb 4:8",
+          "name": "Epistula ad Hebraeos 4:8",
+          "shortName": "Heb 4:8",
+          "text": "Nam, si eis Iesus requiem praestitisset, non de alio loqueretur posthac die.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.4.9",
+          "sblId": "Heb 4:9",
+          "name": "Epistula ad Hebraeos 4:9",
+          "shortName": "Heb 4:9",
+          "text": "Itaque relinquitur sabbatismus populo Dei;",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.4.10",
+          "sblId": "Heb 4:10",
+          "name": "Epistula ad Hebraeos 4:10",
+          "shortName": "Heb 4:10",
+          "text": "qui enim ingressus est in requiem eius, etiam ipse requievit ab operibus suis, sicut a suis Deus.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.4.11",
+          "sblId": "Heb 4:11",
+          "name": "Epistula ad Hebraeos 4:11",
+          "shortName": "Heb 4:11",
+          "text": "Festinemus ergo ingredi in illam requiem, ut ne in idipsum quis incidat inoboedientiae exemplum.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.4.12",
+          "sblId": "Heb 4:12",
+          "name": "Epistula ad Hebraeos 4:12",
+          "shortName": "Heb 4:12",
+          "text": "Vivus est enim Dei sermo et efficax et penetrabilior omni gladio ancipiti et pertingens usque ad divisionem animae ac spiritus, compagum quoque et medullarum, et discretor cogitationum et intentionum cordis;",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.4.13",
+          "sblId": "Heb 4:13",
+          "name": "Epistula ad Hebraeos 4:13",
+          "shortName": "Heb 4:13",
+          "text": "et non est creatura invisibilis in conspectu eius, omnia autem nuda et aperta sunt oculis eius, ad quem nobis sermo.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.4.14",
+          "sblId": "Heb 4:14",
+          "name": "Epistula ad Hebraeos 4:14",
+          "shortName": "Heb 4:14",
+          "text": "Habentes ergo pontificem magnum, qui penetravit caelos, Iesum Filium Dei, teneamus confessionem.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.4.15",
+          "sblId": "Heb 4:15",
+          "name": "Epistula ad Hebraeos 4:15",
+          "shortName": "Heb 4:15",
+          "text": "Non enim habemus pontificem, qui non possit compati infirmitatibus nostris, tentatum autem per omnia secundum similitudinem absque peccato;",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.4.16",
+          "sblId": "Heb 4:16",
+          "name": "Epistula ad Hebraeos 4:16",
+          "shortName": "Heb 4:16",
+          "text": "adeamus ergo cum fiducia ad thronum gratiae, ut misericordiam consequamur et gratiam inveniamus in auxilium opportunum.",
+          "orderIndex": 15
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.5",
+      "sblId": "Heb 5",
+      "name": "Epistula ad Hebraeos 5",
+      "shortName": "Heb 5",
+      "orderIndex": 4,
+      "versesCount": 14,
+      "verses": [
+        {
+          "osisId": "Heb.5.1",
+          "sblId": "Heb 5:1",
+          "name": "Epistula ad Hebraeos 5:1",
+          "shortName": "Heb 5:1",
+          "text": "Omnis namque pontifex ex hominibus assumptus pro homi nibus constituitur in his, quae sunt ad Deum, ut offerat dona et sacrificia pro peccatis;",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.5.2",
+          "sblId": "Heb 5:2",
+          "name": "Epistula ad Hebraeos 5:2",
+          "shortName": "Heb 5:2",
+          "text": "qui aeque condolere possit his, qui ignorant et errant, quoniam et ipse circumdatus est infirmitate",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.5.3",
+          "sblId": "Heb 5:3",
+          "name": "Epistula ad Hebraeos 5:3",
+          "shortName": "Heb 5:3",
+          "text": "et propter eam debet, quemadmodum et pro populo, ita etiam pro semetipso offerre pro peccatis.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.5.4",
+          "sblId": "Heb 5:4",
+          "name": "Epistula ad Hebraeos 5:4",
+          "shortName": "Heb 5:4",
+          "text": "Nec quisquam sumit sibi illum honorem, sed qui vocatur a Deo tamquam et Aaron.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.5.5",
+          "sblId": "Heb 5:5",
+          "name": "Epistula ad Hebraeos 5:5",
+          "shortName": "Heb 5:5",
+          "text": "Sic et Christus non semetipsum glorificavit, ut pontifex fieret, sed qui locutus est ad eum: Filius meus es tu;ego hodie genui te \";",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.5.6",
+          "sblId": "Heb 5:6",
+          "name": "Epistula ad Hebraeos 5:6",
+          "shortName": "Heb 5:6",
+          "text": "quemadmodum et in alio dicit: Tu es sacerdos in aeternum secundum ordinem Melchisedech \".",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.5.7",
+          "sblId": "Heb 5:7",
+          "name": "Epistula ad Hebraeos 5:7",
+          "shortName": "Heb 5:7",
+          "text": "Qui in diebus carnis suae, preces supplicationesque ad eum, qui possit salvum illum a morte facere, cum clamore valido et lacrimis offerens et exauditus pro sua reverentia,",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.5.8",
+          "sblId": "Heb 5:8",
+          "name": "Epistula ad Hebraeos 5:8",
+          "shortName": "Heb 5:8",
+          "text": "et quidem cum esset Filius, didicit ex his, quae passus est, oboedientiam;",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.5.9",
+          "sblId": "Heb 5:9",
+          "name": "Epistula ad Hebraeos 5:9",
+          "shortName": "Heb 5:9",
+          "text": "et, consummatus, factus est omnibus oboedientibus sibi auctor salutis aeternae,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.5.10",
+          "sblId": "Heb 5:10",
+          "name": "Epistula ad Hebraeos 5:10",
+          "shortName": "Heb 5:10",
+          "text": "appellatus a Deo pontifex iuxta ordinem Melchisedech.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.5.11",
+          "sblId": "Heb 5:11",
+          "name": "Epistula ad Hebraeos 5:11",
+          "shortName": "Heb 5:11",
+          "text": "De quo grandis nobis sermo et ininterpretabilis ad dicendum, quoniam segnes facti estis ad audiendum.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.5.12",
+          "sblId": "Heb 5:12",
+          "name": "Epistula ad Hebraeos 5:12",
+          "shortName": "Heb 5:12",
+          "text": "Etenim cum deberetis magistri esse propter tempus, rursum indigetis, ut vos doceat aliquis elementa exordii sermonum Dei, et facti estis, quibus lacte opus sit, non solido cibo.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.5.13",
+          "sblId": "Heb 5:13",
+          "name": "Epistula ad Hebraeos 5:13",
+          "shortName": "Heb 5:13",
+          "text": "Omnis enim, qui lactis est particeps, expers est sermonis iustitiae, parvulus enim est;",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.5.14",
+          "sblId": "Heb 5:14",
+          "name": "Epistula ad Hebraeos 5:14",
+          "shortName": "Heb 5:14",
+          "text": "perfectorum autem est solidus cibus, eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.",
+          "orderIndex": 13
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.6",
+      "sblId": "Heb 6",
+      "name": "Epistula ad Hebraeos 6",
+      "shortName": "Heb 6",
+      "orderIndex": 5,
+      "versesCount": 20,
+      "verses": [
+        {
+          "osisId": "Heb.6.1",
+          "sblId": "Heb 6:1",
+          "name": "Epistula ad Hebraeos 6:1",
+          "shortName": "Heb 6:1",
+          "text": "Quapropter praetermittentes inchoationis Christi sermonem ad perfectionem feramur, non rursum iacientes fundamentum paenitentiae ab operibus mortuis et fidei ad Deum,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.6.2",
+          "sblId": "Heb 6:2",
+          "name": "Epistula ad Hebraeos 6:2",
+          "shortName": "Heb 6:2",
+          "text": "baptismatum doctrinae, impositionis quoque manuum, ac resurrectionis mortuorum et iudicii aeterni.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.6.3",
+          "sblId": "Heb 6:3",
+          "name": "Epistula ad Hebraeos 6:3",
+          "shortName": "Heb 6:3",
+          "text": "Et hoc faciemus, si quidem permiserit Deus.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.6.4",
+          "sblId": "Heb 6:4",
+          "name": "Epistula ad Hebraeos 6:4",
+          "shortName": "Heb 6:4",
+          "text": "Impossibile est enim eos, qui semel sunt illuminati, gustaverunt etiam donum caeleste et participes sunt facti Spiritus Sancti",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.6.5",
+          "sblId": "Heb 6:5",
+          "name": "Epistula ad Hebraeos 6:5",
+          "shortName": "Heb 6:5",
+          "text": "et bonum gustaverunt Dei verbum virtutesque saeculi venturi",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.6.6",
+          "sblId": "Heb 6:6",
+          "name": "Epistula ad Hebraeos 6:6",
+          "shortName": "Heb 6:6",
+          "text": "et prolapsi sunt, rursus renovari ad paenitentiam, rursum crucifigentes sibimetipsis Filium Dei et ostentui habentes.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.6.7",
+          "sblId": "Heb 6:7",
+          "name": "Epistula ad Hebraeos 6:7",
+          "shortName": "Heb 6:7",
+          "text": "Terra enim saepe venientem super se bibens imbrem et generans herbam opportunam illis, propter quos et colitur, accipit benedictionem a Deo;",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.6.8",
+          "sblId": "Heb 6:8",
+          "name": "Epistula ad Hebraeos 6:8",
+          "shortName": "Heb 6:8",
+          "text": "proferens autem spinas ac tribulos reproba est et maledicto proxima, cuius finis in combustionem.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.6.9",
+          "sblId": "Heb 6:9",
+          "name": "Epistula ad Hebraeos 6:9",
+          "shortName": "Heb 6:9",
+          "text": "Confidimus autem de vobis, dilectissimi, meliora et viciniora saluti, tametsi ita loquimur;",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.6.10",
+          "sblId": "Heb 6:10",
+          "name": "Epistula ad Hebraeos 6:10",
+          "shortName": "Heb 6:10",
+          "text": "non enim iniustus Deus, ut obliviscatur operis vestri et dilectionis, quam ostendistis nomini ipsius, qui ministrastis sanctis et ministratis.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.6.11",
+          "sblId": "Heb 6:11",
+          "name": "Epistula ad Hebraeos 6:11",
+          "shortName": "Heb 6:11",
+          "text": "Cupimus autem unumquemque vestrum eandem ostentare sollicitudinem ad expletionem spei usque in finem,",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.6.12",
+          "sblId": "Heb 6:12",
+          "name": "Epistula ad Hebraeos 6:12",
+          "shortName": "Heb 6:12",
+          "text": "ut non segnes efficiamini, verum imitatores eorum, qui fide et patientia hereditant promissiones.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.6.13",
+          "sblId": "Heb 6:13",
+          "name": "Epistula ad Hebraeos 6:13",
+          "shortName": "Heb 6:13",
+          "text": "Abrahae namque promittens Deus, quoniam neminem habuit, per quem iuraret maiorem, iuravit per semetipsum",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.6.14",
+          "sblId": "Heb 6:14",
+          "name": "Epistula ad Hebraeos 6:14",
+          "shortName": "Heb 6:14",
+          "text": "dicens: \" Utique benedicens benedicam te et multiplicans multiplicabo te \";",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.6.15",
+          "sblId": "Heb 6:15",
+          "name": "Epistula ad Hebraeos 6:15",
+          "shortName": "Heb 6:15",
+          "text": "et sic longanimiter ferens adeptus est repromissionem.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.6.16",
+          "sblId": "Heb 6:16",
+          "name": "Epistula ad Hebraeos 6:16",
+          "shortName": "Heb 6:16",
+          "text": "Homines enim per maiorem sui iurant, et omnis controversiae eorum finis ad confirmationem est iuramentum;",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Heb.6.17",
+          "sblId": "Heb 6:17",
+          "name": "Epistula ad Hebraeos 6:17",
+          "shortName": "Heb 6:17",
+          "text": "in quo abundantius volens Deus ostendere pollicitationis heredibus immobilitatem consilii sui, se interposuit iure iurando,",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Heb.6.18",
+          "sblId": "Heb 6:18",
+          "name": "Epistula ad Hebraeos 6:18",
+          "shortName": "Heb 6:18",
+          "text": "ut per duas res immobiles, in quibus impossibile est mentiri Deum, fortissimum solacium habeamus, qui confugimus ad tenendam propositam spem;",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Heb.6.19",
+          "sblId": "Heb 6:19",
+          "name": "Epistula ad Hebraeos 6:19",
+          "shortName": "Heb 6:19",
+          "text": "quam sicut ancoram habemus animae, tutam ac firmam et incedentem usque in interiora velaminis,",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Heb.6.20",
+          "sblId": "Heb 6:20",
+          "name": "Epistula ad Hebraeos 6:20",
+          "shortName": "Heb 6:20",
+          "text": "ubi praecursor pro nobis introivit Iesus, secundum ordinem Melchisedech pontifex factus in aeternum.",
+          "orderIndex": 19
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.7",
+      "sblId": "Heb 7",
+      "name": "Epistula ad Hebraeos 7",
+      "shortName": "Heb 7",
+      "orderIndex": 6,
+      "versesCount": 28,
+      "verses": [
+        {
+          "osisId": "Heb.7.1",
+          "sblId": "Heb 7:1",
+          "name": "Epistula ad Hebraeos 7:1",
+          "shortName": "Heb 7:1",
+          "text": "Hic enim Melchisedech, rex Salem, sacerdos Dei summi, qui ob viavit Abrahae regresso a caede regum et benedixit ei,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.7.2",
+          "sblId": "Heb 7:2",
+          "name": "Epistula ad Hebraeos 7:2",
+          "shortName": "Heb 7:2",
+          "text": "cui et decimam omnium divisit Abraham, primum quidem, qui interpretatur rex iustitiae, deinde autem et rex Salem, quod est rex Pacis,",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.7.3",
+          "sblId": "Heb 7:3",
+          "name": "Epistula ad Hebraeos 7:3",
+          "shortName": "Heb 7:3",
+          "text": "sine patre, sine matre, sine genealogia, neque initium dierum neque finem vitae habens, assimilatus autem Filio Dei, manet sacerdos in perpetuum.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.7.4",
+          "sblId": "Heb 7:4",
+          "name": "Epistula ad Hebraeos 7:4",
+          "shortName": "Heb 7:4",
+          "text": "Intuemini autem quantus sit hic, cui et decimam dedit de praecipuis Abraham patriarcha.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.7.5",
+          "sblId": "Heb 7:5",
+          "name": "Epistula ad Hebraeos 7:5",
+          "shortName": "Heb 7:5",
+          "text": "Et illi quidem, qui de filiis Levi sacerdotium accipiunt, mandatum habent decimas sumere a populo secundum legem, id est a fratribus suis, quamquam et ipsi exierunt de lumbis Abrahae;",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.7.6",
+          "sblId": "Heb 7:6",
+          "name": "Epistula ad Hebraeos 7:6",
+          "shortName": "Heb 7:6",
+          "text": "hic autem, cuius generatio non annumeratur in eis, decimam sumpsit ab Abraham et eum, qui habebat repromissiones, benedixit.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.7.7",
+          "sblId": "Heb 7:7",
+          "name": "Epistula ad Hebraeos 7:7",
+          "shortName": "Heb 7:7",
+          "text": "Sine ulla autem contradictione, quod minus est, a meliore benedicitur.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.7.8",
+          "sblId": "Heb 7:8",
+          "name": "Epistula ad Hebraeos 7:8",
+          "shortName": "Heb 7:8",
+          "text": "Et hic quidem decimas morientes homines sumunt; ibi autem testimonium accipiens quia vivit.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.7.9",
+          "sblId": "Heb 7:9",
+          "name": "Epistula ad Hebraeos 7:9",
+          "shortName": "Heb 7:9",
+          "text": "Et, ut ita dictum sit, per Abraham et Levi, qui decimas accipit, decimatus est;",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.7.10",
+          "sblId": "Heb 7:10",
+          "name": "Epistula ad Hebraeos 7:10",
+          "shortName": "Heb 7:10",
+          "text": "adhuc enim in lumbis patris erat, quando obviavit ei Melchisedech.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.7.11",
+          "sblId": "Heb 7:11",
+          "name": "Epistula ad Hebraeos 7:11",
+          "shortName": "Heb 7:11",
+          "text": "Si ergo consummatio per sacerdotium leviticum erat, populus enim sub ipso legem accepit, quid adhuc necessarium secundum ordinem Melchisedech alium surgere sacerdotem et non secundum ordinem Aaron dici?",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.7.12",
+          "sblId": "Heb 7:12",
+          "name": "Epistula ad Hebraeos 7:12",
+          "shortName": "Heb 7:12",
+          "text": "Translato enim sacerdotio, necesse est, ut et legis translatio fiat.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.7.13",
+          "sblId": "Heb 7:13",
+          "name": "Epistula ad Hebraeos 7:13",
+          "shortName": "Heb 7:13",
+          "text": "De quo enim haec dicuntur, ex alia tribu est, ex qua nullus altari praesto fuit;",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.7.14",
+          "sblId": "Heb 7:14",
+          "name": "Epistula ad Hebraeos 7:14",
+          "shortName": "Heb 7:14",
+          "text": "manifestum enim quod ex Iuda ortus sit Dominus noster, in quam tribum nihil de sacerdotibus Moyses locutus est.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.7.15",
+          "sblId": "Heb 7:15",
+          "name": "Epistula ad Hebraeos 7:15",
+          "shortName": "Heb 7:15",
+          "text": "Et amplius adhuc manifestum est, si secundum similitudinem Melchisedech exsurgit alius sacerdos,",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.7.16",
+          "sblId": "Heb 7:16",
+          "name": "Epistula ad Hebraeos 7:16",
+          "shortName": "Heb 7:16",
+          "text": "qui non secundum legem mandati carnalis factus est sed secundum virtutem vitae insolubilis,",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Heb.7.17",
+          "sblId": "Heb 7:17",
+          "name": "Epistula ad Hebraeos 7:17",
+          "shortName": "Heb 7:17",
+          "text": "testimonium enim accipit: Tu es sacerdos in aeternum secundum ordinem Melchisedech \".",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Heb.7.18",
+          "sblId": "Heb 7:18",
+          "name": "Epistula ad Hebraeos 7:18",
+          "shortName": "Heb 7:18",
+          "text": "Reprobatio quidem fit praecedentis mandati propter infirmitatem eius et inutilitatem,",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Heb.7.19",
+          "sblId": "Heb 7:19",
+          "name": "Epistula ad Hebraeos 7:19",
+          "shortName": "Heb 7:19",
+          "text": "nihil enim ad perfectum adduxit lex; introductio vero melioris spei, per quam proximamus ad Deum.",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Heb.7.20",
+          "sblId": "Heb 7:20",
+          "name": "Epistula ad Hebraeos 7:20",
+          "shortName": "Heb 7:20",
+          "text": "Et quantum non est sine iure iurando; illi quidem sine iure iurando sacerdotes facti sunt,",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Heb.7.21",
+          "sblId": "Heb 7:21",
+          "name": "Epistula ad Hebraeos 7:21",
+          "shortName": "Heb 7:21",
+          "text": "hic autem cum iure iurando per eum, qui dicit ad illum: Iuravit Dominus et non paenitebit eum: Tu es sacerdos in aeternum \",",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Heb.7.22",
+          "sblId": "Heb 7:22",
+          "name": "Epistula ad Hebraeos 7:22",
+          "shortName": "Heb 7:22",
+          "text": "in tantum et melioris testamenti sponsor factus est Iesus.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Heb.7.23",
+          "sblId": "Heb 7:23",
+          "name": "Epistula ad Hebraeos 7:23",
+          "shortName": "Heb 7:23",
+          "text": "Et illi quidem plures facti sunt sacerdotes, idcirco quod morte prohibebantur permanere;",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Heb.7.24",
+          "sblId": "Heb 7:24",
+          "name": "Epistula ad Hebraeos 7:24",
+          "shortName": "Heb 7:24",
+          "text": "hic autem eo quod manet in aeternum, intransgressibile habet sacerdotium;",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Heb.7.25",
+          "sblId": "Heb 7:25",
+          "name": "Epistula ad Hebraeos 7:25",
+          "shortName": "Heb 7:25",
+          "text": "unde et salvare in perpetuum potest accedentes per semetipsum ad Deum, semper vivens ad interpellandum pro eis.",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Heb.7.26",
+          "sblId": "Heb 7:26",
+          "name": "Epistula ad Hebraeos 7:26",
+          "shortName": "Heb 7:26",
+          "text": "Talis enim et decebat ut nobis esset pontifex, sanctus, innocens, impollutus, segregatus a peccatoribus et excelsior caelis factus;",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Heb.7.27",
+          "sblId": "Heb 7:27",
+          "name": "Epistula ad Hebraeos 7:27",
+          "shortName": "Heb 7:27",
+          "text": "qui non habet necessitatem cotidie, quemadmodum pontifices, prius pro suis delictis hostias offerre, deinde pro populi; hoc enim fecit semel semetipsum offerendo.",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Heb.7.28",
+          "sblId": "Heb 7:28",
+          "name": "Epistula ad Hebraeos 7:28",
+          "shortName": "Heb 7:28",
+          "text": "Lex enim homines constituit pontifices infirmitatem habentes; sermo autem iuris iurandi, quod post legem est, Filium in aeternum consummatum.",
+          "orderIndex": 27
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.8",
+      "sblId": "Heb 8",
+      "name": "Epistula ad Hebraeos 8",
+      "shortName": "Heb 8",
+      "orderIndex": 7,
+      "versesCount": 13,
+      "verses": [
+        {
+          "osisId": "Heb.8.1",
+          "sblId": "Heb 8:1",
+          "name": "Epistula ad Hebraeos 8:1",
+          "shortName": "Heb 8:1",
+          "text": "Caput autem super ea, quae dicuntur: talem habemus ponti ficem, qui consedit in dextera throni Maiestatis in caelis,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.8.2",
+          "sblId": "Heb 8:2",
+          "name": "Epistula ad Hebraeos 8:2",
+          "shortName": "Heb 8:2",
+          "text": "sanctorum minister et tabernaculi veri, quod fixit Dominus, non homo.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.8.3",
+          "sblId": "Heb 8:3",
+          "name": "Epistula ad Hebraeos 8:3",
+          "shortName": "Heb 8:3",
+          "text": "Omnis enim pontifex ad offerenda munera et hostias constituitur; unde necesse erat et hunc habere aliquid, quod offerret.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.8.4",
+          "sblId": "Heb 8:4",
+          "name": "Epistula ad Hebraeos 8:4",
+          "shortName": "Heb 8:4",
+          "text": "Si ergo esset super terram, nec esset sacerdos, cum sint qui offerant secundum legem munera;",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.8.5",
+          "sblId": "Heb 8:5",
+          "name": "Epistula ad Hebraeos 8:5",
+          "shortName": "Heb 8:5",
+          "text": "qui figurae et umbrae deserviunt caelestium, sicut responsum est Moysi, cum consummaturus esset tabernaculum: \" Vide enim, inquit, omnia facies secundum exemplar, quod tibi ostensum est in monte \".",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.8.6",
+          "sblId": "Heb 8:6",
+          "name": "Epistula ad Hebraeos 8:6",
+          "shortName": "Heb 8:6",
+          "text": "Nunc autem differentius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.8.7",
+          "sblId": "Heb 8:7",
+          "name": "Epistula ad Hebraeos 8:7",
+          "shortName": "Heb 8:7",
+          "text": "Nam si illud prius culpa vacasset, non secundi locus inquireretur;",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.8.8",
+          "sblId": "Heb 8:8",
+          "name": "Epistula ad Hebraeos 8:8",
+          "shortName": "Heb 8:8",
+          "text": "vituperans enim eos dicit: \" Ecce dies veniunt, dicit Dominus, et consummabo super domum Israel et super domum Iudae testamentum novum;",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.8.9",
+          "sblId": "Heb 8:9",
+          "name": "Epistula ad Hebraeos 8:9",
+          "shortName": "Heb 8:9",
+          "text": "non secundum testamentum, quod feci patribus eorum in die, qua apprehendi manum illorum, ut educerem illos de terra Aegypti; quoniam ipsi non permanserunt in testamento meo, et ego neglexi eos, dicit Dominus.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.8.10",
+          "sblId": "Heb 8:10",
+          "name": "Epistula ad Hebraeos 8:10",
+          "shortName": "Heb 8:10",
+          "text": "Quia hoc est testamentum, quod testabor domui Israel post dies illos, dicit Dominus, dando leges meas in mentem eorum, et in corde eorum superscribam eas; et ero eis in Deum, et ipsi erunt mihi in populum.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.8.11",
+          "sblId": "Heb 8:11",
+          "name": "Epistula ad Hebraeos 8:11",
+          "shortName": "Heb 8:11",
+          "text": "Et non docebit unusquisque civem suum, et unusquisque fratrem suum dicens: \"Cognosce Dominum\"; quoniam omnes scient me, a minore usque ad maiorem eorum,",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.8.12",
+          "sblId": "Heb 8:12",
+          "name": "Epistula ad Hebraeos 8:12",
+          "shortName": "Heb 8:12",
+          "text": "quia propitius ero iniquitatibus eorum et peccatorum illorum iam non memorabor \".",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.8.13",
+          "sblId": "Heb 8:13",
+          "name": "Epistula ad Hebraeos 8:13",
+          "shortName": "Heb 8:13",
+          "text": "Dicendo \" novum \" veteravit prius; quod autem antiquatur et senescit, prope interitum est.",
+          "orderIndex": 12
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.9",
+      "sblId": "Heb 9",
+      "name": "Epistula ad Hebraeos 9",
+      "shortName": "Heb 9",
+      "orderIndex": 8,
+      "versesCount": 28,
+      "verses": [
+        {
+          "osisId": "Heb.9.1",
+          "sblId": "Heb 9:1",
+          "name": "Epistula ad Hebraeos 9:1",
+          "shortName": "Heb 9:1",
+          "text": "Habuit ergo et prius praecepta cultus et Sanctum huius saeculi.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.9.2",
+          "sblId": "Heb 9:2",
+          "name": "Epistula ad Hebraeos 9:2",
+          "shortName": "Heb 9:2",
+          "text": "Tabernaculum enim praeparatum est primum, in quo inerat candelabrum et mensa et propositio panum, quod dicitur Sancta;",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.9.3",
+          "sblId": "Heb 9:3",
+          "name": "Epistula ad Hebraeos 9:3",
+          "shortName": "Heb 9:3",
+          "text": "post secundum autem velamentum, tabernaculum, quod dicitur Sancta Sanctorum,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.9.4",
+          "sblId": "Heb 9:4",
+          "name": "Epistula ad Hebraeos 9:4",
+          "shortName": "Heb 9:4",
+          "text": "aureum habens turibulum et arcam testamenti circumtectam ex omni parte auro, in qua urna aurea habens manna et virga Aaron, quae fronduerat, et tabulae testamenti,",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.9.5",
+          "sblId": "Heb 9:5",
+          "name": "Epistula ad Hebraeos 9:5",
+          "shortName": "Heb 9:5",
+          "text": "superque eam cherubim gloriae obumbrantia propitiatorium; de quibus non est modo dicendum per singula.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.9.6",
+          "sblId": "Heb 9:6",
+          "name": "Epistula ad Hebraeos 9:6",
+          "shortName": "Heb 9:6",
+          "text": "His vero ita praeparatis, in prius quidem tabernaculum semper intrant sacerdotes sacrorum officia consummantes;",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.9.7",
+          "sblId": "Heb 9:7",
+          "name": "Epistula ad Hebraeos 9:7",
+          "shortName": "Heb 9:7",
+          "text": "in secundum autem semel in anno solus pontifex, non sine sanguine, quem offert pro suis et populi ignorantiis;",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.9.8",
+          "sblId": "Heb 9:8",
+          "name": "Epistula ad Hebraeos 9:8",
+          "shortName": "Heb 9:8",
+          "text": "hoc significante Spiritu Sancto, nondum propalatam esse sanctorum viam, adhuc priore tabernaculo habente statum;",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.9.9",
+          "sblId": "Heb 9:9",
+          "name": "Epistula ad Hebraeos 9:9",
+          "shortName": "Heb 9:9",
+          "text": "quae parabola est temporis instantis, iuxta quam munera et hostiae offeruntur, quae non possunt iuxta conscientiam perfectum facere servientem,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.9.10",
+          "sblId": "Heb 9:10",
+          "name": "Epistula ad Hebraeos 9:10",
+          "shortName": "Heb 9:10",
+          "text": "solummodo in cibis et in potibus et variis baptismis, quae sunt praecepta carnis usque ad tempus correctionis imposita.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.9.11",
+          "sblId": "Heb 9:11",
+          "name": "Epistula ad Hebraeos 9:11",
+          "shortName": "Heb 9:11",
+          "text": "Christus autem cum advenit pontifex futurorum bonorum, per amplius et perfectius tabernaculum, non manufactum, id est non huius creationis,",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.9.12",
+          "sblId": "Heb 9:12",
+          "name": "Epistula ad Hebraeos 9:12",
+          "shortName": "Heb 9:12",
+          "text": "neque per sanguinem hircorum et vitulorum sed per proprium sanguinem introivit semel in Sancta, aeterna redemptione inventa.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.9.13",
+          "sblId": "Heb 9:13",
+          "name": "Epistula ad Hebraeos 9:13",
+          "shortName": "Heb 9:13",
+          "text": "Si enim sanguis hircorum et taurorum et cinis vitulae aspersus inquinatos sanctificat ad emundationem carnis,",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.9.14",
+          "sblId": "Heb 9:14",
+          "name": "Epistula ad Hebraeos 9:14",
+          "shortName": "Heb 9:14",
+          "text": "quanto magis sanguis Christi, qui per Spiritum aeternum semetipsum obtulit immaculatum Deo, emundabit conscientiam nostram ab operibus mortuis ad serviendum Deo viventi.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.9.15",
+          "sblId": "Heb 9:15",
+          "name": "Epistula ad Hebraeos 9:15",
+          "shortName": "Heb 9:15",
+          "text": "Et ideo novi testamenti mediator est, ut, morte intercedente in redemptionem earum praevaricationum, quae erant sub priore testamento, repromissionem accipiant, qui vocati sunt aeternae hereditatis.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.9.16",
+          "sblId": "Heb 9:16",
+          "name": "Epistula ad Hebraeos 9:16",
+          "shortName": "Heb 9:16",
+          "text": "Ubi enim testamentum, mors necesse est afferatur testatoris;",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Heb.9.17",
+          "sblId": "Heb 9:17",
+          "name": "Epistula ad Hebraeos 9:17",
+          "shortName": "Heb 9:17",
+          "text": "testamentum autem in mortuis est confirmatum, nondum enim valet, dum vivit, qui testatus est.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Heb.9.18",
+          "sblId": "Heb 9:18",
+          "name": "Epistula ad Hebraeos 9:18",
+          "shortName": "Heb 9:18",
+          "text": "Unde ne prius quidem sine sanguine dedicatum est;",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Heb.9.19",
+          "sblId": "Heb 9:19",
+          "name": "Epistula ad Hebraeos 9:19",
+          "shortName": "Heb 9:19",
+          "text": "enuntiato enim omni mandato secundum legem a Moyse universo populo, accipiens sanguinem vitulorum et hircorum cum aqua et lana coccinea et hyssopo, ipsum librum et omnem populum aspersit",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Heb.9.20",
+          "sblId": "Heb 9:20",
+          "name": "Epistula ad Hebraeos 9:20",
+          "shortName": "Heb 9:20",
+          "text": "dicens: \" Hic sanguis testamenti, quod mandavit ad vos Deus \";",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Heb.9.21",
+          "sblId": "Heb 9:21",
+          "name": "Epistula ad Hebraeos 9:21",
+          "shortName": "Heb 9:21",
+          "text": "etiam tabernaculum et omnia vasa ministerii sanguine similiter aspersit.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Heb.9.22",
+          "sblId": "Heb 9:22",
+          "name": "Epistula ad Hebraeos 9:22",
+          "shortName": "Heb 9:22",
+          "text": "Et omnia paene in sanguine mundantur secundum legem, et sine sanguinis effusione non fit remissio.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Heb.9.23",
+          "sblId": "Heb 9:23",
+          "name": "Epistula ad Hebraeos 9:23",
+          "shortName": "Heb 9:23",
+          "text": "Necesse erat ergo figuras quidem caelestium his mundari, ipsa autem caelestia melioribus hostiis quam istis.",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Heb.9.24",
+          "sblId": "Heb 9:24",
+          "name": "Epistula ad Hebraeos 9:24",
+          "shortName": "Heb 9:24",
+          "text": "Non enim in manufacta Sancta Christus introivit, quae sunt similitudo verorum, sed in ipsum caelum, ut appareat nunc vultui Dei pro nobis;",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Heb.9.25",
+          "sblId": "Heb 9:25",
+          "name": "Epistula ad Hebraeos 9:25",
+          "shortName": "Heb 9:25",
+          "text": "neque ut saepe offerat semetipsum, quemadmodum pontifex intrat in Sancta per singulos annos in sanguine alieno.",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Heb.9.26",
+          "sblId": "Heb 9:26",
+          "name": "Epistula ad Hebraeos 9:26",
+          "shortName": "Heb 9:26",
+          "text": "Alioquin oportebat eum frequenter pati ab origine mundi; nunc autem semel in consummatione saeculorum ad destitutionem peccati per sacrificium sui manifestatus est.",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Heb.9.27",
+          "sblId": "Heb 9:27",
+          "name": "Epistula ad Hebraeos 9:27",
+          "shortName": "Heb 9:27",
+          "text": "Et quemadmodum statutum est hominibus semel mori, post hoc autem iudicium,",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Heb.9.28",
+          "sblId": "Heb 9:28",
+          "name": "Epistula ad Hebraeos 9:28",
+          "shortName": "Heb 9:28",
+          "text": "sic et Christus, semel oblatus ad multorum auferenda peccata, secundo sine peccato apparebit exspectantibus se in salutem.",
+          "orderIndex": 27
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.10",
+      "sblId": "Heb 10",
+      "name": "Epistula ad Hebraeos 10",
+      "shortName": "Heb 10",
+      "orderIndex": 9,
+      "versesCount": 39,
+      "verses": [
+        {
+          "osisId": "Heb.10.1",
+          "sblId": "Heb 10:1",
+          "name": "Epistula ad Hebraeos 10:1",
+          "shortName": "Heb 10:1",
+          "text": "Umbram enim habens lex bonorum futurorum, non ip sam imaginem rerum, per singulos annos iisdem ipsis hostiis, quas offerunt indesinenter, numquam potest accedentes perfectos facere.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.10.2",
+          "sblId": "Heb 10:2",
+          "name": "Epistula ad Hebraeos 10:2",
+          "shortName": "Heb 10:2",
+          "text": "Alioquin nonne cessassent offerri, ideo quod nullam haberent ultra conscientiam peccatorum cultores semel mundati?",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.10.3",
+          "sblId": "Heb 10:3",
+          "name": "Epistula ad Hebraeos 10:3",
+          "shortName": "Heb 10:3",
+          "text": "Sed in ipsis commemoratio peccatorum per singulos annos fit.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.10.4",
+          "sblId": "Heb 10:4",
+          "name": "Epistula ad Hebraeos 10:4",
+          "shortName": "Heb 10:4",
+          "text": "Impossibile enim est sanguinem taurorum et hircorum auferre peccata.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.10.5",
+          "sblId": "Heb 10:5",
+          "name": "Epistula ad Hebraeos 10:5",
+          "shortName": "Heb 10:5",
+          "text": "Ideo ingrediens mundum dicit: Hostiam et oblationem noluisti,corpus autem aptasti mihi;",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.10.6",
+          "sblId": "Heb 10:6",
+          "name": "Epistula ad Hebraeos 10:6",
+          "shortName": "Heb 10:6",
+          "text": "holocautomata et sacrificia pro peccatonon tibi placuerunt.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.10.7",
+          "sblId": "Heb 10:7",
+          "name": "Epistula ad Hebraeos 10:7",
+          "shortName": "Heb 10:7",
+          "text": "Tunc dixi: Ecce venio,in capitulo libri scriptum est de me,ut faciam, Deus, voluntatem tuam \".",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.10.8",
+          "sblId": "Heb 10:8",
+          "name": "Epistula ad Hebraeos 10:8",
+          "shortName": "Heb 10:8",
+          "text": "Superius dicens: \" Hostias et oblationes et holocautomata et sacrificia pro peccato noluisti, nec placuerunt tibi \", quae secundum legem offeruntur,",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.10.9",
+          "sblId": "Heb 10:9",
+          "name": "Epistula ad Hebraeos 10:9",
+          "shortName": "Heb 10:9",
+          "text": "tunc dixit: \" Ecce venio, ut faciam voluntatem tuam \". Aufert primum, ut secundum statuat;",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.10.10",
+          "sblId": "Heb 10:10",
+          "name": "Epistula ad Hebraeos 10:10",
+          "shortName": "Heb 10:10",
+          "text": "in qua voluntate sanctificati sumus per oblationem corporis Christi Iesu in semel.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.10.11",
+          "sblId": "Heb 10:11",
+          "name": "Epistula ad Hebraeos 10:11",
+          "shortName": "Heb 10:11",
+          "text": "Et omnis quidem sacerdos stat cotidie ministrans et easdem saepe offerens hostias, quae numquam possunt auferre peccata.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.10.12",
+          "sblId": "Heb 10:12",
+          "name": "Epistula ad Hebraeos 10:12",
+          "shortName": "Heb 10:12",
+          "text": "Hic autem, una pro peccatis oblata hostia, in sempiternum consedit in dextera Dei,",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.10.13",
+          "sblId": "Heb 10:13",
+          "name": "Epistula ad Hebraeos 10:13",
+          "shortName": "Heb 10:13",
+          "text": "de cetero exspectans, donec ponantur inimici eius scabellum pedum eius;",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.10.14",
+          "sblId": "Heb 10:14",
+          "name": "Epistula ad Hebraeos 10:14",
+          "shortName": "Heb 10:14",
+          "text": "una enim oblatione consummavit in sempiternum eos, qui sanctificantur.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.10.15",
+          "sblId": "Heb 10:15",
+          "name": "Epistula ad Hebraeos 10:15",
+          "shortName": "Heb 10:15",
+          "text": "Testificatur autem nobis et Spiritus Sanctus; postquam enim dixit:",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.10.16",
+          "sblId": "Heb 10:16",
+          "name": "Epistula ad Hebraeos 10:16",
+          "shortName": "Heb 10:16",
+          "text": "\" Hoc est testamentum, quod testabor ad illos post dies illos, dicit Dominus, dando leges meas in cordibus eorum, et in mente eorum superscribam eas;",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Heb.10.17",
+          "sblId": "Heb 10:17",
+          "name": "Epistula ad Hebraeos 10:17",
+          "shortName": "Heb 10:17",
+          "text": "et peccatorum eorum et iniquitatum eorum iam non recordabor amplius \".",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Heb.10.18",
+          "sblId": "Heb 10:18",
+          "name": "Epistula ad Hebraeos 10:18",
+          "shortName": "Heb 10:18",
+          "text": "Ubi autem horum remissio, iam non oblatio pro peccato.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Heb.10.19",
+          "sblId": "Heb 10:19",
+          "name": "Epistula ad Hebraeos 10:19",
+          "shortName": "Heb 10:19",
+          "text": "Habentes itaque, fratres, fiduciam in introitum Sanctorum in sanguine Iesu,",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Heb.10.20",
+          "sblId": "Heb 10:20",
+          "name": "Epistula ad Hebraeos 10:20",
+          "shortName": "Heb 10:20",
+          "text": "quam initiavit nobis viam novam et viventem per velamen, id est carnem suam,",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Heb.10.21",
+          "sblId": "Heb 10:21",
+          "name": "Epistula ad Hebraeos 10:21",
+          "shortName": "Heb 10:21",
+          "text": "et sacerdotem magnum super domum Dei,",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Heb.10.22",
+          "sblId": "Heb 10:22",
+          "name": "Epistula ad Hebraeos 10:22",
+          "shortName": "Heb 10:22",
+          "text": "accedamus cum vero corde in plenitudine fidei, aspersi corda a conscientia mala et abluti corpus aqua munda;",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Heb.10.23",
+          "sblId": "Heb 10:23",
+          "name": "Epistula ad Hebraeos 10:23",
+          "shortName": "Heb 10:23",
+          "text": "teneamus spei confessionem indeclinabilem, fidelis enim est, qui repromisit;",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Heb.10.24",
+          "sblId": "Heb 10:24",
+          "name": "Epistula ad Hebraeos 10:24",
+          "shortName": "Heb 10:24",
+          "text": "et consideremus invicem in provocationem caritatis et bonorum operum,",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Heb.10.25",
+          "sblId": "Heb 10:25",
+          "name": "Epistula ad Hebraeos 10:25",
+          "shortName": "Heb 10:25",
+          "text": "non deserentes congregationem nostram, sicut est consuetudinis quibusdam, sed exhortantes, et tanto magis quanto videtis appropinquantem diem.",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Heb.10.26",
+          "sblId": "Heb 10:26",
+          "name": "Epistula ad Hebraeos 10:26",
+          "shortName": "Heb 10:26",
+          "text": "Voluntarie enim peccantibus nobis, post acceptam notitiam veritatis, iam non relinquitur pro peccatis hostia,",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Heb.10.27",
+          "sblId": "Heb 10:27",
+          "name": "Epistula ad Hebraeos 10:27",
+          "shortName": "Heb 10:27",
+          "text": "terribilis autem quaedam exspectatio iudicii, et ignis aemulatio, quae consumptura est adversarios.",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Heb.10.28",
+          "sblId": "Heb 10:28",
+          "name": "Epistula ad Hebraeos 10:28",
+          "shortName": "Heb 10:28",
+          "text": "Irritam quis faciens legem Moysis, sine ulla miseratione duobus vel tribus testibus moritur;",
+          "orderIndex": 27
+        },
+        {
+          "osisId": "Heb.10.29",
+          "sblId": "Heb 10:29",
+          "name": "Epistula ad Hebraeos 10:29",
+          "shortName": "Heb 10:29",
+          "text": "quanto deteriora putatis merebitur supplicia, qui Filium Dei conculcaverit et sanguinem testamenti communem duxerit, in quo sanctificatus est, et Spiritui gratiae contumeliam fecerit?",
+          "orderIndex": 28
+        },
+        {
+          "osisId": "Heb.10.30",
+          "sblId": "Heb 10:30",
+          "name": "Epistula ad Hebraeos 10:30",
+          "shortName": "Heb 10:30",
+          "text": "Scimus enim eum, qui dixit: \" Mihi vindicta, ego retribuam \"; et iterum: \" Iudicabit Dominus populum suum \".",
+          "orderIndex": 29
+        },
+        {
+          "osisId": "Heb.10.31",
+          "sblId": "Heb 10:31",
+          "name": "Epistula ad Hebraeos 10:31",
+          "shortName": "Heb 10:31",
+          "text": "Horrendum est incidere in manus Dei viventis.",
+          "orderIndex": 30
+        },
+        {
+          "osisId": "Heb.10.32",
+          "sblId": "Heb 10:32",
+          "name": "Epistula ad Hebraeos 10:32",
+          "shortName": "Heb 10:32",
+          "text": "Rememoramini autem pristinos dies, in quibus illuminati magnum certamen sustinuistis passionum,",
+          "orderIndex": 31
+        },
+        {
+          "osisId": "Heb.10.33",
+          "sblId": "Heb 10:33",
+          "name": "Epistula ad Hebraeos 10:33",
+          "shortName": "Heb 10:33",
+          "text": "in altero quidem opprobriis et tribulationibus spectaculum facti, in altero autem socii taliter conversantium effecti;",
+          "orderIndex": 32
+        },
+        {
+          "osisId": "Heb.10.34",
+          "sblId": "Heb 10:34",
+          "name": "Epistula ad Hebraeos 10:34",
+          "shortName": "Heb 10:34",
+          "text": "nam et vinctis compassi estis et rapinam bonorum vestrorum cum gaudio suscepistis, cognoscentes vos habere meliorem substantiam et manentem.",
+          "orderIndex": 33
+        },
+        {
+          "osisId": "Heb.10.35",
+          "sblId": "Heb 10:35",
+          "name": "Epistula ad Hebraeos 10:35",
+          "shortName": "Heb 10:35",
+          "text": "Nolite itaque abicere confidentiam vestram, quae magnam habet remunerationem;",
+          "orderIndex": 34
+        },
+        {
+          "osisId": "Heb.10.36",
+          "sblId": "Heb 10:36",
+          "name": "Epistula ad Hebraeos 10:36",
+          "shortName": "Heb 10:36",
+          "text": "patientia enim vobis necessaria est, ut voluntatem Dei facientes reportetis promissionem.",
+          "orderIndex": 35
+        },
+        {
+          "osisId": "Heb.10.37",
+          "sblId": "Heb 10:37",
+          "name": "Epistula ad Hebraeos 10:37",
+          "shortName": "Heb 10:37",
+          "text": "Adhuc enim modicum quantulum,qui venturus est, veniet et non tardabit.",
+          "orderIndex": 36
+        },
+        {
+          "osisId": "Heb.10.38",
+          "sblId": "Heb 10:38",
+          "name": "Epistula ad Hebraeos 10:38",
+          "shortName": "Heb 10:38",
+          "text": "Iustus autem meus ex fide vivet;quod si subtraxerit se,non sibi complacet in eo anima mea.",
+          "orderIndex": 37
+        },
+        {
+          "osisId": "Heb.10.39",
+          "sblId": "Heb 10:39",
+          "name": "Epistula ad Hebraeos 10:39",
+          "shortName": "Heb 10:39",
+          "text": "Nos autem non sumus subtractionis in perditionem, sed fidei in acquisitionem animae.",
+          "orderIndex": 38
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.11",
+      "sblId": "Heb 11",
+      "name": "Epistula ad Hebraeos 11",
+      "shortName": "Heb 11",
+      "orderIndex": 10,
+      "versesCount": 40,
+      "verses": [
+        {
+          "osisId": "Heb.11.1",
+          "sblId": "Heb 11:1",
+          "name": "Epistula ad Hebraeos 11:1",
+          "shortName": "Heb 11:1",
+          "text": "Est autem fides sperando rum substantia, rerum argu mentum non apparentium.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.11.2",
+          "sblId": "Heb 11:2",
+          "name": "Epistula ad Hebraeos 11:2",
+          "shortName": "Heb 11:2",
+          "text": "In hac enim testimonium consecuti sunt seniores.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.11.3",
+          "sblId": "Heb 11:3",
+          "name": "Epistula ad Hebraeos 11:3",
+          "shortName": "Heb 11:3",
+          "text": "Fide intellegimus aptata esse saecula verbo Dei, ut ex invisibilibus visibilia facta sint.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.11.4",
+          "sblId": "Heb 11:4",
+          "name": "Epistula ad Hebraeos 11:4",
+          "shortName": "Heb 11:4",
+          "text": "Fide ampliorem hostiam Abel quam Cain obtulit Deo, per quam testimonium consecutus est esse iustus, testimonium perhibente muneribus eius Deo; et per illam defunctus adhuc loquitur.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.11.5",
+          "sblId": "Heb 11:5",
+          "name": "Epistula ad Hebraeos 11:5",
+          "shortName": "Heb 11:5",
+          "text": "Fide Henoch translatus est, ne videret mortem, et non inveniebatur, quia transtulit illum Deus; ante translationem enim testimonium accepit placuisse Deo.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.11.6",
+          "sblId": "Heb 11:6",
+          "name": "Epistula ad Hebraeos 11:6",
+          "shortName": "Heb 11:6",
+          "text": "Sine fide autem impossibile placere; credere enim oportet accedentem ad Deum quia est et inquirentibus se remunerator fit.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.11.7",
+          "sblId": "Heb 11:7",
+          "name": "Epistula ad Hebraeos 11:7",
+          "shortName": "Heb 11:7",
+          "text": "Fide Noe, responso accepto de his, quae adhuc non videbantur, reveritus aptavit arcam in salutem domus suae; per quam damnavit mundum, et iustitiae, quae secundum fidem est, heres est institutus.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.11.8",
+          "sblId": "Heb 11:8",
+          "name": "Epistula ad Hebraeos 11:8",
+          "shortName": "Heb 11:8",
+          "text": "Fide vocatus Abraham oboedivit in locum exire, quem accepturus erat in hereditatem; et exivit nesciens quo iret.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.11.9",
+          "sblId": "Heb 11:9",
+          "name": "Epistula ad Hebraeos 11:9",
+          "shortName": "Heb 11:9",
+          "text": "Fide peregrinatus est in terra promissionis tamquam in aliena, in casulis habitando cum Isaac et Iacob, coheredibus promissionis eiusdem;",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.11.10",
+          "sblId": "Heb 11:10",
+          "name": "Epistula ad Hebraeos 11:10",
+          "shortName": "Heb 11:10",
+          "text": "exspectabat enim fundamenta habentem civitatem, cuius artifex et conditor Deus.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.11.11",
+          "sblId": "Heb 11:11",
+          "name": "Epistula ad Hebraeos 11:11",
+          "shortName": "Heb 11:11",
+          "text": "Fide - et ipsa Sara sterilis - virtutem in conceptionem seminis accepit etiam praeter tempus aetatis, quoniam fidelem credidit esse, qui promiserat;",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.11.12",
+          "sblId": "Heb 11:12",
+          "name": "Epistula ad Hebraeos 11:12",
+          "shortName": "Heb 11:12",
+          "text": "propter quod et ab uno orti sunt, et hoc emortuo, tamquam sidera caeli in multitudine, et sicut arena, quae est ad oram maris, innumerabilis.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.11.13",
+          "sblId": "Heb 11:13",
+          "name": "Epistula ad Hebraeos 11:13",
+          "shortName": "Heb 11:13",
+          "text": "Iuxta fidem defuncti sunt omnes isti, non acceptis promissionibus, sed a longe eas aspicientes et salutantes, et confitentes quia peregrini et hospites sunt supra terram;",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.11.14",
+          "sblId": "Heb 11:14",
+          "name": "Epistula ad Hebraeos 11:14",
+          "shortName": "Heb 11:14",
+          "text": "qui enim haec dicunt, significant se patriam inquirere.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.11.15",
+          "sblId": "Heb 11:15",
+          "name": "Epistula ad Hebraeos 11:15",
+          "shortName": "Heb 11:15",
+          "text": "Et si quidem illius meminissent, de qua exierant, habebant utique tempus revertendi;",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.11.16",
+          "sblId": "Heb 11:16",
+          "name": "Epistula ad Hebraeos 11:16",
+          "shortName": "Heb 11:16",
+          "text": "nunc autem meliorem appetunt, id est caelestem. Ideo non confunditur Deus vocari Deus eorum, paravit enim illis civitatem.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Heb.11.17",
+          "sblId": "Heb 11:17",
+          "name": "Epistula ad Hebraeos 11:17",
+          "shortName": "Heb 11:17",
+          "text": "Fide obtulit Abraham Isaac, cum tentaretur; et unigenitum offerebat ille, qui susceperat promissiones,",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Heb.11.18",
+          "sblId": "Heb 11:18",
+          "name": "Epistula ad Hebraeos 11:18",
+          "shortName": "Heb 11:18",
+          "text": "ad quem dictum erat: \" In Isaac vocabitur tibi semen \",",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Heb.11.19",
+          "sblId": "Heb 11:19",
+          "name": "Epistula ad Hebraeos 11:19",
+          "shortName": "Heb 11:19",
+          "text": "arbitratus quia et a mortuis suscitare potens est Deus; unde eum et in parabola reportavit.",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Heb.11.20",
+          "sblId": "Heb 11:20",
+          "name": "Epistula ad Hebraeos 11:20",
+          "shortName": "Heb 11:20",
+          "text": "Fide et de futuris benedixit Isaac Iacob et Esau.",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Heb.11.21",
+          "sblId": "Heb 11:21",
+          "name": "Epistula ad Hebraeos 11:21",
+          "shortName": "Heb 11:21",
+          "text": "Fide Iacob moriens singulis filiorum Ioseph benedixit et adoravit super fastigium virgae suae.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Heb.11.22",
+          "sblId": "Heb 11:22",
+          "name": "Epistula ad Hebraeos 11:22",
+          "shortName": "Heb 11:22",
+          "text": "Fide Ioseph moriens de profectione filiorum Israel memoratus est et de ossibus suis mandavit.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Heb.11.23",
+          "sblId": "Heb 11:23",
+          "name": "Epistula ad Hebraeos 11:23",
+          "shortName": "Heb 11:23",
+          "text": "Fide Moyses natus occultatus est mensibus tribus a parentibus suis, eo quod vidissent formosum infantem et non timuerunt regis edictum.",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Heb.11.24",
+          "sblId": "Heb 11:24",
+          "name": "Epistula ad Hebraeos 11:24",
+          "shortName": "Heb 11:24",
+          "text": "Fide Moyses grandis factus negavit se dici filium filiae pharaonis,",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Heb.11.25",
+          "sblId": "Heb 11:25",
+          "name": "Epistula ad Hebraeos 11:25",
+          "shortName": "Heb 11:25",
+          "text": "magis eligens affligi cum populo Dei quam temporalem peccati habere iucunditatem,",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Heb.11.26",
+          "sblId": "Heb 11:26",
+          "name": "Epistula ad Hebraeos 11:26",
+          "shortName": "Heb 11:26",
+          "text": "maiores divitias aestimans thesauris Aegypti improperium Christi; aspiciebat enim in remunerationem.",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Heb.11.27",
+          "sblId": "Heb 11:27",
+          "name": "Epistula ad Hebraeos 11:27",
+          "shortName": "Heb 11:27",
+          "text": "Fide reliquit Aegyptum non veritus animositatem regis, invisibilem enim tamquam videns sustinuit.",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Heb.11.28",
+          "sblId": "Heb 11:28",
+          "name": "Epistula ad Hebraeos 11:28",
+          "shortName": "Heb 11:28",
+          "text": "Fide celebravit Pascha et sanguinis effusionem, ne, qui vastabat primogenita, tangeret ea.",
+          "orderIndex": 27
+        },
+        {
+          "osisId": "Heb.11.29",
+          "sblId": "Heb 11:29",
+          "name": "Epistula ad Hebraeos 11:29",
+          "shortName": "Heb 11:29",
+          "text": "Fide transierunt mare Rubrum tamquam per aridam terram, quod experti Aegyptii devorati sunt.",
+          "orderIndex": 28
+        },
+        {
+          "osisId": "Heb.11.30",
+          "sblId": "Heb 11:30",
+          "name": "Epistula ad Hebraeos 11:30",
+          "shortName": "Heb 11:30",
+          "text": "Fide muri Iericho ruerunt circuiti diebus septem.",
+          "orderIndex": 29
+        },
+        {
+          "osisId": "Heb.11.31",
+          "sblId": "Heb 11:31",
+          "name": "Epistula ad Hebraeos 11:31",
+          "shortName": "Heb 11:31",
+          "text": "Fide Rahab meretrix non periit cum incredulis, quia exceperat exploratores cum pace.",
+          "orderIndex": 30
+        },
+        {
+          "osisId": "Heb.11.32",
+          "sblId": "Heb 11:32",
+          "name": "Epistula ad Hebraeos 11:32",
+          "shortName": "Heb 11:32",
+          "text": "Et quid adhuc dicam? Deficiet enim me tempus enarrantem de Gedeon, Barac, Samson, Iephte, David et Samuel atque prophetis,",
+          "orderIndex": 31
+        },
+        {
+          "osisId": "Heb.11.33",
+          "sblId": "Heb 11:33",
+          "name": "Epistula ad Hebraeos 11:33",
+          "shortName": "Heb 11:33",
+          "text": "qui per fidem devicerunt regna, operati sunt iustitiam, adepti sunt repromissiones, obturaverunt ora leonum,",
+          "orderIndex": 32
+        },
+        {
+          "osisId": "Heb.11.34",
+          "sblId": "Heb 11:34",
+          "name": "Epistula ad Hebraeos 11:34",
+          "shortName": "Heb 11:34",
+          "text": "exstinxerunt impetum ignis, effugerunt aciem gladii, convaluerunt de infirmitate, fortes facti sunt in bello, castra verterunt exterorum;",
+          "orderIndex": 33
+        },
+        {
+          "osisId": "Heb.11.35",
+          "sblId": "Heb 11:35",
+          "name": "Epistula ad Hebraeos 11:35",
+          "shortName": "Heb 11:35",
+          "text": "acceperunt mulieres de resurrectione mortuos suos; alii autem distenti sunt, non suscipientes redemptionem, ut meliorem invenirent resurrectionem;",
+          "orderIndex": 34
+        },
+        {
+          "osisId": "Heb.11.36",
+          "sblId": "Heb 11:36",
+          "name": "Epistula ad Hebraeos 11:36",
+          "shortName": "Heb 11:36",
+          "text": "alii vero ludibria et verbera experti sunt, insuper et vincula et carcerem;",
+          "orderIndex": 35
+        },
+        {
+          "osisId": "Heb.11.37",
+          "sblId": "Heb 11:37",
+          "name": "Epistula ad Hebraeos 11:37",
+          "shortName": "Heb 11:37",
+          "text": "lapidati sunt, secti sunt, in occisione gladii mortui sunt, circumierunt in melotis, in pellibus caprinis, egentes, angustiati, afflicti,",
+          "orderIndex": 36
+        },
+        {
+          "osisId": "Heb.11.38",
+          "sblId": "Heb 11:38",
+          "name": "Epistula ad Hebraeos 11:38",
+          "shortName": "Heb 11:38",
+          "text": "quibus dignus non erat mundus, in solitudinibus errantes et montibus et speluncis et in cavernis terrae.",
+          "orderIndex": 37
+        },
+        {
+          "osisId": "Heb.11.39",
+          "sblId": "Heb 11:39",
+          "name": "Epistula ad Hebraeos 11:39",
+          "shortName": "Heb 11:39",
+          "text": "Et hi omnes testimonium per fidem consecuti non reportaverunt promissionem,",
+          "orderIndex": 38
+        },
+        {
+          "osisId": "Heb.11.40",
+          "sblId": "Heb 11:40",
+          "name": "Epistula ad Hebraeos 11:40",
+          "shortName": "Heb 11:40",
+          "text": "Deo pro nobis melius aliquid providente, ut ne sine nobis consummarentur.",
+          "orderIndex": 39
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.12",
+      "sblId": "Heb 12",
+      "name": "Epistula ad Hebraeos 12",
+      "shortName": "Heb 12",
+      "orderIndex": 11,
+      "versesCount": 29,
+      "verses": [
+        {
+          "osisId": "Heb.12.1",
+          "sblId": "Heb 12:1",
+          "name": "Epistula ad Hebraeos 12:1",
+          "shortName": "Heb 12:1",
+          "text": "Ideoque et nos tantam ha bentes circumpositam nobis nubem testium, deponentes omne pondus et circumstans nos peccatum, per patientiam curramus propositum nobis certamen,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.12.2",
+          "sblId": "Heb 12:2",
+          "name": "Epistula ad Hebraeos 12:2",
+          "shortName": "Heb 12:2",
+          "text": "aspicientes in ducem fidei et consummatorem Iesum, qui pro gaudio sibi proposito sustinuit crucem, confusione contempta, atque in dextera throni Dei sedet.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.12.3",
+          "sblId": "Heb 12:3",
+          "name": "Epistula ad Hebraeos 12:3",
+          "shortName": "Heb 12:3",
+          "text": "Recogitate enim eum, qui talem sustinuit a peccatoribus adversum semetipsum contradictionem, ut ne fatigemini animis vestris deficientes.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.12.4",
+          "sblId": "Heb 12:4",
+          "name": "Epistula ad Hebraeos 12:4",
+          "shortName": "Heb 12:4",
+          "text": "Nondum usque ad sanguinem restitistis adversus peccatum repugnantes;",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.12.5",
+          "sblId": "Heb 12:5",
+          "name": "Epistula ad Hebraeos 12:5",
+          "shortName": "Heb 12:5",
+          "text": "et obliti estis exhortationis, quae vobis tamquam filiis loquitur: Fili mi, noli neglegere disciplinam Dominineque deficias, dum ab eo argueris:",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.12.6",
+          "sblId": "Heb 12:6",
+          "name": "Epistula ad Hebraeos 12:6",
+          "shortName": "Heb 12:6",
+          "text": "quem enim diligit, Dominus castigat,flagellat autem omnem filium, quem recipit \".",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.12.7",
+          "sblId": "Heb 12:7",
+          "name": "Epistula ad Hebraeos 12:7",
+          "shortName": "Heb 12:7",
+          "text": "Ad disciplinam suffertis; tamquam filios vos tractat Deus. Quis enim filius, quem non corripit pater?",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.12.8",
+          "sblId": "Heb 12:8",
+          "name": "Epistula ad Hebraeos 12:8",
+          "shortName": "Heb 12:8",
+          "text": "Quod si extra disciplinam estis, cuius participes facti sunt omnes, ergo adulterini et non filii estis!",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.12.9",
+          "sblId": "Heb 12:9",
+          "name": "Epistula ad Hebraeos 12:9",
+          "shortName": "Heb 12:9",
+          "text": "Deinde patres quidem carnis nostrae habebamus eruditores et reverebamur; non multo magis obtemperabimus Patri spirituum et vivemus?",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.12.10",
+          "sblId": "Heb 12:10",
+          "name": "Epistula ad Hebraeos 12:10",
+          "shortName": "Heb 12:10",
+          "text": "Et illi quidem ad tempus paucorum dierum, secundum quod videbatur illis, castigabant; hic autem ad id, quod utile est ad participandam sanctitatem eius.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.12.11",
+          "sblId": "Heb 12:11",
+          "name": "Epistula ad Hebraeos 12:11",
+          "shortName": "Heb 12:11",
+          "text": "Omnis autem disciplina in praesenti quidem videtur non esse gaudii sed maeroris; postea autem fructum pacificum exercitatis per eam reddit iustitiae.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.12.12",
+          "sblId": "Heb 12:12",
+          "name": "Epistula ad Hebraeos 12:12",
+          "shortName": "Heb 12:12",
+          "text": "Propter quod remissas manus et soluta genua erigite",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.12.13",
+          "sblId": "Heb 12:13",
+          "name": "Epistula ad Hebraeos 12:13",
+          "shortName": "Heb 12:13",
+          "text": "et gressus rectos facite pedibus vestris, ut, quod claudum est, non extorqueatur, magis autem sanetur.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.12.14",
+          "sblId": "Heb 12:14",
+          "name": "Epistula ad Hebraeos 12:14",
+          "shortName": "Heb 12:14",
+          "text": "Pacem sectamini cum omnibus et sanctificationem, sine qua nemo videbit Dominum,",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.12.15",
+          "sblId": "Heb 12:15",
+          "name": "Epistula ad Hebraeos 12:15",
+          "shortName": "Heb 12:15",
+          "text": "providentes, ne quis desit gratiae Dei, ne qua radix amaritudinis sursum germinans perturbet, et per illam inquinentur multi;",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.12.16",
+          "sblId": "Heb 12:16",
+          "name": "Epistula ad Hebraeos 12:16",
+          "shortName": "Heb 12:16",
+          "text": "ne quis fornicator aut profanus ut Esau, qui propter unam escam vendidit primogenita sua.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Heb.12.17",
+          "sblId": "Heb 12:17",
+          "name": "Epistula ad Hebraeos 12:17",
+          "shortName": "Heb 12:17",
+          "text": "Scitis enim quoniam et postea cupiens hereditare benedictionem reprobatus est; non enim invenit paenitentiae locum, quamquam cum lacrimis inquisisset eam.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Heb.12.18",
+          "sblId": "Heb 12:18",
+          "name": "Epistula ad Hebraeos 12:18",
+          "shortName": "Heb 12:18",
+          "text": "Non enim accessistis ad tractabilem et ardentem ignem et turbinem et caliginem et procellam",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Heb.12.19",
+          "sblId": "Heb 12:19",
+          "name": "Epistula ad Hebraeos 12:19",
+          "shortName": "Heb 12:19",
+          "text": "et tubae sonum et vocem verborum, quam qui audierunt, recusaverunt, ne ultra eis fieret verbum;",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Heb.12.20",
+          "sblId": "Heb 12:20",
+          "name": "Epistula ad Hebraeos 12:20",
+          "shortName": "Heb 12:20",
+          "text": "non enim portabant mandatum: \" Et si bestia tetigerit montem, lapidabitur\";",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Heb.12.21",
+          "sblId": "Heb 12:21",
+          "name": "Epistula ad Hebraeos 12:21",
+          "shortName": "Heb 12:21",
+          "text": "et ita terribile erat, quod videbatur, Moyses dixit: \" Exterritus sum et tremebundus \".",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Heb.12.22",
+          "sblId": "Heb 12:22",
+          "name": "Epistula ad Hebraeos 12:22",
+          "shortName": "Heb 12:22",
+          "text": "Sed accessistis ad Sion montem et civitatem Dei viventis, Ierusalem caelestem, et multa milia angelorum, frequentiam",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Heb.12.23",
+          "sblId": "Heb 12:23",
+          "name": "Epistula ad Hebraeos 12:23",
+          "shortName": "Heb 12:23",
+          "text": "et ecclesiam primogenitorum, qui conscripti sunt in caelis, et iudicem Deum omnium et spiritus iustorum, qui consummati sunt,",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Heb.12.24",
+          "sblId": "Heb 12:24",
+          "name": "Epistula ad Hebraeos 12:24",
+          "shortName": "Heb 12:24",
+          "text": "et testamenti novi mediatorem Iesum et sanguinem aspersionis, melius loquentem quam Abel.",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Heb.12.25",
+          "sblId": "Heb 12:25",
+          "name": "Epistula ad Hebraeos 12:25",
+          "shortName": "Heb 12:25",
+          "text": "Videte, ne recusetis loquentem; si enim illi non effugerunt recusantes eum, qui super terram loquebatur, multo magis nos, qui de caelis loquentem avertimus;",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Heb.12.26",
+          "sblId": "Heb 12:26",
+          "name": "Epistula ad Hebraeos 12:26",
+          "shortName": "Heb 12:26",
+          "text": "cuius vox movit terram tunc, modo autem pronuntiavit dicens: \" Adhuc semel ego movebo non solum terram sed et caelum \".",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Heb.12.27",
+          "sblId": "Heb 12:27",
+          "name": "Epistula ad Hebraeos 12:27",
+          "shortName": "Heb 12:27",
+          "text": "Hoc autem \" adhuc semel \" declarat mobilium translationem tamquam factorum, ut maneant ea, quae sunt immobilia.",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Heb.12.28",
+          "sblId": "Heb 12:28",
+          "name": "Epistula ad Hebraeos 12:28",
+          "shortName": "Heb 12:28",
+          "text": "Itaque, regnum immobile suscipientes, habeamus gratiam, per quam serviamus placentes Deo cum reverentia et metu;",
+          "orderIndex": 27
+        },
+        {
+          "osisId": "Heb.12.29",
+          "sblId": "Heb 12:29",
+          "name": "Epistula ad Hebraeos 12:29",
+          "shortName": "Heb 12:29",
+          "text": "etenim Deus noster ignis consumens est.",
+          "orderIndex": 28
+        }
+      ]
+    },
+    {
+      "osisId": "Heb.13",
+      "sblId": "Heb 13",
+      "name": "Epistula ad Hebraeos 13",
+      "shortName": "Heb 13",
+      "orderIndex": 12,
+      "versesCount": 25,
+      "verses": [
+        {
+          "osisId": "Heb.13.1",
+          "sblId": "Heb 13:1",
+          "name": "Epistula ad Hebraeos 13:1",
+          "shortName": "Heb 13:1",
+          "text": "Caritas fraternitatis maneat.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Heb.13.2",
+          "sblId": "Heb 13:2",
+          "name": "Epistula ad Hebraeos 13:2",
+          "shortName": "Heb 13:2",
+          "text": "Hospitalitatem nolite obli visci; per hanc enim quidam nescientes hospitio receperunt angelos.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Heb.13.3",
+          "sblId": "Heb 13:3",
+          "name": "Epistula ad Hebraeos 13:3",
+          "shortName": "Heb 13:3",
+          "text": "Mementote vinctorum tamquam simul vincti, laborantium tamquam et ipsi in corpore morantes.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Heb.13.4",
+          "sblId": "Heb 13:4",
+          "name": "Epistula ad Hebraeos 13:4",
+          "shortName": "Heb 13:4",
+          "text": "Honorabile conubium in omnibus, et torus immaculatus; fornicatores enim et adulteros iudicabit Deus.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Heb.13.5",
+          "sblId": "Heb 13:5",
+          "name": "Epistula ad Hebraeos 13:5",
+          "shortName": "Heb 13:5",
+          "text": "Sint mores sine avaritia; contenti praesentibus. Ipse enim dixit: \" Non te deseram neque derelinquam \",",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Heb.13.6",
+          "sblId": "Heb 13:6",
+          "name": "Epistula ad Hebraeos 13:6",
+          "shortName": "Heb 13:6",
+          "text": "ita ut confidenter dicamus: Dominus mihi adiutor est, non timebo; quid faciet mihi homo? \".",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Heb.13.7",
+          "sblId": "Heb 13:7",
+          "name": "Epistula ad Hebraeos 13:7",
+          "shortName": "Heb 13:7",
+          "text": "Mementote praepositorum vestrorum, qui vobis locuti sunt verbum Dei; quorum intuentes exitum conversationis, imitamini fidem.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Heb.13.8",
+          "sblId": "Heb 13:8",
+          "name": "Epistula ad Hebraeos 13:8",
+          "shortName": "Heb 13:8",
+          "text": "Iesus Christus heri et hodie idem, et in saecula!",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Heb.13.9",
+          "sblId": "Heb 13:9",
+          "name": "Epistula ad Hebraeos 13:9",
+          "shortName": "Heb 13:9",
+          "text": "Doctrinis variis et peregrinis nolite abduci; optimum enim est gratia stabiliri cor, non escis, quae non profuerunt ambulantibus in eis.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Heb.13.10",
+          "sblId": "Heb 13:10",
+          "name": "Epistula ad Hebraeos 13:10",
+          "shortName": "Heb 13:10",
+          "text": "Habemus altare, de quo edere non habent potestatem, qui tabernaculo deserviunt.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Heb.13.11",
+          "sblId": "Heb 13:11",
+          "name": "Epistula ad Hebraeos 13:11",
+          "shortName": "Heb 13:11",
+          "text": "Quorum enim animalium infertur sanguis pro peccato in Sancta per pontificem, horum corpora cremantur extra castra.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Heb.13.12",
+          "sblId": "Heb 13:12",
+          "name": "Epistula ad Hebraeos 13:12",
+          "shortName": "Heb 13:12",
+          "text": "Propter quod et Iesus, ut sanctificaret per suum sanguinem populum, extra portam passus est.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Heb.13.13",
+          "sblId": "Heb 13:13",
+          "name": "Epistula ad Hebraeos 13:13",
+          "shortName": "Heb 13:13",
+          "text": "Exeamus igitur ad eum extra castra, improperium eius portantes;",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Heb.13.14",
+          "sblId": "Heb 13:14",
+          "name": "Epistula ad Hebraeos 13:14",
+          "shortName": "Heb 13:14",
+          "text": "non enim habemus hic manentem civitatem, sed futuram inquirimus.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Heb.13.15",
+          "sblId": "Heb 13:15",
+          "name": "Epistula ad Hebraeos 13:15",
+          "shortName": "Heb 13:15",
+          "text": "Per ipsum ergo offeramus hostiam laudis semper Deo, id est fructum labiorum confitentium nomini eius.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Heb.13.16",
+          "sblId": "Heb 13:16",
+          "name": "Epistula ad Hebraeos 13:16",
+          "shortName": "Heb 13:16",
+          "text": "Beneficientiae autem et communionis nolite oblivisci; talibus enim hostiis oblectatur Deus.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Heb.13.17",
+          "sblId": "Heb 13:17",
+          "name": "Epistula ad Hebraeos 13:17",
+          "shortName": "Heb 13:17",
+          "text": "Oboedite praepositis vestris et subiacete eis; ipsi enim pervigilant pro animabus vestris quasi rationem reddituri, ut cum gaudio hoc faciant et non gementes; hoc enim non expedit vobis.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Heb.13.18",
+          "sblId": "Heb 13:18",
+          "name": "Epistula ad Hebraeos 13:18",
+          "shortName": "Heb 13:18",
+          "text": "Orate pro nobis; confidimus enim quia bonam conscientiam habemus, in omnibus bene volentes conversari.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Heb.13.19",
+          "sblId": "Heb 13:19",
+          "name": "Epistula ad Hebraeos 13:19",
+          "shortName": "Heb 13:19",
+          "text": "Amplius autem deprecor vos hoc facere, ut quo celerius restituar vobis.",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Heb.13.20",
+          "sblId": "Heb 13:20",
+          "name": "Epistula ad Hebraeos 13:20",
+          "shortName": "Heb 13:20",
+          "text": "Deus autem pacis, qui eduxit de mortuis pastorem magnum ovium in sanguine testamenti aeterni, Dominum nostrum Iesum,",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Heb.13.21",
+          "sblId": "Heb 13:21",
+          "name": "Epistula ad Hebraeos 13:21",
+          "shortName": "Heb 13:21",
+          "text": "aptet vos in omni bono, ut faciatis voluntatem eius, faciens in nobis, quod placeat coram se per Iesum Christum, cui gloria in saecula saeculorum. Amen.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Heb.13.22",
+          "sblId": "Heb 13:22",
+          "name": "Epistula ad Hebraeos 13:22",
+          "shortName": "Heb 13:22",
+          "text": "Rogo autem vos, fratres, sufferte sermonem exhortationis; etenim perpaucis scripsi vobis.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Heb.13.23",
+          "sblId": "Heb 13:23",
+          "name": "Epistula ad Hebraeos 13:23",
+          "shortName": "Heb 13:23",
+          "text": "Cognoscite fratrem nostrum Timotheum dimissum esse; cum quo, si celerius venerit, videbo vos.",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Heb.13.24",
+          "sblId": "Heb 13:24",
+          "name": "Epistula ad Hebraeos 13:24",
+          "shortName": "Heb 13:24",
+          "text": "Salutate omnes praepositos vestros et omnes sanctos. Salutant vos, qui de Italia sunt.",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Heb.13.25",
+          "sblId": "Heb 13:25",
+          "name": "Epistula ad Hebraeos 13:25",
+          "shortName": "Heb 13:25",
+          "text": "Gratia cum omnibus vobis.",
+          "orderIndex": 24
+        }
+      ]
+    }
+  ]
+}

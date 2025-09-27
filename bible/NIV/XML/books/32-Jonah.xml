@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="Jonah" sblId="Jonah" name="Jonah" shortName="Jonah" orderIndex="31" chaptersCount="4" versesCount="48">
+  <chapters>
+    <Chapter osisId="Jonah.1" sblId="Jonah 1" name="Jonah 1" shortName="Jonah 1" orderIndex="0" versesCount="17">
+      <verses>
+        <Verse osisId="Jonah.1.1" sblId="Jonah 1:1" name="Jonah 1:1" shortName="Jonah 1:1" orderIndex="0">The word of the LORD came to Jonah son of Amittai:</Verse>
+        <Verse osisId="Jonah.1.2" sblId="Jonah 1:2" name="Jonah 1:2" shortName="Jonah 1:2" orderIndex="1">"Go to the great city of Nineveh and preach against it, because its wickedness has come up before me."</Verse>
+        <Verse osisId="Jonah.1.3" sblId="Jonah 1:3" name="Jonah 1:3" shortName="Jonah 1:3" orderIndex="2">But Jonah ran away from the LORD and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the LORD.</Verse>
+        <Verse osisId="Jonah.1.4" sblId="Jonah 1:4" name="Jonah 1:4" shortName="Jonah 1:4" orderIndex="3">Then the LORD sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up.</Verse>
+        <Verse osisId="Jonah.1.5" sblId="Jonah 1:5" name="Jonah 1:5" shortName="Jonah 1:5" orderIndex="4">All the sailors were afraid and each cried out to his own god. And they threw the cargo into the sea to lighten the ship. But Jonah had gone below deck, where he lay down and fell into a deep sleep.</Verse>
+        <Verse osisId="Jonah.1.6" sblId="Jonah 1:6" name="Jonah 1:6" shortName="Jonah 1:6" orderIndex="5">The captain went to him and said, "How can you sleep? Get up and call on your god! Maybe he will take notice of us, and we will not perish."</Verse>
+        <Verse osisId="Jonah.1.7" sblId="Jonah 1:7" name="Jonah 1:7" shortName="Jonah 1:7" orderIndex="6">Then the sailors said to each other, "Come, let us cast lots to find out who is responsible for this calamity." They cast lots and the lot fell on Jonah.</Verse>
+        <Verse osisId="Jonah.1.8" sblId="Jonah 1:8" name="Jonah 1:8" shortName="Jonah 1:8" orderIndex="7">So they asked him, "Tell us, who is responsible for making all this trouble for us? What do you do? Where do you come from? What is your country? From what people are you?"</Verse>
+        <Verse osisId="Jonah.1.9" sblId="Jonah 1:9" name="Jonah 1:9" shortName="Jonah 1:9" orderIndex="8">He answered, "I am a Hebrew and I worship the LORD, the God of heaven, who made the sea and the land."</Verse>
+        <Verse osisId="Jonah.1.10" sblId="Jonah 1:10" name="Jonah 1:10" shortName="Jonah 1:10" orderIndex="9">This terrified them and they asked, "What have you done?" (They knew he was running away from the LORD, because he had already told them so.)</Verse>
+        <Verse osisId="Jonah.1.11" sblId="Jonah 1:11" name="Jonah 1:11" shortName="Jonah 1:11" orderIndex="10">The sea was getting rougher and rougher. So they asked him, "What should we do to you to make the sea calm down for us?"</Verse>
+        <Verse osisId="Jonah.1.12" sblId="Jonah 1:12" name="Jonah 1:12" shortName="Jonah 1:12" orderIndex="11">"Pick me up and throw me into the sea," he replied, "and it will become calm. I know that it is my fault that this great storm has come upon you."</Verse>
+        <Verse osisId="Jonah.1.13" sblId="Jonah 1:13" name="Jonah 1:13" shortName="Jonah 1:13" orderIndex="12">Instead, the men did their best to row back to land. But they could not, for the sea grew even wilder than before.</Verse>
+        <Verse osisId="Jonah.1.14" sblId="Jonah 1:14" name="Jonah 1:14" shortName="Jonah 1:14" orderIndex="13">Then they cried to the LORD, "O LORD, please do not let us die for taking this man's life. Do not hold us accountable for killing an innocent man, for you, O LORD, have done as you pleased."</Verse>
+        <Verse osisId="Jonah.1.15" sblId="Jonah 1:15" name="Jonah 1:15" shortName="Jonah 1:15" orderIndex="14">Then they took Jonah and threw him overboard, and the raging sea grew calm.</Verse>
+        <Verse osisId="Jonah.1.16" sblId="Jonah 1:16" name="Jonah 1:16" shortName="Jonah 1:16" orderIndex="15">At this the men greatly feared the LORD, and they offered a sacrifice to the LORD and made vows to him.</Verse>
+        <Verse osisId="Jonah.1.17" sblId="Jonah 1:17" name="Jonah 1:17" shortName="Jonah 1:17" orderIndex="16">But the LORD provided a great fish to swallow Jonah, and Jonah was inside the fish three days and three nights.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Jonah.2" sblId="Jonah 2" name="Jonah 2" shortName="Jonah 2" orderIndex="1" versesCount="10">
+      <verses>
+        <Verse osisId="Jonah.2.1" sblId="Jonah 2:1" name="Jonah 2:1" shortName="Jonah 2:1" orderIndex="0">From inside the fish Jonah prayed to the LORD his God.</Verse>
+        <Verse osisId="Jonah.2.2" sblId="Jonah 2:2" name="Jonah 2:2" shortName="Jonah 2:2" orderIndex="1">He said: "In my distress I called to the LORD, and he answered me. From the depths of the grave I called for help, and you listened to my cry.</Verse>
+        <Verse osisId="Jonah.2.3" sblId="Jonah 2:3" name="Jonah 2:3" shortName="Jonah 2:3" orderIndex="2">You hurled me into the deep, into the very heart of the seas, and the currents swirled about me; all your waves and breakers swept over me.</Verse>
+        <Verse osisId="Jonah.2.4" sblId="Jonah 2:4" name="Jonah 2:4" shortName="Jonah 2:4" orderIndex="3">I said, 'I have been banished from your sight; yet I will look again toward your holy temple.'</Verse>
+        <Verse osisId="Jonah.2.5" sblId="Jonah 2:5" name="Jonah 2:5" shortName="Jonah 2:5" orderIndex="4">The engulfing waters threatened me, the deep surrounded me; seaweed was wrapped around my head.</Verse>
+        <Verse osisId="Jonah.2.6" sblId="Jonah 2:6" name="Jonah 2:6" shortName="Jonah 2:6" orderIndex="5">To the roots of the mountains I sank down; the earth beneath barred me in forever. But you brought my life up from the pit, O LORD my God.</Verse>
+        <Verse osisId="Jonah.2.7" sblId="Jonah 2:7" name="Jonah 2:7" shortName="Jonah 2:7" orderIndex="6">"When my life was ebbing away, I remembered you, LORD, and my prayer rose to you, to your holy temple.</Verse>
+        <Verse osisId="Jonah.2.8" sblId="Jonah 2:8" name="Jonah 2:8" shortName="Jonah 2:8" orderIndex="7">"Those who cling to worthless idols forfeit the grace that could be theirs.</Verse>
+        <Verse osisId="Jonah.2.9" sblId="Jonah 2:9" name="Jonah 2:9" shortName="Jonah 2:9" orderIndex="8">But I, with a song of thanksgiving, will sacrifice to you. What I have vowed I will make good. Salvation comes from the LORD."</Verse>
+        <Verse osisId="Jonah.2.10" sblId="Jonah 2:10" name="Jonah 2:10" shortName="Jonah 2:10" orderIndex="9">And the LORD commanded the fish, and it vomited Jonah onto dry land.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Jonah.3" sblId="Jonah 3" name="Jonah 3" shortName="Jonah 3" orderIndex="2" versesCount="10">
+      <verses>
+        <Verse osisId="Jonah.3.1" sblId="Jonah 3:1" name="Jonah 3:1" shortName="Jonah 3:1" orderIndex="0">Then the word of the LORD came to Jonah a second time:</Verse>
+        <Verse osisId="Jonah.3.2" sblId="Jonah 3:2" name="Jonah 3:2" shortName="Jonah 3:2" orderIndex="1">"Go to the great city of Nineveh and proclaim to it the message I give you."</Verse>
+        <Verse osisId="Jonah.3.3" sblId="Jonah 3:3" name="Jonah 3:3" shortName="Jonah 3:3" orderIndex="2">Jonah obeyed the word of the LORD and went to Nineveh. Now Nineveh was a very important city-a visit required three days.</Verse>
+        <Verse osisId="Jonah.3.4" sblId="Jonah 3:4" name="Jonah 3:4" shortName="Jonah 3:4" orderIndex="3">On the first day, Jonah started into the city. He proclaimed: "Forty more days and Nineveh will be overturned."</Verse>
+        <Verse osisId="Jonah.3.5" sblId="Jonah 3:5" name="Jonah 3:5" shortName="Jonah 3:5" orderIndex="4">The Ninevites believed God. They declared a fast, and all of them, from the greatest to the least, put on sackcloth.</Verse>
+        <Verse osisId="Jonah.3.6" sblId="Jonah 3:6" name="Jonah 3:6" shortName="Jonah 3:6" orderIndex="5">When the news reached the king of Nineveh, he rose from his throne, took off his royal robes, covered himself with sackcloth and sat down in the dust.</Verse>
+        <Verse osisId="Jonah.3.7" sblId="Jonah 3:7" name="Jonah 3:7" shortName="Jonah 3:7" orderIndex="6">Then he issued a proclamation in Nineveh: "By the decree of the king and his nobles: Do not let any man or beast, herd or flock, taste anything; do not let them eat or drink.</Verse>
+        <Verse osisId="Jonah.3.8" sblId="Jonah 3:8" name="Jonah 3:8" shortName="Jonah 3:8" orderIndex="7">But let man and beast be covered with sackcloth. Let everyone call urgently on God. Let them give up their evil ways and their violence.</Verse>
+        <Verse osisId="Jonah.3.9" sblId="Jonah 3:9" name="Jonah 3:9" shortName="Jonah 3:9" orderIndex="8">Who knows? God may yet relent and with compassion turn from his fierce anger so that we will not perish."</Verse>
+        <Verse osisId="Jonah.3.10" sblId="Jonah 3:10" name="Jonah 3:10" shortName="Jonah 3:10" orderIndex="9">When God saw what they did and how they turned from their evil ways, he had compassion and did not bring upon them the destruction he had threatened.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Jonah.4" sblId="Jonah 4" name="Jonah 4" shortName="Jonah 4" orderIndex="3" versesCount="11">
+      <verses>
+        <Verse osisId="Jonah.4.1" sblId="Jonah 4:1" name="Jonah 4:1" shortName="Jonah 4:1" orderIndex="0">But Jonah was greatly displeased and became angry.</Verse>
+        <Verse osisId="Jonah.4.2" sblId="Jonah 4:2" name="Jonah 4:2" shortName="Jonah 4:2" orderIndex="1">He prayed to the LORD, "O LORD, is this not what I said when I was still at home? That is why I was so quick to flee to Tarshish. I knew that you are a gracious and compassionate God, slow to anger and abounding in love, a God who relents from sending calamity.</Verse>
+        <Verse osisId="Jonah.4.3" sblId="Jonah 4:3" name="Jonah 4:3" shortName="Jonah 4:3" orderIndex="2">Now, O LORD, take away my life, for it is better for me to die than to live."</Verse>
+        <Verse osisId="Jonah.4.4" sblId="Jonah 4:4" name="Jonah 4:4" shortName="Jonah 4:4" orderIndex="3">But the LORD replied, "Have you any right to be angry?"</Verse>
+        <Verse osisId="Jonah.4.5" sblId="Jonah 4:5" name="Jonah 4:5" shortName="Jonah 4:5" orderIndex="4">Jonah went out and sat down at a place east of the city. There he made himself a shelter, sat in its shade and waited to see what would happen to the city.</Verse>
+        <Verse osisId="Jonah.4.6" sblId="Jonah 4:6" name="Jonah 4:6" shortName="Jonah 4:6" orderIndex="5">Then the LORD God provided a vine and made it grow up over Jonah to give shade for his head to ease his discomfort, and Jonah was very happy about the vine.</Verse>
+        <Verse osisId="Jonah.4.7" sblId="Jonah 4:7" name="Jonah 4:7" shortName="Jonah 4:7" orderIndex="6">But at dawn the next day God provided a worm, which chewed the vine so that it withered.</Verse>
+        <Verse osisId="Jonah.4.8" sblId="Jonah 4:8" name="Jonah 4:8" shortName="Jonah 4:8" orderIndex="7">When the sun rose, God provided a scorching east wind, and the sun blazed on Jonah's head so that he grew faint. He wanted to die, and said, "It would be better for me to die than to live."</Verse>
+        <Verse osisId="Jonah.4.9" sblId="Jonah 4:9" name="Jonah 4:9" shortName="Jonah 4:9" orderIndex="8">But God said to Jonah, "Do you have a right to be angry about the vine?I do," he said. "I am angry enough to die."</Verse>
+        <Verse osisId="Jonah.4.10" sblId="Jonah 4:10" name="Jonah 4:10" shortName="Jonah 4:10" orderIndex="9">But the LORD said, "You have been concerned about this vine, though you did not tend it or make it grow. It sprang up overnight and died overnight.</Verse>
+        <Verse osisId="Jonah.4.11" sblId="Jonah 4:11" name="Jonah 4:11" shortName="Jonah 4:11" orderIndex="10">But Nineveh has more than a hundred and twenty thousand people who cannot tell their right hand from their left, and many cattle as well. Should I not be concerned about that great city?"</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

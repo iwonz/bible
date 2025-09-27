@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="1John" sblId="1John" name="Epistula I Ioannis" shortName="1 Io" orderIndex="61" chaptersCount="5" versesCount="105">
+  <chapters>
+    <Chapter osisId="1John.1" sblId="1John 1" name="Epistula I Ioannis 1" shortName="1 Io 1" orderIndex="0" versesCount="10">
+      <verses>
+        <Verse osisId="1John.1.1" sblId="1John 1:1" name="Epistula I Ioannis 1:1" shortName="1 Io 1:1" orderIndex="0">Quod fuit ab initio, quod audi vimus, quod vidimus oculis no stris, quod perspeximus, et manus nostrae contrectaverunt de verbo vitae</Verse>
+        <Verse osisId="1John.1.2" sblId="1John 1:2" name="Epistula I Ioannis 1:2" shortName="1 Io 1:2" orderIndex="1">- et vita apparuit, et vidimus et testamur et annuntiamus vobis vitam aeternam, quae erat coram Patre et apparuit nobis -</Verse>
+        <Verse osisId="1John.1.3" sblId="1John 1:3" name="Epistula I Ioannis 1:3" shortName="1 Io 1:3" orderIndex="2">quod vidimus et audivimus, annuntiamus et vobis, ut et vos communionem habeatis nobiscum. Communio autem nostra est cum Patre et cum Filio eius Iesu Christo.</Verse>
+        <Verse osisId="1John.1.4" sblId="1John 1:4" name="Epistula I Ioannis 1:4" shortName="1 Io 1:4" orderIndex="3">Et haec scribimus nos, ut gaudium nostrum sit plenum.</Verse>
+        <Verse osisId="1John.1.5" sblId="1John 1:5" name="Epistula I Ioannis 1:5" shortName="1 Io 1:5" orderIndex="4">Et haec est annuntiatio, quam audivimus ab eo et annuntiamus vobis, quoniam Deus lux est, et tenebrae in eo non sunt ullae.</Verse>
+        <Verse osisId="1John.1.6" sblId="1John 1:6" name="Epistula I Ioannis 1:6" shortName="1 Io 1:6" orderIndex="5">Si dixerimus quoniam communionem habemus cum eo, et in tenebris ambulamus, mentimur et non facimus veritatem;</Verse>
+        <Verse osisId="1John.1.7" sblId="1John 1:7" name="Epistula I Ioannis 1:7" shortName="1 Io 1:7" orderIndex="6">si autem in luce ambulemus, sicut ipse est in luce, communionem habemus ad invicem, et sanguis Iesu Filii eius mundat nos ab omni peccato.</Verse>
+        <Verse osisId="1John.1.8" sblId="1John 1:8" name="Epistula I Ioannis 1:8" shortName="1 Io 1:8" orderIndex="7">Si dixerimus quoniam peccatum non habemus, nosmetipsos seducimus, et veritas in nobis non est.</Verse>
+        <Verse osisId="1John.1.9" sblId="1John 1:9" name="Epistula I Ioannis 1:9" shortName="1 Io 1:9" orderIndex="8">Si confiteamur peccata nostra, fidelis est et iustus, ut remittat nobis peccata et emundet nos ab omni iniustitia.</Verse>
+        <Verse osisId="1John.1.10" sblId="1John 1:10" name="Epistula I Ioannis 1:10" shortName="1 Io 1:10" orderIndex="9">Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum eius non est in nobis.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="1John.2" sblId="1John 2" name="Epistula I Ioannis 2" shortName="1 Io 2" orderIndex="1" versesCount="29">
+      <verses>
+        <Verse osisId="1John.2.1" sblId="1John 2:1" name="Epistula I Ioannis 2:1" shortName="1 Io 2:1" orderIndex="0">Filioli mei, haec scribo vobis, ut non peccetis. Sed si quis pecca verit, advocatum habemus ad Patrem, Iesum Christum iustum;</Verse>
+        <Verse osisId="1John.2.2" sblId="1John 2:2" name="Epistula I Ioannis 2:2" shortName="1 Io 2:2" orderIndex="1">et ipse est propitiatio pro peccatis nostris, non pro nostris autem tantum sed etiam pro totius mundi.</Verse>
+        <Verse osisId="1John.2.3" sblId="1John 2:3" name="Epistula I Ioannis 2:3" shortName="1 Io 2:3" orderIndex="2">Et in hoc cognoscimus quoniam novimus eum: si mandata eius servemus.</Verse>
+        <Verse osisId="1John.2.4" sblId="1John 2:4" name="Epistula I Ioannis 2:4" shortName="1 Io 2:4" orderIndex="3">Qui dicit: " Novi eum ", et mandata eius non servat, mendax est, et in isto veritas non est;</Verse>
+        <Verse osisId="1John.2.5" sblId="1John 2:5" name="Epistula I Ioannis 2:5" shortName="1 Io 2:5" orderIndex="4">qui autem servat verbum eius, vere in hoc caritas Dei consummata est. In hoc cognoscimus quoniam in ipso sumus.</Verse>
+        <Verse osisId="1John.2.6" sblId="1John 2:6" name="Epistula I Ioannis 2:6" shortName="1 Io 2:6" orderIndex="5">Qui dicit se in ipso manere, debet, sicut ille ambulavit, et ipse ambulare.</Verse>
+        <Verse osisId="1John.2.7" sblId="1John 2:7" name="Epistula I Ioannis 2:7" shortName="1 Io 2:7" orderIndex="6">Carissimi, non mandatum novum scribo vobis sed mandatum vetus, quod habuistis ab initio: mandatum vetus est verbum, quod audistis.</Verse>
+        <Verse osisId="1John.2.8" sblId="1John 2:8" name="Epistula I Ioannis 2:8" shortName="1 Io 2:8" orderIndex="7">Verumtamen mandatum novum scribo vobis, quod est verum in ipso et in vobis, quoniam tenebrae transeunt, et lumen verum iam lucet.</Verse>
+        <Verse osisId="1John.2.9" sblId="1John 2:9" name="Epistula I Ioannis 2:9" shortName="1 Io 2:9" orderIndex="8">Qui dicit se in luce esse, et fratrem suum odit, in tenebris est usque adhuc.</Verse>
+        <Verse osisId="1John.2.10" sblId="1John 2:10" name="Epistula I Ioannis 2:10" shortName="1 Io 2:10" orderIndex="9">Qui diligit fratrem suum, in lumine manet, et scandalum ei non est;</Verse>
+        <Verse osisId="1John.2.11" sblId="1John 2:11" name="Epistula I Ioannis 2:11" shortName="1 Io 2:11" orderIndex="10">qui autem odit fratrem suum, in tenebris est et in tenebris ambulat et nescit quo vadat, quoniam tenebrae obcaecaverunt oculos eius.</Verse>
+        <Verse osisId="1John.2.12" sblId="1John 2:12" name="Epistula I Ioannis 2:12" shortName="1 Io 2:12" orderIndex="11">Scribo vobis, filioli: Remissa sunt vobis peccata propter nomen eius.</Verse>
+        <Verse osisId="1John.2.13" sblId="1John 2:13" name="Epistula I Ioannis 2:13" shortName="1 Io 2:13" orderIndex="12">Scribo vobis, patres: Nostis eum, qui ab initio est. Scribo vobis, adulescentes: Vicistis Malignum.</Verse>
+        <Verse osisId="1John.2.14" sblId="1John 2:14" name="Epistula I Ioannis 2:14" shortName="1 Io 2:14" orderIndex="13">Scripsi vobis, parvuli: Nostis Patrem. Scripsi vobis, patres: Nostis eum, qui ab initio est. Scripsi vobis, adulescentes: Fortes estis, et verbum Dei in vobis manet, et vicistis Malignum.</Verse>
+        <Verse osisId="1John.2.15" sblId="1John 2:15" name="Epistula I Ioannis 2:15" shortName="1 Io 2:15" orderIndex="14">Nolite diligere mundum neque ea, quae in mundo sunt. Si quis diligit mundum, non est caritas Patris in eo;</Verse>
+        <Verse osisId="1John.2.16" sblId="1John 2:16" name="Epistula I Ioannis 2:16" shortName="1 Io 2:16" orderIndex="15">quoniam omne, quod est in mundo, concupiscentia carnis et concupiscentia oculorum et iactantia divitiarum, non est ex Patre, sed ex mundo est.</Verse>
+        <Verse osisId="1John.2.17" sblId="1John 2:17" name="Epistula I Ioannis 2:17" shortName="1 Io 2:17" orderIndex="16">Et mundus transit, et concupiscentia eius; qui autem facit voluntatem Dei, manet in aeternum.</Verse>
+        <Verse osisId="1John.2.18" sblId="1John 2:18" name="Epistula I Ioannis 2:18" shortName="1 Io 2:18" orderIndex="17">Filioli, novissima hora est; et sicut audistis quia antichristus venit, ita nunc antichristi multi adsunt, unde cognoscimus quoniam novissima hora est.</Verse>
+        <Verse osisId="1John.2.19" sblId="1John 2:19" name="Epistula I Ioannis 2:19" shortName="1 Io 2:19" orderIndex="18">Ex nobis prodierunt, sed non erant ex nobis, nam si fuissent ex nobis, permansissent nobiscum; sed ut manifestaretur quoniam illi omnes non sunt ex nobis.</Verse>
+        <Verse osisId="1John.2.20" sblId="1John 2:20" name="Epistula I Ioannis 2:20" shortName="1 Io 2:20" orderIndex="19">Sed vos unctionem habetis a Sancto et scitis omnes.</Verse>
+        <Verse osisId="1John.2.21" sblId="1John 2:21" name="Epistula I Ioannis 2:21" shortName="1 Io 2:21" orderIndex="20">Non scripsi vobis quasi nescientibus veritatem sed quasi scientibus eam, et quoniam omne mendacium ex veritate non est.</Verse>
+        <Verse osisId="1John.2.22" sblId="1John 2:22" name="Epistula I Ioannis 2:22" shortName="1 Io 2:22" orderIndex="21">Quis est mendax, nisi is qui negat quoniam Iesus est Christus? Hic est antichristus, qui negat Patrem et Filium.</Verse>
+        <Verse osisId="1John.2.23" sblId="1John 2:23" name="Epistula I Ioannis 2:23" shortName="1 Io 2:23" orderIndex="22">Omnis, qui negat Filium, nec Patrem habet; qui confitetur Filium, et Patrem habet.</Verse>
+        <Verse osisId="1John.2.24" sblId="1John 2:24" name="Epistula I Ioannis 2:24" shortName="1 Io 2:24" orderIndex="23">Vos, quod audistis ab initio, in vobis permaneat; si in vobis permanserit, quod ab initio audistis, et vos in Filio et in Patre manebitis.</Verse>
+        <Verse osisId="1John.2.25" sblId="1John 2:25" name="Epistula I Ioannis 2:25" shortName="1 Io 2:25" orderIndex="24">Et haec est repromissio, quam ipse pollicitus est nobis: vitam aeternam.</Verse>
+        <Verse osisId="1John.2.26" sblId="1John 2:26" name="Epistula I Ioannis 2:26" shortName="1 Io 2:26" orderIndex="25">Haec scripsi vobis de eis, qui seducunt vos.</Verse>
+        <Verse osisId="1John.2.27" sblId="1John 2:27" name="Epistula I Ioannis 2:27" shortName="1 Io 2:27" orderIndex="26">Et vos, unctionem, quam accepistis ab eo, manet in vobis, et non necesse habetis, ut aliquis doceat vos; sed sicut unctio ipsius docet vos de omnibus, et verum est, et non est mendacium, et, sicut docuit vos, manetis in eo.</Verse>
+        <Verse osisId="1John.2.28" sblId="1John 2:28" name="Epistula I Ioannis 2:28" shortName="1 Io 2:28" orderIndex="27">Et nunc, filioli, manete in eo, ut, cum apparuerit, habeamus fiduciam et non confundamur ab eo in adventu eius.</Verse>
+        <Verse osisId="1John.2.29" sblId="1John 2:29" name="Epistula I Ioannis 2:29" shortName="1 Io 2:29" orderIndex="28">Si scitis quoniam iustus est, scitote quoniam et omnis, qui facit iustitiam, ex ipso natus est.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="1John.3" sblId="1John 3" name="Epistula I Ioannis 3" shortName="1 Io 3" orderIndex="2" versesCount="24">
+      <verses>
+        <Verse osisId="1John.3.1" sblId="1John 3:1" name="Epistula I Ioannis 3:1" shortName="1 Io 3:1" orderIndex="0">Videte qualem caritatem dedit nobis Pater, ut filii Dei nomine mur, et sumus! Propter hoc mundus non cognoscit nos, quia non cognovit eum.</Verse>
+        <Verse osisId="1John.3.2" sblId="1John 3:2" name="Epistula I Ioannis 3:2" shortName="1 Io 3:2" orderIndex="1">Carissimi, nunc filii Dei sumus, et nondum manifestatum est quid erimus; scimus quoniam, cum ipse apparuerit, similes ei erimus, quoniam videbimus eum, sicuti est.</Verse>
+        <Verse osisId="1John.3.3" sblId="1John 3:3" name="Epistula I Ioannis 3:3" shortName="1 Io 3:3" orderIndex="2">Et omnis, qui habet spem hanc in eo, purificat se, sicut ille purus est.</Verse>
+        <Verse osisId="1John.3.4" sblId="1John 3:4" name="Epistula I Ioannis 3:4" shortName="1 Io 3:4" orderIndex="3">Omnis, qui facit peccatum, et iniquitatem facit, quia peccatum est iniquitas.</Verse>
+        <Verse osisId="1John.3.5" sblId="1John 3:5" name="Epistula I Ioannis 3:5" shortName="1 Io 3:5" orderIndex="4">Et scitis quoniam ille apparuit, ut peccata tolleret, et peccatum in eo non est.</Verse>
+        <Verse osisId="1John.3.6" sblId="1John 3:6" name="Epistula I Ioannis 3:6" shortName="1 Io 3:6" orderIndex="5">Omnis, qui in eo manet, non peccat; omnis, qui peccat, non vidit eum nec novit eum.</Verse>
+        <Verse osisId="1John.3.7" sblId="1John 3:7" name="Epistula I Ioannis 3:7" shortName="1 Io 3:7" orderIndex="6">Filioli, nemo vos seducat. Qui facit iustitiam, iustus est, sicut ille iustus est;</Verse>
+        <Verse osisId="1John.3.8" sblId="1John 3:8" name="Epistula I Ioannis 3:8" shortName="1 Io 3:8" orderIndex="7">qui facit peccatum, ex Diabolo est, quoniam a principio Diabolus peccat. Propter hoc apparuit Filius Dei, ut dissolvat opera Diaboli.</Verse>
+        <Verse osisId="1John.3.9" sblId="1John 3:9" name="Epistula I Ioannis 3:9" shortName="1 Io 3:9" orderIndex="8">Omnis, qui natus est ex Deo, peccatum non facit, quoniam semen ipsius in eo manet; et non potest peccare, quoniam ex Deo natus est.</Verse>
+        <Verse osisId="1John.3.10" sblId="1John 3:10" name="Epistula I Ioannis 3:10" shortName="1 Io 3:10" orderIndex="9">In hoc manifesti sunt filii Dei et filii Diaboli: omnis, qui non facit iustitiam, non est ex Deo, et qui non diligit fratrem suum.</Verse>
+        <Verse osisId="1John.3.11" sblId="1John 3:11" name="Epistula I Ioannis 3:11" shortName="1 Io 3:11" orderIndex="10">Quoniam haec est annuntiatio, quam audistis ab initio, ut diligamus alterutrum.</Verse>
+        <Verse osisId="1John.3.12" sblId="1John 3:12" name="Epistula I Ioannis 3:12" shortName="1 Io 3:12" orderIndex="11">Non sicut Cain: ex Maligno erat et occidit fratrem suum. Et propter quid occidit eum? Quoniam opera eius maligna erant, fratris autem eius iusta.</Verse>
+        <Verse osisId="1John.3.13" sblId="1John 3:13" name="Epistula I Ioannis 3:13" shortName="1 Io 3:13" orderIndex="12">Nolite mirari, fratres, si odit vos mundus.</Verse>
+        <Verse osisId="1John.3.14" sblId="1John 3:14" name="Epistula I Ioannis 3:14" shortName="1 Io 3:14" orderIndex="13">Nos scimus quoniam transivimus de morte in vitam, quoniam diligimus fratres; qui non diligit, manet in morte.</Verse>
+        <Verse osisId="1John.3.15" sblId="1John 3:15" name="Epistula I Ioannis 3:15" shortName="1 Io 3:15" orderIndex="14">Omnis, qui odit fratrem suum, homicida est, et scitis quoniam omnis homicida non habet vitam aeternam in semetipso manentem.</Verse>
+        <Verse osisId="1John.3.16" sblId="1John 3:16" name="Epistula I Ioannis 3:16" shortName="1 Io 3:16" orderIndex="15">In hoc novimus caritatem, quoniam ille pro nobis animam suam posuit; et nos debemus pro fratribus animas ponere.</Verse>
+        <Verse osisId="1John.3.17" sblId="1John 3:17" name="Epistula I Ioannis 3:17" shortName="1 Io 3:17" orderIndex="16">Qui habuerit substantiam mundi et viderit fratrem suum necesse habere et clauserit viscera sua ab eo, quomodo caritas Dei manet in eo?</Verse>
+        <Verse osisId="1John.3.18" sblId="1John 3:18" name="Epistula I Ioannis 3:18" shortName="1 Io 3:18" orderIndex="17">Filioli, non diligamus verbo nec lingua sed in opere et veritate.</Verse>
+        <Verse osisId="1John.3.19" sblId="1John 3:19" name="Epistula I Ioannis 3:19" shortName="1 Io 3:19" orderIndex="18">In hoc cognoscemus quoniam ex veritate sumus, et in conspectu eius placabimus corda nostra,</Verse>
+        <Verse osisId="1John.3.20" sblId="1John 3:20" name="Epistula I Ioannis 3:20" shortName="1 Io 3:20" orderIndex="19">quoniam si reprehenderit nos cor, maior est Deus corde nostro et cognoscit omnia.</Verse>
+        <Verse osisId="1John.3.21" sblId="1John 3:21" name="Epistula I Ioannis 3:21" shortName="1 Io 3:21" orderIndex="20">Carissimi, si cor nostrum non reprehenderit nos, fiduciam habemus ad Deum</Verse>
+        <Verse osisId="1John.3.22" sblId="1John 3:22" name="Epistula I Ioannis 3:22" shortName="1 Io 3:22" orderIndex="21">et, quodcumque petierimus, accipimus ab eo, quoniam mandata eius custodimus et ea, quae sunt placita coram eo, facimus.</Verse>
+        <Verse osisId="1John.3.23" sblId="1John 3:23" name="Epistula I Ioannis 3:23" shortName="1 Io 3:23" orderIndex="22">Et hoc est mandatum eius, ut credamus nomini Filii eius Iesu Christi et diligamus alterutrum, sicut dedit mandatum nobis.</Verse>
+        <Verse osisId="1John.3.24" sblId="1John 3:24" name="Epistula I Ioannis 3:24" shortName="1 Io 3:24" orderIndex="23">Et, qui servat mandata eius, in ipso manet, et ipse in eo; et in hoc cognoscimus quoniam manet in nobis, ex Spiritu, quem nobis dedit.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="1John.4" sblId="1John 4" name="Epistula I Ioannis 4" shortName="1 Io 4" orderIndex="3" versesCount="21">
+      <verses>
+        <Verse osisId="1John.4.1" sblId="1John 4:1" name="Epistula I Ioannis 4:1" shortName="1 Io 4:1" orderIndex="0">Carissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint, quoniam multi pseudoprophetae prodierunt in mundum.</Verse>
+        <Verse osisId="1John.4.2" sblId="1John 4:2" name="Epistula I Ioannis 4:2" shortName="1 Io 4:2" orderIndex="1">In hoc cognoscitis Spiritum Dei: omnis spiritus, qui confitetur Iesum Christum in carne venisse, ex Deo est.</Verse>
+        <Verse osisId="1John.4.3" sblId="1John 4:3" name="Epistula I Ioannis 4:3" shortName="1 Io 4:3" orderIndex="2">Et omnis spiritus, qui non confitetur Iesum, ex Deo non est; et hoc est antichristi, quod audistis quoniam venit, et nunc iam in mundo est.</Verse>
+        <Verse osisId="1John.4.4" sblId="1John 4:4" name="Epistula I Ioannis 4:4" shortName="1 Io 4:4" orderIndex="3">Vos ex Deo estis, filioli, et vicistis eos, quoniam maior est, qui in vobis est, quam qui in mundo.</Verse>
+        <Verse osisId="1John.4.5" sblId="1John 4:5" name="Epistula I Ioannis 4:5" shortName="1 Io 4:5" orderIndex="4">Ipsi ex mundo sunt; ideo ex mundo loquuntur, et mundus eos audit.</Verse>
+        <Verse osisId="1John.4.6" sblId="1John 4:6" name="Epistula I Ioannis 4:6" shortName="1 Io 4:6" orderIndex="5">Nos ex Deo sumus. Qui cognoscit Deum, audit nos; qui non est ex Deo, non audit nos. Ex hoc cognoscimus Spiritum veritatis et spiritum erroris.</Verse>
+        <Verse osisId="1John.4.7" sblId="1John 4:7" name="Epistula I Ioannis 4:7" shortName="1 Io 4:7" orderIndex="6">Carissimi, diligamus invicem, quoniam caritas ex Deo est; et omnis, qui diligit, ex Deo natus est et cognoscit Deum.</Verse>
+        <Verse osisId="1John.4.8" sblId="1John 4:8" name="Epistula I Ioannis 4:8" shortName="1 Io 4:8" orderIndex="7">Qui non diligit, non cognovit Deum, quoniam Deus caritas est.</Verse>
+        <Verse osisId="1John.4.9" sblId="1John 4:9" name="Epistula I Ioannis 4:9" shortName="1 Io 4:9" orderIndex="8">In hoc apparuit caritas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum.</Verse>
+        <Verse osisId="1John.4.10" sblId="1John 4:10" name="Epistula I Ioannis 4:10" shortName="1 Io 4:10" orderIndex="9">In hoc est caritas, non quasi nos dilexerimus Deum, sed quoniam ipse dilexit nos et misit Filium suum propitiationem pro peccatis nostris.</Verse>
+        <Verse osisId="1John.4.11" sblId="1John 4:11" name="Epistula I Ioannis 4:11" shortName="1 Io 4:11" orderIndex="10">Carissimi, si sic Deus dilexit nos, et nos debemus alterutrum diligere.</Verse>
+        <Verse osisId="1John.4.12" sblId="1John 4:12" name="Epistula I Ioannis 4:12" shortName="1 Io 4:12" orderIndex="11">Deum nemo vidit umquam; si diligamus invicem, Deus in nobis manet, et caritas eius in nobis consummata est.</Verse>
+        <Verse osisId="1John.4.13" sblId="1John 4:13" name="Epistula I Ioannis 4:13" shortName="1 Io 4:13" orderIndex="12">In hoc cognoscimus quoniam in ipso manemus, et ipse in nobis, quoniam de Spiritu suo dedit nobis.</Verse>
+        <Verse osisId="1John.4.14" sblId="1John 4:14" name="Epistula I Ioannis 4:14" shortName="1 Io 4:14" orderIndex="13">Et nos vidimus et testificamur quoniam Pater misit Filium salvatorem mundi.</Verse>
+        <Verse osisId="1John.4.15" sblId="1John 4:15" name="Epistula I Ioannis 4:15" shortName="1 Io 4:15" orderIndex="14">Quisque confessus fuerit: " Iesus est Filius Dei ", Deus in ipso manet, et ipse in Deo.</Verse>
+        <Verse osisId="1John.4.16" sblId="1John 4:16" name="Epistula I Ioannis 4:16" shortName="1 Io 4:16" orderIndex="15">Et nos, qui credidimus, novimus caritatem, quam habet Deus in nobis. Deus caritas est; et, qui manet in caritate, in Deo manet, et Deus in eo manet.</Verse>
+        <Verse osisId="1John.4.17" sblId="1John 4:17" name="Epistula I Ioannis 4:17" shortName="1 Io 4:17" orderIndex="16">In hoc consummata est caritas nobiscum, ut fiduciam habeamus in die iudicii; quia sicut ille est, et nos sumus in hoc mundo.</Verse>
+        <Verse osisId="1John.4.18" sblId="1John 4:18" name="Epistula I Ioannis 4:18" shortName="1 Io 4:18" orderIndex="17">Timor non est in caritate, sed perfecta caritas foras mittit timorem, quoniam timor poenam habet; qui autem timet, non est consummatus in caritate.</Verse>
+        <Verse osisId="1John.4.19" sblId="1John 4:19" name="Epistula I Ioannis 4:19" shortName="1 Io 4:19" orderIndex="18">Nos diligimus, quoniam ipse prior dilexit nos.</Verse>
+        <Verse osisId="1John.4.20" sblId="1John 4:20" name="Epistula I Ioannis 4:20" shortName="1 Io 4:20" orderIndex="19">Si quis dixerit: " Diligo Deum ", et fratrem suum oderit, mendax est; qui enim non diligit fratrem suum, quem videt, Deum, quem non videt, non potest diligere.</Verse>
+        <Verse osisId="1John.4.21" sblId="1John 4:21" name="Epistula I Ioannis 4:21" shortName="1 Io 4:21" orderIndex="20">Et hoc mandatum habemus ab eo, ut, qui diligit Deum, diligat et fratrem suum.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="1John.5" sblId="1John 5" name="Epistula I Ioannis 5" shortName="1 Io 5" orderIndex="4" versesCount="21">
+      <verses>
+        <Verse osisId="1John.5.1" sblId="1John 5:1" name="Epistula I Ioannis 5:1" shortName="1 Io 5:1" orderIndex="0">Omnis, qui credit quoniam Iesus est Christus, ex Deo natus est; et omnis, qui diligit Deum, qui genuit, diligit et eum, qui natus est ex eo.</Verse>
+        <Verse osisId="1John.5.2" sblId="1John 5:2" name="Epistula I Ioannis 5:2" shortName="1 Io 5:2" orderIndex="1">In hoc cognoscimus quoniam diligimus natos Dei, cum Deum diligamus et mandata eius faciamus.</Verse>
+        <Verse osisId="1John.5.3" sblId="1John 5:3" name="Epistula I Ioannis 5:3" shortName="1 Io 5:3" orderIndex="2">Haec est enim caritas Dei, ut mandata eius servemus; et mandata eius gravia non sunt,</Verse>
+        <Verse osisId="1John.5.4" sblId="1John 5:4" name="Epistula I Ioannis 5:4" shortName="1 Io 5:4" orderIndex="3">quoniam omne, quod natum est ex Deo, vincit mundum; et haec est victoria, quae vicit mundum: fides nostra.</Verse>
+        <Verse osisId="1John.5.5" sblId="1John 5:5" name="Epistula I Ioannis 5:5" shortName="1 Io 5:5" orderIndex="4">Quis est qui vincit mundum, nisi qui credit quoniam Iesus est Filius Dei?</Verse>
+        <Verse osisId="1John.5.6" sblId="1John 5:6" name="Epistula I Ioannis 5:6" shortName="1 Io 5:6" orderIndex="5">Hic est, qui venit per aquam et sanguinem, Iesus Christus; non in aqua solum sed in aqua et in sanguine. Et Spiritus est, qui testificatur, quoniam Spiritus est veritas.</Verse>
+        <Verse osisId="1John.5.7" sblId="1John 5:7" name="Epistula I Ioannis 5:7" shortName="1 Io 5:7" orderIndex="6">Quia tres sunt, qui testificantur:</Verse>
+        <Verse osisId="1John.5.8" sblId="1John 5:8" name="Epistula I Ioannis 5:8" shortName="1 Io 5:8" orderIndex="7">Spiritus et aqua et sanguis; et hi tres in unum sunt.</Verse>
+        <Verse osisId="1John.5.9" sblId="1John 5:9" name="Epistula I Ioannis 5:9" shortName="1 Io 5:9" orderIndex="8">Si testimonium hominum accipimus, testimonium Dei maius est, quoniam hoc est testimonium Dei, quia testificatus est de Filio suo.</Verse>
+        <Verse osisId="1John.5.10" sblId="1John 5:10" name="Epistula I Ioannis 5:10" shortName="1 Io 5:10" orderIndex="9">Qui credit in Filium Dei, habet testimonium in se. Qui non credit Deo, mendacem facit eum, quoniam non credidit in testimonium, quod testificatus est Deus de Filio suo.</Verse>
+        <Verse osisId="1John.5.11" sblId="1John 5:11" name="Epistula I Ioannis 5:11" shortName="1 Io 5:11" orderIndex="10">Et hoc est testimonium, quoniam vitam aeternam dedit nobis Deus, et haec vita in Filio eius est.</Verse>
+        <Verse osisId="1John.5.12" sblId="1John 5:12" name="Epistula I Ioannis 5:12" shortName="1 Io 5:12" orderIndex="11">Qui habet Filium, habet vitam; qui non habet Filium Dei, vitam non habet.</Verse>
+        <Verse osisId="1John.5.13" sblId="1John 5:13" name="Epistula I Ioannis 5:13" shortName="1 Io 5:13" orderIndex="12">Haec scripsi vobis, ut sciatis quoniam vitam habetis aeternam, qui creditis in nomen Filii Dei.</Verse>
+        <Verse osisId="1John.5.14" sblId="1John 5:14" name="Epistula I Ioannis 5:14" shortName="1 Io 5:14" orderIndex="13">Et haec est fiducia, quam habemus ad eum, quia si quid petierimus secundum voluntatem eius, audit nos.</Verse>
+        <Verse osisId="1John.5.15" sblId="1John 5:15" name="Epistula I Ioannis 5:15" shortName="1 Io 5:15" orderIndex="14">Et si scimus quoniam audit nos, quidquid petierimus, scimus quoniam habemus petitiones, quas postulavimus ab eo.</Verse>
+        <Verse osisId="1John.5.16" sblId="1John 5:16" name="Epistula I Ioannis 5:16" shortName="1 Io 5:16" orderIndex="15">Si quis videt fratrem suum peccare peccatum non ad mortem, petet, et dabit ei Deus vitam, peccantibus non ad mortem. Est peccatum ad mortem; non pro illo dico, ut roget.</Verse>
+        <Verse osisId="1John.5.17" sblId="1John 5:17" name="Epistula I Ioannis 5:17" shortName="1 Io 5:17" orderIndex="16">Omnis iniustitia peccatum est, et est peccatum non ad mortem.</Verse>
+        <Verse osisId="1John.5.18" sblId="1John 5:18" name="Epistula I Ioannis 5:18" shortName="1 Io 5:18" orderIndex="17">Scimus quoniam omnis, qui natus est ex Deo, non peccat, sed ille, qui genitus est ex Deo, conservat eum, et Malignus non tangit eum.</Verse>
+        <Verse osisId="1John.5.19" sblId="1John 5:19" name="Epistula I Ioannis 5:19" shortName="1 Io 5:19" orderIndex="18">Scimus quoniam ex Deo sumus, et mundus totus in Maligno positus est.</Verse>
+        <Verse osisId="1John.5.20" sblId="1John 5:20" name="Epistula I Ioannis 5:20" shortName="1 Io 5:20" orderIndex="19">Et scimus quoniam Filius Dei venit et dedit nobis sensum, ut cognoscamus eum, qui verus est; et sumus in eo, qui verus est, in Filio eius Iesu Christo. Hic est qui verus est, Deus et vita aeterna.</Verse>
+        <Verse osisId="1John.5.21" sblId="1John 5:21" name="Epistula I Ioannis 5:21" shortName="1 Io 5:21" orderIndex="20">Filioli, custodite vos a simulacris!</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

@@ -1,0 +1,2351 @@
+{
+  "osisId": "Ezra",
+  "sblId": "Ezra",
+  "name": "Esdrae",
+  "shortName": "Esd",
+  "orderIndex": 14,
+  "chaptersCount": 10,
+  "versesCount": 280,
+  "chapters": [
+    {
+      "osisId": "Ezra.1",
+      "sblId": "Ezra 1",
+      "name": "Esdrae 1",
+      "shortName": "Esd 1",
+      "orderIndex": 0,
+      "versesCount": 11,
+      "verses": [
+        {
+          "osisId": "Ezra.1.1",
+          "sblId": "Ezra 1:1",
+          "name": "Esdrae 1:1",
+          "shortName": "Esd 1:1",
+          "text": "in anno primo Cyri regis Persarum ut conpleretur verbum Domini ex ore Hieremiae suscitavit Dominus spiritum Cyri regis Persarum et transduxit vocem in universo regno suo etiam per scripturam dicens",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.1.2",
+          "sblId": "Ezra 1:2",
+          "name": "Esdrae 1:2",
+          "shortName": "Esd 1:2",
+          "text": "haec dicit Cyrus rex Persarum omnia regna terrae dedit mihi Dominus Deus caeli et ipse praecepit mihi ut aedificarem ei domum in Hierusalem quae est in Iudaea",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.1.3",
+          "sblId": "Ezra 1:3",
+          "name": "Esdrae 1:3",
+          "shortName": "Esd 1:3",
+          "text": "quis est in vobis de universo populo eius sit Deus illius cum ipso ascendat Hierusalem quae est in Iudaea et aedificet domum Domini Dei Israhel ipse est Deus qui est in Hierusalem",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.1.4",
+          "sblId": "Ezra 1:4",
+          "name": "Esdrae 1:4",
+          "shortName": "Esd 1:4",
+          "text": "et omnes reliqui in cunctis locis ubicumque habitant adiuvent eum viri de loco suo argento et auro et substantia et pecoribus excepto quod voluntarie offerunt templo Dei quod est in Hierusalem",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.1.5",
+          "sblId": "Ezra 1:5",
+          "name": "Esdrae 1:5",
+          "shortName": "Esd 1:5",
+          "text": "et surrexerunt principes patrum de Iuda et Beniamin et sacerdotes et Levitae omnis cuius suscitavit Deus spiritum ut ascenderent ad aedificandum templum Domini quod erat in Hierusalem",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.1.6",
+          "sblId": "Ezra 1:6",
+          "name": "Esdrae 1:6",
+          "shortName": "Esd 1:6",
+          "text": "universique qui erant in circuitu adiuverunt manus eorum in vasis argenteis et aureis in substantia in iumentis in supellectili exceptis his quae sponte obtulerunt",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.1.7",
+          "sblId": "Ezra 1:7",
+          "name": "Esdrae 1:7",
+          "shortName": "Esd 1:7",
+          "text": "rex quoque Cyrus protulit vasa templi Domini quae tulerat Nabuchodonosor de Hierusalem et posuerat ea in templo dei sui",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.1.8",
+          "sblId": "Ezra 1:8",
+          "name": "Esdrae 1:8",
+          "shortName": "Esd 1:8",
+          "text": "protulit autem ea Cyrus rex Persarum per manum Mitridatis filii Gazabar et adnumeravit ea Sasabassar principi Iudae",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.1.9",
+          "sblId": "Ezra 1:9",
+          "name": "Esdrae 1:9",
+          "shortName": "Esd 1:9",
+          "text": "et hic est numerus eorum fialae aureae triginta fialae argenteae mille cultri viginti novem scyphi aurei triginta",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.1.10",
+          "sblId": "Ezra 1:10",
+          "name": "Esdrae 1:10",
+          "shortName": "Esd 1:10",
+          "text": "scyphi argentei secundi quadringenti decem vasa alia mille",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.1.11",
+          "sblId": "Ezra 1:11",
+          "name": "Esdrae 1:11",
+          "shortName": "Esd 1:11",
+          "text": "omnia vasa aurea et argentea quinque milia quadringenta universa tulit Sasabassar cum his qui ascendebant de transmigratione Babylonis in Hierusalem",
+          "orderIndex": 10
+        }
+      ]
+    },
+    {
+      "osisId": "Ezra.2",
+      "sblId": "Ezra 2",
+      "name": "Esdrae 2",
+      "shortName": "Esd 2",
+      "orderIndex": 1,
+      "versesCount": 70,
+      "verses": [
+        {
+          "osisId": "Ezra.2.1",
+          "sblId": "Ezra 2:1",
+          "name": "Esdrae 2:1",
+          "shortName": "Esd 2:1",
+          "text": "hii sunt autem filii provinciae qui ascenderunt de captivitate quam transtulerat Nabuchodonosor rex Babylonis in Babylonem et reversi sunt in Hierusalem et Iudam unusquisque in civitatem suam",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.2.2",
+          "sblId": "Ezra 2:2",
+          "name": "Esdrae 2:2",
+          "shortName": "Esd 2:2",
+          "text": "qui venerunt cum Zorobabel Hiesua Neemia Saraia Rahelaia Mardochai Belsan Mesphar Beguai Reum Baana numerus virorum populi Israhel",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.2.3",
+          "sblId": "Ezra 2:3",
+          "name": "Esdrae 2:3",
+          "shortName": "Esd 2:3",
+          "text": "filii Pharos duo milia centum septuaginta duo",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.2.4",
+          "sblId": "Ezra 2:4",
+          "name": "Esdrae 2:4",
+          "shortName": "Esd 2:4",
+          "text": "filii Sephetia trecenti septuaginta duo",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.2.5",
+          "sblId": "Ezra 2:5",
+          "name": "Esdrae 2:5",
+          "shortName": "Esd 2:5",
+          "text": "filii Area septingenti septuaginta quinque",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.2.6",
+          "sblId": "Ezra 2:6",
+          "name": "Esdrae 2:6",
+          "shortName": "Esd 2:6",
+          "text": "filii Phaethmoab filiorum Iosue Ioab duo milia octingenti duodecim",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.2.7",
+          "sblId": "Ezra 2:7",
+          "name": "Esdrae 2:7",
+          "shortName": "Esd 2:7",
+          "text": "filii Helam mille ducenti quinquaginta quattuor",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.2.8",
+          "sblId": "Ezra 2:8",
+          "name": "Esdrae 2:8",
+          "shortName": "Esd 2:8",
+          "text": "filii Zeththua nongenti quadraginta quinque",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.2.9",
+          "sblId": "Ezra 2:9",
+          "name": "Esdrae 2:9",
+          "shortName": "Esd 2:9",
+          "text": "filii Zacchai septingenti sexaginta",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.2.10",
+          "sblId": "Ezra 2:10",
+          "name": "Esdrae 2:10",
+          "shortName": "Esd 2:10",
+          "text": "filii Bani sescenti quadraginta duo",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.2.11",
+          "sblId": "Ezra 2:11",
+          "name": "Esdrae 2:11",
+          "shortName": "Esd 2:11",
+          "text": "filii Bebai sescenti viginti tres",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Ezra.2.12",
+          "sblId": "Ezra 2:12",
+          "name": "Esdrae 2:12",
+          "shortName": "Esd 2:12",
+          "text": "filii Azgad mille ducenti viginti duo",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Ezra.2.13",
+          "sblId": "Ezra 2:13",
+          "name": "Esdrae 2:13",
+          "shortName": "Esd 2:13",
+          "text": "filii Adonicam sescenti sexaginta sex",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Ezra.2.14",
+          "sblId": "Ezra 2:14",
+          "name": "Esdrae 2:14",
+          "shortName": "Esd 2:14",
+          "text": "filii Beguai duo milia quinquaginta sex",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Ezra.2.15",
+          "sblId": "Ezra 2:15",
+          "name": "Esdrae 2:15",
+          "shortName": "Esd 2:15",
+          "text": "filii Adin quadringenti quinquaginta quattuor",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Ezra.2.16",
+          "sblId": "Ezra 2:16",
+          "name": "Esdrae 2:16",
+          "shortName": "Esd 2:16",
+          "text": "filii Ater qui erant ex Hiezechia nonaginta octo",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Ezra.2.17",
+          "sblId": "Ezra 2:17",
+          "name": "Esdrae 2:17",
+          "shortName": "Esd 2:17",
+          "text": "filii Besai trecenti viginti tres",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Ezra.2.18",
+          "sblId": "Ezra 2:18",
+          "name": "Esdrae 2:18",
+          "shortName": "Esd 2:18",
+          "text": "filii Iora centum duodecim",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Ezra.2.19",
+          "sblId": "Ezra 2:19",
+          "name": "Esdrae 2:19",
+          "shortName": "Esd 2:19",
+          "text": "filii Asom ducenti viginti tres",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Ezra.2.20",
+          "sblId": "Ezra 2:20",
+          "name": "Esdrae 2:20",
+          "shortName": "Esd 2:20",
+          "text": "filii Gebbar nonaginta quinque",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Ezra.2.21",
+          "sblId": "Ezra 2:21",
+          "name": "Esdrae 2:21",
+          "shortName": "Esd 2:21",
+          "text": "filii Bethleem centum viginti tres",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Ezra.2.22",
+          "sblId": "Ezra 2:22",
+          "name": "Esdrae 2:22",
+          "shortName": "Esd 2:22",
+          "text": "viri Netupha quinquaginta sex",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Ezra.2.23",
+          "sblId": "Ezra 2:23",
+          "name": "Esdrae 2:23",
+          "shortName": "Esd 2:23",
+          "text": "viri Anathoth centum viginti octo",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Ezra.2.24",
+          "sblId": "Ezra 2:24",
+          "name": "Esdrae 2:24",
+          "shortName": "Esd 2:24",
+          "text": "filii Azmaveth quadraginta duo",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Ezra.2.25",
+          "sblId": "Ezra 2:25",
+          "name": "Esdrae 2:25",
+          "shortName": "Esd 2:25",
+          "text": "filii Cariathiarim Caephira et Beroth septingenti quadraginta tres",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Ezra.2.26",
+          "sblId": "Ezra 2:26",
+          "name": "Esdrae 2:26",
+          "shortName": "Esd 2:26",
+          "text": "filii Arama et Gaba sescenti viginti unus",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Ezra.2.27",
+          "sblId": "Ezra 2:27",
+          "name": "Esdrae 2:27",
+          "shortName": "Esd 2:27",
+          "text": "viri Machmas centum viginti duo",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Ezra.2.28",
+          "sblId": "Ezra 2:28",
+          "name": "Esdrae 2:28",
+          "shortName": "Esd 2:28",
+          "text": "viri Bethel et Gai ducenti viginti tres",
+          "orderIndex": 27
+        },
+        {
+          "osisId": "Ezra.2.29",
+          "sblId": "Ezra 2:29",
+          "name": "Esdrae 2:29",
+          "shortName": "Esd 2:29",
+          "text": "filii Nebo quinquaginta duo",
+          "orderIndex": 28
+        },
+        {
+          "osisId": "Ezra.2.30",
+          "sblId": "Ezra 2:30",
+          "name": "Esdrae 2:30",
+          "shortName": "Esd 2:30",
+          "text": "filii Megbis centum quinquaginta sex",
+          "orderIndex": 29
+        },
+        {
+          "osisId": "Ezra.2.31",
+          "sblId": "Ezra 2:31",
+          "name": "Esdrae 2:31",
+          "shortName": "Esd 2:31",
+          "text": "filii Helam alterius mille ducenti quinquaginta quattuor",
+          "orderIndex": 30
+        },
+        {
+          "osisId": "Ezra.2.32",
+          "sblId": "Ezra 2:32",
+          "name": "Esdrae 2:32",
+          "shortName": "Esd 2:32",
+          "text": "filii Arim trecenti viginti",
+          "orderIndex": 31
+        },
+        {
+          "osisId": "Ezra.2.33",
+          "sblId": "Ezra 2:33",
+          "name": "Esdrae 2:33",
+          "shortName": "Esd 2:33",
+          "text": "filii Lod Adid et Ono septingenti viginti quinque",
+          "orderIndex": 32
+        },
+        {
+          "osisId": "Ezra.2.34",
+          "sblId": "Ezra 2:34",
+          "name": "Esdrae 2:34",
+          "shortName": "Esd 2:34",
+          "text": "filii Hiericho trecenti quadraginta quinque",
+          "orderIndex": 33
+        },
+        {
+          "osisId": "Ezra.2.35",
+          "sblId": "Ezra 2:35",
+          "name": "Esdrae 2:35",
+          "shortName": "Esd 2:35",
+          "text": "filii Sennaa tria milia sescenti triginta",
+          "orderIndex": 34
+        },
+        {
+          "osisId": "Ezra.2.36",
+          "sblId": "Ezra 2:36",
+          "name": "Esdrae 2:36",
+          "shortName": "Esd 2:36",
+          "text": "sacerdotes filii Idaia in domo Hiesue nongenti septuaginta tres",
+          "orderIndex": 35
+        },
+        {
+          "osisId": "Ezra.2.37",
+          "sblId": "Ezra 2:37",
+          "name": "Esdrae 2:37",
+          "shortName": "Esd 2:37",
+          "text": "filii Emmer mille quinquaginta duo",
+          "orderIndex": 36
+        },
+        {
+          "osisId": "Ezra.2.38",
+          "sblId": "Ezra 2:38",
+          "name": "Esdrae 2:38",
+          "shortName": "Esd 2:38",
+          "text": "filii Phessur mille ducenti quadraginta septem",
+          "orderIndex": 37
+        },
+        {
+          "osisId": "Ezra.2.39",
+          "sblId": "Ezra 2:39",
+          "name": "Esdrae 2:39",
+          "shortName": "Esd 2:39",
+          "text": "filii Arim mille decem et septem",
+          "orderIndex": 38
+        },
+        {
+          "osisId": "Ezra.2.40",
+          "sblId": "Ezra 2:40",
+          "name": "Esdrae 2:40",
+          "shortName": "Esd 2:40",
+          "text": "Levitae filii Hiesue et Cedmihel filiorum Odevia septuaginta quattuor",
+          "orderIndex": 39
+        },
+        {
+          "osisId": "Ezra.2.41",
+          "sblId": "Ezra 2:41",
+          "name": "Esdrae 2:41",
+          "shortName": "Esd 2:41",
+          "text": "cantores filii Asaph centum viginti octo",
+          "orderIndex": 40
+        },
+        {
+          "osisId": "Ezra.2.42",
+          "sblId": "Ezra 2:42",
+          "name": "Esdrae 2:42",
+          "shortName": "Esd 2:42",
+          "text": "filii ianitorum filii Sellum filii Ater filii Telmon filii Accub filii Atita filii Sobai universi centum triginta novem",
+          "orderIndex": 41
+        },
+        {
+          "osisId": "Ezra.2.43",
+          "sblId": "Ezra 2:43",
+          "name": "Esdrae 2:43",
+          "shortName": "Esd 2:43",
+          "text": "Nathinnei filii Sia filii Asupha filii Tebbaoth",
+          "orderIndex": 42
+        },
+        {
+          "osisId": "Ezra.2.44",
+          "sblId": "Ezra 2:44",
+          "name": "Esdrae 2:44",
+          "shortName": "Esd 2:44",
+          "text": "filii Ceros filii Siaa filii Phadon",
+          "orderIndex": 43
+        },
+        {
+          "osisId": "Ezra.2.45",
+          "sblId": "Ezra 2:45",
+          "name": "Esdrae 2:45",
+          "shortName": "Esd 2:45",
+          "text": "filii Levana filii Agaba filii Accub",
+          "orderIndex": 44
+        },
+        {
+          "osisId": "Ezra.2.46",
+          "sblId": "Ezra 2:46",
+          "name": "Esdrae 2:46",
+          "shortName": "Esd 2:46",
+          "text": "filii Agab filii Selmai filii Anan",
+          "orderIndex": 45
+        },
+        {
+          "osisId": "Ezra.2.47",
+          "sblId": "Ezra 2:47",
+          "name": "Esdrae 2:47",
+          "shortName": "Esd 2:47",
+          "text": "filii Gaddel filii Gaer filii Rahaia",
+          "orderIndex": 46
+        },
+        {
+          "osisId": "Ezra.2.48",
+          "sblId": "Ezra 2:48",
+          "name": "Esdrae 2:48",
+          "shortName": "Esd 2:48",
+          "text": "filii Rasin filii Nechoda filii Gazem",
+          "orderIndex": 47
+        },
+        {
+          "osisId": "Ezra.2.49",
+          "sblId": "Ezra 2:49",
+          "name": "Esdrae 2:49",
+          "shortName": "Esd 2:49",
+          "text": "filii Aza filii Phasea filii Besee",
+          "orderIndex": 48
+        },
+        {
+          "osisId": "Ezra.2.50",
+          "sblId": "Ezra 2:50",
+          "name": "Esdrae 2:50",
+          "shortName": "Esd 2:50",
+          "text": "filii Asenaa filii Munim filii Nephusim",
+          "orderIndex": 49
+        },
+        {
+          "osisId": "Ezra.2.51",
+          "sblId": "Ezra 2:51",
+          "name": "Esdrae 2:51",
+          "shortName": "Esd 2:51",
+          "text": "filii Becbuc filii Acupha filii Arur",
+          "orderIndex": 50
+        },
+        {
+          "osisId": "Ezra.2.52",
+          "sblId": "Ezra 2:52",
+          "name": "Esdrae 2:52",
+          "shortName": "Esd 2:52",
+          "text": "filii Besluth filii Maida filii Arsa",
+          "orderIndex": 51
+        },
+        {
+          "osisId": "Ezra.2.53",
+          "sblId": "Ezra 2:53",
+          "name": "Esdrae 2:53",
+          "shortName": "Esd 2:53",
+          "text": "filii Bercos filii Sisara filii Thema",
+          "orderIndex": 52
+        },
+        {
+          "osisId": "Ezra.2.54",
+          "sblId": "Ezra 2:54",
+          "name": "Esdrae 2:54",
+          "shortName": "Esd 2:54",
+          "text": "filii Nasia filii Atupha",
+          "orderIndex": 53
+        },
+        {
+          "osisId": "Ezra.2.55",
+          "sblId": "Ezra 2:55",
+          "name": "Esdrae 2:55",
+          "shortName": "Esd 2:55",
+          "text": "filii servorum Salomonis filii Sotei filii Suphereth filii Pharuda",
+          "orderIndex": 54
+        },
+        {
+          "osisId": "Ezra.2.56",
+          "sblId": "Ezra 2:56",
+          "name": "Esdrae 2:56",
+          "shortName": "Esd 2:56",
+          "text": "filii Iala filii Dercon filii Gedel",
+          "orderIndex": 55
+        },
+        {
+          "osisId": "Ezra.2.57",
+          "sblId": "Ezra 2:57",
+          "name": "Esdrae 2:57",
+          "shortName": "Esd 2:57",
+          "text": "filii Saphatia filii Athil filii Phocereth qui erant de Asebaim filii Ammi",
+          "orderIndex": 56
+        },
+        {
+          "osisId": "Ezra.2.58",
+          "sblId": "Ezra 2:58",
+          "name": "Esdrae 2:58",
+          "shortName": "Esd 2:58",
+          "text": "omnes Nathinnei et filii servorum Salomonis trecenti nonaginta duo",
+          "orderIndex": 57
+        },
+        {
+          "osisId": "Ezra.2.59",
+          "sblId": "Ezra 2:59",
+          "name": "Esdrae 2:59",
+          "shortName": "Esd 2:59",
+          "text": "et hii qui ascenderunt de Thelmela Thelarsa Cherub et Don et Mer et non potuerunt indicare domum patrum suorum et semen suum utrum ex Israhel essent",
+          "orderIndex": 58
+        },
+        {
+          "osisId": "Ezra.2.60",
+          "sblId": "Ezra 2:60",
+          "name": "Esdrae 2:60",
+          "shortName": "Esd 2:60",
+          "text": "filii Delaia filii Tobia filii Necoda sescenti quinquaginta duo",
+          "orderIndex": 59
+        },
+        {
+          "osisId": "Ezra.2.61",
+          "sblId": "Ezra 2:61",
+          "name": "Esdrae 2:61",
+          "shortName": "Esd 2:61",
+          "text": "et de filiis sacerdotum filii Obia filii Accos filii Berzellai qui accepit de filiabus Berzellai Galaditis uxorem et vocatus est nomine eorum",
+          "orderIndex": 60
+        },
+        {
+          "osisId": "Ezra.2.62",
+          "sblId": "Ezra 2:62",
+          "name": "Esdrae 2:62",
+          "shortName": "Esd 2:62",
+          "text": "hii quaesierunt scripturam genealogiae suae et non invenerunt et eiecti sunt de sacerdotio",
+          "orderIndex": 61
+        },
+        {
+          "osisId": "Ezra.2.63",
+          "sblId": "Ezra 2:63",
+          "name": "Esdrae 2:63",
+          "shortName": "Esd 2:63",
+          "text": "et dixit Athersatha eis ut non comederent de sancto sanctorum donec surgeret sacerdos doctus atque perfectus",
+          "orderIndex": 62
+        },
+        {
+          "osisId": "Ezra.2.64",
+          "sblId": "Ezra 2:64",
+          "name": "Esdrae 2:64",
+          "shortName": "Esd 2:64",
+          "text": "omnis multitudo quasi unus quadraginta duo milia trecenti sexaginta",
+          "orderIndex": 63
+        },
+        {
+          "osisId": "Ezra.2.65",
+          "sblId": "Ezra 2:65",
+          "name": "Esdrae 2:65",
+          "shortName": "Esd 2:65",
+          "text": "exceptis servis eorum et ancillis qui erant septem milia trecenti triginta septem et in ipsis cantores atque cantrices ducentae",
+          "orderIndex": 64
+        },
+        {
+          "osisId": "Ezra.2.66",
+          "sblId": "Ezra 2:66",
+          "name": "Esdrae 2:66",
+          "shortName": "Esd 2:66",
+          "text": "equi eorum septingenti triginta sex muli eorum ducenti quadraginta quinque",
+          "orderIndex": 65
+        },
+        {
+          "osisId": "Ezra.2.67",
+          "sblId": "Ezra 2:67",
+          "name": "Esdrae 2:67",
+          "shortName": "Esd 2:67",
+          "text": "cameli eorum quadringenti triginta quinque asini eorum sex milia septingenti viginti",
+          "orderIndex": 66
+        },
+        {
+          "osisId": "Ezra.2.68",
+          "sblId": "Ezra 2:68",
+          "name": "Esdrae 2:68",
+          "shortName": "Esd 2:68",
+          "text": "et de principibus patrum cum ingrederentur templum Domini quod est in Hierusalem sponte obtulerunt in domum Dei ad extruendam eam in loco suo",
+          "orderIndex": 67
+        },
+        {
+          "osisId": "Ezra.2.69",
+          "sblId": "Ezra 2:69",
+          "name": "Esdrae 2:69",
+          "shortName": "Esd 2:69",
+          "text": "secundum vires suas dederunt in inpensas operis auri solidos sexaginta milia et mille argenti minas quinque milia et vestes sacerdotales centum",
+          "orderIndex": 68
+        },
+        {
+          "osisId": "Ezra.2.70",
+          "sblId": "Ezra 2:70",
+          "name": "Esdrae 2:70",
+          "shortName": "Esd 2:70",
+          "text": "habitaverunt ergo sacerdotes et Levitae et de populo et cantores et ianitores et Nathinnei in urbibus suis universusque Israhel in civitatibus suis",
+          "orderIndex": 69
+        }
+      ]
+    },
+    {
+      "osisId": "Ezra.3",
+      "sblId": "Ezra 3",
+      "name": "Esdrae 3",
+      "shortName": "Esd 3",
+      "orderIndex": 2,
+      "versesCount": 13,
+      "verses": [
+        {
+          "osisId": "Ezra.3.1",
+          "sblId": "Ezra 3:1",
+          "name": "Esdrae 3:1",
+          "shortName": "Esd 3:1",
+          "text": "iamque venerat mensis septimus et erant filii Israhel in civitatibus suis congregatus est ergo populus quasi vir unus in Hierusalem",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.3.2",
+          "sblId": "Ezra 3:2",
+          "name": "Esdrae 3:2",
+          "shortName": "Esd 3:2",
+          "text": "et surrexit Iosue filius Iosedech et fratres eius sacerdotes et Zorobabel filius Salathihel et fratres eius et aedificaverunt altare Dei Israhel ut offerrent in eo holocaustomata sicut scriptum est in lege Mosi viri Dei",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.3.3",
+          "sblId": "Ezra 3:3",
+          "name": "Esdrae 3:3",
+          "shortName": "Esd 3:3",
+          "text": "conlocaverunt autem altare super bases suas deterrentibus eos per circuitum populis terrarum et obtulerunt super illud holocaustum Domino mane et vespere",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.3.4",
+          "sblId": "Ezra 3:4",
+          "name": "Esdrae 3:4",
+          "shortName": "Esd 3:4",
+          "text": "feceruntque sollemnitatem tabernaculorum sicut scriptum est et holocaustum diebus singulis per ordinem secundum praeceptum opus diei in die suo",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.3.5",
+          "sblId": "Ezra 3:5",
+          "name": "Esdrae 3:5",
+          "shortName": "Esd 3:5",
+          "text": "et post haec holocaustum iuge tam in kalendis quam in universis sollemnitatibus Domini quae erant consecratae et in omnibus in quibus ultro offerebatur munus Deo",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.3.6",
+          "sblId": "Ezra 3:6",
+          "name": "Esdrae 3:6",
+          "shortName": "Esd 3:6",
+          "text": "a primo die mensis septimi coeperunt offerre holocaustum Domino porro templum Dei fundatum necdum erat",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.3.7",
+          "sblId": "Ezra 3:7",
+          "name": "Esdrae 3:7",
+          "shortName": "Esd 3:7",
+          "text": "dederunt autem pecunias latomis et cementariis cibum quoque et potum et oleum Sidoniis Tyriisque ut deferrent ligna cedrina de Libano ad mare Ioppes iuxta quod praeceperat Cyrus rex Persarum eis",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.3.8",
+          "sblId": "Ezra 3:8",
+          "name": "Esdrae 3:8",
+          "shortName": "Esd 3:8",
+          "text": "anno autem secundo adventus eorum ad templum Dei in Hierusalem mense secundo coeperunt Zorobabel filius Salathihel et Iosue filius Iosedech et reliqui de fratribus eorum sacerdotes et Levitae et omnes qui venerant de captivitate in Hierusalem et constituerunt Levitas a viginti annis et supra ut urguerent opus Domini",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.3.9",
+          "sblId": "Ezra 3:9",
+          "name": "Esdrae 3:9",
+          "shortName": "Esd 3:9",
+          "text": "stetitque Iosue filii eius et fratres eius Cedmihel et filii eius et filii Iuda quasi unus ut instarent super eos qui faciebant opus in templo Dei filii Enadad filii eorum et fratres eorum Levitae",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.3.10",
+          "sblId": "Ezra 3:10",
+          "name": "Esdrae 3:10",
+          "shortName": "Esd 3:10",
+          "text": "fundato igitur a cementariis templo Domini steterunt sacerdotes in ornatu suo cum tubis et Levitae filii Asaph in cymbalis ut laudarent Deum per manus David regis Israhel",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.3.11",
+          "sblId": "Ezra 3:11",
+          "name": "Esdrae 3:11",
+          "shortName": "Esd 3:11",
+          "text": "et concinebant in hymnis et confessione Domino quoniam bonus quoniam in aeternum misericordia eius super Israhel omnis quoque populus vociferabatur clamore magno in laudando Dominum eo quod fundatum esset templum Domini",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Ezra.3.12",
+          "sblId": "Ezra 3:12",
+          "name": "Esdrae 3:12",
+          "shortName": "Esd 3:12",
+          "text": "plurimi etiam de sacerdotibus et Levitis et principes patrum seniores qui viderant templum prius cum fundatum esset et hoc templum in oculis eorum flebant voce magna et multi vociferantes in laetitia elevabant vocem",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Ezra.3.13",
+          "sblId": "Ezra 3:13",
+          "name": "Esdrae 3:13",
+          "shortName": "Esd 3:13",
+          "text": "nec poterat quisquam agnoscere vocem clamoris laetantium et vocem fletus populi commixtim enim populus vociferabatur clamore magno et vox audiebatur procul",
+          "orderIndex": 12
+        }
+      ]
+    },
+    {
+      "osisId": "Ezra.4",
+      "sblId": "Ezra 4",
+      "name": "Esdrae 4",
+      "shortName": "Esd 4",
+      "orderIndex": 3,
+      "versesCount": 24,
+      "verses": [
+        {
+          "osisId": "Ezra.4.1",
+          "sblId": "Ezra 4:1",
+          "name": "Esdrae 4:1",
+          "shortName": "Esd 4:1",
+          "text": "audierunt autem hostes Iudae et Beniamin quia filii captivitatis aedificarent templum Domino Deo Israhel",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.4.2",
+          "sblId": "Ezra 4:2",
+          "name": "Esdrae 4:2",
+          "shortName": "Esd 4:2",
+          "text": "et accedentes ad Zorobabel et ad principes patrum dixerunt eis aedificemus vobiscum quia ita ut vos quaerimus Deum vestrum ecce nos immolamus victimas ex diebus Asoraddan regis Assur qui adduxit nos huc",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.4.3",
+          "sblId": "Ezra 4:3",
+          "name": "Esdrae 4:3",
+          "shortName": "Esd 4:3",
+          "text": "et dixit eis Zorobabel et Iosue et reliqui principes patrum Israhel non est vobis et nobis ut aedificemus domum Deo nostro sed nos ipsi soli aedificabimus Domino Deo nostro sicut praecepit nobis rex Cyrus rex Persarum",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.4.4",
+          "sblId": "Ezra 4:4",
+          "name": "Esdrae 4:4",
+          "shortName": "Esd 4:4",
+          "text": "factum est igitur ut populus terrae inpediret manus populi Iudae et turbaret eos in aedificando",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.4.5",
+          "sblId": "Ezra 4:5",
+          "name": "Esdrae 4:5",
+          "shortName": "Esd 4:5",
+          "text": "conduxerunt quoque adversum eos consiliatores ut destruerent consilium eorum omnibus diebus Cyri regis Persarum et usque ad regnum Darii regis Persarum",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.4.6",
+          "sblId": "Ezra 4:6",
+          "name": "Esdrae 4:6",
+          "shortName": "Esd 4:6",
+          "text": "in regno autem Asueri principio regni eius scripserunt accusationem adversum habitatores Iudae et Hierusalem",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.4.7",
+          "sblId": "Ezra 4:7",
+          "name": "Esdrae 4:7",
+          "shortName": "Esd 4:7",
+          "text": "et in diebus Artarxersis scripsit Beselam Mitridatis et Tabel et reliqui qui erant in consilio eorum ad Artarxersen regem Persarum epistula autem accusationis scripta erat syriace et legebatur sermone syro",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.4.8",
+          "sblId": "Ezra 4:8",
+          "name": "Esdrae 4:8",
+          "shortName": "Esd 4:8",
+          "text": "Reum Beelteem et Samsai scriba scripserunt epistulam unam de Hierusalem Artarxersi regi huiuscemodi",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.4.9",
+          "sblId": "Ezra 4:9",
+          "name": "Esdrae 4:9",
+          "shortName": "Esd 4:9",
+          "text": "Reum Beelteem et Samsai scriba et reliqui consiliatores eorum Dinei et Apharsathei Terphalei Apharsei Erchuei Babylonii Susannechei Deaei Aelamitae",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.4.10",
+          "sblId": "Ezra 4:10",
+          "name": "Esdrae 4:10",
+          "shortName": "Esd 4:10",
+          "text": "et ceteri de gentibus quas transtulit Asennaphar magnus et gloriosus et habitare eas fecit in civitatibus Samariae et in reliquis regionibus trans Flumen in pace",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.4.11",
+          "sblId": "Ezra 4:11",
+          "name": "Esdrae 4:11",
+          "shortName": "Esd 4:11",
+          "text": "hoc est exemplar epistulae quam miserunt ad eum Artarxersi regi servi tui viri qui sunt trans Fluvium salutem dicunt",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Ezra.4.12",
+          "sblId": "Ezra 4:12",
+          "name": "Esdrae 4:12",
+          "shortName": "Esd 4:12",
+          "text": "notum sit regi quia Iudaei qui ascenderunt a te ad nos venerunt in Hierusalem civitatem rebellem et pessimam quam aedificant extruentes muros eius et parietes conponentes",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Ezra.4.13",
+          "sblId": "Ezra 4:13",
+          "name": "Esdrae 4:13",
+          "shortName": "Esd 4:13",
+          "text": "nunc igitur notum sit regi quia si civitas illa aedificata fuerit et muri eius instaurati tributum et vectigal et annuos reditus non dabunt et usque ad reges haec noxa perveniet",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Ezra.4.14",
+          "sblId": "Ezra 4:14",
+          "name": "Esdrae 4:14",
+          "shortName": "Esd 4:14",
+          "text": "nos ergo memores salis quod in palatio comedimus et quia laesiones regis videre nefas ducimus idcirco misimus et nuntiavimus regi",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Ezra.4.15",
+          "sblId": "Ezra 4:15",
+          "name": "Esdrae 4:15",
+          "shortName": "Esd 4:15",
+          "text": "ut recenseas in libris historiarum patrum tuorum et invenies scriptum in commentariis et scies quoniam urbs illa urbs rebellis est et nocens regibus et provinciis et bella concitant in ea ex diebus antiquis quam ob rem et civitas ipsa destructa est",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Ezra.4.16",
+          "sblId": "Ezra 4:16",
+          "name": "Esdrae 4:16",
+          "shortName": "Esd 4:16",
+          "text": "nuntiamus nos regi quoniam si civitas illa aedificata fuerit et muri ipsius instaurati possessionem trans Fluvium non habebis",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Ezra.4.17",
+          "sblId": "Ezra 4:17",
+          "name": "Esdrae 4:17",
+          "shortName": "Esd 4:17",
+          "text": "verbum misit rex ad Reum Beelteem et Samsai scribam et ad reliquos qui erant in consilio eorum habitatores Samariae et ceteris trans Fluvium salutem dicens et pacem",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Ezra.4.18",
+          "sblId": "Ezra 4:18",
+          "name": "Esdrae 4:18",
+          "shortName": "Esd 4:18",
+          "text": "accusationem quam misistis ad nos manifeste lecta est coram me",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Ezra.4.19",
+          "sblId": "Ezra 4:19",
+          "name": "Esdrae 4:19",
+          "shortName": "Esd 4:19",
+          "text": "et a me praeceptum est et recensuerunt inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat et seditiones et proelia concitantur in ea",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Ezra.4.20",
+          "sblId": "Ezra 4:20",
+          "name": "Esdrae 4:20",
+          "shortName": "Esd 4:20",
+          "text": "nam et reges fortissimi fuerunt in Hierusalem qui et dominati sunt omni regioni quae trans Fluvium est tributum quoque et vectigal et reditus accipiebant",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Ezra.4.21",
+          "sblId": "Ezra 4:21",
+          "name": "Esdrae 4:21",
+          "shortName": "Esd 4:21",
+          "text": "nunc ergo audite sententiam ut prohibeatis viros illos et urbs illa non aedificetur donec si forte a me iussum fuerit",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Ezra.4.22",
+          "sblId": "Ezra 4:22",
+          "name": "Esdrae 4:22",
+          "shortName": "Esd 4:22",
+          "text": "videte ne neglegenter hoc impleatis et paulatim crescat malum contra reges",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Ezra.4.23",
+          "sblId": "Ezra 4:23",
+          "name": "Esdrae 4:23",
+          "shortName": "Esd 4:23",
+          "text": "itaque exemplum edicti Artarxersis regis lectum est coram Reum et Samsai scriba et consiliariis eorum et abierunt festini in Hierusalem ad Iudaeos et prohibuerunt eos in brachio et robore",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Ezra.4.24",
+          "sblId": "Ezra 4:24",
+          "name": "Esdrae 4:24",
+          "shortName": "Esd 4:24",
+          "text": "tunc intermissum est opus domus Dei in Hierusalem et non fiebat usque ad annum secundum regni Darii regis Persarum",
+          "orderIndex": 23
+        }
+      ]
+    },
+    {
+      "osisId": "Ezra.5",
+      "sblId": "Ezra 5",
+      "name": "Esdrae 5",
+      "shortName": "Esd 5",
+      "orderIndex": 4,
+      "versesCount": 17,
+      "verses": [
+        {
+          "osisId": "Ezra.5.1",
+          "sblId": "Ezra 5:1",
+          "name": "Esdrae 5:1",
+          "shortName": "Esd 5:1",
+          "text": "prophetaverunt autem Aggeus propheta et Zaccharias filius Addo prophetantes ad Iudaeos qui erant in Iudaea et Hierusalem in nomine Dei Israhel",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.5.2",
+          "sblId": "Ezra 5:2",
+          "name": "Esdrae 5:2",
+          "shortName": "Esd 5:2",
+          "text": "tunc surrexerunt Zorobabel filius Salathihel et Iosue filius Iosedech et coeperunt aedificare templum Dei in Hierusalem et cum eis prophetae Dei adiuvantes eos",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.5.3",
+          "sblId": "Ezra 5:3",
+          "name": "Esdrae 5:3",
+          "shortName": "Esd 5:3",
+          "text": "in ipso tempore venit ad eos Tatannai qui erat dux trans Flumen et Starbuzannai et consiliarii eorum sicque dixerunt eis quis dedit vobis consilium ut domum hanc aedificaretis et muros hos instauraretis",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.5.4",
+          "sblId": "Ezra 5:4",
+          "name": "Esdrae 5:4",
+          "shortName": "Esd 5:4",
+          "text": "ad quod respondimus eis quae essent nomina hominum auctorum illius aedificationis",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.5.5",
+          "sblId": "Ezra 5:5",
+          "name": "Esdrae 5:5",
+          "shortName": "Esd 5:5",
+          "text": "oculus autem Dei eorum factus est super senes Iudaeorum et non potuerunt inhibere eos placuitque ut res ad Darium referretur et tunc satisfacerent adversus accusationem illam",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.5.6",
+          "sblId": "Ezra 5:6",
+          "name": "Esdrae 5:6",
+          "shortName": "Esd 5:6",
+          "text": "exemplar epistulae quam misit Tatannai dux regionis trans Flumen et Starbuzannai et consiliatores eius Apharsacei qui erant trans Flumen ad Darium regem",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.5.7",
+          "sblId": "Ezra 5:7",
+          "name": "Esdrae 5:7",
+          "shortName": "Esd 5:7",
+          "text": "sermo quem miserant ei sic scriptus erat Dario regi pax omnis",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.5.8",
+          "sblId": "Ezra 5:8",
+          "name": "Esdrae 5:8",
+          "shortName": "Esd 5:8",
+          "text": "notum sit regi isse nos ad Iudaeam provinciam ad domum Dei magni quae aedificatur lapide inpolito et ligna ponuntur in parietibus opusque illud diligenter extruitur et crescit in manibus eorum",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.5.9",
+          "sblId": "Ezra 5:9",
+          "name": "Esdrae 5:9",
+          "shortName": "Esd 5:9",
+          "text": "interrogavimus ergo senes illos et ita diximus eis quis dedit vobis potestatem ut domum hanc aedificaretis et muros instauraretis",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.5.10",
+          "sblId": "Ezra 5:10",
+          "name": "Esdrae 5:10",
+          "shortName": "Esd 5:10",
+          "text": "sed et nomina eorum quaesivimus ab eis ut nuntiaremus tibi quae scripsimus nomina virorum qui sunt principes in eis",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.5.11",
+          "sblId": "Ezra 5:11",
+          "name": "Esdrae 5:11",
+          "shortName": "Esd 5:11",
+          "text": "huiuscemodi autem sermonem responderunt nobis dicentes nos sumus servi Dei caeli et terrae et aedificamus templum quod erat extructum ante hos annos multos quodque rex Israhel magnus aedificaverat et extruxerat",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Ezra.5.12",
+          "sblId": "Ezra 5:12",
+          "name": "Esdrae 5:12",
+          "shortName": "Esd 5:12",
+          "text": "postquam autem ad iracundiam provocaverunt patres nostri Deum caeli et tradidit eos in manu Nabuchodonosor regis Babylonis Chaldei domum quoque hanc destruxit et populum eius transtulit in Babylonem",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Ezra.5.13",
+          "sblId": "Ezra 5:13",
+          "name": "Esdrae 5:13",
+          "shortName": "Esd 5:13",
+          "text": "anno autem primo Cyri regis Babylonis Cyrus rex proposuit edictum ut domus Dei aedificaretur",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Ezra.5.14",
+          "sblId": "Ezra 5:14",
+          "name": "Esdrae 5:14",
+          "shortName": "Esd 5:14",
+          "text": "nam et vasa templi Dei aurea et argentea quae Nabuchodonosor tulerat de templo quod erat in Hierusalem et asportaverat ea in templum Babylonis protulit Cyrus rex de templo Babylonis et data sunt Sasabassar vocabulo quem et principem constituit",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Ezra.5.15",
+          "sblId": "Ezra 5:15",
+          "name": "Esdrae 5:15",
+          "shortName": "Esd 5:15",
+          "text": "dixitque ei haec vasa tolle et vade et pone ea in templo quod est in Hierusalem et domus Dei aedificetur in loco suo",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Ezra.5.16",
+          "sblId": "Ezra 5:16",
+          "name": "Esdrae 5:16",
+          "shortName": "Esd 5:16",
+          "text": "tunc itaque Sasabassar ille venit et posuit fundamenta templi Dei in Hierusalem et ex eo tempore usque nunc aedificatur et necdum conpletum est",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Ezra.5.17",
+          "sblId": "Ezra 5:17",
+          "name": "Esdrae 5:17",
+          "shortName": "Esd 5:17",
+          "text": "nunc ergo si videtur regi bonum recenseat in bibliotheca regis quae est in Babylone utrumnam a Cyro rege iussum sit ut aedificaretur domus Dei in Hierusalem et voluntatem regis super hac re mittat ad nos",
+          "orderIndex": 16
+        }
+      ]
+    },
+    {
+      "osisId": "Ezra.6",
+      "sblId": "Ezra 6",
+      "name": "Esdrae 6",
+      "shortName": "Esd 6",
+      "orderIndex": 5,
+      "versesCount": 22,
+      "verses": [
+        {
+          "osisId": "Ezra.6.1",
+          "sblId": "Ezra 6:1",
+          "name": "Esdrae 6:1",
+          "shortName": "Esd 6:1",
+          "text": "tunc Darius rex praecepit et recensuerunt in bibliotheca librorum qui erant repositi in Babylone",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.6.2",
+          "sblId": "Ezra 6:2",
+          "name": "Esdrae 6:2",
+          "shortName": "Esd 6:2",
+          "text": "et inventum est in Ecbathanis quod est castrum in Madena provincia volumen unum talisque scriptus erat in eo commentarius",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.6.3",
+          "sblId": "Ezra 6:3",
+          "name": "Esdrae 6:3",
+          "shortName": "Esd 6:3",
+          "text": "anno primo Cyri regis Cyrus rex decrevit ut domus Dei quae est in Hierusalem aedificaretur in loco ubi immolent hostias et ut ponant fundamenta subportantia altitudinem cubitorum sexaginta et latitudinem cubitorum sexaginta",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.6.4",
+          "sblId": "Ezra 6:4",
+          "name": "Esdrae 6:4",
+          "shortName": "Esd 6:4",
+          "text": "ordines de lapidibus inpolitis tres et sic ordines de lignis novis sumptus autem de domo regis dabuntur",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.6.5",
+          "sblId": "Ezra 6:5",
+          "name": "Esdrae 6:5",
+          "shortName": "Esd 6:5",
+          "text": "sed et vasa templi Dei aurea et argentea quae Nabuchodonosor tulerat de templo Hierusalem et adtulerat ea in Babylonem reddantur et referantur in templo Hierusalem in locum suum quae et posita sunt in templo Dei",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.6.6",
+          "sblId": "Ezra 6:6",
+          "name": "Esdrae 6:6",
+          "shortName": "Esd 6:6",
+          "text": "nunc ergo Tatannai dux regionis quae est trans Flumen Starbuzannai et consiliarii vestri Apharsacei qui estis trans Flumen procul recedite ab illis",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.6.7",
+          "sblId": "Ezra 6:7",
+          "name": "Esdrae 6:7",
+          "shortName": "Esd 6:7",
+          "text": "et dimittite fieri templum Dei illud a duce Iudaeorum et a senioribus eorum domum Dei illam aedificent in loco suo",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.6.8",
+          "sblId": "Ezra 6:8",
+          "name": "Esdrae 6:8",
+          "shortName": "Esd 6:8",
+          "text": "sed et a me praeceptum est quid oporteat fieri a presbyteris Iudaeorum illis ut aedificetur domus Dei scilicet ut de arca regis id est de tributis quae dantur de regione trans Flumen studiose sumptus dentur viris illis ne inpediatur opus",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.6.9",
+          "sblId": "Ezra 6:9",
+          "name": "Esdrae 6:9",
+          "shortName": "Esd 6:9",
+          "text": "quod si necesse fuerit et vitulos et agnos et hedos in holocaustum Deo caeli frumentum sal vinum et oleum secundum ritum sacerdotum qui sunt in Hierusalem detur eis per dies singulos ne sit in aliquo querimonia",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.6.10",
+          "sblId": "Ezra 6:10",
+          "name": "Esdrae 6:10",
+          "shortName": "Esd 6:10",
+          "text": "et offerant oblationes Deo caeli orentque pro vita regis et filiorum eius",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.6.11",
+          "sblId": "Ezra 6:11",
+          "name": "Esdrae 6:11",
+          "shortName": "Esd 6:11",
+          "text": "a me ergo positum est decretum ut omnis homo qui hanc mutaverit iussionem tollatur lignum de domo ipsius et erigatur et configatur in eo domus autem eius publicetur",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Ezra.6.12",
+          "sblId": "Ezra 6:12",
+          "name": "Esdrae 6:12",
+          "shortName": "Esd 6:12",
+          "text": "Deus autem qui habitare fecit nomen suum ibi dissipet omnia regna et populum qui extenderit manum suam ut repugnet et dissipet domum Dei illam quae est in Hierusalem ego Darius statui decretum quod studiose impleri volo",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Ezra.6.13",
+          "sblId": "Ezra 6:13",
+          "name": "Esdrae 6:13",
+          "shortName": "Esd 6:13",
+          "text": "igitur Tatannai dux regionis trans Flumen et Starbuzannai et consiliarii eius secundum quod praeceperat Darius rex sic diligenter exsecuti sunt",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Ezra.6.14",
+          "sblId": "Ezra 6:14",
+          "name": "Esdrae 6:14",
+          "shortName": "Esd 6:14",
+          "text": "seniores autem Iudaeorum aedificabant et prosperabantur iuxta prophetiam Aggei prophetae et Zacchariae filii Addo et aedificaverunt et construxerunt iubente Deo Israhel et iubente Cyro et Dario et Artarxerse regibus Persarum",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Ezra.6.15",
+          "sblId": "Ezra 6:15",
+          "name": "Esdrae 6:15",
+          "shortName": "Esd 6:15",
+          "text": "et conpleverunt domum Dei istam usque ad diem tertium mensis adar qui est annus sextus regni Darii regis",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Ezra.6.16",
+          "sblId": "Ezra 6:16",
+          "name": "Esdrae 6:16",
+          "shortName": "Esd 6:16",
+          "text": "fecerunt autem filii Israhel sacerdotes et Levitae et reliqui filiorum transmigrationis dedicationem domus Dei in gaudio",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Ezra.6.17",
+          "sblId": "Ezra 6:17",
+          "name": "Esdrae 6:17",
+          "shortName": "Esd 6:17",
+          "text": "et obtulerunt in dedicationem domus Dei vitulos centum arietes ducentos agnos quadringentos hircos caprarum pro peccato totius Israhel duodecim iuxta numerum tribuum Israhel",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Ezra.6.18",
+          "sblId": "Ezra 6:18",
+          "name": "Esdrae 6:18",
+          "shortName": "Esd 6:18",
+          "text": "et statuerunt sacerdotes in ordinibus suis et Levitas in vicibus suis super opera Dei in Hierusalem sicut scriptum est in libro Mosi",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Ezra.6.19",
+          "sblId": "Ezra 6:19",
+          "name": "Esdrae 6:19",
+          "shortName": "Esd 6:19",
+          "text": "fecerunt autem filii transmigrationis pascha quartadecima die mensis primi",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Ezra.6.20",
+          "sblId": "Ezra 6:20",
+          "name": "Esdrae 6:20",
+          "shortName": "Esd 6:20",
+          "text": "purificati enim fuerant sacerdotes et Levitae quasi unus omnes mundi ad immolandum pascha universis filiis transmigrationis et fratribus suis sacerdotibus et sibi",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Ezra.6.21",
+          "sblId": "Ezra 6:21",
+          "name": "Esdrae 6:21",
+          "shortName": "Esd 6:21",
+          "text": "et comederunt filii Israhel qui reversi fuerant de transmigratione et omnis qui se separaverat a coinquinatione gentium terrae ad eos ut quaererent Dominum Deum Israhel",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Ezra.6.22",
+          "sblId": "Ezra 6:22",
+          "name": "Esdrae 6:22",
+          "shortName": "Esd 6:22",
+          "text": "et fecerunt sollemnitatem azymorum septem diebus in laetitia quoniam laetificaverat eos Dominus et converterat cor regis Assur ad eos ut adiuvaret manus eorum in opere domus Domini Dei Israhel",
+          "orderIndex": 21
+        }
+      ]
+    },
+    {
+      "osisId": "Ezra.7",
+      "sblId": "Ezra 7",
+      "name": "Esdrae 7",
+      "shortName": "Esd 7",
+      "orderIndex": 6,
+      "versesCount": 28,
+      "verses": [
+        {
+          "osisId": "Ezra.7.1",
+          "sblId": "Ezra 7:1",
+          "name": "Esdrae 7:1",
+          "shortName": "Esd 7:1",
+          "text": "post haec autem verba in regno Artarxersis regis Persarum Ezras filius Saraiae filii Azariae filii Helciae",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.7.2",
+          "sblId": "Ezra 7:2",
+          "name": "Esdrae 7:2",
+          "shortName": "Esd 7:2",
+          "text": "filii Sellum filii Sadoc filii Achitob",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.7.3",
+          "sblId": "Ezra 7:3",
+          "name": "Esdrae 7:3",
+          "shortName": "Esd 7:3",
+          "text": "filii Amariae filii Azariae filii Maraioth",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.7.4",
+          "sblId": "Ezra 7:4",
+          "name": "Esdrae 7:4",
+          "shortName": "Esd 7:4",
+          "text": "filii Zaraiae filii Ozi filii Bocci",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.7.5",
+          "sblId": "Ezra 7:5",
+          "name": "Esdrae 7:5",
+          "shortName": "Esd 7:5",
+          "text": "filii Abisue filii Finees filii Eleazar filii Aaron sacerdotis ab initio",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.7.6",
+          "sblId": "Ezra 7:6",
+          "name": "Esdrae 7:6",
+          "shortName": "Esd 7:6",
+          "text": "ipse Ezras ascendit de Babylone et ipse scriba velox in lege Mosi quam dedit Dominus Deus Israhel et dedit ei rex secundum manum Domini Dei eius super eum omnem petitionem eius",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.7.7",
+          "sblId": "Ezra 7:7",
+          "name": "Esdrae 7:7",
+          "shortName": "Esd 7:7",
+          "text": "et ascenderunt de filiis Israhel et de filiis sacerdotum et de filiis Levitarum et de cantoribus et de ianitoribus et de Nathinneis in Hierusalem anno septimo Artarxersis regis",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.7.8",
+          "sblId": "Ezra 7:8",
+          "name": "Esdrae 7:8",
+          "shortName": "Esd 7:8",
+          "text": "et venerunt in Hierusalem mense quinto ipse est annus septimus regis",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.7.9",
+          "sblId": "Ezra 7:9",
+          "name": "Esdrae 7:9",
+          "shortName": "Esd 7:9",
+          "text": "quia in primo die mensis primi coepit ascendere de Babylone et in primo mensis quinti venit in Hierusalem iuxta manum Dei sui bonam super se",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.7.10",
+          "sblId": "Ezra 7:10",
+          "name": "Esdrae 7:10",
+          "shortName": "Esd 7:10",
+          "text": "Ezras enim paravit cor suum ut investigaret legem Domini et faceret et doceret in Israhel praeceptum et iudicium",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.7.11",
+          "sblId": "Ezra 7:11",
+          "name": "Esdrae 7:11",
+          "shortName": "Esd 7:11",
+          "text": "hoc est autem exemplar epistulae edicti quod dedit rex Artarxersis Ezrae sacerdoti scribae erudito in sermonibus et praeceptis Domini et caerimoniis eius in Israhel",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Ezra.7.12",
+          "sblId": "Ezra 7:12",
+          "name": "Esdrae 7:12",
+          "shortName": "Esd 7:12",
+          "text": "Artarxersis rex regum Ezrae sacerdoti scribae legis Dei caeli doctissimo salutem",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Ezra.7.13",
+          "sblId": "Ezra 7:13",
+          "name": "Esdrae 7:13",
+          "shortName": "Esd 7:13",
+          "text": "a me decretum est ut cuicumque placuerit in regno meo de populo Israhel et de sacerdotibus eius et de Levitis ire in Hierusalem tecum vadat",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Ezra.7.14",
+          "sblId": "Ezra 7:14",
+          "name": "Esdrae 7:14",
+          "shortName": "Esd 7:14",
+          "text": "a facie enim regis et septem consiliatorum eius missus es ut visites Iudaeam et Hierusalem in lege Dei tui quae est in manu tua",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Ezra.7.15",
+          "sblId": "Ezra 7:15",
+          "name": "Esdrae 7:15",
+          "shortName": "Esd 7:15",
+          "text": "et ut feras argentum et aurum quod rex et consiliatores eius sponte obtulerunt Deo Israhel cuius in Hierusalem tabernaculum est",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Ezra.7.16",
+          "sblId": "Ezra 7:16",
+          "name": "Esdrae 7:16",
+          "shortName": "Esd 7:16",
+          "text": "et omne argentum et aurum quodcumque inveneris in universa provincia Babylonis et populus offerre voluerit et de sacerdotibus qui sponte obtulerint domui Dei sui quae est in Hierusalem",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Ezra.7.17",
+          "sblId": "Ezra 7:17",
+          "name": "Esdrae 7:17",
+          "shortName": "Esd 7:17",
+          "text": "libere accipe et studiose eme de hac pecunia vitulos arietes agnos et sacrificia et libamina eorum et offer ea super altare templi Dei vestri quod est in Hierusalem",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Ezra.7.18",
+          "sblId": "Ezra 7:18",
+          "name": "Esdrae 7:18",
+          "shortName": "Esd 7:18",
+          "text": "sed et si quid tibi et fratribus tuis placuerit de reliquo argento et auro ut faciatis iuxta voluntatem Dei vestri facite",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Ezra.7.19",
+          "sblId": "Ezra 7:19",
+          "name": "Esdrae 7:19",
+          "shortName": "Esd 7:19",
+          "text": "vasa quoque quae dantur tibi in ministerium domus Dei tui trade in conspectu Dei Hierusalem",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Ezra.7.20",
+          "sblId": "Ezra 7:20",
+          "name": "Esdrae 7:20",
+          "shortName": "Esd 7:20",
+          "text": "sed et cetera quibus opus fuerit in domo Dei tui quantumcumque necesse est ut expendas dabis de thesauro et de fisco regis",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Ezra.7.21",
+          "sblId": "Ezra 7:21",
+          "name": "Esdrae 7:21",
+          "shortName": "Esd 7:21",
+          "text": "et a me ego Artarxersis rex statui atque decrevi omnibus custodibus arcae publicae qui sunt trans Flumen ut quodcumque petierit a vobis Ezras sacerdos scriba legis Dei caeli absque mora detis",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Ezra.7.22",
+          "sblId": "Ezra 7:22",
+          "name": "Esdrae 7:22",
+          "shortName": "Esd 7:22",
+          "text": "usque ad argenti talenta centum et usque ad frumenti choros centum et usque ad vini batos centum et usque ad batos olei centum sal vero absque mensura",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Ezra.7.23",
+          "sblId": "Ezra 7:23",
+          "name": "Esdrae 7:23",
+          "shortName": "Esd 7:23",
+          "text": "omne quod ad ritum Dei caeli pertinet tribuatur diligenter in domo Dei caeli ne forte irascatur contra regnum regis et filiorum eius",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Ezra.7.24",
+          "sblId": "Ezra 7:24",
+          "name": "Esdrae 7:24",
+          "shortName": "Esd 7:24",
+          "text": "vobisque notum facimus de universis sacerdotibus et Levitis cantoribus ianitoribus Nathinneis et ministris domus Dei huius ut vectigal et tributum et annonas non habeatis potestatem inponendi super eos",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Ezra.7.25",
+          "sblId": "Ezra 7:25",
+          "name": "Esdrae 7:25",
+          "shortName": "Esd 7:25",
+          "text": "tu autem Ezras secundum sapientiam Dei tui quae est in manu tua constitue iudices et praesides ut iudicent omni populo qui est trans Flumen his videlicet qui noverunt legem Dei tui sed et inperitos docete libere",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Ezra.7.26",
+          "sblId": "Ezra 7:26",
+          "name": "Esdrae 7:26",
+          "shortName": "Esd 7:26",
+          "text": "et omnis qui non fecerit legem Dei tui et legem regis diligenter iudicium erit de eo sive in mortem sive in exilium sive in condemnationem substantiae eius vel certe in carcerem",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Ezra.7.27",
+          "sblId": "Ezra 7:27",
+          "name": "Esdrae 7:27",
+          "shortName": "Esd 7:27",
+          "text": "benedictus Dominus Deus patrum nostrorum qui dedit hoc in corde regis ut glorificaret domum Domini quae est in Hierusalem",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Ezra.7.28",
+          "sblId": "Ezra 7:28",
+          "name": "Esdrae 7:28",
+          "shortName": "Esd 7:28",
+          "text": "et in me inclinavit misericordiam coram rege et consiliatoribus eius et universis principibus regis potentibus et ego confortatus manu Domini Dei mei quae erat in me congregavi de Israhel principes qui ascenderent mecum",
+          "orderIndex": 27
+        }
+      ]
+    },
+    {
+      "osisId": "Ezra.8",
+      "sblId": "Ezra 8",
+      "name": "Esdrae 8",
+      "shortName": "Esd 8",
+      "orderIndex": 7,
+      "versesCount": 36,
+      "verses": [
+        {
+          "osisId": "Ezra.8.1",
+          "sblId": "Ezra 8:1",
+          "name": "Esdrae 8:1",
+          "shortName": "Esd 8:1",
+          "text": "hii sunt ergo principes familiarum et genealogia eorum qui ascenderunt mecum in regno Artarxersis regis de Babylone",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.8.2",
+          "sblId": "Ezra 8:2",
+          "name": "Esdrae 8:2",
+          "shortName": "Esd 8:2",
+          "text": "de filiis Finees Gersom de filiis Ithamar Danihel de filiis David Attus",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.8.3",
+          "sblId": "Ezra 8:3",
+          "name": "Esdrae 8:3",
+          "shortName": "Esd 8:3",
+          "text": "de filiis Secheniae et de filiis Pharos Zaccharias et cum eo numerati sunt viri centum quinquaginta",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.8.4",
+          "sblId": "Ezra 8:4",
+          "name": "Esdrae 8:4",
+          "shortName": "Esd 8:4",
+          "text": "de filiis Phaethmoab Helioenai filius Zareae et cum eo ducenti viri",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.8.5",
+          "sblId": "Ezra 8:5",
+          "name": "Esdrae 8:5",
+          "shortName": "Esd 8:5",
+          "text": "de filiis Secheniae filius Hiezihel et cum eo trecenti viri",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.8.6",
+          "sblId": "Ezra 8:6",
+          "name": "Esdrae 8:6",
+          "shortName": "Esd 8:6",
+          "text": "de filiis Adden Abeth filius Ionathan et cum eo quinquaginta viri",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.8.7",
+          "sblId": "Ezra 8:7",
+          "name": "Esdrae 8:7",
+          "shortName": "Esd 8:7",
+          "text": "de filiis Helam Isaias filius Athaliae et cum eo septuaginta viri",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.8.8",
+          "sblId": "Ezra 8:8",
+          "name": "Esdrae 8:8",
+          "shortName": "Esd 8:8",
+          "text": "de filiis Saphatiae Zebedia filius Michahel et cum eo octoginta viri",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.8.9",
+          "sblId": "Ezra 8:9",
+          "name": "Esdrae 8:9",
+          "shortName": "Esd 8:9",
+          "text": "de filiis Ioab Obedia filius Iehihel et cum eo ducenti decem et octo viri",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.8.10",
+          "sblId": "Ezra 8:10",
+          "name": "Esdrae 8:10",
+          "shortName": "Esd 8:10",
+          "text": "de filiis Selomith filius Iosphiae et cum eo centum sexaginta viri",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.8.11",
+          "sblId": "Ezra 8:11",
+          "name": "Esdrae 8:11",
+          "shortName": "Esd 8:11",
+          "text": "de filiis Bebai Zaccharias filius Bebai et cum eo viginti octo viri",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Ezra.8.12",
+          "sblId": "Ezra 8:12",
+          "name": "Esdrae 8:12",
+          "shortName": "Esd 8:12",
+          "text": "de filiis Ezgad Iohanan filius Eccetan et cum eo centum decem viri",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Ezra.8.13",
+          "sblId": "Ezra 8:13",
+          "name": "Esdrae 8:13",
+          "shortName": "Esd 8:13",
+          "text": "de filiis Adonicam qui erant novissimi et haec nomina eorum Helifeleth et Heihel et Samaias et cum eis sexaginta viri",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Ezra.8.14",
+          "sblId": "Ezra 8:14",
+          "name": "Esdrae 8:14",
+          "shortName": "Esd 8:14",
+          "text": "de filiis Beggui Uthai et Zacchur et cum eo septuaginta viri",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Ezra.8.15",
+          "sblId": "Ezra 8:15",
+          "name": "Esdrae 8:15",
+          "shortName": "Esd 8:15",
+          "text": "congregavi autem eos ad fluvium qui decurrit ad Ahavva et mansimus ibi diebus tribus quaesivique in populo et in sacerdotibus de filiis Levi et non inveni ibi",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Ezra.8.16",
+          "sblId": "Ezra 8:16",
+          "name": "Esdrae 8:16",
+          "shortName": "Esd 8:16",
+          "text": "itaque misi Heliezer et Arihel et Semeam et Helnathan et Iarib et alterum Helnathan et Nathan et Zacchariam et Mesolam principes et Ioarib et Helnathan sapientes",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Ezra.8.17",
+          "sblId": "Ezra 8:17",
+          "name": "Esdrae 8:17",
+          "shortName": "Esd 8:17",
+          "text": "et misi eos ad Heddo qui est primus in Casphiae loco et posui in ore eorum verba quae loquerentur ad Addom et ad fratres eius Nathinneos in loco Casphiae ut adducerent nobis ministros domus Dei nostri",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Ezra.8.18",
+          "sblId": "Ezra 8:18",
+          "name": "Esdrae 8:18",
+          "shortName": "Esd 8:18",
+          "text": "et adduxerunt nobis per manum Dei nostri bonam super nos virum doctissimum de filiis Moolli filii Levi filii Israhel et Sarabiam et filios eius et fratres eius decem et octo",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Ezra.8.19",
+          "sblId": "Ezra 8:19",
+          "name": "Esdrae 8:19",
+          "shortName": "Esd 8:19",
+          "text": "et Asabiam et cum eo Isaiam de filiis Merari fratres eius et filios eius viginti",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Ezra.8.20",
+          "sblId": "Ezra 8:20",
+          "name": "Esdrae 8:20",
+          "shortName": "Esd 8:20",
+          "text": "et de Nathinneis quos dederat David et principes ad ministeria Levitarum Nathinneos ducentos viginti omnes hii suis nominibus vocabantur",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Ezra.8.21",
+          "sblId": "Ezra 8:21",
+          "name": "Esdrae 8:21",
+          "shortName": "Esd 8:21",
+          "text": "et praedicavi ibi ieiunium iuxta fluvium Ahavva ut adfligeremur coram Domino Deo nostro et peteremus ab eo viam rectam nobis et filiis nostris universaeque substantiae nostrae",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Ezra.8.22",
+          "sblId": "Ezra 8:22",
+          "name": "Esdrae 8:22",
+          "shortName": "Esd 8:22",
+          "text": "erubui enim petere regem auxilium et equites qui defenderent nos ab inimico in via quia dixeramus regi manus Dei nostri est super omnes qui quaerunt eum in bonitate et imperium eius et fortitudo eius et furor super omnes qui derelinquunt eum",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Ezra.8.23",
+          "sblId": "Ezra 8:23",
+          "name": "Esdrae 8:23",
+          "shortName": "Esd 8:23",
+          "text": "ieiunavimus autem et rogavimus Deum nostrum pro hoc et evenit nobis prospere",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Ezra.8.24",
+          "sblId": "Ezra 8:24",
+          "name": "Esdrae 8:24",
+          "shortName": "Esd 8:24",
+          "text": "et separavi de principibus sacerdotum duodecim Sarabian Asabian et cum eis de fratribus eorum decem",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Ezra.8.25",
+          "sblId": "Ezra 8:25",
+          "name": "Esdrae 8:25",
+          "shortName": "Esd 8:25",
+          "text": "adpendique eis argentum et aurum et vasa consecrata domus Dei nostri quae obtulerat rex et consiliatores eius et principes eius universusque Israhel eorum qui inventi fuerant",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Ezra.8.26",
+          "sblId": "Ezra 8:26",
+          "name": "Esdrae 8:26",
+          "shortName": "Esd 8:26",
+          "text": "et adpendi in manibus eorum argenti talenta sescenta quinquaginta et vasa argentea centum auri centum talenta",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Ezra.8.27",
+          "sblId": "Ezra 8:27",
+          "name": "Esdrae 8:27",
+          "shortName": "Esd 8:27",
+          "text": "et crateras aureos viginti qui habebant solidos millenos et vasa aeris fulgentis optimi duo pulchra ut aurum",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Ezra.8.28",
+          "sblId": "Ezra 8:28",
+          "name": "Esdrae 8:28",
+          "shortName": "Esd 8:28",
+          "text": "et dixi eis vos sancti Domini et vasa sancta et argentum et aurum quod sponte oblatum est Domino Deo patrum vestrorum",
+          "orderIndex": 27
+        },
+        {
+          "osisId": "Ezra.8.29",
+          "sblId": "Ezra 8:29",
+          "name": "Esdrae 8:29",
+          "shortName": "Esd 8:29",
+          "text": "vigilate et custodite donec adpendatis coram principibus sacerdotum et Levitarum et ducibus familiarum Israhel in Hierusalem et thesaurum domus Domini",
+          "orderIndex": 28
+        },
+        {
+          "osisId": "Ezra.8.30",
+          "sblId": "Ezra 8:30",
+          "name": "Esdrae 8:30",
+          "shortName": "Esd 8:30",
+          "text": "susceperunt autem sacerdotes et Levitae pondus argenti et auri et vasorum ut deferrent in Hierusalem in domum Dei nostri",
+          "orderIndex": 29
+        },
+        {
+          "osisId": "Ezra.8.31",
+          "sblId": "Ezra 8:31",
+          "name": "Esdrae 8:31",
+          "shortName": "Esd 8:31",
+          "text": "promovimus ergo a flumine Ahavva duodecimo die mensis primi ut pergeremus Hierusalem et manus Dei nostri fuit super nos et liberavit nos de manu inimici et insidiatoris in via",
+          "orderIndex": 30
+        },
+        {
+          "osisId": "Ezra.8.32",
+          "sblId": "Ezra 8:32",
+          "name": "Esdrae 8:32",
+          "shortName": "Esd 8:32",
+          "text": "et venimus Hierusalem et mansimus ibi diebus tribus",
+          "orderIndex": 31
+        },
+        {
+          "osisId": "Ezra.8.33",
+          "sblId": "Ezra 8:33",
+          "name": "Esdrae 8:33",
+          "shortName": "Esd 8:33",
+          "text": "die autem quarta adpensum est argentum et aurum et vasa in domo Dei nostri per manum Meremoth filii Uriae sacerdotis et cum eo Eleazar filius Finees cumque eis Iozaded filius Iosue et Noadaia filius Bennoi Levitae",
+          "orderIndex": 32
+        },
+        {
+          "osisId": "Ezra.8.34",
+          "sblId": "Ezra 8:34",
+          "name": "Esdrae 8:34",
+          "shortName": "Esd 8:34",
+          "text": "iuxta numerum et pondus omnium descriptumque est omne pondus in tempore illo",
+          "orderIndex": 33
+        },
+        {
+          "osisId": "Ezra.8.35",
+          "sblId": "Ezra 8:35",
+          "name": "Esdrae 8:35",
+          "shortName": "Esd 8:35",
+          "text": "sed et qui venerant de captivitate filii transmigrationis obtulerunt holocaustomata Deo Israhel vitulos duodecim pro omni Israhel arietes nonaginta sex agnos septuaginta septem hircos pro peccato duodecim omnia in holocaustum Domino",
+          "orderIndex": 34
+        },
+        {
+          "osisId": "Ezra.8.36",
+          "sblId": "Ezra 8:36",
+          "name": "Esdrae 8:36",
+          "shortName": "Esd 8:36",
+          "text": "dederunt autem edicta regis satrapis qui erant de conspectu regis et ducibus trans Flumen et elevaverunt populum et domum Dei",
+          "orderIndex": 35
+        }
+      ]
+    },
+    {
+      "osisId": "Ezra.9",
+      "sblId": "Ezra 9",
+      "name": "Esdrae 9",
+      "shortName": "Esd 9",
+      "orderIndex": 8,
+      "versesCount": 15,
+      "verses": [
+        {
+          "osisId": "Ezra.9.1",
+          "sblId": "Ezra 9:1",
+          "name": "Esdrae 9:1",
+          "shortName": "Esd 9:1",
+          "text": "postquam autem haec conpleta sunt accesserunt ad me principes dicentes non est separatus populus Israhel et sacerdotes et Levitae a populis terrarum et de abominationibus eorum Chananei videlicet et Hetthei et Ferezei et Iebusei et Ammanitarum et Moabitarum et Aegyptiorum et Amorreorum",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.9.2",
+          "sblId": "Ezra 9:2",
+          "name": "Esdrae 9:2",
+          "shortName": "Esd 9:2",
+          "text": "tulerunt enim de filiabus eorum sibi et filiis suis et commiscuerunt semen sanctum cum populis terrarum manus etiam principum et magistratuum fuit in transgressione hac prima",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.9.3",
+          "sblId": "Ezra 9:3",
+          "name": "Esdrae 9:3",
+          "shortName": "Esd 9:3",
+          "text": "cumque audissem sermonem istum scidi pallium meum et tunicam et evelli capillos capitis mei et barbae et sedi maerens",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.9.4",
+          "sblId": "Ezra 9:4",
+          "name": "Esdrae 9:4",
+          "shortName": "Esd 9:4",
+          "text": "convenerunt autem ad me omnes qui timebant verbum Dei Israhel pro transgressione eorum qui de captivitate venerant et ego sedebam tristis usque ad sacrificium vespertinum",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.9.5",
+          "sblId": "Ezra 9:5",
+          "name": "Esdrae 9:5",
+          "shortName": "Esd 9:5",
+          "text": "et in sacrificio vespertino surrexi de adflictione mea et scisso pallio et tunica curvavi genua mea et expandi manus meas ad Dominum Deum meum",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.9.6",
+          "sblId": "Ezra 9:6",
+          "name": "Esdrae 9:6",
+          "shortName": "Esd 9:6",
+          "text": "et dixi Deus meus confundor et erubesco levare Deus meus faciem meam ad te quoniam iniquitates nostrae multiplicatae sunt super caput et delicta nostra creverunt usque in caelum",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.9.7",
+          "sblId": "Ezra 9:7",
+          "name": "Esdrae 9:7",
+          "shortName": "Esd 9:7",
+          "text": "a diebus patrum nostrorum sed et nos ipsi peccavimus granditer usque ad diem hanc et in iniquitatibus nostris traditi sumus ipsi et reges nostri et sacerdotes nostri in manum regum terrarum in gladium in captivitatem in rapinam et in confusionem vultus sicut et die hac",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.9.8",
+          "sblId": "Ezra 9:8",
+          "name": "Esdrae 9:8",
+          "shortName": "Esd 9:8",
+          "text": "et nunc quasi parum et ad momentum facta est deprecatio nostra apud Dominum Deum nostrum ut dimitterentur nobis reliquiae et daretur paxillus in loco sancto eius et inluminaret oculos nostros Deus noster et daret nobis vitam modicam in servitute nostra",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.9.9",
+          "sblId": "Ezra 9:9",
+          "name": "Esdrae 9:9",
+          "shortName": "Esd 9:9",
+          "text": "quia servi sumus et in servitute nostra non dereliquit nos Deus noster et inclinavit super nos misericordiam coram rege Persarum ut daret nobis vitam et sublimaret domum Dei nostri et extrueret solitudines eius et daret nobis sepem in Iuda et in Hierusalem",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.9.10",
+          "sblId": "Ezra 9:10",
+          "name": "Esdrae 9:10",
+          "shortName": "Esd 9:10",
+          "text": "et nunc quid dicemus Deus noster post haec quia dereliquimus mandata tua",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.9.11",
+          "sblId": "Ezra 9:11",
+          "name": "Esdrae 9:11",
+          "shortName": "Esd 9:11",
+          "text": "quae praecepisti in manu servorum tuorum prophetarum dicens terram ad quam vos ingredimini ut possideatis eam terra inmunda est iuxta inmunditiam populorum ceterarumque terrarum abominationibus eorum qui repleverunt eam ab ore usque ad os in coinquinatione sua",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Ezra.9.12",
+          "sblId": "Ezra 9:12",
+          "name": "Esdrae 9:12",
+          "shortName": "Esd 9:12",
+          "text": "nunc ergo filias vestras ne detis filiis eorum et filias eorum non accipiatis filiis vestris et non quaeratis pacem eorum et prosperitatem eorum usque in aeternum ut confortemini et comedatis quae bona sunt terrae et heredes habeatis filios vestros usque in saeculum",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Ezra.9.13",
+          "sblId": "Ezra 9:13",
+          "name": "Esdrae 9:13",
+          "shortName": "Esd 9:13",
+          "text": "et post omnia quae venerunt super nos in operibus nostris pessimis et in delicto nostro magno quia tu Deus noster liberasti nos de iniquitate nostra et dedisti nobis salutem sicut est hodie",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Ezra.9.14",
+          "sblId": "Ezra 9:14",
+          "name": "Esdrae 9:14",
+          "shortName": "Esd 9:14",
+          "text": "ut non converteremur et irrita faceremus mandata tua neque matrimonia iungeremus cum populis abominationum istarum numquid iratus es nobis usque ad consummationem ne dimitteres nobis reliquias et salutem",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Ezra.9.15",
+          "sblId": "Ezra 9:15",
+          "name": "Esdrae 9:15",
+          "shortName": "Esd 9:15",
+          "text": "Domine Deus Israhel iustus tu quoniam derelicti sumus qui salvaremur sicut die hac ecce coram te sumus in delicto nostro non enim stari potest coram te super hoc",
+          "orderIndex": 14
+        }
+      ]
+    },
+    {
+      "osisId": "Ezra.10",
+      "sblId": "Ezra 10",
+      "name": "Esdrae 10",
+      "shortName": "Esd 10",
+      "orderIndex": 9,
+      "versesCount": 44,
+      "verses": [
+        {
+          "osisId": "Ezra.10.1",
+          "sblId": "Ezra 10:1",
+          "name": "Esdrae 10:1",
+          "shortName": "Esd 10:1",
+          "text": "sic ergo orante Ezra et inplorante eo et flente et iacente ante templum Dei collectus est ad eum de Israhel coetus grandis nimis virorum et mulierum puerorumque et flevit populus multo fletu",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Ezra.10.2",
+          "sblId": "Ezra 10:2",
+          "name": "Esdrae 10:2",
+          "shortName": "Esd 10:2",
+          "text": "et respondit Sechenia filius Iehihel de filiis Helam et dixit Ezrae nos praevaricati sumus in Deum nostrum et duximus uxores alienigenas de populis terrae et nunc si est paenitentia Israhel super hoc",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Ezra.10.3",
+          "sblId": "Ezra 10:3",
+          "name": "Esdrae 10:3",
+          "shortName": "Esd 10:3",
+          "text": "percutiamus foedus cum Deo nostro ut proiciamus universas uxores et eos qui de his nati sunt iuxta voluntatem Domini et eorum qui timent praeceptum Dei nostri secundum legem fiat",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Ezra.10.4",
+          "sblId": "Ezra 10:4",
+          "name": "Esdrae 10:4",
+          "shortName": "Esd 10:4",
+          "text": "surge tuum est decernere nosque erimus tecum confortare et fac",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Ezra.10.5",
+          "sblId": "Ezra 10:5",
+          "name": "Esdrae 10:5",
+          "shortName": "Esd 10:5",
+          "text": "surrexit ergo Ezras et adiuravit principes sacerdotum Levitarum et omnem Israhel ut facerent secundum verbum hoc et iuraverunt",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Ezra.10.6",
+          "sblId": "Ezra 10:6",
+          "name": "Esdrae 10:6",
+          "shortName": "Esd 10:6",
+          "text": "et surrexit Ezras ante domum Dei et abiit ad cubiculum Iohanan filii Eliasib et ingressus est illuc panem non comedit et aquam non bibit lugebat enim in transgressione eorum qui de captivitate venerant",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Ezra.10.7",
+          "sblId": "Ezra 10:7",
+          "name": "Esdrae 10:7",
+          "shortName": "Esd 10:7",
+          "text": "et missa est vox in Iuda et in Hierusalem omnibus filiis transmigrationis ut congregarentur in Hierusalem",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Ezra.10.8",
+          "sblId": "Ezra 10:8",
+          "name": "Esdrae 10:8",
+          "shortName": "Esd 10:8",
+          "text": "et omnis qui non venerit in tribus diebus iuxta consilium principum et seniorum auferetur universa substantia eius et ipse abicietur de coetu transmigrationis",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Ezra.10.9",
+          "sblId": "Ezra 10:9",
+          "name": "Esdrae 10:9",
+          "shortName": "Esd 10:9",
+          "text": "convenerunt igitur omnes viri Iuda et Beniamin in Hierusalem tribus diebus ipse est mensis nonus vicesimo die mensis et sedit omnis populus in platea domus Dei trementes pro peccato et pluviis",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Ezra.10.10",
+          "sblId": "Ezra 10:10",
+          "name": "Esdrae 10:10",
+          "shortName": "Esd 10:10",
+          "text": "et surrexit Ezras sacerdos et dixit ad eos vos transgressi estis et duxistis uxores alienigenas ut adderetis super delictum Israhel",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Ezra.10.11",
+          "sblId": "Ezra 10:11",
+          "name": "Esdrae 10:11",
+          "shortName": "Esd 10:11",
+          "text": "et nunc date confessionem Domino Deo patrum vestrorum et facite placitum eius et separamini a populis terrae et ab uxoribus alienigenis",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Ezra.10.12",
+          "sblId": "Ezra 10:12",
+          "name": "Esdrae 10:12",
+          "shortName": "Esd 10:12",
+          "text": "et respondit universa multitudo dixitque voce magna iuxta verbum tuum ad nos sic fiat",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Ezra.10.13",
+          "sblId": "Ezra 10:13",
+          "name": "Esdrae 10:13",
+          "shortName": "Esd 10:13",
+          "text": "verumtamen quia populus multus est et tempus pluviae et non sustinemus stare foris et opus non est diei unius vel duorum vehementer quippe peccavimus in sermone isto",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Ezra.10.14",
+          "sblId": "Ezra 10:14",
+          "name": "Esdrae 10:14",
+          "shortName": "Esd 10:14",
+          "text": "constituantur principes in universa multitudine et omnes in civitatibus nostris qui duxerunt uxores alienigenas veniant in temporibus statutis et cum his seniores per civitatem et civitatem et iudices eius donec avertatur ira Dei nostri a nobis super peccato hoc",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Ezra.10.15",
+          "sblId": "Ezra 10:15",
+          "name": "Esdrae 10:15",
+          "shortName": "Esd 10:15",
+          "text": "igitur Ionathan filius Asahel et Iaazia filius Thecuae steterunt super hoc et Mesollam et Sebethai Levites adiuverunt eos",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Ezra.10.16",
+          "sblId": "Ezra 10:16",
+          "name": "Esdrae 10:16",
+          "shortName": "Esd 10:16",
+          "text": "feceruntque sic filii transmigrationis et abierunt Ezras sacerdos et viri principes familiarum in domum patrum suorum et omnes per nomina sua et sederunt in die primo mensis decimi ut quaererent rem",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Ezra.10.17",
+          "sblId": "Ezra 10:17",
+          "name": "Esdrae 10:17",
+          "shortName": "Esd 10:17",
+          "text": "et consummati sunt omnes viri qui duxerant uxores alienigenas usque ad diem primam mensis primi",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Ezra.10.18",
+          "sblId": "Ezra 10:18",
+          "name": "Esdrae 10:18",
+          "shortName": "Esd 10:18",
+          "text": "et inventi sunt de filiis sacerdotum qui duxerant uxores alienigenas de filiis Iosue filii Iosedech et fratres eius Maasia et Eliezer et Iarib et Godolia",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Ezra.10.19",
+          "sblId": "Ezra 10:19",
+          "name": "Esdrae 10:19",
+          "shortName": "Esd 10:19",
+          "text": "et dederunt manus suas ut eicerent uxores suas et pro delicto suo arietem de ovibus offerrent",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Ezra.10.20",
+          "sblId": "Ezra 10:20",
+          "name": "Esdrae 10:20",
+          "shortName": "Esd 10:20",
+          "text": "et de filiis Emmer Anani et Zebedia",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Ezra.10.21",
+          "sblId": "Ezra 10:21",
+          "name": "Esdrae 10:21",
+          "shortName": "Esd 10:21",
+          "text": "et de filiis Erim Masia et Helia et Semeia et Hiehihel et Ozias",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Ezra.10.22",
+          "sblId": "Ezra 10:22",
+          "name": "Esdrae 10:22",
+          "shortName": "Esd 10:22",
+          "text": "et de filiis Phessur Helioenai Maasia Ismahel Nathanahel Iozabeth et Elasa",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Ezra.10.23",
+          "sblId": "Ezra 10:23",
+          "name": "Esdrae 10:23",
+          "shortName": "Esd 10:23",
+          "text": "et de filiis Levitarum Iozabeth et Semei et Celaia ipse est Calita Phataia Iuda et Eliezer",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Ezra.10.24",
+          "sblId": "Ezra 10:24",
+          "name": "Esdrae 10:24",
+          "shortName": "Esd 10:24",
+          "text": "et de cantoribus Eliasub et de ianitoribus Sellum et Telem et Uri",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Ezra.10.25",
+          "sblId": "Ezra 10:25",
+          "name": "Esdrae 10:25",
+          "shortName": "Esd 10:25",
+          "text": "et ex Israhel de filiis Pharos Remia et Ezia et Melchia et Miamin et Eliezer et Melchia et Banea",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Ezra.10.26",
+          "sblId": "Ezra 10:26",
+          "name": "Esdrae 10:26",
+          "shortName": "Esd 10:26",
+          "text": "et de filiis Helam Mathania Zaccharias et Hiehil et Abdi et Irimoth et Helia",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Ezra.10.27",
+          "sblId": "Ezra 10:27",
+          "name": "Esdrae 10:27",
+          "shortName": "Esd 10:27",
+          "text": "et de filiis Zethua Helioenai Eliasib Mathania et Ierimuth et Zabeth et Aziza",
+          "orderIndex": 26
+        },
+        {
+          "osisId": "Ezra.10.28",
+          "sblId": "Ezra 10:28",
+          "name": "Esdrae 10:28",
+          "shortName": "Esd 10:28",
+          "text": "et de filiis Bebai Iohanan Anania Zabbai Athalai",
+          "orderIndex": 27
+        },
+        {
+          "osisId": "Ezra.10.29",
+          "sblId": "Ezra 10:29",
+          "name": "Esdrae 10:29",
+          "shortName": "Esd 10:29",
+          "text": "et de filiis Bani Mosollam et Melluch et Adaia Iasub et Saal et Ramoth",
+          "orderIndex": 28
+        },
+        {
+          "osisId": "Ezra.10.30",
+          "sblId": "Ezra 10:30",
+          "name": "Esdrae 10:30",
+          "shortName": "Esd 10:30",
+          "text": "et de filiis Phaethmoab Edna et Chalal Banaias Maasias Mathanias Beselehel et Bennui et Manasse",
+          "orderIndex": 29
+        },
+        {
+          "osisId": "Ezra.10.31",
+          "sblId": "Ezra 10:31",
+          "name": "Esdrae 10:31",
+          "shortName": "Esd 10:31",
+          "text": "et de filiis Erem Eliezer Iesue Melchias Semeias Symeon",
+          "orderIndex": 30
+        },
+        {
+          "osisId": "Ezra.10.32",
+          "sblId": "Ezra 10:32",
+          "name": "Esdrae 10:32",
+          "shortName": "Esd 10:32",
+          "text": "Beniamin Maloch Samarias",
+          "orderIndex": 31
+        },
+        {
+          "osisId": "Ezra.10.33",
+          "sblId": "Ezra 10:33",
+          "name": "Esdrae 10:33",
+          "shortName": "Esd 10:33",
+          "text": "de filiis Asom Matthanai Matthetha Zabed Elipheleth Iermai Manasse Semei",
+          "orderIndex": 32
+        },
+        {
+          "osisId": "Ezra.10.34",
+          "sblId": "Ezra 10:34",
+          "name": "Esdrae 10:34",
+          "shortName": "Esd 10:34",
+          "text": "de filiis Bani Maaddi Amram et Huhel",
+          "orderIndex": 33
+        },
+        {
+          "osisId": "Ezra.10.35",
+          "sblId": "Ezra 10:35",
+          "name": "Esdrae 10:35",
+          "shortName": "Esd 10:35",
+          "text": "Baneas et Badaias Cheiliau",
+          "orderIndex": 34
+        },
+        {
+          "osisId": "Ezra.10.36",
+          "sblId": "Ezra 10:36",
+          "name": "Esdrae 10:36",
+          "shortName": "Esd 10:36",
+          "text": "Vannia Marimuth et Eliasib",
+          "orderIndex": 35
+        },
+        {
+          "osisId": "Ezra.10.37",
+          "sblId": "Ezra 10:37",
+          "name": "Esdrae 10:37",
+          "shortName": "Esd 10:37",
+          "text": "Matthanias Mathanai et Iasi",
+          "orderIndex": 36
+        },
+        {
+          "osisId": "Ezra.10.38",
+          "sblId": "Ezra 10:38",
+          "name": "Esdrae 10:38",
+          "shortName": "Esd 10:38",
+          "text": "et Bani et Bennui Semei",
+          "orderIndex": 37
+        },
+        {
+          "osisId": "Ezra.10.39",
+          "sblId": "Ezra 10:39",
+          "name": "Esdrae 10:39",
+          "shortName": "Esd 10:39",
+          "text": "et Salmias et Nathan et Adaias",
+          "orderIndex": 38
+        },
+        {
+          "osisId": "Ezra.10.40",
+          "sblId": "Ezra 10:40",
+          "name": "Esdrae 10:40",
+          "shortName": "Esd 10:40",
+          "text": "Mechnedabai Sisai Sarai",
+          "orderIndex": 39
+        },
+        {
+          "osisId": "Ezra.10.41",
+          "sblId": "Ezra 10:41",
+          "name": "Esdrae 10:41",
+          "shortName": "Esd 10:41",
+          "text": "Ezrel et Selemau Semeria",
+          "orderIndex": 40
+        },
+        {
+          "osisId": "Ezra.10.42",
+          "sblId": "Ezra 10:42",
+          "name": "Esdrae 10:42",
+          "shortName": "Esd 10:42",
+          "text": "Sellum Amaria Ioseph",
+          "orderIndex": 41
+        },
+        {
+          "osisId": "Ezra.10.43",
+          "sblId": "Ezra 10:43",
+          "name": "Esdrae 10:43",
+          "shortName": "Esd 10:43",
+          "text": "de filiis Nebu Iaihel Matthathias Zabed Zabina Ieddu et Iohel Banaia",
+          "orderIndex": 42
+        },
+        {
+          "osisId": "Ezra.10.44",
+          "sblId": "Ezra 10:44",
+          "name": "Esdrae 10:44",
+          "shortName": "Esd 10:44",
+          "text": "omnes hii acceperunt uxores alienigenas et fuerunt ex eis mulieres quae pepererant filios",
+          "orderIndex": 43
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+chapters:
+- name: Joel 1
+  orderIndex: 0
+  osisId: Joel.1
+  sblId: Joel 1
+  shortName: Joel 1
+  verses:
+  - name: Joel 1:1
+    orderIndex: 0
+    osisId: Joel.1.1
+    sblId: Joel 1:1
+    shortName: Joel 1:1
+    text: The word of the LORD that came to Joel son of Pethuel.
+  - name: Joel 1:2
+    orderIndex: 1
+    osisId: Joel.1.2
+    sblId: Joel 1:2
+    shortName: Joel 1:2
+    text: Hear this, you elders; listen, all who live in the land. Has anything like
+      this ever happened in your days or in the days of your forefathers?
+  - name: Joel 1:3
+    orderIndex: 2
+    osisId: Joel.1.3
+    sblId: Joel 1:3
+    shortName: Joel 1:3
+    text: Tell it to your children, and let your children tell it to their children,
+      and their children to the next generation.
+  - name: Joel 1:4
+    orderIndex: 3
+    osisId: Joel.1.4
+    sblId: Joel 1:4
+    shortName: Joel 1:4
+    text: What the locust swarm has left the great locusts have eaten; what the great
+      locusts have left the young locusts have eaten; what the young locusts have
+      left other locusts have eaten.
+  - name: Joel 1:5
+    orderIndex: 4
+    osisId: Joel.1.5
+    sblId: Joel 1:5
+    shortName: Joel 1:5
+    text: Wake up, you drunkards, and weep! Wail, all you drinkers of wine; wail because
+      of the new wine, for it has been snatched from your lips.
+  - name: Joel 1:6
+    orderIndex: 5
+    osisId: Joel.1.6
+    sblId: Joel 1:6
+    shortName: Joel 1:6
+    text: A nation has invaded my land, powerful and without number; it has the teeth
+      of a lion, the fangs of a lioness.
+  - name: Joel 1:7
+    orderIndex: 6
+    osisId: Joel.1.7
+    sblId: Joel 1:7
+    shortName: Joel 1:7
+    text: It has laid waste my vines and ruined my fig trees. It has stripped off
+      their bark and thrown it away, leaving their branches white.
+  - name: Joel 1:8
+    orderIndex: 7
+    osisId: Joel.1.8
+    sblId: Joel 1:8
+    shortName: Joel 1:8
+    text: Mourn like a virgin in sackcloth grieving for the husband of her youth.
+  - name: Joel 1:9
+    orderIndex: 8
+    osisId: Joel.1.9
+    sblId: Joel 1:9
+    shortName: Joel 1:9
+    text: Grain offerings and drink offerings are cut off from the house of the LORD.
+      The priests are in mourning, those who minister before the LORD.
+  - name: Joel 1:10
+    orderIndex: 9
+    osisId: Joel.1.10
+    sblId: Joel 1:10
+    shortName: Joel 1:10
+    text: The fields are ruined, the ground is dried up; the grain is destroyed, the
+      new wine is dried up, the oil fails.
+  - name: Joel 1:11
+    orderIndex: 10
+    osisId: Joel.1.11
+    sblId: Joel 1:11
+    shortName: Joel 1:11
+    text: Despair, you farmers, wail, you vine growers; grieve for the wheat and the
+      barley, because the harvest of the field is destroyed.
+  - name: Joel 1:12
+    orderIndex: 11
+    osisId: Joel.1.12
+    sblId: Joel 1:12
+    shortName: Joel 1:12
+    text: The vine is dried up and the fig tree is withered; the pomegranate, the
+      palm and the apple tree- all the trees of the field-are dried up. Surely the
+      joy of mankind is withered away.
+  - name: Joel 1:13
+    orderIndex: 12
+    osisId: Joel.1.13
+    sblId: Joel 1:13
+    shortName: Joel 1:13
+    text: Put on sackcloth, O priests, and mourn; wail, you who minister before the
+      altar. Come, spend the night in sackcloth, you who minister before my God; for
+      the grain offerings and drink offerings are withheld from the house of your
+      God.
+  - name: Joel 1:14
+    orderIndex: 13
+    osisId: Joel.1.14
+    sblId: Joel 1:14
+    shortName: Joel 1:14
+    text: Declare a holy fast; call a sacred assembly. Summon the elders and all who
+      live in the land to the house of the LORD your God, and cry out to the LORD.
+  - name: Joel 1:15
+    orderIndex: 14
+    osisId: Joel.1.15
+    sblId: Joel 1:15
+    shortName: Joel 1:15
+    text: Alas for that day! For the day of the LORD is near; it will come like destruction
+      from the Almighty.
+  - name: Joel 1:16
+    orderIndex: 15
+    osisId: Joel.1.16
+    sblId: Joel 1:16
+    shortName: Joel 1:16
+    text: Has not the food been cut off before our very eyes- joy and gladness from
+      the house of our God?
+  - name: Joel 1:17
+    orderIndex: 16
+    osisId: Joel.1.17
+    sblId: Joel 1:17
+    shortName: Joel 1:17
+    text: The seeds are shriveled beneath the clods. The storehouses are in ruins,
+      the granaries have been broken down, for the grain has dried up.
+  - name: Joel 1:18
+    orderIndex: 17
+    osisId: Joel.1.18
+    sblId: Joel 1:18
+    shortName: Joel 1:18
+    text: How the cattle moan! The herds mill about because they have no pasture;
+      even the flocks of sheep are suffering.
+  - name: Joel 1:19
+    orderIndex: 18
+    osisId: Joel.1.19
+    sblId: Joel 1:19
+    shortName: Joel 1:19
+    text: To you, O LORD, I call, for fire has devoured the open pastures and flames
+      have burned up all the trees of the field.
+  - name: Joel 1:20
+    orderIndex: 19
+    osisId: Joel.1.20
+    sblId: Joel 1:20
+    shortName: Joel 1:20
+    text: Even the wild animals pant for you; the streams of water have dried up and
+      fire has devoured the open pastures.
+  versesCount: 20
+- name: Joel 2
+  orderIndex: 1
+  osisId: Joel.2
+  sblId: Joel 2
+  shortName: Joel 2
+  verses:
+  - name: Joel 2:1
+    orderIndex: 0
+    osisId: Joel.2.1
+    sblId: Joel 2:1
+    shortName: Joel 2:1
+    text: Blow the trumpet in Zion; sound the alarm on my holy hill. Let all who live
+      in the land tremble, for the day of the LORD is coming. It is close at hand-
+  - name: Joel 2:2
+    orderIndex: 1
+    osisId: Joel.2.2
+    sblId: Joel 2:2
+    shortName: Joel 2:2
+    text: a day of darkness and gloom, a day of clouds and blackness. Like dawn spreading
+      across the mountains a large and mighty army comes, such as never was of old
+      nor ever will be in ages to come.
+  - name: Joel 2:3
+    orderIndex: 2
+    osisId: Joel.2.3
+    sblId: Joel 2:3
+    shortName: Joel 2:3
+    text: Before them fire devours, behind them a flame blazes. Before them the land
+      is like the garden of Eden, behind them, a desert waste- nothing escapes them.
+  - name: Joel 2:4
+    orderIndex: 3
+    osisId: Joel.2.4
+    sblId: Joel 2:4
+    shortName: Joel 2:4
+    text: They have the appearance of horses; they gallop along like cavalry.
+  - name: Joel 2:5
+    orderIndex: 4
+    osisId: Joel.2.5
+    sblId: Joel 2:5
+    shortName: Joel 2:5
+    text: With a noise like that of chariots they leap over the mountaintops, like
+      a crackling fire consuming stubble, like a mighty army drawn up for battle.
+  - name: Joel 2:6
+    orderIndex: 5
+    osisId: Joel.2.6
+    sblId: Joel 2:6
+    shortName: Joel 2:6
+    text: At the sight of them, nations are in anguish; every face turns pale.
+  - name: Joel 2:7
+    orderIndex: 6
+    osisId: Joel.2.7
+    sblId: Joel 2:7
+    shortName: Joel 2:7
+    text: They charge like warriors; they scale walls like soldiers. They all march
+      in line, not swerving from their course.
+  - name: Joel 2:8
+    orderIndex: 7
+    osisId: Joel.2.8
+    sblId: Joel 2:8
+    shortName: Joel 2:8
+    text: They do not jostle each other; each marches straight ahead. They plunge
+      through defenses without breaking ranks.
+  - name: Joel 2:9
+    orderIndex: 8
+    osisId: Joel.2.9
+    sblId: Joel 2:9
+    shortName: Joel 2:9
+    text: They rush upon the city; they run along the wall. They climb into the houses;
+      like thieves they enter through the windows.
+  - name: Joel 2:10
+    orderIndex: 9
+    osisId: Joel.2.10
+    sblId: Joel 2:10
+    shortName: Joel 2:10
+    text: Before them the earth shakes, the sky trembles, the sun and moon are darkened,
+      and the stars no longer shine.
+  - name: Joel 2:11
+    orderIndex: 10
+    osisId: Joel.2.11
+    sblId: Joel 2:11
+    shortName: Joel 2:11
+    text: The LORD thunders at the head of his army; his forces are beyond number,
+      and mighty are those who obey his command. The day of the LORD is great; it
+      is dreadful. Who can endure it?
+  - name: Joel 2:12
+    orderIndex: 11
+    osisId: Joel.2.12
+    sblId: Joel 2:12
+    shortName: Joel 2:12
+    text: '"Even now," declares the LORD, "return to me with all your heart, with
+      fasting and weeping and mourning."'
+  - name: Joel 2:13
+    orderIndex: 12
+    osisId: Joel.2.13
+    sblId: Joel 2:13
+    shortName: Joel 2:13
+    text: Rend your heart and not your garments. Return to the LORD your God, for
+      he is gracious and compassionate, slow to anger and abounding in love, and he
+      relents from sending calamity.
+  - name: Joel 2:14
+    orderIndex: 13
+    osisId: Joel.2.14
+    sblId: Joel 2:14
+    shortName: Joel 2:14
+    text: Who knows? He may turn and have pity and leave behind a blessing- grain
+      offerings and drink offerings for the LORD your God.
+  - name: Joel 2:15
+    orderIndex: 14
+    osisId: Joel.2.15
+    sblId: Joel 2:15
+    shortName: Joel 2:15
+    text: Blow the trumpet in Zion, declare a holy fast, call a sacred assembly.
+  - name: Joel 2:16
+    orderIndex: 15
+    osisId: Joel.2.16
+    sblId: Joel 2:16
+    shortName: Joel 2:16
+    text: Gather the people, consecrate the assembly; bring together the elders, gather
+      the children, those nursing at the breast. Let the bridegroom leave his room
+      and the bride her chamber.
+  - name: Joel 2:17
+    orderIndex: 16
+    osisId: Joel.2.17
+    sblId: Joel 2:17
+    shortName: Joel 2:17
+    text: Let the priests, who minister before the LORD, weep between the temple porch
+      and the altar. Let them say, "Spare your people, O LORD. Do not make your inheritance
+      an object of scorn, a byword among the nations. Why should they say among the
+      peoples, 'Where is their God?'"
+  - name: Joel 2:18
+    orderIndex: 17
+    osisId: Joel.2.18
+    sblId: Joel 2:18
+    shortName: Joel 2:18
+    text: Then the LORD will be jealous for his land and take pity on his people.
+  - name: Joel 2:19
+    orderIndex: 18
+    osisId: Joel.2.19
+    sblId: Joel 2:19
+    shortName: Joel 2:19
+    text: 'The LORD will reply to them: "I am sending you grain, new wine and oil,
+      enough to satisfy you fully; never again will I make you an object of scorn
+      to the nations.'
+  - name: Joel 2:20
+    orderIndex: 19
+    osisId: Joel.2.20
+    sblId: Joel 2:20
+    shortName: Joel 2:20
+    text: '"I will drive the northern army far from you, pushing it into a parched
+      and barren land, with its front columns going into the eastern sea and those
+      in the rear into the western sea. And its stench will go up; its smell will
+      rise." Surely he has done great things.'
+  - name: Joel 2:21
+    orderIndex: 20
+    osisId: Joel.2.21
+    sblId: Joel 2:21
+    shortName: Joel 2:21
+    text: Be not afraid, O land; be glad and rejoice. Surely the LORD has done great
+      things.
+  - name: Joel 2:22
+    orderIndex: 21
+    osisId: Joel.2.22
+    sblId: Joel 2:22
+    shortName: Joel 2:22
+    text: Be not afraid, O wild animals, for the open pastures are becoming green.
+      The trees are bearing their fruit; the fig tree and the vine yield their riches.
+  - name: Joel 2:23
+    orderIndex: 22
+    osisId: Joel.2.23
+    sblId: Joel 2:23
+    shortName: Joel 2:23
+    text: Be glad, O people of Zion, rejoice in the LORD your God, for he has given
+      you the autumn rains in righteousness. He sends you abundant showers, both autumn
+      and spring rains, as before.
+  - name: Joel 2:24
+    orderIndex: 23
+    osisId: Joel.2.24
+    sblId: Joel 2:24
+    shortName: Joel 2:24
+    text: The threshing floors will be filled with grain; the vats will overflow with
+      new wine and oil.
+  - name: Joel 2:25
+    orderIndex: 24
+    osisId: Joel.2.25
+    sblId: Joel 2:25
+    shortName: Joel 2:25
+    text: '"I will repay you for the years the locusts have eaten- the great locust
+      and the young locust, the other locusts and the locust swarm - my great army
+      that I sent among you.'
+  - name: Joel 2:26
+    orderIndex: 25
+    osisId: Joel.2.26
+    sblId: Joel 2:26
+    shortName: Joel 2:26
+    text: You will have plenty to eat, until you are full, and you will praise the
+      name of the LORD your God, who has worked wonders for you; never again will
+      my people be shamed.
+  - name: Joel 2:27
+    orderIndex: 26
+    osisId: Joel.2.27
+    sblId: Joel 2:27
+    shortName: Joel 2:27
+    text: Then you will know that I am in Israel, that I am the LORD your God, and
+      that there is no other; never again will my people be shamed.
+  - name: Joel 2:28
+    orderIndex: 27
+    osisId: Joel.2.28
+    sblId: Joel 2:28
+    shortName: Joel 2:28
+    text: '"And afterward, I will pour out my Spirit on all people. Your sons and
+      daughters will prophesy, your old men will dream dreams, your young men will
+      see visions.'
+  - name: Joel 2:29
+    orderIndex: 28
+    osisId: Joel.2.29
+    sblId: Joel 2:29
+    shortName: Joel 2:29
+    text: Even on my servants, both men and women, I will pour out my Spirit in those
+      days.
+  - name: Joel 2:30
+    orderIndex: 29
+    osisId: Joel.2.30
+    sblId: Joel 2:30
+    shortName: Joel 2:30
+    text: I will show wonders in the heavens and on the earth, blood and fire and
+      billows of smoke.
+  - name: Joel 2:31
+    orderIndex: 30
+    osisId: Joel.2.31
+    sblId: Joel 2:31
+    shortName: Joel 2:31
+    text: The sun will be turned to darkness and the moon to blood before the coming
+      of the great and dreadful day of the LORD.
+  - name: Joel 2:32
+    orderIndex: 31
+    osisId: Joel.2.32
+    sblId: Joel 2:32
+    shortName: Joel 2:32
+    text: And everyone who calls on the name of the LORD will be saved; for on Mount
+      Zion and in Jerusalem there will be deliverance, as the LORD has said, among
+      the survivors whom the LORD calls.
+  versesCount: 32
+- name: Joel 3
+  orderIndex: 2
+  osisId: Joel.3
+  sblId: Joel 3
+  shortName: Joel 3
+  verses:
+  - name: Joel 3:1
+    orderIndex: 0
+    osisId: Joel.3.1
+    sblId: Joel 3:1
+    shortName: Joel 3:1
+    text: '"In those days and at that time, when I restore the fortunes of Judah and
+      Jerusalem,'
+  - name: Joel 3:2
+    orderIndex: 1
+    osisId: Joel.3.2
+    sblId: Joel 3:2
+    shortName: Joel 3:2
+    text: I will gather all nations and bring them down to the Valley of Jehoshaphat.
+      There I will enter into judgment against them concerning my inheritance, my
+      people Israel, for they scattered my people among the nations and divided up
+      my land.
+  - name: Joel 3:3
+    orderIndex: 2
+    osisId: Joel.3.3
+    sblId: Joel 3:3
+    shortName: Joel 3:3
+    text: They cast lots for my people and traded boys for prostitutes; they sold
+      girls for wine that they might drink.
+  - name: Joel 3:4
+    orderIndex: 3
+    osisId: Joel.3.4
+    sblId: Joel 3:4
+    shortName: Joel 3:4
+    text: '"Now what have you against me, O Tyre and Sidon and all you regions of
+      Philistia? Are you repaying me for something I have done? If you are paying
+      me back, I will swiftly and speedily return on your own heads what you have
+      done.'
+  - name: Joel 3:5
+    orderIndex: 4
+    osisId: Joel.3.5
+    sblId: Joel 3:5
+    shortName: Joel 3:5
+    text: For you took my silver and my gold and carried off my finest treasures to
+      your temples.
+  - name: Joel 3:6
+    orderIndex: 5
+    osisId: Joel.3.6
+    sblId: Joel 3:6
+    shortName: Joel 3:6
+    text: You sold the people of Judah and Jerusalem to the Greeks, that you might
+      send them far from their homeland.
+  - name: Joel 3:7
+    orderIndex: 6
+    osisId: Joel.3.7
+    sblId: Joel 3:7
+    shortName: Joel 3:7
+    text: '"See, I am going to rouse them out of the places to which you sold them,
+      and I will return on your own heads what you have done.'
+  - name: Joel 3:8
+    orderIndex: 7
+    osisId: Joel.3.8
+    sblId: Joel 3:8
+    shortName: Joel 3:8
+    text: I will sell your sons and daughters to the people of Judah, and they will
+      sell them to the Sabeans, a nation far away." The LORD has spoken.
+  - name: Joel 3:9
+    orderIndex: 8
+    osisId: Joel.3.9
+    sblId: Joel 3:9
+    shortName: Joel 3:9
+    text: 'Proclaim this among the nations: Prepare for war! Rouse the warriors! Let
+      all the fighting men draw near and attack.'
+  - name: Joel 3:10
+    orderIndex: 9
+    osisId: Joel.3.10
+    sblId: Joel 3:10
+    shortName: Joel 3:10
+    text: Beat your plowshares into swords and your pruning hooks into spears. Let
+      the weakling say, "I am strong!"
+  - name: Joel 3:11
+    orderIndex: 10
+    osisId: Joel.3.11
+    sblId: Joel 3:11
+    shortName: Joel 3:11
+    text: Come quickly, all you nations from every side, and assemble there. Bring
+      down your warriors, O LORD!
+  - name: Joel 3:12
+    orderIndex: 11
+    osisId: Joel.3.12
+    sblId: Joel 3:12
+    shortName: Joel 3:12
+    text: '"Let the nations be roused; let them advance into the Valley of Jehoshaphat,
+      for there I will sit to judge all the nations on every side.'
+  - name: Joel 3:13
+    orderIndex: 12
+    osisId: Joel.3.13
+    sblId: Joel 3:13
+    shortName: Joel 3:13
+    text: Swing the sickle, for the harvest is ripe. Come, trample the grapes, for
+      the winepress is full and the vats overflow- so great is their wickedness!"
+  - name: Joel 3:14
+    orderIndex: 13
+    osisId: Joel.3.14
+    sblId: Joel 3:14
+    shortName: Joel 3:14
+    text: Multitudes, multitudes in the valley of decision! For the day of the LORD
+      is near in the valley of decision.
+  - name: Joel 3:15
+    orderIndex: 14
+    osisId: Joel.3.15
+    sblId: Joel 3:15
+    shortName: Joel 3:15
+    text: The sun and moon will be darkened, and the stars no longer shine.
+  - name: Joel 3:16
+    orderIndex: 15
+    osisId: Joel.3.16
+    sblId: Joel 3:16
+    shortName: Joel 3:16
+    text: The LORD will roar from Zion and thunder from Jerusalem; the earth and the
+      sky will tremble. But the LORD will be a refuge for his people, a stronghold
+      for the people of Israel.
+  - name: Joel 3:17
+    orderIndex: 16
+    osisId: Joel.3.17
+    sblId: Joel 3:17
+    shortName: Joel 3:17
+    text: '"Then you will know that I, the LORD your God, dwell in Zion, my holy hill.
+      Jerusalem will be holy; never again will foreigners invade her.'
+  - name: Joel 3:18
+    orderIndex: 17
+    osisId: Joel.3.18
+    sblId: Joel 3:18
+    shortName: Joel 3:18
+    text: '"In that day the mountains will drip new wine, and the hills will flow
+      with milk; all the ravines of Judah will run with water. A fountain will flow
+      out of the LORD''s house and will water the valley of acacias.'
+  - name: Joel 3:19
+    orderIndex: 18
+    osisId: Joel.3.19
+    sblId: Joel 3:19
+    shortName: Joel 3:19
+    text: But Egypt will be desolate, Edom a desert waste, because of violence done
+      to the people of Judah, in whose land they shed innocent blood.
+  - name: Joel 3:20
+    orderIndex: 19
+    osisId: Joel.3.20
+    sblId: Joel 3:20
+    shortName: Joel 3:20
+    text: Judah will be inhabited forever and Jerusalem through all generations.
+  - name: Joel 3:21
+    orderIndex: 20
+    osisId: Joel.3.21
+    sblId: Joel 3:21
+    shortName: Joel 3:21
+    text: Their bloodguilt, which I have not pardoned, I will pardon." The LORD dwells
+      in Zion!
+  versesCount: 21
+chaptersCount: 3
+name: Joel
+orderIndex: 28
+osisId: Joel
+sblId: Joel
+shortName: Joel
+versesCount: 73

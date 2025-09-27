@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="Dan" sblId="Dan" name="但以理书" shortName="但" orderIndex="26" chaptersCount="12" versesCount="357">
+  <chapters>
+    <Chapter osisId="Dan.1" sblId="Dan 1" name="但以理书 1" shortName="但 1" orderIndex="0" versesCount="21">
+      <verses>
+        <Verse osisId="Dan.1.1" sblId="Dan 1:1" name="但以理书 1:1" shortName="但 1:1" orderIndex="0">犹大 王 约雅敬 在位第三年， 巴比伦 王 尼布甲尼撒 来到 耶路撒冷 ，将城围困。</Verse>
+        <Verse osisId="Dan.1.2" sblId="Dan 1:2" name="但以理书 1:2" shortName="但 1:2" orderIndex="1">主将 犹大 王 约雅敬 和上帝殿中的一些器皿交在他的手中。他就把他们带到 示拿 地他神明的庙里，将器皿收入他神明的库房中。</Verse>
+        <Verse osisId="Dan.1.3" sblId="Dan 1:3" name="但以理书 1:3" shortName="但 1:3" orderIndex="2">王吩咐太监长 亚施毗拿 ，从 以色列 人的王室后裔和贵族中带进几个人来，</Verse>
+        <Verse osisId="Dan.1.4" sblId="Dan 1:4" name="但以理书 1:4" shortName="但 1:4" orderIndex="3">就是没有残疾、相貌俊美、通达各样学问 、知识聪明俱备、足能在王宫侍立的少年，要教他们 迦勒底 的文字和语言。</Verse>
+        <Verse osisId="Dan.1.5" sblId="Dan 1:5" name="但以理书 1:5" shortName="但 1:5" orderIndex="4">王从自己所用的膳和所饮的酒中，派给他们每日的分量，养育他们三年，好叫他们期满以后侍立在王面前。</Verse>
+        <Verse osisId="Dan.1.6" sblId="Dan 1:6" name="但以理书 1:6" shortName="但 1:6" orderIndex="5">他们中间有 犹大 人 但以理 、 哈拿尼雅 、 米沙利 和 亚撒利雅 。</Verse>
+        <Verse osisId="Dan.1.7" sblId="Dan 1:7" name="但以理书 1:7" shortName="但 1:7" orderIndex="6">太监长给他们另外起名，称 但以理 为 伯提沙撒 ，称 哈拿尼雅 为 沙得拉 ，称 米沙利 为 米煞 ，称 亚撒利雅 为 亚伯尼歌 。</Verse>
+        <Verse osisId="Dan.1.8" sblId="Dan 1:8" name="但以理书 1:8" shortName="但 1:8" orderIndex="7">但以理 却立志，不以王的膳和王所饮的酒玷污自己，于是恳求太监长容他不使自己玷污。</Verse>
+        <Verse osisId="Dan.1.9" sblId="Dan 1:9" name="但以理书 1:9" shortName="但 1:9" orderIndex="8">上帝使 但以理 在太监长眼前蒙恩，得怜悯。</Verse>
+        <Verse osisId="Dan.1.10" sblId="Dan 1:10" name="但以理书 1:10" shortName="但 1:10" orderIndex="9">太监长对 但以理 说：“我惧怕我主我王，他已经派给你们饮食，何必让他见你们的面貌比你们同年龄的少年憔悴呢？这样，你们就使我的头在王那里不保了。”</Verse>
+        <Verse osisId="Dan.1.11" sblId="Dan 1:11" name="但以理书 1:11" shortName="但 1:11" orderIndex="10">但以理 对太监长所派监管 但以理 、 哈拿尼雅 、 米沙利 、 亚撒利雅 的管理者说：</Verse>
+        <Verse osisId="Dan.1.12" sblId="Dan 1:12" name="但以理书 1:12" shortName="但 1:12" orderIndex="11">“请你考验仆人们十天，给我们素菜吃，清水喝，</Verse>
+        <Verse osisId="Dan.1.13" sblId="Dan 1:13" name="但以理书 1:13" shortName="但 1:13" orderIndex="12">然后你亲自观察我们的面貌和那用王膳的少年的面貌；就照你所观察的待你的仆人吧！”</Verse>
+        <Verse osisId="Dan.1.14" sblId="Dan 1:14" name="但以理书 1:14" shortName="但 1:14" orderIndex="13">管理者准许他们这件事，考验他们十天。</Verse>
+        <Verse osisId="Dan.1.15" sblId="Dan 1:15" name="但以理书 1:15" shortName="但 1:15" orderIndex="14">过了十天，他们的身材看来比所有享用王膳的少年更加俊美健壮，</Verse>
+        <Verse osisId="Dan.1.16" sblId="Dan 1:16" name="但以理书 1:16" shortName="但 1:16" orderIndex="15">于是管理者撤去王派给他们用的膳和所饮的酒，只给他们素菜。</Verse>
+        <Verse osisId="Dan.1.17" sblId="Dan 1:17" name="但以理书 1:17" shortName="但 1:17" orderIndex="16">这四个少年，上帝在各样文字学问上赐给他们知识和聪明； 但以理 又明白各样异象和梦兆。</Verse>
+        <Verse osisId="Dan.1.18" sblId="Dan 1:18" name="但以理书 1:18" shortName="但 1:18" orderIndex="17">王吩咐带他们进宫的日子到了，太监长就把他们带到 尼布甲尼撒 面前。</Verse>
+        <Verse osisId="Dan.1.19" sblId="Dan 1:19" name="但以理书 1:19" shortName="但 1:19" orderIndex="18">王与他们谈论，在所有少年中找不到人能与 但以理 、 哈拿尼雅 、 米沙利 、 亚撒利雅 相比，于是他们就在王面前侍立。</Verse>
+        <Verse osisId="Dan.1.20" sblId="Dan 1:20" name="但以理书 1:20" shortName="但 1:20" orderIndex="19">王考问他们一切智慧和聪明的事，发现他们比全国所有的术士和巫师胜过十倍。</Verse>
+        <Verse osisId="Dan.1.21" sblId="Dan 1:21" name="但以理书 1:21" shortName="但 1:21" orderIndex="20">到 居鲁士 王元年， 但以理 还健在。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.2" sblId="Dan 2" name="但以理书 2" shortName="但 2" orderIndex="1" versesCount="49">
+      <verses>
+        <Verse osisId="Dan.2.1" sblId="Dan 2:1" name="但以理书 2:1" shortName="但 2:1" orderIndex="0">尼布甲尼撒 在位第二年，他做了很多梦，心里烦乱，不能睡觉。</Verse>
+        <Verse osisId="Dan.2.2" sblId="Dan 2:2" name="但以理书 2:2" shortName="但 2:2" orderIndex="1">王吩咐人将术士、巫师、行邪术的和 迦勒底 人召来，要他们把王的梦告诉王；他们就来，站在王面前。</Verse>
+        <Verse osisId="Dan.2.3" sblId="Dan 2:3" name="但以理书 2:3" shortName="但 2:3" orderIndex="2">王对他们说：“我做了一个梦，心里烦乱，想要知道这是什么梦。”</Verse>
+        <Verse osisId="Dan.2.4" sblId="Dan 2:4" name="但以理书 2:4" shortName="但 2:4" orderIndex="3">迦勒底 人用 亚兰 话对王说：“愿王万岁！请将梦告诉仆人，我们就可以讲解。”</Verse>
+        <Verse osisId="Dan.2.5" sblId="Dan 2:5" name="但以理书 2:5" shortName="但 2:5" orderIndex="4">王回答 迦勒底 人说：“这事我已决定，你们若不把梦和梦的解释告诉我，就必被凌迟，你们的房屋必成粪堆；</Verse>
+        <Verse osisId="Dan.2.6" sblId="Dan 2:6" name="但以理书 2:6" shortName="但 2:6" orderIndex="5">但你们若能说出这个梦和梦的解释，就必从我得到礼物、赏赐和殊荣。现在，你们要把梦和梦的解释告诉我。”</Verse>
+        <Verse osisId="Dan.2.7" sblId="Dan 2:7" name="但以理书 2:7" shortName="但 2:7" orderIndex="6">他们再一次回答说：“请王将梦告诉仆人，我们就可以讲解。”</Verse>
+        <Verse osisId="Dan.2.8" sblId="Dan 2:8" name="但以理书 2:8" shortName="但 2:8" orderIndex="7">王回答说：“我确实知道你们是故意拖延，因为你们知道这事我已决定。</Verse>
+        <Verse osisId="Dan.2.9" sblId="Dan 2:9" name="但以理书 2:9" shortName="但 2:9" orderIndex="8">你们若不将梦告诉我，只有一个办法对待你们；因为你们彼此串通，向我胡言乱语，要等候情势改变。现在，你们要将梦告诉我，让我知道你们真能为我解梦。”</Verse>
+        <Verse osisId="Dan.2.10" sblId="Dan 2:10" name="但以理书 2:10" shortName="但 2:10" orderIndex="9">迦勒底 人回答王说：“世上没有人能解释王的事情；从来没有君王、大臣、掌权者向术士、巫师，或 迦勒底 人问过这样的事。</Verse>
+        <Verse osisId="Dan.2.11" sblId="Dan 2:11" name="但以理书 2:11" shortName="但 2:11" orderIndex="10">王所问的事很难，除了不与血肉之躯同住的上帝，没有人能在王面前解释。”</Verse>
+        <Verse osisId="Dan.2.12" sblId="Dan 2:12" name="但以理书 2:12" shortName="但 2:12" orderIndex="11">王因这事生气，大大震怒，吩咐灭绝 巴比伦 所有的智慧人。</Verse>
+        <Verse osisId="Dan.2.13" sblId="Dan 2:13" name="但以理书 2:13" shortName="但 2:13" orderIndex="12">命令发出，智慧人将要被杀，人就寻找 但以理 和他的同伴，要杀他们。</Verse>
+        <Verse osisId="Dan.2.14" sblId="Dan 2:14" name="但以理书 2:14" shortName="但 2:14" orderIndex="13">王的护卫长 亚略 奉命去杀 巴比伦 的智慧人， 但以理 用婉言和智慧回应，</Verse>
+        <Verse osisId="Dan.2.15" sblId="Dan 2:15" name="但以理书 2:15" shortName="但 2:15" orderIndex="14">向王的大臣 亚略 说：“王的命令为何这样紧急呢？” 亚略 就把事情告诉 但以理 。</Verse>
+        <Verse osisId="Dan.2.16" sblId="Dan 2:16" name="但以理书 2:16" shortName="但 2:16" orderIndex="15">于是 但以理 进去求王宽限，好为王解梦。</Verse>
+        <Verse osisId="Dan.2.17" sblId="Dan 2:17" name="但以理书 2:17" shortName="但 2:17" orderIndex="16">但以理 回到他的居所，把这事告诉他的同伴 哈拿尼雅 、 米沙利 、 亚撒利雅 ，</Verse>
+        <Verse osisId="Dan.2.18" sblId="Dan 2:18" name="但以理书 2:18" shortName="但 2:18" orderIndex="17">要他们祈求天上的上帝施怜悯，将这奥秘指明，免得 但以理 和他的同伴与 巴比伦 其余的智慧人一同灭亡。</Verse>
+        <Verse osisId="Dan.2.19" sblId="Dan 2:19" name="但以理书 2:19" shortName="但 2:19" orderIndex="18">这奥秘就在夜间异象中显明给 但以理 ， 但以理 就称颂天上的上帝。</Verse>
+        <Verse osisId="Dan.2.20" sblId="Dan 2:20" name="但以理书 2:20" shortName="但 2:20" orderIndex="19">但以理 说： “上帝的名是应当称颂的，从亘古直到永远！ 因为智慧和能力都属乎他。</Verse>
+        <Verse osisId="Dan.2.21" sblId="Dan 2:21" name="但以理书 2:21" shortName="但 2:21" orderIndex="20">他改变时间、季节， 他废王，立王； 将智慧赐给智慧人， 将知识赐给聪明人。</Verse>
+        <Verse osisId="Dan.2.22" sblId="Dan 2:22" name="但以理书 2:22" shortName="但 2:22" orderIndex="21">他显明深奥隐秘的事， 洞悉幽暗中的一切， 光明也与他同住。</Verse>
+        <Verse osisId="Dan.2.23" sblId="Dan 2:23" name="但以理书 2:23" shortName="但 2:23" orderIndex="22">我列祖的上帝啊，我感谢你，赞美你， 因你将智慧才能赐给我， 我们所求问的现在你已指明给我， 把王的事给我们指明。”</Verse>
+        <Verse osisId="Dan.2.24" sblId="Dan 2:24" name="但以理书 2:24" shortName="但 2:24" orderIndex="23">于是， 但以理 进到王所派灭绝 巴比伦 智慧人的 亚略 那里去，对他这样说：“不要灭绝 巴比伦 的智慧人，求你领我到王面前，我可以为王解梦。”</Verse>
+        <Verse osisId="Dan.2.25" sblId="Dan 2:25" name="但以理书 2:25" shortName="但 2:25" orderIndex="24">亚略 就急忙领 但以理 到王面前，对王这样说：“我在被掳的 犹大 人中找到一人，能将梦的解释告诉王。”</Verse>
+        <Verse osisId="Dan.2.26" sblId="Dan 2:26" name="但以理书 2:26" shortName="但 2:26" orderIndex="25">王对那称为 伯提沙撒 的 但以理 说：“你能将我所做的梦和梦的解释告诉我吗？”</Verse>
+        <Verse osisId="Dan.2.27" sblId="Dan 2:27" name="但以理书 2:27" shortName="但 2:27" orderIndex="26">但以理 回答王说：“王所问的那奥秘，智慧人、巫师、术士、观兆的都不能告诉王，</Verse>
+        <Verse osisId="Dan.2.28" sblId="Dan 2:28" name="但以理书 2:28" shortName="但 2:28" orderIndex="27">只有那在天上的上帝能显明奥秘。他已把日后将要发生的事指示 尼布甲尼撒 王。你在床上做的梦和你脑中的异象是这样：</Verse>
+        <Verse osisId="Dan.2.29" sblId="Dan 2:29" name="但以理书 2:29" shortName="但 2:29" orderIndex="28">你，王啊，你在床上所思想的是关乎日后的事，那显明奥秘的主已把将来要发生的事指示你。</Verse>
+        <Verse osisId="Dan.2.30" sblId="Dan 2:30" name="但以理书 2:30" shortName="但 2:30" orderIndex="29">至于我，那奥秘显明给我，并非因我智慧胜过一切活着的人，而是为了让王知道梦的解释，知道你心里的意念。</Verse>
+        <Verse osisId="Dan.2.31" sblId="Dan 2:31" name="但以理书 2:31" shortName="但 2:31" orderIndex="30">“你，王啊，你正观看，看哪，有一个很大的像，这像甚高，极其光耀，立在你面前，形状非常可怕。</Verse>
+        <Verse osisId="Dan.2.32" sblId="Dan 2:32" name="但以理书 2:32" shortName="但 2:32" orderIndex="31">这像的头是纯金的，胸膛和膀臂是银的，腹部和腰是铜的，</Verse>
+        <Verse osisId="Dan.2.33" sblId="Dan 2:33" name="但以理书 2:33" shortName="但 2:33" orderIndex="32">腿是铁的，脚是半铁半泥的。</Verse>
+        <Verse osisId="Dan.2.34" sblId="Dan 2:34" name="但以理书 2:34" shortName="但 2:34" orderIndex="33">你正观看，见有一块非人手凿出来的石头打在它半铁半泥的脚上，把脚砸碎；</Verse>
+        <Verse osisId="Dan.2.35" sblId="Dan 2:35" name="但以理书 2:35" shortName="但 2:35" orderIndex="34">于是铁、泥、铜、银、金都一同砸得粉碎，如夏天禾场上的糠秕，被风吹散，无处可寻。打碎这像的石头成了一座大山，覆盖全地。</Verse>
+        <Verse osisId="Dan.2.36" sblId="Dan 2:36" name="但以理书 2:36" shortName="但 2:36" orderIndex="35">“这就是那梦；我们要在王面前讲解那梦。</Verse>
+        <Verse osisId="Dan.2.37" sblId="Dan 2:37" name="但以理书 2:37" shortName="但 2:37" orderIndex="36">你，王啊，你是诸王之王。天上的上帝已将国度、权势、能力、尊荣都赐给你。</Verse>
+        <Verse osisId="Dan.2.38" sblId="Dan 2:38" name="但以理书 2:38" shortName="但 2:38" orderIndex="37">世人和走兽，并天空的飞鸟，不论居住何处，他都交在你的手中，令你掌管这一切。你就是那金的头。</Verse>
+        <Verse osisId="Dan.2.39" sblId="Dan 2:39" name="但以理书 2:39" shortName="但 2:39" orderIndex="38">在你以后必兴起另一国，不及于你；又有第三国如铜，必掌管全地。</Verse>
+        <Verse osisId="Dan.2.40" sblId="Dan 2:40" name="但以理书 2:40" shortName="但 2:40" orderIndex="39">第四国必坚壮如铁，就像铁能打碎砸碎一切；铁怎样压碎一切，那国也必照样打碎压碎。</Verse>
+        <Verse osisId="Dan.2.41" sblId="Dan 2:41" name="但以理书 2:41" shortName="但 2:41" orderIndex="40">你既看见像的脚和脚趾头，一半是陶匠的泥，一半是铁，那国将来也必分裂。你既看见铁和泥搀杂，那国也必有铁的力量。</Verse>
+        <Verse osisId="Dan.2.42" sblId="Dan 2:42" name="但以理书 2:42" shortName="但 2:42" orderIndex="41">那脚趾头既是半铁半泥，那国也必半强半弱。</Verse>
+        <Verse osisId="Dan.2.43" sblId="Dan 2:43" name="但以理书 2:43" shortName="但 2:43" orderIndex="42">你既看见铁和泥搀杂，他们必有混杂的后裔，却不能彼此相合，正如铁和泥不能相合。</Verse>
+        <Verse osisId="Dan.2.44" sblId="Dan 2:44" name="但以理书 2:44" shortName="但 2:44" orderIndex="43">当诸王在位的时候，天上的上帝必另立一个永不败坏的国度，这国度必不归给其他百姓，却要打碎灭绝所有的国度，存立到永远。</Verse>
+        <Verse osisId="Dan.2.45" sblId="Dan 2:45" name="但以理书 2:45" shortName="但 2:45" orderIndex="44">你既看见非人手凿出来的一块石头从山而出，打碎铁、铜、泥、银、金，那就是至大的上帝把将来要发生的事给王指明。这梦是确实的，这解释也是准确的。”</Verse>
+        <Verse osisId="Dan.2.46" sblId="Dan 2:46" name="但以理书 2:46" shortName="但 2:46" orderIndex="45">当时， 尼布甲尼撒 王脸伏于地，向 但以理 下拜，并且吩咐人给他奉上供物和香。</Verse>
+        <Verse osisId="Dan.2.47" sblId="Dan 2:47" name="但以理书 2:47" shortName="但 2:47" orderIndex="46">王对 但以理 说：“你既能讲明这奥秘，你们的上帝诚然是万神之神、万王之主，是奥秘的启示者。”</Verse>
+        <Verse osisId="Dan.2.48" sblId="Dan 2:48" name="但以理书 2:48" shortName="但 2:48" orderIndex="47">于是王使 但以理 高升，赏赐他极多的礼物，派他管理 巴比伦 全省，又立他为总理，掌管 巴比伦 所有的智慧人。</Verse>
+        <Verse osisId="Dan.2.49" sblId="Dan 2:49" name="但以理书 2:49" shortName="但 2:49" orderIndex="48">但以理 求王，王就派 沙得拉 、 米煞 、 亚伯尼歌 管理 巴比伦 省的事务，只是 但以理 仍在朝中侍立。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.3" sblId="Dan 3" name="但以理书 3" shortName="但 3" orderIndex="2" versesCount="30">
+      <verses>
+        <Verse osisId="Dan.3.1" sblId="Dan 3:1" name="但以理书 3:1" shortName="但 3:1" orderIndex="0">尼布甲尼撒 王造了一个金像，高六十肘，宽六肘，立在 巴比伦 省的 杜拉 平原。</Verse>
+        <Verse osisId="Dan.3.2" sblId="Dan 3:2" name="但以理书 3:2" shortName="但 3:2" orderIndex="1">尼布甲尼撒 王差人将总督、钦差、省长、参谋、财务、法官、地方官和各省的官员都召了来，为 尼布甲尼撒 王所立的像行开光礼。</Verse>
+        <Verse osisId="Dan.3.3" sblId="Dan 3:3" name="但以理书 3:3" shortName="但 3:3" orderIndex="2">于是总督、钦差、省长、参谋、财务、法官、地方官和各省的官员都聚集，站在 尼布甲尼撒 所立的像前，要为 尼布甲尼撒 王所立的像行开光礼。</Verse>
+        <Verse osisId="Dan.3.4" sblId="Dan 3:4" name="但以理书 3:4" shortName="但 3:4" orderIndex="3">那时传令的大声呼叫说：“各方、各国、各族 的人哪，有命令传给你们：</Verse>
+        <Verse osisId="Dan.3.5" sblId="Dan 3:5" name="但以理书 3:5" shortName="但 3:5" orderIndex="4">你们一听见角、号、琴、瑟、三角琴、鼓和各样乐器的声音，就当俯伏，拜 尼布甲尼撒 王所立的金像。</Verse>
+        <Verse osisId="Dan.3.6" sblId="Dan 3:6" name="但以理书 3:6" shortName="但 3:6" orderIndex="5">凡不俯伏下拜的，必立刻扔在烈火的窑中。”</Verse>
+        <Verse osisId="Dan.3.7" sblId="Dan 3:7" name="但以理书 3:7" shortName="但 3:7" orderIndex="6">因此百姓一听见角、号、琴、瑟、三角琴 和各样乐器的声音，各方、各国、各族的人就都俯伏，拜 尼布甲尼撒 王所立的金像。</Verse>
+        <Verse osisId="Dan.3.8" sblId="Dan 3:8" name="但以理书 3:8" shortName="但 3:8" orderIndex="7">在那时，有几个 迦勒底 人进前来控告 犹大 人。</Verse>
+        <Verse osisId="Dan.3.9" sblId="Dan 3:9" name="但以理书 3:9" shortName="但 3:9" orderIndex="8">他们对 尼布甲尼撒 王说：“愿王万岁！</Verse>
+        <Verse osisId="Dan.3.10" sblId="Dan 3:10" name="但以理书 3:10" shortName="但 3:10" orderIndex="9">你，王啊，你曾降旨，凡听见角、号、琴、瑟、三角琴、鼓和各样乐器声音的，都当俯伏拜这金像。</Verse>
+        <Verse osisId="Dan.3.11" sblId="Dan 3:11" name="但以理书 3:11" shortName="但 3:11" orderIndex="10">凡不俯伏下拜的，必扔在烈火的窑中。</Verse>
+        <Verse osisId="Dan.3.12" sblId="Dan 3:12" name="但以理书 3:12" shortName="但 3:12" orderIndex="11">现在有几个 犹大 人，就是王所派管理 巴比伦 省事务的 沙得拉 、 米煞 、 亚伯尼歌 ；王啊，这些人不理你的谕旨，不事奉你的神明，也不拜你所立的金像。”</Verse>
+        <Verse osisId="Dan.3.13" sblId="Dan 3:13" name="但以理书 3:13" shortName="但 3:13" orderIndex="12">当时， 尼布甲尼撒 大发烈怒，命令把 沙得拉 、 米煞 、 亚伯尼歌 带过来；他们就把这几个人带到王面前。</Verse>
+        <Verse osisId="Dan.3.14" sblId="Dan 3:14" name="但以理书 3:14" shortName="但 3:14" orderIndex="13">尼布甲尼撒 对他们说：“ 沙得拉 、 米煞 、 亚伯尼歌 ，你们不事奉我的神明，不拜我所立的金像，是真的吗？</Verse>
+        <Verse osisId="Dan.3.15" sblId="Dan 3:15" name="但以理书 3:15" shortName="但 3:15" orderIndex="14">现在，你们若准备好，一听见角、号、琴、瑟、三角琴、鼓和各样乐器的声音，就俯伏拜我所造的像；若不下拜，必立刻扔在烈火的窑中，有哪一个神明能救你们脱离我的手呢？”</Verse>
+        <Verse osisId="Dan.3.16" sblId="Dan 3:16" name="但以理书 3:16" shortName="但 3:16" orderIndex="15">沙得拉 、 米煞 、 亚伯尼歌 对王说：“ 尼布甲尼撒 啊，这件事我们不必回答你，</Verse>
+        <Verse osisId="Dan.3.17" sblId="Dan 3:17" name="但以理书 3:17" shortName="但 3:17" orderIndex="16">即便如此，我们所事奉的上帝能将我们从烈火的窑中救出来。王啊，他必救我们脱离你的手；</Verse>
+        <Verse osisId="Dan.3.18" sblId="Dan 3:18" name="但以理书 3:18" shortName="但 3:18" orderIndex="17">即或不然，王啊，你当知道，我们绝不事奉你的神明，也不拜你所立的金像。”</Verse>
+        <Verse osisId="Dan.3.19" sblId="Dan 3:19" name="但以理书 3:19" shortName="但 3:19" orderIndex="18">当时， 尼布甲尼撒 怒气填胸，向 沙得拉 、 米煞 、 亚伯尼歌 变了脸色，命令把窑烧热，比平常热七倍；</Verse>
+        <Verse osisId="Dan.3.20" sblId="Dan 3:20" name="但以理书 3:20" shortName="但 3:20" orderIndex="19">又命令他军中的几个壮士，把 沙得拉 、 米煞 、 亚伯尼歌 捆起来，扔在烈火的窑中。</Verse>
+        <Verse osisId="Dan.3.21" sblId="Dan 3:21" name="但以理书 3:21" shortName="但 3:21" orderIndex="20">这三人穿着内袍、外衣、头巾和其他的衣服，被捆起来扔在烈火的窑中。</Verse>
+        <Verse osisId="Dan.3.22" sblId="Dan 3:22" name="但以理书 3:22" shortName="但 3:22" orderIndex="21">因为王的命令紧急，窑又非常热，那抬 沙得拉 、 米煞 、 亚伯尼歌 的人都被火焰烧死。</Verse>
+        <Verse osisId="Dan.3.23" sblId="Dan 3:23" name="但以理书 3:23" shortName="但 3:23" orderIndex="22">但是这三个人， 沙得拉 、 米煞 、 亚伯尼歌 被捆绑着，掉进烈火的窑中。</Verse>
+        <Verse osisId="Dan.3.24" sblId="Dan 3:24" name="但以理书 3:24" shortName="但 3:24" orderIndex="23">那时， 尼布甲尼撒 王惊奇，急忙站起来，对谋士说：“我们捆起来扔在火里的不是三个人吗？”他们回答王说：“王啊，是的。”</Verse>
+        <Verse osisId="Dan.3.25" sblId="Dan 3:25" name="但以理书 3:25" shortName="但 3:25" orderIndex="24">王说：“看哪，我看见有四个人，并没有捆绑，在火中行走，也没有受伤；那第四个的相貌好像神明的儿子。”</Verse>
+        <Verse osisId="Dan.3.26" sblId="Dan 3:26" name="但以理书 3:26" shortName="但 3:26" orderIndex="25">于是 尼布甲尼撒 靠近烈火窑门，说：“至高上帝的仆人 沙得拉 、 米煞 、 亚伯尼歌 ，出来，来吧！” 沙得拉 、 米煞 、 亚伯尼歌 就从火中出来。</Verse>
+        <Verse osisId="Dan.3.27" sblId="Dan 3:27" name="但以理书 3:27" shortName="但 3:27" orderIndex="26">那些总督、钦差、省长和王的谋士一同聚集来看这三个人，见火不能伤他们的身体，头发没有烧焦，衣裳也没有变色，都没有火烧过的气味。</Verse>
+        <Verse osisId="Dan.3.28" sblId="Dan 3:28" name="但以理书 3:28" shortName="但 3:28" orderIndex="27">尼布甲尼撒 说：“ 沙得拉 、 米煞 、 亚伯尼歌 的上帝是应当称颂的！他差遣使者救护倚靠他的仆人，他们不遵王的命令，甚至舍身，在他们上帝以外不肯事奉敬拜别神。</Verse>
+        <Verse osisId="Dan.3.29" sblId="Dan 3:29" name="但以理书 3:29" shortName="但 3:29" orderIndex="28">现在我降旨，无论何方、何国、何族，凡有人毁谤 沙得拉 、 米煞 、 亚伯尼歌 的上帝，他必被凌迟，他的房屋必成粪堆，因为没有别神能像这样施行拯救。”</Verse>
+        <Verse osisId="Dan.3.30" sblId="Dan 3:30" name="但以理书 3:30" shortName="但 3:30" orderIndex="29">那时王在 巴比伦 省使 沙得拉 、 米煞 、 亚伯尼歌 高升。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.4" sblId="Dan 4" name="但以理书 4" shortName="但 4" orderIndex="3" versesCount="37">
+      <verses>
+        <Verse osisId="Dan.4.1" sblId="Dan 4:1" name="但以理书 4:1" shortName="但 4:1" orderIndex="0">尼布甲尼撒 王对住在全地各方、各国、各族的人说：“愿你们大享平安！</Verse>
+        <Verse osisId="Dan.4.2" sblId="Dan 4:2" name="但以理书 4:2" shortName="但 4:2" orderIndex="1">我乐意宣扬至高上帝向我所行的神迹奇事。</Verse>
+        <Verse osisId="Dan.4.3" sblId="Dan 4:3" name="但以理书 4:3" shortName="但 4:3" orderIndex="2">他的神迹何其大！ 他的奇事何其盛！ 他的国度存到永远； 他的权柄存到万代！</Verse>
+        <Verse osisId="Dan.4.4" sblId="Dan 4:4" name="但以理书 4:4" shortName="但 4:4" orderIndex="3">“我－ 尼布甲尼撒 安居在家中，在宫里享受荣华。</Verse>
+        <Verse osisId="Dan.4.5" sblId="Dan 4:5" name="但以理书 4:5" shortName="但 4:5" orderIndex="4">我做了一个梦，使我惧怕。我在床上的意念和脑中的异象，使我惊惶。</Verse>
+        <Verse osisId="Dan.4.6" sblId="Dan 4:6" name="但以理书 4:6" shortName="但 4:6" orderIndex="5">因此我降旨召 巴比伦 的智慧人全都到我面前，要他们将梦的解释告诉我。</Verse>
+        <Verse osisId="Dan.4.7" sblId="Dan 4:7" name="但以理书 4:7" shortName="但 4:7" orderIndex="6">于是那些术士、巫师、 迦勒底 人、观兆的都进来，我将那梦告诉他们，他们却不能把梦的解释告诉我。</Verse>
+        <Verse osisId="Dan.4.8" sblId="Dan 4:8" name="但以理书 4:8" shortName="但 4:8" orderIndex="7">最后， 但以理 ，就是按照我神明的名字称为 伯提沙撒 的，来到我面前，他里头有神圣神明的灵，我将梦告诉他：</Verse>
+        <Verse osisId="Dan.4.9" sblId="Dan 4:9" name="但以理书 4:9" shortName="但 4:9" orderIndex="8">‘术士的领袖 伯提沙撒 啊，我知道你里头有神圣神明的灵，什么奥秘都不能为难你。现在你要把我梦中所见的异象和梦的解释告诉我 。’</Verse>
+        <Verse osisId="Dan.4.10" sblId="Dan 4:10" name="但以理书 4:10" shortName="但 4:10" orderIndex="9">“我在床上脑中的异象是这样：我观看，看哪，大地中间有一棵树，极其高大。</Verse>
+        <Verse osisId="Dan.4.11" sblId="Dan 4:11" name="但以理书 4:11" shortName="但 4:11" orderIndex="10">那树渐长，而且茁壮，高得顶天，从地极都能看见，</Verse>
+        <Verse osisId="Dan.4.12" sblId="Dan 4:12" name="但以理书 4:12" shortName="但 4:12" orderIndex="11">叶子华美，果子甚多，可作所有动物的食物；野地的走兽卧在荫下，天空的飞鸟宿在枝上，凡有血肉的都从这树得食物。</Verse>
+        <Verse osisId="Dan.4.13" sblId="Dan 4:13" name="但以理书 4:13" shortName="但 4:13" orderIndex="12">“我观看，我在床上脑中的异象是这样，看哪，有守望者，就是神圣的一位，从天而降，</Verse>
+        <Verse osisId="Dan.4.14" sblId="Dan 4:14" name="但以理书 4:14" shortName="但 4:14" orderIndex="13">大声呼叫说：‘砍倒这树！砍下枝子！拔掉叶子！抛散果子！使走兽逃离树下，飞鸟躲开树枝。</Verse>
+        <Verse osisId="Dan.4.15" sblId="Dan 4:15" name="但以理书 4:15" shortName="但 4:15" orderIndex="14">树的残干却要留在地里，在田野的青草中用铁圈和铜圈套住。任他让天上的露水滴湿，和地上的走兽一同吃草，</Verse>
+        <Verse osisId="Dan.4.16" sblId="Dan 4:16" name="但以理书 4:16" shortName="但 4:16" orderIndex="15">使他的心改变，不再是人的心，而给他一个兽心，使他经过七个时期 。</Verse>
+        <Verse osisId="Dan.4.17" sblId="Dan 4:17" name="但以理书 4:17" shortName="但 4:17" orderIndex="16">这是众守望者所发的命令，是众圣者所作的决定，好叫世人知道至高者在人的国中掌权，要将国赐给谁就赐给谁，并且立极卑微的人执掌国权。’</Verse>
+        <Verse osisId="Dan.4.18" sblId="Dan 4:18" name="但以理书 4:18" shortName="但 4:18" orderIndex="17">“这是我－ 尼布甲尼撒 王所做的梦。 伯提沙撒 啊，你要说明这梦的解释；我国中所有的智慧人都不能把梦的解释告诉我，惟独你能，因你里头有神圣神明的灵。”</Verse>
+        <Verse osisId="Dan.4.19" sblId="Dan 4:19" name="但以理书 4:19" shortName="但 4:19" orderIndex="18">于是称为 伯提沙撒 的 但以理 惊骇片时，心意惊惶。王说：“ 伯提沙撒 啊，不要因梦和梦的解释惊惶。” 伯提沙撒 回答说：“我主啊，愿这梦归给恨恶你的人，这梦的解释归给你的敌人。</Verse>
+        <Verse osisId="Dan.4.20" sblId="Dan 4:20" name="但以理书 4:20" shortName="但 4:20" orderIndex="19">你所见的树渐长，而且茁壮，高得顶天，全地都能看见，</Verse>
+        <Verse osisId="Dan.4.21" sblId="Dan 4:21" name="但以理书 4:21" shortName="但 4:21" orderIndex="20">叶子华美，果子甚多，可作所有动物的食物；野地的走兽住在其下，天空的飞鸟宿在枝上。</Verse>
+        <Verse osisId="Dan.4.22" sblId="Dan 4:22" name="但以理书 4:22" shortName="但 4:22" orderIndex="21">“王啊，这成长又茁壮的树就是你。你的威势成长及于天，你的权柄达到地极。</Verse>
+        <Verse osisId="Dan.4.23" sblId="Dan 4:23" name="但以理书 4:23" shortName="但 4:23" orderIndex="22">王既看见一位神圣的守望者从天而降，说：‘将这树砍倒毁坏，树的残干却要留在地里，在田野的青草中用铁圈和铜圈套住。任他让天上的露水滴湿，与野地的走兽一同吃草，直到经过七个时期。’</Verse>
+        <Verse osisId="Dan.4.24" sblId="Dan 4:24" name="但以理书 4:24" shortName="但 4:24" orderIndex="23">“王啊，梦的解释就是这样：临到我主我王的事是出于至高者的命令。</Verse>
+        <Verse osisId="Dan.4.25" sblId="Dan 4:25" name="但以理书 4:25" shortName="但 4:25" orderIndex="24">你必被赶出离开世人，与野地的走兽同住，吃草如牛，让天上的露水滴湿，且要经过七个时期，直等到你知道至高者在人的国中掌权，要将国赐给谁就赐给谁。</Verse>
+        <Verse osisId="Dan.4.26" sblId="Dan 4:26" name="但以理书 4:26" shortName="但 4:26" orderIndex="25">这使树的残干存留的命令，是要等你知道天在掌权，你的国必定归你。</Verse>
+        <Verse osisId="Dan.4.27" sblId="Dan 4:27" name="但以理书 4:27" shortName="但 4:27" orderIndex="26">王啊，求你悦纳我的谏言，以施行公义除去罪过，以怜悯穷人除掉罪恶，或者你的平安可以延长。”</Verse>
+        <Verse osisId="Dan.4.28" sblId="Dan 4:28" name="但以理书 4:28" shortName="但 4:28" orderIndex="27">这些事都临到 尼布甲尼撒 王。</Verse>
+        <Verse osisId="Dan.4.29" sblId="Dan 4:29" name="但以理书 4:29" shortName="但 4:29" orderIndex="28">过了十二个月，他在 巴比伦 王宫顶上散步。</Verse>
+        <Verse osisId="Dan.4.30" sblId="Dan 4:30" name="但以理书 4:30" shortName="但 4:30" orderIndex="29">王说：“这大 巴比伦 岂不是我用大能大力建为首都，要显示我威严的荣耀吗？”</Verse>
+        <Verse osisId="Dan.4.31" sblId="Dan 4:31" name="但以理书 4:31" shortName="但 4:31" orderIndex="30">这话还在王口中的时候，有声音从天降下，说：“ 尼布甲尼撒 王啊，有话对你说，你的国离开你了。</Verse>
+        <Verse osisId="Dan.4.32" sblId="Dan 4:32" name="但以理书 4:32" shortName="但 4:32" orderIndex="31">你必被赶出离开世人，与野地的走兽同住，吃草如牛，且要经过七个时期；等你知道至高者在人的国中掌权，要将国赐给谁就赐给谁。”</Verse>
+        <Verse osisId="Dan.4.33" sblId="Dan 4:33" name="但以理书 4:33" shortName="但 4:33" orderIndex="32">当时这话就应验在 尼布甲尼撒 身上，他被赶出离开世人，吃草如牛，身体被天上的露水滴湿，头发长得像鹰的羽毛，指甲长得像鸟爪。</Verse>
+        <Verse osisId="Dan.4.34" sblId="Dan 4:34" name="但以理书 4:34" shortName="但 4:34" orderIndex="33">“时候到了，我－ 尼布甲尼撒 举目望天，我的知识复归于我，我就称颂至高者，赞美尊敬活到永远的上帝。 他的权柄存到永远， 他的国度存到万代。</Verse>
+        <Verse osisId="Dan.4.35" sblId="Dan 4:35" name="但以理书 4:35" shortName="但 4:35" orderIndex="34">地上所有的居民都算为虚无； 在天上万军和地上居民中， 他都凭自己的旨意行事。 无人能拦住他的手， 或问他说，你在做什么呢？</Verse>
+        <Verse osisId="Dan.4.36" sblId="Dan 4:36" name="但以理书 4:36" shortName="但 4:36" orderIndex="35">“那时，我的知识复归于我，威严和光荣也复归于我，使我的国度得荣耀，我的谋士和大臣也来朝见我。我又重建我的国度，更大的权势加添在我身上。</Verse>
+        <Verse osisId="Dan.4.37" sblId="Dan 4:37" name="但以理书 4:37" shortName="但 4:37" orderIndex="36">现在我－ 尼布甲尼撒 赞美、尊崇、恭敬天上的王，因为他所行的全都信实，他所做的尽都公平。那行事骄傲的，他能降为卑。”</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.5" sblId="Dan 5" name="但以理书 5" shortName="但 5" orderIndex="4" versesCount="31">
+      <verses>
+        <Verse osisId="Dan.5.1" sblId="Dan 5:1" name="但以理书 5:1" shortName="但 5:1" orderIndex="0">伯沙撒 王为他的一千大臣摆设盛筵，与这一千人饮酒。</Verse>
+        <Verse osisId="Dan.5.2" sblId="Dan 5:2" name="但以理书 5:2" shortName="但 5:2" orderIndex="1">伯沙撒 在欢饮之间，吩咐人将他父 尼布甲尼撒 从 耶路撒冷 圣殿所掳掠的金银器皿拿来，好使王与大臣、王后、妃嫔用这器皿饮酒。</Verse>
+        <Verse osisId="Dan.5.3" sblId="Dan 5:3" name="但以理书 5:3" shortName="但 5:3" orderIndex="2">于是他们把圣殿，就是 耶路撒冷 上帝殿中所掳掠的金器皿拿来，王和大臣、王后、妃嫔就用这器皿饮酒。</Verse>
+        <Verse osisId="Dan.5.4" sblId="Dan 5:4" name="但以理书 5:4" shortName="但 5:4" orderIndex="3">他们饮酒，赞美金、银、铜、铁、木、石造的神明。</Verse>
+        <Verse osisId="Dan.5.5" sblId="Dan 5:5" name="但以理书 5:5" shortName="但 5:5" orderIndex="4">当时，忽然有人的指头出现，在灯台对面王宫粉刷的墙上写字。王看见写字的指头，</Verse>
+        <Verse osisId="Dan.5.6" sblId="Dan 5:6" name="但以理书 5:6" shortName="但 5:6" orderIndex="5">就变了脸色，心意惊惶，腰骨好像脱节，双膝彼此相碰，</Verse>
+        <Verse osisId="Dan.5.7" sblId="Dan 5:7" name="但以理书 5:7" shortName="但 5:7" orderIndex="6">大声吩咐将巫师、 迦勒底 人和观兆的领进来。王对 巴比伦 的智慧人说：“谁能读这文字，并且向我讲解它的意思，他必身穿紫袍，项带金链，在我国中位列第三。”</Verse>
+        <Verse osisId="Dan.5.8" sblId="Dan 5:8" name="但以理书 5:8" shortName="但 5:8" orderIndex="7">于是王所有的智慧人都进前来，他们却不能读那文字，也不能为王讲解它的意思。</Verse>
+        <Verse osisId="Dan.5.9" sblId="Dan 5:9" name="但以理书 5:9" shortName="但 5:9" orderIndex="8">伯沙撒 王就甚惊惶，脸色改变，他的大臣也都困惑。</Verse>
+        <Verse osisId="Dan.5.10" sblId="Dan 5:10" name="但以理书 5:10" shortName="但 5:10" orderIndex="9">太后 因王和他大臣所说的话，就进入宴会厅，说：“愿王万岁！你的心不要惊惶，脸不要变色。</Verse>
+        <Verse osisId="Dan.5.11" sblId="Dan 5:11" name="但以理书 5:11" shortName="但 5:11" orderIndex="10">在你国中有一人，他里头有神圣神明的灵，你父在世的日子，这人心中光明，又有聪明智慧，好像神明的智慧。你父 尼布甲尼撒 王，就是王的父，曾立他为术士、巫师、 迦勒底 人和观兆者的领袖，</Verse>
+        <Verse osisId="Dan.5.12" sblId="Dan 5:12" name="但以理书 5:12" shortName="但 5:12" orderIndex="11">都因他有美好的灵性，又有知识聪明，能解梦，释谜语，解疑惑。这人名叫 但以理 ， 尼布甲尼撒 王又称他为 伯提沙撒 ，现在可以召他来，他必解明这意思。”</Verse>
+        <Verse osisId="Dan.5.13" sblId="Dan 5:13" name="但以理书 5:13" shortName="但 5:13" orderIndex="12">于是 但以理 被领到王面前。王问 但以理 说：“你就是我父王从 犹大 带来、被掳的 犹大 人 但以理 吗？</Verse>
+        <Verse osisId="Dan.5.14" sblId="Dan 5:14" name="但以理书 5:14" shortName="但 5:14" orderIndex="13">我听说你里头有神明的灵，心中有光，又有聪明和高超的智慧。</Verse>
+        <Verse osisId="Dan.5.15" sblId="Dan 5:15" name="但以理书 5:15" shortName="但 5:15" orderIndex="14">现在智慧人和巫师都被带到我面前，要叫他们读这文字，为我讲解它的意思；无奈他们都不能讲解它的意思。</Verse>
+        <Verse osisId="Dan.5.16" sblId="Dan 5:16" name="但以理书 5:16" shortName="但 5:16" orderIndex="15">我听说你能讲解，能解疑惑；现在你若能读这文字，为我讲解它的意思，就必身穿紫袍，项戴金链，在我国中位列第三。”</Verse>
+        <Verse osisId="Dan.5.17" sblId="Dan 5:17" name="但以理书 5:17" shortName="但 5:17" orderIndex="16">但以理 回答王说：“你的礼物可以归你自己，你的赏赐可以归给别人；我却要为王读这文字，讲解它的意思。</Verse>
+        <Verse osisId="Dan.5.18" sblId="Dan 5:18" name="但以理书 5:18" shortName="但 5:18" orderIndex="17">你，王啊，至高的上帝曾将国度、大权、荣耀、威严赐给你父 尼布甲尼撒 ；</Verse>
+        <Verse osisId="Dan.5.19" sblId="Dan 5:19" name="但以理书 5:19" shortName="但 5:19" orderIndex="18">因上帝所赐给他的大权，各方、各国、各族的人都在他面前恐惧战兢，因他要杀就杀，要人活就活，要升就升，要降就降。</Verse>
+        <Verse osisId="Dan.5.20" sblId="Dan 5:20" name="但以理书 5:20" shortName="但 5:20" orderIndex="19">但他的心高傲，灵也刚愎，以致行事狂傲，就被革去国度的王位，夺走荣耀。</Verse>
+        <Verse osisId="Dan.5.21" sblId="Dan 5:21" name="但以理书 5:21" shortName="但 5:21" orderIndex="20">他被赶出离开世人，他的心变为兽心，与野驴同住，吃草如牛，身体被天上的露水滴湿，直到他知道，至高的上帝在人的国中掌权，凭自己的旨意立人治国。</Verse>
+        <Verse osisId="Dan.5.22" sblId="Dan 5:22" name="但以理书 5:22" shortName="但 5:22" orderIndex="21">伯沙撒 啊，你是他的儿子 ，你虽知道这一切，却不谦卑自己，</Verse>
+        <Verse osisId="Dan.5.23" sblId="Dan 5:23" name="但以理书 5:23" shortName="但 5:23" orderIndex="22">竟向天上的主自高，差人将他殿中的器皿拿到你面前，你和大臣、王后、妃嫔用这器皿饮酒。你又赞美那不能看、不能听、无知无识，用金、银、铜、铁、木、石造的神明，没有将荣耀归与那手中掌管你气息，管理你一切行动的上帝。</Verse>
+        <Verse osisId="Dan.5.24" sblId="Dan 5:24" name="但以理书 5:24" shortName="但 5:24" orderIndex="23">于是从他那里显出指头写这文字。</Verse>
+        <Verse osisId="Dan.5.25" sblId="Dan 5:25" name="但以理书 5:25" shortName="但 5:25" orderIndex="24">“所写的文字是：‘弥尼，弥尼，提客勒，乌法珥新 。’</Verse>
+        <Verse osisId="Dan.5.26" sblId="Dan 5:26" name="但以理书 5:26" shortName="但 5:26" orderIndex="25">解释是这样：弥尼就是上帝数算你国的年日到此完毕。</Verse>
+        <Verse osisId="Dan.5.27" sblId="Dan 5:27" name="但以理书 5:27" shortName="但 5:27" orderIndex="26">提客勒就是你被秤在天平上，秤出你的亏欠来。</Verse>
+        <Verse osisId="Dan.5.28" sblId="Dan 5:28" name="但以理书 5:28" shortName="但 5:28" orderIndex="27">毗勒斯 就是你的国要分裂，归给 玛代 人和 波斯 人。”</Verse>
+        <Verse osisId="Dan.5.29" sblId="Dan 5:29" name="但以理书 5:29" shortName="但 5:29" orderIndex="28">于是 伯沙撒 下令，人就把紫袍给 但以理 穿上，把金链给他戴在颈项上，又传令使他在国中位列第三。</Verse>
+        <Verse osisId="Dan.5.30" sblId="Dan 5:30" name="但以理书 5:30" shortName="但 5:30" orderIndex="29">当夜， 迦勒底 王 伯沙撒 被杀。</Verse>
+        <Verse osisId="Dan.5.31" sblId="Dan 5:31" name="但以理书 5:31" shortName="但 5:31" orderIndex="30">玛代 人 大流士 年六十二岁，取了 迦勒底 国。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.6" sblId="Dan 6" name="但以理书 6" shortName="但 6" orderIndex="5" versesCount="28">
+      <verses>
+        <Verse osisId="Dan.6.1" sblId="Dan 6:1" name="但以理书 6:1" shortName="但 6:1" orderIndex="0">大流士 随心所愿，立了一百二十个总督，治理全国，</Verse>
+        <Verse osisId="Dan.6.2" sblId="Dan 6:2" name="但以理书 6:2" shortName="但 6:2" orderIndex="1">又在他们以上立总长三人， 但以理 也在其中；使总督在他们三人面前呈报，免得王受亏损。</Verse>
+        <Verse osisId="Dan.6.3" sblId="Dan 6:3" name="但以理书 6:3" shortName="但 6:3" orderIndex="2">这 但以理 因有卓越的灵性，超乎其余的总长和总督，王想立他治理全国。</Verse>
+        <Verse osisId="Dan.6.4" sblId="Dan 6:4" name="但以理书 6:4" shortName="但 6:4" orderIndex="3">那时，总长和总督在治国的事务上寻找 但以理 的把柄，为要控告他；只是找不到任何的把柄和过失，因他忠心办事，毫无错误过失。</Verse>
+        <Verse osisId="Dan.6.5" sblId="Dan 6:5" name="但以理书 6:5" shortName="但 6:5" orderIndex="4">那些人就说：“我们要找 但以理 的把柄，若不从他上帝的律法中下手，就寻不着。”</Verse>
+        <Verse osisId="Dan.6.6" sblId="Dan 6:6" name="但以理书 6:6" shortName="但 6:6" orderIndex="5">于是，总长和总督纷纷聚集来见王，说：“ 大流士 王万岁！</Verse>
+        <Verse osisId="Dan.6.7" sblId="Dan 6:7" name="但以理书 6:7" shortName="但 6:7" orderIndex="6">国中的总长、钦差、总督、谋士和省长彼此商议，求王下旨，立一条禁令，三十天之内，不拘何人，若在王以外，或向神明或向人求什么，就必扔在狮子坑中。</Verse>
+        <Verse osisId="Dan.6.8" sblId="Dan 6:8" name="但以理书 6:8" shortName="但 6:8" orderIndex="7">王啊，现在求你立这禁令，在这文件上签署，使它不能更改；照 玛代 人和 波斯 人的例，绝不更动。”</Verse>
+        <Verse osisId="Dan.6.9" sblId="Dan 6:9" name="但以理书 6:9" shortName="但 6:9" orderIndex="8">于是 大流士 王在这禁令的文件上签署。</Verse>
+        <Verse osisId="Dan.6.10" sblId="Dan 6:10" name="但以理书 6:10" shortName="但 6:10" orderIndex="9">但以理 知道这文件已经签署，就进自己的家，他家楼上的窗户开向 耶路撒冷 。他一天三次，双膝跪着，在他的上帝面前祷告感谢，像平常一样。</Verse>
+        <Verse osisId="Dan.6.11" sblId="Dan 6:11" name="但以理书 6:11" shortName="但 6:11" orderIndex="10">于是，那些人纷纷聚集，发现 但以理 在他上帝面前祈祷恳求。</Verse>
+        <Verse osisId="Dan.6.12" sblId="Dan 6:12" name="但以理书 6:12" shortName="但 6:12" orderIndex="11">他们就进到王面前，向王提及禁令，说：“三十天之内不拘何人，若在王以外，或向神明或向人求什么，必被扔在狮子坑中，王不是在这禁令上签署了吗？”王回答说：“确有这事，照 玛代 人和 波斯 人的例是不可更改的。”</Verse>
+        <Verse osisId="Dan.6.13" sblId="Dan 6:13" name="但以理书 6:13" shortName="但 6:13" orderIndex="12">他们对王说：“王啊，那被掳的 犹大 人 但以理 不理会你，也不遵守你签署的禁令，竟一天三次祈祷。”</Verse>
+        <Verse osisId="Dan.6.14" sblId="Dan 6:14" name="但以理书 6:14" shortName="但 6:14" orderIndex="13">王听见这话，就甚愁烦，一心要救 但以理 ，直到日落的时候，他还在筹划解救他。</Verse>
+        <Verse osisId="Dan.6.15" sblId="Dan 6:15" name="但以理书 6:15" shortName="但 6:15" orderIndex="14">那些人就纷纷聚集到王那里，对王说：“王啊，当知道 玛代 人和 波斯 人有例，凡王所立的禁令和律例都不可更改。”</Verse>
+        <Verse osisId="Dan.6.16" sblId="Dan 6:16" name="但以理书 6:16" shortName="但 6:16" orderIndex="15">于是王下令，人就把 但以理 带来，扔在狮子坑中。王对 但以理 说：“你经常事奉的上帝，他必拯救你。”</Verse>
+        <Verse osisId="Dan.6.17" sblId="Dan 6:17" name="但以理书 6:17" shortName="但 6:17" orderIndex="16">有人搬来一块石头放在坑口，王用自己的玺和大臣的印，封闭那坑，使惩办 但以理 的事绝不更改。</Verse>
+        <Verse osisId="Dan.6.18" sblId="Dan 6:18" name="但以理书 6:18" shortName="但 6:18" orderIndex="17">王回到宫里，终夜禁食，不让人带乐器 到他面前，他也失眠了。</Verse>
+        <Verse osisId="Dan.6.19" sblId="Dan 6:19" name="但以理书 6:19" shortName="但 6:19" orderIndex="18">次日黎明，王起来，急忙往狮子坑那里去，</Verse>
+        <Verse osisId="Dan.6.20" sblId="Dan 6:20" name="但以理书 6:20" shortName="但 6:20" orderIndex="19">临近坑边，哀声呼叫 但以理 。王对 但以理 说：“永生上帝的仆人 但以理 啊，你经常事奉的上帝能救你脱离狮子吗？”</Verse>
+        <Verse osisId="Dan.6.21" sblId="Dan 6:21" name="但以理书 6:21" shortName="但 6:21" orderIndex="20">但以理 对王说：“愿王万岁！</Verse>
+        <Verse osisId="Dan.6.22" sblId="Dan 6:22" name="但以理书 6:22" shortName="但 6:22" orderIndex="21">我的上帝差遣使者封住狮子的口，叫狮子不伤我，因我在上帝面前无辜。王啊，在你面前我也没有做过任何亏损的事。”</Verse>
+        <Verse osisId="Dan.6.23" sblId="Dan 6:23" name="但以理书 6:23" shortName="但 6:23" orderIndex="22">王因此就甚喜乐，吩咐把 但以理 从坑里拉上来。于是 但以理 从坑里被拉上来，身上毫无损伤，因为他信靠他的上帝。</Verse>
+        <Verse osisId="Dan.6.24" sblId="Dan 6:24" name="但以理书 6:24" shortName="但 6:24" orderIndex="23">王下令，把那些控告 但以理 的人和他们的妻子儿女都带来，扔在狮子坑中。他们还没有到坑底，狮子就制伏他们，咬碎他们的骨头。</Verse>
+        <Verse osisId="Dan.6.25" sblId="Dan 6:25" name="但以理书 6:25" shortName="但 6:25" orderIndex="24">于是， 大流士 王传旨给住在全地各方、各国、各族的人说：“愿你们大享平安！</Verse>
+        <Verse osisId="Dan.6.26" sblId="Dan 6:26" name="但以理书 6:26" shortName="但 6:26" orderIndex="25">现在我降旨，我所统辖全国的人民，都要在 但以理 的上帝面前战兢畏惧。 因为他是活的上帝， 永远长存， 他的国度永不败坏， 他的权柄永存无极！</Verse>
+        <Verse osisId="Dan.6.27" sblId="Dan 6:27" name="但以理书 6:27" shortName="但 6:27" orderIndex="26">他庇护，搭救， 在天上地下施行神迹奇事， 救了 但以理 脱离狮子的口。”</Verse>
+        <Verse osisId="Dan.6.28" sblId="Dan 6:28" name="但以理书 6:28" shortName="但 6:28" orderIndex="27">如此，这 但以理 ，当 大流士 在位的时候和 波斯 的 居鲁士 在位的时候，大享亨通。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.7" sblId="Dan 7" name="但以理书 7" shortName="但 7" orderIndex="6" versesCount="28">
+      <verses>
+        <Verse osisId="Dan.7.1" sblId="Dan 7:1" name="但以理书 7:1" shortName="但 7:1" orderIndex="0">巴比伦 王 伯沙撒 元年， 但以理 在床上做梦，脑中看见异象，就记录这梦，述说其中的大意。</Verse>
+        <Verse osisId="Dan.7.2" sblId="Dan 7:2" name="但以理书 7:2" shortName="但 7:2" orderIndex="1">但以理 说： 我在夜间的异象中观看，看哪，天上四风，突然刮在大海之上。</Verse>
+        <Verse osisId="Dan.7.3" sblId="Dan 7:3" name="但以理书 7:3" shortName="但 7:3" orderIndex="2">有四只巨兽从海里上来，它们各不相同：</Verse>
+        <Verse osisId="Dan.7.4" sblId="Dan 7:4" name="但以理书 7:4" shortName="但 7:4" orderIndex="3">头一个像狮子，有鹰的翅膀；我正观看的时候，它的翅膀被拔去，它从地上被扶起来，用两脚站立，像人一样，还给了它人的心。</Verse>
+        <Verse osisId="Dan.7.5" sblId="Dan 7:5" name="但以理书 7:5" shortName="但 7:5" orderIndex="4">看哪，另有一兽如熊，就是第二兽，半身侧立，口里的牙齿中有三根獠牙 。有人吩咐这兽说：“起来，吞吃许多的肉。”</Verse>
+        <Verse osisId="Dan.7.6" sblId="Dan 7:6" name="但以理书 7:6" shortName="但 7:6" orderIndex="5">其后，我观看，看哪，另有一兽如豹，背上有四个鸟的翅膀；这兽有四个头，还给了它权柄。</Verse>
+        <Verse osisId="Dan.7.7" sblId="Dan 7:7" name="但以理书 7:7" shortName="但 7:7" orderIndex="6">其后，我在夜间的异象中观看，看哪，第四兽可怕可惧，极其强壮，有大铁牙，吞吃嚼碎，剩下的用脚践踏。这兽与前面所有的兽不同，它有十只角。</Verse>
+        <Verse osisId="Dan.7.8" sblId="Dan 7:8" name="但以理书 7:8" shortName="但 7:8" orderIndex="7">我正思考这些角的时候，看哪，其中又长出另一只小角；先前的角中有三只角在它面前连根被拔出。看哪，这角有眼，像人的眼，有口说夸大的话。</Verse>
+        <Verse osisId="Dan.7.9" sblId="Dan 7:9" name="但以理书 7:9" shortName="但 7:9" orderIndex="8">我正观看的时候， 有宝座设立， 上面坐着亘古常在者。 他的衣服洁白如雪， 头发如纯净的羊毛。 宝座是火焰， 其轮为烈火。</Verse>
+        <Verse osisId="Dan.7.10" sblId="Dan 7:10" name="但以理书 7:10" shortName="但 7:10" orderIndex="9">有火如河涌出， 从他面前流出来； 事奉他的有千千， 在他面前侍立的有万万； 他坐着要行审判 ， 案卷都展开了。</Verse>
+        <Verse osisId="Dan.7.11" sblId="Dan 7:11" name="但以理书 7:11" shortName="但 7:11" orderIndex="10">于是我观看，因这角说夸大的话，我正观看的时候，那兽被杀，身体被毁，扔在火中焚烧。</Verse>
+        <Verse osisId="Dan.7.12" sblId="Dan 7:12" name="但以理书 7:12" shortName="但 7:12" orderIndex="11">其余的兽，权柄都被夺去，生命却得以延续，直到所定的时候和日期。</Verse>
+        <Verse osisId="Dan.7.13" sblId="Dan 7:13" name="但以理书 7:13" shortName="但 7:13" orderIndex="12">我在夜间的异象中观看， 看哪，有一位像人子的， 驾着天上的云而来， 被领到亘古常在者面前。</Verse>
+        <Verse osisId="Dan.7.14" sblId="Dan 7:14" name="但以理书 7:14" shortName="但 7:14" orderIndex="13">他得了权柄、荣耀、国度， 使各方、各国、各族的人都事奉他。 他的权柄是永远的，不能废去， 他的国度必不败坏。</Verse>
+        <Verse osisId="Dan.7.15" sblId="Dan 7:15" name="但以理书 7:15" shortName="但 7:15" orderIndex="14">至于我－ 但以理 ，我的灵在我里面忧伤，我脑中的异象使我惊惶。</Verse>
+        <Verse osisId="Dan.7.16" sblId="Dan 7:16" name="但以理书 7:16" shortName="但 7:16" orderIndex="15">我走近其中一位侍立者，问他这一切的实情。他就告诉我，使我知道这事的解释：</Verse>
+        <Verse osisId="Dan.7.17" sblId="Dan 7:17" name="但以理书 7:17" shortName="但 7:17" orderIndex="16">这四只巨兽就是将要在世上兴起的四个王 。</Verse>
+        <Verse osisId="Dan.7.18" sblId="Dan 7:18" name="但以理书 7:18" shortName="但 7:18" orderIndex="17">然而，至高者的众圣者必要得到这国度，并且拥有它，直到永远，永永远远。</Verse>
+        <Verse osisId="Dan.7.19" sblId="Dan 7:19" name="但以理书 7:19" shortName="但 7:19" orderIndex="18">于是我想要更清楚知道第四兽的实情，它与一切的兽不同，甚是可怕，有铁牙铜爪，吞吃嚼碎，剩下的用脚践踏；</Verse>
+        <Verse osisId="Dan.7.20" sblId="Dan 7:20" name="但以理书 7:20" shortName="但 7:20" orderIndex="19">头上有十只角和那另长出的一角，三只角在这角面前掉落；这角有眼，有口说夸大的话，形状比它的同类更强。</Verse>
+        <Verse osisId="Dan.7.21" sblId="Dan 7:21" name="但以理书 7:21" shortName="但 7:21" orderIndex="20">我观看，这角与众圣者争战，胜了他们，</Verse>
+        <Verse osisId="Dan.7.22" sblId="Dan 7:22" name="但以理书 7:22" shortName="但 7:22" orderIndex="21">直到亘古常在者来到，为至高者的众圣者伸冤，众圣者得到国度的时候就到了。</Verse>
+        <Verse osisId="Dan.7.23" sblId="Dan 7:23" name="但以理书 7:23" shortName="但 7:23" orderIndex="22">那侍立者这样说： 第四兽就是世上要兴起的第四国， 与其他各国不同， 它要并吞全地， 并且践踏嚼碎。</Verse>
+        <Verse osisId="Dan.7.24" sblId="Dan 7:24" name="但以理书 7:24" shortName="但 7:24" orderIndex="23">至于那十只角，就是从这国中兴起的十个王； 后来又兴起另一王， 与先前的不相同， 他要制伏三个王。</Verse>
+        <Verse osisId="Dan.7.25" sblId="Dan 7:25" name="但以理书 7:25" shortName="但 7:25" orderIndex="24">他说话抵挡至高者， 折磨至高者的众圣者， 又改变节期和律法。 众圣者要交在他手中一年 、两年、又半年。</Verse>
+        <Verse osisId="Dan.7.26" sblId="Dan 7:26" name="但以理书 7:26" shortName="但 7:26" orderIndex="25">然而，他坐着要行审判； 他的权柄要被夺去， 毁坏，灭绝，一直到底。</Verse>
+        <Verse osisId="Dan.7.27" sblId="Dan 7:27" name="但以理书 7:27" shortName="但 7:27" orderIndex="26">国度、权柄和天下诸国的大权 必赐给至高者的众圣民。 他的国是永远的国， 所有掌权的都必事奉他，顺从他。</Verse>
+        <Verse osisId="Dan.7.28" sblId="Dan 7:28" name="但以理书 7:28" shortName="但 7:28" orderIndex="27">这事到此结束。我－ 但以理 因这些念头甚是惊惶，脸色也变了，却将这事记在心里。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.8" sblId="Dan 8" name="但以理书 8" shortName="但 8" orderIndex="7" versesCount="27">
+      <verses>
+        <Verse osisId="Dan.8.1" sblId="Dan 8:1" name="但以理书 8:1" shortName="但 8:1" orderIndex="0">伯沙撒 王在位第三年，有异象向我－ 但以理 显现，是在先前所见的异象之后。</Verse>
+        <Verse osisId="Dan.8.2" sblId="Dan 8:2" name="但以理书 8:2" shortName="但 8:2" orderIndex="1">我在异象中观看，见自己在 以拦 省 书珊 的城堡中；我在异象中又见自己在 乌莱河 边。</Verse>
+        <Verse osisId="Dan.8.3" sblId="Dan 8:3" name="但以理书 8:3" shortName="但 8:3" orderIndex="2">我举目观看，看哪，有一只公绵羊站在河边，它有两只角，这两角都高，一角高过另一角，后长出来的比较高。</Verse>
+        <Verse osisId="Dan.8.4" sblId="Dan 8:4" name="但以理书 8:4" shortName="但 8:4" orderIndex="3">我见那公绵羊向西、向北、向南抵撞，没有任何兽在它面前站立得住，没有能逃脱它手的；它任意而行，自高自大。</Verse>
+        <Verse osisId="Dan.8.5" sblId="Dan 8:5" name="但以理书 8:5" shortName="但 8:5" orderIndex="4">我正思想的时候，看哪，有一只公山羊从西而来，遍行全地，脚不着地。这山羊两眼当中有一只显眼的角。</Verse>
+        <Verse osisId="Dan.8.6" sblId="Dan 8:6" name="但以理书 8:6" shortName="但 8:6" orderIndex="5">它往我先前所见、站在河边、有双角的公绵羊那里，以猛烈的怒气向它直闯。</Verse>
+        <Verse osisId="Dan.8.7" sblId="Dan 8:7" name="但以理书 8:7" shortName="但 8:7" orderIndex="6">我见公山羊靠近公绵羊，向它发怒，攻击它，折断它的两角。公绵羊在公山羊面前站立不住；它把公绵羊撞倒在地，用脚践踏，没有能救公绵羊脱离它手的。</Verse>
+        <Verse osisId="Dan.8.8" sblId="Dan 8:8" name="但以理书 8:8" shortName="但 8:8" orderIndex="7">这公山羊长得极其高大，正强壮的时候，那大角折断了，从角的下面向天的四方 长出四只显眼的角来。</Verse>
+        <Verse osisId="Dan.8.9" sblId="Dan 8:9" name="但以理书 8:9" shortName="但 8:9" orderIndex="8">从四角中的一角又长出另一只小角，向南、向东、向佳美之地，日渐壮大。</Verse>
+        <Verse osisId="Dan.8.10" sblId="Dan 8:10" name="但以理书 8:10" shortName="但 8:10" orderIndex="9">它渐壮大，高及诸天万象，把一些天象和星辰摔落在地，用脚践踏。</Verse>
+        <Verse osisId="Dan.8.11" sblId="Dan 8:11" name="但以理书 8:11" shortName="但 8:11" orderIndex="10">它自高自大 ，自以为高及万象之君，它除掉经常献给君的祭，毁坏君的圣所。</Verse>
+        <Verse osisId="Dan.8.12" sblId="Dan 8:12" name="但以理书 8:12" shortName="但 8:12" orderIndex="11">因罪过的缘故，有军队和经常献的祭交给它。它把真理抛在地上，任意而行 ，无往不利。</Verse>
+        <Verse osisId="Dan.8.13" sblId="Dan 8:13" name="但以理书 8:13" shortName="但 8:13" orderIndex="12">我听见有一位圣者说话，又有一位圣者向那说话的圣者说：“这经常献的祭、带来荒凉的罪过、圣所与军队被践踏的异象，要持续到几时呢？”</Verse>
+        <Verse osisId="Dan.8.14" sblId="Dan 8:14" name="但以理书 8:14" shortName="但 8:14" orderIndex="13">他对我 说：“要到二千三百日，圣所就必洁净 。”</Verse>
+        <Verse osisId="Dan.8.15" sblId="Dan 8:15" name="但以理书 8:15" shortName="但 8:15" orderIndex="14">我－ 但以理 见了这异象，想要明白其中的意思。看哪，有一位形状像人的站在我面前。</Verse>
+        <Verse osisId="Dan.8.16" sblId="Dan 8:16" name="但以理书 8:16" shortName="但 8:16" orderIndex="15">我听见 乌莱河 中有人声呼叫说：“ 加百列 啊，要使这人明白这异象。”</Verse>
+        <Verse osisId="Dan.8.17" sblId="Dan 8:17" name="但以理书 8:17" shortName="但 8:17" orderIndex="16">他就来到我所站的地方。他一来，我就惊慌，脸伏于地。他对我说：“人子啊，你要明白，因为这是关乎末后时期的异象。”</Verse>
+        <Verse osisId="Dan.8.18" sblId="Dan 8:18" name="但以理书 8:18" shortName="但 8:18" orderIndex="17">他对我说话的时候，我正沉睡，脸伏于地。他就摸我，扶我站起来。</Verse>
+        <Verse osisId="Dan.8.19" sblId="Dan 8:19" name="但以理书 8:19" shortName="但 8:19" orderIndex="18">他说：“看哪，我要指示你恼怒结束的时候必成的事，因为这是关乎末后指定的时期。</Verse>
+        <Verse osisId="Dan.8.20" sblId="Dan 8:20" name="但以理书 8:20" shortName="但 8:20" orderIndex="19">你所看见那有双角的公绵羊就是 玛代 王和 波斯 王。</Verse>
+        <Verse osisId="Dan.8.21" sblId="Dan 8:21" name="但以理书 8:21" shortName="但 8:21" orderIndex="20">那公山羊就是 希腊 王；两眼当中的大角就是第一个王。</Verse>
+        <Verse osisId="Dan.8.22" sblId="Dan 8:22" name="但以理书 8:22" shortName="但 8:22" orderIndex="21">至于角折断了，又从角的下面长出四只角，意思就是有四个国要从这国兴起，只是权势都不及它。</Verse>
+        <Verse osisId="Dan.8.23" sblId="Dan 8:23" name="但以理书 8:23" shortName="但 8:23" orderIndex="22">这四国末期，恶贯满盈的时候，必有一王兴起，面貌凶恶，诡计多端。</Verse>
+        <Verse osisId="Dan.8.24" sblId="Dan 8:24" name="但以理书 8:24" shortName="但 8:24" orderIndex="23">他的权柄极大，却不是因自己的能力；他要施行惊人的毁灭，无往不利，任意而行，又要毁灭强有力的人和众圣民。</Verse>
+        <Verse osisId="Dan.8.25" sblId="Dan 8:25" name="但以理书 8:25" shortName="但 8:25" orderIndex="24">他用权术使手中的诡计成功；他的心自高自大，趁人无备的时候毁灭多人。他又起来攻击万君之君，至终却非因人的手而遭毁灭。</Verse>
+        <Verse osisId="Dan.8.26" sblId="Dan 8:26" name="但以理书 8:26" shortName="但 8:26" orderIndex="25">所说二千三百日 的异象是真的，但你要将这异象封住，因为它关乎未来许多的日子。”</Verse>
+        <Verse osisId="Dan.8.27" sblId="Dan 8:27" name="但以理书 8:27" shortName="但 8:27" orderIndex="26">于是我－ 但以理 昏倒，病了数日，然后起来办理王的事务。我因这异象惊骇不已，但还是不能了解。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.9" sblId="Dan 9" name="但以理书 9" shortName="但 9" orderIndex="8" versesCount="27">
+      <verses>
+        <Verse osisId="Dan.9.1" sblId="Dan 9:1" name="但以理书 9:1" shortName="但 9:1" orderIndex="0">玛代 族 亚哈随鲁 的儿子 大流士 被立为王，统治 迦勒底 国元年，</Verse>
+        <Verse osisId="Dan.9.2" sblId="Dan 9:2" name="但以理书 9:2" shortName="但 9:2" orderIndex="1">就是他在位第一年，我－ 但以理 从书上得知，耶和华的话临到 耶利米 先知，论 耶路撒冷 荒凉期满的年数为七十年。</Verse>
+        <Verse osisId="Dan.9.3" sblId="Dan 9:3" name="但以理书 9:3" shortName="但 9:3" orderIndex="2">我面向主上帝，禁食，披麻蒙灰，恳切祷告祈求。</Verse>
+        <Verse osisId="Dan.9.4" sblId="Dan 9:4" name="但以理书 9:4" shortName="但 9:4" orderIndex="3">我向耶和华－我的上帝祈祷、认罪，说：“主啊，你是大而可畏的上帝，向爱主、守主诫命的人守约施慈爱。</Verse>
+        <Verse osisId="Dan.9.5" sblId="Dan 9:5" name="但以理书 9:5" shortName="但 9:5" orderIndex="4">我们犯罪作恶，行恶叛逆，偏离你的诫命典章，</Verse>
+        <Verse osisId="Dan.9.6" sblId="Dan 9:6" name="但以理书 9:6" shortName="但 9:6" orderIndex="5">没有听从你仆人众先知奉你的名向我们君王、官长、祖先和这地所有百姓所说的话。</Verse>
+        <Verse osisId="Dan.9.7" sblId="Dan 9:7" name="但以理书 9:7" shortName="但 9:7" orderIndex="6">主啊，你是公义的，但我们 犹大 人和 耶路撒冷 的居民，并你所赶到各国的 以色列 众人，不论远近，因为背叛了你，脸上蒙羞，正如今日一样。</Verse>
+        <Verse osisId="Dan.9.8" sblId="Dan 9:8" name="但以理书 9:8" shortName="但 9:8" orderIndex="7">耶和华啊，我们和我们的君王、官长、祖先因得罪了你，脸上就都蒙羞。</Verse>
+        <Verse osisId="Dan.9.9" sblId="Dan 9:9" name="但以理书 9:9" shortName="但 9:9" orderIndex="8">主－我们的上帝是怜悯饶恕人的，我们却违背了他，</Verse>
+        <Verse osisId="Dan.9.10" sblId="Dan 9:10" name="但以理书 9:10" shortName="但 9:10" orderIndex="9">没有听从耶和华－我们上帝的话，没有遵行他藉仆人众先知向我们颁布的律法。</Verse>
+        <Verse osisId="Dan.9.11" sblId="Dan 9:11" name="但以理书 9:11" shortName="但 9:11" orderIndex="10">以色列 众人都犯了你的律法，偏离、不听从你的话；因此，你仆人 摩西 律法上所写的诅咒和誓言倾倒在我们身上，因我们得罪了上帝。</Verse>
+        <Verse osisId="Dan.9.12" sblId="Dan 9:12" name="但以理书 9:12" shortName="但 9:12" orderIndex="11">上帝使大灾祸临到我们，实现了警戒我们和审判我们官长的话；原来 耶路撒冷 所遭遇的灾祸是普天之下未曾有过的。</Verse>
+        <Verse osisId="Dan.9.13" sblId="Dan 9:13" name="但以理书 9:13" shortName="但 9:13" orderIndex="12">这一切灾祸临到我们，是照 摩西 律法上所写的，我们却没有求耶和华－我们上帝的恩惠，使我们回转离开罪孽，明白你的真理。</Verse>
+        <Verse osisId="Dan.9.14" sblId="Dan 9:14" name="但以理书 9:14" shortName="但 9:14" orderIndex="13">所以耶和华特意使这灾祸临到我们，耶和华－我们的上帝在他所行的事上都是公义的；我们并没有听从他的话。</Verse>
+        <Verse osisId="Dan.9.15" sblId="Dan 9:15" name="但以理书 9:15" shortName="但 9:15" orderIndex="14">主－我们的上帝啊，你曾用大能的手领你的子民出 埃及 地，使自己得了名声，正如今日一样，现在，我们犯了罪，作了恶。</Verse>
+        <Verse osisId="Dan.9.16" sblId="Dan 9:16" name="但以理书 9:16" shortName="但 9:16" orderIndex="15">主啊，求你按你丰盛的公义，使你的怒气和愤怒转离你的城 耶路撒冷 ，就是你的圣山。因我们的罪恶和我们祖先的罪孽， 耶路撒冷 和你的子民被四围的人羞辱。</Verse>
+        <Verse osisId="Dan.9.17" sblId="Dan 9:17" name="但以理书 9:17" shortName="但 9:17" orderIndex="16">我们的上帝啊，现在求你垂听你仆人的祈祷恳求，为你自己的缘故使你的脸向荒凉的圣所发光。</Verse>
+        <Verse osisId="Dan.9.18" sblId="Dan 9:18" name="但以理书 9:18" shortName="但 9:18" orderIndex="17">我的上帝啊，求你侧耳而听，睁眼而看，眷顾我们那荒凉之地和称为你名下的城。我们在你面前恳求，不是因自己的义，而是因你丰富的怜悯。</Verse>
+        <Verse osisId="Dan.9.19" sblId="Dan 9:19" name="但以理书 9:19" shortName="但 9:19" orderIndex="18">主啊，求你垂听！主啊，求你赦免！主啊，求你侧耳，求你实行！为你自己的缘故不要迟延。我的上帝啊，因这城和这民都是称为你名下的。”</Verse>
+        <Verse osisId="Dan.9.20" sblId="Dan 9:20" name="但以理书 9:20" shortName="但 9:20" orderIndex="19">我正说话、祷告，承认我的罪和我百姓 以色列 的罪，为我上帝的圣山，在耶和华－我的上帝面前恳求；</Verse>
+        <Verse osisId="Dan.9.21" sblId="Dan 9:21" name="但以理书 9:21" shortName="但 9:21" orderIndex="20">我正在祷告中说话，先前在异象中所见的那位 加百列 ，约在献晚祭的时候迅速飞到我这里来。</Verse>
+        <Verse osisId="Dan.9.22" sblId="Dan 9:22" name="但以理书 9:22" shortName="但 9:22" orderIndex="21">他指教我说 ：“ 但以理 啊，现在我来要使你有智慧，有聪明。</Verse>
+        <Verse osisId="Dan.9.23" sblId="Dan 9:23" name="但以理书 9:23" shortName="但 9:23" orderIndex="22">你刚开始恳求的时候，就有命令发出。现在我来告诉你，因你是蒙爱的；所以你要思想这事，明白这异象。</Verse>
+        <Verse osisId="Dan.9.24" sblId="Dan 9:24" name="但以理书 9:24" shortName="但 9:24" orderIndex="23">“为你百姓和你圣城，已经定了七十个七，要止住罪过，除净罪恶，赎尽罪孽，引进永恒的公义，封住异象和预言，并膏至圣所 。</Verse>
+        <Verse osisId="Dan.9.25" sblId="Dan 9:25" name="但以理书 9:25" shortName="但 9:25" orderIndex="24">你当知道，当明白，从发出命令恢复并重建 耶路撒冷 ，直到受膏的君出现，必有七个七和六十二个七。 耶路撒冷城 连街带濠都必在艰难中恢复并重建。</Verse>
+        <Verse osisId="Dan.9.26" sblId="Dan 9:26" name="但以理书 9:26" shortName="但 9:26" orderIndex="25">过了六十二个七，那受膏者 被剪除，一无所有；必有一王的百姓来毁灭这城和圣所，它的结局 必如洪水冲没。必有战争，一直到末了，荒凉的事已经定了。</Verse>
+        <Verse osisId="Dan.9.27" sblId="Dan 9:27" name="但以理书 9:27" shortName="但 9:27" orderIndex="26">在一七之期，他必与许多人坚立盟约；一七之半，他必使献祭与供献止息。那施行毁灭的可憎之物必立在圣殿里 ，直到所定的结局倾倒在那行毁灭者的身上。”</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.10" sblId="Dan 10" name="但以理书 10" shortName="但 10" orderIndex="9" versesCount="21">
+      <verses>
+        <Verse osisId="Dan.10.1" sblId="Dan 10:1" name="但以理书 10:1" shortName="但 10:1" orderIndex="0">波斯 王 居鲁士 第三年，有话指示那称为 伯提沙撒 的 但以理 。这话是确实的，指着大战争； 但以理 明白这话，明白这异象。</Verse>
+        <Verse osisId="Dan.10.2" sblId="Dan 10:2" name="但以理书 10:2" shortName="但 10:2" orderIndex="1">那时，我－ 但以理 悲伤了三个七日；</Verse>
+        <Verse osisId="Dan.10.3" sblId="Dan 10:3" name="但以理书 10:3" shortName="但 10:3" orderIndex="2">美味我没有吃，酒和肉没有入我的口，也没有用油抹我的身，直到满了三个七日。</Verse>
+        <Verse osisId="Dan.10.4" sblId="Dan 10:4" name="但以理书 10:4" shortName="但 10:4" orderIndex="3">正月二十四日，我在 大河 ，就是 底格里斯河 边，</Verse>
+        <Verse osisId="Dan.10.5" sblId="Dan 10:5" name="但以理书 10:5" shortName="但 10:5" orderIndex="4">举目观看，看哪，有一人身穿细麻衣，腰束 乌法 的纯金腰带。</Verse>
+        <Verse osisId="Dan.10.6" sblId="Dan 10:6" name="但以理书 10:6" shortName="但 10:6" orderIndex="5">他的身体如水苍玉，面貌如闪电，眼目如火把，手臂和脚如明亮的铜，说话的声音像众人的声音。</Verse>
+        <Verse osisId="Dan.10.7" sblId="Dan 10:7" name="但以理书 10:7" shortName="但 10:7" orderIndex="6">我－ 但以理 一人看见这异象，跟我一起的人没有看见，却有极大的战兢落在他们身上，他们就逃跑躲避，</Verse>
+        <Verse osisId="Dan.10.8" sblId="Dan 10:8" name="但以理书 10:8" shortName="但 10:8" orderIndex="7">只剩下我一人。我看见这大异象就浑身无力，面容变色，毫无气力。</Verse>
+        <Verse osisId="Dan.10.9" sblId="Dan 10:9" name="但以理书 10:9" shortName="但 10:9" orderIndex="8">我听见他说话的声音；一听见他说话的声音，我就沉睡，脸伏于地。</Verse>
+        <Verse osisId="Dan.10.10" sblId="Dan 10:10" name="但以理书 10:10" shortName="但 10:10" orderIndex="9">看哪，有一只手摸我，使我膝盖和手掌战抖。</Verse>
+        <Verse osisId="Dan.10.11" sblId="Dan 10:11" name="但以理书 10:11" shortName="但 10:11" orderIndex="10">他对我说：“蒙爱的 但以理 啊，要思想我对你所说的话，只管站起来，因为我现在奉差遣来到你这里。”他对我说这话，我就战战兢兢地站起来。</Verse>
+        <Verse osisId="Dan.10.12" sblId="Dan 10:12" name="但以理书 10:12" shortName="但 10:12" orderIndex="11">他说：“ 但以理 啊，不要惧怕！因为自从第一日你立志要明白，又在你上帝面前刻苦自己，你的话已蒙应允；我就是因你的话而来。</Verse>
+        <Verse osisId="Dan.10.13" sblId="Dan 10:13" name="但以理书 10:13" shortName="但 10:13" orderIndex="12">但 波斯 国的领袖拦阻了我二十一天。看哪，天使长 中的一位 米迦勒 来帮助我，因为我被留在 波斯 诸王那里。</Verse>
+        <Verse osisId="Dan.10.14" sblId="Dan 10:14" name="但以理书 10:14" shortName="但 10:14" orderIndex="13">现在我来，要使你明白你百姓日后必遭遇的事，因为这异象关乎未来的日子。”</Verse>
+        <Verse osisId="Dan.10.15" sblId="Dan 10:15" name="但以理书 10:15" shortName="但 10:15" orderIndex="14">他向我这样说，我就脸面朝地，哑口无声。</Verse>
+        <Verse osisId="Dan.10.16" sblId="Dan 10:16" name="但以理书 10:16" shortName="但 10:16" orderIndex="15">看哪，有一位形状像人的，摸我的嘴唇，我就开口说话，向那站在我面前的说：“我主啊，因这异象使我感到剧痛，毫无气力。</Verse>
+        <Verse osisId="Dan.10.17" sblId="Dan 10:17" name="但以理书 10:17" shortName="但 10:17" orderIndex="16">我主的仆人怎能跟我主说话呢？我现在浑身无力，毫无气息。”</Verse>
+        <Verse osisId="Dan.10.18" sblId="Dan 10:18" name="但以理书 10:18" shortName="但 10:18" orderIndex="17">有一位形状像人的再一次摸我，使我有力量。</Verse>
+        <Verse osisId="Dan.10.19" sblId="Dan 10:19" name="但以理书 10:19" shortName="但 10:19" orderIndex="18">他说：“蒙爱的人哪，不要惧怕，愿你平安！你要刚强！要刚强！ ”他一对我说话，我就觉得有力量，说：“我主请说，因你使我有力量。”</Verse>
+        <Verse osisId="Dan.10.20" sblId="Dan 10:20" name="但以理书 10:20" shortName="但 10:20" orderIndex="19">他说：“你知道我为什么到你这里来吗？现在我要回去与 波斯 的领袖争战，我去了之后，看哪， 希腊 的领袖必来。</Verse>
+        <Verse osisId="Dan.10.21" sblId="Dan 10:21" name="但以理书 10:21" shortName="但 10:21" orderIndex="20">但我要将那记录在真理之书上的话告诉你。除了你们的天使 米迦勒 之外，没有人帮助我抵挡他们。”</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.11" sblId="Dan 11" name="但以理书 11" shortName="但 11" orderIndex="10" versesCount="45">
+      <verses>
+        <Verse osisId="Dan.11.1" sblId="Dan 11:1" name="但以理书 11:1" shortName="但 11:1" orderIndex="0">“至于我，当 玛代 的 大流士 元年，我曾起来扶助 米迦勒 ，使他坚强。</Verse>
+        <Verse osisId="Dan.11.2" sblId="Dan 11:2" name="但以理书 11:2" shortName="但 11:2" orderIndex="1">现在我要指示你确实的事。” “看哪， 波斯 还有三个王要兴起，第四王必富足远胜诸王。他因富足成为强盛，就煽动各国攻击 希腊 国。</Verse>
+        <Verse osisId="Dan.11.3" sblId="Dan 11:3" name="但以理书 11:3" shortName="但 11:3" orderIndex="2">必有一个勇敢的王兴起，执掌大权，随意而行。</Verse>
+        <Verse osisId="Dan.11.4" sblId="Dan 11:4" name="但以理书 11:4" shortName="但 11:4" orderIndex="3">他正兴起的时候，他的国必瓦解，向天的四方 裂开，却不归他的后裔，也不如他当年统治的权威；他的国必被拔出，归给他后裔之外的人。</Verse>
+        <Verse osisId="Dan.11.5" sblId="Dan 11:5" name="但以理书 11:5" shortName="但 11:5" orderIndex="4">“南方的王必强盛，他的将帅中必有一个比他更强，执掌权柄，权柄甚大。</Verse>
+        <Verse osisId="Dan.11.6" sblId="Dan 11:6" name="但以理书 11:6" shortName="但 11:6" orderIndex="5">过了几年，他们必结盟，南方王的女儿必来到北方王那里，使约生效；但这女子不能保留实力，王的力量 也未能存留。这女子、带她来的、生她的 和当时扶助她的必被杀害 。</Verse>
+        <Verse osisId="Dan.11.7" sblId="Dan 11:7" name="但以理书 11:7" shortName="但 11:7" orderIndex="6">但从这女子的本家必另有一子 接续王位，他要率领军队进入北方王的堡垒，攻击他们，而且得胜，</Verse>
+        <Verse osisId="Dan.11.8" sblId="Dan 11:8" name="但以理书 11:8" shortName="但 11:8" orderIndex="7">把他们的神像和铸成的偶像，与金银宝器都掳掠到 埃及 去。数年之内，他不去攻击北方的王。</Verse>
+        <Verse osisId="Dan.11.9" sblId="Dan 11:9" name="但以理书 11:9" shortName="但 11:9" orderIndex="8">北方的王必侵入南方王的国土，但却要撤回本地。</Verse>
+        <Verse osisId="Dan.11.10" sblId="Dan 11:10" name="但以理书 11:10" shortName="但 11:10" orderIndex="9">“北方王的儿子们必动干戈，招聚许多军兵。他要前进，如洪水泛滥；要再度争战，直捣南方王的堡垒。</Verse>
+        <Verse osisId="Dan.11.11" sblId="Dan 11:11" name="但以理书 11:11" shortName="但 11:11" orderIndex="10">南方王必发烈怒，出来与北方王争战，摆列大军；北方王的军兵必败在南方王的手下。</Verse>
+        <Verse osisId="Dan.11.12" sblId="Dan 11:12" name="但以理书 11:12" shortName="但 11:12" orderIndex="11">这大军既被扫荡，南方王的心就自高；他虽使万人仆倒，却不能保持胜利。</Verse>
+        <Verse osisId="Dan.11.13" sblId="Dan 11:13" name="但以理书 11:13" shortName="但 11:13" orderIndex="12">“北方王要再度摆列大军，比先前更多。过了几年，他必率领大军，带极多的装备而来。</Verse>
+        <Verse osisId="Dan.11.14" sblId="Dan 11:14" name="但以理书 11:14" shortName="但 11:14" orderIndex="13">那时，必有许多人起来攻击南方王，并且你百姓中的残暴人要兴起，应验异象，他们却要败亡。</Verse>
+        <Verse osisId="Dan.11.15" sblId="Dan 11:15" name="但以理书 11:15" shortName="但 11:15" orderIndex="14">北方王必来建土堆攻取坚固城，南方的军兵抵挡不住，就是精选的部队也无力抵挡；</Verse>
+        <Verse osisId="Dan.11.16" sblId="Dan 11:16" name="但以理书 11:16" shortName="但 11:16" orderIndex="15">前来攻击南方王的必任意而行，无人在北方王面前站立得住。他要站在那佳美之地，用手施行毁灭。</Verse>
+        <Verse osisId="Dan.11.17" sblId="Dan 11:17" name="但以理书 11:17" shortName="但 11:17" orderIndex="16">“他必定意倾全国之力而来，与南方王订约，把自己的女儿 给南方王为妻，企图败坏他的国度。这计谋却未得逞，自己也得不到好处。</Verse>
+        <Verse osisId="Dan.11.18" sblId="Dan 11:18" name="但以理书 11:18" shortName="但 11:18" orderIndex="17">其后北方王必转头，夺取许多海岛。但有一将帅除掉北方王对人的羞辱，并且使羞辱归到他自己身上。</Verse>
+        <Verse osisId="Dan.11.19" sblId="Dan 11:19" name="但以理书 11:19" shortName="但 11:19" orderIndex="18">他必转头回到本地的堡垒，却要绊跌仆倒，归于无有。</Verse>
+        <Verse osisId="Dan.11.20" sblId="Dan 11:20" name="但以理书 11:20" shortName="但 11:20" orderIndex="19">“那时，有一人兴起接续他的王位，他为了王国的荣华，差官员横征暴敛。这王过不多时就死了，不是因怒气 ，也不是因战役。”</Verse>
+        <Verse osisId="Dan.11.21" sblId="Dan 11:21" name="但以理书 11:21" shortName="但 11:21" orderIndex="20">“后来，有一个卑鄙的人兴起接续他的王位，人未曾将国的尊荣给他，他却趁人无备的时候前来，用诡诈夺取政权。</Verse>
+        <Verse osisId="Dan.11.22" sblId="Dan 11:22" name="但以理书 11:22" shortName="但 11:22" orderIndex="21">势如洪水般的军兵在他面前被冲没，遭击溃；立约的领袖也是如此。</Verse>
+        <Verse osisId="Dan.11.23" sblId="Dan 11:23" name="但以理书 11:23" shortName="但 11:23" orderIndex="22">他与人结盟之后，却行诡诈。跟随他的人虽不多，他却日渐强盛。</Verse>
+        <Verse osisId="Dan.11.24" sblId="Dan 11:24" name="但以理书 11:24" shortName="但 11:24" orderIndex="23">他趁人无备的时候，来到国中极肥沃之地，做他祖宗和祖宗的祖宗未曾做过的事，瓜分掳物、掠物和财宝，又策划进攻堡垒；然而这都是暂时的。</Verse>
+        <Verse osisId="Dan.11.25" sblId="Dan 11:25" name="但以理书 11:25" shortName="但 11:25" orderIndex="24">“他必奋勇向前，率领大军攻击南方王；南方王以极强的大军迎战，却抵挡不住，因为有人设计谋害南方王。</Verse>
+        <Verse osisId="Dan.11.26" sblId="Dan 11:26" name="但以理书 11:26" shortName="但 11:26" orderIndex="25">吃王饷的使王败坏，王的军队必被冲没，仆倒被杀的甚多。</Verse>
+        <Verse osisId="Dan.11.27" sblId="Dan 11:27" name="但以理书 11:27" shortName="但 11:27" orderIndex="26">至于这二王，他们心怀恶计，同席吃饭却彼此说谎，但计谋不成，因为结局要在指定的时期来到。</Verse>
+        <Verse osisId="Dan.11.28" sblId="Dan 11:28" name="但以理书 11:28" shortName="但 11:28" orderIndex="27">北方王必带许多财宝回本地，但他的心反对圣约；他恣意横行，回到本地。</Verse>
+        <Verse osisId="Dan.11.29" sblId="Dan 11:29" name="但以理书 11:29" shortName="但 11:29" orderIndex="28">“到了指定的时期，他必返回，侵入南方。这一次却不像前一次，</Verse>
+        <Verse osisId="Dan.11.30" sblId="Dan 11:30" name="但以理书 11:30" shortName="但 11:30" orderIndex="29">因为 基提 的战船要来攻击他，他就丧胆而退。他恼恨圣约，恣意横行，要回来善待那些背弃圣约的人。</Verse>
+        <Verse osisId="Dan.11.31" sblId="Dan 11:31" name="但以理书 11:31" shortName="但 11:31" orderIndex="30">他要兴兵，这兵必亵渎圣所，就是堡垒，除掉经常献的祭，设立那施行毁灭的可憎之物。</Verse>
+        <Verse osisId="Dan.11.32" sblId="Dan 11:32" name="但以理书 11:32" shortName="但 11:32" orderIndex="31">他必用巧言奉承违背圣约的恶人；惟独认识上帝的子民必刚强行事。</Verse>
+        <Verse osisId="Dan.11.33" sblId="Dan 11:33" name="但以理书 11:33" shortName="但 11:33" orderIndex="32">民间的智慧人必训诲许多人，然而在一段日子里，他们必因刀剑、火烧、掳掠、抢夺而仆倒。</Verse>
+        <Verse osisId="Dan.11.34" sblId="Dan 11:34" name="但以理书 11:34" shortName="但 11:34" orderIndex="33">他们仆倒的时候，会得到少许援助，却有许多人用诡诈加入他们。</Verse>
+        <Verse osisId="Dan.11.35" sblId="Dan 11:35" name="但以理书 11:35" shortName="但 11:35" orderIndex="34">智慧人中有些人仆倒，为要使他们受熬炼，成为洁净、洁白，直到末了；因为还有一段日子才到所定的时期。</Verse>
+        <Verse osisId="Dan.11.36" sblId="Dan 11:36" name="但以理书 11:36" shortName="但 11:36" orderIndex="35">“王必任意而行，自高自大，超过所有的神明，又用荒谬的话攻击万神之神。他必行事亨通，直到主的愤怒结束，因为所定的事必然实现。</Verse>
+        <Verse osisId="Dan.11.37" sblId="Dan 11:37" name="但以理书 11:37" shortName="但 11:37" orderIndex="36">他不顾他祖宗的神明，也不顾妇女所仰慕的神明，任何神明他都不顾；因为他自大，高过一切，</Verse>
+        <Verse osisId="Dan.11.38" sblId="Dan 11:38" name="但以理书 11:38" shortName="但 11:38" orderIndex="37">以敬奉堡垒的神明取而代之，用金、银、宝石和珍宝敬奉他祖宗所不认识的神明。</Verse>
+        <Verse osisId="Dan.11.39" sblId="Dan 11:39" name="但以理书 11:39" shortName="但 11:39" orderIndex="38">他靠外邦神明的帮助，攻破最坚固的堡垒。凡承认他的，他要给他们许多尊荣，使他们管辖许多人，又分封土地作为报偿。</Verse>
+        <Verse osisId="Dan.11.40" sblId="Dan 11:40" name="但以理书 11:40" shortName="但 11:40" orderIndex="39">“到末了，南方王要与北方王交战。北方王要用战车、骑兵和许多战船，势如暴风来攻击他，又要侵入列国，如洪水泛滥。</Verse>
+        <Verse osisId="Dan.11.41" sblId="Dan 11:41" name="但以理书 11:41" shortName="但 11:41" orderIndex="40">他要侵入那佳美之地，许多国就被倾覆 ，但 以东 人、 摩押 人和大半的 亚扪 人必逃离他的手。</Verse>
+        <Verse osisId="Dan.11.42" sblId="Dan 11:42" name="但以理书 11:42" shortName="但 11:42" orderIndex="41">他要伸手攻击列国，连 埃及 地也不得逃脱。</Verse>
+        <Verse osisId="Dan.11.43" sblId="Dan 11:43" name="但以理书 11:43" shortName="但 11:43" orderIndex="42">他要掌管 埃及 的金银财宝和各样珍宝， 路比 人和 古实 人都跟从他的脚步。</Verse>
+        <Verse osisId="Dan.11.44" sblId="Dan 11:44" name="但以理书 11:44" shortName="但 11:44" orderIndex="43">但从东方和北方必有消息传来扰乱他，他就大发烈怒出去，要将许多人杀灭净尽。</Verse>
+        <Verse osisId="Dan.11.45" sblId="Dan 11:45" name="但以理书 11:45" shortName="但 11:45" orderIndex="44">他要在海和荣美的圣山之间搭起王宫的帐幕；然而他的结局到了，无人能帮助他。”</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Dan.12" sblId="Dan 12" name="但以理书 12" shortName="但 12" orderIndex="11" versesCount="13">
+      <verses>
+        <Verse osisId="Dan.12.1" sblId="Dan 12:1" name="但以理书 12:1" shortName="但 12:1" orderIndex="0">“那时，保佑你百姓的天使长 米迦勒 必站起来，并且有大艰难，自从有国以来直到此时，未曾有过这样的事。那时，你的百姓凡记录在册上的，必得拯救。</Verse>
+        <Verse osisId="Dan.12.2" sblId="Dan 12:2" name="但以理书 12:2" shortName="但 12:2" orderIndex="1">睡在地里尘埃中的必有多人醒过来；其中有得永生的，有受羞辱永远被憎恶的。</Verse>
+        <Verse osisId="Dan.12.3" sblId="Dan 12:3" name="但以理书 12:3" shortName="但 12:3" orderIndex="2">智慧人要发光，如同天上的光；那领许多人归于义的必发光如星，直到永永远远。</Verse>
+        <Verse osisId="Dan.12.4" sblId="Dan 12:4" name="但以理书 12:4" shortName="但 12:4" orderIndex="3">但以理 啊，你要隐藏这话，封闭这书，直到末时。必有许多人往来奔跑 ，知识 就必增长。”</Verse>
+        <Verse osisId="Dan.12.5" sblId="Dan 12:5" name="但以理书 12:5" shortName="但 12:5" orderIndex="4">我－ 但以理 观看，看哪，另有两个人站立：一个在河这边，一个在河那边。</Verse>
+        <Verse osisId="Dan.12.6" sblId="Dan 12:6" name="但以理书 12:6" shortName="但 12:6" orderIndex="5">其中一个对那在河水之上、穿细麻衣的说：“这奇异的事要到几时才应验呢？”</Verse>
+        <Verse osisId="Dan.12.7" sblId="Dan 12:7" name="但以理书 12:7" shortName="但 12:7" orderIndex="6">我听见那在河水之上、穿细麻衣的，向天举起左右手，指着那活到永远的起誓说：“要到一年 、两年，又半年，粉碎圣民力量结束的时候，这一切的事就要应验。”</Verse>
+        <Verse osisId="Dan.12.8" sblId="Dan 12:8" name="但以理书 12:8" shortName="但 12:8" orderIndex="7">我听了却不明白，就说：“我主啊，这些事的结局是怎样呢？”</Verse>
+        <Verse osisId="Dan.12.9" sblId="Dan 12:9" name="但以理书 12:9" shortName="但 12:9" orderIndex="8">他说：“ 但以理 ，去吧！因为这话已经隐藏封闭，直到末时。</Verse>
+        <Verse osisId="Dan.12.10" sblId="Dan 12:10" name="但以理书 12:10" shortName="但 12:10" orderIndex="9">必有许多人使自己洁净、洁白，且受熬炼；但恶人仍必行恶，没有一个恶人明白，惟独智慧人能明白。</Verse>
+        <Verse osisId="Dan.12.11" sblId="Dan 12:11" name="但以理书 12:11" shortName="但 12:11" orderIndex="10">从除掉经常献的祭，设立那施行毁灭的可憎之物的时候起，必有一千二百九十日。</Verse>
+        <Verse osisId="Dan.12.12" sblId="Dan 12:12" name="但以理书 12:12" shortName="但 12:12" orderIndex="11">那等候，直到一千三百三十五日的有福了。</Verse>
+        <Verse osisId="Dan.12.13" sblId="Dan 12:13" name="但以理书 12:13" shortName="但 12:13" orderIndex="12">“至于你，你要去等候结局。你必安息，到了末期，你必起来，享受你的福分。”</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

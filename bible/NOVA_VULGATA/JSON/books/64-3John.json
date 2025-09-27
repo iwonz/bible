@@ -1,0 +1,141 @@
+{
+  "osisId": "3John",
+  "sblId": "3John",
+  "name": "Epistula III Ioannis",
+  "shortName": "3 Io",
+  "orderIndex": 63,
+  "chaptersCount": 1,
+  "versesCount": 15,
+  "chapters": [
+    {
+      "osisId": "3John.1",
+      "sblId": "3John 1",
+      "name": "Epistula III Ioannis 1",
+      "shortName": "3 Io 1",
+      "orderIndex": 0,
+      "versesCount": 15,
+      "verses": [
+        {
+          "osisId": "3John.1.1",
+          "sblId": "3John 1:1",
+          "name": "Epistula III Ioannis 1:1",
+          "shortName": "3 Io 1:1",
+          "text": "Presbyter Gaio carissimo, quem ego diligo in veritate.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "3John.1.2",
+          "sblId": "3John 1:2",
+          "name": "Epistula III Ioannis 1:2",
+          "shortName": "3 Io 1:2",
+          "text": "Carissime, in omnibus exopto prospere te agere et valere, sicut prospere agit anima tua.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "3John.1.3",
+          "sblId": "3John 1:3",
+          "name": "Epistula III Ioannis 1:3",
+          "shortName": "3 Io 1:3",
+          "text": "Nam gavisus sum valde, venientibus fratribus et testimonium perhibentibus veritati tuae, quomodo tu in veritate ambules.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "3John.1.4",
+          "sblId": "3John 1:4",
+          "name": "Epistula III Ioannis 1:4",
+          "shortName": "3 Io 1:4",
+          "text": "Maius horum non habeo gaudium, quam ut audiam filios meos in veritate ambulare.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "3John.1.5",
+          "sblId": "3John 1:5",
+          "name": "Epistula III Ioannis 1:5",
+          "shortName": "3 Io 1:5",
+          "text": "Carissime, fideliter facis, quidquid operaris in fratres et hoc in peregrinos,",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "3John.1.6",
+          "sblId": "3John 1:6",
+          "name": "Epistula III Ioannis 1:6",
+          "shortName": "3 Io 1:6",
+          "text": "qui testimonium reddiderunt caritati tuae in conspectu ecclesiae. Bene facies subveniens illis in via digne Deo;",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "3John.1.7",
+          "sblId": "3John 1:7",
+          "name": "Epistula III Ioannis 1:7",
+          "shortName": "3 Io 1:7",
+          "text": "pro nomine enim profecti sunt, nihil accipientes a gentilibus.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "3John.1.8",
+          "sblId": "3John 1:8",
+          "name": "Epistula III Ioannis 1:8",
+          "shortName": "3 Io 1:8",
+          "text": "Nos ergo debemus sublevare huiusmodi, ut cooperatores simus veritatis.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "3John.1.9",
+          "sblId": "3John 1:9",
+          "name": "Epistula III Ioannis 1:9",
+          "shortName": "3 Io 1:9",
+          "text": "Scripsi aliquid ecclesiae; sed is qui amat primatum gerere in eis, Diotrephes, non recipit nos.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "3John.1.10",
+          "sblId": "3John 1:10",
+          "name": "Epistula III Ioannis 1:10",
+          "shortName": "3 Io 1:10",
+          "text": "Propter hoc, si venero, commonebo eius opera, quae facit verbis malignis garriens in nos; et quasi non ei ista sufficiant, nec ipse suscipit fratres et eos, qui cu piunt, prohibet et de ecclesia eicit.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "3John.1.11",
+          "sblId": "3John 1:11",
+          "name": "Epistula III Ioannis 1:11",
+          "shortName": "3 Io 1:11",
+          "text": "Carissime, noli imitari malum, sed quod bonum est. Qui benefacit, ex Deo est; qui malefacit, non vidit Deum.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "3John.1.12",
+          "sblId": "3John 1:12",
+          "name": "Epistula III Ioannis 1:12",
+          "shortName": "3 Io 1:12",
+          "text": "Demetrio testimonium redditur ab omnibus et ab ipsa veritate; sed et nos testimonium perhibemus, et scis quoniam testimonium nostrum verum est.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "3John.1.13",
+          "sblId": "3John 1:13",
+          "name": "Epistula III Ioannis 1:13",
+          "shortName": "3 Io 1:13",
+          "text": "Multa habui scribere tibi, sed nolo per atramentum et calamum scribere tibi;",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "3John.1.14",
+          "sblId": "3John 1:14",
+          "name": "Epistula III Ioannis 1:14",
+          "shortName": "3 Io 1:14",
+          "text": "spero autem protinus te videre, et os ad os loquemur.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "3John.1.15",
+          "sblId": "3John 1:15",
+          "name": "Epistula III Ioannis 1:15",
+          "shortName": "3 Io 1:15",
+          "text": "Pax tibi. Salutant te amici. Saluta amicos nominatim.",
+          "orderIndex": 14
+        }
+      ]
+    }
+  ]
+}

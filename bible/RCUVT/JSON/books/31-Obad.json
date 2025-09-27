@@ -1,0 +1,189 @@
+{
+  "osisId": "Obad",
+  "sblId": "Obad",
+  "name": "俄巴底亚书",
+  "shortName": "俄",
+  "orderIndex": 30,
+  "chaptersCount": 1,
+  "versesCount": 21,
+  "chapters": [
+    {
+      "osisId": "Obad.1",
+      "sblId": "Obad 1",
+      "name": "俄巴底亚书 1",
+      "shortName": "俄 1",
+      "orderIndex": 0,
+      "versesCount": 21,
+      "verses": [
+        {
+          "osisId": "Obad.1.1",
+          "sblId": "Obad 1:1",
+          "name": "俄巴底亚书 1:1",
+          "shortName": "俄 1:1",
+          "text": "俄巴底亞 所見的異象。 我們從耶和華那裏得到消息， 有使者被差往列國去： 「起來吧， 我們要起來與 以東 爭戰！」 主耶和華論 以東 如此說：",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Obad.1.2",
+          "sblId": "Obad 1:2",
+          "name": "俄巴底亚书 1:2",
+          "shortName": "俄 1:2",
+          "text": "看哪，我要使你在列國中為最小， 被人大大藐視。",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Obad.1.3",
+          "sblId": "Obad 1:3",
+          "name": "俄巴底亚书 1:3",
+          "shortName": "俄 1:3",
+          "text": "你狂傲的心欺騙了你， 你住在巖穴， 居所在高處， 心裏說： 「誰能把我拉下來到地上呢？」",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Obad.1.4",
+          "sblId": "Obad 1:4",
+          "name": "俄巴底亚书 1:4",
+          "shortName": "俄 1:4",
+          "text": "你雖如鷹高飛， 在星宿之間搭窩， 我必從那裏拉你下來。 這是耶和華說的。",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Obad.1.5",
+          "sblId": "Obad 1:5",
+          "name": "俄巴底亚书 1:5",
+          "shortName": "俄 1:5",
+          "text": "盜賊若來到你那裏， 小偷夜間來到， 豈不是只偷他們所需要的嗎？ 摘葡萄的若來到你那裏， 豈不留下幾串嗎？ 你竟全然滅絕！",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Obad.1.6",
+          "sblId": "Obad 1:6",
+          "name": "俄巴底亚书 1:6",
+          "shortName": "俄 1:6",
+          "text": "以掃 遭到搜查， 他隱藏的寶物竟被尋出！",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Obad.1.7",
+          "sblId": "Obad 1:7",
+          "name": "俄巴底亚书 1:7",
+          "shortName": "俄 1:7",
+          "text": "與你結盟的都驅趕你，直到邊界， 與你和好的欺騙你，勝過你， 吃你飯的人設下圈套陷害你─ 他卻毫無聰明 。",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Obad.1.8",
+          "sblId": "Obad 1:8",
+          "name": "俄巴底亚书 1:8",
+          "shortName": "俄 1:8",
+          "text": "到那日， 我豈不從 以東 除滅智慧人？ 從 以掃山 除滅聰明人？ 這是耶和華說的。",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Obad.1.9",
+          "sblId": "Obad 1:9",
+          "name": "俄巴底亚书 1:9",
+          "shortName": "俄 1:9",
+          "text": "提幔 哪， 你的勇士必驚惶， 以致 以掃山 的人都被殺戮剪除。",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Obad.1.10",
+          "sblId": "Obad 1:10",
+          "name": "俄巴底亚书 1:10",
+          "shortName": "俄 1:10",
+          "text": "因你向兄弟 雅各 施暴， 你必蒙羞， 永被剪除。",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Obad.1.11",
+          "sblId": "Obad 1:11",
+          "name": "俄巴底亚书 1:11",
+          "shortName": "俄 1:11",
+          "text": "當陌生人擄掠 雅各 的財物， 當外邦人進入他的城門， 為 耶路撒冷 抽籤分取財物的日子， 你竟站在一旁，像與他們同夥。",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Obad.1.12",
+          "sblId": "Obad 1:12",
+          "name": "俄巴底亚书 1:12",
+          "shortName": "俄 1:12",
+          "text": "你兄弟遭難的日子， 你不該瞪著眼看； 猶大 人被滅的日子， 你不該幸災樂禍； 他們遭難的日子， 你不該說狂傲的話。",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Obad.1.13",
+          "sblId": "Obad 1:13",
+          "name": "俄巴底亚书 1:13",
+          "shortName": "俄 1:13",
+          "text": "我子民遭災的日子， 你不該進他們的城門； 他們遭災的日子， 你不該瞪著眼看他們受苦； 他們遭災的日子， 你不該伸手搶他們的財物。",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Obad.1.14",
+          "sblId": "Obad 1:14",
+          "name": "俄巴底亚书 1:14",
+          "shortName": "俄 1:14",
+          "text": "他們遭難的日子， 你不該站在岔路口 剪除他們逃脫的人， 你不該交出他們的倖存者。",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Obad.1.15",
+          "sblId": "Obad 1:15",
+          "name": "俄巴底亚书 1:15",
+          "shortName": "俄 1:15",
+          "text": "耶和華的日子臨近萬國； 你所做的，人也必向你照樣做， 你的報應必歸到自己頭上。",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Obad.1.16",
+          "sblId": "Obad 1:16",
+          "name": "俄巴底亚书 1:16",
+          "shortName": "俄 1:16",
+          "text": "你們在我聖山怎樣喝了苦杯， 萬國必照樣不停地喝， 且喝且吞， 他們就必歸於無有。",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Obad.1.17",
+          "sblId": "Obad 1:17",
+          "name": "俄巴底亚书 1:17",
+          "shortName": "俄 1:17",
+          "text": "但在 錫安山 必有逃脫的人， 那山必成為聖； 雅各 家必得原有的產業 。",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Obad.1.18",
+          "sblId": "Obad 1:18",
+          "name": "俄巴底亚书 1:18",
+          "shortName": "俄 1:18",
+          "text": "雅各 家必成為大火， 約瑟 家成為火焰； 以掃 家必如碎秸， 遭燃燒，被吞滅， 以掃 家必無倖存者。 這是耶和華說的。",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Obad.1.19",
+          "sblId": "Obad 1:19",
+          "name": "俄巴底亚书 1:19",
+          "shortName": "俄 1:19",
+          "text": "他們必得 尼革夫 和 以掃山 ， 得 謝非拉 ， 非利士 人之地， 他們必得 以法蓮 地和 撒瑪利亞 地， 得 便雅憫 和 基列 ；",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Obad.1.20",
+          "sblId": "Obad 1:20",
+          "name": "俄巴底亚书 1:20",
+          "shortName": "俄 1:20",
+          "text": "被擄的 以色列 大軍 必得 迦南 人的地，直到 撒勒法 ， 在 西法拉 被擄的 耶路撒冷 人 必得 尼革夫 的城鎮。",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Obad.1.21",
+          "sblId": "Obad 1:21",
+          "name": "俄巴底亚书 1:21",
+          "shortName": "俄 1:21",
+          "text": "必有一些解救者 上到 錫安山 ，審判 以掃山 ， 國度就歸耶和華了。",
+          "orderIndex": 20
+        }
+      ]
+    }
+  ]
+}

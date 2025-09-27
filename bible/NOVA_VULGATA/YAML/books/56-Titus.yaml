@@ -1,0 +1,338 @@
+chapters:
+- name: Epistula ad Titum 1
+  orderIndex: 0
+  osisId: Titus.1
+  sblId: Titus 1
+  shortName: Tit 1
+  verses:
+  - name: Epistula ad Titum 1:1
+    orderIndex: 0
+    osisId: Titus.1.1
+    sblId: Titus 1:1
+    shortName: Tit 1:1
+    text: Paulus servus Dei, apostolus autem Iesu Christi secundum fi dem electorum
+      Dei et agnitionem veritatis, quae secundum pietatem est
+  - name: Epistula ad Titum 1:2
+    orderIndex: 1
+    osisId: Titus.1.2
+    sblId: Titus 1:2
+    shortName: Tit 1:2
+    text: in spem vitae aeternae, quam promisit, qui non mentitur, Deus ante tempora
+      saecularia;
+  - name: Epistula ad Titum 1:3
+    orderIndex: 2
+    osisId: Titus.1.3
+    sblId: Titus 1:3
+    shortName: Tit 1:3
+    text: manifestavit autem temporibus suis verbum suum in praedicatione, quae credita
+      est mihi secundum praeceptum salvatoris nostri Dei,
+  - name: Epistula ad Titum 1:4
+    orderIndex: 3
+    osisId: Titus.1.4
+    sblId: Titus 1:4
+    shortName: Tit 1:4
+    text: 'Tito germano filio secundum communem fidem: gratia et pax a Deo Patre et
+      Christo Iesu salvatore nostro.'
+  - name: Epistula ad Titum 1:5
+    orderIndex: 4
+    osisId: Titus.1.5
+    sblId: Titus 1:5
+    shortName: Tit 1:5
+    text: Huius rei gratia reliqui te Cretae, ut ea, quae desunt, corrigas et constituas
+      per civitates presbyteros, sicut ego tibi disposui,
+  - name: Epistula ad Titum 1:6
+    orderIndex: 5
+    osisId: Titus.1.6
+    sblId: Titus 1:6
+    shortName: Tit 1:6
+    text: si quis sine crimine est, unius uxoris vir, filios habens fideles, non in
+      accusatione luxuriae aut non subiectos.
+  - name: Epistula ad Titum 1:7
+    orderIndex: 6
+    osisId: Titus.1.7
+    sblId: Titus 1:7
+    shortName: Tit 1:7
+    text: Oportet enim episcopum sine crimine esse sicut Dei dispensatorem, non superbum,
+      non iracundum, non vinolentum, non percussorem, non turpis lucri cupidum,
+  - name: Epistula ad Titum 1:8
+    orderIndex: 7
+    osisId: Titus.1.8
+    sblId: Titus 1:8
+    shortName: Tit 1:8
+    text: sed hospitalem, benignum, sobrium, iustum, sanctum, continentem,
+  - name: Epistula ad Titum 1:9
+    orderIndex: 8
+    osisId: Titus.1.9
+    sblId: Titus 1:9
+    shortName: Tit 1:9
+    text: amplectentem eum, qui secundum doctrinam est, fidelem sermonem, ut potens
+      sit et exhortari in doctrina sana et eos, qui contradicunt, arguere.
+  - name: Epistula ad Titum 1:10
+    orderIndex: 9
+    osisId: Titus.1.10
+    sblId: Titus 1:10
+    shortName: Tit 1:10
+    text: Sunt enim multi et non subiecti, vaniloqui et seductores, maxime qui de
+      circumcisione sunt,
+  - name: Epistula ad Titum 1:11
+    orderIndex: 10
+    osisId: Titus.1.11
+    sblId: Titus 1:11
+    shortName: Tit 1:11
+    text: quibus oportet silentium imponere, quia universas domos subvertunt docentes,
+      quae non oportet, turpis lucri gratia.
+  - name: Epistula ad Titum 1:12
+    orderIndex: 11
+    osisId: Titus.1.12
+    sblId: Titus 1:12
+    shortName: Tit 1:12
+    text: 'Dixit quidam ex illis, proprius ipsorum propheta: " Cretenses semper mendaces,
+      malae bestiae, ventres pigri ".'
+  - name: Epistula ad Titum 1:13
+    orderIndex: 12
+    osisId: Titus.1.13
+    sblId: Titus 1:13
+    shortName: Tit 1:13
+    text: Testimonium hoc verum est. Quam ob causam increpa illos dure, ut sani sint
+      in fide,
+  - name: Epistula ad Titum 1:14
+    orderIndex: 13
+    osisId: Titus.1.14
+    sblId: Titus 1:14
+    shortName: Tit 1:14
+    text: non intendentes Iudaicis fabulis et mandatis hominum aversantium veritatem.
+  - name: Epistula ad Titum 1:15
+    orderIndex: 14
+    osisId: Titus.1.15
+    sblId: Titus 1:15
+    shortName: Tit 1:15
+    text: Omnia munda mundis; coinquinatis autem et infidelibus nihil mundum, sed
+      inquinatae sunt eorum et mens et conscientia.
+  - name: Epistula ad Titum 1:16
+    orderIndex: 15
+    osisId: Titus.1.16
+    sblId: Titus 1:16
+    shortName: Tit 1:16
+    text: Confitentur se nosse Deum, factis autem negant, cum sunt abominati et inoboedientes
+      et ad omne opus bonum reprobi.
+  versesCount: 16
+- name: Epistula ad Titum 2
+  orderIndex: 1
+  osisId: Titus.2
+  sblId: Titus 2
+  shortName: Tit 2
+  verses:
+  - name: Epistula ad Titum 2:1
+    orderIndex: 0
+    osisId: Titus.2.1
+    sblId: Titus 2:1
+    shortName: Tit 2:1
+    text: Tu autem loquere, quae decent sanam doctrinam.
+  - name: Epistula ad Titum 2:2
+    orderIndex: 1
+    osisId: Titus.2.2
+    sblId: Titus 2:2
+    shortName: Tit 2:2
+    text: Senes, ut sobrii sint, pudici, prudentes, sani fide, dilectione, patientia.
+  - name: Epistula ad Titum 2:3
+    orderIndex: 2
+    osisId: Titus.2.3
+    sblId: Titus 2:3
+    shortName: Tit 2:3
+    text: Anus similiter in habitu sanctae, non criminatrices, non vino multo deditae,
+      bene docentes,
+  - name: Epistula ad Titum 2:4
+    orderIndex: 3
+    osisId: Titus.2.4
+    sblId: Titus 2:4
+    shortName: Tit 2:4
+    text: ut prudentiam doceant adulescentulas, ut viros suos ament, filios diligant,
+  - name: Epistula ad Titum 2:5
+    orderIndex: 4
+    osisId: Titus.2.5
+    sblId: Titus 2:5
+    shortName: Tit 2:5
+    text: prudentes sint, castae, domus curam habentes, benignae, subditae suis viris,
+      ut non blasphemetur verbum Dei.
+  - name: Epistula ad Titum 2:6
+    orderIndex: 5
+    osisId: Titus.2.6
+    sblId: Titus 2:6
+    shortName: Tit 2:6
+    text: Iuvenes similiter hortare, ut sobrii sint.
+  - name: Epistula ad Titum 2:7
+    orderIndex: 6
+    osisId: Titus.2.7
+    sblId: Titus 2:7
+    shortName: Tit 2:7
+    text: In omnibus teipsum praebens exemplum bonorum operum, in doctrina integritatem,
+      gravitatem,
+  - name: Epistula ad Titum 2:8
+    orderIndex: 7
+    osisId: Titus.2.8
+    sblId: Titus 2:8
+    shortName: Tit 2:8
+    text: in verbo sano irreprehensibilem, ut is, qui ex adverso est, vereatur, nihil
+      habens malum dicere de nobis.
+  - name: Epistula ad Titum 2:9
+    orderIndex: 8
+    osisId: Titus.2.9
+    sblId: Titus 2:9
+    shortName: Tit 2:9
+    text: Servos dominis suis subditos esse in omnibus, placentes esse, non contradicentes,
+  - name: Epistula ad Titum 2:10
+    orderIndex: 9
+    osisId: Titus.2.10
+    sblId: Titus 2:10
+    shortName: Tit 2:10
+    text: non fraudantes, sed omnem fidem bonam ostendentes, ut doctrinam salutaris
+      nostri Dei ornent in omnibus.
+  - name: Epistula ad Titum 2:11
+    orderIndex: 10
+    osisId: Titus.2.11
+    sblId: Titus 2:11
+    shortName: Tit 2:11
+    text: Apparuit enim gratia Dei salutaris omnibus hominibus
+  - name: Epistula ad Titum 2:12
+    orderIndex: 11
+    osisId: Titus.2.12
+    sblId: Titus 2:12
+    shortName: Tit 2:12
+    text: erudiens nos, ut abnegantes impietatem et saecularia desideria sobrie et
+      iuste et pie vivamus in hoc saeculo,
+  - name: Epistula ad Titum 2:13
+    orderIndex: 12
+    osisId: Titus.2.13
+    sblId: Titus 2:13
+    shortName: Tit 2:13
+    text: exspectantes beatam spem et adventum gloriae magni Dei et salvatoris nostri
+      Iesu Christi;
+  - name: Epistula ad Titum 2:14
+    orderIndex: 13
+    osisId: Titus.2.14
+    sblId: Titus 2:14
+    shortName: Tit 2:14
+    text: qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate et mundaret
+      sibi populum peculiarem, sectatorem bonorum operum.
+  - name: Epistula ad Titum 2:15
+    orderIndex: 14
+    osisId: Titus.2.15
+    sblId: Titus 2:15
+    shortName: Tit 2:15
+    text: Haec loquere et exhortare et argue cum omni imperio. Nemo te contemnat!
+  versesCount: 15
+- name: Epistula ad Titum 3
+  orderIndex: 2
+  osisId: Titus.3
+  sblId: Titus 3
+  shortName: Tit 3
+  verses:
+  - name: Epistula ad Titum 3:1
+    orderIndex: 0
+    osisId: Titus.3.1
+    sblId: Titus 3:1
+    shortName: Tit 3:1
+    text: Admone illos principibus, pote statibus subditos esse, dicto oboedire, ad
+      omne opus bonum paratos esse,
+  - name: Epistula ad Titum 3:2
+    orderIndex: 1
+    osisId: Titus.3.2
+    sblId: Titus 3:2
+    shortName: Tit 3:2
+    text: neminem blasphemare, non litigiosos esse, modestos, omnem ostendentes mansuetudinem
+      ad omnes homines.
+  - name: Epistula ad Titum 3:3
+    orderIndex: 2
+    osisId: Titus.3.3
+    sblId: Titus 3:3
+    shortName: Tit 3:3
+    text: Eramus enim et nos aliquando insipientes, inoboedientes, errantes, servientes
+      concupiscentiis et voluptatibus variis, in malitia et invidia agentes, odibiles,
+      odientes invicem.
+  - name: Epistula ad Titum 3:4
+    orderIndex: 3
+    osisId: Titus.3.4
+    sblId: Titus 3:4
+    shortName: Tit 3:4
+    text: Cum autem benignitas et humanitas apparuit salvatoris nostri Dei,
+  - name: Epistula ad Titum 3:5
+    orderIndex: 4
+    osisId: Titus.3.5
+    sblId: Titus 3:5
+    shortName: Tit 3:5
+    text: non ex operibus iustitiae, quae fecimus nos, sed secundum suam misericordiam
+      salvos nos fecit per lavacrum regenerationis et renovationis Spiritus Sancti,
+  - name: Epistula ad Titum 3:6
+    orderIndex: 5
+    osisId: Titus.3.6
+    sblId: Titus 3:6
+    shortName: Tit 3:6
+    text: quem effudit super nos abunde per Iesum Christum salvatorem nostrum,
+  - name: Epistula ad Titum 3:7
+    orderIndex: 6
+    osisId: Titus.3.7
+    sblId: Titus 3:7
+    shortName: Tit 3:7
+    text: ut iustificati gratia ipsius heredes simus secundum spem vitae aeternae.
+  - name: Epistula ad Titum 3:8
+    orderIndex: 7
+    osisId: Titus.3.8
+    sblId: Titus 3:8
+    shortName: Tit 3:8
+    text: Fidelis sermo, et volo te de his confirmare, ut curent bonis operibus praeesse,
+      qui crediderunt Deo. Haec sunt bona et utilia hominibus;
+  - name: Epistula ad Titum 3:9
+    orderIndex: 8
+    osisId: Titus.3.9
+    sblId: Titus 3:9
+    shortName: Tit 3:9
+    text: stultas autem quaestiones et genealogias et contentiones et pugnas circa
+      legem devita, sunt enim inutiles et vanae.
+  - name: Epistula ad Titum 3:10
+    orderIndex: 9
+    osisId: Titus.3.10
+    sblId: Titus 3:10
+    shortName: Tit 3:10
+    text: Haereticum hominem post unam et secundam correptionem devita,
+  - name: Epistula ad Titum 3:11
+    orderIndex: 10
+    osisId: Titus.3.11
+    sblId: Titus 3:11
+    shortName: Tit 3:11
+    text: sciens quia subversus est, qui eiusmodi est, et delinquit, proprio iudicio
+      condemnatus.
+  - name: Epistula ad Titum 3:12
+    orderIndex: 11
+    osisId: Titus.3.12
+    sblId: Titus 3:12
+    shortName: Tit 3:12
+    text: Cum misero ad te Artemam aut Tychicum, festina ad me venire Nicopolim; ibi
+      enim statui hiemare.
+  - name: Epistula ad Titum 3:13
+    orderIndex: 12
+    osisId: Titus.3.13
+    sblId: Titus 3:13
+    shortName: Tit 3:13
+    text: Zenam legis peritum et Apollo sollicite instrue, ut nihil illis desit.
+  - name: Epistula ad Titum 3:14
+    orderIndex: 13
+    osisId: Titus.3.14
+    sblId: Titus 3:14
+    shortName: Tit 3:14
+    text: Discant autem et nostri bonis operibus praeesse ad usus necessarios, ut
+      non sint infructuosi.
+  - name: Epistula ad Titum 3:15
+    orderIndex: 14
+    osisId: Titus.3.15
+    sblId: Titus 3:15
+    shortName: Tit 3:15
+    text: Salutant te, qui mecum sunt, omnes. Saluta, qui nos amant in fide.Gratia
+      cum omnibus vobis.
+  versesCount: 15
+chaptersCount: 3
+name: Epistula ad Titum
+orderIndex: 55
+osisId: Titus
+sblId: Titus
+shortName: Tit
+versesCount: 46

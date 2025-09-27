@@ -1,0 +1,428 @@
+chapters:
+- name: Habakkuk 1
+  orderIndex: 0
+  osisId: Hab.1
+  sblId: Hab 1
+  shortName: Hab 1
+  verses:
+  - name: Habakkuk 1:1
+    orderIndex: 0
+    osisId: Hab.1.1
+    sblId: Hab 1:1
+    shortName: Hab 1:1
+    text: The oracle that Habakkuk the prophet received.
+  - name: Habakkuk 1:2
+    orderIndex: 1
+    osisId: Hab.1.2
+    sblId: Hab 1:2
+    shortName: Hab 1:2
+    text: How long, O LORD, must I call for help, but you do not listen? Or cry out
+      to you, "Violence!" but you do not save?
+  - name: Habakkuk 1:3
+    orderIndex: 2
+    osisId: Hab.1.3
+    sblId: Hab 1:3
+    shortName: Hab 1:3
+    text: Why do you make me look at injustice? Why do you tolerate wrong? Destruction
+      and violence are before me; there is strife, and conflict abounds.
+  - name: Habakkuk 1:4
+    orderIndex: 3
+    osisId: Hab.1.4
+    sblId: Hab 1:4
+    shortName: Hab 1:4
+    text: Therefore the law is paralyzed, and justice never prevails. The wicked hem
+      in the righteous, so that justice is perverted.
+  - name: Habakkuk 1:5
+    orderIndex: 4
+    osisId: Hab.1.5
+    sblId: Hab 1:5
+    shortName: Hab 1:5
+    text: '"Look at the nations and watch- and be utterly amazed. For I am going to
+      do something in your days that you would not believe, even if you were told.'
+  - name: Habakkuk 1:6
+    orderIndex: 5
+    osisId: Hab.1.6
+    sblId: Hab 1:6
+    shortName: Hab 1:6
+    text: I am raising up the Babylonians, that ruthless and impetuous people, who
+      sweep across the whole earth to seize dwelling places not their own.
+  - name: Habakkuk 1:7
+    orderIndex: 6
+    osisId: Hab.1.7
+    sblId: Hab 1:7
+    shortName: Hab 1:7
+    text: They are a feared and dreaded people; they are a law to themselves and promote
+      their own honor.
+  - name: Habakkuk 1:8
+    orderIndex: 7
+    osisId: Hab.1.8
+    sblId: Hab 1:8
+    shortName: Hab 1:8
+    text: Their horses are swifter than leopards, fiercer than wolves at dusk. Their
+      cavalry gallops headlong; their horsemen come from afar. They fly like a vulture
+      swooping to devour;
+  - name: Habakkuk 1:9
+    orderIndex: 8
+    osisId: Hab.1.9
+    sblId: Hab 1:9
+    shortName: Hab 1:9
+    text: they all come bent on violence. Their hordes advance like a desert wind
+      and gather prisoners like sand.
+  - name: Habakkuk 1:10
+    orderIndex: 9
+    osisId: Hab.1.10
+    sblId: Hab 1:10
+    shortName: Hab 1:10
+    text: They deride kings and scoff at rulers. They laugh at all fortified cities;
+      they build earthen ramps and capture them.
+  - name: Habakkuk 1:11
+    orderIndex: 10
+    osisId: Hab.1.11
+    sblId: Hab 1:11
+    shortName: Hab 1:11
+    text: Then they sweep past like the wind and go on- guilty men, whose own strength
+      is their god."
+  - name: Habakkuk 1:12
+    orderIndex: 11
+    osisId: Hab.1.12
+    sblId: Hab 1:12
+    shortName: Hab 1:12
+    text: O LORD, are you not from everlasting? My God, my Holy One, we will not die.
+      O LORD, you have appointed them to execute judgment; O Rock, you have ordained
+      them to punish.
+  - name: Habakkuk 1:13
+    orderIndex: 12
+    osisId: Hab.1.13
+    sblId: Hab 1:13
+    shortName: Hab 1:13
+    text: Your eyes are too pure to look on evil; you cannot tolerate wrong. Why then
+      do you tolerate the treacherous? Why are you silent while the wicked swallow
+      up those more righteous than themselves?
+  - name: Habakkuk 1:14
+    orderIndex: 13
+    osisId: Hab.1.14
+    sblId: Hab 1:14
+    shortName: Hab 1:14
+    text: You have made men like fish in the sea, like sea creatures that have no
+      ruler.
+  - name: Habakkuk 1:15
+    orderIndex: 14
+    osisId: Hab.1.15
+    sblId: Hab 1:15
+    shortName: Hab 1:15
+    text: The wicked foe pulls all of them up with hooks, he catches them in his net,
+      he gathers them up in his dragnet; and so he rejoices and is glad.
+  - name: Habakkuk 1:16
+    orderIndex: 15
+    osisId: Hab.1.16
+    sblId: Hab 1:16
+    shortName: Hab 1:16
+    text: Therefore he sacrifices to his net and burns incense to his dragnet, for
+      by his net he lives in luxury and enjoys the choicest food.
+  - name: Habakkuk 1:17
+    orderIndex: 16
+    osisId: Hab.1.17
+    sblId: Hab 1:17
+    shortName: Hab 1:17
+    text: Is he to keep on emptying his net, destroying nations without mercy?
+  versesCount: 17
+- name: Habakkuk 2
+  orderIndex: 1
+  osisId: Hab.2
+  sblId: Hab 2
+  shortName: Hab 2
+  verses:
+  - name: Habakkuk 2:1
+    orderIndex: 0
+    osisId: Hab.2.1
+    sblId: Hab 2:1
+    shortName: Hab 2:1
+    text: I will stand at my watch and station myself on the ramparts; I will look
+      to see what he will say to me, and what answer I am to give to this complaint.
+  - name: Habakkuk 2:2
+    orderIndex: 1
+    osisId: Hab.2.2
+    sblId: Hab 2:2
+    shortName: Hab 2:2
+    text: 'Then the LORD replied: "Write down the revelation and make it plain on
+      tablets so that a herald may run with it.'
+  - name: Habakkuk 2:3
+    orderIndex: 2
+    osisId: Hab.2.3
+    sblId: Hab 2:3
+    shortName: Hab 2:3
+    text: For the revelation awaits an appointed time; it speaks of the end and will
+      not prove false. Though it linger, wait for it; it will certainly come and will
+      not delay.
+  - name: Habakkuk 2:4
+    orderIndex: 3
+    osisId: Hab.2.4
+    sblId: Hab 2:4
+    shortName: Hab 2:4
+    text: '"See, he is puffed up; his desires are not upright- but the righteous will
+      live by his faith -'
+  - name: Habakkuk 2:5
+    orderIndex: 4
+    osisId: Hab.2.5
+    sblId: Hab 2:5
+    shortName: Hab 2:5
+    text: indeed, wine betrays him; he is arrogant and never at rest. Because he is
+      as greedy as the grave and like death is never satisfied, he gathers to himself
+      all the nations and takes captive all the peoples.
+  - name: Habakkuk 2:6
+    orderIndex: 5
+    osisId: Hab.2.6
+    sblId: Hab 2:6
+    shortName: Hab 2:6
+    text: '"Will not all of them taunt him with ridicule and scorn, saying, "''Woe
+      to him who piles up stolen goods and makes himself wealthy by extortion! How
+      long must this go on?'''
+  - name: Habakkuk 2:7
+    orderIndex: 6
+    osisId: Hab.2.7
+    sblId: Hab 2:7
+    shortName: Hab 2:7
+    text: Will not your debtors suddenly arise? Will they not wake up and make you
+      tremble? Then you will become their victim.
+  - name: Habakkuk 2:8
+    orderIndex: 7
+    osisId: Hab.2.8
+    sblId: Hab 2:8
+    shortName: Hab 2:8
+    text: Because you have plundered many nations, the peoples who are left will plunder
+      you. For you have shed man's blood; you have destroyed lands and cities and
+      everyone in them.
+  - name: Habakkuk 2:9
+    orderIndex: 8
+    osisId: Hab.2.9
+    sblId: Hab 2:9
+    shortName: Hab 2:9
+    text: '"Woe to him who builds his realm by unjust gain to set his nest on high,
+      to escape the clutches of ruin!'
+  - name: Habakkuk 2:10
+    orderIndex: 9
+    osisId: Hab.2.10
+    sblId: Hab 2:10
+    shortName: Hab 2:10
+    text: You have plotted the ruin of many peoples, shaming your own house and forfeiting
+      your life.
+  - name: Habakkuk 2:11
+    orderIndex: 10
+    osisId: Hab.2.11
+    sblId: Hab 2:11
+    shortName: Hab 2:11
+    text: The stones of the wall will cry out, and the beams of the woodwork will
+      echo it.
+  - name: Habakkuk 2:12
+    orderIndex: 11
+    osisId: Hab.2.12
+    sblId: Hab 2:12
+    shortName: Hab 2:12
+    text: '"Woe to him who builds a city with bloodshed and establishes a town by
+      crime!'
+  - name: Habakkuk 2:13
+    orderIndex: 12
+    osisId: Hab.2.13
+    sblId: Hab 2:13
+    shortName: Hab 2:13
+    text: Has not the LORD Almighty determined that the people's labor is only fuel
+      for the fire, that the nations exhaust themselves for nothing?
+  - name: Habakkuk 2:14
+    orderIndex: 13
+    osisId: Hab.2.14
+    sblId: Hab 2:14
+    shortName: Hab 2:14
+    text: For the earth will be filled with the knowledge of the glory of the LORD,
+      as the waters cover the sea.
+  - name: Habakkuk 2:15
+    orderIndex: 14
+    osisId: Hab.2.15
+    sblId: Hab 2:15
+    shortName: Hab 2:15
+    text: '"Woe to him who gives drink to his neighbors, pouring it from the wineskin
+      till they are drunk, so that he can gaze on their naked bodies.'
+  - name: Habakkuk 2:16
+    orderIndex: 15
+    osisId: Hab.2.16
+    sblId: Hab 2:16
+    shortName: Hab 2:16
+    text: You will be filled with shame instead of glory. Now it is your turn! Drink
+      and be exposed! The cup from the LORD's right hand is coming around to you,
+      and disgrace will cover your glory.
+  - name: Habakkuk 2:17
+    orderIndex: 16
+    osisId: Hab.2.17
+    sblId: Hab 2:17
+    shortName: Hab 2:17
+    text: The violence you have done to Lebanon will overwhelm you, and your destruction
+      of animals will terrify you. For you have shed man's blood; you have destroyed
+      lands and cities and everyone in them.
+  - name: Habakkuk 2:18
+    orderIndex: 17
+    osisId: Hab.2.18
+    sblId: Hab 2:18
+    shortName: Hab 2:18
+    text: '"Of what value is an idol, since a man has carved it? Or an image that
+      teaches lies? For he who makes it trusts in his own creation; he makes idols
+      that cannot speak.'
+  - name: Habakkuk 2:19
+    orderIndex: 18
+    osisId: Hab.2.19
+    sblId: Hab 2:19
+    shortName: Hab 2:19
+    text: Woe to him who says to wood, 'Come to life!' Or to lifeless stone, 'Wake
+      up!' Can it give guidance? It is covered with gold and silver; there is no breath
+      in it.
+  - name: Habakkuk 2:20
+    orderIndex: 19
+    osisId: Hab.2.20
+    sblId: Hab 2:20
+    shortName: Hab 2:20
+    text: But the LORD is in his holy temple; let all the earth be silent before him."
+  versesCount: 20
+- name: Habakkuk 3
+  orderIndex: 2
+  osisId: Hab.3
+  sblId: Hab 3
+  shortName: Hab 3
+  verses:
+  - name: Habakkuk 3:1
+    orderIndex: 0
+    osisId: Hab.3.1
+    sblId: Hab 3:1
+    shortName: Hab 3:1
+    text: A prayer of Habakkuk the prophet. On shigionoth.
+  - name: Habakkuk 3:2
+    orderIndex: 1
+    osisId: Hab.3.2
+    sblId: Hab 3:2
+    shortName: Hab 3:2
+    text: LORD, I have heard of your fame; I stand in awe of your deeds, O LORD. Renew
+      them in our day, in our time make them known; in wrath remember mercy.
+  - name: Habakkuk 3:3
+    orderIndex: 2
+    osisId: Hab.3.3
+    sblId: Hab 3:3
+    shortName: Hab 3:3
+    text: God came from Teman, the Holy One from Mount Paran. Selah His glory covered
+      the heavens and his praise filled the earth.
+  - name: Habakkuk 3:4
+    orderIndex: 3
+    osisId: Hab.3.4
+    sblId: Hab 3:4
+    shortName: Hab 3:4
+    text: His splendor was like the sunrise; rays flashed from his hand, where his
+      power was hidden.
+  - name: Habakkuk 3:5
+    orderIndex: 4
+    osisId: Hab.3.5
+    sblId: Hab 3:5
+    shortName: Hab 3:5
+    text: Plague went before him; pestilence followed his steps.
+  - name: Habakkuk 3:6
+    orderIndex: 5
+    osisId: Hab.3.6
+    sblId: Hab 3:6
+    shortName: Hab 3:6
+    text: He stood, and shook the earth; he looked, and made the nations tremble.
+      The ancient mountains crumbled and the age-old hills collapsed. His ways are
+      eternal.
+  - name: Habakkuk 3:7
+    orderIndex: 6
+    osisId: Hab.3.7
+    sblId: Hab 3:7
+    shortName: Hab 3:7
+    text: I saw the tents of Cushan in distress, the dwellings of Midian in anguish.
+  - name: Habakkuk 3:8
+    orderIndex: 7
+    osisId: Hab.3.8
+    sblId: Hab 3:8
+    shortName: Hab 3:8
+    text: Were you angry with the rivers, O LORD? Was your wrath against the streams?
+      Did you rage against the sea when you rode with your horses and your victorious
+      chariots?
+  - name: Habakkuk 3:9
+    orderIndex: 8
+    osisId: Hab.3.9
+    sblId: Hab 3:9
+    shortName: Hab 3:9
+    text: You uncovered your bow, you called for many arrows. Selah You split the
+      earth with rivers;
+  - name: Habakkuk 3:10
+    orderIndex: 9
+    osisId: Hab.3.10
+    sblId: Hab 3:10
+    shortName: Hab 3:10
+    text: the mountains saw you and writhed. Torrents of water swept by; the deep
+      roared and lifted its waves on high.
+  - name: Habakkuk 3:11
+    orderIndex: 10
+    osisId: Hab.3.11
+    sblId: Hab 3:11
+    shortName: Hab 3:11
+    text: Sun and moon stood still in the heavens at the glint of your flying arrows,
+      at the lightning of your flashing spear.
+  - name: Habakkuk 3:12
+    orderIndex: 11
+    osisId: Hab.3.12
+    sblId: Hab 3:12
+    shortName: Hab 3:12
+    text: In wrath you strode through the earth and in anger you threshed the nations.
+  - name: Habakkuk 3:13
+    orderIndex: 12
+    osisId: Hab.3.13
+    sblId: Hab 3:13
+    shortName: Hab 3:13
+    text: You came out to deliver your people, to save your anointed one. You crushed
+      the leader of the land of wickedness, you stripped him from head to foot. Selah
+  - name: Habakkuk 3:14
+    orderIndex: 13
+    osisId: Hab.3.14
+    sblId: Hab 3:14
+    shortName: Hab 3:14
+    text: With his own spear you pierced his head when his warriors stormed out to
+      scatter us, gloating as though about to devour the wretched who were in hiding.
+  - name: Habakkuk 3:15
+    orderIndex: 14
+    osisId: Hab.3.15
+    sblId: Hab 3:15
+    shortName: Hab 3:15
+    text: You trampled the sea with your horses, churning the great waters.
+  - name: Habakkuk 3:16
+    orderIndex: 15
+    osisId: Hab.3.16
+    sblId: Hab 3:16
+    shortName: Hab 3:16
+    text: I heard and my heart pounded, my lips quivered at the sound; decay crept
+      into my bones, and my legs trembled. Yet I will wait patiently for the day of
+      calamity to come on the nation invading us.
+  - name: Habakkuk 3:17
+    orderIndex: 16
+    osisId: Hab.3.17
+    sblId: Hab 3:17
+    shortName: Hab 3:17
+    text: Though the fig tree does not bud and there are no grapes on the vines, though
+      the olive crop fails and the fields produce no food, though there are no sheep
+      in the pen and no cattle in the stalls,
+  - name: Habakkuk 3:18
+    orderIndex: 17
+    osisId: Hab.3.18
+    sblId: Hab 3:18
+    shortName: Hab 3:18
+    text: yet I will rejoice in the LORD, I will be joyful in God my Savior.
+  - name: Habakkuk 3:19
+    orderIndex: 18
+    osisId: Hab.3.19
+    sblId: Hab 3:19
+    shortName: Hab 3:19
+    text: The Sovereign LORD is my strength; he makes my feet like the feet of a deer,
+      he enables me to go on the heights. For the director of music. On my stringed
+      instruments.
+  versesCount: 19
+chaptersCount: 3
+name: Habakkuk
+orderIndex: 34
+osisId: Hab
+sblId: Hab
+shortName: Hab
+versesCount: 56

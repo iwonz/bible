@@ -1,0 +1,2943 @@
+chapters:
+- name: Nehemiae 1
+  orderIndex: 0
+  osisId: Neh.1
+  sblId: Neh 1
+  shortName: Neh 1
+  verses:
+  - name: Nehemiae 1:1
+    orderIndex: 0
+    osisId: Neh.1.1
+    sblId: Neh 1:1
+    shortName: Neh 1:1
+    text: Verba Nehemiae filii Hacha liae. Et factum est in mense Ca sleu, anno vicesimo,
+      et ego eram in castro Susan.
+  - name: Nehemiae 1:2
+    orderIndex: 1
+    osisId: Neh.1.2
+    sblId: Neh 1:2
+    shortName: Neh 1:2
+    text: Et venit Hanani unus de fratribus meis, ipse et viri ex Iuda; et interrogavi
+      eos de Iudaeis, qui salvati erant et supererant de captivitate, et de Ierusalem.
+  - name: Nehemiae 1:3
+    orderIndex: 2
+    osisId: Neh.1.3
+    sblId: Neh 1:3
+    shortName: Neh 1:3
+    text: 'Et dixerunt mihi: " Superstites, qui supererant de captivitate ibi in provincia,
+      in afflictione magna sunt et in opprobrio; et murus Ierusalem dissipatus est,
+      et portae eius combustae sunt igne ".'
+  - name: Nehemiae 1:4
+    orderIndex: 3
+    osisId: Neh.1.4
+    sblId: Neh 1:4
+    shortName: Neh 1:4
+    text: Cumque audissem verba huiuscemodi, sedi et flevi et luxi diebus multis;
+      ieiunabam et orabam ante faciem Dei caeli.
+  - name: Nehemiae 1:5
+    orderIndex: 4
+    osisId: Neh.1.5
+    sblId: Neh 1:5
+    shortName: Neh 1:5
+    text: 'Et dixi: " Quaeso, Domine, Deus caeli, Deus fortis, magne atque terribilis,
+      qui custodis pactum et misericordiam cum his, qui te diligunt et custodiunt
+      mandata tua;'
+  - name: Nehemiae 1:6
+    orderIndex: 5
+    osisId: Neh.1.6
+    sblId: Neh 1:6
+    shortName: Neh 1:6
+    text: fiat auris tua auscultans, et oculi tui aperti, ut audias orationem servi
+      tui, quam ego oro coram te hodie, die et nocte pro filiis Israel servis tuis,
+      et confiteor pro peccatis filiorum Israel, quibus peccaverunt tibi. Ego quoque
+      et domus patris mei peccavimus,
+  - name: Nehemiae 1:7
+    orderIndex: 6
+    osisId: Neh.1.7
+    sblId: Neh 1:7
+    shortName: Neh 1:7
+    text: delinquentes deliquimus contra te et non custodivimus praecepta et mandata
+      et iudicia, quae praecepisti Moysi famulo tuo.
+  - name: Nehemiae 1:8
+    orderIndex: 7
+    osisId: Neh.1.8
+    sblId: Neh 1:8
+    shortName: Neh 1:8
+    text: 'Memento verbi, quod mandasti Moysi servo tuo dicens: "Cum transgressi fueritis,
+      ego dispergam vos in populos;'
+  - name: Nehemiae 1:9
+    orderIndex: 8
+    osisId: Neh.1.9
+    sblId: Neh 1:9
+    shortName: Neh 1:9
+    text: si autem revertamini ad me et custodiatis praecepta mea et faciatis ea,
+      etiamsi abducti fueritis in extrema caeli, inde congregabo vos et reducam in
+      locum quem elegi, ut habitaret nomen meum ibi".
+  - name: Nehemiae 1:10
+    orderIndex: 9
+    osisId: Neh.1.10
+    sblId: Neh 1:10
+    shortName: Neh 1:10
+    text: Ipsi enim sunt servi tui et populus tuus, quos redemisti in fortitudine
+      tua magna et in manu tua valida.
+  - name: Nehemiae 1:11
+    orderIndex: 10
+    osisId: Neh.1.11
+    sblId: Neh 1:11
+    shortName: Neh 1:11
+    text: Obsecro, Domine, sit auris tua attendens ad orationem servi tui et ad orationem
+      servorum tuorum, qui volunt timere nomen tuum; et fac servum tuum prosperari
+      hodie et da ei gratiam ante virum hunc ". Ego enim eram pincerna regis.
+  versesCount: 11
+- name: Nehemiae 2
+  orderIndex: 1
+  osisId: Neh.2
+  sblId: Neh 2
+  shortName: Neh 2
+  verses:
+  - name: Nehemiae 2:1
+    orderIndex: 0
+    osisId: Neh.2.1
+    sblId: Neh 2:1
+    shortName: Neh 2:1
+    text: Factum est autem in mense Nisan, anno vicesimo Artaxerxis regis, dum biberet,
+      levavi vinum et dedi regi; non enim eram ingratus coram eo.
+  - name: Nehemiae 2:2
+    orderIndex: 1
+    osisId: Neh.2.2
+    sblId: Neh 2:2
+    shortName: Neh 2:2
+    text: 'Dixitque mihi rex: " Quare vultus tuus tristis est, cum te aegrotum non
+      videam? Nihil est aliud nisi tristitia cordis ". Et timui valde'
+  - name: Nehemiae 2:3
+    orderIndex: 2
+    osisId: Neh.2.3
+    sblId: Neh 2:3
+    shortName: Neh 2:3
+    text: 'et dixi regi: " Rex, in aeternum vive! Quare non maereat vultus meus, quia
+      civitas sepulcrorum patrum meorum deserta est, et portae eius combustae sunt
+      igne? ".'
+  - name: Nehemiae 2:4
+    orderIndex: 3
+    osisId: Neh.2.4
+    sblId: Neh 2:4
+    shortName: Neh 2:4
+    text: 'Et ait mihi rex: " Pro qua re postulas? ". Et oravi Deum caeli'
+  - name: Nehemiae 2:5
+    orderIndex: 4
+    osisId: Neh.2.5
+    sblId: Neh 2:5
+    shortName: Neh 2:5
+    text: 'et dixi ad regem: " Si videtur regi bonum, et si placet servus tuus ante
+      faciem tuam, ut mittas me in Iudaeam ad civitatem sepulcrorum patrum meorum,
+      et aedificabo eam ".'
+  - name: Nehemiae 2:6
+    orderIndex: 5
+    osisId: Neh.2.6
+    sblId: Neh 2:6
+    shortName: Neh 2:6
+    text: 'Dixitque mihi rex, et regina sedebat iuxta eum: " Usque ad quod tempus
+      erit iter tuum, et quando reverteris? ". Et placuit regi mittere me; et constitui
+      ei tempus.'
+  - name: Nehemiae 2:7
+    orderIndex: 6
+    osisId: Neh.2.7
+    sblId: Neh 2:7
+    shortName: Neh 2:7
+    text: 'Et dixi regi: " Si regi videtur bonum, epistulae dentur mihi ad duces regionis
+      trans flumen, ut me transire permittant, donec veniam in Iudaeam;'
+  - name: Nehemiae 2:8
+    orderIndex: 7
+    osisId: Neh.2.8
+    sblId: Neh 2:8
+    shortName: Neh 2:8
+    text: et epistulam ad Asaph custodem saltus regis, ut det mihi ligna, ut contignare
+      possim portas turris domus et muri civitatis et domus, in qua habitabo ". Et
+      dedit mihi rex, quia manus Dei mei bona super me.
+  - name: Nehemiae 2:9
+    orderIndex: 8
+    osisId: Neh.2.9
+    sblId: Neh 2:9
+    shortName: Neh 2:9
+    text: Et veni ad duces regionis trans flumen dedique eis epistulas regis. Miserat
+      autem rex mecum principes militum et equites.
+  - name: Nehemiae 2:10
+    orderIndex: 9
+    osisId: Neh.2.10
+    sblId: Neh 2:10
+    shortName: Neh 2:10
+    text: Et audierunt Sanaballat Horonites et Thobias servus Ammanites et contristati
+      sunt afflictione magna, quod venisset homo, qui quaereret prosperitatem filiorum
+      Israel.
+  - name: Nehemiae 2:11
+    orderIndex: 10
+    osisId: Neh.2.11
+    sblId: Neh 2:11
+    shortName: Neh 2:11
+    text: Et veni Ierusalem et eram ibi tribus diebus.
+  - name: Nehemiae 2:12
+    orderIndex: 11
+    osisId: Neh.2.12
+    sblId: Neh 2:12
+    shortName: Neh 2:12
+    text: Et surrexi nocte ego, et viri pauci mecum, et non indicavi cuiquam quid
+      Deus meus dedisset in corde meo, ut facerem in Ierusalem; et iumentum non erat
+      mecum, nisi animal cui sedebam.
+  - name: Nehemiae 2:13
+    orderIndex: 12
+    osisId: Neh.2.13
+    sblId: Neh 2:13
+    shortName: Neh 2:13
+    text: Et egressus sum per portam Vallis nocte et ad fontem Draconis et portam
+      Sterquilinii et considerabam murum Ierusalem dissipatum et portas eius consumptas
+      igne.
+  - name: Nehemiae 2:14
+    orderIndex: 13
+    osisId: Neh.2.14
+    sblId: Neh 2:14
+    shortName: Neh 2:14
+    text: Et transivi ad portam Fontis et ad piscinam Regis, et non erat locus iumento
+      cui sedebam, ut transiret.
+  - name: Nehemiae 2:15
+    orderIndex: 14
+    osisId: Neh.2.15
+    sblId: Neh 2:15
+    shortName: Neh 2:15
+    text: Et ascendi per torrentem nocte et considerabam murum; et iterum veni ad
+      portam Vallis et reversus sum.
+  - name: Nehemiae 2:16
+    orderIndex: 15
+    osisId: Neh.2.16
+    sblId: Neh 2:16
+    shortName: Neh 2:16
+    text: Magistratus autem nesciebant quo abissem aut quid ego facerem, sed et Iudaeis
+      et sacerdotibus et optimatibus et magistratibus et reliquis, qui faciebant opus,
+      usque ad id loci nihil indicaveram.
+  - name: Nehemiae 2:17
+    orderIndex: 16
+    osisId: Neh.2.17
+    sblId: Neh 2:17
+    shortName: Neh 2:17
+    text: 'Et dixi eis: " Vos nostis afflictionem, in qua sumus, quia Ierusalem deserta
+      est, et portae eius consumptae sunt igne; venite et aedificemus murum Ierusalem
+      et non simus ultra opprobrium ".'
+  - name: Nehemiae 2:18
+    orderIndex: 17
+    osisId: Neh.2.18
+    sblId: Neh 2:18
+    shortName: Neh 2:18
+    text: 'Et indicavi eis quod manus Dei mei bona esset super me et verba regis,
+      quae locutus esset mihi, et dixerunt: " Surgamus et aedificemus! ". Et confortatae
+      sunt manus eorum in bonum.'
+  - name: Nehemiae 2:19
+    orderIndex: 18
+    osisId: Neh.2.19
+    sblId: Neh 2:19
+    shortName: Neh 2:19
+    text: 'Audierunt autem Sanaballat Horonites et Thobias servus Ammanites et Gosem
+      Arabs et subsannaverunt nos et despexerunt dixeruntque: " Quae est haec res,
+      quam facitis? Numquid contra regem vos rebellatis? ".'
+  - name: Nehemiae 2:20
+    orderIndex: 19
+    osisId: Neh.2.20
+    sblId: Neh 2:20
+    shortName: Neh 2:20
+    text: 'Et dedi eis responsum dicens: " Deus caeli ipse nos facit prosperari, et
+      nos servi eius sumus; surgamus et aedificemus. Vobis autem non est pars et ius
+      et memoria in Ierusalem ".'
+  versesCount: 20
+- name: Nehemiae 3
+  orderIndex: 2
+  osisId: Neh.3
+  sblId: Neh 3
+  shortName: Neh 3
+  verses:
+  - name: Nehemiae 3:1
+    orderIndex: 0
+    osisId: Neh.3.1
+    sblId: Neh 3:1
+    shortName: Neh 3:1
+    text: Et surrexit Eliasib sacerdos magnus et fratres eius sacerdotes et aedificaverunt
+      portam Gregis; contignaverunt eam et statuerunt valvas eius et usque ad turrim
+      Meah et turrim Hananeel.
+  - name: Nehemiae 3:2
+    orderIndex: 1
+    osisId: Neh.3.2
+    sblId: Neh 3:2
+    shortName: Neh 3:2
+    text: Et iuxta eos aedificaverunt viri Iericho, et iuxta eos aedificavit Zacchur
+      filius Imri.
+  - name: Nehemiae 3:3
+    orderIndex: 2
+    osisId: Neh.3.3
+    sblId: Neh 3:3
+    shortName: Neh 3:3
+    text: Portam autem Piscium aedificaverunt filii Asnaa; ipsi contignaverunt eam
+      et statuerunt valvas eius et seras et vectes.
+  - name: Nehemiae 3:4
+    orderIndex: 3
+    osisId: Neh.3.4
+    sblId: Neh 3:4
+    shortName: Neh 3:4
+    text: Et iuxta eos restauravit Meremoth filius Uriae filii Accos, et iuxta eum
+      restauravit Mosollam filius Barachiae filii Mesezabel, et iuxta eum restauravit
+      Sadoc filius Baana,
+  - name: Nehemiae 3:5
+    orderIndex: 4
+    osisId: Neh.3.5
+    sblId: Neh 3:5
+    shortName: Neh 3:5
+    text: et iuxta eum restauraverunt Thecueni; optimates autem eorum non supposuerunt
+      colla sua in opere Domini sui.
+  - name: Nehemiae 3:6
+    orderIndex: 5
+    osisId: Neh.3.6
+    sblId: Neh 3:6
+    shortName: Neh 3:6
+    text: Et portam Veterem restauraverunt Ioiada filius Phasea et Mosollam filius
+      Besodia; ipsi contignaverunt eam et statuerunt valvas eius et seras et vectes.
+  - name: Nehemiae 3:7
+    orderIndex: 6
+    osisId: Neh.3.7
+    sblId: Neh 3:7
+    shortName: Neh 3:7
+    text: Et iuxta eos restauraverunt Meltias Gabaonites et Iadon Meronathites, viri
+      de Gabaon et Maspha, qui erant ad solium ducis, qui erat in regione trans flumen;
+  - name: Nehemiae 3:8
+    orderIndex: 7
+    osisId: Neh.3.8
+    sblId: Neh 3:8
+    shortName: Neh 3:8
+    text: et iuxta eos restauravit Oziel filius Araia de aurificibus, et iuxta eum
+      restauravit Hananias de pigmentariis et firmaverunt Ierusalem usque ad murum
+      latiorem.
+  - name: Nehemiae 3:9
+    orderIndex: 8
+    osisId: Neh.3.9
+    sblId: Neh 3:9
+    shortName: Neh 3:9
+    text: Et iuxta eum restauravit Raphaia filius Hur, princeps dimidiae partis vici
+      Ierusalem;
+  - name: Nehemiae 3:10
+    orderIndex: 9
+    osisId: Neh.3.10
+    sblId: Neh 3:10
+    shortName: Neh 3:10
+    text: et iuxta eum restauravit Iedaia filius Haromaph contra domum suam, et iuxta
+      eum restauravit Hattus filius Hasabneia.
+  - name: Nehemiae 3:11
+    orderIndex: 10
+    osisId: Neh.3.11
+    sblId: Neh 3:11
+    shortName: Neh 3:11
+    text: Alteram partem restauravit Melchias filius Harim et Hassub filius Phahathmoab
+      usque ad turrim Furnorum.
+  - name: Nehemiae 3:12
+    orderIndex: 11
+    osisId: Neh.3.12
+    sblId: Neh 3:12
+    shortName: Neh 3:12
+    text: Et iuxta eos restauravit Sellum filius Alohes, princeps mediae partis vici
+      Ierusalem, ipse et filiae eius.
+  - name: Nehemiae 3:13
+    orderIndex: 12
+    osisId: Neh.3.13
+    sblId: Neh 3:13
+    shortName: Neh 3:13
+    text: Portam Vallis restauravit Hanun et habitatores Zanoa; ipsi aedificaverunt
+      eam et statuerunt valvas eius et seras et vectes et mille cubitos in muro usque
+      ad portam Sterquilinii.
+  - name: Nehemiae 3:14
+    orderIndex: 13
+    osisId: Neh.3.14
+    sblId: Neh 3:14
+    shortName: Neh 3:14
+    text: Et portam Sterquilinii restauravit Melchias filius Rechab, princeps vici
+      Bethcharem; ipse aedificavit eam et statuit valvas eius et seras et vectes.
+  - name: Nehemiae 3:15
+    orderIndex: 14
+    osisId: Neh.3.15
+    sblId: Neh 3:15
+    shortName: Neh 3:15
+    text: Et portam Fontis restauravit Sellum filius Cholhoza princeps pagi Maspha;
+      ipse aedificavit eam et texit et statuit valvas eius et seras et vectes et murum
+      piscinae Siloae iuxta hortum regis et usque ad gradus, qui descendunt de civitate
+      David.
+  - name: Nehemiae 3:16
+    orderIndex: 15
+    osisId: Neh.3.16
+    sblId: Neh 3:16
+    shortName: Neh 3:16
+    text: Post eum restauravit Nehemias filius Azboc princeps dimidiae partis vici
+      Bethsur usque contra sepulcra David et usque ad piscinam, quae repleta est,
+      et usque ad domum Fortium.
+  - name: Nehemiae 3:17
+    orderIndex: 16
+    osisId: Neh.3.17
+    sblId: Neh 3:17
+    shortName: Neh 3:17
+    text: Post eum restauraverunt Levitae, Rehum filius Bani; iuxta eum restauravit
+      Hasabias princeps dimidiae partis vici Ceilae pro vico suo;
+  - name: Nehemiae 3:18
+    orderIndex: 17
+    osisId: Neh.3.18
+    sblId: Neh 3:18
+    shortName: Neh 3:18
+    text: post eum aedificaverunt fratres eorum Bavai filius Henadad princeps dimidiae
+      partis vici Ceilae.
+  - name: Nehemiae 3:19
+    orderIndex: 18
+    osisId: Neh.3.19
+    sblId: Neh 3:19
+    shortName: Neh 3:19
+    text: Et restauravit iuxta eum Ezer filius Iesua princeps Maspha mensuram alteram
+      contra ascensum armentarii in angulo.
+  - name: Nehemiae 3:20
+    orderIndex: 19
+    osisId: Neh.3.20
+    sblId: Neh 3:20
+    shortName: Neh 3:20
+    text: Post eum restauravit Baruch filius Zachai mensuram alteram ab angulo usque
+      ad portam domus Eliasib sacerdotis magni.
+  - name: Nehemiae 3:21
+    orderIndex: 20
+    osisId: Neh.3.21
+    sblId: Neh 3:21
+    shortName: Neh 3:21
+    text: Post eum restauravit Meremoth filius Uriae filii Aecos mensuram secundam
+      a porta domus Eliasib usque ad extremitatem domus Eliasib.
+  - name: Nehemiae 3:22
+    orderIndex: 21
+    osisId: Neh.3.22
+    sblId: Neh 3:22
+    shortName: Neh 3:22
+    text: Et post eum restauraverunt sacerdotes viri de campestribus.
+  - name: Nehemiae 3:23
+    orderIndex: 22
+    osisId: Neh.3.23
+    sblId: Neh 3:23
+    shortName: Neh 3:23
+    text: Post eos restauravit Beniamin et Hassub contra domum suam; post eos restauravit
+      Azarias filius Maasiae filii Ananiae iuxta domum suam.
+  - name: Nehemiae 3:24
+    orderIndex: 23
+    osisId: Neh.3.24
+    sblId: Neh 3:24
+    shortName: Neh 3:24
+    text: Post eum restauravit Bennui filius Henadad mensuram alteram a domo Azariae
+      usque ad angulum et flexuram.
+  - name: Nehemiae 3:25
+    orderIndex: 24
+    osisId: Neh.3.25
+    sblId: Neh 3:25
+    shortName: Neh 3:25
+    text: Phalel filius Ozi contra angulum turris, quae eminet de domo regis excelsa
+      in atrio carceris; post eum Phadaia filius Pharos restauravit
+  - name: Nehemiae 3:26
+    orderIndex: 25
+    osisId: Neh.3.26
+    sblId: Neh 3:26
+    shortName: Neh 3:26
+    text: usque contra portam Aquarum ad orientem et turrim, quae prominebat.
+  - name: Nehemiae 3:27
+    orderIndex: 26
+    osisId: Neh.3.27
+    sblId: Neh 3:27
+    shortName: Neh 3:27
+    text: Post eum restauraverunt Thecueni mensuram alteram a regione contra magnam
+      turrim eminentem usque ad murum templi.
+  - name: Nehemiae 3:28
+    orderIndex: 27
+    osisId: Neh.3.28
+    sblId: Neh 3:28
+    shortName: Neh 3:28
+    text: Sursum autem a porta Equorum restauraverunt sacerdotes, unusquisque contra
+      domum suam.
+  - name: Nehemiae 3:29
+    orderIndex: 28
+    osisId: Neh.3.29
+    sblId: Neh 3:29
+    shortName: Neh 3:29
+    text: Post eos restauravit Sadoc filius Emmer contra domum suam; et post eum restauravit
+      Semeia filius Secheniae custos portae orientalis.
+  - name: Nehemiae 3:30
+    orderIndex: 29
+    osisId: Neh.3.30
+    sblId: Neh 3:30
+    shortName: Neh 3:30
+    text: Post eum restauravit Hanania filius Selemiae et Hanun filius Seleph sextus
+      mensuram alteram. Post eum restauravit Mosollam filius Barachiae contra cellam
+      suam.
+  - name: Nehemiae 3:31
+    orderIndex: 30
+    osisId: Neh.3.31
+    sblId: Neh 3:31
+    shortName: Neh 3:31
+    text: Post eum restauravit Melchias de aurificibus usque ad domum oblatorum et
+      mercatorum, contra portam Iudicialem, et usque ad cenaculum anguli;
+  - name: Nehemiae 3:32
+    orderIndex: 31
+    osisId: Neh.3.32
+    sblId: Neh 3:32
+    shortName: Neh 3:32
+    text: et inter cenaculum anguli et portam Gregis restauraverunt aurifices et negotiatores.
+  - name: Nehemiae 3:33
+    orderIndex: 32
+    osisId: Neh.3.33
+    sblId: Neh 3:33
+    shortName: Neh 3:33
+    text: Factum est autem, cum audisset Sanaballat quod aedificaremus murum, iratus
+      est et indignatus est nimis et subsannavit Iudaeos
+  - name: Nehemiae 3:34
+    orderIndex: 33
+    osisId: Neh.3.34
+    sblId: Neh 3:34
+    shortName: Neh 3:34
+    text: 'et dixit coram fratribus suis et optimatibus Samariae: " Quid Iudaei faciunt
+      imbecilles? Num hoc conceditur eis? Num, quia sacrificant, complebunt in una
+      die? Numquid vivificare poterunt lapides de acervis pulveris, qui combusti sunt?
+      ".'
+  - name: Nehemiae 3:35
+    orderIndex: 34
+    osisId: Neh.3.35
+    sblId: Neh 3:35
+    shortName: Neh 3:35
+    text: 'Sed et Thobias Ammanites, qui erat ad latus eius, ait: " Sine aedificare;
+      si ascenderit vulpes, diruet murum eorum lapideum ".'
+  - name: Nehemiae 3:36
+    orderIndex: 35
+    osisId: Neh.3.36
+    sblId: Neh 3:36
+    shortName: Neh 3:36
+    text: Audi, Deus noster, quia facti sumus irrisio! Converte contumeliam eorum
+      super caput eorum et da eos in irrisionem in terra captivitatis!
+  - name: Nehemiae 3:37
+    orderIndex: 36
+    osisId: Neh.3.37
+    sblId: Neh 3:37
+    shortName: Neh 3:37
+    text: Ne operias iniquitatem eorum, et peccatum eorum coram facie tua non deleatur,
+      quia offenderunt te coram aedificantibus.
+  - name: Nehemiae 3:38
+    orderIndex: 37
+    osisId: Neh.3.38
+    sblId: Neh 3:38
+    shortName: Neh 3:38
+    text: Itaque aedificavimus murum, et compositus est totus murus usque ad partem
+      dimidiam, et populus dabat cor suum, ut operaretur.
+  versesCount: 38
+- name: Nehemiae 4
+  orderIndex: 3
+  osisId: Neh.4
+  sblId: Neh 4
+  shortName: Neh 4
+  verses:
+  - name: Nehemiae 4:1
+    orderIndex: 0
+    osisId: Neh.4.1
+    sblId: Neh 4:1
+    shortName: Neh 4:1
+    text: Factum est autem cum audisset Sanaballat et Thobias et Arabes et Ammanitae
+      et Azotii quod prosperaretur restauratio muri Ierusalem et quod coepissent interrupta
+      concludi, irati sunt nimis;
+  - name: Nehemiae 4:2
+    orderIndex: 1
+    osisId: Neh.4.2
+    sblId: Neh 4:2
+    shortName: Neh 4:2
+    text: et conspiraverunt omnes pariter, ut venirent et pugnarent contra Ierusalem
+      et facerent confusionem.
+  - name: Nehemiae 4:3
+    orderIndex: 2
+    osisId: Neh.4.3
+    sblId: Neh 4:3
+    shortName: Neh 4:3
+    text: Et oravimus Deum nostrum et posuimus custodiam die ac nocte contra eos.
+  - name: Nehemiae 4:4
+    orderIndex: 3
+    osisId: Neh.4.4
+    sblId: Neh 4:4
+    shortName: Neh 4:4
+    text: 'Dixit autem Iudas: " Debilitata est fortitudo portantis, et humus nimia
+      est; et nos non poterimus aedificare murum ".'
+  - name: Nehemiae 4:5
+    orderIndex: 4
+    osisId: Neh.4.5
+    sblId: Neh 4:5
+    shortName: Neh 4:5
+    text: 'Et dixerunt hostes nostri: " Nesciant et ignorent, donec veniamus in medium
+      eorum et interficiamus eos et cessare faciamus opus ".'
+  - name: Nehemiae 4:6
+    orderIndex: 5
+    osisId: Neh.4.6
+    sblId: Neh 4:6
+    shortName: Neh 4:6
+    text: Factum est autem venientibus Iudaeis, qui habitabant iuxta eos, et dicentibus
+      nobis per decem vices ex omnibus locis, quibus venerant ad nos,
+  - name: Nehemiae 4:7
+    orderIndex: 6
+    osisId: Neh.4.7
+    sblId: Neh 4:7
+    shortName: Neh 4:7
+    text: statuimus nos in inferioribus post murum in locis apertis, et ordinavi populum
+      secundum familias cum gladiis suis et lanceis suis et arcubus suis.
+  - name: Nehemiae 4:8
+    orderIndex: 7
+    osisId: Neh.4.8
+    sblId: Neh 4:8
+    shortName: Neh 4:8
+    text: 'Et perspexi atque surrexi, et aio ad optimates et magistratus et ad reliquam
+      partem vulgi: " Nolite timere a facie eorum; Domini magni et terribilis mementote
+      et pugnate pro fratribus vestris, filiis vestris et filiabus vestris et uxoribus
+      vestris et domibus vestris ".'
+  - name: Nehemiae 4:9
+    orderIndex: 8
+    osisId: Neh.4.9
+    sblId: Neh 4:9
+    shortName: Neh 4:9
+    text: Factum est autem cum audissent inimici nostri nuntiatum esse nobis, dissipavit
+      Deus consilium eorum, et reversi sumus omnes ad murum, unusquisque ad opus suum.
+  - name: Nehemiae 4:10
+    orderIndex: 9
+    osisId: Neh.4.10
+    sblId: Neh 4:10
+    shortName: Neh 4:10
+    text: Et factum est a die illa, media pars iuvenum meorum faciebat opus, et media
+      tenebat lanceas et scuta et arcus et loricas, et principes post omnem domum
+      Iudae.
+  - name: Nehemiae 4:11
+    orderIndex: 10
+    osisId: Neh.4.11
+    sblId: Neh 4:11
+    shortName: Neh 4:11
+    text: Aedificantium in muro et portantium onera et imponentium, una manu sua faciebat
+      opus et altera tenebat gladium;
+  - name: Nehemiae 4:12
+    orderIndex: 11
+    osisId: Neh.4.12
+    sblId: Neh 4:12
+    shortName: Neh 4:12
+    text: aedificantium enim unusquisque gladio erat accinctus renes, et sic aedificabant;
+      et, qui clangebat bucina, iuxta me.
+  - name: Nehemiae 4:13
+    orderIndex: 12
+    osisId: Neh.4.13
+    sblId: Neh 4:13
+    shortName: Neh 4:13
+    text: 'Et dixi ad optimates et ad magistratus et ad reliquam partem vulgi: " Opus
+      grande est et latum, et nos separati sumus in muro procul alter ab altero;'
+  - name: Nehemiae 4:14
+    orderIndex: 13
+    osisId: Neh.4.14
+    sblId: Neh 4:14
+    shortName: Neh 4:14
+    text: in loco quocumque audieritis clangorem tubae, illuc concurrite ad nos. Deus
+      noster pugnabit pro nobis ".
+  - name: Nehemiae 4:15
+    orderIndex: 14
+    osisId: Neh.4.15
+    sblId: Neh 4:15
+    shortName: Neh 4:15
+    text: Et sic nos fecimus opus, et media pars nostrum tenebat lanceas ab ascensu
+      aurorae, donec egrediantur astra.
+  - name: Nehemiae 4:16
+    orderIndex: 15
+    osisId: Neh.4.16
+    sblId: Neh 4:16
+    shortName: Neh 4:16
+    text: 'In tempore quoque illo dixi populo: " Unusquisque cum puero suo pernoctet
+      in medio Ierusalem; et erit nobis custodia per noctem, et opus per diem ".'
+  - name: Nehemiae 4:17
+    orderIndex: 16
+    osisId: Neh.4.17
+    sblId: Neh 4:17
+    shortName: Neh 4:17
+    text: Ego autem et fratres mei et pueri mei et custodes, qui erant post me, non
+      deponebamus vestimenta nostra; unusquisque tenebat gladium in dextera sua.
+  versesCount: 17
+- name: Nehemiae 5
+  orderIndex: 4
+  osisId: Neh.5
+  sblId: Neh 5
+  shortName: Neh 5
+  verses:
+  - name: Nehemiae 5:1
+    orderIndex: 0
+    osisId: Neh.5.1
+    sblId: Neh 5:1
+    shortName: Neh 5:1
+    text: Et factus est clamor populi et uxorum eius magnus adversus fratres suos
+      Iudaeos.
+  - name: Nehemiae 5:2
+    orderIndex: 1
+    osisId: Neh.5.2
+    sblId: Neh 5:2
+    shortName: Neh 5:2
+    text: 'Et erant qui dicerent: " Filios nostros et filias nostras pignoravimus,
+      ut acciperemus frumentum et comederemus et viveremus! ".'
+  - name: Nehemiae 5:3
+    orderIndex: 2
+    osisId: Neh.5.3
+    sblId: Neh 5:3
+    shortName: Neh 5:3
+    text: 'Et erant qui dicerent: " Agros nostros et vineas et domos nostras opposuimus,
+      ut acciperemus frumentum in fame! ".'
+  - name: Nehemiae 5:4
+    orderIndex: 3
+    osisId: Neh.5.4
+    sblId: Neh 5:4
+    shortName: Neh 5:4
+    text: 'Et alii dicebant: " Mutuo sumpsimus pecunias in tributa regis pro agris
+      nostris et vineis nostris.'
+  - name: Nehemiae 5:5
+    orderIndex: 4
+    osisId: Neh.5.5
+    sblId: Neh 5:5
+    shortName: Neh 5:5
+    text: Et nunc sicut caro fratrum nostrorum sic caro nostra est, et sicut filii
+      eorum ita et filii nostri; ecce nos subiugamus filios nostros et filias nostras
+      in servitutem, et de filiabus nostris quaedam iam in servitute subiugatae sunt,
+      nec habemus unde possint redimi, quia agros nostros et vineas nostras alii possident
+      ".
+  - name: Nehemiae 5:6
+    orderIndex: 5
+    osisId: Neh.5.6
+    sblId: Neh 5:6
+    shortName: Neh 5:6
+    text: Et iratus sum nimis, cum audissem clamorem eorum secundum verba haec.
+  - name: Nehemiae 5:7
+    orderIndex: 6
+    osisId: Neh.5.7
+    sblId: Neh 5:7
+    shortName: Neh 5:7
+    text: 'Cogitavique in corde meo et increpavi optimates et magistratus et dixi
+      eis: " Usuras singuli a fratribus vestris exigitis! ". Et congregavi adversum
+      eos contionem magnam'
+  - name: Nehemiae 5:8
+    orderIndex: 7
+    osisId: Neh.5.8
+    sblId: Neh 5:8
+    shortName: Neh 5:8
+    text: 'et dixi eis: " Nos, ut scitis, redemimus fratres nostros Iudaeos, qui venditi
+      fuerant gentibus, secundum possibilitatem nostram; quin potius et vos vendetis
+      fratres vestros, ut vendentur nobis? ". Et siluerunt nec invenerunt quid responderent.'
+  - name: Nehemiae 5:9
+    orderIndex: 8
+    osisId: Neh.5.9
+    sblId: Neh 5:9
+    shortName: Neh 5:9
+    text: 'Dixique ad eos: " Non est bona res, quam facitis. Quare non in timore Dei
+      nostri ambulatis, ne exprobretur nobis a gentibus inimicis nostris?'
+  - name: Nehemiae 5:10
+    orderIndex: 9
+    osisId: Neh.5.10
+    sblId: Neh 5:10
+    shortName: Neh 5:10
+    text: Et ego et fratres mei et pueri mei commodavimus plurimis pecuniam et frumentum;
+      non repetamus usuras istas.
+  - name: Nehemiae 5:11
+    orderIndex: 10
+    osisId: Neh.5.11
+    sblId: Neh 5:11
+    shortName: Neh 5:11
+    text: Reddite eis hodie agros suos et vineas suas et oliveta sua et domos suas
+      et centesimam pecuniae frumenti vini et olei, quam exigere soletis ab eis ".
+  - name: Nehemiae 5:12
+    orderIndex: 11
+    osisId: Neh.5.12
+    sblId: Neh 5:12
+    shortName: Neh 5:12
+    text: 'Et dixerunt: " Reddemus et ab eis nihil quaeremus; sicque faciemus, ut
+      loqueris ". Et vocavi sacerdotes et feci eos iurare, ut facerent, sicut dictum
+      erat.'
+  - name: Nehemiae 5:13
+    orderIndex: 12
+    osisId: Neh.5.13
+    sblId: Neh 5:13
+    shortName: Neh 5:13
+    text: 'Insuper excussi sinum meum et dixi: " Sic excutiat Deus omnem virum, qui
+      non compleverit verbum istud, de domo sua et de laboribus suis; sic excutiatur
+      et vacuus fiat! ". Et dixit universa multitudo: " Amen! ". Et laudaverunt Deum.
+      Fecit ergo populus, sicut erat dictum.'
+  - name: Nehemiae 5:14
+    orderIndex: 13
+    osisId: Neh.5.14
+    sblId: Neh 5:14
+    shortName: Neh 5:14
+    text: A die autem illa, qua praeceperat rex mihi, ut essem dux in terra Iudae,
+      ab anno vicesimo usque ad annum tricesimum secundum Artaxerxis regis, per annos
+      duodecim ego et fratres mei annonas, quae ducibus debebantur, non comedimus.
+  - name: Nehemiae 5:15
+    orderIndex: 14
+    osisId: Neh.5.15
+    sblId: Neh 5:15
+    shortName: Neh 5:15
+    text: Duces autem priores, qui fuerant ante me, gravaverunt populum et acceperunt
+      ab eis cotidie pro pane siclos argenti quadraginta; sed et ministri eorum depresserunt
+      populum. Ego autem non feci ita propter timorem Dei,
+  - name: Nehemiae 5:16
+    orderIndex: 15
+    osisId: Neh.5.16
+    sblId: Neh 5:16
+    shortName: Neh 5:16
+    text: quin potius in opere muri restauravi et agrum non emi; et omnes pueri mei
+      congregati ad opus erant.
+  - name: Nehemiae 5:17
+    orderIndex: 16
+    osisId: Neh.5.17
+    sblId: Neh 5:17
+    shortName: Neh 5:17
+    text: Iudaei quoque et magistratus, centum quinquaginta viri, et qui veniebant
+      ad nos de gentibus, quae in circuitu nostro sunt, in mensa mea erant.
+  - name: Nehemiae 5:18
+    orderIndex: 17
+    osisId: Neh.5.18
+    sblId: Neh 5:18
+    shortName: Neh 5:18
+    text: Parabatur autem mihi per dies singulos bos unus, arietes sex electi, exceptis
+      volatilibus; et inter dies decem vina diversa multa. Insuper et annonas ducatus
+      mei non quaesivi; gravis enim erat servitus populi huius.
+  - name: Nehemiae 5:19
+    orderIndex: 18
+    osisId: Neh.5.19
+    sblId: Neh 5:19
+    shortName: Neh 5:19
+    text: Memento mei, Deus meus, in bonum, secundum omnia, quae feci populo huic.
+  versesCount: 19
+- name: Nehemiae 6
+  orderIndex: 5
+  osisId: Neh.6
+  sblId: Neh 6
+  shortName: Neh 6
+  verses:
+  - name: Nehemiae 6:1
+    orderIndex: 0
+    osisId: Neh.6.1
+    sblId: Neh 6:1
+    shortName: Neh 6:1
+    text: Factum est autem cum audisset Sanaballat et Thobias et Gosem Arabs et ceteri
+      inimici nostri, quod aedificassem ego murum, et non esset in ipso residua interruptio
+      - usque ad tempus autem illud valvas non posueram in portis -
+  - name: Nehemiae 6:2
+    orderIndex: 1
+    osisId: Neh.6.2
+    sblId: Neh 6:2
+    shortName: Neh 6:2
+    text: 'miserunt Sanaballat et Gosem ad me dicentes: " Veni, et conveniamus in
+      Cephirim in campo Ono ". Ipsi autem cogitabant, ut facerent mihi malum.'
+  - name: Nehemiae 6:3
+    orderIndex: 2
+    osisId: Neh.6.3
+    sblId: Neh 6:3
+    shortName: Neh 6:3
+    text: 'Misi ergo ad eos nuntios dicens: " Opus grande ego facio et non possum
+      descendere; cur cessare oportet opus, si desistero et descendero ad vos?.'
+  - name: Nehemiae 6:4
+    orderIndex: 3
+    osisId: Neh.6.4
+    sblId: Neh 6:4
+    shortName: Neh 6:4
+    text: Miserunt autem ad me secundum verbum hoc per quattuor vices, et respondi
+      eis iuxta sermonem priorem.
+  - name: Nehemiae 6:5
+    orderIndex: 4
+    osisId: Neh.6.5
+    sblId: Neh 6:5
+    shortName: Neh 6:5
+    text: 'Et misit ad me Sanaballat iuxta verbum prius quinta vice puerum suum, et
+      epistulam non obsignatam habebat in manu sua, in qua erat scriptum:'
+  - name: Nehemiae 6:6
+    orderIndex: 5
+    osisId: Neh.6.6
+    sblId: Neh 6:6
+    shortName: Neh 6:6
+    text: '" In gentibus auditum est, et Gosem dixit quod tu et Iudaei cogitetis rebellare,
+      et propterea aedifices murum et levare te velis super eos regem; iuxta hanc
+      vocem'
+  - name: Nehemiae 6:7
+    orderIndex: 6
+    osisId: Neh.6.7
+    sblId: Neh 6:7
+    shortName: Neh 6:7
+    text: 'et prophetas posueris, qui praedicent de te in Ierusalem dicentes: "Rex
+      in Iudaea est!". Nunc autem auditurus est rex verba haec; idcirco nunc veni,
+      ut ineamus consilium pariter ".'
+  - name: Nehemiae 6:8
+    orderIndex: 7
+    osisId: Neh.6.8
+    sblId: Neh 6:8
+    shortName: Neh 6:8
+    text: 'Et misi ad eum dicens: " Non est factum secundum verba haec, quae tu loqueris;
+      de corde enim tuo tu componis haec ".'
+  - name: Nehemiae 6:9
+    orderIndex: 8
+    osisId: Neh.6.9
+    sblId: Neh 6:9
+    shortName: Neh 6:9
+    text: 'Omnes enim hi terrebant nos cogitantes: " Fatigabuntur manus eorum ab opere,
+      et non complebitur ". Quam ob causam magis confortavi manus meas.'
+  - name: Nehemiae 6:10
+    orderIndex: 9
+    osisId: Neh.6.10
+    sblId: Neh 6:10
+    shortName: Neh 6:10
+    text: 'Et ingressus sum domum Semeiae filii Dalaiae filii Meetabel, ubi erat detentus.
+      Qui ait: " Tractemus nobiscum in domo Dei, in medio templi, et claudamus portas
+      aedis, quia venturi sunt, ut interficiant te; utique nocte venturi sunt ad occidendum
+      te".'
+  - name: Nehemiae 6:11
+    orderIndex: 10
+    osisId: Neh.6.11
+    sblId: Neh 6:11
+    shortName: Neh 6:11
+    text: 'Et dixi: " Num quisquam similis mei fugit? Et quis ut ego ingredietur templum
+      et vivet? Non ingrediar ".'
+  - name: Nehemiae 6:12
+    orderIndex: 11
+    osisId: Neh.6.12
+    sblId: Neh 6:12
+    shortName: Neh 6:12
+    text: Et intellexi quod Deus non misisset eum, sed quasi vaticinans locutus esset
+      ad me, quia Thobias et Sanaballat conduxerant eum.
+  - name: Nehemiae 6:13
+    orderIndex: 12
+    osisId: Neh.6.13
+    sblId: Neh 6:13
+    shortName: Neh 6:13
+    text: Acceperat enim pretium, ut territus sic agerem et peccarem, et haberent
+      malum, quod exprobrarent mihi.
+  - name: Nehemiae 6:14
+    orderIndex: 13
+    osisId: Neh.6.14
+    sblId: Neh 6:14
+    shortName: Neh 6:14
+    text: Memento, Deus meus, Thobiae et Sanaballat iuxta opera eorum talia, sed et
+      Noadiae prophetae et ceterorum prophetarum, qui terrebant me!
+  - name: Nehemiae 6:15
+    orderIndex: 14
+    osisId: Neh.6.15
+    sblId: Neh 6:15
+    shortName: Neh 6:15
+    text: Completus est autem murus vicesimo quinto die mensis Elul, quinquaginta
+      duobus diebus.
+  - name: Nehemiae 6:16
+    orderIndex: 15
+    osisId: Neh.6.16
+    sblId: Neh 6:16
+    shortName: Neh 6:16
+    text: Factum est ergo, cum audissent omnes inimici nostri, et vidissent universae
+      gentes, quae erant in circuitu nostro, ut conciderent intra semetipsos et scirent
+      quod a Deo factum esset opus hoc.
+  - name: Nehemiae 6:17
+    orderIndex: 16
+    osisId: Neh.6.17
+    sblId: Neh 6:17
+    shortName: Neh 6:17
+    text: Sed et in diebus illis, multae optimatum Iudaeorum epistulae mittebantur
+      ad Thobiam, et a Thobia veniebant ad eos.
+  - name: Nehemiae 6:18
+    orderIndex: 17
+    osisId: Neh.6.18
+    sblId: Neh 6:18
+    shortName: Neh 6:18
+    text: Multi enim in Iudaea coniurationem fecerunt cum eo, quia gener erat Secheniae
+      filii Area, et Iohanan filius eius acceperat filiam Mosollam filii Barachiae.
+  - name: Nehemiae 6:19
+    orderIndex: 18
+    osisId: Neh.6.19
+    sblId: Neh 6:19
+    shortName: Neh 6:19
+    text: Sed et laudabant eum coram me et verba mea nuntiabant ei; et Thobias mittebat
+      epistulas, ut terreret me.
+  versesCount: 19
+- name: Nehemiae 7
+  orderIndex: 6
+  osisId: Neh.7
+  sblId: Neh 7
+  shortName: Neh 7
+  verses:
+  - name: Nehemiae 7:1
+    orderIndex: 0
+    osisId: Neh.7.1
+    sblId: Neh 7:1
+    shortName: Neh 7:1
+    text: Postquam autem aedificatus est murus, et posui valvas et recen sui ianitores
+      et cantores et Levitas,
+  - name: Nehemiae 7:2
+    orderIndex: 1
+    osisId: Neh.7.2
+    sblId: Neh 7:2
+    shortName: Neh 7:2
+    text: praeposui Hanani fratrem meum et Hananiam principem arcis supra Ierusalem
+      - ipse enim quasi vir verax et timens Deum plus ceteris videbatur -
+  - name: Nehemiae 7:3
+    orderIndex: 2
+    osisId: Neh.7.3
+    sblId: Neh 7:3
+    shortName: Neh 7:3
+    text: 'et dixi eis: " Non aperiantur portae Ierusalem usque ad calorem solis.
+      Dum adhuc calor permanet, claudantur portae et oppilentur; et ponant custodes
+      de habitatoribus Ierusalem, singulos per vices suas et unumquemque contra domum
+      suam ".'
+  - name: Nehemiae 7:4
+    orderIndex: 3
+    osisId: Neh.7.4
+    sblId: Neh 7:4
+    shortName: Neh 7:4
+    text: Civitas autem erat lata nimis et grandis, et populus parvus in medio eius,
+      et non erant domus aedificatae.
+  - name: Nehemiae 7:5
+    orderIndex: 4
+    osisId: Neh.7.5
+    sblId: Neh 7:5
+    shortName: Neh 7:5
+    text: 'Deus autem meus dedit in corde meo, et congregavi optimates et magistratus
+      et vulgus, ut recenserem eos; et inveni librum census eorum, qui ascenderant
+      primum, et inventum est scriptum in eo:'
+  - name: Nehemiae 7:6
+    orderIndex: 5
+    osisId: Neh.7.6
+    sblId: Neh 7:6
+    shortName: Neh 7:6
+    text: Isti filii provinciae, qui ascenderunt de captivitate migrantium, quos transtulerat
+      Nabuchodonosor rex Babylonis, et reversi sunt in Ierusalem et in Iudaeam unusquisque
+      in civitatem suam.
+  - name: Nehemiae 7:7
+    orderIndex: 6
+    osisId: Neh.7.7
+    sblId: Neh 7:7
+    shortName: Neh 7:7
+    text: 'Qui venerunt cum Zorobabel, Iesua, Nehemias, Azarias, Raamias, Nahamani,
+      Mardochaeus, Belsan, Mespharath, Beguai, Nahum, Baana.Numerus virorum populi
+      Israel:'
+  - name: Nehemiae 7:8
+    orderIndex: 7
+    osisId: Neh.7.8
+    sblId: Neh 7:8
+    shortName: Neh 7:8
+    text: filii Pharos duo milia centum septuaginta duo;
+  - name: Nehemiae 7:9
+    orderIndex: 8
+    osisId: Neh.7.9
+    sblId: Neh 7:9
+    shortName: Neh 7:9
+    text: filii Saphatia trecenti septuaginta duo;
+  - name: Nehemiae 7:10
+    orderIndex: 9
+    osisId: Neh.7.10
+    sblId: Neh 7:10
+    shortName: Neh 7:10
+    text: filii Area sescenti quinquaginta duo;
+  - name: Nehemiae 7:11
+    orderIndex: 10
+    osisId: Neh.7.11
+    sblId: Neh 7:11
+    shortName: Neh 7:11
+    text: filii Phahathmoab, hi sunt filii Iesua et Ioab, duo milia octingenti decem
+      et octo;
+  - name: Nehemiae 7:12
+    orderIndex: 11
+    osisId: Neh.7.12
+    sblId: Neh 7:12
+    shortName: Neh 7:12
+    text: filii Elam mille ducenti quinquaginta quattuor;
+  - name: Nehemiae 7:13
+    orderIndex: 12
+    osisId: Neh.7.13
+    sblId: Neh 7:13
+    shortName: Neh 7:13
+    text: filii Zethua octingenti quadraginta quinque;
+  - name: Nehemiae 7:14
+    orderIndex: 13
+    osisId: Neh.7.14
+    sblId: Neh 7:14
+    shortName: Neh 7:14
+    text: filii Zachai septingenti sexaginta;
+  - name: Nehemiae 7:15
+    orderIndex: 14
+    osisId: Neh.7.15
+    sblId: Neh 7:15
+    shortName: Neh 7:15
+    text: filii Bennui sescenti quadraginta octo;
+  - name: Nehemiae 7:16
+    orderIndex: 15
+    osisId: Neh.7.16
+    sblId: Neh 7:16
+    shortName: Neh 7:16
+    text: filii Bebai sescenti viginti octo;
+  - name: Nehemiae 7:17
+    orderIndex: 16
+    osisId: Neh.7.17
+    sblId: Neh 7:17
+    shortName: Neh 7:17
+    text: filii Azgad duo milia trecenti viginti duo;
+  - name: Nehemiae 7:18
+    orderIndex: 17
+    osisId: Neh.7.18
+    sblId: Neh 7:18
+    shortName: Neh 7:18
+    text: filii Adonicam sescenti sexaginta septem;
+  - name: Nehemiae 7:19
+    orderIndex: 18
+    osisId: Neh.7.19
+    sblId: Neh 7:19
+    shortName: Neh 7:19
+    text: filii Beguai duo milia sexaginta septem;
+  - name: Nehemiae 7:20
+    orderIndex: 19
+    osisId: Neh.7.20
+    sblId: Neh 7:20
+    shortName: Neh 7:20
+    text: filii Adin sescenti quinquaginta quinque;
+  - name: Nehemiae 7:21
+    orderIndex: 20
+    osisId: Neh.7.21
+    sblId: Neh 7:21
+    shortName: Neh 7:21
+    text: filii Ater, qui erant ex Ezechia, nonaginta octo;
+  - name: Nehemiae 7:22
+    orderIndex: 21
+    osisId: Neh.7.22
+    sblId: Neh 7:22
+    shortName: Neh 7:22
+    text: filii Hasum trecenti viginti octo;
+  - name: Nehemiae 7:23
+    orderIndex: 22
+    osisId: Neh.7.23
+    sblId: Neh 7:23
+    shortName: Neh 7:23
+    text: filii Besai trecenti viginti quattuor;
+  - name: Nehemiae 7:24
+    orderIndex: 23
+    osisId: Neh.7.24
+    sblId: Neh 7:24
+    shortName: Neh 7:24
+    text: filii Hareph centum duodecim;
+  - name: Nehemiae 7:25
+    orderIndex: 24
+    osisId: Neh.7.25
+    sblId: Neh 7:25
+    shortName: Neh 7:25
+    text: filii Gabaon nonaginta quinque;
+  - name: Nehemiae 7:26
+    orderIndex: 25
+    osisId: Neh.7.26
+    sblId: Neh 7:26
+    shortName: Neh 7:26
+    text: filii Bethlehem et Netopha centum octoginta octo;
+  - name: Nehemiae 7:27
+    orderIndex: 26
+    osisId: Neh.7.27
+    sblId: Neh 7:27
+    shortName: Neh 7:27
+    text: viri Anathoth centum viginti octo;
+  - name: Nehemiae 7:28
+    orderIndex: 27
+    osisId: Neh.7.28
+    sblId: Neh 7:28
+    shortName: Neh 7:28
+    text: viri Bethazmaveth quadraginta duo;
+  - name: Nehemiae 7:29
+    orderIndex: 28
+    osisId: Neh.7.29
+    sblId: Neh 7:29
+    shortName: Neh 7:29
+    text: viri Cariathiarim, Cephira et Beroth septingenti quadraginta tres;
+  - name: Nehemiae 7:30
+    orderIndex: 29
+    osisId: Neh.7.30
+    sblId: Neh 7:30
+    shortName: Neh 7:30
+    text: viri Rama et Gabaa sescenti viginti unus;
+  - name: Nehemiae 7:31
+    orderIndex: 30
+    osisId: Neh.7.31
+    sblId: Neh 7:31
+    shortName: Neh 7:31
+    text: viri Machmas centum viginti duo;
+  - name: Nehemiae 7:32
+    orderIndex: 31
+    osisId: Neh.7.32
+    sblId: Neh 7:32
+    shortName: Neh 7:32
+    text: viri Bethel et Hai centum viginti tres;
+  - name: Nehemiae 7:33
+    orderIndex: 32
+    osisId: Neh.7.33
+    sblId: Neh 7:33
+    shortName: Neh 7:33
+    text: viri Nabo alterius quinquaginta duo;
+  - name: Nehemiae 7:34
+    orderIndex: 33
+    osisId: Neh.7.34
+    sblId: Neh 7:34
+    shortName: Neh 7:34
+    text: viri Elam alterius mille ducenti quinquaginta quattuor;
+  - name: Nehemiae 7:35
+    orderIndex: 34
+    osisId: Neh.7.35
+    sblId: Neh 7:35
+    shortName: Neh 7:35
+    text: filii Harim trecenti viginti;
+  - name: Nehemiae 7:36
+    orderIndex: 35
+    osisId: Neh.7.36
+    sblId: Neh 7:36
+    shortName: Neh 7:36
+    text: filii Iericho trecenti quadraginta quinque;
+  - name: Nehemiae 7:37
+    orderIndex: 36
+    osisId: Neh.7.37
+    sblId: Neh 7:37
+    shortName: Neh 7:37
+    text: filii Lod, Hadid et Ono septingenti viginti unus;
+  - name: Nehemiae 7:38
+    orderIndex: 37
+    osisId: Neh.7.38
+    sblId: Neh 7:38
+    shortName: Neh 7:38
+    text: filii Senaa tria milia nongenti triginta.
+  - name: Nehemiae 7:39
+    orderIndex: 38
+    osisId: Neh.7.39
+    sblId: Neh 7:39
+    shortName: Neh 7:39
+    text: 'Sacerdotes: filii Iedaia de domo Iesua nongenti septuaginta tres;'
+  - name: Nehemiae 7:40
+    orderIndex: 39
+    osisId: Neh.7.40
+    sblId: Neh 7:40
+    shortName: Neh 7:40
+    text: filii Emmer mille quinquaginta duo;
+  - name: Nehemiae 7:41
+    orderIndex: 40
+    osisId: Neh.7.41
+    sblId: Neh 7:41
+    shortName: Neh 7:41
+    text: filii Phassur mille ducenti quadraginta septem;
+  - name: Nehemiae 7:42
+    orderIndex: 41
+    osisId: Neh.7.42
+    sblId: Neh 7:42
+    shortName: Neh 7:42
+    text: filii Harim mille decem et septem.
+  - name: Nehemiae 7:43
+    orderIndex: 42
+    osisId: Neh.7.43
+    sblId: Neh 7:43
+    shortName: Neh 7:43
+    text: 'Levitae: filii Iesua, hi sunt filii Cadmihel, Bennui et Odoviae, septuaginta
+      quattuor.'
+  - name: Nehemiae 7:44
+    orderIndex: 43
+    osisId: Neh.7.44
+    sblId: Neh 7:44
+    shortName: Neh 7:44
+    text: 'Cantores: filii Asaph centum quadraginta octo.'
+  - name: Nehemiae 7:45
+    orderIndex: 44
+    osisId: Neh.7.45
+    sblId: Neh 7:45
+    shortName: Neh 7:45
+    text: 'Ianitores: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita,
+      filii Sobai, centum triginta octo.'
+  - name: Nehemiae 7:46
+    orderIndex: 45
+    osisId: Neh.7.46
+    sblId: Neh 7:46
+    shortName: Neh 7:46
+    text: 'Oblati: filii Siha, filii Hasupha, filii Tabbaoth,'
+  - name: Nehemiae 7:47
+    orderIndex: 46
+    osisId: Neh.7.47
+    sblId: Neh 7:47
+    shortName: Neh 7:47
+    text: filii Ceros, filii Siaa, filii Phadon,
+  - name: Nehemiae 7:48
+    orderIndex: 47
+    osisId: Neh.7.48
+    sblId: Neh 7:48
+    shortName: Neh 7:48
+    text: filii Lebana, filii Hagaba, filii Selmai,
+  - name: Nehemiae 7:49
+    orderIndex: 48
+    osisId: Neh.7.49
+    sblId: Neh 7:49
+    shortName: Neh 7:49
+    text: filii Hanan, filii Giddel, filii Gaher,
+  - name: Nehemiae 7:50
+    orderIndex: 49
+    osisId: Neh.7.50
+    sblId: Neh 7:50
+    shortName: Neh 7:50
+    text: filii Raaia, filii Rasin, filii Necoda,
+  - name: Nehemiae 7:51
+    orderIndex: 50
+    osisId: Neh.7.51
+    sblId: Neh 7:51
+    shortName: Neh 7:51
+    text: filii Gazam, filii Oza, filii Phasea,
+  - name: Nehemiae 7:52
+    orderIndex: 51
+    osisId: Neh.7.52
+    sblId: Neh 7:52
+    shortName: Neh 7:52
+    text: filii Besai, filii Meunitarum, filii Nephusorum,
+  - name: Nehemiae 7:53
+    orderIndex: 52
+    osisId: Neh.7.53
+    sblId: Neh 7:53
+    shortName: Neh 7:53
+    text: filii Bacbuc, filii Hacupha, filii Harhur,
+  - name: Nehemiae 7:54
+    orderIndex: 53
+    osisId: Neh.7.54
+    sblId: Neh 7:54
+    shortName: Neh 7:54
+    text: filii Basluth, filii Mahida, filii Harsa,
+  - name: Nehemiae 7:55
+    orderIndex: 54
+    osisId: Neh.7.55
+    sblId: Neh 7:55
+    shortName: Neh 7:55
+    text: filii Bercos, filii Sisara, filii Thema,
+  - name: Nehemiae 7:56
+    orderIndex: 55
+    osisId: Neh.7.56
+    sblId: Neh 7:56
+    shortName: Neh 7:56
+    text: filii Nasia, filii Hatipha.
+  - name: Nehemiae 7:57
+    orderIndex: 56
+    osisId: Neh.7.57
+    sblId: Neh 7:57
+    shortName: Neh 7:57
+    text: 'Filii servorum Salomonis: filii Sotai, filii Sophereth, filii Pheruda,'
+  - name: Nehemiae 7:58
+    orderIndex: 57
+    osisId: Neh.7.58
+    sblId: Neh 7:58
+    shortName: Neh 7:58
+    text: filii Iaala, filii Darcon, filii Giddel,
+  - name: Nehemiae 7:59
+    orderIndex: 58
+    osisId: Neh.7.59
+    sblId: Neh 7:59
+    shortName: Neh 7:59
+    text: filii Saphatia, filii Hatil, filii Phochereth Hassebaim, filii Amon.
+  - name: Nehemiae 7:60
+    orderIndex: 59
+    osisId: Neh.7.60
+    sblId: Neh 7:60
+    shortName: Neh 7:60
+    text: Omnes oblati et filii servorum Salomonis trecenti nonaginta duo.
+  - name: Nehemiae 7:61
+    orderIndex: 60
+    osisId: Neh.7.61
+    sblId: Neh 7:61
+    shortName: Neh 7:61
+    text: 'Hi sunt autem, qui ascenderunt de Thelmela, Thelharsa, Cherub, Addon et
+      Emmer et non potuerunt indicare domum patrum suorum et semen suum, utrum ex
+      Israel essent:'
+  - name: Nehemiae 7:62
+    orderIndex: 61
+    osisId: Neh.7.62
+    sblId: Neh 7:62
+    shortName: Neh 7:62
+    text: filii Dalaia, filii Thobia, filii Necoda sescenti quadraginta duo.
+  - name: Nehemiae 7:63
+    orderIndex: 62
+    osisId: Neh.7.63
+    sblId: Neh 7:63
+    shortName: Neh 7:63
+    text: 'Et de sacerdotibus: filii Hobia, filii Accos, filii Berzellai, qui accepit
+      de filiabus Berzellai Galaaditis uxorem et vocatus est nomine eorum.'
+  - name: Nehemiae 7:64
+    orderIndex: 63
+    osisId: Neh.7.64
+    sblId: Neh 7:64
+    shortName: Neh 7:64
+    text: Hi quaesierunt tabulas genealogiae suae et non invenerunt; et eiecti sunt
+      de sacerdotio;
+  - name: Nehemiae 7:65
+    orderIndex: 64
+    osisId: Neh.7.65
+    sblId: Neh 7:65
+    shortName: Neh 7:65
+    text: dixitque praepositus eis, ut non manducarent de sanctificatis sanctuarii,
+      donec staret sacerdos pro Urim et Tummim.
+  - name: Nehemiae 7:66
+    orderIndex: 65
+    osisId: Neh.7.66
+    sblId: Neh 7:66
+    shortName: Neh 7:66
+    text: Omnis multitudo simul quadraginta duo milia trecenti sexaginta,
+  - name: Nehemiae 7:67
+    orderIndex: 66
+    osisId: Neh.7.67
+    sblId: Neh 7:67
+    shortName: Neh 7:67
+    text: absque servis et ancillis eorum, qui erant septem milia trecenti triginta
+      septem; insuper et cantores et cantatrices ducenti quadraginta quinque.
+  - name: Nehemiae 7:68
+    orderIndex: 67
+    osisId: Neh.7.68
+    sblId: Neh 7:68
+    shortName: Neh 7:68
+    text: Equi eorum septingenti triginta sex, muli eorum ducenti quadraginta quinque,
+  - name: Nehemiae 7:69
+    orderIndex: 68
+    osisId: Neh.7.69
+    sblId: Neh 7:69
+    shortName: Neh 7:69
+    text: cameli eorum quadringenti triginta quinque, asini sex milia septingenti
+      viginti.
+  - name: Nehemiae 7:70
+    orderIndex: 69
+    osisId: Neh.7.70
+    sblId: Neh 7:70
+    shortName: Neh 7:70
+    text: 'Nonnulli autem de principibus familiarum dederunt in opus: praepositus
+      dedit in thesaurum auri drachmas mille, phialas quinquaginta, tunicas sacerdotales
+      quingentas triginta;'
+  - name: Nehemiae 7:71
+    orderIndex: 70
+    osisId: Neh.7.71
+    sblId: Neh 7:71
+    shortName: Neh 7:71
+    text: et de principibus familiarum dederunt in thesaurum operis auri drachmas
+      viginti milia et argenti minas duo milia ducentas.
+  - name: Nehemiae 7:72
+    orderIndex: 71
+    osisId: Neh.7.72
+    sblId: Neh 7:72
+    shortName: Neh 7:72
+    text: Et quod dedit reliquus populus, auri drachmas viginti milia et argenti minas
+      duo milia et tunicas sacerdotales sexaginta septem. Habitaverunt autem ibi sacerdotes
+      et Levitae; ianitores autem et cantores et quidam de populo et oblati et omnis
+      Israel habitaverunt in civitatibus suis.Et venerat mensis septimus; filii autem
+      Israel erant in civitatibus suis.
+  versesCount: 72
+- name: Nehemiae 8
+  orderIndex: 7
+  osisId: Neh.8
+  sblId: Neh 8
+  shortName: Neh 8
+  verses:
+  - name: Nehemiae 8:1
+    orderIndex: 0
+    osisId: Neh.8.1
+    sblId: Neh 8:1
+    shortName: Neh 8:1
+    text: Congregatusque est omnis populus quasi vir unus ad plateam, quae est ante
+      portam Aquarum, et dixerunt Esdrae scribae, ut afferret librum legis Moysi,
+      quam praece perat Dominus Israeli.
+  - name: Nehemiae 8:2
+    orderIndex: 1
+    osisId: Neh.8.2
+    sblId: Neh 8:2
+    shortName: Neh 8:2
+    text: Attulit ergo Esdras sacerdos legem coram multitudine virorum et mulierum
+      cunctisque, qui poterant intellegere, in die prima mensis septimi.
+  - name: Nehemiae 8:3
+    orderIndex: 2
+    osisId: Neh.8.3
+    sblId: Neh 8:3
+    shortName: Neh 8:3
+    text: Et legit in eo in platea, quae erat ante portam Aquarum, de mane usque ad
+      mediam diem in conspectu virorum et mulierum et eorum, qui intellegere poterant;
+      et aures omnis populi erant erectae ad librum legis.
+  - name: Nehemiae 8:4
+    orderIndex: 3
+    osisId: Neh.8.4
+    sblId: Neh 8:4
+    shortName: Neh 8:4
+    text: Stetit autem Esdras scriba super gradum ligneum, quem ad hoc fecerant; et
+      steterunt iuxta eum Matthathias et Sema et Anaia et Uria et Helcia et Maasia
+      ad dexteram eius, et ad sinistram Phadaia, Misael et Melchia et Hasum et Hasbadana,
+      Zacharia et Mosollam.
+  - name: Nehemiae 8:5
+    orderIndex: 4
+    osisId: Neh.8.5
+    sblId: Neh 8:5
+    shortName: Neh 8:5
+    text: Et aperuit Esdras librum coram omni populo - super universum quippe populum
+      eminebat - et, cum aperuisset eum, stetit omnis populus.
+  - name: Nehemiae 8:6
+    orderIndex: 5
+    osisId: Neh.8.6
+    sblId: Neh 8:6
+    shortName: Neh 8:6
+    text: 'Et benedixit Esdras Domino, Deo magno; et respondit omnis populus: " Amen,
+      amen ", elevans manus suas. Et incurvati sunt et adoraverunt Deum proni in terram.'
+  - name: Nehemiae 8:7
+    orderIndex: 6
+    osisId: Neh.8.7
+    sblId: Neh 8:7
+    shortName: Neh 8:7
+    text: Porro Iesua et Bani et Serebia, Iamin, Accub, Sabethai, Hodia, Maasia, Celita,
+      Azarias, Iozabad, Hanan, Phalaia et Levitae erudiebant populum in lege; populus
+      autem stabat in gradu suo.
+  - name: Nehemiae 8:8
+    orderIndex: 7
+    osisId: Neh.8.8
+    sblId: Neh 8:8
+    shortName: Neh 8:8
+    text: Et legerunt in libro legis Dei distincte et aperierunt sensum et explicaverunt
+      lectionem.
+  - name: Nehemiae 8:9
+    orderIndex: 8
+    osisId: Neh.8.9
+    sblId: Neh 8:9
+    shortName: Neh 8:9
+    text: 'Dixit autem Nehemias, ipse est praepositus, et Esdras sacerdos et scriba
+      et Levitae instruentes populum universo populo: " Dies iste sanctificatus est
+      Domino Deo nostro! Nolite lugere et nolite flere ". Flebat enim omnis populus,
+      cum audiret verba legis.'
+  - name: Nehemiae 8:10
+    orderIndex: 9
+    osisId: Neh.8.10
+    sblId: Neh 8:10
+    shortName: Neh 8:10
+    text: 'Et dixit eis: " Ite, comedite pinguia et bibite mulsum et mittite partes
+      his, qui non praeparaverunt sibi, quia sanctus dies Domini nostri est; et nolite
+      contristari, gaudium etenim Domini est fortitudo vestra ".'
+  - name: Nehemiae 8:11
+    orderIndex: 10
+    osisId: Neh.8.11
+    sblId: Neh 8:11
+    shortName: Neh 8:11
+    text: 'Levitae autem silentium faciebant in omni populo dicentes: " Tacete, quia
+      dies sanctus est, et nolite dolere ".'
+  - name: Nehemiae 8:12
+    orderIndex: 11
+    osisId: Neh.8.12
+    sblId: Neh 8:12
+    shortName: Neh 8:12
+    text: Abiit itaque omnis populus, ut comederet et biberet et mitteret partes et
+      faceret laetitiam magnam, quia intellexerant verba, quae docuerat eos.
+  - name: Nehemiae 8:13
+    orderIndex: 12
+    osisId: Neh.8.13
+    sblId: Neh 8:13
+    shortName: Neh 8:13
+    text: Et in die secundo congregati sunt principes familiarum universi populi,
+      sacerdotes et Levitae ad Esdram scribam, ut intellegerent verba legis.
+  - name: Nehemiae 8:14
+    orderIndex: 13
+    osisId: Neh.8.14
+    sblId: Neh 8:14
+    shortName: Neh 8:14
+    text: Et invenerunt scriptum in lege, quam praecepit Dominus per Moysen, ut habitent
+      filii Israel in tabernaculis in die sollemni mense septimo
+  - name: Nehemiae 8:15
+    orderIndex: 14
+    osisId: Neh.8.15
+    sblId: Neh 8:15
+    shortName: Neh 8:15
+    text: 'et ut praedicent et divulgent vocem in universis urbibus suis et in Ierusalem
+      dicentes: " Egredimini in montem et afferte frondes olivae et frondes oleastri,
+      frondes myrti et ramos palmarum et frondes ligni nemorosi, ut fiant tabernacula,
+      sicut scriptum est ".'
+  - name: Nehemiae 8:16
+    orderIndex: 15
+    osisId: Neh.8.16
+    sblId: Neh 8:16
+    shortName: Neh 8:16
+    text: Et egressus est populus, et attulerunt feceruntque sibi tabernacula, unusquisque
+      in domate suo et in atriis suis et in atriis domus Dei et in platea portae Aquarum
+      et in platea portae Ephraim.
+  - name: Nehemiae 8:17
+    orderIndex: 16
+    osisId: Neh.8.17
+    sblId: Neh 8:17
+    shortName: Neh 8:17
+    text: Fecit ergo universa ecclesia eorum, qui redierant de captivitate, tabernacula
+      et habitaverunt in tabernaculis. Non enim fecerant a diebus Iosue filii Nun
+      taliter filii Israel usque ad diem illum; et fuit laetitia magna nimis.
+  - name: Nehemiae 8:18
+    orderIndex: 17
+    osisId: Neh.8.18
+    sblId: Neh 8:18
+    shortName: Neh 8:18
+    text: Legit autem in libro legis Dei per dies singulos, a die primo usque ad diem
+      novissimum; et fecerunt sollemnitatem septem diebus et in die octavo conventum
+      iuxta ordinationem.
+  versesCount: 18
+- name: Nehemiae 9
+  orderIndex: 8
+  osisId: Neh.9
+  sblId: Neh 9
+  shortName: Neh 9
+  verses:
+  - name: Nehemiae 9:1
+    orderIndex: 0
+    osisId: Neh.9.1
+    sblId: Neh 9:1
+    shortName: Neh 9:1
+    text: In die autem vicesimo quarto mensis huius convenerunt filii Is rael in ieiunio
+      et in saccis, et humus super eos.
+  - name: Nehemiae 9:2
+    orderIndex: 1
+    osisId: Neh.9.2
+    sblId: Neh 9:2
+    shortName: Neh 9:2
+    text: Et separatum est semen filiorum Israel ab omni alienigena; et steterunt
+      et confitebantur peccata sua et iniquitates patrum suorum.
+  - name: Nehemiae 9:3
+    orderIndex: 2
+    osisId: Neh.9.3
+    sblId: Neh 9:3
+    shortName: Neh 9:3
+    text: Et consurrexerunt ad standum et legerunt in volumine legis Domini Dei sui
+      per quartam partem diei; et per quartam partem confitebantur et adorabant Dominum
+      Deum suum.
+  - name: Nehemiae 9:4
+    orderIndex: 3
+    osisId: Neh.9.4
+    sblId: Neh 9:4
+    shortName: Neh 9:4
+    text: Surrexerunt autem super gradum Levitarum Iesua et Bani et Cadmihel, Sebania,
+      Bunni, Serebia, Bani et Chanani et clamaverunt voce magna ad Dominum Deum suum.
+  - name: Nehemiae 9:5
+    orderIndex: 4
+    osisId: Neh.9.5
+    sblId: Neh 9:5
+    shortName: Neh 9:5
+    text: 'Et dixerunt Levitae Iesua et Cadmihel, Bani, Hasabneia, Serebia, Hodia,
+      Sebania, Phethahia: Surgite, benedicite Domino Deo vestroab aetemo usque in
+      aeternum,et benedicant nomini gloriae tuae excelsosuper omnem benedictionem
+      et laudem.'
+  - name: Nehemiae 9:6
+    orderIndex: 5
+    osisId: Neh.9.6
+    sblId: Neh 9:6
+    shortName: Neh 9:6
+    text: Tu ipse, Domine, solus;tu fecisti caelum et caelum caelorumet omnem exercitum
+      eorum,terram et universa, quae in ea sunt, maria et omnia, quae in eis sunt;et
+      tu vivificas omnia haec,et exercitus caeli te adorat.
+  - name: Nehemiae 9:7
+    orderIndex: 6
+    osisId: Neh.9.7
+    sblId: Neh 9:7
+    shortName: Neh 9:7
+    text: Tu ipse, Domine Deus, qui elegisti Abramet eduxisti eum de Ur Chaldaeorumet
+      posuisti nomen eius Abraham.
+  - name: Nehemiae 9:8
+    orderIndex: 7
+    osisId: Neh.9.8
+    sblId: Neh 9:8
+    shortName: Neh 9:8
+    text: Et invenisti cor eius fidele coram teet percussisti cum eo foedus,ut dares
+      terram Chananaei, Hetthaei et Amorraeiet Pherezaei et Iebusaei et Gergesaei,nempe
+      ut dares semini eius;et implesti verba tua,quoniam iustus es.
+  - name: Nehemiae 9:9
+    orderIndex: 8
+    osisId: Neh.9.9
+    sblId: Neh 9:9
+    shortName: Neh 9:9
+    text: Et vidisti afflictionem patrum nostrorum in Aegyptoclamoremque eorum audisti
+      iuxta mare Rubrum.
+  - name: Nehemiae 9:10
+    orderIndex: 9
+    osisId: Neh.9.10
+    sblId: Neh 9:10
+    shortName: Neh 9:10
+    text: Et dedisti signa atque portenta in pharaoneet in universis servis eius et
+      in omni populo terrae illius;cognovisti enim quia superbe egerant contra eos,et
+      fecisti tibi nomen, sicut et in hac die.
+  - name: Nehemiae 9:11
+    orderIndex: 10
+    osisId: Neh.9.11
+    sblId: Neh 9:11
+    shortName: Neh 9:11
+    text: Et mare divisisti ante eos,et transierunt per medium maris in sicco;persecutores
+      autem eorum proiecisti in profundum,quasi lapidem in aquas validas.
+  - name: Nehemiae 9:12
+    orderIndex: 11
+    osisId: Neh.9.12
+    sblId: Neh 9:12
+    shortName: Neh 9:12
+    text: Et in columna nubis ductor eorum fuisti per diemet in columna ignis per
+      noctem,ut illuminaret eis viam, per quam ingrediebantur.
+  - name: Nehemiae 9:13
+    orderIndex: 12
+    osisId: Neh.9.13
+    sblId: Neh 9:13
+    shortName: Neh 9:13
+    text: Ad montem quoque Sinai descendistiet locutus es cum eis de caelo;et dedisti
+      eis iudicia rectaet legem rectam, mandata et praecepta bona.
+  - name: Nehemiae 9:14
+    orderIndex: 13
+    osisId: Neh.9.14
+    sblId: Neh 9:14
+    shortName: Neh 9:14
+    text: Et sabbatum sanctificatum tuum ostendisti eiset praecepta et mandata et
+      legem praecepisti eisin manu Moysi servi tui.
+  - name: Nehemiae 9:15
+    orderIndex: 14
+    osisId: Neh.9.15
+    sblId: Neh 9:15
+    shortName: Neh 9:15
+    text: Panem quoque de caelo dedisti eis in fame eorumet aquam de petra eduxisti
+      eis in siti eorum;et dixisti eis, ut ingrederentur et possiderent terram,super
+      quam levasti manum tuam, ut traderes eis.
+  - name: Nehemiae 9:16
+    orderIndex: 15
+    osisId: Neh.9.16
+    sblId: Neh 9:16
+    shortName: Neh 9:16
+    text: Ipsi vero patres nostri superbe egeruntet induraverunt cervices suas et
+      non audierunt mandata tua.
+  - name: Nehemiae 9:17
+    orderIndex: 16
+    osisId: Neh.9.17
+    sblId: Neh 9:17
+    shortName: Neh 9:17
+    text: Et noluerunt audireet non sunt recordati mirabilium tuorum, quae feceras
+      eis,et induraverunt cervices suaset posuerunt caput suum,ut reverterentur ad
+      servitutem suam in Aegyptum.Tu autem Deus propitius, clemens et misericors,longanimis
+      et multae miserationis, non dereliquisti eos.
+  - name: Nehemiae 9:18
+    orderIndex: 17
+    osisId: Neh.9.18
+    sblId: Neh 9:18
+    shortName: Neh 9:18
+    text: 'Et quidem, cum fecissent sibi vitulum conflatilemet dixissent: "Iste est
+      Deus tuus,qui eduxit te de Aegypto"feceruntque blasphemias magnas;'
+  - name: Nehemiae 9:19
+    orderIndex: 18
+    osisId: Neh.9.19
+    sblId: Neh 9:19
+    shortName: Neh 9:19
+    text: tu autem in misericordiis tuis multisnon dimisisti eos in deserto:columna
+      nubis non recessit ab eis per diem,ut duceret eos in viam;et columna ignis per
+      noctem,ut illuminaret eis iter, per quod ingrederentur.
+  - name: Nehemiae 9:20
+    orderIndex: 19
+    osisId: Neh.9.20
+    sblId: Neh 9:20
+    shortName: Neh 9:20
+    text: Et spiritum tuum bonum dedisti, qui doceret eos,et manna tuum non prohibuisti
+      ab ore eorumet aquam dedisti eis in siti eorum.
+  - name: Nehemiae 9:21
+    orderIndex: 20
+    osisId: Neh.9.21
+    sblId: Neh 9:21
+    shortName: Neh 9:21
+    text: Quadraginta annis pavisti eos in deserto,nihilque eis defuit;vestimenta
+      eorum non inveteraverunt,et pedes eorum non intumuerunt.
+  - name: Nehemiae 9:22
+    orderIndex: 21
+    osisId: Neh.9.22
+    sblId: Neh 9:22
+    shortName: Neh 9:22
+    text: Et dedisti eis regna et populoset partitus es eis sortes;et possederunt
+      terram Sehon et terram regis Hesebonet terram Og regis Basan.
+  - name: Nehemiae 9:23
+    orderIndex: 22
+    osisId: Neh.9.23
+    sblId: Neh 9:23
+    shortName: Neh 9:23
+    text: Et multiplicasti filios eorum sicut stellas caeli;et adduxisti eos ad terram,
+      de qua dixeras patribus eorum,ut ingrederentur et possiderent.
+  - name: Nehemiae 9:24
+    orderIndex: 23
+    osisId: Neh.9.24
+    sblId: Neh 9:24
+    shortName: Neh 9:24
+    text: Et venerunt filii et possederunt terram,et humiliasti coram eis habitatores
+      terrae Chananaeos;et dedisti eos in manu eorumet reges eorum et populos terrae,ut
+      facerent eis, sicut placebat illis.
+  - name: Nehemiae 9:25
+    orderIndex: 24
+    osisId: Neh.9.25
+    sblId: Neh 9:25
+    shortName: Neh 9:25
+    text: Ceperunt itaque urbes munitas et humum pinguem;et possederunt domos plenas
+      cunctis bonis,cisternas ab aliis fabricatas, vineas et olivetaet ligna pomifera
+      multa.Et comederunt et saturati sunt et impinguati suntet delectati sunt in
+      bonitate tua magna.
+  - name: Nehemiae 9:26
+    orderIndex: 25
+    osisId: Neh.9.26
+    sblId: Neh 9:26
+    shortName: Neh 9:26
+    text: Vexaverunt autem te et rebellaverunt contra teet proiecerunt legem tuam
+      post terga sua;et prophetas tuos occiderunt,qui contestabantur eos, ut reverterentur
+      ad te;feceruntque blasphemias grandes.
+  - name: Nehemiae 9:27
+    orderIndex: 26
+    osisId: Neh.9.27
+    sblId: Neh 9:27
+    shortName: Neh 9:27
+    text: Et dedisti eos in manu hostium suorum,et afflixerunt eos;et in tempore tribulationis
+      suae clamaverunt ad te,et tu de caelo audistiet secundum miserationes tuas multas
+      dedisti eis salvatores,qui salvarent eos da manu hostium suorum.
+  - name: Nehemiae 9:28
+    orderIndex: 27
+    osisId: Neh.9.28
+    sblId: Neh 9:28
+    shortName: Neh 9:28
+    text: Cumque requievissent, reversi sunt,ut facerent malum in conspectu tuo;et
+      dereliquisti eos in manu inimicorum suorum,et dominati sunt eis.Conversique
+      sunt et clamaverunt ad te;tu autem de caelo exaudistiet liberasti eos in misericordiis
+      tuis multis vicibus.
+  - name: Nehemiae 9:29
+    orderIndex: 28
+    osisId: Neh.9.29
+    sblId: Neh 9:29
+    shortName: Neh 9:29
+    text: Et contestatus es eos, ut reduceres eos ad legem tuam;ipsi vero superbe
+      egerunt et non audierunt mandata tuaet in iudicia tua peccaverunt, quae si fecerit
+      homo, vivet in eis, et dederunt umerum rebellemet cervicem suam induraverunt
+      nec audierunt.
+  - name: Nehemiae 9:30
+    orderIndex: 29
+    osisId: Neh.9.30
+    sblId: Neh 9:30
+    shortName: Neh 9:30
+    text: Et pepercisti eis annos multoset contestatus es eos in spiritu tuoper manum
+      prophetarum tuorum, et non audierunt;et tradidisti eos in manu populorum terrarum.
+  - name: Nehemiae 9:31
+    orderIndex: 30
+    osisId: Neh.9.31
+    sblId: Neh 9:31
+    shortName: Neh 9:31
+    text: In misericordiis autem tuis plurimisnon fecisti eos in consumptionemnec
+      dereliquisti eos;quoniam Deus misericors et clemens es tu.
+  - name: Nehemiae 9:32
+    orderIndex: 31
+    osisId: Neh.9.32
+    sblId: Neh 9:32
+    shortName: Neh 9:32
+    text: Nunc itaque, Deus noster magne, fortis et terribilis,custodiens pactum et
+      misericordiam,ne parvipendas omnem laborem,qui invenit nos, reges nostros et
+      principes nostroset sacerdotes nostros et prophetas nostroset patres nostros
+      et omnem populum tuuma diebus regum Assyriae usque in diem hanc.
+  - name: Nehemiae 9:33
+    orderIndex: 32
+    osisId: Neh.9.33
+    sblId: Neh 9:33
+    shortName: Neh 9:33
+    text: Et tu iustus es in omnibus, quae venerunt super nos,quia recte fecisti,nos
+      autem impie egimus.
+  - name: Nehemiae 9:34
+    orderIndex: 33
+    osisId: Neh.9.34
+    sblId: Neh 9:34
+    shortName: Neh 9:34
+    text: Reges nostri, principes nostri, sacerdotes nostri et patres nostrinon fecerunt
+      legem tuamet non attenderunt mandata tua et testimonia tua,quae testificatus
+      es in eis.
+  - name: Nehemiae 9:35
+    orderIndex: 34
+    osisId: Neh.9.35
+    sblId: Neh 9:35
+    shortName: Neh 9:35
+    text: Et ipsi in regnis suis et in bonitate tua multa, quam dederas eis,et in
+      terra latissima et pingui,quam tradideras in conspectu eorum,non servierunt
+      tibi nec reversi sunt a studiis suis pessimis.
+  - name: Nehemiae 9:36
+    orderIndex: 35
+    osisId: Neh.9.36
+    sblId: Neh 9:36
+    shortName: Neh 9:36
+    text: Ecce nos ipsi hodie servi sumus;et in terra, quam dedisti patribus nostris,ut
+      comederent fructum eius et bona eius, nos ipsi servi sumus.
+  - name: Nehemiae 9:37
+    orderIndex: 36
+    osisId: Neh.9.37
+    sblId: Neh 9:37
+    shortName: Neh 9:37
+    text: Et fruges eius multiplicantur regibus,quos posuisti super nos propter peccata
+      nostra,et corporibus nostris dominantur et iumentis nostrissecundum voluntatem
+      suam,et in tribulatione magna sumus ".
+  versesCount: 37
+- name: Nehemiae 10
+  orderIndex: 9
+  osisId: Neh.10
+  sblId: Neh 10
+  shortName: Neh 10
+  verses:
+  - name: Nehemiae 10:1
+    orderIndex: 0
+    osisId: Neh.10.1
+    sblId: Neh 10:1
+    shortName: Neh 10:1
+    text: '" Super omnibus ergo his nos ipsi percutimus foedus et scribimus, et signant
+      principes nostri, Levitae nostri et sacerdotes nostri ".'
+  - name: Nehemiae 10:2
+    orderIndex: 1
+    osisId: Neh.10.2
+    sblId: Neh 10:2
+    shortName: Neh 10:2
+    text: 'Signatores autem fuerunt: Nehemias praepositus, filius Hachaliae, et Sedecias,'
+  - name: Nehemiae 10:3
+    orderIndex: 2
+    osisId: Neh.10.3
+    sblId: Neh 10:3
+    shortName: Neh 10:3
+    text: Saraias, Azarias, Ieremias,
+  - name: Nehemiae 10:4
+    orderIndex: 3
+    osisId: Neh.10.4
+    sblId: Neh 10:4
+    shortName: Neh 10:4
+    text: Phassur, Amarias, Melchias,
+  - name: Nehemiae 10:5
+    orderIndex: 4
+    osisId: Neh.10.5
+    sblId: Neh 10:5
+    shortName: Neh 10:5
+    text: Hattus, Sebania, Melluch,
+  - name: Nehemiae 10:6
+    orderIndex: 5
+    osisId: Neh.10.6
+    sblId: Neh 10:6
+    shortName: Neh 10:6
+    text: Harim, Meremoth, Abdias,
+  - name: Nehemiae 10:7
+    orderIndex: 6
+    osisId: Neh.10.7
+    sblId: Neh 10:7
+    shortName: Neh 10:7
+    text: Daniel, Genthon, Baruch,
+  - name: Nehemiae 10:8
+    orderIndex: 7
+    osisId: Neh.10.8
+    sblId: Neh 10:8
+    shortName: Neh 10:8
+    text: Mosollam, Abia, Miamin,
+  - name: Nehemiae 10:9
+    orderIndex: 8
+    osisId: Neh.10.9
+    sblId: Neh 10:9
+    shortName: Neh 10:9
+    text: Maazia, Belgai, Semeia; hi sacerdotes.
+  - name: Nehemiae 10:10
+    orderIndex: 9
+    osisId: Neh.10.10
+    sblId: Neh 10:10
+    shortName: Neh 10:10
+    text: 'Porro Levitae: Iesua filius Azaniae, Bennui de filiis Henadad, Cadmihel'
+  - name: Nehemiae 10:11
+    orderIndex: 10
+    osisId: Neh.10.11
+    sblId: Neh 10:11
+    shortName: Neh 10:11
+    text: et fratres eorum Sebania, Hodia, Celita, Phalaia, Hanan,
+  - name: Nehemiae 10:12
+    orderIndex: 11
+    osisId: Neh.10.12
+    sblId: Neh 10:12
+    shortName: Neh 10:12
+    text: Micha, Rohob, Hasabia,
+  - name: Nehemiae 10:13
+    orderIndex: 12
+    osisId: Neh.10.13
+    sblId: Neh 10:13
+    shortName: Neh 10:13
+    text: Zacchur, Serebia, Sebania,
+  - name: Nehemiae 10:14
+    orderIndex: 13
+    osisId: Neh.10.14
+    sblId: Neh 10:14
+    shortName: Neh 10:14
+    text: Hodia, Bani, Baninu.
+  - name: Nehemiae 10:15
+    orderIndex: 14
+    osisId: Neh.10.15
+    sblId: Neh 10:15
+    shortName: Neh 10:15
+    text: 'Capita populi: Pharos, Phahathmoab, Elam, Zethua, Bani,'
+  - name: Nehemiae 10:16
+    orderIndex: 15
+    osisId: Neh.10.16
+    sblId: Neh 10:16
+    shortName: Neh 10:16
+    text: Bunni, Azgad, Bebai,
+  - name: Nehemiae 10:17
+    orderIndex: 16
+    osisId: Neh.10.17
+    sblId: Neh 10:17
+    shortName: Neh 10:17
+    text: Adonia, Beguai, Adin,
+  - name: Nehemiae 10:18
+    orderIndex: 17
+    osisId: Neh.10.18
+    sblId: Neh 10:18
+    shortName: Neh 10:18
+    text: Ater, Ezechia, Azur,
+  - name: Nehemiae 10:19
+    orderIndex: 18
+    osisId: Neh.10.19
+    sblId: Neh 10:19
+    shortName: Neh 10:19
+    text: Hodia, Hasum, Besai,
+  - name: Nehemiae 10:20
+    orderIndex: 19
+    osisId: Neh.10.20
+    sblId: Neh 10:20
+    shortName: Neh 10:20
+    text: Hareph, Anathoth, Nebai,
+  - name: Nehemiae 10:21
+    orderIndex: 20
+    osisId: Neh.10.21
+    sblId: Neh 10:21
+    shortName: Neh 10:21
+    text: Megphias, Mosollam, Hezir,
+  - name: Nehemiae 10:22
+    orderIndex: 21
+    osisId: Neh.10.22
+    sblId: Neh 10:22
+    shortName: Neh 10:22
+    text: Mesezabel, Sadoc, Ieddua,
+  - name: Nehemiae 10:23
+    orderIndex: 22
+    osisId: Neh.10.23
+    sblId: Neh 10:23
+    shortName: Neh 10:23
+    text: Pheltia, Hanan, Anaia,
+  - name: Nehemiae 10:24
+    orderIndex: 23
+    osisId: Neh.10.24
+    sblId: Neh 10:24
+    shortName: Neh 10:24
+    text: Osee, Hanania, Hassub,
+  - name: Nehemiae 10:25
+    orderIndex: 24
+    osisId: Neh.10.25
+    sblId: Neh 10:25
+    shortName: Neh 10:25
+    text: Alohes, Phalea, Sobec,
+  - name: Nehemiae 10:26
+    orderIndex: 25
+    osisId: Neh.10.26
+    sblId: Neh 10:26
+    shortName: Neh 10:26
+    text: Rehum, Hasabna, Maasia,
+  - name: Nehemiae 10:27
+    orderIndex: 26
+    osisId: Neh.10.27
+    sblId: Neh 10:27
+    shortName: Neh 10:27
+    text: Ahia, Hanan, Anan,
+  - name: Nehemiae 10:28
+    orderIndex: 27
+    osisId: Neh.10.28
+    sblId: Neh 10:28
+    shortName: Neh 10:28
+    text: Melluch, Harim, Baana.
+  - name: Nehemiae 10:29
+    orderIndex: 28
+    osisId: Neh.10.29
+    sblId: Neh 10:29
+    shortName: Neh 10:29
+    text: Et reliqui de populo, sacerdotes, Levitae, ianitores et cantores, oblati
+      et omnes, qui se separaverunt de populis terrarum ad legem Dei, uxores eorum,
+      filii eorum et filiae eorum, omnes, qui poterant sapere,
+  - name: Nehemiae 10:30
+    orderIndex: 29
+    osisId: Neh.10.30
+    sblId: Neh 10:30
+    shortName: Neh 10:30
+    text: adhaeserunt fratribus suis optimatibus pollicentes et iurantes, ut ambularent
+      in lege Dei, quam dederat in manu Moysi servi Dei, et ut facerent et custodirent
+      universa mandata Domini Dei nostri et iudicia eius et praecepta eius,
+  - name: Nehemiae 10:31
+    orderIndex: 30
+    osisId: Neh.10.31
+    sblId: Neh 10:31
+    shortName: Neh 10:31
+    text: et ut non daremus filias nostras populo terrae et filias eorum non acciperemus
+      filiis nostris.
+  - name: Nehemiae 10:32
+    orderIndex: 31
+    osisId: Neh.10.32
+    sblId: Neh 10:32
+    shortName: Neh 10:32
+    text: Et si populi terrae importaverint venalia et omnia cibaria per diem sabbati,
+      ut vendant, non accipiemus ab eis in sabbato et in die sanctificato; et dimittemus
+      annum septimum et omnem exactionem.
+  - name: Nehemiae 10:33
+    orderIndex: 32
+    osisId: Neh.10.33
+    sblId: Neh 10:33
+    shortName: Neh 10:33
+    text: Et statuimus super nos praecepta, ut demus tertiam partem sicli per annum
+      ad opus domus Dei nostri,
+  - name: Nehemiae 10:34
+    orderIndex: 33
+    osisId: Neh.10.34
+    sblId: Neh 10:34
+    shortName: Neh 10:34
+    text: ad panes propositionis et ad oblationem sempiternam et in holocaustum sempiternum
+      in sabbatis, in calendis, in sollemnitatibus et in sanctificata et in sacrificium
+      pro peccato, ut expietur pro Israel, et in omnem usum domus Dei nostri.
+  - name: Nehemiae 10:35
+    orderIndex: 34
+    osisId: Neh.10.35
+    sblId: Neh 10:35
+    shortName: Neh 10:35
+    text: Sortes ergo misimus super oblationem lignorum inter sacerdotes et Levitas
+      et populum, ut inferrentur in domum Dei nostri per domos patrum nostrorum, in
+      temporibus constitutis ab anno in annum, ut arderent super altare domini Dei
+      nostri, sicut scriptum est in lege;
+  - name: Nehemiae 10:36
+    orderIndex: 35
+    osisId: Neh.10.36
+    sblId: Neh 10:36
+    shortName: Neh 10:36
+    text: et ut afferremus primogenita terrae nostrae et primitiva universi fructus
+      omnis ligni ab anno in annum in domo Domini,
+  - name: Nehemiae 10:37
+    orderIndex: 36
+    osisId: Neh.10.37
+    sblId: Neh 10:37
+    shortName: Neh 10:37
+    text: et primitiva filiorum nostrorum et pecorum nostrorum, sicut scriptum est
+      in lege, et primitiva boum nostrorum et ovium nostrarum, ut afferrentur in domum
+      Dei nostri sacerdotibus, qui ministrant in domo Dei nostri;
+  - name: Nehemiae 10:38
+    orderIndex: 37
+    osisId: Neh.10.38
+    sblId: Neh 10:38
+    shortName: Neh 10:38
+    text: et primitias ciborum nostrorum et libaminum nostrorum et poma omnis ligni,
+      vindemiae quoque et olei, afferemus sacerdotibus ad gazophylacium Dei nostri,
+      et decimam partem terrae nostrae Levitis. Ipsi Levitae decimas accipient ex
+      omnibus civitatibus agriculturae nostrae.
+  - name: Nehemiae 10:39
+    orderIndex: 38
+    osisId: Neh.10.39
+    sblId: Neh 10:39
+    shortName: Neh 10:39
+    text: Erit autem sacerdos filius Aaron cum Levitis in decimis Levitarum colligendis,
+      et Levitae offerent decimam partem decimae in domo Dei nostri ad gazophylacium
+      thesauri.
+  - name: Nehemiae 10:40
+    orderIndex: 39
+    osisId: Neh.10.40
+    sblId: Neh 10:40
+    shortName: Neh 10:40
+    text: Ad gazophylacium enim deportabunt filii Israel et filii Levi primitias frumenti,
+      vini et olei; et ibi erunt vasa sanctificata et sacerdotes, qui ministrabant,
+      et ianitores et cantores. Et non dimittemus domum Dei nostri.
+  versesCount: 40
+- name: Nehemiae 11
+  orderIndex: 10
+  osisId: Neh.11
+  sblId: Neh 11
+  shortName: Neh 11
+  verses:
+  - name: Nehemiae 11:1
+    orderIndex: 0
+    osisId: Neh.11.1
+    sblId: Neh 11:1
+    shortName: Neh 11:1
+    text: Habitaverunt autem princi pes populi in Ierusalem; reli qua vero plebs misit
+      sortem, ut adducerent unum virum de decem ad habitandum in Ierusalem civitate
+      sancta, novem vero partes in civitatibus.
+  - name: Nehemiae 11:2
+    orderIndex: 1
+    osisId: Neh.11.2
+    sblId: Neh 11:2
+    shortName: Neh 11:2
+    text: Benedixit autem populus omnibus viris, qui se sponte obtulerant, ut habitarent
+      in Ierusalem.
+  - name: Nehemiae 11:3
+    orderIndex: 2
+    osisId: Neh.11.3
+    sblId: Neh 11:3
+    shortName: Neh 11:3
+    text: Hi sunt itaque principes provinciae, qui habitaverunt in Ierusalem et in
+      civitatibus Iudae. Habitavit autem unusquisque in possessione sua, in urbibus
+      suis, Israel, sacerdotes, Levitae, oblati et filii servorum Salomonis.
+  - name: Nehemiae 11:4
+    orderIndex: 3
+    osisId: Neh.11.4
+    sblId: Neh 11:4
+    shortName: Neh 11:4
+    text: 'Et in Ierusalem habitaverunt de filiis Iudae et de filiis Beniamin. De
+      filiis Iudae: Athaias filius Oziam filii Zachariae filii Amariae filii Saphatiae
+      filii Malaleel, de filiis Phares;'
+  - name: Nehemiae 11:5
+    orderIndex: 4
+    osisId: Neh.11.5
+    sblId: Neh 11:5
+    shortName: Neh 11:5
+    text: et Maasia filius Baruch filius Cholhoza filius Hazia filius Adaia filius
+      Ioiarib filius Zachariae filius Silonitis.
+  - name: Nehemiae 11:6
+    orderIndex: 5
+    osisId: Neh.11.6
+    sblId: Neh 11:6
+    shortName: Neh 11:6
+    text: Omnes filii Phares, qui habitaverunt in Ierusalem, quadringenti sexaginta
+      octo viri fortes.
+  - name: Nehemiae 11:7
+    orderIndex: 6
+    osisId: Neh.11.7
+    sblId: Neh 11:7
+    shortName: Neh 11:7
+    text: 'Hi sunt autem filii Beniamin: Sallu filius Mosollam filius Ioed filius
+      Phadaia filius Colaia filius Maasia filius Etheel filius Iesaia;'
+  - name: Nehemiae 11:8
+    orderIndex: 7
+    osisId: Neh.11.8
+    sblId: Neh 11:8
+    shortName: Neh 11:8
+    text: et fratres eius viri fortes, nongenti viginti octo.
+  - name: Nehemiae 11:9
+    orderIndex: 8
+    osisId: Neh.11.9
+    sblId: Neh 11:9
+    shortName: Neh 11:9
+    text: Et Ioel filius Zechri praepositus eorum, et Iudas filius Asana super civitatem
+      secundus.
+  - name: Nehemiae 11:10
+    orderIndex: 9
+    osisId: Neh.11.10
+    sblId: Neh 11:10
+    shortName: Neh 11:10
+    text: 'Et de sacerdotibus: Iedaia filius Ioiarib filius'
+  - name: Nehemiae 11:11
+    orderIndex: 10
+    osisId: Neh.11.11
+    sblId: Neh 11:11
+    shortName: Neh 11:11
+    text: Saraia filius Helciae filius Mosollam filius Sadoc filius Meraioth filius
+      Achitob princeps domus Dei;
+  - name: Nehemiae 11:12
+    orderIndex: 11
+    osisId: Neh.11.12
+    sblId: Neh 11:12
+    shortName: Neh 11:12
+    text: et fratres eorum facientes opera templi, octingenti viginti duo. Et Adaia
+      filius Ieroham filius Phelelia filius Amsi filius Zachariae filius Phassur filius
+      Melchiae;
+  - name: Nehemiae 11:13
+    orderIndex: 12
+    osisId: Neh.11.13
+    sblId: Neh 11:13
+    shortName: Neh 11:13
+    text: et fratres eius principes familiarum ducenti quadraginta duo. Et Amassai
+      filius Azareel filius Ahazi filius Mosollamoth filius Emmer;
+  - name: Nehemiae 11:14
+    orderIndex: 13
+    osisId: Neh.11.14
+    sblId: Neh 11:14
+    shortName: Neh 11:14
+    text: et fratres eorum potentes nimis, centum viginti octo; et praepositus eorum
+      Zabdiel vir nobilis.
+  - name: Nehemiae 11:15
+    orderIndex: 14
+    osisId: Neh.11.15
+    sblId: Neh 11:15
+    shortName: Neh 11:15
+    text: 'Et de Levitis: Semeia filius Hassub filius Ezricam filius Hasabia filius
+      Bunni;'
+  - name: Nehemiae 11:16
+    orderIndex: 15
+    osisId: Neh.11.16
+    sblId: Neh 11:16
+    shortName: Neh 11:16
+    text: et Sabethai et Iozabad super omnia opera, quae erant forinsecus in domo
+      Dei, de principibus Levitarum;
+  - name: Nehemiae 11:17
+    orderIndex: 16
+    osisId: Neh.11.17
+    sblId: Neh 11:17
+    shortName: Neh 11:17
+    text: et Matthania filius Micha filius Zebedaei filius Asaph magister chori incohabat
+      orationem; et Becbecia secundus de fratribus eius, et Abda filius Sammua filius
+      Galal filius Idithun.
+  - name: Nehemiae 11:18
+    orderIndex: 17
+    osisId: Neh.11.18
+    sblId: Neh 11:18
+    shortName: Neh 11:18
+    text: Omnes Levitae in civitate sancta ducenti octoginta quattuor.
+  - name: Nehemiae 11:19
+    orderIndex: 18
+    osisId: Neh.11.19
+    sblId: Neh 11:19
+    shortName: Neh 11:19
+    text: 'Et ianitores: Accub, Telmon et fratres eorum, qui custodiebant ostia, centum
+      septuaginta duo.'
+  - name: Nehemiae 11:20
+    orderIndex: 19
+    osisId: Neh.11.20
+    sblId: Neh 11:20
+    shortName: Neh 11:20
+    text: Et reliqui ex Israel sacerdotes et Levitae in universis civitatibus Iudae,
+      unusquisque in possessione sua.
+  - name: Nehemiae 11:21
+    orderIndex: 20
+    osisId: Neh.11.21
+    sblId: Neh 11:21
+    shortName: Neh 11:21
+    text: Et oblati habitabant in Ophel; et Siha et Gaspha super oblatos.
+  - name: Nehemiae 11:22
+    orderIndex: 21
+    osisId: Neh.11.22
+    sblId: Neh 11:22
+    shortName: Neh 11:22
+    text: Et praefectus Levitarum in Ierusalem Ozi filius Bani filius Hasabiae filius
+      Matthaniae filius Michae de filiis Asaph, cantores in ministerio domus Dei.
+  - name: Nehemiae 11:23
+    orderIndex: 22
+    osisId: Neh.11.23
+    sblId: Neh 11:23
+    shortName: Neh 11:23
+    text: Praeceptum quippe regis super eos erat, et ordo in cantoribus per dies singulos.
+  - name: Nehemiae 11:24
+    orderIndex: 23
+    osisId: Neh.11.24
+    sblId: Neh 11:24
+    shortName: Neh 11:24
+    text: Et Phethahia filius Mesezabel de filiis Zara filii Iudae, legatus regis
+      in omni negotio populi.
+  - name: Nehemiae 11:25
+    orderIndex: 24
+    osisId: Neh.11.25
+    sblId: Neh 11:25
+    shortName: Neh 11:25
+    text: Et in viculis per omnes regiones eorum, de filiis Iudae habitaverunt in
+      Cariatharbe et in pagis eius et in Dibon et in pagis eius et in Cabseel et in
+      viculis eius
+  - name: Nehemiae 11:26
+    orderIndex: 25
+    osisId: Neh.11.26
+    sblId: Neh 11:26
+    shortName: Neh 11:26
+    text: et in Iesua et in Molada et in Bethpheleth
+  - name: Nehemiae 11:27
+    orderIndex: 26
+    osisId: Neh.11.27
+    sblId: Neh 11:27
+    shortName: Neh 11:27
+    text: et in Asarsual et in Bersabee et in pagis eius
+  - name: Nehemiae 11:28
+    orderIndex: 27
+    osisId: Neh.11.28
+    sblId: Neh 11:28
+    shortName: Neh 11:28
+    text: et in Siceleg et in Mochona et in pagis eius
+  - name: Nehemiae 11:29
+    orderIndex: 28
+    osisId: Neh.11.29
+    sblId: Neh 11:29
+    shortName: Neh 11:29
+    text: et in Remmon et in Saraa et in Ierimoth,
+  - name: Nehemiae 11:30
+    orderIndex: 29
+    osisId: Neh.11.30
+    sblId: Neh 11:30
+    shortName: Neh 11:30
+    text: Zanoa, Odollam et in villis earum, Lachis et regionibus eius et Azeca et
+      pagis eius. Et habitaverunt a Bersabee usque ad vallem Ennom.
+  - name: Nehemiae 11:31
+    orderIndex: 30
+    osisId: Neh.11.31
+    sblId: Neh 11:31
+    shortName: Neh 11:31
+    text: Filii autem Beniamin in Gabaa, Machmas et Hai et Bethel et pagis eius,
+  - name: Nehemiae 11:32
+    orderIndex: 31
+    osisId: Neh.11.32
+    sblId: Neh 11:32
+    shortName: Neh 11:32
+    text: Anathoth, Nob, Anania,
+  - name: Nehemiae 11:33
+    orderIndex: 32
+    osisId: Neh.11.33
+    sblId: Neh 11:33
+    shortName: Neh 11:33
+    text: Asor, Rama, Getthaim,
+  - name: Nehemiae 11:34
+    orderIndex: 33
+    osisId: Neh.11.34
+    sblId: Neh 11:34
+    shortName: Neh 11:34
+    text: Hadid, Seboim et Neballat,
+  - name: Nehemiae 11:35
+    orderIndex: 34
+    osisId: Neh.11.35
+    sblId: Neh 11:35
+    shortName: Neh 11:35
+    text: Lod et Ono et valle Artificum.
+  - name: Nehemiae 11:36
+    orderIndex: 35
+    osisId: Neh.11.36
+    sblId: Neh 11:36
+    shortName: Neh 11:36
+    text: Et de Levitis portiones in Iuda et Beniamin.
+  versesCount: 36
+- name: Nehemiae 12
+  orderIndex: 11
+  osisId: Neh.12
+  sblId: Neh 12
+  shortName: Neh 12
+  verses:
+  - name: Nehemiae 12:1
+    orderIndex: 0
+    osisId: Neh.12.1
+    sblId: Neh 12:1
+    shortName: Neh 12:1
+    text: 'Hi sunt autem sacerdotes et Levitae, qui ascenderunt cum Zorobabel filio
+      Salathiel et Iesua: Saraia, Ieremias, Esdras,'
+  - name: Nehemiae 12:2
+    orderIndex: 1
+    osisId: Neh.12.2
+    sblId: Neh 12:2
+    shortName: Neh 12:2
+    text: Amaria, Melluch, Hattus,
+  - name: Nehemiae 12:3
+    orderIndex: 2
+    osisId: Neh.12.3
+    sblId: Neh 12:3
+    shortName: Neh 12:3
+    text: Sechenias, Rehum, Meremoth,
+  - name: Nehemiae 12:4
+    orderIndex: 3
+    osisId: Neh.12.4
+    sblId: Neh 12:4
+    shortName: Neh 12:4
+    text: Addo, Genthon, Abia,
+  - name: Nehemiae 12:5
+    orderIndex: 4
+    osisId: Neh.12.5
+    sblId: Neh 12:5
+    shortName: Neh 12:5
+    text: Miamin, Maadia, Belga,
+  - name: Nehemiae 12:6
+    orderIndex: 5
+    osisId: Neh.12.6
+    sblId: Neh 12:6
+    shortName: Neh 12:6
+    text: Semeia et Ioiarib, Iedaia,
+  - name: Nehemiae 12:7
+    orderIndex: 6
+    osisId: Neh.12.7
+    sblId: Neh 12:7
+    shortName: Neh 12:7
+    text: Sallu, Amoc, Helcias, Iedaia. Isti principes sacerdotum et fratrum eorum
+      in diebus Iesua.
+  - name: Nehemiae 12:8
+    orderIndex: 7
+    osisId: Neh.12.8
+    sblId: Neh 12:8
+    shortName: Neh 12:8
+    text: 'Porro Levitae: Iesua, Bennui, Cadmihel, Serebia, Iuda, Matthanias, super
+      hymnos ipse et fratres eius;'
+  - name: Nehemiae 12:9
+    orderIndex: 8
+    osisId: Neh.12.9
+    sblId: Neh 12:9
+    shortName: Neh 12:9
+    text: et Becbecia atque Hanni fratres eorum coram eis per vices suas.
+  - name: Nehemiae 12:10
+    orderIndex: 9
+    osisId: Neh.12.10
+    sblId: Neh 12:10
+    shortName: Neh 12:10
+    text: Iesua autem genuit Ioachim, et Ioachim genuit Eliasib, et Eliasib genuit
+      Ioiada,
+  - name: Nehemiae 12:11
+    orderIndex: 10
+    osisId: Neh.12.11
+    sblId: Neh 12:11
+    shortName: Neh 12:11
+    text: et Ioiada genuit Ionathan, et Ionathan genuit Ieddua.
+  - name: Nehemiae 12:12
+    orderIndex: 11
+    osisId: Neh.12.12
+    sblId: Neh 12:12
+    shortName: Neh 12:12
+    text: 'In diebus autem Ioachim erant sacerdotes principes familiarum: Saraiae
+      Maraia, Ieremiae Hanania,'
+  - name: Nehemiae 12:13
+    orderIndex: 12
+    osisId: Neh.12.13
+    sblId: Neh 12:13
+    shortName: Neh 12:13
+    text: Esdrae Mosollam, Amariae Iohanan,
+  - name: Nehemiae 12:14
+    orderIndex: 13
+    osisId: Neh.12.14
+    sblId: Neh 12:14
+    shortName: Neh 12:14
+    text: Milicho Ionathan, Sebaniae Ioseph,
+  - name: Nehemiae 12:15
+    orderIndex: 14
+    osisId: Neh.12.15
+    sblId: Neh 12:15
+    shortName: Neh 12:15
+    text: Harim Edna, Meraioth Helci,
+  - name: Nehemiae 12:16
+    orderIndex: 15
+    osisId: Neh.12.16
+    sblId: Neh 12:16
+    shortName: Neh 12:16
+    text: Adaiae Zacharia, Genthon Mosollam,
+  - name: Nehemiae 12:17
+    orderIndex: 16
+    osisId: Neh.12.17
+    sblId: Neh 12:17
+    shortName: Neh 12:17
+    text: Abiae Zechri, Miamin Maadiae Phelti,
+  - name: Nehemiae 12:18
+    orderIndex: 17
+    osisId: Neh.12.18
+    sblId: Neh 12:18
+    shortName: Neh 12:18
+    text: Belgae Sammua, Semeiae Ionathan,
+  - name: Nehemiae 12:19
+    orderIndex: 18
+    osisId: Neh.12.19
+    sblId: Neh 12:19
+    shortName: Neh 12:19
+    text: Ioiarib Matthanai, Iedaiae Ozi,
+  - name: Nehemiae 12:20
+    orderIndex: 19
+    osisId: Neh.12.20
+    sblId: Neh 12:20
+    shortName: Neh 12:20
+    text: Sellai Celai, Amoc Heber,
+  - name: Nehemiae 12:21
+    orderIndex: 20
+    osisId: Neh.12.21
+    sblId: Neh 12:21
+    shortName: Neh 12:21
+    text: Helciae Hasabia, Iedaiae Nathanael.
+  - name: Nehemiae 12:22
+    orderIndex: 21
+    osisId: Neh.12.22
+    sblId: Neh 12:22
+    shortName: Neh 12:22
+    text: Levitae in diebus Eliasib et Ioiada et Iohanan et Ieddua scripti principes
+      familiarum et sacerdotes usque ad regnurn Darii Persae.
+  - name: Nehemiae 12:23
+    orderIndex: 22
+    osisId: Neh.12.23
+    sblId: Neh 12:23
+    shortName: Neh 12:23
+    text: Filii Levi principes familiarum scripti in libro Chronicorum usque ad dies
+      Ionathan filii Eliasib.
+  - name: Nehemiae 12:24
+    orderIndex: 23
+    osisId: Neh.12.24
+    sblId: Neh 12:24
+    shortName: Neh 12:24
+    text: Et principes Levitarum Hasabia, Serebia, Iesua, Bennui et Cadmihel et fratres
+      eorum coram eis, ut laudarent et confiterentur iuxta praeceptum David viri Dei
+      per vices suas;
+  - name: Nehemiae 12:25
+    orderIndex: 24
+    osisId: Neh.12.25
+    sblId: Neh 12:25
+    shortName: Neh 12:25
+    text: Matthania et Becbecia, Abdia, Mosollam, Telmon, Accub ianitores ad custodiam
+      horreorum iuxta portas.
+  - name: Nehemiae 12:26
+    orderIndex: 25
+    osisId: Neh.12.26
+    sblId: Neh 12:26
+    shortName: Neh 12:26
+    text: Hi in diebus Ioachim filii Iesua filii Iosedec et in diebus Nehemiae ducis
+      et Esdrae sacerdotis scribaeque.
+  - name: Nehemiae 12:27
+    orderIndex: 26
+    osisId: Neh.12.27
+    sblId: Neh 12:27
+    shortName: Neh 12:27
+    text: In dedicatione autem muri Ierusalem requisierunt Levitas de omnibus locis
+      suis, ut adducerent eos in Ierusalem et facerent dedicationem in laetitia, in
+      actione gratiarum et cantico et cymbalis, psalteriis et citharis.
+  - name: Nehemiae 12:28
+    orderIndex: 27
+    osisId: Neh.12.28
+    sblId: Neh 12:28
+    shortName: Neh 12:28
+    text: Congregati sunt autem cantores de campestribus circa Ierusalem et de villis
+      Netophathitarum
+  - name: Nehemiae 12:29
+    orderIndex: 28
+    osisId: Neh.12.29
+    sblId: Neh 12:29
+    shortName: Neh 12:29
+    text: et de Bethgalgala et de regionibus Gabaa et Azmaveth, quoniam villas aedificaverunt
+      sibi cantores in circuitu Ierusalem.
+  - name: Nehemiae 12:30
+    orderIndex: 29
+    osisId: Neh.12.30
+    sblId: Neh 12:30
+    shortName: Neh 12:30
+    text: Et mundati sunt sacerdotes et Levitae et mundaverunt populum et portas et
+      murum.
+  - name: Nehemiae 12:31
+    orderIndex: 30
+    osisId: Neh.12.31
+    sblId: Neh 12:31
+    shortName: Neh 12:31
+    text: Ascendere autem feci principes Iudae super murum et statui duos magnos choros
+      laudantium, quorum unus ivit ad dexteram super murum ad portam Sterquilinii.
+  - name: Nehemiae 12:32
+    orderIndex: 31
+    osisId: Neh.12.32
+    sblId: Neh 12:32
+    shortName: Neh 12:32
+    text: Et ivit post eos Osaias et media pars principum Iudae
+  - name: Nehemiae 12:33
+    orderIndex: 32
+    osisId: Neh.12.33
+    sblId: Neh 12:33
+    shortName: Neh 12:33
+    text: et Azarias, Esdras et Mosollam,
+  - name: Nehemiae 12:34
+    orderIndex: 33
+    osisId: Neh.12.34
+    sblId: Neh 12:34
+    shortName: Neh 12:34
+    text: Iudas et Beniamin et Semeia et Ieremias.
+  - name: Nehemiae 12:35
+    orderIndex: 34
+    osisId: Neh.12.35
+    sblId: Neh 12:35
+    shortName: Neh 12:35
+    text: Et de sacerdotibus cum tubis et Zacharias filius Ionathan filius Semeiae
+      filius Matthaniae filius Michaiae filius Zacchur filius Asaph;
+  - name: Nehemiae 12:36
+    orderIndex: 35
+    osisId: Neh.12.36
+    sblId: Neh 12:36
+    shortName: Neh 12:36
+    text: et fratres eius Semeia et Azareel, Malalai, Galalai, Maai, Nathanael et
+      Iudas et Hanani cum musicis David viri Dei; et Esdras scriba ante eos et in
+      porta Fontis.
+  - name: Nehemiae 12:37
+    orderIndex: 36
+    osisId: Neh.12.37
+    sblId: Neh 12:37
+    shortName: Neh 12:37
+    text: Processerunt per gradus civitatis David in ascensu muri super domum David
+      et usque ad portam Aquarum ad orientem.
+  - name: Nehemiae 12:38
+    orderIndex: 37
+    osisId: Neh.12.38
+    sblId: Neh 12:38
+    shortName: Neh 12:38
+    text: Et chorus secundus gratias referentium ibat ex adverso, et ego post eum,
+      et media pars populi super murum et super turrim Furnorum et usque ad murum
+      latissimum
+  - name: Nehemiae 12:39
+    orderIndex: 38
+    osisId: Neh.12.39
+    sblId: Neh 12:39
+    shortName: Neh 12:39
+    text: et super portam Ephraim et super portam Antiquam et super portam Piscium
+      et turrim Hananeel et turrim Meah et usque ad portam Gregis; et steterunt in
+      porta Custodiae.
+  - name: Nehemiae 12:40
+    orderIndex: 39
+    osisId: Neh.12.40
+    sblId: Neh 12:40
+    shortName: Neh 12:40
+    text: Steteruntque duo chori laudantium in domo Dei, et ego et dimidia pars magistratuum
+      mecum.
+  - name: Nehemiae 12:41
+    orderIndex: 40
+    osisId: Neh.12.41
+    sblId: Neh 12:41
+    shortName: Neh 12:41
+    text: Et sacerdotes Eliachim, Maasia, Miamin, Michaia, Elioenai, Zacharia, Hanania
+      in tubis;
+  - name: Nehemiae 12:42
+    orderIndex: 41
+    osisId: Neh.12.42
+    sblId: Neh 12:42
+    shortName: Neh 12:42
+    text: et Maasia et Semeia et Eleazar et Ozi et Iohanan et Melchia et Elam et Ezer.
+      Et clare cecinerunt cantores et Izrahia praepositus.
+  - name: Nehemiae 12:43
+    orderIndex: 42
+    osisId: Neh.12.43
+    sblId: Neh 12:43
+    shortName: Neh 12:43
+    text: Et obtulerunt in die illa sacrificia magna et laetati sunt; Deus enim laetificaverat
+      eos laetitia magna; sed et uxores eorum et liberi gavisi sunt, et audita est
+      laetitia Ierusalem procul.
+  - name: Nehemiae 12:44
+    orderIndex: 43
+    osisId: Neh.12.44
+    sblId: Neh 12:44
+    shortName: Neh 12:44
+    text: Praeposuerunt quoque in die illa viros super gazophylacia ad thesaurum,
+      ad libamina et ad primitias et ad decimas, ut colligerent in ea de agris civitatum
+      partes legitimas pro sacerdotibus et Levitis; quia laetificatus est Iuda in
+      sacerdotibus et Levitis, qui adstiterunt
+  - name: Nehemiae 12:45
+    orderIndex: 44
+    osisId: Neh.12.45
+    sblId: Neh 12:45
+    shortName: Neh 12:45
+    text: et servierunt in ministerio Dei sui et in ministerio purificationis simul
+      cum cantoribus et ianitoribus iuxta praeceptum David et Salomonis filii eius;
+  - name: Nehemiae 12:46
+    orderIndex: 45
+    osisId: Neh.12.46
+    sblId: Neh 12:46
+    shortName: Neh 12:46
+    text: quia in diebus David et Asaph ab exordio erant catervae cantorum et carmina
+      laudis et actionis gratiarum Deo.
+  - name: Nehemiae 12:47
+    orderIndex: 46
+    osisId: Neh.12.47
+    sblId: Neh 12:47
+    shortName: Neh 12:47
+    text: Et omnis Israel in diebus Zorobabel et in diebus Nehemiae dabant partes
+      cantoribus et ianitoribus per dies singulos partem suam et partes consecrabant
+      Levitis, et Levitae consecrabant filiis Aaron.
+  versesCount: 47
+- name: Nehemiae 13
+  orderIndex: 12
+  osisId: Neh.13
+  sblId: Neh 13
+  shortName: Neh 13
+  verses:
+  - name: Nehemiae 13:1
+    orderIndex: 0
+    osisId: Neh.13.1
+    sblId: Neh 13:1
+    shortName: Neh 13:1
+    text: In die autem illo lectum est in volumine Moysi, audiente populo, et inventum
+      est scriptum in eo quod non debeant introire Ammonites et Moabites in ecclesiam
+      Dei usque in aeternum,
+  - name: Nehemiae 13:2
+    orderIndex: 1
+    osisId: Neh.13.2
+    sblId: Neh 13:2
+    shortName: Neh 13:2
+    text: eo quod non occurrerint filiis Israel cum pane et aqua et conduxerint adversum
+      eos Balaam ad maledicendum eis, et convertit Deus noster maledictionem in benedictionem.
+  - name: Nehemiae 13:3
+    orderIndex: 2
+    osisId: Neh.13.3
+    sblId: Neh 13:3
+    shortName: Neh 13:3
+    text: Factum est autem, cum audissent legem, separaverunt omnem promiscuum ab
+      Israel.
+  - name: Nehemiae 13:4
+    orderIndex: 3
+    osisId: Neh.13.4
+    sblId: Neh 13:4
+    shortName: Neh 13:4
+    text: Ante hoc autem erat Eliasib sacerdos, qui fuerat praepositus in gazophylacio
+      domus Dei nostri et proximus Thobiae;
+  - name: Nehemiae 13:5
+    orderIndex: 4
+    osisId: Neh.13.5
+    sblId: Neh 13:5
+    shortName: Neh 13:5
+    text: fecerat ei gazophylacium grande, ubi antea reponebant munera et tus et vasa
+      et decimam frumenti, vini et olei, partes Levitarum et cantorum et ianitorum
+      et tributa sacerdotum.
+  - name: Nehemiae 13:6
+    orderIndex: 5
+    osisId: Neh.13.6
+    sblId: Neh 13:6
+    shortName: Neh 13:6
+    text: In omnibus autem his non fui in Ierusalem, quia anno tricesimo secundo Artaxerxis
+      regis Babylonis veni ad regem et in fine dierum rogavi, ut abirem a rege,
+  - name: Nehemiae 13:7
+    orderIndex: 6
+    osisId: Neh.13.7
+    sblId: Neh 13:7
+    shortName: Neh 13:7
+    text: 'et veni in Ierusalem. Et intellexi malum, quod fecerat Eliasib Thobiae:
+      fecerat enim ei thesaurum in vestibulis domus Dei.'
+  - name: Nehemiae 13:8
+    orderIndex: 7
+    osisId: Neh.13.8
+    sblId: Neh 13:8
+    shortName: Neh 13:8
+    text: Et malum mihi visum est valde, et proieci vasa domus Thobiae foras de gazophylacio;
+  - name: Nehemiae 13:9
+    orderIndex: 8
+    osisId: Neh.13.9
+    sblId: Neh 13:9
+    shortName: Neh 13:9
+    text: praecepique, et emundaverunt gazophylacia, et rettuli ibi vasa domus Dei,
+      oblationem et tus.
+  - name: Nehemiae 13:10
+    orderIndex: 9
+    osisId: Neh.13.10
+    sblId: Neh 13:10
+    shortName: Neh 13:10
+    text: Et cognovi quod partes Levitarum non fuissent datae, et fugisset unusquisque
+      in campum suum de Levitis et cantoribus, qui ministrabant.
+  - name: Nehemiae 13:11
+    orderIndex: 10
+    osisId: Neh.13.11
+    sblId: Neh 13:11
+    shortName: Neh 13:11
+    text: 'Et egi causam adversus magistratus et dixi: " Quare dereliquimus domum
+      Dei? ". Et congregavi eos et feci stare in stationibus suis.'
+  - name: Nehemiae 13:12
+    orderIndex: 11
+    osisId: Neh.13.12
+    sblId: Neh 13:12
+    shortName: Neh 13:12
+    text: Et omnis Iuda apportabat decimam frumenti, vini et olei in horrea.
+  - name: Nehemiae 13:13
+    orderIndex: 12
+    osisId: Neh.13.13
+    sblId: Neh 13:13
+    shortName: Neh 13:13
+    text: Et constitui super horrea Selemiam sacerdotem et Sadoc scribam et Phadaiam
+      de Levitis et iuxta eos Hanan filium Zacchur, filium Matthaniae, quoniam fideles
+      comprobati sunt; et ipsi curam habebant distribuendi partes fratribus suis.
+  - name: Nehemiae 13:14
+    orderIndex: 13
+    osisId: Neh.13.14
+    sblId: Neh 13:14
+    shortName: Neh 13:14
+    text: Memento mei, Deus meus, pro hoc; et ne deleas opera mea bona, quae feci
+      in domo Dei mei et in ministeriis eius!
+  - name: Nehemiae 13:15
+    orderIndex: 14
+    osisId: Neh.13.15
+    sblId: Neh 13:15
+    shortName: Neh 13:15
+    text: In diebus illis vidi in Iuda calcantes torcularia in sabbato, portantes
+      acervos et onerantes super asinos vinum et uvas et ficus et omne onus et inferentes
+      in Ierusalem die sabbati; et contestatus sum, quando vendebant cibaria.
+  - name: Nehemiae 13:16
+    orderIndex: 15
+    osisId: Neh.13.16
+    sblId: Neh 13:16
+    shortName: Neh 13:16
+    text: Et ibi Tyrii habitaverunt in ea inferentes pisces et omnia venalia et vendebant
+      in sabbatis filiis Iudae in Ierusalem.
+  - name: Nehemiae 13:17
+    orderIndex: 16
+    osisId: Neh.13.17
+    sblId: Neh 13:17
+    shortName: Neh 13:17
+    text: 'Et obiurgavi optimates Iudae et dixi eis: " Quae est haec res mala, quam
+      vos facitis, et profanatis diem sabbati?'
+  - name: Nehemiae 13:18
+    orderIndex: 17
+    osisId: Neh.13.18
+    sblId: Neh 13:18
+    shortName: Neh 13:18
+    text: Numquid non haec fecerunt patres nostri, et adduxit Deus noster super nos
+      omne malum hoc et super civitatem hanc? Et vos additis iracundiam super Israel
+      profanando sabbatum! ".
+  - name: Nehemiae 13:19
+    orderIndex: 18
+    osisId: Neh.13.19
+    sblId: Neh 13:19
+    shortName: Neh 13:19
+    text: Factum est autem, cum obscuratae essent portae Ierusalem ante diem sabbati,
+      dixi, et clauserunt ianuas; et praecepi, ut non aperirent eas usque post sabbatum.
+      Et de pueris meis constitui super portas, ut nullus inferret onus in die sabbati.
+  - name: Nehemiae 13:20
+    orderIndex: 19
+    osisId: Neh.13.20
+    sblId: Neh 13:20
+    shortName: Neh 13:20
+    text: Et manserunt negotiatores et vendentes universa venalia foris Ierusalem
+      semel et bis.
+  - name: Nehemiae 13:21
+    orderIndex: 20
+    osisId: Neh.13.21
+    sblId: Neh 13:21
+    shortName: Neh 13:21
+    text: 'Et contestatus sum eos et dixi eis: " Quare manetis ex adverso muri? Si
+      iterum hoc feceritis, manum mittam in vos ". Itaque ex tempore illo non venerunt
+      in sabbato.'
+  - name: Nehemiae 13:22
+    orderIndex: 21
+    osisId: Neh.13.22
+    sblId: Neh 13:22
+    shortName: Neh 13:22
+    text: Dixi quoque Levitis, ut mundarentur et venirent ad custodiendas portas et
+      sanctificandam diem sabbati.Et pro hoc ergo memento mei, Deus meus, et parce
+      mihi secundum multitudinem miserationum tuarum!
+  - name: Nehemiae 13:23
+    orderIndex: 22
+    osisId: Neh.13.23
+    sblId: Neh 13:23
+    shortName: Neh 13:23
+    text: Sed et in diebus illis vidi Iudaeos, qui duxerant uxores Azotidas, Ammonitidas
+      et Moabitidas.
+  - name: Nehemiae 13:24
+    orderIndex: 23
+    osisId: Neh.13.24
+    sblId: Neh 13:24
+    shortName: Neh 13:24
+    text: Et filii eorum ex media parte loquebantur Azotice et nesciebant loqui Iudaice
+      vel loquebantur iuxta linguam unius vel alterius populi.
+  - name: Nehemiae 13:25
+    orderIndex: 24
+    osisId: Neh.13.25
+    sblId: Neh 13:25
+    shortName: Neh 13:25
+    text: 'Et obiurgavi eos et maledixi et cecidi quosdam ex eis et decalvavi eos;
+      et adiuravi in Deo, ut non darent filias suas filiis eorum et non acciperent
+      de filiabus eorum filiis suis et sibimetipsis dicens:'
+  - name: Nehemiae 13:26
+    orderIndex: 25
+    osisId: Neh.13.26
+    sblId: Neh 13:26
+    shortName: Neh 13:26
+    text: '" Numquid non in huiuscemodi re peccavit Salomon rex Israel? Et certe in
+      gentibus multis non erat rex similis ei, et dilectus Deo suo erat, et posuit
+      eum Deus regem super omnem Israel; et ipsum ergo duxerunt ad peccatum mulieres
+      alienigenae.'
+  - name: Nehemiae 13:27
+    orderIndex: 26
+    osisId: Neh.13.27
+    sblId: Neh 13:27
+    shortName: Neh 13:27
+    text: Numquid et vobis obsequentes faciemus omne malum grande hoc, ut praevaricemur
+      in Deo nostro et ducamus uxores peregrinas? ".
+  - name: Nehemiae 13:28
+    orderIndex: 27
+    osisId: Neh.13.28
+    sblId: Neh 13:28
+    shortName: Neh 13:28
+    text: Unus autem de filiis Ioiada filii Eliasib sacerdotis magni gener erat Sanaballat
+      Horonites, quem fugavi a me.
+  - name: Nehemiae 13:29
+    orderIndex: 28
+    osisId: Neh.13.29
+    sblId: Neh 13:29
+    shortName: Neh 13:29
+    text: Recordare, Domine Deus meus, adversum eos, qui polluunt sacerdotium et pactum
+      sacerdotale et leviticum!
+  - name: Nehemiae 13:30
+    orderIndex: 29
+    osisId: Neh.13.30
+    sblId: Neh 13:30
+    shortName: Neh 13:30
+    text: Igitur mundavi eos ab omnibus alienigenis et constitui ordines pro sacerdotibus
+      et Levitis, unumquemque in ministerio suo,
+  - name: Nehemiae 13:31
+    orderIndex: 30
+    osisId: Neh.13.31
+    sblId: Neh 13:31
+    shortName: Neh 13:31
+    text: et pro oblatione lignorum in temporibus constitutis et pro primitiis. Memento
+      mei, Deus meus, in bonum.
+  versesCount: 31
+chaptersCount: 13
+name: Nehemiae
+orderIndex: 15
+osisId: Neh
+sblId: Neh
+shortName: Neh
+versesCount: 405

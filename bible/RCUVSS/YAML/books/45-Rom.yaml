@@ -1,0 +1,2721 @@
+chapters:
+- name: 罗马书 1
+  orderIndex: 0
+  osisId: Rom.1
+  sblId: Rom 1
+  shortName: 罗 1
+  verses:
+  - name: 罗马书 1:1
+    orderIndex: 0
+    osisId: Rom.1.1
+    sblId: Rom 1:1
+    shortName: 罗 1:1
+    text: 基督耶稣的仆人 保罗 ，蒙召为使徒，奉派传上帝的福音。
+  - name: 罗马书 1:2
+    orderIndex: 1
+    osisId: Rom.1.2
+    sblId: Rom 1:2
+    shortName: 罗 1:2
+    text: 这福音是上帝从前藉众先知，在圣经上所应许的。
+  - name: 罗马书 1:3
+    orderIndex: 2
+    osisId: Rom.1.3
+    sblId: Rom 1:3
+    shortName: 罗 1:3
+    text: 论到他儿子－我主耶稣基督，按肉体说，是从 大卫 后裔生的；按神圣的灵说，因从死人中复活，用大能显明他是上帝的儿子。
+  - name: 罗马书 1:4
+    orderIndex: 3
+    osisId: Rom.1.4
+    sblId: Rom 1:4
+    shortName: 罗 1:4
+    text: ''
+  - name: 罗马书 1:5
+    orderIndex: 4
+    osisId: Rom.1.5
+    sblId: Rom 1:5
+    shortName: 罗 1:5
+    text: 我们从他蒙恩受了使徒的职分，为他的名在万国中使人因信而顺服，
+  - name: 罗马书 1:6
+    orderIndex: 5
+    osisId: Rom.1.6
+    sblId: Rom 1:6
+    shortName: 罗 1:6
+    text: 其中也有你们这蒙召属耶稣基督的人。
+  - name: 罗马书 1:7
+    orderIndex: 6
+    osisId: Rom.1.7
+    sblId: Rom 1:7
+    shortName: 罗 1:7
+    text: 我写信给你们在 罗马 、为上帝所爱、蒙召作圣徒的众人。愿恩惠、平安 从我们的父上帝和主耶稣基督归给你们！
+  - name: 罗马书 1:8
+    orderIndex: 7
+    osisId: Rom.1.8
+    sblId: Rom 1:8
+    shortName: 罗 1:8
+    text: 首先，我靠着耶稣基督，为你们众人感谢我的上帝，因你们的信德传遍了天下。
+  - name: 罗马书 1:9
+    orderIndex: 8
+    osisId: Rom.1.9
+    sblId: Rom 1:9
+    shortName: 罗 1:9
+    text: 我在他儿子的福音上，用心灵所事奉的上帝可以见证，我怎样不住地提到你们，
+  - name: 罗马书 1:10
+    orderIndex: 9
+    osisId: Rom.1.10
+    sblId: Rom 1:10
+    shortName: 罗 1:10
+    text: 在我的祷告中常常恳求，或许照上帝的旨意，最终我能毫无阻碍地往你们那里去。
+  - name: 罗马书 1:11
+    orderIndex: 10
+    osisId: Rom.1.11
+    sblId: Rom 1:11
+    shortName: 罗 1:11
+    text: 因为我迫切地想见你们，要把一些属灵的恩赐分给你们，使你们得以坚固，
+  - name: 罗马书 1:12
+    orderIndex: 11
+    osisId: Rom.1.12
+    sblId: Rom 1:12
+    shortName: 罗 1:12
+    text: 也可以说，我在你们中间，因你我彼此的信心而同得安慰。
+  - name: 罗马书 1:13
+    orderIndex: 12
+    osisId: Rom.1.13
+    sblId: Rom 1:13
+    shortName: 罗 1:13
+    text: 弟兄们，我不愿意你们不知道，我屡次计划往你们那里去，要在你们中间得些果子，如同在其余的外邦人中一样，只是到如今仍有拦阻。
+  - name: 罗马书 1:14
+    orderIndex: 13
+    osisId: Rom.1.14
+    sblId: Rom 1:14
+    shortName: 罗 1:14
+    text: 无论是 希腊 人、未开化的人、聪明人、愚拙人，我都欠他们的债，
+  - name: 罗马书 1:15
+    orderIndex: 14
+    osisId: Rom.1.15
+    sblId: Rom 1:15
+    shortName: 罗 1:15
+    text: 所以愿意尽我的力量把福音也传给你们在 罗马 的人。
+  - name: 罗马书 1:16
+    orderIndex: 15
+    osisId: Rom.1.16
+    sblId: Rom 1:16
+    shortName: 罗 1:16
+    text: 我不以福音为耻；这福音本是上帝的大能，要救一切相信的，先是 犹太 人，后是 希腊 人。
+  - name: 罗马书 1:17
+    orderIndex: 16
+    osisId: Rom.1.17
+    sblId: Rom 1:17
+    shortName: 罗 1:17
+    text: 因为上帝的义正在这福音上显明出来；这义是本于信，以至于信。如经上所记：“义人必因信得生。”
+  - name: 罗马书 1:18
+    orderIndex: 17
+    osisId: Rom.1.18
+    sblId: Rom 1:18
+    shortName: 罗 1:18
+    text: 原来，上帝的愤怒从天上显明在一切不虔不义的人身上，就是那些行不义压制真理的人。
+  - name: 罗马书 1:19
+    orderIndex: 18
+    osisId: Rom.1.19
+    sblId: Rom 1:19
+    shortName: 罗 1:19
+    text: 上帝的事情，人所能知道的，原显明在人心里，因为上帝已经向他们显明。
+  - name: 罗马书 1:20
+    orderIndex: 19
+    osisId: Rom.1.20
+    sblId: Rom 1:20
+    shortName: 罗 1:20
+    text: 自从造天地以来，上帝的永能和神性是明明可知的，虽然眼不能见，但藉着所造之物就可以了解看见，叫人无可推诿。
+  - name: 罗马书 1:21
+    orderIndex: 20
+    osisId: Rom.1.21
+    sblId: Rom 1:21
+    shortName: 罗 1:21
+    text: 因为，他们虽然知道上帝，却不把他当作上帝荣耀他，也不感谢他。他们的思想变为虚妄，无知的心昏暗了。
+  - name: 罗马书 1:22
+    orderIndex: 21
+    osisId: Rom.1.22
+    sblId: Rom 1:22
+    shortName: 罗 1:22
+    text: 他们自以为聪明，反成了愚昧，
+  - name: 罗马书 1:23
+    orderIndex: 22
+    osisId: Rom.1.23
+    sblId: Rom 1:23
+    shortName: 罗 1:23
+    text: 将不能朽坏之上帝的荣耀变为偶像，仿照必朽坏的人、飞禽、走兽、爬虫的形像。
+  - name: 罗马书 1:24
+    orderIndex: 23
+    osisId: Rom.1.24
+    sblId: Rom 1:24
+    shortName: 罗 1:24
+    text: 所以，上帝任凭他们随着心里的情欲行污秽的事，以致彼此羞辱自己的身体。
+  - name: 罗马书 1:25
+    orderIndex: 24
+    osisId: Rom.1.25
+    sblId: Rom 1:25
+    shortName: 罗 1:25
+    text: 他们将上帝的真实变为虚谎，去敬拜事奉受造之物，不敬奉那造物的主—主是可称颂的，直到永远。阿们！
+  - name: 罗马书 1:26
+    orderIndex: 25
+    osisId: Rom.1.26
+    sblId: Rom 1:26
+    shortName: 罗 1:26
+    text: 因此，上帝任凭他们放纵可羞耻的情欲。他们的女人把自然的关系变成违反自然的；
+  - name: 罗马书 1:27
+    orderIndex: 26
+    osisId: Rom.1.27
+    sblId: Rom 1:27
+    shortName: 罗 1:27
+    text: 男人也是如此，放弃了和女人自然的关系，欲火攻心，男的和男的彼此贪恋，行可耻的事，就在自己身上受这逆性行为当得的报应。
+  - name: 罗马书 1:28
+    orderIndex: 27
+    osisId: Rom.1.28
+    sblId: Rom 1:28
+    shortName: 罗 1:28
+    text: 他们既然故意不认识上帝，上帝就任凭他们存扭曲的心，做那些不该做的事，
+  - name: 罗马书 1:29
+    orderIndex: 28
+    osisId: Rom.1.29
+    sblId: Rom 1:29
+    shortName: 罗 1:29
+    text: 装满了各样不义 、邪恶、贪婪、恶毒，满心是嫉妒、凶杀、纷争、诡诈、毒恨，又是毁谤的、
+  - name: 罗马书 1:30
+    orderIndex: 29
+    osisId: Rom.1.30
+    sblId: Rom 1:30
+    shortName: 罗 1:30
+    text: 说人坏话的、怨恨上帝的 、侮辱人的、狂傲的、自夸的、制造是非的、忤逆父母的、
+  - name: 罗马书 1:31
+    orderIndex: 30
+    osisId: Rom.1.31
+    sblId: Rom 1:31
+    shortName: 罗 1:31
+    text: 顽梗不化的、言而无信的、无情无义的、不怜悯人的。
+  - name: 罗马书 1:32
+    orderIndex: 31
+    osisId: Rom.1.32
+    sblId: Rom 1:32
+    shortName: 罗 1:32
+    text: 他们虽知道上帝判定做这样事的人是该死的，然而他们不但自己去做，还赞同别人去做。
+  versesCount: 32
+- name: 罗马书 2
+  orderIndex: 1
+  osisId: Rom.2
+  sblId: Rom 2
+  shortName: 罗 2
+  verses:
+  - name: 罗马书 2:1
+    orderIndex: 0
+    osisId: Rom.2.1
+    sblId: Rom 2:1
+    shortName: 罗 2:1
+    text: 所以，你这评断人的人哪，无论你是谁，都无可推诿。你在什么事上评断人，就在什么事上定自己的罪。因你这评断人的，自己所做的却和别人一样。
+  - name: 罗马书 2:2
+    orderIndex: 1
+    osisId: Rom.2.2
+    sblId: Rom 2:2
+    shortName: 罗 2:2
+    text: 我们知道这样做的人，上帝必公平地审判他。
+  - name: 罗马书 2:3
+    orderIndex: 2
+    osisId: Rom.2.3
+    sblId: Rom 2:3
+    shortName: 罗 2:3
+    text: 你这个人哪，你评断做这样事的人，自己所做的却和别人一样，你以为能逃脱上帝的审判吗？
+  - name: 罗马书 2:4
+    orderIndex: 3
+    osisId: Rom.2.4
+    sblId: Rom 2:4
+    shortName: 罗 2:4
+    text: 还是你藐视他丰富的恩慈、宽容、忍耐，不知道他的恩慈是领你悔改吗？
+  - name: 罗马书 2:5
+    orderIndex: 4
+    osisId: Rom.2.5
+    sblId: Rom 2:5
+    shortName: 罗 2:5
+    text: 你竟放任你刚硬不悔改的心，为自己累积愤怒！在愤怒的日子，上帝公义的审判要显示出来。
+  - name: 罗马书 2:6
+    orderIndex: 5
+    osisId: Rom.2.6
+    sblId: Rom 2:6
+    shortName: 罗 2:6
+    text: 他要照各人的行为报应各人。
+  - name: 罗马书 2:7
+    orderIndex: 6
+    osisId: Rom.2.7
+    sblId: Rom 2:7
+    shortName: 罗 2:7
+    text: 凡恒心行善，寻求荣耀、尊贵和不能朽坏的，就有永生报偿他们；
+  - name: 罗马书 2:8
+    orderIndex: 7
+    osisId: Rom.2.8
+    sblId: Rom 2:8
+    shortName: 罗 2:8
+    text: 但是那些自私自利、不顺从真理、反顺从不义的人，就有恼恨、愤怒报应他们。
+  - name: 罗马书 2:9
+    orderIndex: 8
+    osisId: Rom.2.9
+    sblId: Rom 2:9
+    shortName: 罗 2:9
+    text: 他要把患难、困苦加给一切作恶的人，先是 犹太 人，后是 希腊 人；
+  - name: 罗马书 2:10
+    orderIndex: 9
+    osisId: Rom.2.10
+    sblId: Rom 2:10
+    shortName: 罗 2:10
+    text: 却把荣耀、尊贵、平安加给一切行善的人，先是 犹太 人，后是 希腊 人。
+  - name: 罗马书 2:11
+    orderIndex: 10
+    osisId: Rom.2.11
+    sblId: Rom 2:11
+    shortName: 罗 2:11
+    text: 因为上帝不偏待人。
+  - name: 罗马书 2:12
+    orderIndex: 11
+    osisId: Rom.2.12
+    sblId: Rom 2:12
+    shortName: 罗 2:12
+    text: 凡在律法之外犯了罪的，将在律法之外灭亡；凡在律法之内犯了罪的，将按律法受审判。
+  - name: 罗马书 2:13
+    orderIndex: 12
+    osisId: Rom.2.13
+    sblId: Rom 2:13
+    shortName: 罗 2:13
+    text: 原来在上帝面前，不是听律法的为义，而是行律法的称义。
+  - name: 罗马书 2:14
+    orderIndex: 13
+    osisId: Rom.2.14
+    sblId: Rom 2:14
+    shortName: 罗 2:14
+    text: 没有律法的外邦人若顺着本性行律法上的事，他们虽然没有律法，自己就是自己的律法。
+  - name: 罗马书 2:15
+    orderIndex: 14
+    osisId: Rom.2.15
+    sblId: Rom 2:15
+    shortName: 罗 2:15
+    text: 他们显明律法的功用刻在他们心里，他们的良心一同作证—他们的内心挣扎，有时自责，有时为自己辩护。
+  - name: 罗马书 2:16
+    orderIndex: 15
+    osisId: Rom.2.16
+    sblId: Rom 2:16
+    shortName: 罗 2:16
+    text: 在那日，上帝要藉着基督耶稣 ，按照我所传的福音，审判人隐藏的事。
+  - name: 罗马书 2:17
+    orderIndex: 16
+    osisId: Rom.2.17
+    sblId: Rom 2:17
+    shortName: 罗 2:17
+    text: 但是你，你既自称为 犹太 人，倚靠律法，以上帝夸口，
+  - name: 罗马书 2:18
+    orderIndex: 17
+    osisId: Rom.2.18
+    sblId: Rom 2:18
+    shortName: 罗 2:18
+    text: 知道上帝的旨意，从律法受了教导而能分辨是非；
+  - name: 罗马书 2:19
+    orderIndex: 18
+    osisId: Rom.2.19
+    sblId: Rom 2:19
+    shortName: 罗 2:19
+    text: 你既深信自己是给盲人领路的，是在黑暗中人的光，
+  - name: 罗马书 2:20
+    orderIndex: 19
+    osisId: Rom.2.20
+    sblId: Rom 2:20
+    shortName: 罗 2:20
+    text: 是无知的人的师傅，是小孩子的老师，体现了律法中的知识和真理；
+  - name: 罗马书 2:21
+    orderIndex: 20
+    osisId: Rom.2.21
+    sblId: Rom 2:21
+    shortName: 罗 2:21
+    text: 那么，你这教导别人的，还不教导自己吗？你这宣讲不可偷窃的，自己还偷窃吗？
+  - name: 罗马书 2:22
+    orderIndex: 21
+    osisId: Rom.2.22
+    sblId: Rom 2:22
+    shortName: 罗 2:22
+    text: 你这说不可奸淫的，自己还奸淫吗？你这厌恶偶像的，自己还抢劫庙中之物吗？
+  - name: 罗马书 2:23
+    orderIndex: 22
+    osisId: Rom.2.23
+    sblId: Rom 2:23
+    shortName: 罗 2:23
+    text: 你这以律法夸口的，自己倒违犯律法，羞辱上帝！
+  - name: 罗马书 2:24
+    orderIndex: 23
+    osisId: Rom.2.24
+    sblId: Rom 2:24
+    shortName: 罗 2:24
+    text: 上帝的名在外邦人中因你们受了亵渎，正如经上所记的。
+  - name: 罗马书 2:25
+    orderIndex: 24
+    osisId: Rom.2.25
+    sblId: Rom 2:25
+    shortName: 罗 2:25
+    text: 你若遵行律法，割礼固然于你有益；若违犯律法，你的割礼就算不得割礼。
+  - name: 罗马书 2:26
+    orderIndex: 25
+    osisId: Rom.2.26
+    sblId: Rom 2:26
+    shortName: 罗 2:26
+    text: 所以，那未受割礼的，若遵守律法的要求，他虽然未受割礼，岂不算是受了割礼吗？
+  - name: 罗马书 2:27
+    orderIndex: 26
+    osisId: Rom.2.27
+    sblId: Rom 2:27
+    shortName: 罗 2:27
+    text: 而且那本来未受割礼的，若能全守律法，岂不是要审判你这有仪文和割礼，竟违犯律法的人吗？
+  - name: 罗马书 2:28
+    orderIndex: 27
+    osisId: Rom.2.28
+    sblId: Rom 2:28
+    shortName: 罗 2:28
+    text: 因为外表是 犹太 人的不是真 犹太 人；外表肉身的割礼也不是真割礼。
+  - name: 罗马书 2:29
+    orderIndex: 28
+    osisId: Rom.2.29
+    sblId: Rom 2:29
+    shortName: 罗 2:29
+    text: 惟有内心作 犹太 人的才是真 犹太 人，真割礼也是心里的，在乎圣灵 ，不在乎仪文。这样的人所受的称赞不是从人来的，而是从上帝来的。
+  versesCount: 29
+- name: 罗马书 3
+  orderIndex: 2
+  osisId: Rom.3
+  sblId: Rom 3
+  shortName: 罗 3
+  verses:
+  - name: 罗马书 3:1
+    orderIndex: 0
+    osisId: Rom.3.1
+    sblId: Rom 3:1
+    shortName: 罗 3:1
+    text: 这样说来， 犹太 人有什么比别人强呢？割礼有什么益处呢？
+  - name: 罗马书 3:2
+    orderIndex: 1
+    osisId: Rom.3.2
+    sblId: Rom 3:2
+    shortName: 罗 3:2
+    text: 很多，各方面都有。首先，上帝的圣言交托他们。
+  - name: 罗马书 3:3
+    orderIndex: 2
+    osisId: Rom.3.3
+    sblId: Rom 3:3
+    shortName: 罗 3:3
+    text: 即使有不信的，这又何妨呢？难道他们的不信就废掉上帝的信实吗？
+  - name: 罗马书 3:4
+    orderIndex: 3
+    osisId: Rom.3.4
+    sblId: Rom 3:4
+    shortName: 罗 3:4
+    text: 绝对不会！不如说，上帝是真实的，而人都是虚谎的。如经上所记： “以致你责备的时候显为公义； 你被指控的时候一定胜诉。”
+  - name: 罗马书 3:5
+    orderIndex: 4
+    osisId: Rom.3.5
+    sblId: Rom 3:5
+    shortName: 罗 3:5
+    text: 我姑且照着人的看法来说，我们的不义若显出上帝的义来，我们要怎么说呢？上帝降怒是他不义吗？
+  - name: 罗马书 3:6
+    orderIndex: 5
+    osisId: Rom.3.6
+    sblId: Rom 3:6
+    shortName: 罗 3:6
+    text: 绝对不是！若是这样，上帝怎能审判世界呢？
+  - name: 罗马书 3:7
+    orderIndex: 6
+    osisId: Rom.3.7
+    sblId: Rom 3:7
+    shortName: 罗 3:7
+    text: 若上帝的真实因我的虚谎越发显出他的荣耀，为什么我还像罪人一样受审判呢？
+  - name: 罗马书 3:8
+    orderIndex: 7
+    osisId: Rom.3.8
+    sblId: Rom 3:8
+    shortName: 罗 3:8
+    text: 为什么不说，我们可以作恶以成善呢？有人毁谤我们，说我们讲过这话；这等人被定罪是应该的。
+  - name: 罗马书 3:9
+    orderIndex: 8
+    osisId: Rom.3.9
+    sblId: Rom 3:9
+    shortName: 罗 3:9
+    text: 那又怎么样呢？我们比他们强吗？绝不是！因我们已经指证： 犹太 人和 希腊 人都在罪恶之下。
+  - name: 罗马书 3:10
+    orderIndex: 9
+    osisId: Rom.3.10
+    sblId: Rom 3:10
+    shortName: 罗 3:10
+    text: 就如经上所记： “没有义人，连一个也没有。
+  - name: 罗马书 3:11
+    orderIndex: 10
+    osisId: Rom.3.11
+    sblId: Rom 3:11
+    shortName: 罗 3:11
+    text: 没有明白的， 没有寻求上帝的。
+  - name: 罗马书 3:12
+    orderIndex: 11
+    osisId: Rom.3.12
+    sblId: Rom 3:12
+    shortName: 罗 3:12
+    text: 人人偏离正路，一同走向败坏。 没有行善的，连一个也没有 。
+  - name: 罗马书 3:13
+    orderIndex: 12
+    osisId: Rom.3.13
+    sblId: Rom 3:13
+    shortName: 罗 3:13
+    text: 他们的喉咙是敞开的坟墓； 他们的舌头玩弄诡诈。 他们的嘴唇里有毒蛇的毒液，
+  - name: 罗马书 3:14
+    orderIndex: 13
+    osisId: Rom.3.14
+    sblId: Rom 3:14
+    shortName: 罗 3:14
+    text: 满口是咒骂苦毒。
+  - name: 罗马书 3:15
+    orderIndex: 14
+    osisId: Rom.3.15
+    sblId: Rom 3:15
+    shortName: 罗 3:15
+    text: 他们的脚为杀人流血飞跑；
+  - name: 罗马书 3:16
+    orderIndex: 15
+    osisId: Rom.3.16
+    sblId: Rom 3:16
+    shortName: 罗 3:16
+    text: 他们的路留下毁坏和灾难。
+  - name: 罗马书 3:17
+    orderIndex: 16
+    osisId: Rom.3.17
+    sblId: Rom 3:17
+    shortName: 罗 3:17
+    text: 和平的路，他们不认识；
+  - name: 罗马书 3:18
+    orderIndex: 17
+    osisId: Rom.3.18
+    sblId: Rom 3:18
+    shortName: 罗 3:18
+    text: 他们眼中不怕上帝。”
+  - name: 罗马书 3:19
+    orderIndex: 18
+    osisId: Rom.3.19
+    sblId: Rom 3:19
+    shortName: 罗 3:19
+    text: 我们知道律法所说的话都是对律法之下的人说的，好塞住各人的口，使普世的人都伏在上帝的审判之下。
+  - name: 罗马书 3:20
+    orderIndex: 19
+    osisId: Rom.3.20
+    sblId: Rom 3:20
+    shortName: 罗 3:20
+    text: 所以，凡血肉之躯没有一个能因律法的行为而在上帝面前称义，因为律法本是要人认识罪。
+  - name: 罗马书 3:21
+    orderIndex: 20
+    osisId: Rom.3.21
+    sblId: Rom 3:21
+    shortName: 罗 3:21
+    text: 但如今，上帝的义在律法之外已经显明出来，有律法和先知为证：
+  - name: 罗马书 3:22
+    orderIndex: 21
+    osisId: Rom.3.22
+    sblId: Rom 3:22
+    shortName: 罗 3:22
+    text: 就是上帝的义，因信耶稣基督 加给一切信的人。这并没有分别，
+  - name: 罗马书 3:23
+    orderIndex: 22
+    osisId: Rom.3.23
+    sblId: Rom 3:23
+    shortName: 罗 3:23
+    text: 因为世人都犯了罪，亏缺了上帝的荣耀，
+  - name: 罗马书 3:24
+    orderIndex: 23
+    osisId: Rom.3.24
+    sblId: Rom 3:24
+    shortName: 罗 3:24
+    text: 如今却蒙上帝的恩典，藉着在基督耶稣里的救赎，就白白地得称为义。
+  - name: 罗马书 3:25
+    orderIndex: 24
+    osisId: Rom.3.25
+    sblId: Rom 3:25
+    shortName: 罗 3:25
+    text: 上帝设立耶稣作赎罪祭，是凭耶稣的血，藉着信，要显明上帝的义；因为他用忍耐的心宽容人先前所犯的罪，好使今时显明他的义，让人知道他自己为义，也称信耶稣的人为义
+      。
+  - name: 罗马书 3:26
+    orderIndex: 25
+    osisId: Rom.3.26
+    sblId: Rom 3:26
+    shortName: 罗 3:26
+    text: ''
+  - name: 罗马书 3:27
+    orderIndex: 26
+    osisId: Rom.3.27
+    sblId: Rom 3:27
+    shortName: 罗 3:27
+    text: 既是这样，哪里可夸口呢？没有可夸的。是藉什么法呢？功德吗？不是！是藉信主之法。
+  - name: 罗马书 3:28
+    orderIndex: 27
+    osisId: Rom.3.28
+    sblId: Rom 3:28
+    shortName: 罗 3:28
+    text: 所以我们认定，人称义是因着信，不在于律法的行为。
+  - name: 罗马书 3:29
+    orderIndex: 28
+    osisId: Rom.3.29
+    sblId: Rom 3:29
+    shortName: 罗 3:29
+    text: 难道上帝只是 犹太 人的吗？不也是外邦人的吗？是的，他也是外邦人的上帝。
+  - name: 罗马书 3:30
+    orderIndex: 29
+    osisId: Rom.3.30
+    sblId: Rom 3:30
+    shortName: 罗 3:30
+    text: 既然上帝是一位，他就要本于信称那受割礼的为义，也要藉着信称那未受割礼的为义。
+  - name: 罗马书 3:31
+    orderIndex: 30
+    osisId: Rom.3.31
+    sblId: Rom 3:31
+    shortName: 罗 3:31
+    text: 这样，我们藉着信废了律法吗？绝对不是！更是巩固律法。
+  versesCount: 31
+- name: 罗马书 4
+  orderIndex: 3
+  osisId: Rom.4
+  sblId: Rom 4
+  shortName: 罗 4
+  verses:
+  - name: 罗马书 4:1
+    orderIndex: 0
+    osisId: Rom.4.1
+    sblId: Rom 4:1
+    shortName: 罗 4:1
+    text: 这样，那按肉体作我们祖宗的 亚伯拉罕 ，我们要怎么说呢？
+  - name: 罗马书 4:2
+    orderIndex: 1
+    osisId: Rom.4.2
+    sblId: Rom 4:2
+    shortName: 罗 4:2
+    text: 倘若 亚伯拉罕 是因行为称义，他就有可夸的，但是在上帝面前他一无可夸。
+  - name: 罗马书 4:3
+    orderIndex: 2
+    osisId: Rom.4.3
+    sblId: Rom 4:3
+    shortName: 罗 4:3
+    text: 经上说什么呢？“ 亚伯拉罕 信了上帝，这就算他为义。”
+  - name: 罗马书 4:4
+    orderIndex: 3
+    osisId: Rom.4.4
+    sblId: Rom 4:4
+    shortName: 罗 4:4
+    text: 做工的得工资不算是恩典，而是应得的；
+  - name: 罗马书 4:5
+    orderIndex: 4
+    osisId: Rom.4.5
+    sblId: Rom 4:5
+    shortName: 罗 4:5
+    text: 但那不做工的，只信那位称不敬虔之人为义的，他的信就算为义。
+  - name: 罗马书 4:6
+    orderIndex: 5
+    osisId: Rom.4.6
+    sblId: Rom 4:6
+    shortName: 罗 4:6
+    text: 正如 大卫 称那在行为之外蒙上帝算为义的人是有福的：
+  - name: 罗马书 4:7
+    orderIndex: 6
+    osisId: Rom.4.7
+    sblId: Rom 4:7
+    shortName: 罗 4:7
+    text: “过犯得赦免，罪恶蒙遮盖的人有福了！
+  - name: 罗马书 4:8
+    orderIndex: 7
+    osisId: Rom.4.8
+    sblId: Rom 4:8
+    shortName: 罗 4:8
+    text: 主不算为有罪的，这样的人有福了！”
+  - name: 罗马书 4:9
+    orderIndex: 8
+    osisId: Rom.4.9
+    sblId: Rom 4:9
+    shortName: 罗 4:9
+    text: 如此看来，这福只加给那受割礼的人吗？不也加给那未受割礼的人吗？我们说，因着信，就算 亚伯拉罕 为义。
+  - name: 罗马书 4:10
+    orderIndex: 9
+    osisId: Rom.4.10
+    sblId: Rom 4:10
+    shortName: 罗 4:10
+    text: 那么，这是怎么算的呢？是在他受割礼的时候呢？还是在他未受割礼的时候呢？不是在受割礼的时候，而是在未受割礼的时候。
+  - name: 罗马书 4:11
+    orderIndex: 10
+    osisId: Rom.4.11
+    sblId: Rom 4:11
+    shortName: 罗 4:11
+    text: 并且，他受了割礼的记号，作他未受割礼的时候因信称义的印证，为使他作一切未受割礼而信之人的父，使他们也算为义，
+  - name: 罗马书 4:12
+    orderIndex: 11
+    osisId: Rom.4.12
+    sblId: Rom 4:12
+    shortName: 罗 4:12
+    text: 也使他作受割礼之人的父，就是那些不但受割礼，而且跟随我们的祖宗 亚伯拉罕 未受割礼而信的足迹的人。
+  - name: 罗马书 4:13
+    orderIndex: 12
+    osisId: Rom.4.13
+    sblId: Rom 4:13
+    shortName: 罗 4:13
+    text: 因为上帝给 亚伯拉罕 和他后裔承受世界的应许不是藉着律法，而是藉着信而得的义。
+  - name: 罗马书 4:14
+    orderIndex: 13
+    osisId: Rom.4.14
+    sblId: Rom 4:14
+    shortName: 罗 4:14
+    text: 若是属于律法的人才是后嗣，信就落空了，应许也就失效了。
+  - name: 罗马书 4:15
+    orderIndex: 14
+    osisId: Rom.4.15
+    sblId: Rom 4:15
+    shortName: 罗 4:15
+    text: 因为律法是惹动愤怒的，哪里没有律法，哪里就没有过犯。
+  - name: 罗马书 4:16
+    orderIndex: 15
+    osisId: Rom.4.16
+    sblId: Rom 4:16
+    shortName: 罗 4:16
+    text: 所以，人作后嗣是出于信，因此就属乎恩，以致应许保证归给所有的后裔，不但归给那属于律法的，也归给那效法 亚伯拉罕 之信的人。 亚伯拉罕 所信的是那叫死人复活、使无变为有的上帝，在这位上帝面前
+      亚伯拉罕 成为我们众人的父，如经上所记：“我已经立你作多国之父。”
+  - name: 罗马书 4:17
+    orderIndex: 16
+    osisId: Rom.4.17
+    sblId: Rom 4:17
+    shortName: 罗 4:17
+    text: ''
+  - name: 罗马书 4:18
+    orderIndex: 17
+    osisId: Rom.4.18
+    sblId: Rom 4:18
+    shortName: 罗 4:18
+    text: 他在没有盼望的时候，仍存着盼望来相信，就得以作多国之父，正如先前所说：“你的后裔将要如此。”
+  - name: 罗马书 4:19
+    orderIndex: 18
+    osisId: Rom.4.19
+    sblId: Rom 4:19
+    shortName: 罗 4:19
+    text: 他将近百岁的时候，虽然想到 自己的身体如同已死， 撒拉 也不可能生育，他的信心还是不软弱，
+  - name: 罗马书 4:20
+    orderIndex: 19
+    osisId: Rom.4.20
+    sblId: Rom 4:20
+    shortName: 罗 4:20
+    text: 仍仰望上帝的应许，总没有因不信而起疑惑，反倒因信而刚强，将荣耀归给上帝，
+  - name: 罗马书 4:21
+    orderIndex: 20
+    osisId: Rom.4.21
+    sblId: Rom 4:21
+    shortName: 罗 4:21
+    text: 且满心相信上帝所应许的必能成就。
+  - name: 罗马书 4:22
+    orderIndex: 21
+    osisId: Rom.4.22
+    sblId: Rom 4:22
+    shortName: 罗 4:22
+    text: 所以这也 就算他为义。
+  - name: 罗马书 4:23
+    orderIndex: 22
+    osisId: Rom.4.23
+    sblId: Rom 4:23
+    shortName: 罗 4:23
+    text: “算他为义”这句话不是单为他写的，
+  - name: 罗马书 4:24
+    orderIndex: 23
+    osisId: Rom.4.24
+    sblId: Rom 4:24
+    shortName: 罗 4:24
+    text: 也是为我们将来得算为义的人写的，就是为我们这些信上帝使我们的主耶稣从死人中复活的人写的。
+  - name: 罗马书 4:25
+    orderIndex: 24
+    osisId: Rom.4.25
+    sblId: Rom 4:25
+    shortName: 罗 4:25
+    text: 耶稣被出卖，是为我们的过犯；他复活，是为使我们称义。
+  versesCount: 25
+- name: 罗马书 5
+  orderIndex: 4
+  osisId: Rom.5
+  sblId: Rom 5
+  shortName: 罗 5
+  verses:
+  - name: 罗马书 5:1
+    orderIndex: 0
+    osisId: Rom.5.1
+    sblId: Rom 5:1
+    shortName: 罗 5:1
+    text: 所以，我们既因信称义，就藉着我们的主耶稣基督得以与上帝和好。
+  - name: 罗马书 5:2
+    orderIndex: 1
+    osisId: Rom.5.2
+    sblId: Rom 5:2
+    shortName: 罗 5:2
+    text: 我们又藉着他，因信 得以进入现在所站立的这恩典中，并且欢欢喜喜盼望上帝的荣耀。
+  - name: 罗马书 5:3
+    orderIndex: 2
+    osisId: Rom.5.3
+    sblId: Rom 5:3
+    shortName: 罗 5:3
+    text: 不但如此，就是在患难中也是欢欢喜喜的，因为知道患难生忍耐，
+  - name: 罗马书 5:4
+    orderIndex: 3
+    osisId: Rom.5.4
+    sblId: Rom 5:4
+    shortName: 罗 5:4
+    text: 忍耐生老练，老练生盼望，
+  - name: 罗马书 5:5
+    orderIndex: 4
+    osisId: Rom.5.5
+    sblId: Rom 5:5
+    shortName: 罗 5:5
+    text: 盼望不至于落空，因为上帝的爱，已藉着所赐给我们的圣灵，浇灌在我们心里。
+  - name: 罗马书 5:6
+    orderIndex: 5
+    osisId: Rom.5.6
+    sblId: Rom 5:6
+    shortName: 罗 5:6
+    text: 我们还软弱的时候，基督就在特定的时刻为不敬虔之人死。
+  - name: 罗马书 5:7
+    orderIndex: 6
+    osisId: Rom.5.7
+    sblId: Rom 5:7
+    shortName: 罗 5:7
+    text: 为义人死，是少有的；为仁人死，或者有敢做的。
+  - name: 罗马书 5:8
+    orderIndex: 7
+    osisId: Rom.5.8
+    sblId: Rom 5:8
+    shortName: 罗 5:8
+    text: 惟有基督在我们还作罪人的时候为我们死，上帝的爱就在此向我们显明了。
+  - name: 罗马书 5:9
+    orderIndex: 8
+    osisId: Rom.5.9
+    sblId: Rom 5:9
+    shortName: 罗 5:9
+    text: 现在我们既靠着他的血称义，就更要藉着他得救，免受上帝的愤怒。
+  - name: 罗马书 5:10
+    orderIndex: 9
+    osisId: Rom.5.10
+    sblId: Rom 5:10
+    shortName: 罗 5:10
+    text: 因为我们作仇敌的时候，尚且藉着上帝儿子的死得以与上帝和好，既已和好，就更要因他的生得救了。
+  - name: 罗马书 5:11
+    orderIndex: 10
+    osisId: Rom.5.11
+    sblId: Rom 5:11
+    shortName: 罗 5:11
+    text: 不但如此，我们既藉着我们的主耶稣基督得以与上帝和好，也就藉着他以上帝为乐。
+  - name: 罗马书 5:12
+    orderIndex: 11
+    osisId: Rom.5.12
+    sblId: Rom 5:12
+    shortName: 罗 5:12
+    text: 为此，正如罪是从一人进入世界，死又从罪而来，于是死就临到所有的人，因为人人都犯了罪。
+  - name: 罗马书 5:13
+    orderIndex: 12
+    osisId: Rom.5.13
+    sblId: Rom 5:13
+    shortName: 罗 5:13
+    text: 没有律法之前，罪已经在世上，但没有律法，罪也不算罪。
+  - name: 罗马书 5:14
+    orderIndex: 13
+    osisId: Rom.5.14
+    sblId: Rom 5:14
+    shortName: 罗 5:14
+    text: 然而，从 亚当 到 摩西 ，死就掌了权，连那些不与 亚当 犯一样罪过的，也在死的权下。 亚当 是那以后要来之人的预像。
+  - name: 罗马书 5:15
+    orderIndex: 14
+    osisId: Rom.5.15
+    sblId: Rom 5:15
+    shortName: 罗 5:15
+    text: 但是过犯不如恩赐，若因一人的过犯，众人都死了，那么，上帝的恩典，与那因耶稣基督一人而来的恩典中的赏赐，岂不加倍地临到众人吗？
+  - name: 罗马书 5:16
+    orderIndex: 15
+    osisId: Rom.5.16
+    sblId: Rom 5:16
+    shortName: 罗 5:16
+    text: 因一人犯罪而来的后果，也不如赏赐，原来审判是由一人而定罪，恩赐乃是由许多过犯而称义。
+  - name: 罗马书 5:17
+    orderIndex: 16
+    osisId: Rom.5.17
+    sblId: Rom 5:17
+    shortName: 罗 5:17
+    text: 若因一人的过犯，死就因这一人掌权，那些受洪恩又蒙所赐之义的，岂不更要因耶稣基督一人在他们生命中掌权吗？
+  - name: 罗马书 5:18
+    orderIndex: 17
+    osisId: Rom.5.18
+    sblId: Rom 5:18
+    shortName: 罗 5:18
+    text: 这样看来，因一次的过犯，所有的人都被定罪；照样，因一次的义行，所有的人也就被称义而得生命了。
+  - name: 罗马书 5:19
+    orderIndex: 18
+    osisId: Rom.5.19
+    sblId: Rom 5:19
+    shortName: 罗 5:19
+    text: 因一人的悖逆，众人成为罪人；照样，因一人的顺从，众人也成为义了。
+  - name: 罗马书 5:20
+    orderIndex: 19
+    osisId: Rom.5.20
+    sblId: Rom 5:20
+    shortName: 罗 5:20
+    text: 而且加添了律法，使得过犯增加，只是罪在哪里增加，恩典就在哪里越发丰盛了。
+  - name: 罗马书 5:21
+    orderIndex: 20
+    osisId: Rom.5.21
+    sblId: Rom 5:21
+    shortName: 罗 5:21
+    text: 所以，正如罪藉着死掌权；照样，恩典也藉着义掌权，使人因我们的主耶稣基督得永生。
+  versesCount: 21
+- name: 罗马书 6
+  orderIndex: 5
+  osisId: Rom.6
+  sblId: Rom 6
+  shortName: 罗 6
+  verses:
+  - name: 罗马书 6:1
+    orderIndex: 0
+    osisId: Rom.6.1
+    sblId: Rom 6:1
+    shortName: 罗 6:1
+    text: 这样，我们要怎么说呢？我们可以仍在罪中使恩典增多吗？
+  - name: 罗马书 6:2
+    orderIndex: 1
+    osisId: Rom.6.2
+    sblId: Rom 6:2
+    shortName: 罗 6:2
+    text: 绝对不可！我们向罪死了的人，岂可仍在罪中活着呢？
+  - name: 罗马书 6:3
+    orderIndex: 2
+    osisId: Rom.6.3
+    sblId: Rom 6:3
+    shortName: 罗 6:3
+    text: 难道你们不知道，我们这受洗归入基督耶稣的人，就是受洗归入他的死吗？
+  - name: 罗马书 6:4
+    orderIndex: 3
+    osisId: Rom.6.4
+    sblId: Rom 6:4
+    shortName: 罗 6:4
+    text: 所以，我们藉着洗礼归入死，和他一同埋葬，是要我们行事为人都有新生的样子，像基督藉着父的荣耀从死人中复活一样。
+  - name: 罗马书 6:5
+    orderIndex: 4
+    osisId: Rom.6.5
+    sblId: Rom 6:5
+    shortName: 罗 6:5
+    text: 我们若与他合一，经历与他一样的死，也将经历与他一样的复活。
+  - name: 罗马书 6:6
+    orderIndex: 5
+    osisId: Rom.6.6
+    sblId: Rom 6:6
+    shortName: 罗 6:6
+    text: 我们知道，我们的旧人和他同钉十字架，使罪身灭绝，叫我们不再作罪的奴隶，
+  - name: 罗马书 6:7
+    orderIndex: 6
+    osisId: Rom.6.7
+    sblId: Rom 6:7
+    shortName: 罗 6:7
+    text: 因为已死的人是脱离了罪。
+  - name: 罗马书 6:8
+    orderIndex: 7
+    osisId: Rom.6.8
+    sblId: Rom 6:8
+    shortName: 罗 6:8
+    text: 我们若与基督同死，我们信也必与他同活，
+  - name: 罗马书 6:9
+    orderIndex: 8
+    osisId: Rom.6.9
+    sblId: Rom 6:9
+    shortName: 罗 6:9
+    text: 因为知道基督既从死人中复活，就不再死，死也不再作他的主了。
+  - name: 罗马书 6:10
+    orderIndex: 9
+    osisId: Rom.6.10
+    sblId: Rom 6:10
+    shortName: 罗 6:10
+    text: 他死了，是对罪死，只这一次；他活，是对上帝活着。
+  - name: 罗马书 6:11
+    orderIndex: 10
+    osisId: Rom.6.11
+    sblId: Rom 6:11
+    shortName: 罗 6:11
+    text: 这样，你们也要看自己对罪是死的，在基督耶稣里对上帝却是活的。
+  - name: 罗马书 6:12
+    orderIndex: 11
+    osisId: Rom.6.12
+    sblId: Rom 6:12
+    shortName: 罗 6:12
+    text: 所以，不要让罪在你们必死的身上掌权，使你们顺从身体的私欲。
+  - name: 罗马书 6:13
+    orderIndex: 12
+    osisId: Rom.6.13
+    sblId: Rom 6:13
+    shortName: 罗 6:13
+    text: 也不要把你们的肢体献给罪作不义的工具，倒要像从死人中活着的人，把自己献给上帝，并把你们的肢体献给上帝作义的工具。
+  - name: 罗马书 6:14
+    orderIndex: 13
+    osisId: Rom.6.14
+    sblId: Rom 6:14
+    shortName: 罗 6:14
+    text: 罪必不能作你们的主，因你们不在律法之下，而是在恩典之下。
+  - name: 罗马书 6:15
+    orderIndex: 14
+    osisId: Rom.6.15
+    sblId: Rom 6:15
+    shortName: 罗 6:15
+    text: 那又怎么样呢？我们在恩典之下，不在律法之下，就可以犯罪吗？绝对不可！
+  - name: 罗马书 6:16
+    orderIndex: 15
+    osisId: Rom.6.16
+    sblId: Rom 6:16
+    shortName: 罗 6:16
+    text: 难道你们不知道，你们献自己作奴仆，顺从谁就作谁的奴仆吗？或作罪的奴隶，以至于死；或作顺服的奴仆，以至于成义。
+  - name: 罗马书 6:17
+    orderIndex: 16
+    osisId: Rom.6.17
+    sblId: Rom 6:17
+    shortName: 罗 6:17
+    text: 感谢上帝！因为你们从前虽然作罪的奴隶，现在却从心里顺服了所传给你们教导的典范。
+  - name: 罗马书 6:18
+    orderIndex: 17
+    osisId: Rom.6.18
+    sblId: Rom 6:18
+    shortName: 罗 6:18
+    text: 你们既从罪里得了释放，就作了义的奴仆。
+  - name: 罗马书 6:19
+    orderIndex: 18
+    osisId: Rom.6.19
+    sblId: Rom 6:19
+    shortName: 罗 6:19
+    text: 我因你们肉体的软弱，就以人的观点来说。你们从前怎样把肢体献给不洁不法作奴隶，以至于不法；现在也要照样将肢体献给义作奴仆，以至于成圣。
+  - name: 罗马书 6:20
+    orderIndex: 19
+    osisId: Rom.6.20
+    sblId: Rom 6:20
+    shortName: 罗 6:20
+    text: 因为你们作罪的奴隶时，不被义所约束。
+  - name: 罗马书 6:21
+    orderIndex: 20
+    osisId: Rom.6.21
+    sblId: Rom 6:21
+    shortName: 罗 6:21
+    text: 那么，你们现在所看为羞耻的事，当时有什么果子呢？那些事的结局就是死。
+  - name: 罗马书 6:22
+    orderIndex: 21
+    osisId: Rom.6.22
+    sblId: Rom 6:22
+    shortName: 罗 6:22
+    text: 但如今，你们既从罪里得了释放，作了上帝的奴仆，就结出果子，以至于成圣，那结局就是永生。
+  - name: 罗马书 6:23
+    orderIndex: 22
+    osisId: Rom.6.23
+    sblId: Rom 6:23
+    shortName: 罗 6:23
+    text: 因为罪的工价乃是死；惟有上帝的恩赐，在我们的主基督耶稣里，乃是永生。
+  versesCount: 23
+- name: 罗马书 7
+  orderIndex: 6
+  osisId: Rom.7
+  sblId: Rom 7
+  shortName: 罗 7
+  verses:
+  - name: 罗马书 7:1
+    orderIndex: 0
+    osisId: Rom.7.1
+    sblId: Rom 7:1
+    shortName: 罗 7:1
+    text: 弟兄们，我对你们这些明白律法的人说，你们岂不知道律法约束人是在他活着的时候吗？
+  - name: 罗马书 7:2
+    orderIndex: 1
+    osisId: Rom.7.2
+    sblId: Rom 7:2
+    shortName: 罗 7:2
+    text: 就如女人有了丈夫，丈夫还活着，她就被律法约束；丈夫若死了，她就从丈夫的律法中解脱了。
+  - name: 罗马书 7:3
+    orderIndex: 2
+    osisId: Rom.7.3
+    sblId: Rom 7:3
+    shortName: 罗 7:3
+    text: 所以丈夫还活着，她若跟了别的男人，就叫淫妇；丈夫若死了，她就脱离了律法，虽然跟了别的男人，也不是淫妇。
+  - name: 罗马书 7:4
+    orderIndex: 3
+    osisId: Rom.7.4
+    sblId: Rom 7:4
+    shortName: 罗 7:4
+    text: 我的弟兄们，这样说来，你们藉着基督的身体对律法也是死了，使你们归于另一位，就是归于那从死人中复活的，为要使我们结果子给上帝。
+  - name: 罗马书 7:5
+    orderIndex: 4
+    osisId: Rom.7.5
+    sblId: Rom 7:5
+    shortName: 罗 7:5
+    text: 因为我们属肉体的时候，那因律法而生犯罪的欲望在我们肢体中发动，以致结出死亡的果子。
+  - name: 罗马书 7:6
+    orderIndex: 5
+    osisId: Rom.7.6
+    sblId: Rom 7:6
+    shortName: 罗 7:6
+    text: 但如今，我们既然在捆绑我们的律法上死了，就从律法中解脱，使我们服侍主，要按着圣灵 的新样，不按着仪文的旧样。
+  - name: 罗马书 7:7
+    orderIndex: 6
+    osisId: Rom.7.7
+    sblId: Rom 7:7
+    shortName: 罗 7:7
+    text: 这样，我们要怎么说呢？律法是罪吗？绝对不是！但是，若不是藉着律法，我就不知何为罪；若不是律法说“不可贪心”，我就不知何为贪心。
+  - name: 罗马书 7:8
+    orderIndex: 7
+    osisId: Rom.7.8
+    sblId: Rom 7:8
+    shortName: 罗 7:8
+    text: 然而，罪趁着机会，藉着诫命，使各样的贪心在我里头发动，因为没有律法，罪是死的。
+  - name: 罗马书 7:9
+    orderIndex: 8
+    osisId: Rom.7.9
+    sblId: Rom 7:9
+    shortName: 罗 7:9
+    text: 以前没有律法的时候，我是活的；但是诫命来到，罪活起来，
+  - name: 罗马书 7:10
+    orderIndex: 9
+    osisId: Rom.7.10
+    sblId: Rom 7:10
+    shortName: 罗 7:10
+    text: 我就死了。那本该叫人活的诫命反而叫我死。
+  - name: 罗马书 7:11
+    orderIndex: 10
+    osisId: Rom.7.11
+    sblId: Rom 7:11
+    shortName: 罗 7:11
+    text: 因为罪趁着机会，藉着诫命诱惑我，并且藉着诫命杀了我。
+  - name: 罗马书 7:12
+    orderIndex: 11
+    osisId: Rom.7.12
+    sblId: Rom 7:12
+    shortName: 罗 7:12
+    text: 这样看来，律法是圣的，诫命也是圣的、义的、善的。
+  - name: 罗马书 7:13
+    orderIndex: 12
+    osisId: Rom.7.13
+    sblId: Rom 7:13
+    shortName: 罗 7:13
+    text: 那么，那善的是叫我死吗？绝对不是！叫我死的是罪。罪藉着那善的叫我死，为要显出这真是罪，以致罪藉着诫命更显出是恶极了。
+  - name: 罗马书 7:14
+    orderIndex: 13
+    osisId: Rom.7.14
+    sblId: Rom 7:14
+    shortName: 罗 7:14
+    text: 我们原知道律法是属灵的，我却是属肉体的，是已经卖给罪了。
+  - name: 罗马书 7:15
+    orderIndex: 14
+    osisId: Rom.7.15
+    sblId: Rom 7:15
+    shortName: 罗 7:15
+    text: 因为我所做的，我自己不明白。我所愿意的，我并不做；我所恨恶的，我反而去做。
+  - name: 罗马书 7:16
+    orderIndex: 15
+    osisId: Rom.7.16
+    sblId: Rom 7:16
+    shortName: 罗 7:16
+    text: 如果我所做的是我所不愿意的，我得承认律法是善的。
+  - name: 罗马书 7:17
+    orderIndex: 16
+    osisId: Rom.7.17
+    sblId: Rom 7:17
+    shortName: 罗 7:17
+    text: 事实上，这不是我做的，而是住在我里面的罪做的。
+  - name: 罗马书 7:18
+    orderIndex: 17
+    osisId: Rom.7.18
+    sblId: Rom 7:18
+    shortName: 罗 7:18
+    text: 我也知道，住在我里面的，就是我肉体之中，没有善。因为立志为善由得我，只是行出来由不得我。
+  - name: 罗马书 7:19
+    orderIndex: 18
+    osisId: Rom.7.19
+    sblId: Rom 7:19
+    shortName: 罗 7:19
+    text: 我所愿意的善，我不去做；我所不愿意的恶，我反而去做。
+  - name: 罗马书 7:20
+    orderIndex: 19
+    osisId: Rom.7.20
+    sblId: Rom 7:20
+    shortName: 罗 7:20
+    text: 如果我去做我不愿意做的，就不是我做的，而是住在我里面的罪做的。
+  - name: 罗马书 7:21
+    orderIndex: 20
+    osisId: Rom.7.21
+    sblId: Rom 7:21
+    shortName: 罗 7:21
+    text: 我觉得有个律，就是我愿意行善的时候，就有恶缠着我。
+  - name: 罗马书 7:22
+    orderIndex: 21
+    osisId: Rom.7.22
+    sblId: Rom 7:22
+    shortName: 罗 7:22
+    text: 因为，按着我里面的人，我喜欢上帝的律，
+  - name: 罗马书 7:23
+    orderIndex: 22
+    osisId: Rom.7.23
+    sblId: Rom 7:23
+    shortName: 罗 7:23
+    text: 但我看出肢体中另有个律和我内心的律交战，把我掳去，使我附从那肢体中罪的律。
+  - name: 罗马书 7:24
+    orderIndex: 23
+    osisId: Rom.7.24
+    sblId: Rom 7:24
+    shortName: 罗 7:24
+    text: 我真苦啊！谁能救我脱离这必死的身体呢？
+  - name: 罗马书 7:25
+    orderIndex: 24
+    osisId: Rom.7.25
+    sblId: Rom 7:25
+    shortName: 罗 7:25
+    text: 感谢上帝，靠着我们的主耶稣基督就能！这样看来，一方面，我内心顺服上帝的律，另一方面，肉体却顺服罪的律了。
+  versesCount: 25
+- name: 罗马书 8
+  orderIndex: 7
+  osisId: Rom.8
+  sblId: Rom 8
+  shortName: 罗 8
+  verses:
+  - name: 罗马书 8:1
+    orderIndex: 0
+    osisId: Rom.8.1
+    sblId: Rom 8:1
+    shortName: 罗 8:1
+    text: 如今，那些在基督耶稣里的人就不被定罪了。
+  - name: 罗马书 8:2
+    orderIndex: 1
+    osisId: Rom.8.2
+    sblId: Rom 8:2
+    shortName: 罗 8:2
+    text: 因为赐生命的圣灵的律，在基督耶稣里从罪和死的律中把你释放出来。
+  - name: 罗马书 8:3
+    orderIndex: 2
+    osisId: Rom.8.3
+    sblId: Rom 8:3
+    shortName: 罗 8:3
+    text: 律法既因肉体软弱而无能为力，上帝就差遣自己的儿子成为罪身的样子，为了对付罪 ，在肉体中定了罪，
+  - name: 罗马书 8:4
+    orderIndex: 3
+    osisId: Rom.8.4
+    sblId: Rom 8:4
+    shortName: 罗 8:4
+    text: 为要使律法要求的义，实现在我们这不随从肉体、只随从圣灵去行的人身上。
+  - name: 罗马书 8:5
+    orderIndex: 4
+    osisId: Rom.8.5
+    sblId: Rom 8:5
+    shortName: 罗 8:5
+    text: 因为，随从肉体的人体贴肉体的事；随从圣灵的人体贴圣灵的事。
+  - name: 罗马书 8:6
+    orderIndex: 5
+    osisId: Rom.8.6
+    sblId: Rom 8:6
+    shortName: 罗 8:6
+    text: 体贴肉体就是死；体贴圣灵就是生命和平安 。
+  - name: 罗马书 8:7
+    orderIndex: 6
+    osisId: Rom.8.7
+    sblId: Rom 8:7
+    shortName: 罗 8:7
+    text: 因为体贴肉体就是与上帝为敌，对上帝的律法不顺服，事实上也无法顺服。
+  - name: 罗马书 8:8
+    orderIndex: 7
+    osisId: Rom.8.8
+    sblId: Rom 8:8
+    shortName: 罗 8:8
+    text: 属肉体的人无法使上帝喜悦。
+  - name: 罗马书 8:9
+    orderIndex: 8
+    osisId: Rom.8.9
+    sblId: Rom 8:9
+    shortName: 罗 8:9
+    text: 如果上帝的灵住在你们里面，你们就不属肉体，而是属圣灵了。人若没有基督的灵，就不是属基督的。
+  - name: 罗马书 8:10
+    orderIndex: 9
+    osisId: Rom.8.10
+    sblId: Rom 8:10
+    shortName: 罗 8:10
+    text: 基督若在你们里面，身体就因罪而死，灵却因义而活。
+  - name: 罗马书 8:11
+    orderIndex: 10
+    osisId: Rom.8.11
+    sblId: Rom 8:11
+    shortName: 罗 8:11
+    text: 然而，使耶稣从死人中复活的上帝的灵若住在你们里面，那使基督从死人中复活的，也必藉着住在你们里面的圣灵使你们必死的身体又活过来。
+  - name: 罗马书 8:12
+    orderIndex: 11
+    osisId: Rom.8.12
+    sblId: Rom 8:12
+    shortName: 罗 8:12
+    text: 弟兄们，这样看来，我们不是欠肉体的债去顺从肉体而活。
+  - name: 罗马书 8:13
+    orderIndex: 12
+    osisId: Rom.8.13
+    sblId: Rom 8:13
+    shortName: 罗 8:13
+    text: 你们若顺从肉体活着，必定会死；若靠着圣灵把身体的恶行处死，就必存活。
+  - name: 罗马书 8:14
+    orderIndex: 13
+    osisId: Rom.8.14
+    sblId: Rom 8:14
+    shortName: 罗 8:14
+    text: 因为凡被上帝的灵引导的都是上帝的儿子。
+  - name: 罗马书 8:15
+    orderIndex: 14
+    osisId: Rom.8.15
+    sblId: Rom 8:15
+    shortName: 罗 8:15
+    text: 你们所领受的不是奴仆的灵，仍旧害怕；所领受的是儿子名分的灵，因此我们呼叫：“阿爸，父！”
+  - name: 罗马书 8:16
+    orderIndex: 15
+    osisId: Rom.8.16
+    sblId: Rom 8:16
+    shortName: 罗 8:16
+    text: 圣灵自己与我们的灵一同见证我们是上帝的儿女。
+  - name: 罗马书 8:17
+    orderIndex: 16
+    osisId: Rom.8.17
+    sblId: Rom 8:17
+    shortName: 罗 8:17
+    text: 若是儿女，就是后嗣，是上帝的后嗣，和基督同作后嗣。如果我们和他一同受苦，是要我们和他一同得荣耀。
+  - name: 罗马书 8:18
+    orderIndex: 17
+    osisId: Rom.8.18
+    sblId: Rom 8:18
+    shortName: 罗 8:18
+    text: 我认为，现在的苦楚，若比起将来要显示给我们的荣耀，是不足介意的。
+  - name: 罗马书 8:19
+    orderIndex: 18
+    osisId: Rom.8.19
+    sblId: Rom 8:19
+    shortName: 罗 8:19
+    text: 受造之物切望等候上帝的众子显出来。
+  - name: 罗马书 8:20
+    orderIndex: 19
+    osisId: Rom.8.20
+    sblId: Rom 8:20
+    shortName: 罗 8:20
+    text: 因为受造之物屈服在虚空之下，不是自己愿意，而是因那使它屈服的叫他如此。但受造之物仍然指望从败坏的辖制下得释放，得享上帝儿女荣耀的自由。
+  - name: 罗马书 8:21
+    orderIndex: 20
+    osisId: Rom.8.21
+    sblId: Rom 8:21
+    shortName: 罗 8:21
+    text: ''
+  - name: 罗马书 8:22
+    orderIndex: 21
+    osisId: Rom.8.22
+    sblId: Rom 8:22
+    shortName: 罗 8:22
+    text: 我们知道，一切受造之物一同呻吟，一同忍受阵痛，直到如今。
+  - name: 罗马书 8:23
+    orderIndex: 22
+    osisId: Rom.8.23
+    sblId: Rom 8:23
+    shortName: 罗 8:23
+    text: 不但如此，就是我们这有圣灵作初熟果子的，也是自己内心呻吟，等候得着儿子的名分，就是我们的身体得救赎。
+  - name: 罗马书 8:24
+    orderIndex: 23
+    osisId: Rom.8.24
+    sblId: Rom 8:24
+    shortName: 罗 8:24
+    text: 我们得救是在于盼望；可是看得见的盼望就不是盼望。谁还去盼望他所看得见的呢？
+  - name: 罗马书 8:25
+    orderIndex: 24
+    osisId: Rom.8.25
+    sblId: Rom 8:25
+    shortName: 罗 8:25
+    text: 但我们若盼望那看不见的，我们就耐心等候。
+  - name: 罗马书 8:26
+    orderIndex: 25
+    osisId: Rom.8.26
+    sblId: Rom 8:26
+    shortName: 罗 8:26
+    text: 同样，我们的软弱有圣灵帮助。我们本不知道当怎样祷告，但是圣灵亲自用无可言喻的叹息替我们祈求。
+  - name: 罗马书 8:27
+    orderIndex: 26
+    osisId: Rom.8.27
+    sblId: Rom 8:27
+    shortName: 罗 8:27
+    text: 那鉴察人心的知道圣灵所体贴的，因为圣灵照着上帝的旨意替圣徒祈求。
+  - name: 罗马书 8:28
+    orderIndex: 27
+    osisId: Rom.8.28
+    sblId: Rom 8:28
+    shortName: 罗 8:28
+    text: 我们知道，万事 都互相效力，叫爱上帝的人得益处，就是按他旨意被召的人。
+  - name: 罗马书 8:29
+    orderIndex: 28
+    osisId: Rom.8.29
+    sblId: Rom 8:29
+    shortName: 罗 8:29
+    text: 因为他所预知的人，他也预定他们效法他儿子的榜样，使他儿子在许多弟兄中作长子 。
+  - name: 罗马书 8:30
+    orderIndex: 29
+    osisId: Rom.8.30
+    sblId: Rom 8:30
+    shortName: 罗 8:30
+    text: 他所预定的人，他又召他们来；所召来的人，他又称他们为义；所称为义的人，他又叫他们得荣耀。
+  - name: 罗马书 8:31
+    orderIndex: 30
+    osisId: Rom.8.31
+    sblId: Rom 8:31
+    shortName: 罗 8:31
+    text: 既是这样，我们对这些事还要怎么说呢？上帝若帮助我们，谁能抵挡我们呢？
+  - name: 罗马书 8:32
+    orderIndex: 31
+    osisId: Rom.8.32
+    sblId: Rom 8:32
+    shortName: 罗 8:32
+    text: 上帝既不顾惜自己的儿子，为我们众人舍了他，岂不也把万物和他一同白白地赐给我们吗？
+  - name: 罗马书 8:33
+    orderIndex: 32
+    osisId: Rom.8.33
+    sblId: Rom 8:33
+    shortName: 罗 8:33
+    text: 谁能控告上帝所拣选的人呢？有上帝称他们为义了。
+  - name: 罗马书 8:34
+    orderIndex: 33
+    osisId: Rom.8.34
+    sblId: Rom 8:34
+    shortName: 罗 8:34
+    text: 谁能定他们的罪呢？有基督耶稣 已经死了，而且复活了，现今在上帝的右边，也替我们祈求。
+  - name: 罗马书 8:35
+    orderIndex: 34
+    osisId: Rom.8.35
+    sblId: Rom 8:35
+    shortName: 罗 8:35
+    text: 谁能使我们与基督的爱隔绝呢？难道是患难吗？是困苦吗？是迫害吗？是饥饿吗？是赤身露体吗？是危险吗？是刀剑吗？
+  - name: 罗马书 8:36
+    orderIndex: 35
+    osisId: Rom.8.36
+    sblId: Rom 8:36
+    shortName: 罗 8:36
+    text: 如经上所记： “我们为你的缘故终日被杀； 人看我们如将宰的羊。”
+  - name: 罗马书 8:37
+    orderIndex: 36
+    osisId: Rom.8.37
+    sblId: Rom 8:37
+    shortName: 罗 8:37
+    text: 然而，靠着爱我们的主，在这一切的事上，我们已经得胜有余了。
+  - name: 罗马书 8:38
+    orderIndex: 37
+    osisId: Rom.8.38
+    sblId: Rom 8:38
+    shortName: 罗 8:38
+    text: 因为我深信，无论是死，是活，是天使，是掌权的，是有权能的 ，是现在的事，是将来的事，
+  - name: 罗马书 8:39
+    orderIndex: 38
+    osisId: Rom.8.39
+    sblId: Rom 8:39
+    shortName: 罗 8:39
+    text: 是高处的，是深处的，是别的受造之物，都不能使我们与上帝的爱隔绝，这爱是在我们的主基督耶稣里的。
+  versesCount: 39
+- name: 罗马书 9
+  orderIndex: 8
+  osisId: Rom.9
+  sblId: Rom 9
+  shortName: 罗 9
+  verses:
+  - name: 罗马书 9:1
+    orderIndex: 0
+    osisId: Rom.9.1
+    sblId: Rom 9:1
+    shortName: 罗 9:1
+    text: 我在基督里说真话，不说谎话；我的良心被圣灵感动为我作证。
+  - name: 罗马书 9:2
+    orderIndex: 1
+    osisId: Rom.9.2
+    sblId: Rom 9:2
+    shortName: 罗 9:2
+    text: 我非常忧愁，心里时常伤痛。
+  - name: 罗马书 9:3
+    orderIndex: 2
+    osisId: Rom.9.3
+    sblId: Rom 9:3
+    shortName: 罗 9:3
+    text: 为我弟兄，我骨肉之亲，就是自己被诅咒，与基督分离，我也愿意。
+  - name: 罗马书 9:4
+    orderIndex: 3
+    osisId: Rom.9.4
+    sblId: Rom 9:4
+    shortName: 罗 9:4
+    text: 他们是 以色列 人，那儿子的名分、荣耀、诸约、律法的颁布、敬拜的礼仪、应许都是给他们的。
+  - name: 罗马书 9:5
+    orderIndex: 4
+    osisId: Rom.9.5
+    sblId: Rom 9:5
+    shortName: 罗 9:5
+    text: 列祖是他们的，基督按肉体说也是从他们出来的。愿在万有之上的上帝被称颂，直到永远 。阿们！
+  - name: 罗马书 9:6
+    orderIndex: 5
+    osisId: Rom.9.6
+    sblId: Rom 9:6
+    shortName: 罗 9:6
+    text: 这不是说上帝的话落了空。因为从 以色列 生的不都是 以色列 人，
+  - name: 罗马书 9:7
+    orderIndex: 6
+    osisId: Rom.9.7
+    sblId: Rom 9:7
+    shortName: 罗 9:7
+    text: 也不因为是 亚伯拉罕 的后裔就都是他的儿女；惟独“从 以撒 生的才要称为你的后裔。”
+  - name: 罗马书 9:8
+    orderIndex: 7
+    osisId: Rom.9.8
+    sblId: Rom 9:8
+    shortName: 罗 9:8
+    text: 这就是说，肉身所生的儿女不是上帝的儿女，惟独那应许的儿女才算是后裔。
+  - name: 罗马书 9:9
+    orderIndex: 8
+    osisId: Rom.9.9
+    sblId: Rom 9:9
+    shortName: 罗 9:9
+    text: 因为所应许的话是这样：“到明年这时候我要来， 撒拉 必会生一个儿子。”
+  - name: 罗马书 9:10
+    orderIndex: 9
+    osisId: Rom.9.10
+    sblId: Rom 9:10
+    shortName: 罗 9:10
+    text: 不但如此， 利百加 也是这样。她从一个人，就是从我们的祖宗 以撒 怀了孕。
+  - name: 罗马书 9:11
+    orderIndex: 10
+    osisId: Rom.9.11
+    sblId: Rom 9:11
+    shortName: 罗 9:11
+    text: 双胞胎还没有生下来，善恶还没有行出来，为要贯彻上帝拣选人的旨意，
+  - name: 罗马书 9:12
+    orderIndex: 11
+    osisId: Rom.9.12
+    sblId: Rom 9:12
+    shortName: 罗 9:12
+    text: 不是凭着人的行为，而是凭着那呼召人的，上帝就对 利百加 说：“将来，大的要服侍小的。”
+  - name: 罗马书 9:13
+    orderIndex: 12
+    osisId: Rom.9.13
+    sblId: Rom 9:13
+    shortName: 罗 9:13
+    text: 正如经上所记：“ 雅各 是我所爱的； 以扫 是我所恶的。”
+  - name: 罗马书 9:14
+    orderIndex: 13
+    osisId: Rom.9.14
+    sblId: Rom 9:14
+    shortName: 罗 9:14
+    text: 这样，我们要怎么说呢？难道上帝有什么不义吗？绝对没有！
+  - name: 罗马书 9:15
+    orderIndex: 14
+    osisId: Rom.9.15
+    sblId: Rom 9:15
+    shortName: 罗 9:15
+    text: 因他对 摩西 说： “我要怜悯谁就怜悯谁， 要恩待谁就恩待谁。”
+  - name: 罗马书 9:16
+    orderIndex: 15
+    osisId: Rom.9.16
+    sblId: Rom 9:16
+    shortName: 罗 9:16
+    text: 由此看来，这不靠人的意愿，也不靠人的努力，只靠上帝的怜悯。
+  - name: 罗马书 9:17
+    orderIndex: 16
+    osisId: Rom.9.17
+    sblId: Rom 9:17
+    shortName: 罗 9:17
+    text: 因为经上有话对法老说：“我将你兴起来，特要在你身上彰显我的权能，为要使我的名传遍全地。”
+  - name: 罗马书 9:18
+    orderIndex: 17
+    osisId: Rom.9.18
+    sblId: Rom 9:18
+    shortName: 罗 9:18
+    text: 由此看来，上帝要怜悯谁就怜悯谁，要使谁刚硬就使谁刚硬。
+  - name: 罗马书 9:19
+    orderIndex: 18
+    osisId: Rom.9.19
+    sblId: Rom 9:19
+    shortName: 罗 9:19
+    text: 这样，你会对我说：“那么，他为什么还指责人呢？有谁能抗拒他的旨意呢？”
+  - name: 罗马书 9:20
+    orderIndex: 19
+    osisId: Rom.9.20
+    sblId: Rom 9:20
+    shortName: 罗 9:20
+    text: 你这个人哪，你是谁，竟敢向上帝顶嘴呢？受造之物岂会对造他的说：“你为什么把我造成这样呢？”
+  - name: 罗马书 9:21
+    orderIndex: 20
+    osisId: Rom.9.21
+    sblId: Rom 9:21
+    shortName: 罗 9:21
+    text: 难道陶匠没有权从一团泥里拿一块做成贵重的器皿，又拿一块做成卑贱的器皿吗？
+  - name: 罗马书 9:22
+    orderIndex: 21
+    osisId: Rom.9.22
+    sblId: Rom 9:22
+    shortName: 罗 9:22
+    text: 倘若上帝要显明他的愤怒，彰显他的权能，难道不可多多忍耐宽容那应受愤怒、预备遭毁灭的器皿吗？
+  - name: 罗马书 9:23
+    orderIndex: 22
+    osisId: Rom.9.23
+    sblId: Rom 9:23
+    shortName: 罗 9:23
+    text: 这是为了要把他丰盛的荣耀彰显在那蒙怜悯、早预备得荣耀的器皿上。
+  - name: 罗马书 9:24
+    orderIndex: 23
+    osisId: Rom.9.24
+    sblId: Rom 9:24
+    shortName: 罗 9:24
+    text: 这器皿也就是我们这些蒙上帝所召的，不但是从 犹太 人中，也是从外邦人中召来的。
+  - name: 罗马书 9:25
+    orderIndex: 24
+    osisId: Rom.9.25
+    sblId: Rom 9:25
+    shortName: 罗 9:25
+    text: 正如上帝在《何西阿书》上说： “那本来不是我子民的， 我要称为‘我的子民’； 本来不是蒙爱的， 我要称为‘蒙爱的’。
+  - name: 罗马书 9:26
+    orderIndex: 25
+    osisId: Rom.9.26
+    sblId: Rom 9:26
+    shortName: 罗 9:26
+    text: 从前在什么地方对他们说： 你们不是我的子民， 将来就在那里称他们为‘永生上帝的儿子’。”
+  - name: 罗马书 9:27
+    orderIndex: 26
+    osisId: Rom.9.27
+    sblId: Rom 9:27
+    shortName: 罗 9:27
+    text: 关于 以色列 人， 以赛亚 喊着：“虽然 以色列 人多如海沙，得救的将是剩下的余数，
+  - name: 罗马书 9:28
+    orderIndex: 27
+    osisId: Rom.9.28
+    sblId: Rom 9:28
+    shortName: 罗 9:28
+    text: 因为主要在地上施行他的话，彻底而又迅速。”
+  - name: 罗马书 9:29
+    orderIndex: 28
+    osisId: Rom.9.29
+    sblId: Rom 9:29
+    shortName: 罗 9:29
+    text: 又如 以赛亚 先前说过： “若不是万军之主给我们存留余种， 我们早已变成 所多玛 ，像 蛾摩拉 一样了。”
+  - name: 罗马书 9:30
+    orderIndex: 29
+    osisId: Rom.9.30
+    sblId: Rom 9:30
+    shortName: 罗 9:30
+    text: 这样，我们要怎么说呢？那不追求义的外邦人却获得了义，就是因信而获得的义。
+  - name: 罗马书 9:31
+    orderIndex: 30
+    osisId: Rom.9.31
+    sblId: Rom 9:31
+    shortName: 罗 9:31
+    text: 但 以色列 人追求律法的义，反而达不到律法的义。
+  - name: 罗马书 9:32
+    orderIndex: 31
+    osisId: Rom.9.32
+    sblId: Rom 9:32
+    shortName: 罗 9:32
+    text: 这是什么缘故呢？是因为他们不凭着信心，而是凭着行为，他们正跌在那绊脚石上。
+  - name: 罗马书 9:33
+    orderIndex: 32
+    osisId: Rom.9.33
+    sblId: Rom 9:33
+    shortName: 罗 9:33
+    text: 就如经上所记： “我在 锡安 放一块绊脚的石头，使人跌倒的磐石； 信靠他的人必不蒙羞。”
+  versesCount: 33
+- name: 罗马书 10
+  orderIndex: 9
+  osisId: Rom.10
+  sblId: Rom 10
+  shortName: 罗 10
+  verses:
+  - name: 罗马书 10:1
+    orderIndex: 0
+    osisId: Rom.10.1
+    sblId: Rom 10:1
+    shortName: 罗 10:1
+    text: 弟兄们，我心里所渴望的和向上帝所求的，是要 以色列 人得救。
+  - name: 罗马书 10:2
+    orderIndex: 1
+    osisId: Rom.10.2
+    sblId: Rom 10:2
+    shortName: 罗 10:2
+    text: 我为他们作证，他们对上帝有热心，但不是按着真知识。
+  - name: 罗马书 10:3
+    orderIndex: 2
+    osisId: Rom.10.3
+    sblId: Rom 10:3
+    shortName: 罗 10:3
+    text: 因为不明白上帝的义，想要立自己的义，他们就不服上帝的义了。
+  - name: 罗马书 10:4
+    orderIndex: 3
+    osisId: Rom.10.4
+    sblId: Rom 10:4
+    shortName: 罗 10:4
+    text: 律法的总结就是基督，使所有信他的人都得着义。
+  - name: 罗马书 10:5
+    orderIndex: 4
+    osisId: Rom.10.5
+    sblId: Rom 10:5
+    shortName: 罗 10:5
+    text: 论到出于律法的义， 摩西 写着：“行这些事的人，就必因此得生。”
+  - name: 罗马书 10:6
+    orderIndex: 5
+    osisId: Rom.10.6
+    sblId: Rom 10:6
+    shortName: 罗 10:6
+    text: 但出于信的义却如此说：“你不要心里说：谁要升到天上去呢？（就是说，把基督领下来。）
+  - name: 罗马书 10:7
+    orderIndex: 6
+    osisId: Rom.10.7
+    sblId: Rom 10:7
+    shortName: 罗 10:7
+    text: 或说：谁要下到阴间去呢？（就是说，把基督从死人中领上来。）”
+  - name: 罗马书 10:8
+    orderIndex: 7
+    osisId: Rom.10.8
+    sblId: Rom 10:8
+    shortName: 罗 10:8
+    text: 他到底怎么说呢？ “这话语就离你近， 就在你口中，在你心里，” （就是说，我们传扬所信的话语。）
+  - name: 罗马书 10:9
+    orderIndex: 8
+    osisId: Rom.10.9
+    sblId: Rom 10:9
+    shortName: 罗 10:9
+    text: 你若口里宣认耶稣为主，心里信上帝叫他从死人中复活，就必得救。
+  - name: 罗马书 10:10
+    orderIndex: 9
+    osisId: Rom.10.10
+    sblId: Rom 10:10
+    shortName: 罗 10:10
+    text: 因为，人心里信就可以称义，口里宣认就可以得救。
+  - name: 罗马书 10:11
+    orderIndex: 10
+    osisId: Rom.10.11
+    sblId: Rom 10:11
+    shortName: 罗 10:11
+    text: 经上说：“凡信靠他的人必不蒙羞。”
+  - name: 罗马书 10:12
+    orderIndex: 11
+    osisId: Rom.10.12
+    sblId: Rom 10:12
+    shortName: 罗 10:12
+    text: 犹太 人和 希腊 人并没有分别，因为人人都有同一位主，他也厚待求告他的每一个人。
+  - name: 罗马书 10:13
+    orderIndex: 12
+    osisId: Rom.10.13
+    sblId: Rom 10:13
+    shortName: 罗 10:13
+    text: 因为“凡求告主名的就必得救”。
+  - name: 罗马书 10:14
+    orderIndex: 13
+    osisId: Rom.10.14
+    sblId: Rom 10:14
+    shortName: 罗 10:14
+    text: 然而，人未曾信他，怎能求告他呢？未曾听见他，怎能信他呢？没有传道的，怎能听见呢？
+  - name: 罗马书 10:15
+    orderIndex: 14
+    osisId: Rom.10.15
+    sblId: Rom 10:15
+    shortName: 罗 10:15
+    text: 若没有奉差遣，怎能传道呢？如经上所记：“报福音、传喜信的人，他们的脚踪何等佳美！”
+  - name: 罗马书 10:16
+    orderIndex: 15
+    osisId: Rom.10.16
+    sblId: Rom 10:16
+    shortName: 罗 10:16
+    text: 但不是每一个人都听从福音，因为 以赛亚 说：“主啊，我们所传的有谁信呢？”
+  - name: 罗马书 10:17
+    orderIndex: 16
+    osisId: Rom.10.17
+    sblId: Rom 10:17
+    shortName: 罗 10:17
+    text: 可见，信道是从听道来的，听道是从基督的话来的。
+  - name: 罗马书 10:18
+    orderIndex: 17
+    osisId: Rom.10.18
+    sblId: Rom 10:18
+    shortName: 罗 10:18
+    text: 但我要问，人没有听见吗？当然听见了。 “他们的声音传遍全地； 他们的言语传到地极。”
+  - name: 罗马书 10:19
+    orderIndex: 18
+    osisId: Rom.10.19
+    sblId: Rom 10:19
+    shortName: 罗 10:19
+    text: 我再问， 以色列 人不知道吗？先有 摩西 说： “我要以不成国的激起你们嫉妒； 我要以愚顽的国惹起你们发怒。”
+  - name: 罗马书 10:20
+    orderIndex: 19
+    osisId: Rom.10.20
+    sblId: Rom 10:20
+    shortName: 罗 10:20
+    text: 又有 以赛亚 放胆说： “没有寻找我的，我要让他们寻见； 没有求问我的，我要向他们显现。”
+  - name: 罗马书 10:21
+    orderIndex: 20
+    osisId: Rom.10.21
+    sblId: Rom 10:21
+    shortName: 罗 10:21
+    text: 关于 以色列 人，他说：“我整天向那悖逆顶嘴的百姓招手。”
+  versesCount: 21
+- name: 罗马书 11
+  orderIndex: 10
+  osisId: Rom.11
+  sblId: Rom 11
+  shortName: 罗 11
+  verses:
+  - name: 罗马书 11:1
+    orderIndex: 0
+    osisId: Rom.11.1
+    sblId: Rom 11:1
+    shortName: 罗 11:1
+    text: 那么，我要问，上帝弃绝了他的百姓吗？绝对没有！因为我也是 以色列 人， 亚伯拉罕 的后裔，属 便雅悯 支派的。
+  - name: 罗马书 11:2
+    orderIndex: 1
+    osisId: Rom.11.2
+    sblId: Rom 11:2
+    shortName: 罗 11:2
+    text: 上帝并没有弃绝他预先所知道的百姓。你们岂不知道经上论到 以利亚 是怎么说的呢？他在上帝面前怎样控告 以色列 人说：
+  - name: 罗马书 11:3
+    orderIndex: 2
+    osisId: Rom.11.3
+    sblId: Rom 11:3
+    shortName: 罗 11:3
+    text: “主啊，他们杀了你的先知，拆了你的祭坛，只剩下我一个人，他们还要我的命。”
+  - name: 罗马书 11:4
+    orderIndex: 3
+    osisId: Rom.11.4
+    sblId: Rom 11:4
+    shortName: 罗 11:4
+    text: 但上帝的指示是怎么对他说的呢？他说：“我为自己留下七千人，是未曾向 巴力 屈膝的。”
+  - name: 罗马书 11:5
+    orderIndex: 4
+    osisId: Rom.11.5
+    sblId: Rom 11:5
+    shortName: 罗 11:5
+    text: 现在这时刻也是这样，照着出于恩典的拣选，还有所留的余数。
+  - name: 罗马书 11:6
+    orderIndex: 5
+    osisId: Rom.11.6
+    sblId: Rom 11:6
+    shortName: 罗 11:6
+    text: 既是靠恩典，就不凭行为，不然，恩典就不再是恩典了。
+  - name: 罗马书 11:7
+    orderIndex: 6
+    osisId: Rom.11.7
+    sblId: Rom 11:7
+    shortName: 罗 11:7
+    text: 那又怎么说呢？ 以色列 人所寻求的，他们没有得着。但是蒙拣选的人得着了，其余的人却成了顽梗不化的。
+  - name: 罗马书 11:8
+    orderIndex: 7
+    osisId: Rom.11.8
+    sblId: Rom 11:8
+    shortName: 罗 11:8
+    text: 如经上所记： “上帝给他们昏沉的灵， 眼睛看不见， 耳朵听不到， 直到今日。”
+  - name: 罗马书 11:9
+    orderIndex: 8
+    osisId: Rom.11.9
+    sblId: Rom 11:9
+    shortName: 罗 11:9
+    text: 大卫 也说： “愿他们的宴席变为罗网，变为陷阱， 变为绊脚石，作他们的报应。
+  - name: 罗马书 11:10
+    orderIndex: 9
+    osisId: Rom.11.10
+    sblId: Rom 11:10
+    shortName: 罗 11:10
+    text: 愿他们的眼睛昏花，看不见； 愿你时常弯下他们的腰。”
+  - name: 罗马书 11:11
+    orderIndex: 10
+    osisId: Rom.11.11
+    sblId: Rom 11:11
+    shortName: 罗 11:11
+    text: 那么，我再问，他们失足是要他们跌倒吗？绝对不是！因他们的过犯，救恩反而临到外邦人，要激起他们嫉妒的心。
+  - name: 罗马书 11:12
+    orderIndex: 11
+    osisId: Rom.11.12
+    sblId: Rom 11:12
+    shortName: 罗 11:12
+    text: 如果他们的过犯成为世界的富足，他们的缺乏成为外邦人的富足，更何况他们全数得救呢？
+  - name: 罗马书 11:13
+    orderIndex: 12
+    osisId: Rom.11.13
+    sblId: Rom 11:13
+    shortName: 罗 11:13
+    text: 我对你们外邦人说，正因为我是外邦人的使徒，我敬重我的职分，
+  - name: 罗马书 11:14
+    orderIndex: 13
+    osisId: Rom.11.14
+    sblId: Rom 11:14
+    shortName: 罗 11:14
+    text: 希望可以激起我骨肉之亲的嫉妒，好救他们一些人。
+  - name: 罗马书 11:15
+    orderIndex: 14
+    osisId: Rom.11.15
+    sblId: Rom 11:15
+    shortName: 罗 11:15
+    text: 如果他们被丢弃，世界因而得以与上帝和好；他们被收纳，岂不就是从死人中复生吗？
+  - name: 罗马书 11:16
+    orderIndex: 15
+    osisId: Rom.11.16
+    sblId: Rom 11:16
+    shortName: 罗 11:16
+    text: 所献的新面若圣洁，整个面团都圣洁了；树根若圣洁，树枝也圣洁了。
+  - name: 罗马书 11:17
+    orderIndex: 16
+    osisId: Rom.11.17
+    sblId: Rom 11:17
+    shortName: 罗 11:17
+    text: 若有几根枝子被折下来，你这野橄榄枝接上去，同享橄榄根的肥汁，
+  - name: 罗马书 11:18
+    orderIndex: 17
+    osisId: Rom.11.18
+    sblId: Rom 11:18
+    shortName: 罗 11:18
+    text: 你就不可向旧枝子夸口；若是夸口，该知道不是你托着根，而是根托着你。
+  - name: 罗马书 11:19
+    orderIndex: 18
+    osisId: Rom.11.19
+    sblId: Rom 11:19
+    shortName: 罗 11:19
+    text: 你会说，那些枝子被折下来是为了使我接上去。
+  - name: 罗马书 11:20
+    orderIndex: 19
+    osisId: Rom.11.20
+    sblId: Rom 11:20
+    shortName: 罗 11:20
+    text: 不错。他们因为不信，所以被折下来；你因为信，所以立得住。你不可自高，反要战战兢兢。
+  - name: 罗马书 11:21
+    orderIndex: 20
+    osisId: Rom.11.21
+    sblId: Rom 11:21
+    shortName: 罗 11:21
+    text: 上帝既然不顾惜原来的枝子，岂会顾惜你？
+  - name: 罗马书 11:22
+    orderIndex: 21
+    osisId: Rom.11.22
+    sblId: Rom 11:22
+    shortName: 罗 11:22
+    text: 可见，上帝又恩慈又严厉：对那跌倒的人是严厉的；对你是恩慈的，只要你长久在他的恩慈里，不然，你也要被砍下来。
+  - name: 罗马书 11:23
+    orderIndex: 22
+    osisId: Rom.11.23
+    sblId: Rom 11:23
+    shortName: 罗 11:23
+    text: 而且，他们若不是长久不信，仍要被接上，因为上帝能够重新把他们接上去。
+  - name: 罗马书 11:24
+    orderIndex: 23
+    osisId: Rom.11.24
+    sblId: Rom 11:24
+    shortName: 罗 11:24
+    text: 你是从那天生的野橄榄上砍下来的，尚且违反自然地接在好橄榄上，何况这些原来的枝子岂不更要接在原树上吗？
+  - name: 罗马书 11:25
+    orderIndex: 24
+    osisId: Rom.11.25
+    sblId: Rom 11:25
+    shortName: 罗 11:25
+    text: 弟兄们，我不愿意你们不知道这奥秘，恐怕你们自以为聪明。这奥秘就是有一部分 以色列 人是硬心的，等到外邦人的数目添满了，
+  - name: 罗马书 11:26
+    orderIndex: 25
+    osisId: Rom.11.26
+    sblId: Rom 11:26
+    shortName: 罗 11:26
+    text: 以色列 全家都要得救。如经上所记： “必有一位救主从 锡安 出来， 要消除 雅各 家一切不虔不敬。”
+  - name: 罗马书 11:27
+    orderIndex: 26
+    osisId: Rom.11.27
+    sblId: Rom 11:27
+    shortName: 罗 11:27
+    text: “这就是我与他们所立的约， 那时我要除去他们的罪。”
+  - name: 罗马书 11:28
+    orderIndex: 27
+    osisId: Rom.11.28
+    sblId: Rom 11:28
+    shortName: 罗 11:28
+    text: 就福音来说，他们为你们的缘故是仇敌；就拣选来说，他们因列祖的缘故是蒙爱的。
+  - name: 罗马书 11:29
+    orderIndex: 28
+    osisId: Rom.11.29
+    sblId: Rom 11:29
+    shortName: 罗 11:29
+    text: 因为上帝的恩赐和选召是不会撤回的。
+  - name: 罗马书 11:30
+    orderIndex: 29
+    osisId: Rom.11.30
+    sblId: Rom 11:30
+    shortName: 罗 11:30
+    text: 你们从前不顺服上帝，如今因他们的不顺服，你们倒蒙了怜悯。
+  - name: 罗马书 11:31
+    orderIndex: 30
+    osisId: Rom.11.31
+    sblId: Rom 11:31
+    shortName: 罗 11:31
+    text: 同样，他们现在也是不顺服，叫他们因着施给你们的怜悯，现在 也就蒙怜悯。
+  - name: 罗马书 11:32
+    orderIndex: 31
+    osisId: Rom.11.32
+    sblId: Rom 11:32
+    shortName: 罗 11:32
+    text: 因为上帝把众人都圈在不顺服中，为的是要怜悯众人。
+  - name: 罗马书 11:33
+    orderIndex: 32
+    osisId: Rom.11.33
+    sblId: Rom 11:33
+    shortName: 罗 11:33
+    text: 深哉，上帝的丰富、智慧和知识！ 他的判断何其难测！ 他的踪迹何其难寻！
+  - name: 罗马书 11:34
+    orderIndex: 33
+    osisId: Rom.11.34
+    sblId: Rom 11:34
+    shortName: 罗 11:34
+    text: 谁知道主的心？ 谁作过他的谋士？
+  - name: 罗马书 11:35
+    orderIndex: 34
+    osisId: Rom.11.35
+    sblId: Rom 11:35
+    shortName: 罗 11:35
+    text: 谁先给了他， 使他后来偿还呢？
+  - name: 罗马书 11:36
+    orderIndex: 35
+    osisId: Rom.11.36
+    sblId: Rom 11:36
+    shortName: 罗 11:36
+    text: 因为万有都是本于他， 倚靠他，归于他。 愿荣耀归给他，直到永远。阿们！
+  versesCount: 36
+- name: 罗马书 12
+  orderIndex: 11
+  osisId: Rom.12
+  sblId: Rom 12
+  shortName: 罗 12
+  verses:
+  - name: 罗马书 12:1
+    orderIndex: 0
+    osisId: Rom.12.1
+    sblId: Rom 12:1
+    shortName: 罗 12:1
+    text: 所以，弟兄们，我以上帝的慈悲劝你们，将身体献上当作活祭，是圣洁的，是上帝所喜悦的，你们如此事奉乃是理所当然的 。
+  - name: 罗马书 12:2
+    orderIndex: 1
+    osisId: Rom.12.2
+    sblId: Rom 12:2
+    shortName: 罗 12:2
+    text: 不要效法这个世界，只要心意更新而变化，叫你们察验何为上帝的善良、纯全、可喜悦的旨意。
+  - name: 罗马书 12:3
+    orderIndex: 2
+    osisId: Rom.12.3
+    sblId: Rom 12:3
+    shortName: 罗 12:3
+    text: 我凭着所赐我的恩对你们每一位说：不要把自己看得太高，要照着上帝所分给各人的信心来衡量，看得合乎中道。
+  - name: 罗马书 12:4
+    orderIndex: 3
+    osisId: Rom.12.4
+    sblId: Rom 12:4
+    shortName: 罗 12:4
+    text: 正如我们一个身子上有好些肢体，肢体也不都有一样的用处。
+  - name: 罗马书 12:5
+    orderIndex: 4
+    osisId: Rom.12.5
+    sblId: Rom 12:5
+    shortName: 罗 12:5
+    text: 这样，我们许多人在基督里是一个身体，互相联络作肢体。
+  - name: 罗马书 12:6
+    orderIndex: 5
+    osisId: Rom.12.6
+    sblId: Rom 12:6
+    shortName: 罗 12:6
+    text: 按着所得的恩典，我们各有不同的恩赐：或说预言，要按着信心的程度说预言；
+  - name: 罗马书 12:7
+    orderIndex: 6
+    osisId: Rom.12.7
+    sblId: Rom 12:7
+    shortName: 罗 12:7
+    text: 或服事的，要专一服事；或教导的，要专一教导；
+  - name: 罗马书 12:8
+    orderIndex: 7
+    osisId: Rom.12.8
+    sblId: Rom 12:8
+    shortName: 罗 12:8
+    text: 或劝勉的，要专一劝勉；施舍的，要诚实；治理的，要殷勤；怜悯人的，要乐意。
+  - name: 罗马书 12:9
+    orderIndex: 8
+    osisId: Rom.12.9
+    sblId: Rom 12:9
+    shortName: 罗 12:9
+    text: 爱，不可虚假；恶，要厌恶；善，要亲近。
+  - name: 罗马书 12:10
+    orderIndex: 9
+    osisId: Rom.12.10
+    sblId: Rom 12:10
+    shortName: 罗 12:10
+    text: 爱弟兄，要相亲相爱；恭敬人，要彼此推让；
+  - name: 罗马书 12:11
+    orderIndex: 10
+    osisId: Rom.12.11
+    sblId: Rom 12:11
+    shortName: 罗 12:11
+    text: 殷勤，不可懒惰。要灵里火热；常常服侍主。
+  - name: 罗马书 12:12
+    orderIndex: 11
+    osisId: Rom.12.12
+    sblId: Rom 12:12
+    shortName: 罗 12:12
+    text: 在盼望中要喜乐；在患难中要忍耐；祷告要恒切。
+  - name: 罗马书 12:13
+    orderIndex: 12
+    osisId: Rom.12.13
+    sblId: Rom 12:13
+    shortName: 罗 12:13
+    text: 圣徒有缺乏，要供给；异乡客，要殷勤款待。
+  - name: 罗马书 12:14
+    orderIndex: 13
+    osisId: Rom.12.14
+    sblId: Rom 12:14
+    shortName: 罗 12:14
+    text: 要祝福迫害你们 的，要祝福，不可诅咒。
+  - name: 罗马书 12:15
+    orderIndex: 14
+    osisId: Rom.12.15
+    sblId: Rom 12:15
+    shortName: 罗 12:15
+    text: 要与喜乐的人同乐；要与哀哭的人同哭。
+  - name: 罗马书 12:16
+    orderIndex: 15
+    osisId: Rom.12.16
+    sblId: Rom 12:16
+    shortName: 罗 12:16
+    text: 要彼此同心，不要心高气傲，倒要俯就卑微的人。不要自以为聪明。
+  - name: 罗马书 12:17
+    orderIndex: 16
+    osisId: Rom.12.17
+    sblId: Rom 12:17
+    shortName: 罗 12:17
+    text: 不要以恶报恶，众人以为美的事要留心去做。
+  - name: 罗马书 12:18
+    orderIndex: 17
+    osisId: Rom.12.18
+    sblId: Rom 12:18
+    shortName: 罗 12:18
+    text: 若是可行，总要尽力与众人和睦。
+  - name: 罗马书 12:19
+    orderIndex: 18
+    osisId: Rom.12.19
+    sblId: Rom 12:19
+    shortName: 罗 12:19
+    text: 各位亲爱的，不要自己伸冤，宁可给主的愤怒留地步，因为经上记着：“主说：‘伸冤在我，我必报应。’”
+  - name: 罗马书 12:20
+    orderIndex: 19
+    osisId: Rom.12.20
+    sblId: Rom 12:20
+    shortName: 罗 12:20
+    text: 不但如此，“你的仇敌若饿了，就给他吃；若渴了，就给他喝。因为你这样做，就是把炭火堆在他的头上。”
+  - name: 罗马书 12:21
+    orderIndex: 20
+    osisId: Rom.12.21
+    sblId: Rom 12:21
+    shortName: 罗 12:21
+    text: 不要被恶所胜，反要以善胜恶。
+  versesCount: 21
+- name: 罗马书 13
+  orderIndex: 12
+  osisId: Rom.13
+  sblId: Rom 13
+  shortName: 罗 13
+  verses:
+  - name: 罗马书 13:1
+    orderIndex: 0
+    osisId: Rom.13.1
+    sblId: Rom 13:1
+    shortName: 罗 13:1
+    text: 在上有权柄的，人人要顺服，因为没有权柄不是来自上帝的。掌权的都是上帝所立的。
+  - name: 罗马书 13:2
+    orderIndex: 1
+    osisId: Rom.13.2
+    sblId: Rom 13:2
+    shortName: 罗 13:2
+    text: 所以，抗拒掌权的就是抗拒上帝所立的；抗拒的人必自招审判。
+  - name: 罗马书 13:3
+    orderIndex: 2
+    osisId: Rom.13.3
+    sblId: Rom 13:3
+    shortName: 罗 13:3
+    text: 作官的原不是要使行善的惧怕，而是要使作恶的惧怕。你愿意不惧怕掌权的吗？只要行善，你就可得他的称赞；
+  - name: 罗马书 13:4
+    orderIndex: 3
+    osisId: Rom.13.4
+    sblId: Rom 13:4
+    shortName: 罗 13:4
+    text: 因为他是上帝的用人，是与你有益的。你若作恶，就该惧怕，因为他不是徒然佩剑；他是上帝的用人，为上帝的愤怒，报应作恶的。
+  - name: 罗马书 13:5
+    orderIndex: 4
+    osisId: Rom.13.5
+    sblId: Rom 13:5
+    shortName: 罗 13:5
+    text: 所以，你们必须顺服，不但是因上帝的愤怒，也是因着良心。
+  - name: 罗马书 13:6
+    orderIndex: 5
+    osisId: Rom.13.6
+    sblId: Rom 13:6
+    shortName: 罗 13:6
+    text: 你们纳粮也为这个缘故，因他们是上帝的仆役，专管这事。
+  - name: 罗马书 13:7
+    orderIndex: 6
+    osisId: Rom.13.7
+    sblId: Rom 13:7
+    shortName: 罗 13:7
+    text: 凡人所当得的，就给他。当得粮的，给他纳粮；当得税的，给他上税；当惧怕的，惧怕他；当恭敬的，恭敬他。
+  - name: 罗马书 13:8
+    orderIndex: 7
+    osisId: Rom.13.8
+    sblId: Rom 13:8
+    shortName: 罗 13:8
+    text: 你们除了彼此相爱，对任何人都不可亏欠什么，因为那爱人的就成全了律法。
+  - name: 罗马书 13:9
+    orderIndex: 8
+    osisId: Rom.13.9
+    sblId: Rom 13:9
+    shortName: 罗 13:9
+    text: 那不可奸淫，不可杀人，不可偷盗，不可贪婪，或别的诫命，都包括在“爱邻 如己”这一句话之内了。
+  - name: 罗马书 13:10
+    orderIndex: 9
+    osisId: Rom.13.10
+    sblId: Rom 13:10
+    shortName: 罗 13:10
+    text: 爱是不对邻人作恶，所以爱就成全了律法。
+  - name: 罗马书 13:11
+    orderIndex: 10
+    osisId: Rom.13.11
+    sblId: Rom 13:11
+    shortName: 罗 13:11
+    text: 还有，你们要知道，现在正是该从睡梦中醒来的时候了；因为我们得救，现在比初信的时候更近了。
+  - name: 罗马书 13:12
+    orderIndex: 11
+    osisId: Rom.13.12
+    sblId: Rom 13:12
+    shortName: 罗 13:12
+    text: 黑夜已深，白昼将近。所以我们该除去暗昧的行为，带上光明的兵器。
+  - name: 罗马书 13:13
+    orderIndex: 12
+    osisId: Rom.13.13
+    sblId: Rom 13:13
+    shortName: 罗 13:13
+    text: 行事为人要端正，好像在白昼行走。不可荒宴醉酒；不可好色淫荡；不可纷争嫉妒。
+  - name: 罗马书 13:14
+    orderIndex: 13
+    osisId: Rom.13.14
+    sblId: Rom 13:14
+    shortName: 罗 13:14
+    text: 总要披戴主耶稣基督，不要只顾满足肉体，去放纵私欲。
+  versesCount: 14
+- name: 罗马书 14
+  orderIndex: 13
+  osisId: Rom.14
+  sblId: Rom 14
+  shortName: 罗 14
+  verses:
+  - name: 罗马书 14:1
+    orderIndex: 0
+    osisId: Rom.14.1
+    sblId: Rom 14:1
+    shortName: 罗 14:1
+    text: 信心软弱的，你们要接纳，不同的意见，不要争论。
+  - name: 罗马书 14:2
+    orderIndex: 1
+    osisId: Rom.14.2
+    sblId: Rom 14:2
+    shortName: 罗 14:2
+    text: 有人信什么都可吃；但那软弱的，只吃蔬菜。
+  - name: 罗马书 14:3
+    orderIndex: 2
+    osisId: Rom.14.3
+    sblId: Rom 14:3
+    shortName: 罗 14:3
+    text: 吃的人不可轻看不吃的人；不吃的人也不可评断吃的人，因为上帝已经接纳他了。
+  - name: 罗马书 14:4
+    orderIndex: 3
+    osisId: Rom.14.4
+    sblId: Rom 14:4
+    shortName: 罗 14:4
+    text: 你是谁，竟评断别人的仆人呢？他或站立或跌倒，自有他的主人在，而且他也必会站立，因为主能使他站稳。
+  - name: 罗马书 14:5
+    orderIndex: 4
+    osisId: Rom.14.5
+    sblId: Rom 14:5
+    shortName: 罗 14:5
+    text: 有人看这日比那日强；有人看日日都是一样。只是各人要在自己的心意上坚定。
+  - name: 罗马书 14:6
+    orderIndex: 5
+    osisId: Rom.14.6
+    sblId: Rom 14:6
+    shortName: 罗 14:6
+    text: 守日子的人是为主守的。吃的人是为主吃的，因他感谢上帝；不吃的人是为主不吃的，他也感谢上帝。
+  - name: 罗马书 14:7
+    orderIndex: 6
+    osisId: Rom.14.7
+    sblId: Rom 14:7
+    shortName: 罗 14:7
+    text: 我们没有一个人为自己而活，也没有一个人为自己而死。
+  - name: 罗马书 14:8
+    orderIndex: 7
+    osisId: Rom.14.8
+    sblId: Rom 14:8
+    shortName: 罗 14:8
+    text: 我们若活，是为主而活；我们若死，是为主而死。所以，我们或死或活总是主的人。
+  - name: 罗马书 14:9
+    orderIndex: 8
+    osisId: Rom.14.9
+    sblId: Rom 14:9
+    shortName: 罗 14:9
+    text: 为此，基督死了，又活了，为要作死人和活人的主。
+  - name: 罗马书 14:10
+    orderIndex: 9
+    osisId: Rom.14.10
+    sblId: Rom 14:10
+    shortName: 罗 14:10
+    text: 可是你，你为什么评断弟兄呢？你又为什么轻看弟兄呢？因我们都要站在上帝的审判台前。
+  - name: 罗马书 14:11
+    orderIndex: 10
+    osisId: Rom.14.11
+    sblId: Rom 14:11
+    shortName: 罗 14:11
+    text: 经上写着： “主说，我指着我的永生起誓： 万膝必向我跪拜； 万口必称颂上帝。”
+  - name: 罗马书 14:12
+    orderIndex: 11
+    osisId: Rom.14.12
+    sblId: Rom 14:12
+    shortName: 罗 14:12
+    text: 这样看来，我们各人一定要把自己的事在上帝面前 交代。
+  - name: 罗马书 14:13
+    orderIndex: 12
+    osisId: Rom.14.13
+    sblId: Rom 14:13
+    shortName: 罗 14:13
+    text: 所以，我们不可再彼此评断，宁可决意不给弟兄放置障碍或绊脚石。
+  - name: 罗马书 14:14
+    orderIndex: 13
+    osisId: Rom.14.14
+    sblId: Rom 14:14
+    shortName: 罗 14:14
+    text: 我凭着主耶稣确知深信，凡物本来没有不洁净的，除非人以为不洁净的，在他就不洁净了。
+  - name: 罗马书 14:15
+    orderIndex: 14
+    osisId: Rom.14.15
+    sblId: Rom 14:15
+    shortName: 罗 14:15
+    text: 你若因食物使弟兄忧愁，就不是按着爱心行事。基督已经为他死，你不可因你的食物使他败坏。
+  - name: 罗马书 14:16
+    orderIndex: 15
+    osisId: Rom.14.16
+    sblId: Rom 14:16
+    shortName: 罗 14:16
+    text: 所以，不可让你们的善被人毁谤。
+  - name: 罗马书 14:17
+    orderIndex: 16
+    osisId: Rom.14.17
+    sblId: Rom 14:17
+    shortName: 罗 14:17
+    text: 因为上帝的国不在乎饮食，而在乎公义、和平及圣灵中的喜乐 。
+  - name: 罗马书 14:18
+    orderIndex: 17
+    osisId: Rom.14.18
+    sblId: Rom 14:18
+    shortName: 罗 14:18
+    text: 凡这样服侍基督的，就为上帝所喜悦，又为人所赞许。
+  - name: 罗马书 14:19
+    orderIndex: 18
+    osisId: Rom.14.19
+    sblId: Rom 14:19
+    shortName: 罗 14:19
+    text: 所以，我们务要追求 和平与彼此造就的事。
+  - name: 罗马书 14:20
+    orderIndex: 19
+    osisId: Rom.14.20
+    sblId: Rom 14:20
+    shortName: 罗 14:20
+    text: 不可因食物毁坏上帝的工作。一切都是洁净的，但有人因食物使人跌倒，这在他就是恶了。
+  - name: 罗马书 14:21
+    orderIndex: 20
+    osisId: Rom.14.21
+    sblId: Rom 14:21
+    shortName: 罗 14:21
+    text: 无论是吃肉是喝酒，是什么别的事，使弟兄跌倒，一概不做，才是善的。
+  - name: 罗马书 14:22
+    orderIndex: 21
+    osisId: Rom.14.22
+    sblId: Rom 14:22
+    shortName: 罗 14:22
+    text: 你有信心，就要在上帝面前持守。人能在自己以为可行的事上不自责就有福了。
+  - name: 罗马书 14:23
+    orderIndex: 22
+    osisId: Rom.14.23
+    sblId: Rom 14:23
+    shortName: 罗 14:23
+    text: 若有人疑惑而吃的，就被定罪，因为他吃不是出于信心。凡不出于信心的都是罪。
+  versesCount: 23
+- name: 罗马书 15
+  orderIndex: 14
+  osisId: Rom.15
+  sblId: Rom 15
+  shortName: 罗 15
+  verses:
+  - name: 罗马书 15:1
+    orderIndex: 0
+    osisId: Rom.15.1
+    sblId: Rom 15:1
+    shortName: 罗 15:1
+    text: 我们坚强的人应该分担不坚强的人的软弱，不求自己的喜悦。
+  - name: 罗马书 15:2
+    orderIndex: 1
+    osisId: Rom.15.2
+    sblId: Rom 15:2
+    shortName: 罗 15:2
+    text: 我们各人务必要让邻人喜悦，使他得益处，得造就。
+  - name: 罗马书 15:3
+    orderIndex: 2
+    osisId: Rom.15.3
+    sblId: Rom 15:3
+    shortName: 罗 15:3
+    text: 因为基督也不求自己的喜悦，如经上所记：“辱骂你的人的辱骂都落在我身上。”
+  - name: 罗马书 15:4
+    orderIndex: 3
+    osisId: Rom.15.4
+    sblId: Rom 15:4
+    shortName: 罗 15:4
+    text: 从前所写的圣经都是为教导我们写的，要使我们藉着忍耐和因圣经所生的安慰，得着盼望。
+  - name: 罗马书 15:5
+    orderIndex: 4
+    osisId: Rom.15.5
+    sblId: Rom 15:5
+    shortName: 罗 15:5
+    text: 但愿赐忍耐和安慰的上帝使你们彼此同心，效法基督耶稣，
+  - name: 罗马书 15:6
+    orderIndex: 5
+    osisId: Rom.15.6
+    sblId: Rom 15:6
+    shortName: 罗 15:6
+    text: 为使你们同心同声荣耀我们主耶稣基督的父上帝！
+  - name: 罗马书 15:7
+    orderIndex: 6
+    osisId: Rom.15.7
+    sblId: Rom 15:7
+    shortName: 罗 15:7
+    text: 所以，你们要彼此接纳，如同基督接纳你们一样，归荣耀给上帝。
+  - name: 罗马书 15:8
+    orderIndex: 7
+    osisId: Rom.15.8
+    sblId: Rom 15:8
+    shortName: 罗 15:8
+    text: 我说，基督是为上帝真理作了受割礼的人的执事，要证实所应许列祖的话，
+  - name: 罗马书 15:9
+    orderIndex: 8
+    osisId: Rom.15.9
+    sblId: Rom 15:9
+    shortName: 罗 15:9
+    text: 并使外邦人，因他的怜悯，荣耀上帝。如经上所记： “因此，我要在外邦中称颂你， 歌颂你的名。”
+  - name: 罗马书 15:10
+    orderIndex: 9
+    osisId: Rom.15.10
+    sblId: Rom 15:10
+    shortName: 罗 15:10
+    text: 又说： “外邦人哪，你们要与主的子民一同欢乐。”
+  - name: 罗马书 15:11
+    orderIndex: 10
+    osisId: Rom.15.11
+    sblId: Rom 15:11
+    shortName: 罗 15:11
+    text: 又说： “列邦啊，你们要赞美主！ 万民哪，你们都要颂赞他！”
+  - name: 罗马书 15:12
+    orderIndex: 11
+    osisId: Rom.15.12
+    sblId: Rom 15:12
+    shortName: 罗 15:12
+    text: 又有 以赛亚 说： “将来有 耶西 的根， 就是那兴起来要治理列邦的； 外邦人要仰望他。”
+  - name: 罗马书 15:13
+    orderIndex: 12
+    osisId: Rom.15.13
+    sblId: Rom 15:13
+    shortName: 罗 15:13
+    text: 愿赐盼望的上帝，因你们的信把各样的喜乐、平安 充满你们的心，使你们藉着圣灵的能力大有盼望！
+  - name: 罗马书 15:14
+    orderIndex: 13
+    osisId: Rom.15.14
+    sblId: Rom 15:14
+    shortName: 罗 15:14
+    text: 我的弟兄们，我本人也深信你们自己充满良善，有各种丰富的知识，也能彼此劝戒。
+  - name: 罗马书 15:15
+    orderIndex: 14
+    osisId: Rom.15.15
+    sblId: Rom 15:15
+    shortName: 罗 15:15
+    text: 但我更大胆写信给你们，是要在一些事上提醒你们，我因上帝所赐我的恩，
+  - name: 罗马书 15:16
+    orderIndex: 15
+    osisId: Rom.15.16
+    sblId: Rom 15:16
+    shortName: 罗 15:16
+    text: 使我为外邦人作基督耶稣的仆役，作上帝福音的祭司，使所献上的外邦人因着圣灵成为圣洁，可蒙悦纳。
+  - name: 罗马书 15:17
+    orderIndex: 16
+    osisId: Rom.15.17
+    sblId: Rom 15:17
+    shortName: 罗 15:17
+    text: 所以，有关上帝面前的事奉，我在基督耶稣里是有可夸的。
+  - name: 罗马书 15:18
+    orderIndex: 17
+    osisId: Rom.15.18
+    sblId: Rom 15:18
+    shortName: 罗 15:18
+    text: 除了基督藉我做的那些事，我什么都不敢提，只提他藉我的言语作为，用神迹奇事的能力，并上帝的灵 的能力，使外邦人顺服；甚至我从 耶路撒冷 ，直转到
+      以利哩古 ，到处传了基督的福音。
+  - name: 罗马书 15:19
+    orderIndex: 18
+    osisId: Rom.15.19
+    sblId: Rom 15:19
+    shortName: 罗 15:19
+    text: ''
+  - name: 罗马书 15:20
+    orderIndex: 19
+    osisId: Rom.15.20
+    sblId: Rom 15:20
+    shortName: 罗 15:20
+    text: 这样，我立了志向，不在基督的名已经传扬过的地方传福音，免得建造在别人的根基上；
+  - name: 罗马书 15:21
+    orderIndex: 20
+    osisId: Rom.15.21
+    sblId: Rom 15:21
+    shortName: 罗 15:21
+    text: 却如经上所记： “未曾传给他们的，他们必看见； 未曾听见过的事，他们要明白。”
+  - name: 罗马书 15:22
+    orderIndex: 21
+    osisId: Rom.15.22
+    sblId: Rom 15:22
+    shortName: 罗 15:22
+    text: 因此我多次被拦阻，不能到你们那里去。
+  - name: 罗马书 15:23
+    orderIndex: 22
+    osisId: Rom.15.23
+    sblId: Rom 15:23
+    shortName: 罗 15:23
+    text: 但如今，在这一带再没有可传的地方，而且这许多年来，我迫切想去你们那里，
+  - name: 罗马书 15:24
+    orderIndex: 23
+    osisId: Rom.15.24
+    sblId: Rom 15:24
+    shortName: 罗 15:24
+    text: 盼望到 西班牙 去的时候经过，得见你们，先与你们彼此交往，心里稍得满足，然后蒙你们为我送行。
+  - name: 罗马书 15:25
+    orderIndex: 24
+    osisId: Rom.15.25
+    sblId: Rom 15:25
+    shortName: 罗 15:25
+    text: 但如今我要到 耶路撒冷 去，供应圣徒的需要。
+  - name: 罗马书 15:26
+    orderIndex: 25
+    osisId: Rom.15.26
+    sblId: Rom 15:26
+    shortName: 罗 15:26
+    text: 因为 马其顿 和 亚该亚 人乐意凑出一些捐款给 耶路撒冷 圣徒中的穷人。
+  - name: 罗马书 15:27
+    orderIndex: 26
+    osisId: Rom.15.27
+    sblId: Rom 15:27
+    shortName: 罗 15:27
+    text: 这固然是他们乐意的，其实也算是所欠的债；因为外邦人既然分享了他们灵性上的好处，就当把肉体上的需用供给他们。
+  - name: 罗马书 15:28
+    orderIndex: 27
+    osisId: Rom.15.28
+    sblId: Rom 15:28
+    shortName: 罗 15:28
+    text: 等我办完了这事，把这笔捐款 交付给他们，我就要路过你们那里，到 西班牙 去。
+  - name: 罗马书 15:29
+    orderIndex: 28
+    osisId: Rom.15.29
+    sblId: Rom 15:29
+    shortName: 罗 15:29
+    text: 我也知道去你们那里的时候，我将带着基督丰盛的恩典去。
+  - name: 罗马书 15:30
+    orderIndex: 29
+    osisId: Rom.15.30
+    sblId: Rom 15:30
+    shortName: 罗 15:30
+    text: 弟兄们，我藉着我们的主耶稣基督，又藉着圣灵的爱，劝你们与我一同竭力为我祈求上帝，
+  - name: 罗马书 15:31
+    orderIndex: 30
+    osisId: Rom.15.31
+    sblId: Rom 15:31
+    shortName: 罗 15:31
+    text: 使我脱离在 犹太 不顺从的人，也让我在 耶路撒冷 的事奉可蒙圣徒悦纳，
+  - name: 罗马书 15:32
+    orderIndex: 31
+    osisId: Rom.15.32
+    sblId: Rom 15:32
+    shortName: 罗 15:32
+    text: 并使我照着上帝的旨意欢欢喜喜地到你们那里，与你们同得安息。
+  - name: 罗马书 15:33
+    orderIndex: 32
+    osisId: Rom.15.33
+    sblId: Rom 15:33
+    shortName: 罗 15:33
+    text: 愿赐平安的上帝与你们众人同在。阿们！
+  versesCount: 33
+- name: 罗马书 16
+  orderIndex: 15
+  osisId: Rom.16
+  sblId: Rom 16
+  shortName: 罗 16
+  verses:
+  - name: 罗马书 16:1
+    orderIndex: 0
+    osisId: Rom.16.1
+    sblId: Rom 16:1
+    shortName: 罗 16:1
+    text: 我对你们推荐我们的姊妹 非比 ，她是 坚革哩 教会中的执事。
+  - name: 罗马书 16:2
+    orderIndex: 1
+    osisId: Rom.16.2
+    sblId: Rom 16:2
+    shortName: 罗 16:2
+    text: 请你们在主里用合乎圣徒的方式来接待她。她在任何事上需要你们帮助，你们就帮助她；因她素来帮助许多人，也帮助了我。
+  - name: 罗马书 16:3
+    orderIndex: 2
+    osisId: Rom.16.3
+    sblId: Rom 16:3
+    shortName: 罗 16:3
+    text: 请向 百基拉 和 亚居拉 问安。他们在基督耶稣里作我的同工，
+  - name: 罗马书 16:4
+    orderIndex: 3
+    osisId: Rom.16.4
+    sblId: Rom 16:4
+    shortName: 罗 16:4
+    text: 也为我的性命把自己的生死置之度外；不但我感谢他们，就是外邦的众教会也感谢他们。
+  - name: 罗马书 16:5
+    orderIndex: 4
+    osisId: Rom.16.5
+    sblId: Rom 16:5
+    shortName: 罗 16:5
+    text: 又向在他们家中的教会问安。向我所亲爱的 以拜尼土 问安，他是 亚细亚 归于基督的初结果子。
+  - name: 罗马书 16:6
+    orderIndex: 5
+    osisId: Rom.16.6
+    sblId: Rom 16:6
+    shortName: 罗 16:6
+    text: 又向 马利亚 问安，她为你们非常辛劳。
+  - name: 罗马书 16:7
+    orderIndex: 6
+    osisId: Rom.16.7
+    sblId: Rom 16:7
+    shortName: 罗 16:7
+    text: 又向与我一同坐监的亲戚 安多尼古 和 犹尼亚 问安，他们在使徒中是有名望的，也是比我先在基督里的。
+  - name: 罗马书 16:8
+    orderIndex: 7
+    osisId: Rom.16.8
+    sblId: Rom 16:8
+    shortName: 罗 16:8
+    text: 又向我在主里面所亲爱的 暗伯利 问安。
+  - name: 罗马书 16:9
+    orderIndex: 8
+    osisId: Rom.16.9
+    sblId: Rom 16:9
+    shortName: 罗 16:9
+    text: 又向我们在基督里的同工 耳巴奴 和我所亲爱的 士大古 问安。
+  - name: 罗马书 16:10
+    orderIndex: 9
+    osisId: Rom.16.10
+    sblId: Rom 16:10
+    shortName: 罗 16:10
+    text: 又向在基督里经过考验的 亚比利 问安。向 亚利多布 家里的人问安。
+  - name: 罗马书 16:11
+    orderIndex: 10
+    osisId: Rom.16.11
+    sblId: Rom 16:11
+    shortName: 罗 16:11
+    text: 又向我亲戚 希罗天 问安。向 拿其数 家在主里的人问安。
+  - name: 罗马书 16:12
+    orderIndex: 11
+    osisId: Rom.16.12
+    sblId: Rom 16:12
+    shortName: 罗 16:12
+    text: 又向为主辛劳的 土非拿 和 土富撒 问安。向所亲爱、为主非常辛劳的 彼息 问安。
+  - name: 罗马书 16:13
+    orderIndex: 12
+    osisId: Rom.16.13
+    sblId: Rom 16:13
+    shortName: 罗 16:13
+    text: 又向在主里蒙拣选的 鲁孚 和他母亲问安，他的母亲就是我的母亲。
+  - name: 罗马书 16:14
+    orderIndex: 13
+    osisId: Rom.16.14
+    sblId: Rom 16:14
+    shortName: 罗 16:14
+    text: 又向 亚逊其土 、 弗勒干 、 黑米 、 八罗巴 、 黑马 ，和跟他们在一起的弟兄们问安。
+  - name: 罗马书 16:15
+    orderIndex: 14
+    osisId: Rom.16.15
+    sblId: Rom 16:15
+    shortName: 罗 16:15
+    text: 又向 非罗罗古 和 犹利亚 ， 尼利亚 和他姊妹， 阿林巴 和跟他们在一起的众圣徒问安。
+  - name: 罗马书 16:16
+    orderIndex: 15
+    osisId: Rom.16.16
+    sblId: Rom 16:16
+    shortName: 罗 16:16
+    text: 你们要以圣洁的吻彼此问安。基督的众教会都向你们问安！
+  - name: 罗马书 16:17
+    orderIndex: 16
+    osisId: Rom.16.17
+    sblId: Rom 16:17
+    shortName: 罗 16:17
+    text: 弟兄们，那些离间你们、使你们跌倒、违背所学之道的人，我劝你们要留意躲避他们。
+  - name: 罗马书 16:18
+    orderIndex: 17
+    osisId: Rom.16.18
+    sblId: Rom 16:18
+    shortName: 罗 16:18
+    text: 因为这样的人不服侍我们的主基督，只服侍自己的肚腹，用花言巧语诱惑老实人的心。
+  - name: 罗马书 16:19
+    orderIndex: 18
+    osisId: Rom.16.19
+    sblId: Rom 16:19
+    shortName: 罗 16:19
+    text: 你们的顺服已经传于众人，所以我为你们欢喜；但我愿你们在善上聪明，在恶上愚拙。
+  - name: 罗马书 16:20
+    orderIndex: 19
+    osisId: Rom.16.20
+    sblId: Rom 16:20
+    shortName: 罗 16:20
+    text: 那赐平安 的上帝快要把撒但践踏在你们脚下。愿我们主耶稣基督的恩与你们同在！
+  - name: 罗马书 16:21
+    orderIndex: 20
+    osisId: Rom.16.21
+    sblId: Rom 16:21
+    shortName: 罗 16:21
+    text: 我的同工 提摩太 ，和我的亲戚 路求 、 耶孙 、 所西巴德 ，向你们问安。
+  - name: 罗马书 16:22
+    orderIndex: 21
+    osisId: Rom.16.22
+    sblId: Rom 16:22
+    shortName: 罗 16:22
+    text: 我这代笔写信的 德提 ，在主里向你们问安。
+  - name: 罗马书 16:23
+    orderIndex: 22
+    osisId: Rom.16.23
+    sblId: Rom 16:23
+    shortName: 罗 16:23
+    text: 那接待我，也接待全教会的 该犹 ，向你们问安。城里的财务官 以拉都 和弟兄 括土 向你们问安。
+  - name: 罗马书 16:24
+    orderIndex: 23
+    osisId: Rom.16.24
+    sblId: Rom 16:24
+    shortName: 罗 16:24
+    text: ''
+  - name: 罗马书 16:25
+    orderIndex: 24
+    osisId: Rom.16.25
+    sblId: Rom 16:25
+    shortName: 罗 16:25
+    text: 惟有上帝能照我所传的福音和所讲的耶稣基督，并照历代以来隐藏的奥秘的启示，坚固你们。
+  - name: 罗马书 16:26
+    orderIndex: 25
+    osisId: Rom.16.26
+    sblId: Rom 16:26
+    shortName: 罗 16:26
+    text: 这奥秘如今显示出来，而且按着永生上帝的命令，藉众先知的书指示万民，使他们因信而顺服。
+  - name: 罗马书 16:27
+    orderIndex: 26
+    osisId: Rom.16.27
+    sblId: Rom 16:27
+    shortName: 罗 16:27
+    text: 愿荣耀，藉着耶稣基督，归给独一全智的上帝，直到永远。阿们！
+  versesCount: 27
+chaptersCount: 16
+name: 罗马书
+orderIndex: 44
+osisId: Rom
+sblId: Rom
+shortName: 罗
+versesCount: 433

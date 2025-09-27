@@ -1,0 +1,105 @@
+chapters:
+- name: 约翰三书 1
+  orderIndex: 0
+  osisId: 3John.1
+  sblId: 3John 1
+  shortName: 约三 1
+  verses:
+  - name: 约翰三书 1:1
+    orderIndex: 0
+    osisId: 3John.1.1
+    sblId: 3John 1:1
+    shortName: 约三 1:1
+    text: 我作長老的寫信給親愛的 該猶 ，就是我真心所愛的。
+  - name: 约翰三书 1:2
+    orderIndex: 1
+    osisId: 3John.1.2
+    sblId: 3John 1:2
+    shortName: 约三 1:2
+    text: 親愛的，我願你事事安寧，身體健康，正如你的心神安寧一樣。
+  - name: 约翰三书 1:3
+    orderIndex: 2
+    osisId: 3John.1.3
+    sblId: 3John 1:3
+    shortName: 约三 1:3
+    text: 我非常歡喜，有弟兄到這裏來，證實你對真理的忠誠，就是你按著真理而行。
+  - name: 约翰三书 1:4
+    orderIndex: 3
+    osisId: 3John.1.4
+    sblId: 3John 1:4
+    shortName: 约三 1:4
+    text: 我聽見我的兒女按真理而行，我的歡喜沒有比這個更大的。
+  - name: 约翰三书 1:5
+    orderIndex: 4
+    osisId: 3John.1.5
+    sblId: 3John 1:5
+    shortName: 约三 1:5
+    text: 親愛的，你對弟兄，特別是對作客旅的弟兄所做的都是忠誠的。
+  - name: 约翰三书 1:6
+    orderIndex: 5
+    osisId: 3John.1.6
+    sblId: 3John 1:6
+    shortName: 约三 1:6
+    text: 他們在教會面前證實了你的愛；你若以對得起上帝的方式，為他們送行就好了；
+  - name: 约翰三书 1:7
+    orderIndex: 6
+    osisId: 3John.1.7
+    sblId: 3John 1:7
+    shortName: 约三 1:7
+    text: 因為他們是為基督的名 出外，並沒有從未信的人接受甚麼。
+  - name: 约翰三书 1:8
+    orderIndex: 7
+    osisId: 3John.1.8
+    sblId: 3John 1:8
+    shortName: 约三 1:8
+    text: 所以，我們應當接待這樣的人，好讓我們與他們在真理上成為同工。
+  - name: 约翰三书 1:9
+    orderIndex: 8
+    osisId: 3John.1.9
+    sblId: 3John 1:9
+    shortName: 约三 1:9
+    text: 我曾寫過一些東西給教會，但他們中間那好作領袖的 丟特腓 不接納我們。
+  - name: 约翰三书 1:10
+    orderIndex: 9
+    osisId: 3John.1.10
+    sblId: 3John 1:10
+    shortName: 约三 1:10
+    text: 為此，我若去，要提起他所做的事，就是他用惡言攻擊我們，還不滿足，他自己不接納弟兄，有人願意接納，他還阻止，並且把接納弟兄的人趕出教會。
+  - name: 约翰三书 1:11
+    orderIndex: 10
+    osisId: 3John.1.11
+    sblId: 3John 1:11
+    shortName: 约三 1:11
+    text: 親愛的，不要效法惡，只要效法善。行善的人屬乎上帝；行惡的人未曾見過上帝。
+  - name: 约翰三书 1:12
+    orderIndex: 11
+    osisId: 3John.1.12
+    sblId: 3John 1:12
+    shortName: 约三 1:12
+    text: 低米丟 行善，有眾人給他作見證，又有真理給他作見證，就是我們也給他作見證，你知道我們的見證是真的。
+  - name: 约翰三书 1:13
+    orderIndex: 12
+    osisId: 3John.1.13
+    sblId: 3John 1:13
+    shortName: 约三 1:13
+    text: 我還有許多事要寫給你，卻不願意用筆墨來寫給你，
+  - name: 约翰三书 1:14
+    orderIndex: 13
+    osisId: 3John.1.14
+    sblId: 3John 1:14
+    shortName: 约三 1:14
+    text: 但盼望很快見到你，我們好面對面談論。
+  - name: 约翰三书 1:15
+    orderIndex: 14
+    osisId: 3John.1.15
+    sblId: 3John 1:15
+    shortName: 约三 1:15
+    text: 願你平安！朋友們都向你問安。請你替我按著名字一一向朋友們問安。
+  versesCount: 15
+chaptersCount: 1
+name: 约翰三书
+orderIndex: 63
+osisId: 3John
+sblId: 3John
+shortName: 约三
+versesCount: 15

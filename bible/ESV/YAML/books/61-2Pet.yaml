@@ -1,0 +1,469 @@
+chapters:
+- name: 2 Peter 1
+  orderIndex: 0
+  osisId: 2Pet.1
+  sblId: 2Pet 1
+  shortName: 2 Pet 1
+  verses:
+  - name: 2 Peter 1:1
+    orderIndex: 0
+    osisId: 2Pet.1.1
+    sblId: 2Pet 1:1
+    shortName: 2 Pet 1:1
+    text: 'Simeon Peter, a servant and apostle of Jesus Christ, To those who have
+      obtained a faith of equal standing with ours by the righteousness of our God
+      and Savior Jesus Christ:'
+  - name: 2 Peter 1:2
+    orderIndex: 1
+    osisId: 2Pet.1.2
+    sblId: 2Pet 1:2
+    shortName: 2 Pet 1:2
+    text: May grace and peace be multiplied to you in the knowledge of God and of
+      Jesus our Lord.
+  - name: 2 Peter 1:3
+    orderIndex: 2
+    osisId: 2Pet.1.3
+    sblId: 2Pet 1:3
+    shortName: 2 Pet 1:3
+    text: His divine power has granted to us all things that pertain to life and godliness,
+      through the knowledge of him who called us to his own glory and excellence,
+  - name: 2 Peter 1:4
+    orderIndex: 3
+    osisId: 2Pet.1.4
+    sblId: 2Pet 1:4
+    shortName: 2 Pet 1:4
+    text: by which he has granted to us his precious and very great promises, so that
+      through them you may become partakers of the divine nature, having escaped from
+      the corruption that is in the world because of sinful desire.
+  - name: 2 Peter 1:5
+    orderIndex: 4
+    osisId: 2Pet.1.5
+    sblId: 2Pet 1:5
+    shortName: 2 Pet 1:5
+    text: For this very reason, make every effort to supplement your faith with virtue,
+      and virtue with knowledge,
+  - name: 2 Peter 1:6
+    orderIndex: 5
+    osisId: 2Pet.1.6
+    sblId: 2Pet 1:6
+    shortName: 2 Pet 1:6
+    text: and knowledge with self-control, and self-control with steadfastness, and
+      steadfastness with godliness,
+  - name: 2 Peter 1:7
+    orderIndex: 6
+    osisId: 2Pet.1.7
+    sblId: 2Pet 1:7
+    shortName: 2 Pet 1:7
+    text: and godliness with brotherly affection, and brotherly affection with love.
+  - name: 2 Peter 1:8
+    orderIndex: 7
+    osisId: 2Pet.1.8
+    sblId: 2Pet 1:8
+    shortName: 2 Pet 1:8
+    text: For if these qualities are yours and are increasing, they keep you from
+      being ineffective or unfruitful in the knowledge of our Lord Jesus Christ.
+  - name: 2 Peter 1:9
+    orderIndex: 8
+    osisId: 2Pet.1.9
+    sblId: 2Pet 1:9
+    shortName: 2 Pet 1:9
+    text: For whoever lacks these qualities is so nearsighted that he is blind, having
+      forgotten that he was cleansed from his former sins.
+  - name: 2 Peter 1:10
+    orderIndex: 9
+    osisId: 2Pet.1.10
+    sblId: 2Pet 1:10
+    shortName: 2 Pet 1:10
+    text: Therefore, brothers, be all the more diligent to make your calling and election
+      sure, for if you practice these qualities you will never fall.
+  - name: 2 Peter 1:11
+    orderIndex: 10
+    osisId: 2Pet.1.11
+    sblId: 2Pet 1:11
+    shortName: 2 Pet 1:11
+    text: For in this way there will be richly provided for you an entrance into the
+      eternal kingdom of our Lord and Savior Jesus Christ.
+  - name: 2 Peter 1:12
+    orderIndex: 11
+    osisId: 2Pet.1.12
+    sblId: 2Pet 1:12
+    shortName: 2 Pet 1:12
+    text: Therefore I intend always to remind you of these qualities, though you know
+      them and are established in the truth that you have.
+  - name: 2 Peter 1:13
+    orderIndex: 12
+    osisId: 2Pet.1.13
+    sblId: 2Pet 1:13
+    shortName: 2 Pet 1:13
+    text: I think it right, as long as I am in this body, to stir you up by way of
+      reminder,
+  - name: 2 Peter 1:14
+    orderIndex: 13
+    osisId: 2Pet.1.14
+    sblId: 2Pet 1:14
+    shortName: 2 Pet 1:14
+    text: since I know that the putting off of my body will be soon, as our Lord Jesus
+      Christ made clear to me.
+  - name: 2 Peter 1:15
+    orderIndex: 14
+    osisId: 2Pet.1.15
+    sblId: 2Pet 1:15
+    shortName: 2 Pet 1:15
+    text: And I will make every effort so that after my departure you may be able
+      at any time to recall these things.
+  - name: 2 Peter 1:16
+    orderIndex: 15
+    osisId: 2Pet.1.16
+    sblId: 2Pet 1:16
+    shortName: 2 Pet 1:16
+    text: For we did not follow cleverly devised myths when we made known to you the
+      power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty.
+  - name: 2 Peter 1:17
+    orderIndex: 16
+    osisId: 2Pet.1.17
+    sblId: 2Pet 1:17
+    shortName: 2 Pet 1:17
+    text: For when he received honor and glory from God the Father, and the voice
+      was borne to him by the Majestic Glory, "This is my beloved Son, with whom I
+      am well pleased,"
+  - name: 2 Peter 1:18
+    orderIndex: 17
+    osisId: 2Pet.1.18
+    sblId: 2Pet 1:18
+    shortName: 2 Pet 1:18
+    text: we ourselves heard this very voice borne from heaven, for we were with him
+      on the holy mountain.
+  - name: 2 Peter 1:19
+    orderIndex: 18
+    osisId: 2Pet.1.19
+    sblId: 2Pet 1:19
+    shortName: 2 Pet 1:19
+    text: And we have something more sure, the prophetic word, to which you will do
+      well to pay attention as to a lamp shining in a dark place, until the day dawns
+      and the morning star rises in your hearts,
+  - name: 2 Peter 1:20
+    orderIndex: 19
+    osisId: 2Pet.1.20
+    sblId: 2Pet 1:20
+    shortName: 2 Pet 1:20
+    text: knowing this first of all, that no prophecy of Scripture comes from someone's
+      own interpretation.
+  - name: 2 Peter 1:21
+    orderIndex: 20
+    osisId: 2Pet.1.21
+    sblId: 2Pet 1:21
+    shortName: 2 Pet 1:21
+    text: For no prophecy was ever produced by the will of man, but men spoke from
+      God as they were carried along by the Holy Spirit.
+  versesCount: 21
+- name: 2 Peter 2
+  orderIndex: 1
+  osisId: 2Pet.2
+  sblId: 2Pet 2
+  shortName: 2 Pet 2
+  verses:
+  - name: 2 Peter 2:1
+    orderIndex: 0
+    osisId: 2Pet.2.1
+    sblId: 2Pet 2:1
+    shortName: 2 Pet 2:1
+    text: But false prophets also arose among the people, just as there will be false
+      teachers among you, who will secretly bring in destructive heresies, even denying
+      the Master who bought them, bringing upon themselves swift destruction.
+  - name: 2 Peter 2:2
+    orderIndex: 1
+    osisId: 2Pet.2.2
+    sblId: 2Pet 2:2
+    shortName: 2 Pet 2:2
+    text: And many will follow their sensuality, and because of them the way of truth
+      will be blasphemed.
+  - name: 2 Peter 2:3
+    orderIndex: 2
+    osisId: 2Pet.2.3
+    sblId: 2Pet 2:3
+    shortName: 2 Pet 2:3
+    text: And in their greed they will exploit you with false words. Their condemnation
+      from long ago is not idle, and their destruction is not asleep.
+  - name: 2 Peter 2:4
+    orderIndex: 3
+    osisId: 2Pet.2.4
+    sblId: 2Pet 2:4
+    shortName: 2 Pet 2:4
+    text: For if God did not spare angels when they sinned, but cast them into hell
+      and committed them to chains of gloomy darkness to be kept until the judgment;
+  - name: 2 Peter 2:5
+    orderIndex: 4
+    osisId: 2Pet.2.5
+    sblId: 2Pet 2:5
+    shortName: 2 Pet 2:5
+    text: if he did not spare the ancient world, but preserved Noah, a herald of righteousness,
+      with seven others, when he brought a flood upon the world of the ungodly;
+  - name: 2 Peter 2:6
+    orderIndex: 5
+    osisId: 2Pet.2.6
+    sblId: 2Pet 2:6
+    shortName: 2 Pet 2:6
+    text: if by turning the cities of Sodom and Gomorrah to ashes he condemned them
+      to extinction, making them an example of what is going to happen to the ungodly;
+  - name: 2 Peter 2:7
+    orderIndex: 6
+    osisId: 2Pet.2.7
+    sblId: 2Pet 2:7
+    shortName: 2 Pet 2:7
+    text: and if he rescued righteous Lot, greatly distressed by the sensual conduct
+      of the wicked
+  - name: 2 Peter 2:8
+    orderIndex: 7
+    osisId: 2Pet.2.8
+    sblId: 2Pet 2:8
+    shortName: 2 Pet 2:8
+    text: (for as that righteous man lived among them day after day, he was tormenting
+      his righteous soul over their lawless deeds that he saw and heard);
+  - name: 2 Peter 2:9
+    orderIndex: 8
+    osisId: 2Pet.2.9
+    sblId: 2Pet 2:9
+    shortName: 2 Pet 2:9
+    text: then the Lord knows how to rescue the godly from trials, and to keep the
+      unrighteous under punishment until the day of judgment,
+  - name: 2 Peter 2:10
+    orderIndex: 9
+    osisId: 2Pet.2.10
+    sblId: 2Pet 2:10
+    shortName: 2 Pet 2:10
+    text: and especially those who indulge in the lust of defiling passion and despise
+      authority. Bold and willful, they do not tremble as they blaspheme the glorious
+      ones,
+  - name: 2 Peter 2:11
+    orderIndex: 10
+    osisId: 2Pet.2.11
+    sblId: 2Pet 2:11
+    shortName: 2 Pet 2:11
+    text: whereas angels, though greater in might and power, do not pronounce a blasphemous
+      judgment against them before the Lord.
+  - name: 2 Peter 2:12
+    orderIndex: 11
+    osisId: 2Pet.2.12
+    sblId: 2Pet 2:12
+    shortName: 2 Pet 2:12
+    text: But these, like irrational animals, creatures of instinct, born to be caught
+      and destroyed, blaspheming about matters of which they are ignorant, will also
+      be destroyed in their destruction,
+  - name: 2 Peter 2:13
+    orderIndex: 12
+    osisId: 2Pet.2.13
+    sblId: 2Pet 2:13
+    shortName: 2 Pet 2:13
+    text: suffering wrong as the wage for their wrongdoing. They count it pleasure
+      to revel in the daytime. They are blots and blemishes, reveling in their deceptions,
+      while they feast with you.
+  - name: 2 Peter 2:14
+    orderIndex: 13
+    osisId: 2Pet.2.14
+    sblId: 2Pet 2:14
+    shortName: 2 Pet 2:14
+    text: They have eyes full of adultery, insatiable for sin. They entice unsteady
+      souls. They have hearts trained in greed. Accursed children!
+  - name: 2 Peter 2:15
+    orderIndex: 14
+    osisId: 2Pet.2.15
+    sblId: 2Pet 2:15
+    shortName: 2 Pet 2:15
+    text: Forsaking the right way, they have gone astray. They have followed the way
+      of Balaam, the son of Beor, who loved gain from wrongdoing,
+  - name: 2 Peter 2:16
+    orderIndex: 15
+    osisId: 2Pet.2.16
+    sblId: 2Pet 2:16
+    shortName: 2 Pet 2:16
+    text: but was rebuked for his own transgression; a speechless donkey spoke with
+      human voice and restrained the prophet's madness.
+  - name: 2 Peter 2:17
+    orderIndex: 16
+    osisId: 2Pet.2.17
+    sblId: 2Pet 2:17
+    shortName: 2 Pet 2:17
+    text: These are waterless springs and mists driven by a storm. For them the gloom
+      of utter darkness has been reserved.
+  - name: 2 Peter 2:18
+    orderIndex: 17
+    osisId: 2Pet.2.18
+    sblId: 2Pet 2:18
+    shortName: 2 Pet 2:18
+    text: For, speaking loud boasts of folly, they entice by sensual passions of the
+      flesh those who are barely escaping from those who live in error.
+  - name: 2 Peter 2:19
+    orderIndex: 18
+    osisId: 2Pet.2.19
+    sblId: 2Pet 2:19
+    shortName: 2 Pet 2:19
+    text: They promise them freedom, but they themselves are slaves of corruption.
+      For whatever overcomes a person, to that he is enslaved.
+  - name: 2 Peter 2:20
+    orderIndex: 19
+    osisId: 2Pet.2.20
+    sblId: 2Pet 2:20
+    shortName: 2 Pet 2:20
+    text: For if, after they have escaped the defilements of the world through the
+      knowledge of our Lord and Savior Jesus Christ, they are again entangled in them
+      and overcome, the last state has become worse for them than the first.
+  - name: 2 Peter 2:21
+    orderIndex: 20
+    osisId: 2Pet.2.21
+    sblId: 2Pet 2:21
+    shortName: 2 Pet 2:21
+    text: For it would have been better for them never to have known the way of righteousness
+      than after knowing it to turn back from the holy commandment delivered to them.
+  - name: 2 Peter 2:22
+    orderIndex: 21
+    osisId: 2Pet.2.22
+    sblId: 2Pet 2:22
+    shortName: 2 Pet 2:22
+    text: 'What the true proverb says has happened to them: "The dog returns to its
+      own vomit, and the sow, after washing herself, returns to wallow in the mire."'
+  versesCount: 22
+- name: 2 Peter 3
+  orderIndex: 2
+  osisId: 2Pet.3
+  sblId: 2Pet 3
+  shortName: 2 Pet 3
+  verses:
+  - name: 2 Peter 3:1
+    orderIndex: 0
+    osisId: 2Pet.3.1
+    sblId: 2Pet 3:1
+    shortName: 2 Pet 3:1
+    text: This is now the second letter that I am writing to you, beloved. In both
+      of them I am stirring up your sincere mind by way of reminder,
+  - name: 2 Peter 3:2
+    orderIndex: 1
+    osisId: 2Pet.3.2
+    sblId: 2Pet 3:2
+    shortName: 2 Pet 3:2
+    text: that you should remember the predictions of the holy prophets and the commandment
+      of the Lord and Savior through your apostles,
+  - name: 2 Peter 3:3
+    orderIndex: 2
+    osisId: 2Pet.3.3
+    sblId: 2Pet 3:3
+    shortName: 2 Pet 3:3
+    text: knowing this first of all, that scoffers will come in the last days with
+      scoffing, following their own sinful desires.
+  - name: 2 Peter 3:4
+    orderIndex: 3
+    osisId: 2Pet.3.4
+    sblId: 2Pet 3:4
+    shortName: 2 Pet 3:4
+    text: They will say, "Where is the promise of his coming? For ever since the fathers
+      fell asleep, all things are continuing as they were from the beginning of creation."
+  - name: 2 Peter 3:5
+    orderIndex: 4
+    osisId: 2Pet.3.5
+    sblId: 2Pet 3:5
+    shortName: 2 Pet 3:5
+    text: For they deliberately overlook this fact, that the heavens existed long
+      ago, and the earth was formed out of water and through water by the word of
+      God,
+  - name: 2 Peter 3:6
+    orderIndex: 5
+    osisId: 2Pet.3.6
+    sblId: 2Pet 3:6
+    shortName: 2 Pet 3:6
+    text: and that by means of these the world that then existed was deluged with
+      water and perished.
+  - name: 2 Peter 3:7
+    orderIndex: 6
+    osisId: 2Pet.3.7
+    sblId: 2Pet 3:7
+    shortName: 2 Pet 3:7
+    text: But by the same word the heavens and earth that now exist are stored up
+      for fire, being kept until the day of judgment and destruction of the ungodly.
+  - name: 2 Peter 3:8
+    orderIndex: 7
+    osisId: 2Pet.3.8
+    sblId: 2Pet 3:8
+    shortName: 2 Pet 3:8
+    text: But do not overlook this one fact, beloved, that with the Lord one day is
+      as a thousand years, and a thousand years as one day.
+  - name: 2 Peter 3:9
+    orderIndex: 8
+    osisId: 2Pet.3.9
+    sblId: 2Pet 3:9
+    shortName: 2 Pet 3:9
+    text: The Lord is not slow to fulfill his promise as some count slowness, but
+      is patient toward you, not wishing that any should perish, but that all should
+      reach repentance.
+  - name: 2 Peter 3:10
+    orderIndex: 9
+    osisId: 2Pet.3.10
+    sblId: 2Pet 3:10
+    shortName: 2 Pet 3:10
+    text: But the day of the Lord will come like a thief, and then the heavens will
+      pass away with a roar, and the heavenly bodies will be burned up and dissolved,
+      and the earth and the works that are done on it will be exposed.
+  - name: 2 Peter 3:11
+    orderIndex: 10
+    osisId: 2Pet.3.11
+    sblId: 2Pet 3:11
+    shortName: 2 Pet 3:11
+    text: Since all these things are thus to be dissolved, what sort of people ought
+      you to be in lives of holiness and godliness,
+  - name: 2 Peter 3:12
+    orderIndex: 11
+    osisId: 2Pet.3.12
+    sblId: 2Pet 3:12
+    shortName: 2 Pet 3:12
+    text: waiting for and hastening the coming of the day of God, because of which
+      the heavens will be set on fire and dissolved, and the heavenly bodies will
+      melt as they burn!
+  - name: 2 Peter 3:13
+    orderIndex: 12
+    osisId: 2Pet.3.13
+    sblId: 2Pet 3:13
+    shortName: 2 Pet 3:13
+    text: But according to his promise we are waiting for new heavens and a new earth
+      in which righteousness dwells.
+  - name: 2 Peter 3:14
+    orderIndex: 13
+    osisId: 2Pet.3.14
+    sblId: 2Pet 3:14
+    shortName: 2 Pet 3:14
+    text: Therefore, beloved, since you are waiting for these, be diligent to be found
+      by him without spot or blemish, and at peace.
+  - name: 2 Peter 3:15
+    orderIndex: 14
+    osisId: 2Pet.3.15
+    sblId: 2Pet 3:15
+    shortName: 2 Pet 3:15
+    text: And count the patience of our Lord as salvation, just as our beloved brother
+      Paul also wrote to you according to the wisdom given him,
+  - name: 2 Peter 3:16
+    orderIndex: 15
+    osisId: 2Pet.3.16
+    sblId: 2Pet 3:16
+    shortName: 2 Pet 3:16
+    text: as he does in all his letters when he speaks in them of these matters. There
+      are some things in them that are hard to understand, which the ignorant and
+      unstable twist to their own destruction, as they do the other Scriptures.
+  - name: 2 Peter 3:17
+    orderIndex: 16
+    osisId: 2Pet.3.17
+    sblId: 2Pet 3:17
+    shortName: 2 Pet 3:17
+    text: You therefore, beloved, knowing this beforehand, take care that you are
+      not carried away with the error of lawless people and lose your own stability.
+  - name: 2 Peter 3:18
+    orderIndex: 17
+    osisId: 2Pet.3.18
+    sblId: 2Pet 3:18
+    shortName: 2 Pet 3:18
+    text: But grow in the grace and knowledge of our Lord and Savior Jesus Christ.
+      To him be the glory both now and to the day of eternity. Amen.
+  versesCount: 18
+chaptersCount: 3
+name: 2 Peter
+orderIndex: 60
+osisId: 2Pet
+sblId: 2Pet
+shortName: 2 Pet
+versesCount: 61

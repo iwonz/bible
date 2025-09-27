@@ -1,0 +1,1530 @@
+GEN|1|1|In principio creavit Deus caelum et terram.
+GEN|1|2|Terra autem erat inanis et vacua, et tenebrae super faciem abyssi, et spiritus Dei ferebatur super aquas.
+GEN|1|3|Dixitque Deus: " Fiat lux ". Et facta est lux.
+GEN|1|4|Et vidit Deus lucem quod esset bona et divisit Deus lucem ac tenebras.
+GEN|1|5|Appellavitque Deus lucem Diem et tenebras Noctem. Factumque est vespere et mane, dies unus.
+GEN|1|6|Dixit quoque Deus: " Fiat firmamentum in medio aquarum et dividat aquas ab aquis ".
+GEN|1|7|Et fecit Deus firmamentum divisitque aquas, quae erant sub firmamento, ab his, quae erant super firmamentum. Et factum est ita.
+GEN|1|8|Vocavitque Deus firmamentum Caelum. Et factum est vespere et mane, dies secundus.
+GEN|1|9|Dixit vero Deus: " Congregentur aquae, quae sub caelo sunt, in locum unum, et appareat arida ". Factumque est ita.
+GEN|1|10|Et vocavit Deus aridam Terram congregationesque aquarum appellavit Maria. Et vidit Deus quod esset bonum.
+GEN|1|11|Et ait Deus: " Germinet terra herbam virentem et herbam facientem semen et lignum pomiferum faciens fructum iuxta genus suum, cuius semen in semetipso sit super terram ". Et factum est ita.
+GEN|1|12|Et protulit terra herbam virentem et herbam afferentem semen iuxta genus suum lignumque faciens fructum, qui habet in semetipso sementem secundum speciem suam. Et vidit Deus quod esset bonum.
+GEN|1|13|Et factum est vespere et mane, dies tertius.
+GEN|1|14|Dixit autem Deus: " Fiant luminaria in firmamento caeli, ut dividant diem ac noctem et sint in signa et tempora et dies et annos,
+GEN|1|15|ut luceant in firmamento caeli et illuminent terram. Et factum est ita.
+GEN|1|16|Fecitque Deus duo magna luminaria: luminare maius, ut praeesset diei, et luminare minus, ut praeesset nocti, et stellas.
+GEN|1|17|Et posuit eas Deus in firmamento caeli, ut lucerent super terram
+GEN|1|18|et praeessent diei ac nocti et dividerent lucem ac tenebras. Et vidit Deus quod esset bonum.
+GEN|1|19|Et factum est vespere et mane, dies quartus.
+GEN|1|20|Dixit etiam Deus: " Pullulent aquae reptile animae viventis, et volatile volet super terram sub firmamento caeli ".
+GEN|1|21|Creavitque Deus cete grandia et omnem animam viventem atque motabilem, quam pullulant aquae secundum species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum;
+GEN|1|22|benedixitque eis Deus dicens: " Crescite et multiplicamini et replete aquas maris, avesque multiplicentur super terram ".
+GEN|1|23|Et factum est vespere et mane, dies quintus.
+GEN|1|24|Dixit quoque Deus: " Producat terra animam viventem in genere suo, iumenta et reptilia et bestias terrae secundum species suas ". Factumque est ita.
+GEN|1|25|Et fecit Deus bestias terrae iuxta species suas et iumenta secundum species suas et omne reptile terrae in genere suo. Et vidit Deus quod esset bonum.
+GEN|1|26|Et ait Deus: " Faciamus hominem ad imaginem et similitudinem nostram; et praesint piscibus maris et volatilibus caeli et bestiis universaeque terrae omnique reptili, quod movetur in terra ".
+GEN|1|27|Et creavit Deus hominem ad imaginem suam;ad imaginem Dei creavit illum;masculum et feminam creavit eos.
+GEN|1|28|Benedixitque illis Deus et ait illis Deus: " Crescite et multiplicamini et replete terram et subicite eam et dominamini piscibus maris et volatilibus caeli et universis animantibus, quae moventur super terram ".
+GEN|1|29|Dixitque Deus: " Ecce dedi vobis omnem herbam afferentem semen super terram et universa ligna, quae habent in semetipsis fructum ligni portantem sementem, ut sint vobis in escam
+GEN|1|30|et cunctis animantibus terrae omnique volucri caeli et universis, quae moventur in terra et in quibus est anima vivens, omnem herbam virentem ad vescendum ". Et factum est ita.
+GEN|1|31|Viditque Deus cuncta, quae fecit, et ecce erant valde bona. Et factum est vespere et mane, dies sextus.
+GEN|2|1|Igitur perfecti sunt caeli et terra et omnis exercitus eorum.
+GEN|2|2|Complevitque Deus die septimo opus suum, quod fecerat, et requievit die septimo ab universo opere, quod patrarat.
+GEN|2|3|Et benedixit Deus diei septimo et sanctificavit illum, quia in ipso requieverat ab omni opere suo, quod creavit Deus, ut faceret.
+GEN|2|4|Istae sunt generationes caeli et terrae, quando creata sunt.In die quo fecit Dominus Deus terram et caelum ­
+GEN|2|5|omne virgultum agri, antequam oriretur in terra, omnisque herba regionis, priusquam germinaret; non enim pluerat Dominus Deus super terram, et homo non erat, qui operaretur humum,
+GEN|2|6|sed fons ascendebat e terra irrigans universam superficiem terrae ­
+GEN|2|7|tunc formavit Dominus Deus hominem pulverem de humo et inspiravit in nares eius spiraculum vitae, et factus est homo in animam viventem.
+GEN|2|8|Et plantavit Dominus Deus paradisum in Eden ad orientem, in quo posuit hominem, quem formaverat.
+GEN|2|9|Produxitque Dominus Deus de humo omne lignum pulchrum visu et ad vescendum suave, lignum etiam vitae in medio paradisi lignumque scientiae boni et mali.
+GEN|2|10|Et fluvius egrediebatur ex Eden ad irrigandum paradisum, qui inde dividitur in quattuor capita.
+GEN|2|11|Nomen uni Phison: ipse est, qui circuit omnem terram Hevila, ubi est aurum;
+GEN|2|12|et aurum terrae illius optimum est; ibi invenitur bdellium et lapis onychinus.
+GEN|2|13|Et nomen fluvio secundo Geon: ipse est, qui circuit omnem terram Aethiopiae.
+GEN|2|14|Nomen vero fluminis tertii Tigris: ipse vadit ad orientem Assyriae. Fluvius autem quartus ipse est Euphrates.
+GEN|2|15|Tulit ergo Dominus Deus hominem et posuit eum in paradiso Eden, ut operaretur et custodiret illum;
+GEN|2|16|praecepitque Dominus Deus homini dicens: " Ex omni ligno paradisi comede;
+GEN|2|17|de ligno autem scientiae boni et mali ne comedas; in quocumque enim die comederis ex eo, morte morieris ".
+GEN|2|18|Dixit quoque Dominus Deus: " Non est bonum esse hominem solum; faciam ei adiutorium simile sui ".
+GEN|2|19|Formatis igitur Dominus Deus de humo cunctis animantibus agri et universis volatilibus caeli, adduxit ea ad Adam, ut videret quid vocaret ea; omne enim, quod vocavit Adam animae viventis, ipsum est nomen eius.
+GEN|2|20|Appellavitque Adam nominibus suis cuncta pecora et universa volatilia caeli et omnes bestias agri; Adae vero non inveniebatur adiutor similis eius.
+GEN|2|21|Immisit ergo Dominus Deus soporem in Adam. Cumque obdormisset, tulit unam de costis eius et replevit carnem pro ea;
+GEN|2|22|et aedificavit Dominus Deus costam, quam tulerat de Adam, in mulierem et adduxit eam ad Adam.
+GEN|2|23|Dixitque Adam: Haec nunc os ex ossibus meiset caro de carne mea!Haec vocabitur Virago,quoniam de viro sumpta est haec ".
+GEN|2|24|Quam ob rem relinquet vir patrem suum et matrem et adhaerebit uxori suae; et erunt in carnem unam.
+GEN|2|25|Erant autem uterque nudi, Adam scilicet et uxor eius, et non erubescebant.
+GEN|3|1|Et serpens erat callidior cunctis animantibus agri, quae fecerat Dominus Deus. Qui dixit ad mulierem: " Verene praecepit vobis Deus, ut non comederetis de omni ligno paradisi? ".
+GEN|3|2|Cui respondit mulier: " De fructu lignorum, quae sunt in paradiso, vescimur;
+GEN|3|3|de fructu vero ligni, quod est in medio paradisi, praecepit nobis Deus, ne comederemus et ne tangeremus illud, ne moriamur ".
+GEN|3|4|Dixit autem serpens ad mulierem: " Nequaquam morte moriemini!
+GEN|3|5|Scit enim Deus quod in quocumque die comederitis ex eo, aperientur oculi vestri, et eritis sicut Deus scientes bonum et malum ".
+GEN|3|6|Vidit igitur mulier quod bonum esset lignum ad vescendum et pulchrum oculis et desiderabile esset lignum ad intellegendum; et tulit de fructu illius et comedit deditque etiam viro suo secum, qui comedit.
+GEN|3|7|Et aperti sunt oculi amborum. Cumque cognovissent esse se nudos, consuerunt folia ficus et fecerunt sibi perizomata.
+GEN|3|8|Et cum audissent vocem Domini Dei deambulantis in paradiso ad auram post meridiem, abscondit se Adam et uxor eius a facie Domini Dei in medio ligni paradisi.
+GEN|3|9|Vocavitque Dominus Deus Adam et dixit ei: " Ubi es? ".
+GEN|3|10|Qui ait: " Vocem tuam audivi in paradiso et timui eo quod nudus essem et abscondi me ".
+GEN|3|11|Cui dixit: " Quis enim indicavit tibi quod nudus esses, nisi quod ex ligno, de quo tibi praeceperam, ne comederes, comedisti? ".
+GEN|3|12|Dixitque Adam: " Mulier, quam dedisti sociam mihi, ipsa dedit mihi de ligno, et comedi ".
+GEN|3|13|Et dixit Dominus Deus ad mulierem: " Quid hoc fecisti? ". Quae respondit: " Serpens decepit me, et comedi ".
+GEN|3|14|Et ait Dominus Deus ad serpentem: Quia fecisti hoc, maledictus esinter omnia pecoraet omnes bestias agri!Super pectus tuum gradieriset pulverem comedes cunctisdiebus vitae tuae.
+GEN|3|15|Inimicitias ponam inter te et mulieremet semen tuum et semen illius;ipsum conteret caput tuum,et tu conteres calcaneum eius ".
+GEN|3|16|Mulieri dixit: Multiplicabo aerumnas tuaset conceptus tuos:in dolore paries filios,et ad virum tuum erit appetitus tuus,ipse autem dominabitur tui ".
+GEN|3|17|Adae vero dixit: " Quia audisti vocem uxoris tuae et comedisti de ligno, ex quo praeceperam tibi, ne comederes,maledicta humus propter te!In laboribus comedes ex eacunctis diebus vitae tuae.
+GEN|3|18|Spinas et tribulos germinabit tibi,et comedes herbas terrae;
+GEN|3|19|in sudore vultus tui vesceris pane,donec revertaris ad humum,de qua sumptus es,quia pulvis es et in pulverem reverteris ".
+GEN|3|20|Et vocavit Adam nomen uxoris suae Eva, eo quod mater esset cunctorum viventium.
+GEN|3|21|Fecit quoque Dominus Deus Adae et uxori eius tunicas pelliceas et induit eos.
+GEN|3|22|Et ait Dominus Deus: " Ecce homo factus est quasi unus ex nobis, ut sciat bonum et malum; nunc ergo, ne mittat manum suam et sumat etiam de ligno vitae et comedat et vivat in aeternum! ".
+GEN|3|23|Emisit eum Dominus Deus de paradiso Eden, ut operaretur humum, de qua sumptus est.
+GEN|3|24|Eiecitque hominem et collocavit ad orientem paradisi Eden cherubim et flammeum gladium atque versatilem ad custodiendam viam ligni vitae.
+GEN|4|1|Adam vero cognovit Evam uxo rem suam, quae concepit et peperit Cain dicens: " Acquisivi virum per Dominum ".
+GEN|4|2|Rursusque peperit fratrem eius Abel. Et fuit Abel pastor ovium et Cain agricola.
+GEN|4|3|Factum est autem post aliquot dies ut offerret Cain de fructibus agri munus Domino.
+GEN|4|4|Abel quoque obtulit de primogenitis gregis sui et de adipibus eorum. Et respexit Dominus ad Abel et ad munus eius,
+GEN|4|5|ad Cain vero et ad munus illius non respexit. Iratusque est Cain vehementer, et concidit vultus eius.
+GEN|4|6|Dixitque Dominus ad eum: " Quare iratus es, et cur concidit facies tua?
+GEN|4|7|Nonne si bene egeris, vultum attolles? Sin autem male, in foribus peccatum insidiabitur, et ad te erit appetitus eius, tu autem dominaberis illius ".
+GEN|4|8|Dixitque Cain ad Abel fratrem suum: " Egrediamur foras ". Cumque essent in agro, consurrexit Cain adversus Abel fratrem suum et interfecit eum.
+GEN|4|9|Et ait Dominus ad Cain: " Ubi est Abel frater tuus? ". Qui respondit: " Nescio. Num custos fratris mei sum ego? ".
+GEN|4|10|Dixitque ad eum: " Quid fecisti? Vox sanguinis fratris tui clamat ad me de agro.
+GEN|4|11|Nunc igitur maledictus eris procul ab agro, qui aperuit os suum et suscepit sanguinem fratris tui de manu tua!
+GEN|4|12|Cum operatus fueris eum, amplius non dabit tibi fructus suos; vagus et profugus eris super terram ".
+GEN|4|13|Dixitque Cain ad Dominum: " Maior est poena mea quam ut portem eam.
+GEN|4|14|Ecce eicis me hodie a facie agri, et a facie tua abscondar et ero vagus et profugus in terra; omnis igitur, qui invenerit me, occidet me ".
+GEN|4|15|Dixitque ei Dominus: " Nequaquam ita fiet, sed omnis qui occiderit Cain, septuplum punietur! ". Posuitque Dominus Cain signum, ut non eum interficeret omnis qui invenisset eum.
+GEN|4|16|Egressusque Cain a facie Domini habitavit in terra Nod ad orientalem plagam Eden.
+GEN|4|17|Cognovit autem Cain uxorem suam, quae concepit et peperit Henoch. Et aedificavit civitatem vocavitque nomen eius ex nomine filii sui Henoch.
+GEN|4|18|Porro Henoch genuit Irad, et Irad genuit Maviael, et Maviael genuit Mathusael, et Mathusael genuit Lamech.
+GEN|4|19|Qui accepit uxores duas: nomen uni Ada et nomen alteri Sella.
+GEN|4|20|Genuitque Ada Iabel, qui fuit pater habitantium in tentoriis atque pastorum.
+GEN|4|21|Et nomen fratris eius Iubal; ipse fuit pater omnium canentium cithara et organo.
+GEN|4|22|Sella quoque genuit Tubalcain, qui fuit malleator et faber in cuncta opera aeris et ferri. Soror vero Tubalcain Noema.
+GEN|4|23|Dixitque Lamech uxoribus suis: Ada et Sella, audite vocem meam; uxores Lamech, auscultate sermonem meum:occidi virum pro vulnere meoet adulescentulum pro livore meo;
+GEN|4|24|septuplum ultio dabitur de Cain, de Lamech vero septuagies septies ".
+GEN|4|25|Cognovit quoque Adam uxorem suam, et peperit filium vocavitque nomen eius Seth dicens: " Posuit mihi Deus semen aliud pro Abel, quem occidit Cain ".
+GEN|4|26|Sed et Seth natus est filius, quem vocavit Enos. Tunc coeperunt invocare nomen Domini.
+GEN|5|1|Hic est liber generationis Adam. In die qua creavit Deus homi nem, ad similitudinem Dei fecit illum.
+GEN|5|2|Masculum et feminam creavit eos et benedixit illis; et vocavit nomen eorum Adam in die, quo creati sunt.
+GEN|5|3|Vixit autem Adam centum triginta annis et genuit ad similitudinem et imaginem suam vocavitque nomen eius Seth.
+GEN|5|4|Et facti sunt dies Adam, postquam genuit Seth, octingenti anni, genuitque filios et filias.
+GEN|5|5|Et factum est omne tempus, quod vixit Adam, anni nongenti triginta, et mortuus est.
+GEN|5|6|Vixit quoque Seth centum quinque annos et genuit Enos.
+GEN|5|7|Vixitque Seth, postquam genuit Enos, octingentis septem annis genuitque filios et filias.
+GEN|5|8|Et facti sunt omnes dies Seth nongentorum duodecim annorum, et mortuus est.
+GEN|5|9|Vixit vero Enos nonaginta annis et genuit Cainan.
+GEN|5|10|Et vixit Enos, postquam genuit Cainan, octingentis quindecim annis et genuit filios et filias.
+GEN|5|11|Factique sunt omnes dies Enos nongentorum quinque annorum, et mortuus est.
+GEN|5|12|Vixit quoque Cainan septuaginta annis et genuit Malaleel.
+GEN|5|13|Et vixit Cainan, postquam genuit Malaleel, octingentos quadraginta annos genuitque filios et filias.
+GEN|5|14|Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.
+GEN|5|15|Vixit autem Malaleel sexaginta quinque annos et genuit Iared.
+GEN|5|16|Et vixit Malaleel, postquam genuit Iared, octingentis triginta annis et genuit filios et filias.
+GEN|5|17|Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.
+GEN|5|18|Vixitque Iared centum sexaginta duobus annis et genuit Henoch.
+GEN|5|19|Et vixit Iared, postquam genuit Henoch, octingentos annos et genuit filios et filias.
+GEN|5|20|Et facti sunt omnes dies Iared nongenti sexaginta duo anni, et mortuus est.
+GEN|5|21|Porro Henoch vixit sexaginta quinque annis et genuit Mathusalam.
+GEN|5|22|Et ambulavit Henoch cum Deo, postquam genuit Mathusalam, trecentis annis et genuit filios et filias.
+GEN|5|23|Et facti sunt omnes dies Henoch trecenti sexaginta quinque anni,
+GEN|5|24|ambulavitque cum Deo et non apparuit, quia tulit eum Deus.
+GEN|5|25|Vixit quoque Mathusala centum octoginta septem annos et genuit Lamech.
+GEN|5|26|Et vixit Mathusala, postquam genuit Lamech, septingentos octoginta duos annos et genuit filios et filias.
+GEN|5|27|Et facti sunt omnes dies Mathusalae nongenti sexaginta novem anni, et mortuus est.
+GEN|5|28|Vixit autem Lamech centum octoginta duobus annis et genuit filium
+GEN|5|29|vocavitque nomen eius Noe dicens: " Iste consolabitur nos ab operibus nostris et labore manuum nostrarum in agro, cui maledixit Dominus ".
+GEN|5|30|Vixitque Lamech, postquam genuit Noe, quingentos nonaginta quinque annos et genuit filios et filias.
+GEN|5|31|Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est.
+GEN|5|32|Noe vero, cum quingentorum esset annorum, genuit Sem, Cham et Iapheth.
+GEN|6|1|Cumque coepissent homines multiplicari super terram et fi lias procreassent,
+GEN|6|2|videntes filii Dei filias hominum quod essent pulchrae, acceperunt sibi uxores ex omnibus, quas elegerant.
+GEN|6|3|Dixitque Deus: " Non permanebit spiritus meus in homine in aeternum, quia caro est; eruntque dies illius centum viginti annorum ".
+GEN|6|4|Gigantes erant super terram in diebus illis et etiam postquam ingressi sunt filii Dei ad filias hominum, illaeque eis genuerunt: isti sunt potentes a saeculo viri famosi.
+GEN|6|5|Videns autem Dominus quod multa malitia hominum esset in terra, et cuncta cogitatio cordis eorum non intenta esset nisi ad malum omni tempore,
+GEN|6|6|paenituit Dominum quod hominem fecisset in terra. Et tactus dolore cordis intrinsecus:
+GEN|6|7|" Delebo, inquit, hominem, quem creavi, a facie terrae, ab homine usque ad pecus, usque ad reptile et usque ad volucres caeli; paenitet enim me fecisse eos ".
+GEN|6|8|Noe vero invenit gratiam coram Domino.
+GEN|6|9|Hae sunt generationes Noe: Noe vir iustus atque perfectus fuit in generatione sua; cum Deo ambulavit.
+GEN|6|10|Et genuit tres filios: Sem, Cham et Iapheth.
+GEN|6|11|Corrupta est autem terra coram Deo et repleta est iniquitate.
+GEN|6|12|Cumque vidisset Deus terram esse corruptam ­ omnis quippe caro corruperat viam suam super terram ­
+GEN|6|13|dixit ad Noe: " Finis universae carnis venit coram me; repleta est enim terra iniquitate a facie eorum, et ecce ego disperdam eos de terra.
+GEN|6|14|Fac tibi arcam de lignis cupressinis; mansiunculas in arca facies et bitumine linies eam intrinsecus et extrinsecus.
+GEN|6|15|Et sic facies eam: trecentorum cubitorum erit longitudo arcae, quinquaginta cubitorum latitudo et triginta cubitorum altitudo illius.
+GEN|6|16|Fenestram in arca facies et cubito consummabis summitatem eius. Ostium autem arcae pones ex latere; tabulatum inferius, medium et superius facies in ea.
+GEN|6|17|Ecce ego adducam diluvii aquas super terram, ut interficiam omnem carnem, in qua spiritus vitae est subter caelum: universa, quae in terra sunt, consumentur.
+GEN|6|18|Ponamque foedus meum tecum; et ingredieris arcam tu et filii tui, uxor tua et uxores filiorum tuorum tecum.
+GEN|6|19|Et ex cunctis animantibus universae carnis bina induces in arcam, ut vivant tecum, masculini sexus et feminini.
+GEN|6|20|De volucribus iuxta genus suum et de iumentis in genere suo et ex omni reptili terrae secundum genus suum: bina de omnibus ingredientur ad te, ut possint vivere.
+GEN|6|21|Tu autem tolle tecum ex omnibus escis, quae mandi possunt, et comportabis apud te; et erunt tam tibi quam illis in cibum ".
+GEN|6|22|Fecit ergo Noe omnia, quae praeceperat illi Deus; sic fecit.
+GEN|7|1|Dixitque Dominus ad Noe: " Ingredere tu et omnis domus tua arcam; te enim vidi iustum coram me in generatione hac.
+GEN|7|2|Ex omnibus pecoribus mundis tolle septena septena, masculum et feminam; de pecoribus vero non mundis duo duo, masculum et feminam.
+GEN|7|3|Sed et de volatilibus caeli septena septena, masculum et feminam, ut salvetur semen super faciem universae terrae.
+GEN|7|4|Adhuc enim et post dies septem ego pluam super terram quadraginta diebus et quadraginta noctibus et delebo omnem substantiam, quam feci, de superficie terrae ".
+GEN|7|5|Fecit ergo Noe omnia, quae mandaverat ei Dominus.
+GEN|7|6|Eratque Noe sescentorum annorum, quando diluvii aquae inundaverunt super terram.
+GEN|7|7|Et ingressus est Noe et filii eius, uxor eius et uxores filiorum eius cum eo in arcam propter aquas diluvii.
+GEN|7|8|De pecoribus mundis et immundis et de volucribus et ex omni, quod movetur super terram,
+GEN|7|9|duo et duo ingressa sunt ad Noe in arcam, masculus et femina, sicut praeceperat Deus Noe.
+GEN|7|10|Cumque transissent septem dies, aquae diluvii inundaverunt super terram.
+GEN|7|11|Anno sescentesimo vitae Noe, mense secundo, septimo decimo die mensis rupti sunt omnes fontes abyssi magnae, et cataractae caeli apertae sunt;
+GEN|7|12|et facta est pluvia super terram quadraginta diebus et quadraginta noctibus.
+GEN|7|13|In articulo diei illius ingressus est Noe et Sem et Cham et Iapheth filii eius, uxor illius et tres uxores filiorum eius cum eis in arcam.
+GEN|7|14|Ipsi et omne animal secundum genus suum, universaque iumenta in genere suo, et omne reptile, quod movetur super terram in genere suo, cunctumque volatile secundum genus suum, universae aves omnesque volucres
+GEN|7|15|ingressae sunt ad Noe in arcam, bina et bina ex omni carne, in qua erat spiritus vitae.
+GEN|7|16|Et quae ingressa sunt, masculus et femina ex omni carne introierunt, sicut praeceperat ei Deus; et inclusit eum Dominus de foris.
+GEN|7|17|Factumque est diluvium quadraginta diebus super terram, et multiplicatae sunt aquae et elevaverunt arcam in sublime a terra.
+GEN|7|18|Vehementer enim inundaverunt et omnia repleverunt in superficie terrae; porro arca ferebatur super aquas.
+GEN|7|19|Et aquae praevaluerunt nimis super terram, opertique sunt omnes montes excelsi sub universo caelo.
+GEN|7|20|Quindecim cubitis altior fuit aqua super montes, quos operuerat.
+GEN|7|21|Consumptaque est omnis caro, quae movebatur super terram, volucrum, pecorum, bestiarum omniumque reptilium, quae reptant super terram, et universi homines:
+GEN|7|22|cuncta, in quibus spiraculum vitae in terra, mortua sunt.
+GEN|7|23|Et delevit omnem substantiam, quae erat super terram, ab homine usque ad pecus, usque ad reptile et usque ad volucres caeli; et deleta sunt de terra. Remansit autem solus Noe et qui cum eo erant in arca.
+GEN|7|24|Obtinueruntque aquae terram centum quinquaginta diebus.
+GEN|8|1|Recordatus autem Deus Noe cunctorumque animantium et omnium iumentorum, quae erant cum eo in arca, adduxit spiritum super terram, et imminutae sunt aquae.
+GEN|8|2|Et clausi sunt fontes abyssi et cataractae caeli, et prohibitae sunt pluviae de caelo.
+GEN|8|3|Reversaeque sunt aquae de terra euntes et redeuntes et coeperunt minui post centum quinquaginta dies.
+GEN|8|4|Requievitque arca mense septimo, decima septima die mensis super montes Ararat.
+GEN|8|5|At vero aquae ibant et decrescebant usque ad decimum mensem; decimo enim mense, prima die mensis, apparuerunt cacumina montium.
+GEN|8|6|Cumque transissent quadraginta dies, aperiens Noe fenestram arcae, quam fecerat, dimisit corvum;
+GEN|8|7|qui egrediebatur exiens et rediens, donec siccarentur aquae super terram.
+GEN|8|8|Emisit quoque columbam a se, ut videret si iam cessassent aquae super faciem terrae.
+GEN|8|9|Quae, cum non invenisset, ubi requiesceret pes eius, reversa est ad eum in arcam; aquae enim erant super universam terram. Extenditque manum et apprehensam intulit in arcam.
+GEN|8|10|Exspectatis autem ultra septem diebus aliis, rursum dimisit columbam ex arca.
+GEN|8|11|At illa venit ad eum ad vesperam portans ramum olivae virentibus foliis in ore suo. Intellexit ergo Noe quod cessassent aquae super terram.
+GEN|8|12|Exspectavitque nihilominus septem alios dies; et emisit columbam, quae non est reversa ultra ad eum.
+GEN|8|13|Igitur sescentesimo primo anno, primo mense, prima die mensis, siccatae sunt aquae super terram; et aperiens Noe tectum arcae, et ecce aspexit viditque quod exsiccata erat superficies terrae.
+GEN|8|14|Mense secundo, septima et vicesima die mensis, arefacta est terra.
+GEN|8|15|Locutus est autem Deus ad Noe dicens:
+GEN|8|16|" Egredere de arca tu et uxor tua, filii tui et uxores filiorum tuorum tecum.
+GEN|8|17|Cuncta animantia, quae sunt apud te ex omni carne, tam in volatilibus quam in pecoribus et in universis reptilibus, quae reptant super terram, educ tecum, ut pullulent super terram et crescant et multiplicentur super eam ".
+GEN|8|18|Egressus est ergo Noe et filii eius, uxor illius et uxores filiorum eius cum eo.
+GEN|8|19|Sed et omnia animantia, iumenta, volatilia et reptilia, quae reptant super terram, secundum genus suum egressa sunt de arca.
+GEN|8|20|Aedificavit autem Noe altare Domino; et tollens de cunctis pecoribus mundis et volucribus mundis obtulit holocausta super altare.
+GEN|8|21|Odoratusque est Dominus odorem suavitatis et locutus est Dominus ad cor suum: " Nequaquam ultra maledicam terrae propter homines, quia cogitatio humani cordis in malum prona est ab adulescentia sua. Non igitur ultra percutiam omnem animam viventem, sicut feci.
+GEN|8|22|Cunctis diebus terrae, sementis et messis, frigus et aestus, aestas et hiems, dies et nox non requiescent ".
+GEN|9|1|Benedixitque Deus Noe et filiis eius et dixit ad eos: " Crescite et multiplicamini et implete terram.
+GEN|9|2|Et terror vester ac tremor sit super cuncta animalia terrae et super omnes volucres caeli cum universis, quae moventur super terram; omnes pisces maris manui vestrae traditi sunt.
+GEN|9|3|Omne, quod movetur et vivit, erit vobis in cibum; quasi holera virentia tradidi vobis omnia,
+GEN|9|4|excepto quod carnem cum anima, quae est in sanguine, non comedetis.
+GEN|9|5|Sanguinem enim animarum vestrarum requiram de manu cunctarum bestiarum; et de manu hominis, de manu viri fratris eius requiram animam hominis.
+GEN|9|6|Quicumque effuderit humanum sanguinem,per hominem fundetur sanguis illius;ad imaginem quippe Deifactus est homo.
+GEN|9|7|Vos autem crescite et multiplicamini et pullulate super terram et dominamini ei ".
+GEN|9|8|Haec quoque dixit Deus ad Noe et ad filios eius cum eo:
+GEN|9|9|" Ecce ego statuam pactum meum vobiscum et cum semine vestro post vos
+GEN|9|10|et ad omnem animam viventem, quae est vobiscum tam in volucribus quam in iumentis et in omnibus bestiis terrae, quae sunt vobiscum, cunctis, quae egressa sunt de arca, universis bestiis terrae.
+GEN|9|11|Statuam pactum meum vobiscum; et nequaquam ultra interficietur omnis caro aquis diluvii, neque erit deinceps diluvium dissipans terram ".
+GEN|9|12|Dixitque Deus: " Hoc signum foederis, quod do inter me et vos et ad omnem animam viventem, quae est vobiscum, in generationes sempiternas:
+GEN|9|13|arcum meum ponam in nubibus, et erit signum foederis inter me et inter terram.
+GEN|9|14|Cumque obduxero nubibus caelum, apparebit arcus meus in nubibus,
+GEN|9|15|et recordabor foederis mei vobiscum et cum omni anima vivente, quae carnem vegetat; et non erunt ultra aquae diluvii ad delendum universam carnem.
+GEN|9|16|Eritque arcus in nubibus, et videbo illum et recordabor foederis sempiterni, quod pactum est inter Deum et omnem animam viventem universae carnis, quae est super terram ".
+GEN|9|17|Dixitque Deus ad Noe: " Hoc erit signum foederis, quod constitui inter me et omnem carnem super terram ".
+GEN|9|18|Erant ergo filii Noe, qui egressi sunt de arca, Sem, Cham et Iapheth. Porro Cham ipse est pater Chanaan.
+GEN|9|19|Tres isti filii sunt Noe, et ab his disseminatum est omne hominum genus super universam terram.
+GEN|9|20|Coepitque Noe agricola plantare vineam;
+GEN|9|21|bibensque vinum inebriatus est et nudatus in tabernaculo suo.
+GEN|9|22|Quod cum vidisset Cham pater Chanaan, verenda scilicet patris sui esse nudata, nuntiavit duobus fratribus suis foras.
+GEN|9|23|At vero Sem et Iapheth pallium imposuerunt umeris suis et incedentes retrorsum operuerunt verecunda patris sui, faciesque eorum aversae erant, et patris virilia non viderunt.
+GEN|9|24|Evigilans autem Noe ex vino, cum didicisset, quae fecerat ei filius suus minor,
+GEN|9|25|ait:Maledictus Chanaan!Servus servorum erit fratribus suis ".
+GEN|9|26|Dixitque:Benedictus Dominus Deus Sem!Sitque Chanaan servus eius.
+GEN|9|27|Dilatet Deus Iapheth,et habitet in tabernaculis Sem,sitque Chanaan servus eius ".
+GEN|9|28|Vixit autem Noe post diluvium trecentis quinquaginta annis.
+GEN|9|29|Et impleti sunt omnes dies eius nongentorum quinquaginta annorum, et mortuus est.
+GEN|10|1|Hae sunt generationes filio rum Noe, Sem, Cham et Ia pheth; natique sunt eis filii post diluvium.
+GEN|10|2|Filii Iapheth: Gomer et Magog et Madai et Iavan et Thubal et Mosoch et Thiras.
+GEN|10|3|Porro filii Gomer: Aschenez et Riphath et Thogorma.
+GEN|10|4|Filii autem Iavan: Elisa et Tharsis, Cetthim et Rodanim.
+GEN|10|5|Ab his divisae sunt insulae gentium in regionibus suis, unusquisque secundum linguam suam et familias suas in nationibus suis.
+GEN|10|6|Filii autem Cham: Chus et Mesraim et Phut et Chanaan.
+GEN|10|7|Filii Chus: Saba et Hevila et Sabatha et Regma et Sabathacha. Filii Regma: Saba et Dedan.
+GEN|10|8|Porro Chus genuit Nemrod: ipse coepit esse potens in terra
+GEN|10|9|et erat robustus venator coram Domino. Ob hoc exivit proverbium: " Quasi Nemrod robustus venator coram Domino ".
+GEN|10|10|Fuit autem principium regni eius Babylon et Arach et Achad et Chalanne in terra Sennaar.
+GEN|10|11|De terra illa egressus est in Assyriam et aedificavit Nineven et Rohobothir et Chale,
+GEN|10|12|Resen quoque inter Nineven et Chale; haec est civitas magna.
+GEN|10|13|At vero Mesraim genuit Ludim et Anamim et Laabim, Nephthuim
+GEN|10|14|et Phetrusim et Chasluim et Caphtorim, de quibus egressi sunt Philisthim.
+GEN|10|15|Chanaan autem genuit Sidonem primogenitum suum, Hetthaeum
+GEN|10|16|et Iebusaeum et Amorraeum, Gergesaeum,
+GEN|10|17|Hevaeum et Aracaeum, Sinaeum
+GEN|10|18|et Aradium, Samaraeum et Emathaeum; et post haec disseminati sunt populi Chananaeorum.
+GEN|10|19|Factique sunt termini Chanaan venientibus a Sidone Geraram usque Gazam, donec ingrediaris Sodomam et Gomorram et Adamam et Seboim usque Lesa.
+GEN|10|20|Hi sunt filii Cham in cognationibus et linguis terrisque et gentibus suis.
+GEN|10|21|De Sem quoque nati sunt, patre omnium filiorum Heber, fratre Iapheth maiore.
+GEN|10|22|Filii Sem: Elam et Assur et Arphaxad et Lud et Aram.
+GEN|10|23|Filii Aram: Us et Hul et Gether et Mes.
+GEN|10|24|At vero Arphaxad genuit Sala, de quo ortus est Heber.
+GEN|10|25|Natique sunt Heber filii duo: nomen uni Phaleg, eo quod in diebus eius divisa sit terra, et nomen fratris eius Iectan.
+GEN|10|26|Qui Iectan genuit Elmodad et Saleph et Asarmoth, Iare
+GEN|10|27|et Adoram et Uzal et Decla
+GEN|10|28|et Ebal et Abimael, Saba
+GEN|10|29|et Ophir et Hevila et Iobab. Omnes isti filii Iectan;
+GEN|10|30|et facta est habitatio eorum de Messa pergentibus usque Sephar montem orientalem.
+GEN|10|31|Isti filii Sem secundum cognationes et linguas et regiones in gentibus suis.
+GEN|10|32|Hae familiae filiorum Noe iuxta generationes et nationes suas. Ab his divisae sunt gentes in terra post diluvium.
+GEN|11|1|Erat autem universa terra labii unius et sermonum eo rundem.
+GEN|11|2|Cumque proficiscerentur de oriente, invenerunt campum in terra Sennaar et habitaverunt in eo.
+GEN|11|3|Dixitque alter ad proximum suum: " Venite, faciamus lateres et coquamus eos igni ". Habueruntque lateres pro saxis et bitumen pro caemento.
+GEN|11|4|Et dixerunt: " Venite, faciamus nobis civitatem et turrim, cuius culmen pertingat ad caelum, et faciamus nobis nomen, ne dividamur super faciem universae terrae ".
+GEN|11|5|Descendit autem Dominus, ut videret civitatem et turrim, quam aedificaverunt filii hominum,
+GEN|11|6|et dixit Dominus: " Ecce unus est populus et unum labium omnibus; et hoc est initium operationis eorum, nec eis erit deinceps difficile, quidquid cogitaverint facere.
+GEN|11|7|Venite igitur, descendamus et confundamus ibi linguam eorum, ut non intellegat unusquisque vocem proximi sui ".
+GEN|11|8|Atque ita divisit eos Dominus ex illo loco super faciem universae terrae, et cessaverunt aedificare civitatem.
+GEN|11|9|Et idcirco vocatum est nomen eius Babel, quia ibi confusum est labium universae terrae, et inde dispersit eos Dominus super faciem universae terrae.
+GEN|11|10|Hae sunt generationes Sem. Sem centum erat annorum, quando genuit Arphaxad biennio post diluvium;
+GEN|11|11|vixitque Sem, postquam genuit Arphaxad, quingentos annos et genuit filios et filias.
+GEN|11|12|Porro Arphaxad vixit triginta quinque annos et genuit Sala.
+GEN|11|13|Vixitque Arphaxad, postquam genuit Sala, quadringentis tribus annis et genuit filios et filias.
+GEN|11|14|Sala quoque vixit triginta annis et genuit Heber.
+GEN|11|15|Vixitque Sala, postquam genuit Heber, quadringentis tribus annis et genuit filios et filias.
+GEN|11|16|Vixit autem Heber triginta quattuor annis et genuit Phaleg.
+GEN|11|17|Et vixit Heber, postquam genuit Phaleg, quadringentis triginta annis et genuit filios et filias.
+GEN|11|18|Vixit quoque Phaleg triginta annis et genuit Reu.
+GEN|11|19|Vixitque Phaleg, postquam genuit Reu, ducentis novem annis et genuit filios et filias.
+GEN|11|20|Vixit autem Reu triginta duobus annis et genuit Seruch.
+GEN|11|21|Vixitque Reu, postquam genuit Seruch, ducentis septem annis et genuit filios et filias.
+GEN|11|22|Vixit vero Seruch triginta annis et genuit Nachor.
+GEN|11|23|Vixitque Seruch, postquam genuit Nachor, ducentos annos et genuit filios et filias.
+GEN|11|24|Vixit autem Nachor viginti novem annis et genuit Thare.
+GEN|11|25|Vixitque Nachor, postquam genuit Thare, centum decem et novem annos et genuit filios et filias.
+GEN|11|26|Vixitque Thare septuaginta annis et genuit Abram, Nachor et Aran.
+GEN|11|27|Hae sunt autem generationes Thare. Thare genuit Abram, Nachor et Aran. Porro Aran genuit Lot;
+GEN|11|28|mortuusque est Aran ante Thare patrem suum in terra nativitatis suae in Ur Chaldaeorum.
+GEN|11|29|Duxerunt autem Abram et Nachor uxores: nomen uxoris Abram Sarai, et nomen uxoris Nachor Melcha, filia Aran patris Melchae et patris Ieschae.
+GEN|11|30|Erat autem Sarai sterilis nec habebat liberos.
+GEN|11|31|Tulitque Thare Abram filium suum et Lot filium Aran filium filii sui et Sarai nurum suam, uxorem Abram filii sui, et eduxit eos de Ur Chaldaeorum, ut irent in terram Chanaan. Veneruntque usque Charran et habitaverunt ibi.
+GEN|11|32|Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Charran.
+GEN|12|1|Dixit autem Dominus ad Abram: Egredere de terra tua et de cognatione tuaet de domo patris tuiin terram, quam monstrabo tibi.
+GEN|12|2|Faciamque te in gentem magnamet benedicam tibiet magnificabo nomen tuum,erisque in benedictionem.
+GEN|12|3|Benedicam benedicentibus tibiet maledicentibus tibi maledicam,atque in te benedicenturuniversae cognationes terrae! ".
+GEN|12|4|Egressus est itaque Abram, sicut praeceperat ei Dominus, et ivit cum eo Lot. Septuaginta quinque annorum erat Abram, cum egrederetur de Charran.
+GEN|12|5|Tulitque Sarai uxorem suam et Lot filium fratris sui universamque substantiam, quam acquisiverant, et animas, quas fecerant in Charran, et egressi sunt, ut irent in terram Chanaan; et venerunt in terram Chanaan.
+GEN|12|6|Pertransivit Abram terram usque ad locum Sichem, usque ad Quercum Moreh. Chananaeus autem tunc erat in terra.
+GEN|12|7|Apparuit autem Dominus Abram et dixit ei: " Semini tuo dabo terram hanc. Qui aedificavit ibi altare Domino, qui apparuerat ei.
+GEN|12|8|Et inde transgrediens ad montem, qui erat contra orientem Bethel, tetendit ibi tabernaculum suum ab occidente habens Bethel et ab oriente Hai; aedificavit quoque ibi altare Domino et invocavit nomen Domini.
+GEN|12|9|Perrexitque Abram de mansione in mansionem usque ad Nageb.
+GEN|12|10|Facta est autem fames in terra; descenditque Abram in Aegyptum, ut peregrinaretur ibi; praevaluerat enim fames in terra.
+GEN|12|11|Cumque prope esset, ut ingrederetur Aegyptum, dixit Sarai uxori suae: " Novi quod pulchra sis mulier
+GEN|12|12|et quod, cum viderint te Aegyptii, dicturi sunt: "Uxor ipsius est"; et interficient me et te reservabunt.
+GEN|12|13|Dic ergo, obsecro te, quod soror mea sis, ut bene sit mihi propter te, et vivat anima mea ob gratiam tui ".
+GEN|12|14|Cum itaque ingressus esset Abram Aegyptum, viderunt Aegyptii mulierem quod esset pulchra nimis,
+GEN|12|15|et viderunt eam principes pharaonis et laudaverunt eam apud illum; et sublata est mulier in domum pharaonis.
+GEN|12|16|Abram vero bene usus est propter illam; fueruntque ei oves et boves et asini et servi et famulae et asinae et cameli.
+GEN|12|17|Flagellavit autem Dominus pharaonem plagis maximis et domum eius propter Sarai uxorem Abram.
+GEN|12|18|Vocavitque pharao Abram et dixit ei: " Quidnam est hoc quod fecisti mihi? Quare non indicasti mihi quod uxor tua esset?
+GEN|12|19|Quam ob causam dixisti esse sororem tuam, ut tollerem eam mihi in uxorem? Nunc igitur, ecce coniux tua: accipe eam et vade! ".
+GEN|12|20|Praecepitque pharao super Abram viris; et deduxerunt eum et uxorem illius et omnia, quae habebat.
+GEN|13|1|Ascendit ergo Abram de Ae gypto ipse et uxor eius et om nia, quae habebat, et Lot cum eo ad Nageb.
+GEN|13|2|Abram autem erat dives valde in pecoribus, argento et auro.
+GEN|13|3|Et profectus est de mansione in mansionem a Nageb in Bethel usque ad locum, ubi prius fixerat tabernaculum inter Bethel et Hai,
+GEN|13|4|in loco altaris, quod fecerat prius, et invocavit ibi nomen Domini.
+GEN|13|5|Sed et Lot, qui ibat cum Abram, fuerunt greges ovium et armenta et tabernacula;
+GEN|13|6|nec poterat eos capere terra, ut habitarent simul: erat quippe substantia eorum multa, et nequibant habitare communiter.
+GEN|13|7|Unde et facta est rixa inter pastores gregum Abram et pastores gregum Lot. Eo autem tempore Chananaeus et Pherezaeus habitabant in illa terra.
+GEN|13|8|Dixit ergo Abram ad Lot: " Ne, quaeso, sit iurgium inter me et te et inter pastores meos et pastores tuos: fratres enim sumus.
+GEN|13|9|Nonne universa terra coram te est? Recede a me, obsecro: si ad sinistram ieris, ego dexteram tenebo; si tu dexteram elegeris, ego ad sinistram pergam ".
+GEN|13|10|Elevatis itaque Lot oculis, vidit omnem circa regionem Iordanis, quae universa irrigabatur, antequam subverteret Dominus Sodomam et Gomorram, sicut paradisus Domini et sicut Aegyptus usque in Segor.
+GEN|13|11|Elegitque sibi Lot omnem regionem circa Iordanem et recessit ad orientem; divisique sunt alterutrum a fratre suo.
+GEN|13|12|Abram habitavit in terra Chanaan; Lot vero moratus est in oppidis, quae erant circa Iordanem, et tabernacula movit usque ad Sodomam.
+GEN|13|13|Homines autem Sodomitae pessimi erant et peccatores coram Domino nimis.
+GEN|13|14|Dixitque Dominus ad Abram, postquam divisus est Lot ab eo: " Leva oculos tuos et vide a loco, in quo nunc es, ad aquilonem et ad meridiem, ad orientem et ad occidentem:
+GEN|13|15|omnem terram, quam conspicis, tibi dabo et semini tuo usque in sempiternum;
+GEN|13|16|faciamque semen tuum sicut pulverem terrae: si quis potest hominum numerare pulverem terrae, semen quoque tuum numerare poterit.
+GEN|13|17|Surge et perambula terram in longitudine et in latitudine sua, quia tibi daturus sum eam ".
+GEN|13|18|Movens igitur tabernaculum suum, Abram venit et habitavit iuxta Quercus Mambre, quae sunt in Hebron, aedificavitque ibi altare Domino.
+GEN|14|1|Factum est autem in illo tempore, ut Amraphel rex Sennaar et Arioch rex Ellasar et Chodorlahomor rex Elam et Thadal rex gentium
+GEN|14|2|inirent bellum contra Bara regem Sodomae et contra Bersa regem Gomorrae et contra Sennaab regem Adamae et contra Semeber regem Seboim contraque regem Belae; ipsa est Segor.
+GEN|14|3|Omnes hi convenerunt in vallem Siddim, quae nunc est mare Salis.
+GEN|14|4|Duodecim annis servierant Chodorlahomor et tertio decimo anno recesserunt ab eo.
+GEN|14|5|Igitur anno quarto decimo venit Chodorlahomor et reges, qui erant cum eo, percusseruntque Raphaim in Astharothcarnaim et Zuzim in Ham et Emim in Savecariathaim
+GEN|14|6|et Chorraeos in montibus Seir usque ad Elpharan, quae est in deserto.
+GEN|14|7|Reversique sunt et venerunt ad fontem Mesphat; ipsa est Cades. Et percusserunt omnem regionem Amalecitarum et etiam Amorraeum, qui habitabat in Asasonthamar.
+GEN|14|8|Et egressi sunt rex Sodomae et rex Gomorrae rexque Adamae et rex Seboim necnon et rex Belae, quae est Segor; et direxerunt contra eos aciem in valle Siddim,
+GEN|14|9|scilicet adversus Chodorlahomor regem Elam et Thadal regem gentium et Amraphel regem Sennaar et Arioch regem Ellasar: quattuor reges adversus quinque.
+GEN|14|10|Vallis autem Siddim habebat puteos multos bituminis. Itaque rex Sodomae et Gomorrae terga verterunt cecideruntque illuc; et, qui remanserant, fugerunt ad montem.
+GEN|14|11|Tulerunt autem omnem substantiam Sodomae et Gomorrae et universa, quae ad cibum pertinent, et abierunt;
+GEN|14|12|ceperunt et Lot et substantiam eius, filium fratris Abram, qui habitabat in Sodoma.
+GEN|14|13|Et ecce unus, qui evaserat, nuntiavit Abram Hebraeo, qui habitabat iuxta Quercus Mambre Amorraei fratris Eschol et fratris Aner; hi enim pepigerant foedus cum Abram.
+GEN|14|14|Quod cum audisset Abram, captum videlicet Lot fratrem suum, numeravit expeditos vernaculos suos trecentos decem et octo et persecutus est usque Dan;
+GEN|14|15|et, divisis sociis, irruit super eos nocte percussitque eos et persecutus est eos usque Hoba, quae est ad laevam Damasci;
+GEN|14|16|reduxitque omnem substantiam, necnon et Lot fratrem suum cum substantia illius, mulieres quoque et populum.
+GEN|14|17|Egressus est autem rex Sodomae in occursum eius, postquam reversus est a caede Chodorlahomor et regum, qui cum eo erant, in vallem Save, quae est vallis Regis.
+GEN|14|18|At vero Melchisedech rex Salem proferens panem et vinum ­ erat enim sacerdos Dei altissimi ­
+GEN|14|19|benedixit ei et ait: Benedictus Abram a Deo excelso, qui creavit caelum et terram
+GEN|14|20|et benedictus Deus excelsus,qui tradidit hostes tuos in manus tuas ".Et dedit ei decimas ex omnibus.
+GEN|14|21|Dixit autem rex Sodomae ad Abram: " Da mihi animas; substantiam tolle tibi ".
+GEN|14|22|Qui respondit ei: " Levo manum meam ad Dominum, Deum excelsum, creatorem caeli et terrae,
+GEN|14|23|a filo subteminis usque ad corrigiam caligae non accipiam ex omnibus, quae tua sunt, ne dicas: "Ego ditavi Abram";
+GEN|14|24|exceptis his, quae comederunt iuvenes, et partibus virorum, qui venerunt mecum, Aner, Eschol et Mambre: isti accipient partes suas ".
+GEN|15|1|His itaque transactis, factus est sermo Domini ad Abram per visionem dicens: "Noli timere, Abram! Ego protector tuus sum, et merces tua magna erit nimis ".
+GEN|15|2|Dixitque Abram: " Domine Deus, quid dabis mihi? Ego vadam absque liberis, et heres domus meae erit Damascenus Eliezer ".
+GEN|15|3|Addiditque Abram: " En mihi non dedisti semen, et ecce vernaculus meus heres meus erit ".
+GEN|15|4|Sed ecce sermo Domini factus est ad eum: "Non erit hic heres tuus, sed qui egredietur de visceribus tuis, ipsum habebis heredem ".
+GEN|15|5|Eduxitque eum foras et ait illi: " Suspice caelum et numera stellas, si potes ". Et dixit ei: " Sic erit semen tuum ".
+GEN|15|6|Credidit Domino, et reputatum est ei ad iustitiam.
+GEN|15|7|Dixitque ad eum: " Ego Dominus, qui eduxi te de Ur Chaldaeorum, ut darem tibi terram istam, et possideres eam ".
+GEN|15|8|Et ille ait: " Domine Deus, unde scire possum quod possessurus sim eam?.
+GEN|15|9|Respondens Dominus: " Sume, inquit, mihi vitulam triennem et capram trimam et arietem annorum trium, turturem quoque et columbam ".
+GEN|15|10|Qui tollens universa haec divisit ea per medium et utrasque partes contra se altrinsecus posuit; aves autem non divisit.
+GEN|15|11|Descenderuntque volucres super cadavera, et abigebat eas Abram.
+GEN|15|12|Cumque sol occumberet, sopor irruit super Abram, et ecce horror magnus et tenebrosus invasit eum.
+GEN|15|13|Dictumque est ad eum: " Scito praenoscens quod peregrinum futurum sit semen tuum in terra non sua, et subicient eos servituti et affligent quadringentis annis.
+GEN|15|14|Verumtamen et gentem, cui servituri sunt, ego iudicabo, et post haec egredientur cum magna substantia.
+GEN|15|15|Tu autem ibis ad patres tuos in pace, sepultus in senectute bona.
+GEN|15|16|Generatione autem quarta revertentur huc; necdum enim completae sunt iniquitates Amorraeorum usque ad praesens tempus ".
+GEN|15|17|Cum ergo occubuisset sol, facta est caligo tenebrosa, et apparuit clibanus fumans et lampas ignis transiens inter divisiones illas.
+GEN|15|18|In illo die pepigit Dominus cum Abram foedus dicens: " Semini tuo dabo terram hanc a fluvio Aegypti usque ad magnum fluvium Euphraten,
+GEN|15|19|Cinaeos et Cenezaeos, Cedmonaeos
+GEN|15|20|et Hetthaeos et Pherezaeos, Raphaim quoque
+GEN|15|21|et Amorraeos et Chananaeos et Gergesaeos et Iebusaeos ".
+GEN|16|1|Sarai autem uxor Abram non genuerat ei liberos; sed habens ancillam Aegyptiam nomine Agar,
+GEN|16|2|dixit marito suo: " Ecce conclusit me Dominus, ne parerem; ingredere ad ancillam meam, si forte saltem ex illa suscipiam filios ". Cumque ille acquiesceret deprecanti,
+GEN|16|3|tulit Agar Aegyptiam ancillam suam post annos decem quam habitare coeperant in terra Chanaan, et dedit eam viro suo uxorem.
+GEN|16|4|Qui ingressus est ad eam. At illa concepisse se videns despexit dominam suam.
+GEN|16|5|Dixitque Sarai ad Abram: " Inique agis contra me; ego dedi ancillam meam in sinum tuum, quae videns quod conceperit, despectui me habet. Iudicet Dominus inter me et te ".
+GEN|16|6|Cui respondens Abram: " Ecce, ait, ancilla tua in manu tua est; utere ea, ut libet ". Affligente igitur eam Sarai, aufugit ab ea.
+GEN|16|7|Cumque invenisset illam angelus Domini iuxta fontem aquae in deserto, ad fontem in via Sur,
+GEN|16|8|dixit: " Agar, ancilla Sarai, unde venis et quo vadis? ". Quae respondit: " A facie Sarai dominae meae ego fugio ".
+GEN|16|9|Dixitque ei angelus Domini: " Revertere ad dominam tuam et humiliare sub manibus ipsius ".
+GEN|16|10|Et dixit ei angelus Domini: " Multiplicans multiplicabo semen tuum, et non numerabitur prae multitudine ".
+GEN|16|11|Et dixit ei angelus Domini: Ecce, concepisti et paries filiumvocabisque nomen eius Ismael,eo quod audierit Dominus afflictionem tuam.
+GEN|16|12|Hic erit homo onagro similis;manus eius contra omnes,et manus omnium contra eum;et e regione universorum fratrum suorum figet tabernacula ".
+GEN|16|13|Vocavit autem nomen Domini, qui loquebatur ad eam: " Tu Deus, qui vidisti me ". Dixit enim: " Profecto hic vidi posteriora videntis me ".
+GEN|16|14|Propterea appellatur puteus ille Lahairoi (id est Viventis et Videntis me); ipse est inter Cades et Barad.
+GEN|16|15|Peperitque Agar Abrae filium; qui vocavit nomen filii sui, quem pepererat Agar, Ismael.
+GEN|16|16|Octoginta et sex annorum erat Abram, quando peperit ei Agar Ismaelem.
+GEN|17|1|Postquam Abram nonaginta et novem annorum factus est, apparuit ei Dominus dixitque ad eum: " Ego Deus omnipotens, ambula coram me et esto perfectus.
+GEN|17|2|Ponamque foedus meum inter me et te et multiplicabo te vehementer nimis.
+GEN|17|3|Cecidit Abram pronus in faciem.
+GEN|17|4|Dixitque ei Deus: " Ecce pactum meum tecum. Erisque pater multarum gentium,
+GEN|17|5|nec ultra vocabitur nomen tuum Abram, sed Abraham erit nomen tuum, quia patrem multarum gentium constitui te.
+GEN|17|6|Faciamque te crescere vehementissime et ponam te in gentes; regesque ex te egredientur.
+GEN|17|7|Et statuam pactum meum inter me et te et inter semen tuum post te in generationibus suis foedere sempiterno, ut sim Deus tuus et seminis tui post te.
+GEN|17|8|Daboque tibi et semini tuo post te terram peregrinationis tuae, omnem terram Chanaan in possessionem aeternam; eroque Deus eorum ".
+GEN|17|9|Dixit iterum Deus ad Abraham: " Tu autem pactum meum custodies, et semen tuum post te in generationibus suis.
+GEN|17|10|Hoc est pactum meum, quod observabitis, inter me et vos et semen tuum post te. Circumcidetur ex vobis omne masculinum,
+GEN|17|11|et circumcidetis carnem praeputii vestri, ut sit in signum foederis inter me et vos.
+GEN|17|12|Infans octo dierum circumcidetur in vobis: omne masculinum in generationibus vestris, tam vernaculus quam empticius ex omnibus alienigenis, quicumque non fuerit de stirpe vestra.
+GEN|17|13|Circumcidetur vernaculus et empticius, eritque pactum meum in carne vestra in foedus aeternum.
+GEN|17|14|Masculus, cuius praeputii caro circumcisa non fuerit, delebitur anima illa de populo suo; pactum meum irritum fecit.
+GEN|17|15|Dixit quoque Deus ad Abraham: " Sarai uxorem tuam non vocabis nomen eius Sarai, sed Sara erit nomen eius.
+GEN|17|16|Et benedicam ei; et ex illa quoque dabo tibi filium. Benedicturus sum eam, eritque in nationes; reges populorum orientur ex ea ".
+GEN|17|17|Cecidit Abraham in faciem suam et risit dicens in corde suo: " Putasne centenario nascetur filius? Et Sara nonagenaria pariet? ".
+GEN|17|18|Dixitque ad Deum: " Utinam Ismael vivat coram te ".
+GEN|17|19|Et ait Deus: " Sara uxor tua pariet tibi filium, vocabisque nomen eius Isaac; et constituam pactum meum illi in foedus sempiternum et semini eius post eum.
+GEN|17|20|Super Ismael quoque exaudivi te: ecce benedicam ei et crescere faciam et multiplicabo eum vehementissime; duodecim duces generabit, et faciam illum in gentem magnam.
+GEN|17|21|Pactum vero meum statuam ad Isaac, quem pariet tibi Sara tempore isto in anno altero ".
+GEN|17|22|Cumque cessasset loqui cum eo, ascendit Deus ab Abraham.
+GEN|17|23|Tulit ergo Abraham Ismael filium suum et omnes vernaculos domus suae universosque, quos emerat: cunctos mares ex omnibus viris domus suae; et circumcidit carnem praeputii eorum statim in ipsa die, sicut praeceperat ei Deus.
+GEN|17|24|Abraham nonaginta novem erat annorum, quando circumcisus est in carne praeputii sui;
+GEN|17|25|et Ismael filius eius tredecim annos impleverat tempore circumcisionis suae.
+GEN|17|26|Eadem die circumcisus est Abraham et Ismael filius eius;
+GEN|17|27|et omnes viri domus illius, tam vernaculi quam empticii ex alienigenis, circumcisi sunt cum eo.
+GEN|18|1|Apparuit autem ei Dominus iuxta Quercus Mambre se denti in ostio tabernaculi sui in ipso fervore diei.
+GEN|18|2|Cumque elevasset oculos, apparuerunt ei tres viri stantes prope eum. Quos cum vidisset, cucurrit in occursum eorum de ostio tabernaculi et adoravit in terram
+GEN|18|3|et dixit: " Domine mi, si inveni gratiam in oculis tuis, ne transeas servum tuum;
+GEN|18|4|afferatur pauxillum aquae, et lavate pedes vestros et requiescite sub arbore.
+GEN|18|5|Ponamque buccellam panis, et confortate cor vestrum, postea transibitis; idcirco enim declinastis ad servum vestrum ". Qui dixerunt: " Fac ut locutus es ".
+GEN|18|6|Festinavit Abraham in tabernaculum ad Saram dixitque: " Accelera, tria sata similae commisce et fac subcinericios panes ".
+GEN|18|7|Ipse vero ad armentum cucurrit et tulit inde vitulum tenerrimum et optimum deditque puero; qui festinavit et coxit illum.
+GEN|18|8|Tulit quoque butyrum et lac et vitulum, quem coxerat, et posuit coram eis. Ipse vero stabat iuxta eos sub arbore; et comederunt.
+GEN|18|9|Dixeruntque ad eum: " Ubi est Sara uxor tua? ". Ille respondit: " Ecce in tabernaculo est ".
+GEN|18|10|Cui dixit: " Revertens veniam ad te tempore isto, et habebit filium Sara uxor tua ". Quo audito, Sara risit ad ostium tabernaculi, quod erat post eum.
+GEN|18|11|Erant autem ambo senes provectaeque aetatis, et desierant Sarae fieri muliebria.
+GEN|18|12|Quae risit occulte dicens: " Postquam consenui, et dominus meus vetulus est, voluptas mihi erit? ".
+GEN|18|13|Dixit autem Dominus ad Abraham: " Quare risit Sara dicens: "Num vere paritura sum anus?"".
+GEN|18|14|Numquid Domino est quidquam difficile? Revertar ad te hoc eodem tempore, et habebit Sara filium ".
+GEN|18|15|Negavit Sara dicens: " Non risi ", timore perterrita. Ille autem dixit: Non; sed risisti ".
+GEN|18|16|Cum ergo surrexissent inde viri, direxerunt oculos contra Sodomam; et Abraham simul gradiebatur deducens eos.
+GEN|18|17|Dixitque Dominus: " Num celare potero Abraham, quae gesturus sum,
+GEN|18|18|cum futurus sit in gentem magnam ac robustissimam, et benedicendae sint in illo omnes nationes terrae?
+GEN|18|19|Nam elegi eum, ut praecipiat filiis suis et domui suae post se, ut custodiant viam Domini et faciant iustitiam et iudicium, ut adducat Dominus super Abraham omnia, quae locutus est ad eum ".
+GEN|18|20|Dixit itaque Dominus: " Clamor contra Sodomam et Gomorram multiplicatus est, et peccatum eorum aggravatum est nimis.
+GEN|18|21|Descendam et videbo utrum clamorem, qui venit ad me, opere compleverint an non; sciam ".
+GEN|18|22|Converteruntque se inde viri et abierunt Sodomam; Abraham vero adhuc stabat coram Domino.
+GEN|18|23|Et appropinquans ait: " Numquid vere perdes iustum cum impio?
+GEN|18|24|Si forte fuerint quinquaginta iusti in civitate, vere perdes et non parces loco illi propter quinquaginta iustos, si fuerint in eo?
+GEN|18|25|Absit a te, ut rem hanc facias et occidas iustum cum impio, fiatque iustus sicut impius; absit a te. Nonne iudex universae terrae faciet iudicium? ".
+GEN|18|26|Dixitque Dominus: " Si invenero Sodomae quinquaginta iustos in medio civitatis, dimittam omni loco propter eos ".
+GEN|18|27|Respondensque Abraham ait: " Ecce coepi loqui ad Dominum meum, cum sim pulvis et cinis.
+GEN|18|28|Quid, si forte minus quinquaginta iustis quinque fuerint? Delebis propter quinque universam urbem? ". Et ait: " Non delebo, si invenero ibi quadraginta quinque ".
+GEN|18|29|Rursumque locutus est ad eum: " Si forte inventi fuerint ibi quadraginta? ". Ait: " Non percutiam propter quadraginta ".
+GEN|18|30|" Ne, quaeso, inquit, indignetur Dominus meus, si loquar. Si forte ibi inventi fuerint triginta? ". Respondit: " Non faciam, si invenero ibi triginta ".
+GEN|18|31|" Ecce, ait, coepi loqui ad Dominum meum. Si forte inventi fuerint ibi viginti? ". Dixit: " Non interficiam propter viginti ".
+GEN|18|32|" Obsecro, inquit, ne irascatur Dominus meus, si loquar adhuc semel. Si forte inventi fuerint ibi decem? ". Dixit: " Non delebo propter decem ".
+GEN|18|33|Abiit Dominus, postquam cessavit loqui ad Abraham; et ille reversus est in locum suum.
+GEN|19|1|Veneruntque duo angeli Sodomam vespere, sedente Lot in foribus civitatis. Qui cum vidisset eos, surrexit et ivit obviam eis adoravitque pronus in terram
+GEN|19|2|et dixit: " Obsecro, domini mei, declinate in domum pueri vestri et pernoctate; lavate pedes vestros et mane proficiscemini in viam vestram ". Qui dixerunt: " Minime, sed in platea pernoctabimus ".
+GEN|19|3|Compulit illos oppido, et diverterunt ad eum. Ingressisque domum illius fecit convivium et coxit azyma, et comederunt.
+GEN|19|4|Prius autem quam irent cubitum, viri civitatis, viri Sodomae, vallaverunt domum a iuvene usque ad senem, omnis populus simul.
+GEN|19|5|Vocaveruntque Lot et dixerunt ei: " Ubi sunt viri, qui introierunt ad te nocte? Educ illos ad nos, ut cognoscamus eos ".
+GEN|19|6|Egressus ad eos Lot post tergum occludens ostium ait:
+GEN|19|7|" Nolite, quaeso, fratres mei, nolite malum hoc facere.
+GEN|19|8|Ecce, habeo duas filias, quae necdum cognoverunt virum; educam eas ad vos, et facite eis sicut placuerit vobis, dummodo viris istis nihil faciatis; ideo enim ingressi sunt sub umbra tecti mei ".
+GEN|19|9|At illi dixerunt: " Recede illuc ". Et rursus: " Unus ingressus est, inquiunt, ut advena et vult iudicare? Te ergo ipsum magis quam hos affligemus ". Vimque faciebant Lot vehementissime, iamque prope erat, ut effringerent fores.
+GEN|19|10|Et ecce miserunt manum viri et introduxerunt ad se Lot clauseruntque ostium;
+GEN|19|11|et eos, qui foris erant, percusserunt caecitate a minimo usque ad maximum, ita ut ostium invenire non possent.
+GEN|19|12|Dixerunt autem viri ad Lot: " Habes hic quempiam tuorum? Generum et filios et filias et omnes, qui tui sunt in urbe, educ de loco hoc:
+GEN|19|13|delebimus enim locum istum, eo quod increverit clamor contra eos coram Domino, qui misit nos, ut perdamus eam ".
+GEN|19|14|Egressus itaque Lot locutus est ad generos suos, qui accepturi erant filias eius, et dixit: " Surgite, egredimini de loco isto, quia delebit Dominus civitatem ". Et visus est eis quasi ludens loqui.
+GEN|19|15|Cumque esset mane, cogebant eum angeli dicentes: " Surge, tolle uxorem tuam et duas filias, quas habes hic, ne pereas in scelere civitatis ".
+GEN|19|16|Tardante illo, apprehenderunt viri manum eius et manum uxoris ac duarum filiarum eius, eo quod parceret Dominus illi.
+GEN|19|17|Et eduxerunt eum posueruntque extra civitatem. Ibi locutus est: " Salvare, agitur de vita tua; noli respicere post tergum, nec stes in omni circa regione; sed in monte salvum te fac, ne pereas ".
+GEN|19|18|Dixitque Lot ad eos: " Non, quaeso, Domine.
+GEN|19|19|Ecce invenit servus tuus gratiam coram te, et magnificasti misericordiam tuam, quam fecisti mecum, ut salvares animam meam; nec possum in monte salvari, ne forte apprehendat me malum et moriar.
+GEN|19|20|Ecce, civitas haec iuxta, ad quam possum fugere, parva, et salvabor in ea ­ numquid non modica est? ­ et vivet anima mea ".
+GEN|19|21|Dixitque ad eum: " Ecce, etiam in hoc suscepi preces tuas, ut non subvertam urbem, pro qua locutus es.
+GEN|19|22|Festina et salvare ibi, quia non potero facere quidquam, donec ingrediaris illuc ". Idcirco vocatum est nomen urbis illius Segor.
+GEN|19|23|Sol egressus est super terram, et Lot ingressus est Segor.
+GEN|19|24|Igitur Dominus pluit super Sodomam et Gomorram sulphur et ignem a Domino de caelo
+GEN|19|25|et subvertit civitates has et omnem circa regionem, universos habitatores urbium et cuncta terrae virentia.
+GEN|19|26|Respiciensque uxor eius post se versa est in statuam salis.
+GEN|19|27|Abraham autem consurgens mane venit ad locum, ubi steterat prius cum Domino,
+GEN|19|28|intuitus est Sodomam et Gomorram et universam terram regionis illius; viditque ascendentem favillam de terra quasi fornacis fumum.
+GEN|19|29|Cum enim subverteret Deus civitates regionis illius, recordatus Abrahae liberavit Lot de subversione urbium, in quibus habitaverat.
+GEN|19|30|Ascenditque Lot de Segor et mansit in monte, duae quoque filiae eius cum eo; timuerat enim manere in Segor. Et mansit in spelunca ipse et duae filiae eius.
+GEN|19|31|Dixitque maior ad minorem: " Pater noster senex est, et nullus virorum remansit in terra, qui possit ingredi ad nos iuxta morem universae terrae.
+GEN|19|32|Veni, inebriemus patrem nostrum vino dormiamusque cum eo, ut servare possimus ex patre nostro semen ".
+GEN|19|33|Dederunt itaque patri suo bibere vinum nocte illa, et ingressa est maior dormivitque cum patre; at ille non sensit, nec quando accubuit filia nec quando surrexit.
+GEN|19|34|Altera quoque die dixit maior ad minorem: " Ecce, dormivi heri cum patre meo; demus ei bibere vinum etiam hac nocte, et ingressa dormies cum eo, ut salvemus semen de patre nostro ".
+GEN|19|35|Dederunt et illa nocte patri suo bibere vinum, ingressaque minor filia dormivit cum eo; et ne tunc quidem sensit, quando illa concubuerit vel quando surrexerit.
+GEN|19|36|Conceperunt ergo duae filiae Lot de patre suo.
+GEN|19|37|Peperitque maior filium et vocavit nomen eius Moab; ipse est pater Moabitarum usque in praesentem diem.
+GEN|19|38|Minor quoque peperit filium et vocavit nomen eius Benammi (id est Filius populi mei); ipse est pater Ammonitarum usque hodie.
+GEN|20|1|Profectus inde Abraham in terram Nageb, habitavit in ter Cades et Sur et peregrinatus est in Geraris.
+GEN|20|2|Dixitque de Sara uxore sua: " Soror mea est ". Misit ergo Abimelech rex Gerarae et tulit eam.
+GEN|20|3|Venit autem Deus ad Abimelech per somnium nocte et ait illi: " En morieris propter mulierem, quam tulisti; habet enim virum ".
+GEN|20|4|Abimelech vero non tetigerat eam. Et ait: " Domine, num gentem etiam iustam interficies?
+GEN|20|5|Nonne ipse dixit mihi: "Soror mea est", et ipsa quoque ait: "Frater meus est"? In simplicitate cordis mei et munditia manuum mearum feci hoc ".
+GEN|20|6|Dixitque ad eum Deus per somnium: " Et ego scio quod simplici corde feceris; et ideo custodivi te, ne peccares in me, et non dimisi, ut tangeres eam.
+GEN|20|7|Nunc igitur redde viro suo uxorem, quia propheta est; et orabit pro te, et vives. Si autem nolueris reddere, scito quod morte morieris tu et omnia, quae tua sunt ".
+GEN|20|8|Statimque de nocte consurgens Abimelech vocavit omnes servos suos et locutus est universa verba haec in auribus eorum; timueruntque viri valde.
+GEN|20|9|Vocavit autem Abimelech etiam Abraham et dixit ei: " Quid fecisti nobis? Quid peccavi in te, quia induxisti super me et super regnum meum peccatum grande? Quae non debuisti facere, fecisti mihi ".
+GEN|20|10|Rursusque ait: " Quid vidisti, ut hoc faceres? ".
+GEN|20|11|Respondit Abraham: " Cogitavi mecum: Certe non est timor Dei in loco isto, et interficient me propter uxorem meam.
+GEN|20|12|Alias autem et vere soror mea est, filia patris mei et non filia matris meae, et duxi eam in uxorem.
+GEN|20|13|Cum autem vagari me faceret Deus de domo patris mei, dixi ad eam: Hanc misericordiam facies mecum: in omni loco, ad quem ingrediemur, dices quod frater tuus sim ".
+GEN|20|14|Tulit igitur Abimelech oves et boves et servos et ancillas et dedit Abraham; reddiditque illi Saram uxorem suam
+GEN|20|15|et ait: " Ecce terra mea coram te; ubicumque tibi placuerit, habita ".
+GEN|20|16|Sarae autem dixit: " Ecce mille argenteos dedi fratri tuo; ecce hoc erit tibi in velamen oculorum ad omnes, qui tecum sunt, et apud omnes iustificaberis ".
+GEN|20|17|Orante autem Abraham, sanavit Deus Abimelech et uxorem ancillasque eius et pepererunt;
+GEN|20|18|concluserat enim Dominus omnem vulvam domus Abimelech propter Saram uxorem Abraham.
+GEN|21|1|Visitavit autem Dominus Saram, sicut promiserat, et implevit Sarae, quae locutus est;
+GEN|21|2|concepitque et peperit Abrahae filium in senectute eius tempore, quo praedixerat ei Deus.
+GEN|21|3|Vocavitque Abraham nomen filii sui, quem genuit ei Sara, Isaac
+GEN|21|4|et circumcidit eum octavo die, sicut praeceperat ei Deus.
+GEN|21|5|Cum Abraham centum esset annorum, natus est ei Isaac filius eius.
+GEN|21|6|Dixitque Sara: Risum fecit mihi Deus;quicumque audierit, corridebit mihi?.
+GEN|21|7|Rursumque ait: Quis auditurum crederet Abrahamquod Sara lactaret filios,quia peperit ei filiumiam seni? ".
+GEN|21|8|Crevit igitur puer et ablactatus est. Fecitque Abraham grande convivium in die ablactationis eius.
+GEN|21|9|Cumque vidisset Sara filium Agar Aegyptiae iocantem cum Isaac filio suo, dixit ad Abraham:
+GEN|21|10|" Eice ancillam hanc et filium eius; non enim erit heres filius ancillae cum filio meo Isaac ".
+GEN|21|11|Dure accepit hoc Abraham propter filium suum.
+GEN|21|12|Cui dixit Deus: " Non tibi videatur asperum super puero et super ancilla tua; omnia, quae dixerit tibi Sara, audi vocem eius, quia in Isaac vocabitur tibi semen.
+GEN|21|13|Sed et filium ancillae faciam in gentem magnam, quia semen tuum est ".
+GEN|21|14|Surrexit itaque Abraham mane et tollens panem et utrem aquae imposuit scapulae eius tradiditque puerum et dimisit eam. Quae cum abisset, errabat in deserto Bersabee.
+GEN|21|15|Cumque consumpta esset aqua in utre, abiecit puerum subter unum arbustum
+GEN|21|16|et abiit; seditque e regione procul, quantum potest arcus iacere. Dixit enim: " Non videbo morientem puerum ". Et sedens contra levavit vocem suam et flevit.
+GEN|21|17|Exaudivit autem Deus vocem pueri; vocavitque angelus Dei Agar de caelo dicens: " Quid tibi, Agar? Noli timere; exaudivit enim Deus vocem pueri de loco, in quo est.
+GEN|21|18|Surge, tolle puerum et tene illum manu tua, quia in gentem magnam faciam eum ".
+GEN|21|19|Aperuitque Deus oculos eius; quae videns puteum aquae abiit et implevit utrem deditque puero bibere.
+GEN|21|20|Et fuit Deus cum eo; qui crevit et moratus est in solitudine factusque est iuvenis sagittarius.
+GEN|21|21|Habitavitque in deserto Pharan; et accepit illi mater sua uxorem de terra Aegypti.
+GEN|21|22|Eodem tempore dixit Abimelech et Phicol princeps exercitus eius ad Abraham: " Deus tecum est in universis, quae agis.
+GEN|21|23|Iura ergo per Deum, ne noceas mihi et posteris meis stirpique meae; sed iuxta fidem, quam feci tibi, facies mihi et terrae, in qua versatus es advena ".
+GEN|21|24|Dixitque Abraham: " Ego iurabo ".
+GEN|21|25|Et increpavit Abraham Abimelech propter puteum aquae, quem vi abstulerant servi eius.
+GEN|21|26|Responditque Abimelech: " Nescivi quis fecerit hanc rem; sed et tu non indicasti mihi, et ego non audivi praeter hodie ".
+GEN|21|27|Tulit itaque Abraham oves et boves et dedit Abimelech; percusseruntque ambo foedus.
+GEN|21|28|Et statuit Abraham septem agnas gregis seorsum.
+GEN|21|29|Cui dixit Abimelech: " Quid sibi volunt septem agnae istae, quas stare fecisti seorsum? ".
+GEN|21|30|At ille: " Septem, inquit, agnas accipies de manu mea, ut sint in testimonium mihi, quoniam ego fodi puteum istum ".
+GEN|21|31|Idcirco vocatus est locus ille Bersabee, quia ibi uterque iuraverunt.
+GEN|21|32|Et inierunt foedus in Bersabee.
+GEN|21|33|Surrexit autem Abimelech et Phicol princeps militiae eius reversique sunt in terram Philisthim. Abraham vero plantavit nemus in Bersabee et invocavit ibi nomen Domini, Dei aeterni. 34 Et fuit colonus in terra Philisthim diebus multis.
+GEN|22|1|Quae postquam gesta sunt, tentavit Deus Abraham et di xit ad eum: " Abraham ". Ille respondit: " Adsum ".
+GEN|22|2|Ait: " Tolle filium tuum unigenitum, quem diligis, Isaac et vade in terram Moria; atque offer eum ibi in holocaustum super unum montium, quem monstravero tibi ".
+GEN|22|3|Igitur Abraham de nocte consurgens stravit asinum suum ducens secum duos iuvenes suos et Isaac filium suum. Cumque concidisset ligna in holocaustum, surrexit et abiit ad locum, quem praeceperat ei Deus.
+GEN|22|4|Die autem tertio, elevatis oculis, vidit locum procul
+GEN|22|5|dixitque ad pueros suos: " Exspectate hic cum asino. Ego et puer illuc usque properantes, postquam adoraverimus, revertemur ad vos ".
+GEN|22|6|Tulit quoque ligna holocausti et imposuit super Isaac filium suum; ipse vero portabat in manibus ignem et cultrum. Cumque duo pergerent simul,
+GEN|22|7|dixit Isaac Abrahae patri suo: " Pater mi ". Ille respondit: " Quid vis, fili? ". " Ecce, inquit, ignis et ligna; ubi est victima holocausti? ".
+GEN|22|8|Dixit Abraham: " Deus providebit sibi victimam holocausti, fili mi ".Pergebant ambo pariter;
+GEN|22|9|et venerunt ad locum, quem ostenderat ei Deus, in quo aedificavit Abraham altare et desuper ligna composuit. Cumque colligasset Isaac filium suum, posuit eum in altari super struem lignorum
+GEN|22|10|extenditque Abraham manum et arripuit cultrum, ut immolaret filium suum.
+GEN|22|11|Et ecce angelus Domini de caelo clamavit: " Abraham, Abraham ". Qui respondit: " Adsum ".
+GEN|22|12|Dixitque: " Non extendas manum tuam super puerum neque facias illi quidquam. Nunc cognovi quod times Deum et non pepercisti filio tuo unigenito propter me ".
+GEN|22|13|Levavit Abraham oculos suos viditque arietem unum inter vepres haerentem cornibus; quem assumens obtulit holocaustum pro filio.
+GEN|22|14|Appellavitque nomen loci illius: " Dominus videt ". Unde usque hodie dicitur: " In monte Dominus videtur ".
+GEN|22|15|Vocavit autem angelus Domini Abraham secundo de caelo et dixit:
+GEN|22|16|" Per memetipsum iuravi, dicit Dominus: quia fecisti hanc rem et non pepercisti filio tuo unigenito,
+GEN|22|17|benedicam tibi et multiplicabo semen tuum sicut stellas caeli et velut arenam, quae est in litore maris. Possidebit semen tuum portas inimicorum suorum,
+GEN|22|18|et benedicentur in semine tuo omnes gentes terrae, quia oboedisti voci meae ".
+GEN|22|19|Reversus est Abraham ad pueros suos, et surrexerunt abieruntque Bersabee simul, et habitavit Abraham in Bersabee.
+GEN|22|20|His ita gestis, nuntiatum est Abrahae quod Melcha quoque genuisset filios Nachor fratri suo:
+GEN|22|21|Us primogenitum et Buz fratrem eius et Camuel patrem Aram
+GEN|22|22|et Cased et Azau, Pheldas quoque et Iedlaph
+GEN|22|23|ac Bathuel, de quo nata est Rebecca. Octo istos genuit Melcha Nachor fratri Abrahae. 24 Concubina vero illius, nomine Reuma, peperit Tabee et Gaham et Tahas et Maacha.
+GEN|23|1|Vixit autem Sara centum viginti septem annis
+GEN|23|2|et mortua est in Cariatharbe, quae est Hebron, in terra Chanaan; venitque Abraham, ut plangeret et fleret eam.
+GEN|23|3|Cumque surrexisset ab officio funeris, locutus est ad filios Heth dicens:
+GEN|23|4|" Advena sum et inquilinus apud vos; date mihi possessionem sepulcri vobiscum, ut sepeliam mortuum meum ".
+GEN|23|5|Responderunt filii Heth dicentes:
+GEN|23|6|" Audi nos, domine, princeps Dei es apud nos: in nobilissimo sepulcrorum nostrorum sepeli mortuum tuum; nullusque te prohibebit, quin in sepulcro eius sepelias mortuum tuum ".
+GEN|23|7|Surrexit Abraham et adoravit populum terrae, filios videlicet Heth,
+GEN|23|8|dixitque ad eos: " Si placet animae vestrae, ut sepeliam mortuum meum, audite me et intercedite pro me apud Ephron filium Seor,
+GEN|23|9|ut det mihi speluncam Machpela, quam habet in extrema parte agri sui. Pecunia digna tradat eam mihi coram vobis in possessionem sepulcri ".
+GEN|23|10|Sedebat autem Ephron in medio filiorum Heth. Responditque Ephron Hetthaeus ad Abraham, filiis Heth audientibus cunctis, qui ingrediebantur portam civitatis illius, dicens:
+GEN|23|11|" Nequaquam ita fiat, domine mi, ausculta me. Agrum do tibi et speluncam, quae in eo est, praesentibus filiis populi mei; sepeli mortuum tuum ".
+GEN|23|12|Adoravit Abraham coram populo terrae
+GEN|23|13|et locutus est ad Ephron, audiente populo terrae: " Quaeso, ut audias me. Dabo pecuniam pro agro; suscipe eam, et sic sepeliam mortuum meum in eo ".
+GEN|23|14|Respondit Ephron ad Abraham dicens ei:
+GEN|23|15|" Domine mi, audi me. Terra quadringentorum siclorum argenti inter me et te quid est hoc? Sepeli mortuum tuum ".
+GEN|23|16|Auscultavit Abraham Ephron et appendit pecuniam, quam Ephron postulaverat, audientibus filiis Heth, quadringentos siclos argenti, sicut mos erat apud negotiatores.
+GEN|23|17|Confirmatusque est ager Ephronis, qui erat in Machpela respiciens Mambre, tam ipse quam spelunca in eo et omnes arbores eius in cunctis terminis eius per circuitum,
+GEN|23|18|Abrahae in possessionem, videntibus filiis Heth cunctis, qui intrabant portam civitatis illius.
+GEN|23|19|Deinde sepelivit Abraham Saram uxorem suam in spelunca agri Machpela, qui respiciebat Mambre ­ haec est Hebron ­ in terra Chanaan.
+GEN|23|20|Et confirmatus est ager et antrum, quod erat in eo, Abrahae in possessionem sepulcri a filiis Heth.
+GEN|24|1|Erat autem Abraham senex dierumque multorum; et Do minus in cunctis benedixerat ei.
+GEN|24|2|Dixitque Abraham ad servum seniorem domus suae, qui praeerat omnibus, quae habebat: " Pone manum tuam subter femur meum,
+GEN|24|3|ut adiurem te per Dominum, Deum caeli et Deum terrae, ut non accipias uxorem filio meo de filiabus Chananaeorum, inter quos habito;
+GEN|24|4|sed ad terram et cognationem meam proficiscaris et inde accipias uxorem filio meo Isaac ".
+GEN|24|5|Respondit servus: " Si noluerit mulier venire mecum in terram hanc, num reducere debeo filium tuum ad terram, a quo tu egressus es? ".
+GEN|24|6|Dixit Abraham: " Cave, ne quando reducas illuc filium meum.
+GEN|24|7|Dominus, Deus caeli, qui tulit me de domo patris mei et de terra nativitatis meae, qui locutus est mihi et iuravit mihi dicens: "Semini tuo dabo terram hanc", ipse mittet angelum suum coram te, et accipies inde uxorem filio meo.
+GEN|24|8|Sin autem noluerit mulier sequi te, non teneberis iuramento; filium tantum meum ne reducas illuc ".
+GEN|24|9|Posuit ergo servus manum sub femore Abraham domini sui et iuravit illi super hac re.
+GEN|24|10|Tulitque servus decem camelos de grege domini sui et abiit ex omnibus bonis eius portans secum; profectusque perrexit in Aram Naharaim ad urbem Nachor.
+GEN|24|11|Cumque camelos fecisset accumbere extra oppidum iuxta puteum aquae vespere, tempore quo solent mulieres egredi ad hauriendam aquam, dixit:
+GEN|24|12|" Domine,Deus domini mei Abraham, occurre obsecro mihi hodie et fac misericordiam cum domino meo Abraham.
+GEN|24|13|Ecce ego sto prope fontem aquae, et filiae habitatorum huius civitatis egredientur ad hauriendam aquam.
+GEN|24|14|Igitur puella, cui ego dixero: "Inclina hydriam tuam, ut bibam", et illa responderit: "Bibe, quin et camelis tuis dabo potum", ipsa est, quam praeparasti servo tuo Isaac, et per hoc intellegam quod feceris misericordiam cum domino meo ".
+GEN|24|15|Necdum intra se verba compleverat, et ecce Rebecca egrediebatur filia Bathuel filii Melchae uxoris Nachor fratris Abraham habens hydriam in scapula:
+GEN|24|16|puella decora nimis, virgo et incognita viro. Descendit ad fontem et implevit hydriam ac revertebatur.
+GEN|24|17|Occurritque ei servus et ait: " Pauxillum mihi ad sorbendum praebe aquae de hydria tua ".
+GEN|24|18|Quae respondit: " Bibe, domine mi ". Celeriterque deposuit hydriam super ulnam suam et dedit ei potum.
+GEN|24|19|Cumque ille bibisset, adiecit: " Quin et camelis tuis hauriam aquam, donec cuncti bibant ".
+GEN|24|20|Effundensque hydriam in canalibus recurrit ad puteum, ut hauriret aquam; et haustam omnibus camelis dedit.
+GEN|24|21|Ille autem contemplabatur eam tacitus, scire volens utrum prosperum fecisset iter suum Dominus an non.
+GEN|24|22|Postquam ergo biberunt cameli, protulit vir anulum aureum pondo dimidii sicli pro naribus et duas armillas pro manibus eius pondo siclorum decem;
+GEN|24|23|dixitque: " Cuius es filia? lndica mihi. Est in domo patris tui locus nobis ad pernoctandum? ".
+GEN|24|24|Quae respondit: " Filia Bathuelis sum filii Melchae, quem peperit Nachor ".
+GEN|24|25|Et addidit dicens: " Palearum quoque et pabuli plurimum est apud nos et locus ad pernoctandum ".
+GEN|24|26|Inclinavit se homo et adoravit Dominum
+GEN|24|27|dicens: " Benedictus Dominus, Deus domini mei Abraham, qui non abstulit misericordiam et veritatem suam a domino meo et recto itinere me perduxit in domum fratris domini mei ".
+GEN|24|28|Cucurrit itaque puella et nuntiavit in domum matris suae omnia, quae evenerant.
+GEN|24|29|Habebat autem Rebecca fratrem nomine Laban, qui festinus egressus est ad hominem, ubi erat fons.
+GEN|24|30|Cumque vidisset anulum in naribus et armillas in manibus sororis suae et audisset cuncta verba referentis: " Haec locutus est mihi homo ", venit ad virum, qui stabat iuxta camelos et prope fontem aquae;
+GEN|24|31|dixitque ad eum: " Ingredere, benedicte Domini, cur foris stas? Praeparavi domum et locum camelis ".
+GEN|24|32|Et introduxit eum in hospitium ac destravit camelos; deditque paleas et pabulum camelis et aquam ad lavandos pedes eius et virorum, qui venerant cum eo.
+GEN|24|33|Et apposuit in conspectu eius panem. Qui ait: " Non comedam, donec loquar sermones meos ". Respondit: " Loquere ".
+GEN|24|34|At ille: " Servus, inquit, Abraham sum;
+GEN|24|35|et Dominus benedixit domino meo valde, magnificatusque est; et dedit ei oves et boves, argentum et aurum, servos et ancillas, camelos et asinos.
+GEN|24|36|Et peperit Sara uxor domini mei filium domino meo in senectute sua; deditque illi omnia, quae habuerat.
+GEN|24|37|Et adiuravit me dominus meus dicens: "Non accipies uxorem filio meo de filiabus Chananaeorum, in quorum terra habito;
+GEN|24|38|sed ad domum patris mei perges et de cognatione mea accipies uxorem filio meo".
+GEN|24|39|Ego vero respondi domino meo: Quid, si noluerit venire mecum mulier?
+GEN|24|40|"Dominus, ait, in cuius conspectu ambulo, mittet angelum suum tecum et diriget viam tuam; accipiesque uxorem filio meo de cognatione mea et de domo patris mei.
+GEN|24|41|Innocens eris a maledictione mea, cum veneris ad propinquos meos, et non dederint tibi; tunc innocens eris a maledictione mea".
+GEN|24|42|Veni ergo hodie ad fontem et dixi: Domine, Deus domini mei Abraham, si direxisti viam meam, in qua nunc ambulo,
+GEN|24|43|ecce sto iuxta fontem aquae; et virgo, quae egredietur ad hauriendam aquam, audierit a me: "Da mihi pauxillum aquae ad bibendum ex hydria tua";
+GEN|24|44|et dixerit mihi: "Et tu bibe, et camelis tuis hauriam", ipsa est mulier, quam praeparavit Dominus filio domini mei.
+GEN|24|45|Dum haec tacitus mecum volverem, apparuit Rebecca veniens cum hydria, quam portabat in scapula; descenditque ad fontem et hausit aquam. Et aio ad eam: Da mihi paululum bibere.
+GEN|24|46|Quae festina deposuit hydriam de umero et dixit mihi: "Et tu bibe, et camelis tuis potum tribuam". Bibi, et adaquavit camelos.
+GEN|24|47|Interrogavique eam et dixi: Cuius es filia? Quae respondit: "Filia Bathuelis sum filii Nachor, quem peperit illi Melcha".Suspendi itaque anulum in naribus eius et armillas posui in manibus eius.
+GEN|24|48|Pronusque adoravi Dominum benedicens Domino, Deo domini mei Abraham, qui perduxit me recto itinere, ut sumerem filiam fratris domini mei filio eius.
+GEN|24|49|Quam ob rem, si facitis misericordiam et veritatem cum domino meo, indicate mihi; sin autem aliud placet, et hoc dicite mihi, ut vadam ad dexteram sive ad sinistram ".
+GEN|24|50|Responderunt Laban et Bathuel: " A Domino egressus est sermo; non possumus extra placitum eius quidquam aliud loqui tecum.
+GEN|24|51|En Rebecca coram te est; tolle eam et proficiscere, et sit uxor filii domini tui, sicut locutus est Dominus ".
+GEN|24|52|Quod cum audisset puer Abraham, procidens adoravit in terram Dominum.
+GEN|24|53|Prolatisque vasis argenteis et aureis ac vestibus, dedit ea Rebeccae; res pretiosas dedit fratri eius et matri.
+GEN|24|54|Tunc comederunt et biberunt ipse et viri, qui erant cum eo, et pernoctaverunt ibi.Surgens autem mane locutus est puer: " Dimittite me, ut vadam ad dominum meum ".
+GEN|24|55|Responderuntque frater eius et mater: " Maneat puella saltem decem dies apud nos et postea proficiscetur ".
+GEN|24|56|" Nolite, ait, me retinere, quia Dominus direxit viam meam; dimittite me, ut pergam ad dominum meum ".
+GEN|24|57|Dixerunt: " Vocemus puellam et quaeramus ipsius voluntatem ".
+GEN|24|58|Cumque vocata venisset, sciscitati sunt: " Vis ire cum homine isto? ". Quae ait: " Vadam ".
+GEN|24|59|Dimiserunt ergo Rebeccam sororem eorum et nutricem illius servumque Abraham et comites eius,
+GEN|24|60|imprecantes prospera sorori suae atque dicentes: Soror nostra es,crescas in mille milia,et possideat semen tuumportas inimicorum suorum! ".
+GEN|24|61|Igitur surrexit Rebecca et puellae illius et, ascensis camelis, secutae sunt virum; sumpsitque servus Rebeccam et abiit.
+GEN|24|62|Isaac autem venerat a regione putei Lahairoi et habitabat in terra Nageb.
+GEN|24|63|Et egressus est Isaac ad lamentandum in agro, inclinata iam die. Cumque levasset oculos, vidit camelos venientes.
+GEN|24|64|Rebecca quoque levavit oculos et vidit Isaac; descenditque de camelo
+GEN|24|65|et ait ad puerum: " Quis est ille homo, qui venit per agrum in occursum nobis? ". Dixitque ei: " Ipse est dominus meus ". At illa tollens cito velum operuit se.
+GEN|24|66|Servus autem cuncta, quae gesserat, narravit Isaac;
+GEN|24|67|qui introduxit eam in tabernaculum Sarae matris suae et accepit Rebeccam uxorem; et dilexit eam et consolatus est a morte matris suae.
+GEN|25|1|Abraham vero aliam duxit uxorem nomine Ceturam,
+GEN|25|2|quae peperit ei Zamran et Iecsan et Madan et Madian et Iesboc et Sue.
+GEN|25|3|Iecsan quoque genuit Saba et Dedan. Filii Dedan fuerunt Assurim et Latusim et Loommim.
+GEN|25|4|At vero ex Madian ortus est Epha et Opher et Henoch et Abida et Eldaa. Omnes hi filii Ceturae.
+GEN|25|5|Deditque Abraham cuncta, quae possederat, Isaac;
+GEN|25|6|filiis autem concubinarum suarum largitus est munera et separavit eos ab Isaac filio suo, dum adhuc ipse viveret, ad plagam orientalem.
+GEN|25|7|Fuerunt autem dies vitae Abrahae centum septuaginta quinque anni.
+GEN|25|8|Et deficiens mortuus est Abraham in senectute bona provectaeque aetatis et plenus dierum congregatusque est ad populum suum.
+GEN|25|9|Et sepelierunt eum Isaac et Ismael filii sui in spelunca Machpela, quae sita est in agro Ephron filii Seor Hetthaei e regione Mambre,
+GEN|25|10|quem emerat a filiis Heth. Ibi sepultus est ipse et Sara uxor eius.
+GEN|25|11|Et post obitum illius benedixit Deus Isaac filio eius, qui habitabat iuxta puteum Lahairoi.
+GEN|25|12|Hae sunt generationes Ismael filii Abrahae, quem peperit ei Agar Aegyptia famula Sarae.
+GEN|25|13|Et haec nomina filiorum Ismael in vocabulis et generationibus suis: primogenitus Ismaelis Nabaioth, dein Cedar et Adbeel et Mabsam,
+GEN|25|14|Masma quoque et Duma et Massa,
+GEN|25|15|Hadad et Thema, Iethur et Naphis et Cedma.
+GEN|25|16|Isti sunt filii Ismaelis, et haec nomina eorum per vicos et mansiones eorum: duodecim principes tribuum suarum.
+GEN|25|17|Et facti sunt anni vitae Ismaelis centum triginta septem; deficiens mortuus est et appositus ad populum suum.
+GEN|25|18|Habitaverunt autem ab Hevila usque Sur, quae respicit Aegyptum introeuntibus Assyriam. In faciem cunctorum fratrum suorum obiit.
+GEN|25|19|Hae sunt generationes Isaac filii Abraham: Abraham genuit Isaac;
+GEN|25|20|qui, cum quadraginta esset annorum, duxit uxorem Rebeccam filiam Bathuelis Aramaei de Paddanaram, sororem Laban Aramaei.
+GEN|25|21|Deprecatusque est Isaac Dominum pro uxore sua, eo quod esset sterilis. Qui exaudivit eum et dedit conceptum Rebeccae.
+GEN|25|22|Sed collidebantur in utero eius parvuli. Quae ait: " Si sic est, cur mihi? ". Perrexitque, ut consuleret Dominum.
+GEN|25|23|Qui respondens ait: Duae gentes sunt in utero tuo,et duo populi ex ventre tuo dividentur;populusque populum superabit,et maior serviet minori ".
+GEN|25|24|Iam tempus pariendi venerat, et ecce gemini in utero eius.
+GEN|25|25|Qui primus egressus est rufus erat et totus quasi pallium pilosum; vocatumque est nomen eius Esau. Postea frater eius egrediens plantam Esau tenebat manu, et idcirco appellatum est nomen eius Iacob.
+GEN|25|26|Sexagenarius erat Isaac, quando nati sunt parvuli.
+GEN|25|27|Quibus adultis, factus est Esau vir gnarus venandi et homo agrestis; Iacob autem vir compositus et habitans in tabernaculis.
+GEN|25|28|Isaac amabat Esau, eo quod de venationibus illius libenter vesceretur; et Rebecca diligebat Iacob.
+GEN|25|29|Coxit autem Iacob pulmentum; ad quem, cum venisset Esau de agro lassus,
+GEN|25|30|ait: " Da mihi de coctione hac rufa, quia oppido lassus sum ". Quam ob causam vocatum est nomen eius Edom (id est Rufus).
+GEN|25|31|Cui dixit Iacob: " Vende mihi prius primogenita tua ".
+GEN|25|32|Ille respondit: " En morior; quid mihi proderunt primogenita? ".
+GEN|25|33|Ait Iacob: " Iura ergo mihi ". Iuravit et vendidit primogenita.
+GEN|25|34|Et sic, accepto pane et lentis edulio, comedit et bibit; surrexit et abiit parvipendens quod primogenita vendidisset.
+GEN|26|1|Orta autem fame super terram post eam sterilitatem, quae acciderat in diebus Abraham, abiit Isaac ad Abimelech regem Philisthim in Gerara.
+GEN|26|2|Apparuitque ei Dominus et ait: " Ne descendas in Aegyptum, sed habita in terra, quam dixero tibi,
+GEN|26|3|et peregrinare in ea; eroque tecum et benedicam tibi. Tibi enim et semini tuo dabo universas regiones has complens iuramentum, quod spopondi Abraham patri tuo,
+GEN|26|4|et multiplicabo semen tuum sicut stellas caeli daboque posteris tuis universas regiones has; et benedicentur in semine tuo omnes gentes terrae,
+GEN|26|5|eo quod oboedierit Abraham voci meae et custodierit praecepta et mandata mea et iustificationes legesque servaverit ".
+GEN|26|6|Mansit itaque Isaac in Geraris.
+GEN|26|7|Qui, cum interrogaretur a viris loci illius super uxore sua, respondit: Soror mea est ". Timuerat enim confiteri quod sibi esset sociata coniugio, reputans ne forte interficerent eum propter illius pulchritudinem.
+GEN|26|8|Cumque pertransissent dies plurimi et ibidem moraretur, prospiciens Abimelech rex Philisthim per fenestram vidit eum iocantem cum Rebecca uxore sua.
+GEN|26|9|Et, accersito eo, ait: " Perspicuum est quod uxor tua sit; cur mentitus es eam sororem tuam esse? ". Respondit: " Timui, ne morerer propter eam ".
+GEN|26|10|Dixitque Abimelech: " Quare hoc fecisti nobis? Potuit coire quispiam de populo cum uxore tua, et induxeras super nos grande peccatum ". Praecepitque omni populo dicens:
+GEN|26|11|" Qui tetigerit hominem hunc et uxorem eius, morte morietur ".
+GEN|26|12|Sevit autem Isaac in terra illa et invenit in ipso anno centuplum; benedixitque ei Dominus.
+GEN|26|13|Et locupletatus est homo et ibat proficiens atque succrescens, donec magnus vehementer effectus est;
+GEN|26|14|habuitque possessionem ovium et armentorum et familiae plurimum.Ob haec invidentes ei Philisthim
+GEN|26|15|omnes puteos, quos foderant servi patris illius in diebus Abraham, obstruxerunt implentes humo,
+GEN|26|16|in tantum ut ipse Abimelech diceret ad Isaac: " Recede a nobis, quoniam potentior nostri factus es valde ".
+GEN|26|17|Et ille discedens tentoria fixit ad torrentem Gerarae habitavitque ibi.
+GEN|26|18|Rursum fodit puteos, quos foderant in diebus patris sui Abraham et quos, illo mortuo, obstruxerant Philisthim. Appellavitque eos eisdem nominibus, quibus ante pater vocaverat.
+GEN|26|19|Foderunt servi Isaac in torrente et reppererunt ibi puteum aquae vivae.
+GEN|26|20|Sed et ibi iurgium fuit pastorum Gerarae adversus pastores Isaac dicentium: " Nostra est aqua! ". Quam ob rem nomen putei vocavit Esec (id est Iurgium), quia iurgati sunt cum eo.
+GEN|26|21|Foderunt autem et alium puteum, et pro illo quoque rixati sunt; appellavitque eum Sitna (id est Inimicitias).
+GEN|26|22|Profectus inde fodit alium puteum, pro quo non contenderunt; itaque vocavit nomen eius Rehoboth (id est Latitudinem) dicens: " Nunc dilatavit nos Dominus, et crescemus in terra ".
+GEN|26|23|Ascendit autem ex illo loco in Bersabee,
+GEN|26|24|ubi apparuit ei Dominus in ipsa nocte dicens: Ego sum Deus Abraham patris tui.Noli timere, quia tecum sum;benedicam tibiet multiplicabo semen tuumpropter servum meum Abraham ".
+GEN|26|25|Itaque aedificavit ibi altare et, invocato nomine Domini, extendit tabernaculum, et servi Isaac foderunt ibi puteum.
+GEN|26|26|Abimelech autem venit ad eum de Geraris et Ochozath amicus illius et Phicol dux militum,
+GEN|26|27|et locutus est eis Isaac: " Quid venistis ad me hominem, quem odistis et expulistis a vobis? ".
+GEN|26|28|Qui responderunt: " Vidimus tecum esse Dominum et idcirco diximus: Sit iuramentum inter nos et te, et ineamus tecum foedus,
+GEN|26|29|ut non facias nobis quidquam mali, sicut et nos non attigimus te et nihil fecimus tibi nisi bonum et cum pace dimisimus te. Tu es enim benedictus Domini ".
+GEN|26|30|Fecit ergo eis convivium, et comederunt et biberunt.
+GEN|26|31|Surgentesque mane iuraverunt sibi mutuo. Dimisitque eos Isaac, et profecti sunt ab eo cum pace.
+GEN|26|32|Ecce autem venerunt in ipso die servi Isaac annuntiantes ei de puteo, quem foderant, atque dicentes: " Invenimus aquam ".
+GEN|26|33|Unde appellavit eum Sabee (quod significat Abundantiam); et nomen urbi impositum est Bersabee usque in praesentem diem.
+GEN|26|34|Esau vero quadragenarius duxit uxores Iudith filiam Beeri Hetthaei et Basemath filiam Elon Hetthaei.
+GEN|26|35|Quae ambae offenderant animum Isaac et Rebeccae.
+GEN|27|1|Senuit autem Isaac, et caligaverunt oculi eius, et videre non poterat. Vocavitque Esau filium suum maiorem et dixit ei: " Fili mi ". Qui respondit: " Adsum ".
+GEN|27|2|Cui pater: " Vides, inquit, quod senuerim et ignorem diem mortis meae;
+GEN|27|3|sume arma tua, pharetram et arcum, et egredere in agrum. Cumque venatu aliquid apprehenderis,
+GEN|27|4|fac mihi inde pulmentum, sicut velle me nosti, et affer, ut comedam; et benedicat tibi anima mea, antequam moriar ".
+GEN|27|5|Rebecca autem audierat Isaac loquentem cum Esau filio suo. Esau ergo abiit in agrum, ut venationem caperet et offerret eam.
+GEN|27|6|Rebecca autem dixit filio suo Iacob: " Ecce, audivi patrem tuum loquentem cum Esau fratre tuo et dicentem ei:
+GEN|27|7|"Affer mihi venationem tuam et fac cibos, ut comedam et benedicam tibi coram Domino, antequam moriar".
+GEN|27|8|Nunc ergo, fili mi, audi vocem meam in eo, quod praecipio tibi.
+GEN|27|9|Pergens ad gregem affer mihi duos haedos optimos, ut faciam ex eis escas patri tuo, quibus libenter vescitur.
+GEN|27|10|Quas cum intuleris patri tuo, et comederit, benedicat tibi, priusquam moriatur ".
+GEN|27|11|Cui ille respondit: " Nosti quod Esau frater meus homo pilosus sit, et ego lenis.
+GEN|27|12|Si attrectaverit me pater meus et senserit, timeo, ne putet me sibi voluisse illudere; et inducam super me maledictionem pro benedictione".
+GEN|27|13|Ad quem mater: " In me sit, ait, ista maledictio, fili mi; tantum audi vocem meam et perge afferque, quae dixi ".
+GEN|27|14|Abiit et attulit deditque matri. Paravit illa cibos, sicut noverat velle patrem illius.
+GEN|27|15|Et vestibus Esau valde bonis, quas apud se habebat domi, induit eum
+GEN|27|16|pelliculasque haedorum circumdedit manibus et colli nuda protexit;
+GEN|27|17|dedit pulmentum optimum et panes, quos coxerat, in manus filii sui Iacob.
+GEN|27|18|Qui ingressus ad patrem suum dixit: " Pater mi ". At ille respondit: " Audio. Quis es tu, fili mi? ".
+GEN|27|19|Dixitque Iacob ad patrem suum: " Ego sum Esau primogenitus tuus. Feci sicut praecepisti mihi; surge, sede et comede de venatione mea, ut benedicat mihi anima tua ".
+GEN|27|20|Rursum Isaac ad filium suum: " Quomodo, inquit, tam cito invenire potuisti, fili mi? ". Qui respondit: " Voluntas Domini Dei tui fuit, ut occurreret mihi ".
+GEN|27|21|Dixitque Isaac ad Iacob: " Accede huc, ut tangam te, fili mi, et probem, utrum tu sis filius meus Esau an non ".
+GEN|27|22|Accessit ille ad patrem, et, palpato eo, dixit Isaac: " Vox quidem, vox Iacob est, sed manus, manus sunt Esau ".
+GEN|27|23|Et non cognovit eum, quia pilosae manus similitudinem maioris expresserant. Benedixit ergo illi.
+GEN|27|24|Ait: " Tu es filius meus Esau? ". Respondit: " Ego sum ".
+GEN|27|25|At ille: " Affer, inquit, mihi, et comedam de venatione tua, fili mi, ut benedicat tibi anima mea ". Quos cum oblatos comedisset, obtulit ei etiam vinum. Quo hausto,
+GEN|27|26|dixit ad eum Isaac pater eius: " Accede ad me et da mihi osculum, fili mi ".
+GEN|27|27|Accessit et osculatus est eum. Statimque, ut sensit vestimentorum illius fragrantiam, benedicens illi ait: Ecce odor filii meisicut odor agri pleni,cui benedixit Dominus.
+GEN|27|28|Det tibi Deus de rore caeliet de pinguedine terraeet abundantiam frumenti et vini.
+GEN|27|29|Et serviant tibi populi,et adorent te nationes;esto dominus fratrum tuorum,et incurventur ante te filii matris tuae.Qui maledixerit tibi, sit maledictus;et, qui benedixerit tibi, sit benedictus! ".
+GEN|27|30|Vix Isaac benedictionem Iacob finierat, et Iacob egressus erat a patre suo Isaac, venit Esau frater eius
+GEN|27|31|coctosque de venatione cibos intulit patri dicens: " Surge, pater mi, et comede de venatione filii tui, ut benedicat mihi anima tua ".
+GEN|27|32|Dixitque illi Isaac pater eius: " Quis enim es tu? ". Qui respondit: " Ego sum filius tuus primogenitus Esau ".
+GEN|27|33|Expavit Isaac stupore vehementi ultra modum et ait: " Quis igitur ille est, qui dudum captam venationem attulit mihi, et comedi ex omnibus, priusquam tu venires? Benedixique ei, et erit benedictus! ".
+GEN|27|34|Auditis Esau sermonibus patris, irrugiit clamore magno et amaro ultra modum et ait patri suo: " Benedic etiam mihi, pater mi! ".
+GEN|27|35|Qui ait: " Venit germanus tuus fraudulenter et accepit benedictionem tuam ".
+GEN|27|36|At ille subiunxit: " Iuste vocatum est nomen eius Iacob; supplantavit enim me en altera vice: primogenita mea ante tulit et nunc secundo surripuit benedictionem meam ".Rursumque ait: " Numquid non reservasti mihi benedictionem? ".
+GEN|27|37|Respondit Isaac: " Ecce, dominum tuum illum constitui et omnes fratres eius servituti illius subiugavi; frumento et vino stabilivi eum. Et tibi post haec, fili mi, ultra quid faciam? ".
+GEN|27|38|Dixitque Esau ad patrem suum: " Num unam tantum benedictionem habes, pater mi? Mihi quoque obsecro, ut benedicas! ". Cumque eiulatu magno fleret,
+GEN|27|39|motus Isaac dixit ad eum: Ecce, procul a pinguedine terrae erit habitatio tuaet procul a rore caeli desuper.
+GEN|27|40|De gladio tuo viveset fratri tuo servies.Tempusque veniet, cum excutiaset solvas iugum eius de cervicibus tuis ".
+GEN|27|41|Oderat ergo Esau Iacob pro benedictione, qua benedixerat ei pater, dixitque in corde suo: " Appropinquabunt dies luctus patris mei, et occidam Iacob fratrem meum ".
+GEN|27|42|Nuntiata sunt Rebeccae verba Esau filii eius maioris, quae mittens et vocans Iacob filium suum minorem dixit ad eum: " Ecce, Esau frater tuus minatur, ut occidat te.
+GEN|27|43|Nunc ergo, fili mi, audi vocem meam et consurgens fuge ad Laban fratrem meum in Charran;
+GEN|27|44|habitabisque cum eo dies paucos, donec requiescat furor fratris tui,
+GEN|27|45|et cesset indignatio eius, obliviscaturque eorum, quae fecisti in eum. Postea mittam et adducam te inde huc. Cur utroque orbabor filio in uno die? ".
+GEN|27|46|Dixit quoque Rebecca ad Isaac: " Taedet me vitae meae propter filias Heth; si acceperit Iacob uxorem de filiabus Heth sicut istis de filiabus terrae, nolo vivere ".
+GEN|28|1|Vocavit itaque Isaac Iacob et benedixit eum praecepit que ei dicens: " Noli accipere coniugem de filiabus Chanaan;
+GEN|28|2|surge, vade in Paddanaram ad domum Bathuel patris matris tuae et accipe tibi inde uxorem de filiabus Laban avunculi tui.
+GEN|28|3|Deus autem omnipotens benedicat tibi et crescere te faciat atque multiplicet, ut sis in multitudinem populorum;
+GEN|28|4|et det tibi benedictiones Abraham tibi et semini tuo tecum, ut possideas terram peregrinationis tuae, quam pollicitus est Deus avo tuo ".
+GEN|28|5|Cumque dimisisset eum Isaac, profectus est in Paddanaram ad Laban filium Bathuel Aramaei fratrem Rebeccae matris Iacob et Esau.
+GEN|28|6|Videns autem Esau quod benedixisset pater suus Iacob et misisset eum in Paddanaram, ut inde uxorem duceret, et quod post benedictionem praecepisset ei dicens: " Non accipies uxorem de filiabus Chanaan ",
+GEN|28|7|quodque oboediens Iacob parentibus suis isset in Paddanaram;
+GEN|28|8|probans quoque quod non libenter aspiceret filias Chanaan pater suus,
+GEN|28|9|ivit ad Ismaelem et duxit uxorem, absque iis, quas habebat, Mahalath filiam Ismael filii Abraham sororem Nabaioth.
+GEN|28|10|Igitur egressus Iacob de Bersabee pergebat Charran.
+GEN|28|11|Cumque venisset ad quendam locum et vellet in eo requiescere post solis occubitum, tulit de lapidibus, qui iacebant, et supponens capiti suo dormivit in eodem loco.
+GEN|28|12|Viditque in somnio scalam stantem super terram et cacumen illius tangens caelum, angelos quoque Dei ascendentes et descendentes per eam
+GEN|28|13|et Dominum innixum scalae dicentem sibi: " Ego sum Dominus, Deus Abraham patris tui et Deus Isaac. Terram, in qua dormis, tibi dabo et semini tuo.
+GEN|28|14|Eritque semen tuum quasi pulvis terrae; dilataberis ad occidentem et orientem et septentrionem et meridiem; et benedicentur in te et in semine tuo cunctae tribus terrae.
+GEN|28|15|Et ecce, ego tecum sum et custodiam te, quocumque perrexeris, et reducam te in terram hanc; nec dimittam te, nisi complevero quae dixi tibi.
+GEN|28|16|Cumque evigilasset Iacob de somno, ait: " Vere Dominus est in loco isto, et ego nesciebam ".
+GEN|28|17|Pavensque: " Quam terribilis est, inquit, locus iste! Non est hic aliud nisi domus Dei et porta caeli ".
+GEN|28|18|Surgens ergo Iacob mane tulit lapidem, quem supposuerat capiti suo, et erexit in titulum fundens oleum desuper.
+GEN|28|19|Appellavitque nomen loci illius Bethel; prius autem urbs vocabatur Luza.
+GEN|28|20|Vovit Iacob etiam votum dicens: " Si fuerit Deus mecum et custodierit me in via hac, per quam ambulo, et dederit mihi panem ad vescendum et vestimentum ad induendum,
+GEN|28|21|reversusque fuero prospere ad domum patris mei, erit mihi Dominus in Deum,
+GEN|28|22|et lapis iste, quem erexi in titulum, erit domus Dei; cunctorumque, quae dederis mihi, decimas offeram tibi ".
+GEN|29|1|Profectus ergo Iacob venit in terram orientalium.
+GEN|29|2|Et vidit puteum in agro, tres quoque greges ovium accubantes iuxta eum; nam ex illo adaquabantur pecora, et os eius grandi lapide claudebatur.
+GEN|29|3|Morisque erat, ut, cunctis ovibus congregatis, devolverent lapidem et, refectis gregibus, rursum super os putei ponerent.
+GEN|29|4|Dixitque ad pastores: " Fratres, unde estis? ". Qui responderunt: " De Charran ".
+GEN|29|5|Quos interrogans: " Numquid, ait, nostis Laban filium Nachor? ". Dixerunt: " Novimus ".
+GEN|29|6|" Sanusne est? ", inquit. " Valet, inquiunt, et ecce Rachel filia eius venit cum grege ".
+GEN|29|7|Dixitque: " Adhuc multum diei superest, nec est tempus, ut congregentur greges; date potum ovibus et sic ad pastum eas reducite ".
+GEN|29|8|Qui responderunt: " Non possumus, donec omnia pecora congregentur et amoveamus lapidem de ore putei, ut adaquemus greges ".
+GEN|29|9|Adhuc loquebatur cum eis, et ecce Rachel veniebat cum ovibus patris sui; nam gregem ipsa pascebat.
+GEN|29|10|Cum vidisset Iacob Rachel filiam Laban avunculi sui ovesque Laban avunculi sui, accedens amovit lapidem de ore putei
+GEN|29|11|et adaquavit gregem Laban avunculi sui. Tunc Iacob osculatus est Rachel et elevata voce flevit;
+GEN|29|12|et indicavit ei quod frater esset patris eius et filius Rebeccae. At illa festinans nuntiavit patri suo.
+GEN|29|13|Qui cum audisset venisse Iacob filium sororis suae, cucurrit obviam ei; complexusque eum et in oscula ruens duxit in domum suam. Auditis autem omnibus, quae evenerant,
+GEN|29|14|respondit: " Vere os meum es et caro mea! ".Et, postquam Iacob habitavit apud eum per dies mensis unius,
+GEN|29|15|dixit ei Laban: " Num, quia frater meus es, gratis servies mihi? Dic quid mercedis accipias ".
+GEN|29|16|Habebat vero filias duas: nomen maioris Lia, minor vero appellabatur Rachel;
+GEN|29|17|sed Lia lippis erat oculis, Rachel decora et venusto aspectu.
+GEN|29|18|Quam diligens Iacob ait: " Serviam tibi pro Rachel filia tua minore septem annis ".
+GEN|29|19|Respondit Laban: " Melius est, ut tibi eam dem quam alteri viro; mane apud me ".
+GEN|29|20|Servivit igitur Iacob pro Rachel septem annis, et videbantur illi pauci dies prae amoris magnitudine.
+GEN|29|21|Dixitque ad Laban: " Da mihi uxorem meam, quia iam tempus expletum est, ut ingrediar ad eam ".
+GEN|29|22|Qui, vocatis omnibus viris loci ad convivium, fecit nuptias.
+GEN|29|23|Et vespere sumpsit Liam filiam suam et introduxit ad eum, et venit ad eam.
+GEN|29|24|Et dedit Laban ancillam filiae Zelpham nomine.Facto mane, vidit, et ecce erat Lia.
+GEN|29|25|Et dixit ad socerum suum: " Quid hoc fecisti mihi? Nonne pro Rachel servivi tibi? Quare imposuisti mihi? ".
+GEN|29|26|Respondit Laban: " Non est in loco nostro consuetudinis, ut minorem ante maiorem tradamus ad nuptias.
+GEN|29|27|Imple hebdomadam hanc, et alteram quoque dabo tibi pro opere, quo serviturus es mihi septem annis aliis ".
+GEN|29|28|Acquievit placito et, hebdomada transacta, dedit ei Laban filiam suam Rachel uxorem,
+GEN|29|29|cui servam Bilham tradidit.
+GEN|29|30|Et ingressus etiam ad Rachel amavit eam plus quam Liam serviens apud eum septem annis aliis.
+GEN|29|31|Videns autem Dominus quod despiceret Liam, aperuit vulvam eius, Rachel sterili permanente.
+GEN|29|32|Et concepit Lia et genuit filium vocavitque nomen eius Ruben dicens: " Vidit Dominus humilitatem meam; nunc amabit me vir meus ".
+GEN|29|33|Rursumque concepit et peperit filium et ait: " Quoniam audivit me Dominus haberi contemptui, dedit etiam istum mihi "; vocavitque nomen illius Simeon.
+GEN|29|34|Concepit tertio et genuit alium filium dixitque: " Nunc quoque copulabitur mihi maritus meus, eo quod pepererim ei tres filios "; et idcirco appellavit nomen eius Levi.
+GEN|29|35|Quarto concepit et peperit filium et ait: " Modo confitebor Domino "; et ob hoc vocavit eum Iudam. Cessavitque parere.
+GEN|30|1|Cernens autem Rachel quod infecunda esset, invidit sorori et ait marito suo: " Da mihi liberos, alioquin moriar ".
+GEN|30|2|Cui iratus respondit Iacob: " Num pro Deo ego sum, qui privavit te fructu ventris? ".
+GEN|30|3|At illa: " Ecce, inquit, famula mea Bilha; ingredere ad illam, ut pariat super genua mea, et habeam ex illa et ego filios ".
+GEN|30|4|Deditque illi Bilham famulam suam in coniugium. Quae,
+GEN|30|5|ingresso ad se Iacob, concepit et peperit filium.
+GEN|30|6|Dixitque Rachel: " Iudicavit mihi Deus et exaudivit vocem quoque meam dans mihi filium "; et idcirco appellavit nomen illius Dan.
+GEN|30|7|Rursumque Bilha famula Rachel concepit et peperit Iacob alterum filium, et
+GEN|30|8|ait Rachel: " Certamina Dei certavi cum sorore mea et invalui "; vocavitque eum Nephthali.
+GEN|30|9|Sentiens Lia quod parere desisset, sumpsit Zelpham ancillam suam et tradidit eam Iacob in uxorem.
+GEN|30|10|Quae peperit Iacob filium.
+GEN|30|11|Dixitque Lia: " Feliciter! "; et idcirco vocavit nomen eius Gad.
+GEN|30|12|Peperit quoque Zelpha ancilla Liae Iacob alterum filium.
+GEN|30|13|Dixitque Lia: " Pro beatitudine mea! Beatam quippe me dicent mulieres; propterea appellavit eum Aser.
+GEN|30|14|Egressus autem Ruben tempore messis triticeae, repperit in agro mandragoras, quas Liae matri suae detulit. Dixitque Rachel: " Da mihi partem de mandragoris filii tui ".
+GEN|30|15|Illa respondit: " Parumne tibi videtur, quod praeripueris maritum mihi, ut etiam mandragoras filii mei auferas? ". Ait Rachel: " Dormiat ergo tecum hac nocte pro mandragoris filii tui ".
+GEN|30|16|Redeuntique ad vesperam Iacob de agro egressa est in occursum eius Lia et: " Ad me, inquit, intrabis, quia mercede conduxi te pro mandragoris filii mei ". Dormivitque cum ea nocte illa.
+GEN|30|17|Et exaudivit Deus Liam, concepitque et peperit Iacob filium quintum
+GEN|30|18|et ait: " Dedit Deus mercedem mihi, quia dedi ancillam meam viro meo "; appellavitque nomen illius Issachar.
+GEN|30|19|Rursum Lia concepit et peperit Iacob sextum filium
+GEN|30|20|et ait: " Donavit me Deus dono bono; hac vice honorabit me maritus meus, eo quod genuerim ei sex filios "; et idcirco appellavit nomen eius Zabulon.
+GEN|30|21|Post quem peperit filiam nomine Dinam.
+GEN|30|22|Recordatus quoque Deus Rachelis exaudivit eam Deus et aperuit vulvam illius.
+GEN|30|23|Quae concepit et peperit filium dicens: " Abstulit Deus opprobrium meum;
+GEN|30|24|et vocavit nomen illius Ioseph dicens: " Addat mihi Dominus filium alterum! ".
+GEN|30|25|Nato autem Ioseph, dixit Iacob ad Laban: " Dimitte me, ut revertar in patriam et ad terram meam.
+GEN|30|26|Da mihi uxores et liberos meos, pro quibus servivi tibi, ut abeam; tu nosti servitutem, qua servivi tibi ".
+GEN|30|27|Ait illi Laban: " Inveniam gratiam in conspectu tuo; augurio didici, quia benedixerit mihi Deus propter te.
+GEN|30|28|Constitue mercedem tuam, quam dem tibi ".
+GEN|30|29|At ille respondit: " Tu nosti quomodo servierim tibi et quanti in manibus meis facti sint greges tui.
+GEN|30|30|Modicum habuisti, antequam venirem ad te, et nunc multiplicatum est vehementer, benedixitque tibi Dominus ad introitum meum. Nunc autem quando providebo etiam domui meae? ".
+GEN|30|31|Dixitque Laban: " Quid tibi dabo? ". At ille ait: " Nihil mihi dabis; si feceris, quod postulo, iterum pascam et custodiam pecora tua.
+GEN|30|32|Gyrabo omnes greges tuos hodie; separa cuncta pecora varia et maculosa et, quodcumque furvum in ovibus et maculosum variumque in capris fuerit, erit merces mea.
+GEN|30|33|Respondebitque mihi cras iustitia mea; quando veneris, ut inspicias mercedem meam, omnia, quae non fuerint varia et maculosa in capris et furva in ovibus, furti me arguent ".
+GEN|30|34|Dixit Laban: " Gratum habeo, quod petis! ".
+GEN|30|35|Et separavit in die illo hircos striatos atque maculosos et omnes capras varias et maculosas, omne, in quo album erat, et omne furvum in ovibus, et tradidit in manu filiorum suorum.
+GEN|30|36|Et posuit spatium itineris trium dierum inter se et Iacob, qui pascebat reliquos greges Laban.
+GEN|30|37|Tollens ergo Iacob virgas virides populeas et amygdalinas et ex platanis, ex parte ita decorticavit eas, ut in his, quae spoliata fuerant, candor appareret.
+GEN|30|38|Posuitque virgas, quas ex parte decorticaverat, in canalibus, ubi effundebatur aqua, ut, cum venissent greges ad bibendum, ante oculos haberent virgas et in aspectu earum conciperent.
+GEN|30|39|Factumque est ut in ipso calore coitus greges intuerentur virgas et parerent striata et varia et maculosa.
+GEN|30|40|Agnos autem segregavit Iacob et posuit gregem ex adverso striatorum et omnium furvorum in grege Laban et constituit sibi greges seorsum neque statuit eos cum grege Laban.
+GEN|30|41|Quotiescumque igitur calefiebant pecora robusta, ponebat Iacob virgas in canalibus aquarum ante oculos pecorum, ut in earum contemplatione conciperent.
+GEN|30|42|Quando vero pecora debilia erant, non ponebat eas. Factaque sunt debilia Laban et robusta Iacob;
+GEN|30|43|ditatusque est homo ultra modum et habuit greges multos, ancillas et servos, camelos et asinos.
+GEN|31|1|Postquam autem audivit verba filiorum Laban dicen tium: " Tulit Iacob omnia, quae fuerunt patris nostri, et de patris nostri facultate acquisivit has divitias ",
+GEN|31|2|animadvertit quoque faciem Laban quod non esset erga se sicut heri et nudiustertius.
+GEN|31|3|Et dixit Dominus ad Iacob: " Revertere in terram patrum tuorum et ad cognationem tuam, eroque tecum ".
+GEN|31|4|Misit Iacob et vocavit Rachel et Liam in agrum, ubi pascebat greges,
+GEN|31|5|dixitque eis: " Video faciem patris vestri quod non sit erga me sicut heri et nudiustertius; Deus autem patris mei fuit mecum,
+GEN|31|6|et ipsae nostis quod totis viribus meis servierim patri vestro.
+GEN|31|7|Sed pater vester circumvenit me et mutavit mercedem meam decem vicibus; et tamen non dimisit eum Deus, ut noceret mihi.
+GEN|31|8|Si quando dixit: "Variae erunt mercedes tuae", pariebant omnes oves varios fetus. Quando vero e contrario ait: "Striata quaeque accipies pro mercede", omnes greges striata pepererunt.
+GEN|31|9|Tulitque Deus substantiam patris vestri et dedit mihi.
+GEN|31|10|Postquam enim conceptus gregis tempus advenerat, levavi oculos meos et vidi in somnis ascendentes mares super feminas, striatos et varios et respersos.
+GEN|31|11|Dixitque angelus Dei ad me in somnis: "Iacob". Et ego respondi: Adsum.
+GEN|31|12|Qui ait: "Leva oculos tuos et vide universos masculos ascendentes super feminas, striatos et varios atque respersos. Vidi enim omnia, quae fecit tibi Laban.
+GEN|31|13|Ego sum Deus Bethel, ubi unxisti lapidem et votum vovisti mihi. Nunc ergo surge et egredere de terra hac revertens in terram nativitatis tuae".
+GEN|31|14|Responderunt ei Rachel et Lia: " Numquid habemus adhuc partem et hereditatem in domo patris nostri?
+GEN|31|15|Nonne quasi alienas reputavit nos et vendidit nos comeditque pretium nostrum?
+GEN|31|16|Sed omnes opes, quas tulit Deus patri nostro, nobis abstulit ac filiis nostris; unde omnia, quae praecepit tibi Deus, fac ".
+GEN|31|17|Surrexit itaque Iacob et imposuit liberos suos ac coniuges suas super camelos.
+GEN|31|18|Tulitque omnes greges suos et omnem substantiam suam, quidquid in Paddanaram acquisierat, ut iret ad Isaac patrem suum in terram Chanaan.
+GEN|31|19|Eo tempore Laban ierat ad tondendas oves, et Rachel furata est theraphim patris sui.
+GEN|31|20|Iacob autem decepit cor Laban, non indicans ei quod fugeret.
+GEN|31|21|Cumque fugisset cum omnibus, quae possidebat, et, amne transmisso, pergeret contra montem Galaad,
+GEN|31|22|nuntiatum est Laban die tertio quod fugisset Iacob.
+GEN|31|23|Qui, assumptis fratribus suis, persecutus est eum diebus septem et comprehendit eum in monte Galaad.
+GEN|31|24|Venit autem Deus ad Laban Aramaeum per somnium noctis dixitque ei: Cave, ne quidquam loquaris contra Iacob!".
+GEN|31|25|Iamque Iacob extenderat in monte tabernaculum, cum Laban, consecutus eum cum fratribus suis, in eodem monte Galaad fixit tentorium.
+GEN|31|26|Et dixit ad Iacob: " Quare ita egisti et decepisti cor meum, abigens filias meas quasi captivas gladio?
+GEN|31|27|Cur clam fugisti et decepisti me, non indicans mihi, ut prosequerer te cum gaudio et canticis et tympanis et citharis?
+GEN|31|28|Non es passus, ut oscularer filios meos ac filias; stulte operatus es. Et nunc
+GEN|31|29|valet quidem manus mea reddere tibi malum, sed Deus patris vestri heri dixit mihi: "Cave, ne loquaris contra Iacob quidquam!".
+GEN|31|30|Esto, profectus es, quia desiderio tibi erat domus patris tui; cur furatus es deos meos? ".
+GEN|31|31|Respondit Iacob: " Quia timui. Dixi enim, ne forte violenter auferres filias tuas a me.
+GEN|31|32|Apud quemcumque inveneris deos tuos, non vivat! Coram fratribus nostris scrutare, quidquid tuorum apud me inveneris, et aufer ". Ignorabat enim Iacob quod Rachel furata esset theraphim.
+GEN|31|33|Ingressus itaque Laban tabernacula Iacob et Liae et utriusque famulae, non invenit. Egressus de tentorio Liae, intravit tentorium Rachelis.
+GEN|31|34|Illa autem absconderat theraphim in stramento cameli et sedit desuper. Scrutantique omne tentorium et nihil invenienti
+GEN|31|35|ait: " Ne irascatur dominus meus, quod coram te assurgere nequeo, quia iuxta consuetudinem feminarum nunc accidit mihi ". Quaesivit ergo et non invenit theraphim.
+GEN|31|36|Tumensque Iacob cum iurgio ait: " Quam ob culpam meam et ob quod peccatum meum sic persecutus es me,
+GEN|31|37|quia scrutatus es omnem supellectilem meam? Quid invenisti de cuncta substantia domus tuae? Pone hic coram fratribus meis et fratribus tuis, et iudicent inter me et te.
+GEN|31|38|Ecce, viginti annis fui tecum. Oves tuae et caprae non abortiverunt, arietes gregis tui non comedi;
+GEN|31|39|nec dilaceratum a bestia ostendi tibi: ego damnum omne reddebam; quidquid die noctuque furto perierat, a me exigebas.
+GEN|31|40|Die aestu consumebar et nocte gelu, fugiebatque somnus ab oculis meis.
+GEN|31|41|Sic per viginti annos in domo tua servivi tibi: quattuordecim pro filiabus et sex pro gregibus tuis; immutasti quoque mercedem meam decem vicibus.
+GEN|31|42|Nisi Deus patris mei, Deus Abraham et Timor Isaac, affuisset mihi, certemodo nudum me dimisisses; afflictionem meam et laborem manuum mearum respexit Deus et iudicavit heri ".
+GEN|31|43|Respondit ei Laban: " Filiae filiae meae et filii filii mei et greges greges mei et omnia, quae cernis, mea sunt; et filiabus meis quid possum facere illis hodie et filiis earum, quos genuerunt?
+GEN|31|44|Veni ergo, et ineamus foedus ego et tu, ut sit in testimonium inter me et te ".
+GEN|31|45|Tulit itaque Iacob lapidem et erexit illum in titulum;
+GEN|31|46|dixitque fratribus suis: " Afferte lapides ". Qui congregantes fecerunt tumulum comederuntque ibi super eum.
+GEN|31|47|Quem vocavit Laban Iegarsahadutha (id est Tumulus testimonii), et Iacob Galed (uterque iuxta proprietatem linguae suae).
+GEN|31|48|Dixitque Laban: " Tumulus iste testis erit inter me et te hodie "; et idcirco appellatum est nomen eius Galed (id est Tumulus testis)
+GEN|31|49|et etiam Maspha (id est Specula), quia dixit: " Speculetur Dominus inter me et te, quando absconditi erimus ab invicem.
+GEN|31|50|Si afflixeris filias meas et si introduxeris uxores alias super eas, cum nemo nobiscum sit, vide, Deus est testis inter me et te ".
+GEN|31|51|Dixitque Laban ad Iacob: " En tumulus hic et lapis, quem erexi inter me et te.
+GEN|31|52|Testis erit tumulus iste et lapis quod ego non transibo tumulum hunc pergens ad te, neque tu transibis tumulum hunc et lapidem hunc ad malum.
+GEN|31|53|Deus Abraham et Deus Nachor iudicent inter nos ".Iuravit Iacob per Timorem patris sui Isaac;
+GEN|31|54|immolatisque victimis in monte, vocavit fratres suos, ut ederent panem. Qui cum comedissent, pernoctaverunt in monte.
+GEN|32|1|Laban vero de nocte consur gens osculatus est filios et fi lias suas et benedixit illis reversusque est in locum suum.
+GEN|32|2|Iacob quoque abiit itinere, quo coeperat, fueruntque ei obviam angeli Dei.
+GEN|32|3|Quos cum vidisset, ait: " Castra Dei sunt haec "; et appellavit nomen loci illius Mahanaim (id est Castra).
+GEN|32|4|Misit autem nuntios ante se ad Esau fratrem suum in terram Seir, in regionem Edom.
+GEN|32|5|Praecepitque eis dicens: " Sic loquimini domino meo Esau: Haec dicit servus tuus Iacob: Apud Laban peregrinatus sum et fui usque in praesentem diem.
+GEN|32|6|Habeo boves et asinos, oves et servos atque ancillas; mittoque nunc legationem ad dominum meum, ut inveniam gratiam in conspectu tuo ".
+GEN|32|7|Reversique sunt nuntii ad Iacob dicentes: " Venimus ad Esau fratrem tuum, et ecce properat in occursum tibi cum quadringentis viris ".
+GEN|32|8|Timuit Iacob valde et perterritus divisit populum, qui secum erat, greges quoque et oves et boves et camelos in duas turmas
+GEN|32|9|dicens: " Si venerit Esau ad unam turmam et percusserit eam, alia turma, quae reliqua est, salvabitur ".
+GEN|32|10|Dixitque Iacob: " Deus patris mei Abraham et Deus patris mei Isaac, Domine, qui dixisti mihi: "Revertere in terram tuam et in locum nativitatis tuae, et benefaciam tibi",
+GEN|32|11|minor sum cunctis miserationibus et cuncta veritate, quam explesti servo tuo. In baculo meo transivi Iordanem istum et nunc cum duabus turmis regredior.
+GEN|32|12|Erue me de manu fratris mei, de manu Esau, quia valde eum timeo; ne forte veniens percutiat matrem cum filiis.
+GEN|32|13|Tu locutus es quod bene mihi faceres et dilatares semen meum sicut arenam maris, quae prae multitudine numerari non potest ".
+GEN|32|14|Mansit ibi nocte illa et sumpsit de his, quae habebat, munera Esau fratri suo:
+GEN|32|15|capras ducentas, hircos viginti, oves ducentas et arietes viginti,
+GEN|32|16|camelos fetas cum pullis suis triginta, vaccas quadraginta et tauros decem, asinas viginti et pullos earum decem.
+GEN|32|17|Et misit per manus servorum suorum singulos seorsum greges dixitque pueris suis: " Antecedite me, et sit spatium inter gregem et gregem ".
+GEN|32|18|Et praecepit priori dicens: " Si obvium habueris Esau fratrem meum, et interrogaverit te: "Cuius es?" et "Quo vadis?" et "Cuius sunt ista, quae sequeris?",
+GEN|32|19|respondebis: Servi tui Iacob; munera misit domino meo Esau. Ipse quoque post nos venit ".
+GEN|32|20|Similiter mandata dedit secundo ac tertio et cunctis, qui sequebantur greges, dicens: " Iisdem verbis loquimini ad Esau, cum inveneritis eum,
+GEN|32|21|et addetis: Ipse quoque servus tuus Iacob iter nostrum insequitur. Dixit enim: Placabo illum muneribus, quae praecedunt, et postea videbo faciem eius: forsitan propitiabitur mihi ".
+GEN|32|22|Praecesserunt itaque munera ante eum, ipse vero mansit nocte illa in castris.
+GEN|32|23|Cumque nocte surrexisset, tulit duas uxores suas et totidem famulas cum undecim filiis et transivit vadum Iaboc;
+GEN|32|24|sumptis ergo traductisque illis et omnibus, quae ad se pertinebant, per torrentem,
+GEN|32|25|mansit solus.Et ecce vir luctabatur cum eo usque mane.
+GEN|32|26|Qui cum videret quod eum superare non posset, tetigit acetabulum femoris eius, et statim luxatum est acetabulum femoris Iacob, cum luctaretur cum illo.
+GEN|32|27|Dixitque: " Dimitte me, iam enim ascendit aurora ". Respondit: " Non dimittam te, nisi benedixeris mihi ".
+GEN|32|28|Ait ad eum: " Quod nomen est tibi? ". Respondit: " Iacob ".
+GEN|32|29|At ille: " Nequaquam, inquit, Iacob amplius appellabitur nomen tuum, sed Israel: quoniam certasti cum Deo et cum hominibus et praevaluisti! ".
+GEN|32|30|Interrogavit eum Iacob: " Dic mihi, quo appellaris nomine? ". Respondit: " Cur quaeris nomen meum? ". Et benedixit ei in eodem loco.
+GEN|32|31|Vocavitque Iacob nomen loci illius Phanuel dicens: " Vidi Deum facie ad faciem, et salva facta est anima mea ".
+GEN|32|32|Ortusque est ei sol, cum transgrederetur Phanuel; ipse vero claudicabat propter femur.
+GEN|32|33|Quam ob causam non comedunt filii Israel nervum, qui est in femore, usque in praesentem diem, eo quod tetigerit nervum femoris Iacob.
+GEN|33|1|Elevans autem Iacob oculos suos vidit venientem Esau et cum eo quadringentos viros; divisitque filios Liae et Rachel ambarumque famularum.
+GEN|33|2|Et posuit utramque ancillam et liberos earum in principio, Liam vero et filios eius in secundo loco, Rachel autem et Ioseph novissimos.
+GEN|33|3|Et ipse praegrediens adoravit pronus in terram septies, donec appropinquaret ad fratrem suum.
+GEN|33|4|Currens itaque Esau obviam fratri suo amplexatus est eum; stringensque collum eius osculatus est eum, et fleverunt.
+GEN|33|5|Levatisque oculis, vidit mulieres et liberos earum et ait: " Qui sunt isti tibi? ". Respondit: " Liberi sunt, quos donavit mihi Deus servo tuo.
+GEN|33|6|Et appropinquantes ancillae et filii earum incurvati sunt.
+GEN|33|7|Accessit quoque Lia cum liberis suis et, cum similiter adorassent, extremi Ioseph et Rachel adoraverunt.
+GEN|33|8|" Quaenam sunt, inquit, istae turmae, quas obvias habui? ". Respondit: " Ut invenirem gratiam coram domino meo ".
+GEN|33|9|At ille: " Habeo, ait, plurima, frater mi; sint tua tibi ".
+GEN|33|10|Dixit Iacob: " Noli ita, obsecro; sed, si inveni gratiam in oculis tuis, accipe munusculum de manibus meis; sic enim vidi faciem tuam quasi viderim vultum Dei, et mihi propitius fuisti.
+GEN|33|11|Suscipe, quaeso, benedictionem, quae allata est tibi; quia Deus misertus est mihi, et habeo omnia ".Et, cum compelleret illum, suscepit
+GEN|33|12|et ait: " Gradiamur simul, eroque socius itineris tui ".
+GEN|33|13|Dixit Iacob: " Nosti, domine mi, quod parvulos habeam teneros et oves et boves fetas mecum; quas si plus in ambulando fecero laborare vel una die, morientur cuncti greges.
+GEN|33|14|Praecedat dominus meus ante servum suum; et ego sequar paulatim secundum gressum pecorum ante me et secundum gressum parvulorum, donec veniam ad dominum meum in Seir ".
+GEN|33|15|Respondit Esau: " Oro te, ut de populo, qui mecum est, saltem socii remaneant viae tuae". " Non est, inquit, necesse; hoc uno indigeo, ut inveniam gratiam in conspectu domini mei ".
+GEN|33|16|Reversus est itaque illo die Esau itinere suo in Seir.
+GEN|33|17|Et Iacob venit in Succoth, ubi, aedificata sibi domo et fixis tentoriis pro gregibus suis, appellavit nomen loci illius Succoth (id est Tabernacula).
+GEN|33|18|Transivitque Iacob incolumis ad urbem Sichem, quae est in terra Chanaan, cum veniret de Paddanaram; et habitavit iuxta oppidum.
+GEN|33|19|Emitque partem agri, in qua fixerat tabernaculum suum, a filiis Hemmor patris Sichem centum argenteis.
+GEN|33|20|Et erexit ibi altare et vocavit illud: " Deus est Deus Israel ".
+GEN|34|1|Egressa est autem Dina filia, quam Lia pepererat Iacob, ut videret filias regionis illius.
+GEN|34|2|Quam cum vidisset Sichem filius Hemmor Hevaei principis terrae illius, adamavit eam et rapuit; et dormivit cum illa, vi opprimens illam.
+GEN|34|3|Et conglutinata est anima eius cum ea, et amavit puellam et locutus est ad cor eius.
+GEN|34|4|Dixitque ad Hemmor patrem suum: " Accipe mihi puellam hanc coniugem ".
+GEN|34|5|Cum audisset Iacob quod violasset Dinam filiam suam, absentibus filiis et in pastu pecorum occupatis, siluit, donec redirent.
+GEN|34|6|Egresso autem Hemmor patre Sichem, ut loqueretur ad Iacob,
+GEN|34|7|ecce filii Iacob veniebant de agro, auditoque, quod acciderat, contristati et irati sunt valde, eo quod foedam rem esset operatus in Israel et, violata filia Iacob, rem illicitam perpetrasset.
+GEN|34|8|Locutus est itaque Hemmor ad eos: " Sichem filii mei adhaesit anima filiae vestrae; date eam illi uxorem,
+GEN|34|9|et iungamus vicissim conubia: filias vestras tradite nobis et filias nostras accipite vobis.
+GEN|34|10|Et habitate nobiscum; terra in potestate vestra est: manete, perambulate et possidete eam ".
+GEN|34|11|Sed et Sichem ad patrem et ad fratres eius ait: " Inveniam gratiam coram vobis et, quaecumque statueritis, dabo.
+GEN|34|12|Augete mihi valde dotem et munera; libens tribuam, quod petieritis. Tantum date mihi puellam hanc uxorem ".
+GEN|34|13|Responderunt filii Iacob Sichem et Hemmor patri eius in dolo ob stuprum sororis:
+GEN|34|14|" Non possumus facere, quod petitis, dare sororem nostram homini incircumciso, opprobrium enim esset nobis.
+GEN|34|15|In hoc tantum valebimus acquiescere vobis: si esse volueritis similes nostri, circumcidatur in vobis omne masculini sexus;
+GEN|34|16|tunc dabimus et accipiemus mutuo filias nostras ac vestras et habitabimus vobiscum erimusque unus populus.
+GEN|34|17|Si autem circumcidi nolueritis, tollemus filiam nostram et recedemus ".
+GEN|34|18|Placuit oblatio eorum Hemmor et Sichem filio eius,
+GEN|34|19|nec distulit adulescens quin statim, quod petebatur, expleret; amabat enim filiam Iacob valde, et ipse erat inclitus in omni domo patris sui.
+GEN|34|20|Ingressique portam urbis, Hemmor et Sichem filius eius locuti sunt ad viros civitatis suae:
+GEN|34|21|" Viri isti pacifici sunt erga nos; maneant in terra et perambulent eam, quae spatiosa et lata est eis; filias eorum accipiemus uxores et nostras illis dabimus.
+GEN|34|22|Tantum in hoc valebunt viri acquiescere nobis, ut maneant nobiscum et efficiamur unus populus, si circumcidamus masculos nostros ritum gentis imitantes;
+GEN|34|23|et pecora et substantia et armenta eorum nostra erunt. Tantum in hoc acquiescamus, et habitabunt nobiscum ".
+GEN|34|24|Assensique sunt omnes, circumcisis cunctis maribus, qui egrediebantur e porta civitatis suae.
+GEN|34|25|Et ecce, die tertio, quando gravissimus vulnerum dolor est, arreptis duo filii Iacob Simeon et Levi fratres Dinae gladiis, ingressi sunt urbem securi; interfectisque omnibus masculis,
+GEN|34|26|Hemmor et Sichem pariter necaverunt, tollentes Dinam de domo Sichem sororem suam.
+GEN|34|27|Filii Iacob irruerunt super occisos, et depopulati sunt urbem in ultionem stupri.
+GEN|34|28|Oves eorum et armenta et asinos cunctaque, quae in civitate et in agris erant, tulerunt.
+GEN|34|29|Omnes opes eorum, parvulos quoque et uxores duxerunt captivas et diripuerunt omnia, quae in domibus erant.
+GEN|34|30|Iacob autem dixit ad Simeon et Levi: " Turbastis me et odiosum fecistis me Chananaeis et Pherezaeis habitatoribus terrae huius. Nos pauci sumus; illi congregati percutient me, et delebor ego et domus mea ".
+GEN|34|31|Responderunt: " Numquid ut scorto abuti debuere sorore nostra? ".
+GEN|35|1|Locutus est Deus ad Iacob: " Surge et ascende Bethel et habita ibi; facque altare Deo, qui apparuit tibi, quando fugiebas Esau fratrem tuum ".
+GEN|35|2|Iacob vero, convocata omni domo sua, ait: " Abigite deos alienos, qui in medio vestri sunt, et mundamini ac mutate vestimenta vestra.
+GEN|35|3|Surgamus et ascendamus in Bethel, ut faciamus ibi altare Deo, qui exaudivit me in die tribulationis meae et socius fuit itineris mei ".
+GEN|35|4|Dederunt ergo ei omnes deos alienos, quos habebant, et inaures, quae erant in auribus eorum; at ille infodit ea subter Quercum, quae est prope urbem Sichem.
+GEN|35|5|Cumque profecti essent, terror Dei invasit omnes per circuitum civitates, et non sunt ausi persequi filios Iacob.
+GEN|35|6|Venit igitur Iacob Luzam, quae est in terra Chanaan, id est Bethel, ipse et omnis populus cum eo.
+GEN|35|7|Aedificavitque ibi altare et appellavit nomen loci illius Deus Bethel; ibi enim apparuit ei Deus, cum fugeret fratrem suum.
+GEN|35|8|Eodem tempore mortua est Debora nutrix Rebeccae et sepulta est ad radices Bethel subter quercum; vocatumque est nomen loci illius Quercus fletus.
+GEN|35|9|Apparuit iterum Deus Iacob, postquam reversus est de Paddanaram, benedixitque ei
+GEN|35|10|dicens: " Non vocaberis ultra Iacob, sed Israel erit nomen tuum ", et appellavit eum Israel.
+GEN|35|11|Dixitque ei: " Ego Deus omnipotens. Cresce et multiplicare; gens et congregatio nationum erunt ex te, reges de lumbis tuis egredientur.
+GEN|35|12|Terramque, quam dedi Abraham et Isaac, dabo tibi; et semini tuo post te dabo terram hanc ".
+GEN|35|13|Et ascendit ab eo Deus.
+GEN|35|14|Ille vero erexit titulum lapideum in loco, quo locutus ei fuerat Deus, libans super eum libamina et effundens oleum
+GEN|35|15|vocansque nomen loci illius Bethel.
+GEN|35|16|Egressi sunt de Bethel. Et adhuc spatium quoddam erat usque ad Ephratham, cum parturiret Rachel;
+GEN|35|17|ob difficultatem partus periclitari coepit, dixitque ei obstetrix: " Noli timere, quia et hac vice habes filium ".
+GEN|35|18|Egrediente autem anima et imminente iam morte, vocavit nomen filii sui Benoni (id est Filius doloris mei); pater vero appellavit eum Beniamin (id est Filius dextrae).
+GEN|35|19|Mortua est ergo Rachel et sepulta est in via, quae ducit Ephratham; haec est Bethlehem.
+GEN|35|20|Erexitque Iacob titulum super sepulcrum eius; hic est titulus monumenti Rachel usque in praesentem diem.
+GEN|35|21|Egressus inde Israel, fixit tabernaculum trans Magdaleder (id est Turris gregis).
+GEN|35|22|Cumque habitaret in illa regione, abiit Ruben et dormivit cum Bilha concubina patris sui; quod illum minime latuit.Erant autem filii Iacob duodecim.
+GEN|35|23|Filii Liae: primogenitus Ruben et Simeon et Levi et Iudas et Issachar et Zabulon.
+GEN|35|24|Filii Rachel: Ioseph et Beniamin.
+GEN|35|25|Filii Bilhae ancillae Rachelis: Dan et Nephthali.
+GEN|35|26|Filii Zelphae ancillae Liae: Gad et Aser. Hi sunt filii Iacob, qui nati sunt ei in Paddanaram.
+GEN|35|27|Venit Iacob ad Isaac patrem suum in Mambre Cariatharbe, id est Hebron, ubi peregrinatus est Abraham et Isaac.
+GEN|35|28|Et completi sunt dies Isaac centum octoginta annorum;
+GEN|35|29|consumptusque aetate mortuus est et appositus est populo suo senex et plenus dierum. Et sepelierunt eum Esau et Iacob filii sui.
+GEN|36|1|Hae sunt autem generationes Esau. Ipse est Edom.
+GEN|36|2|Esau accepit uxores de filiabus Chanaan: Ada filiam Elon Hetthaei et Oolibama filiam Ana filii Sebeon Horraei;
+GEN|36|3|Basemath quoque filiam Ismael sororem Nabaioth.
+GEN|36|4|Peperit autem Ada Eliphaz, Basemath genuit Rahuel,
+GEN|36|5|Oolibama genuit Iehus et Ialam et Core.Hi filii Esau, qui nati sunt ei in terra Chanaan.
+GEN|36|6|Tulit autem Esau uxores suas et filios et filias et omnes animas domus suae et pecora armenta et cuncta, quae acquisierat in terra Chanaan, et abiit in terram Seir; recessitque a fratre suo Iacob.
+GEN|36|7|Divites enim erant valde et simul habitare non poterant; nec sustinebat eos terra peregrinationis eorum prae multitudine gregum.
+GEN|36|8|Habitavitque Esau in monte Seir. Ipse est Edom.
+GEN|36|9|Hae autem sunt generationes Esau patris Edom in monte Seir,
+GEN|36|10|et haec nomina filiorum eius: Eliphaz filius Ada uxoris Esau, Rahuel quoque filius Basemath uxoris eius.
+GEN|36|11|Fueruntque Eliphaz filii: Theman, Omar, Sepho et Gatham et Cenez.
+GEN|36|12|Erat autem Thamna concubina Eliphaz filii Esau, quae peperit ei Amalec. Hi sunt filii Ada uxoris Esau.
+GEN|36|13|Filii autem Rahuel: Nahath et Zara, Samma et Meza; hi filii Basemath uxoris Esau.
+GEN|36|14|Isti erant filii Oolibama filiae Ana filii Sebeon uxoris Esau, quos genuit ei: Iehus et Ialam et Core.
+GEN|36|15|Hi duces filiorum Esau. Filii Eliphaz primogeniti Esau: dux Theman, dux Omar, dux Sepho, dux Cenez,
+GEN|36|16|dux Core, dux Gatham, dux Amalec. Hi duces Eliphaz in terra Edom; hi filii Ada.
+GEN|36|17|Hi filii Rahuel filii Esau: dux Nahath, dux Zara, dux Samma, dux Meza. Hi duces Rahuel in terra Edom; isti filii Basemath uxoris Esau.
+GEN|36|18|Hi filii Oolibama uxoris Esau: dux Iehus, dux Ialam, dux Core. Hi duces Oolibama filiae Ana uxoris Esau.
+GEN|36|19|Isti sunt filii Esau et hi duces eorum. Ipse est Edom.
+GEN|36|20|Isti sunt filii Seir Horraei habitatores terrae: Lotan et Sobal et Sebeon et Ana
+GEN|36|21|et Dison et Eser et Disan; hi duces Horraei filii Seir in terra Edom.
+GEN|36|22|Facti sunt autem filii Lotan: Hori et Hemam; erat autem soror Lotan Thamna.
+GEN|36|23|Et isti filii Sobal: Alvan et Manahath et Ebal, Sepho et Onam.
+GEN|36|24|Et hi filii Sebeon: Aia et Ana. Iste est Ana, qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui.
+GEN|36|25|Habuitque filium Dison et filiam Oolibama.
+GEN|36|26|Et isti filii Dison: Hemdan et Eseban et Iethran et Charran.
+GEN|36|27|Hi filii Eser: Bilhan et Zavan et Iacan.
+GEN|36|28|Habuit autem filios Disan: Us et Aran.
+GEN|36|29|Isti duces Horraeorum: dux Lotan, dux Sobal, dux Sebeon, dux Ana,
+GEN|36|30|dux Dison, dux Eser, dux Disan; isti duces Horraeorum secundum tribus eorum in terra Seir.
+GEN|36|31|Reges autem, qui regnaverunt in terra Edom, antequam haberent regem filii Israel, fuerunt hi.
+GEN|36|32|Regnavit in Edom Bela filius Beor, nomenque urbis eius Denaba.
+GEN|36|33|Mortuus est autem Bela, et regnavit pro eo Iobab filius Zarae de Bosra.
+GEN|36|34|Cumque mortuus esset Iobab, regnavit pro eo Husam de terra Themanorum.
+GEN|36|35|Hoc quoque mortuo, regnavit pro eo Adad filius Badad, qui percussit Madian in regione Moab; et nomen urbis eius Avith.
+GEN|36|36|Cumque mortuus esset Adad, regnavit pro eo Semla de Masreca.
+GEN|36|37|Hoc quoque mortuo, regnavit pro eo Saul de Rohoboth iuxta fluvium.
+GEN|36|38|Cumque et hic obiisset, successit in regnum Baalhanan filius Achobor.
+GEN|36|39|Isto quoque mortuo, regnavit pro eo Adad, nomenque urbis eius Phau; et appellabatur uxor eius Meetabel filia Matred filiae Mezaab.
+GEN|36|40|Haec ergo nomina ducum Esau in cognationibus et locis et vocabulis suis: dux Thamna, dux Alva, dux Ietheth,
+GEN|36|41|dux Oolibama, dux Ela, dux Phinon,
+GEN|36|42|dux Cenez, dux Theman, dux Mabsar,
+GEN|36|43|dux Magdiel, dux Iram.Hi duces Edom habitantes in terra imperii sui. Ipse est Esau pater Idumaeorum.
+GEN|37|1|Habitavit autem Iacob in terra Chanaan, in qua pere grinatus est pater suus.
+GEN|37|2|Hae sunt generationes Iacob.Ioseph, cum decem et scptem esset annorum, pascebat gregem cum fratribus suis adhuc puer; et erat cum filiis Bilhae et Zelphae uxorum patris sui; detulitque patri malam eorum famam.
+GEN|37|3|Israel autem diligebat Ioseph super omnes filios suos, eo quod in senectute genuisset eum; fecitque ei tunicam talarem.
+GEN|37|4|Videntes autem fratres eius quod a patre plus cunctis filiis amaretur, oderant eum nec poterant ei quidquam pacifice loqui.
+GEN|37|5|Accidit quoque ut visum somnium referret fratribus suis; quae causa maioris odii seminarium fuit.
+GEN|37|6|Dixitque ad eos: " Audite somnium meum, quod vidi.
+GEN|37|7|Putabam ligare nos manipulos in agro, et quasi consurgere manipulum meum et stare, vestrosque manipulos circumstantes adorare manipulum meum ".
+GEN|37|8|Responderunt fratres eius: " Numquid rex noster eris? Aut subiciemur dicioni tuae? ". Haec ergo causa somniorum atque sermonum, invidiae et odii fomitem ministravit.
+GEN|37|9|Aliud quoque vidit somnium, quod narrans fratribus ait: " Vidi per somnium quasi solem et lunam et stellas undecim adorare me ".
+GEN|37|10|Quod cum patri suo et fratribus retulisset, increpavit eum pater suus et dixit: " Quid sibi vult hoc somnium, quod vidisti? Num ego et mater tua et fratres tui adorabimus te proni in terram? ".
+GEN|37|11|Invidebant igitur ei fratres sui; pater vero rem tacitus considerabat.
+GEN|37|12|Cumque fratres illius in pascendis gregibus patris morarentur in Sichem,
+GEN|37|13|dixit Israel ad Ioseph: " Fratres tui pascunt oves in Sichimis; veni, mittam te ad eos ". Quo respondente:
+GEN|37|14|" Praesto sum ", ait ei: " Vade et vide, si cuncta prospera sint erga fratres tuos et pecora, et renuntia mihi quid agatur ". Missus de valle Hebron venit in Sichem;
+GEN|37|15|invenitque eum vir errantem in agro et interrogavit quid quaereret.
+GEN|37|16|At ille respondit: " Fratres meos quaero; indica mihi, ubi pascant greges ".
+GEN|37|17|Dixitque ei vir: " Recesserunt de loco isto; audivi autem eos dicentes: Eamus in Dothain" ". Perrexit ergo Ioseph post fratres suos et invenit eos in Dothain.
+GEN|37|18|Qui cum vidissent eum procul, antequam accederet ad eos, cogitaverunt illum occidere.
+GEN|37|19|Et mutuo loquebantur: " Ecce somniator venit;
+GEN|37|20|venite, occidamus eum et mittamus in unam cisternarum dicemusque: Fera pessima devoravit eum. Et tunc apparebit quid illi prosint somnia sua ".
+GEN|37|21|Audiens autem hoc Ruben nitebatur liberare eum de manibus eorum et dixit:
+GEN|37|22|" Non interficiamus animam eius ". Et dixit ad eos: " Non effundatis sanguinem; sed proicite eum in cisternam hanc, quae est in solitudine, manusque vestras servate innoxias ". Hoc autem dicebat volens eripere eum de manibus eorum et reddere patri suo.
+GEN|37|23|Confestim igitur, ut pervenit ad fratres suos, nudaverunt eum tunica talari
+GEN|37|24|miseruntque eum in cisternam, quae non habebat aquam.
+GEN|37|25|Et sederunt, ut comederent panem. Attollentes autem oculos viderunt Ismaelitas viatorcs venire de Galaad et camelos eorum portantes tragacanthum et masticem et ladanum in Aegyptum.
+GEN|37|26|Dixit ergo Iudas fratribus suis: " Quid nobis prodest, si occiderimus fratrem nostrum et celaverimus sanguinem ipsius?
+GEN|37|27|Melius est ut vendatur Ismaelitis, et manus nostrae non polluantur; frater enim et caro nostra est ". Acquieverunt fratres sermonibus illius.
+GEN|37|28|Et praetereuntibus Madianitis negotiatoribus, extrahentes Ioseph de cisterna, vendiderunt eum Ismaelitis viginti argenteis. Qui duxerunt eum in Aegyptum.
+GEN|37|29|Reversusque Ruben ad cisternam non invenit puerum
+GEN|37|30|et, scissis vestibus, pergens ad fratres suos ait: " Puer non comparet, et ego quo ibo? ".
+GEN|37|31|Tulerunt autem tunicam eius et in sanguinem haedi, quem occiderant, tinxerunt
+GEN|37|32|mittentes, qui ferrent ad patrem et dicerent: "Hanc invenimus; vide, utrum tunica talaris filii tui sit an non? ".
+GEN|37|33|Quam cum agnovisset pater, ait: " Tunica filii mei est; fera pessima comedit eum, bestia devoravit Ioseph ".
+GEN|37|34|Scissisque vestibus, indutus est cilicio lugens filium suum multo tempore.
+GEN|37|35|Congregatis autem cunctis liberis eius, ut lenirent dolorem patris, noluit consolationem accipere et ait: " Descendam ad filium meum lugens in infernum ". Et flevit super eo pater eius.
+GEN|37|36|Madianitae autem vendiderunt Ioseph in Aegypto Putiphari eunucho pharaonis, magistro satellitum.
+GEN|38|1|Eo tempore descendens Iudas a fratribus suis divertit ad virum Odollamitem nomine Hiram.
+GEN|38|2|Viditque ibi filiam hominis Chananaei vocabulo Sue et, accepta uxore, ingressus est ad eam.
+GEN|38|3|Quae concepit et peperit filium vocavitque nomen eius Her.
+GEN|38|4|Rursumque concepto fetu, natum filium nominavit Onan.
+GEN|38|5|Tertium quoque peperit, quem appellavit Sela. Ipsa autem erat in Chasib, quando peperit illum.
+GEN|38|6|Dedit autem Iudas uxorem primogenito suo Her nomine Thamar.
+GEN|38|7|Fuit quoque Her primogenitus Iudae nequam in conspectu Domini, et ab eo occisus est.
+GEN|38|8|Dixit ergo Iudas ad Onan: " Ingredere ad uxorem fratris tui et sociare illi, ut suscites semen fratri tuo ".
+GEN|38|9|Ille, sciens non sibi nasci hunc filium, introiens ad uxorem fratris sui semen fundebat in terram, ne proles fratris nomine nasceretur.
+GEN|38|10|Et idcirco occidit et eum Dominus, quod rem detestabilem fecerat.
+GEN|38|11|Quam ob rem dixit Iudas Thamar nurui suae: " Esto vidua in domo patris tui, donec crescat Sela filius meus ". Timebat, enim, ne et ipse moreretur sicut fratres eius. Quae abiit et habitavit in domo patris sui.
+GEN|38|12|Evolutis autem multis diebus, mortua est filia Sue uxor Iudae. Qui, post luctum consolatione suscepta, ascendebat ad tonsores ovium suarum ipse et Hiras amicus suus Odollamites in Thamnam.
+GEN|38|13|Nuntiatumque est Thamar quod socer illius ascenderet in Thamnam ad tondendas oves.
+GEN|38|14|Quae, depositis viduitatis vestibus, cooperuit se velo et, mutato habitu, sedit in porta Enaim in via, quae ducit Thamnam; eo quod crevisset Sela, et non eum accepisset maritum.
+GEN|38|15|Quam cum vidisset Iudas, suspicatus est esse meretricem; operuerat enim vultum suum.
+GEN|38|16|Declinansque ad eam in via ait: " Veni, coeam tecum "; nesciebat enim quod nurus sua esset. Qua respondente: " Quid mihi dabis, ut fruaris concubitu meo? ",
+GEN|38|17|dixit: " Mittam tibi haedum de gregibus ". Rursum illa dicente: " Si dederis mihi arrabonem, donec mittas illum ",
+GEN|38|18|ait Iudas: " Quid vis tibi pro arrabone dari? ". Respondit: " Sigillum tuum et funiculum et baculum, quem manu tenes ". Et dedit ei. In coitu cum eo mulier concepit
+GEN|38|19|et surgens abiit; depositoque velo, induta est viduitatis vestibus.
+GEN|38|20|Misit autem Iudas haedum per amicum suum Odollamitem, ut reciperet pignus, quod dederat mulieri. Qui cum non invenisset eam,
+GEN|38|21|interrogavit homines loci illius: " Ubi est meretrix, quae sedebat in Enaim in via? ". Respondentibus cunctis: " Non fuit in loco isto meretrix,
+GEN|38|22|reversus est ad Iudam et dixit ei: " Non inveni eam; sed et homines loci illius dixerunt mihi numquam ibi sedisse scortum ".
+GEN|38|23|Ait Iudas: " Habeat sibi; ne simus in ludibrium. Ego misi haedum, quem promiseram, et tu non invenisti eam ".
+GEN|38|24|Ecce autem post tres menses nuntiaverunt Iudae dicentes: " Fornicata est Thamar nurus tua et gravida est ex fornicatione ". Dixitque Iudas: " Producite eam, ut comburatur ".
+GEN|38|25|Quae cum educeretur ad poenam, misit ad socerum suum dicens: " De viro, cuius haec sunt, concepi; cognosce cuius sit sigillum et funiculus et baculus ".
+GEN|38|26|Qui, agnitis pignoribus, ait: " Iustior me est, quia non tradidi eam Sela filio meo ". Attamen ultra non cognovit illam.
+GEN|38|27|Instante autem partu, apparuerunt gemini in utero; atque in ipsa effusione infantium unus protulit manum, in qua obstetrix ligavit coccinum dicens:
+GEN|38|28|" Iste egressus est prior ".
+GEN|38|29|Illo vero retrahente manum, egressus est frater eius; dixitque mulier: Qualem rupisti tibi rupturam? ". Et ob hanc causam vocatum est nomen eius Phares (id est Ruptura).
+GEN|38|30|Postea egressus est frater eius, in cuius manu erat coccinum; qui appellatus est Zara (id est Ortus solis).
+GEN|39|1|Igitur Ioseph ductus est in Aegyptum; emitque eum Pu tiphar eunuchus pharaonis, princeps satellitum, vir Aegyptius, de manu Ismaelitarum, a quibus perductus erat.
+GEN|39|2|Fuitque Dominus cum eo, et erat vir in cunctis prospere agens habitabatque in domo domini sui.
+GEN|39|3|Qui optime noverat esse Dominum cum eo et omnia, quae gereret, ab eo dirigi in manu illius.
+GEN|39|4|Invenitque loseph gratiam coram domino suo et ministrabat ei. Et factum est, postquam praeposuit eum domui suae et omnia, quae possidebat, tradidit in manum eius,
+GEN|39|5|benedixit Dominus domui Aegyptii propter Ioseph, et benedictio Domini erat in omni possessione eius tam in aedibus quam in agris.
+GEN|39|6|Et reliquit omnia, quae possidebat, in manu Ioseph nec cum eo quidquam aliud noverat nisi panem, quo vescebatur. Erat autem Ioseph pulchra facie et decorus aspectu.
+GEN|39|7|Post haec ergo iniecit uxor domini eius oculos suos in Ioseph et ait: " Dormi mecum ".
+GEN|39|8|Qui nequaquam acquiescens dixit ad eam: " Ecce dominus meus, omnibus mihi traditis, non curat de ulla re in domo sua,
+GEN|39|9|nec quisquam maior est in domo hac quam ego, et nihil mihi subtraxit praeter te, quae uxor eius es. Quomodo ergo possum malum hoc magnum facere et peccare in Deum? ".
+GEN|39|10|Huiuscemodi verbis per singulos dies et mulier molesta erat adulescenti, et ille recusabat stuprum.
+GEN|39|11|Accidit autem quadam die, ut intraret Ioseph domum et opus suum absque arbitris faceret;
+GEN|39|12|illa, apprehensa lacinia vestimenti eius, dixit: " Dormi mecum ". Qui, relicto in manu illius pallio, fugit et egressus est foras.
+GEN|39|13|Cumque vidisset illum mulier vestem reliquisse in manibus suis et fugisse foras,
+GEN|39|14|vocavit homines domus suae et ait ad eos: " En introduxit virum Hebraeum, ut illuderet nobis; ingressus est ad me, ut coiret mecum. Cumque ego succlamassem,
+GEN|39|15|et audisset vocem meam, reliquit pallium, quod tenebam, et fugit foras.
+GEN|39|16|Retentum pallium ostendit marito revertenti domum
+GEN|39|17|et secundum verba haec locuta est: " Ingressus est ad me servus Hebraeus, quem adduxisti, ut illuderet mihi;
+GEN|39|18|cumque audisset me clamare, reliquit pallium, quod tenebam, et fugit foras ".
+GEN|39|19|Dominus, auditis his verbis coniugis, iratus est valde;
+GEN|39|20|tradiditque Ioseph in carcerem, ubi vincti regis custodiebantur. Et erat ibi clausus.
+GEN|39|21|Fuit autem Dominus cum Ioseph et misertus illius dedit ei gratiam in conspectu principis carceris.
+GEN|39|22|Qui tradidit in manu Ioseph universos vinctos, qui in custodia tenebantur, et, quidquid ibi faciendum erat, ipse faciebat,
+GEN|39|23|nec princeps carceris spectabat quidquid in manu eius erat: Dominus enim erat cum illo et omnia opera eius dirigebat.
+GEN|40|1|His ita gestis, accidit ut peccarent pincerna regis Aegypti et pistor domino suo.
+GEN|40|2|Iratusque pharao contra duos eunuchos, praepositum pincernarum et praepositum pistorum,
+GEN|40|3|misit eos in carcerem principis satellitum, in quo erat vinctus et Ioseph.
+GEN|40|4|Et princeps satellitum tradidit eos Ioseph, qui ministrabat eis. Aliquantulum temporis illi in custodia tenebantur.
+GEN|40|5|Videruntque ambo somnium nocte una iuxta interpretationem congruam sibi.
+GEN|40|6|Ad quos cum introisset Ioseph mane et vidisset eos tristes,
+GEN|40|7|sciscitatus est eos dicens: " Cur tristior est hodie solito facies vestra? ".
+GEN|40|8|Qui responderunt: " Somnium vidimus, et non est qui interpretetur nobis. Dixitque ad eos Ioseph: " Numquid non Dei est interpretatio? Referte mihi quid videritis ".
+GEN|40|9|Narravit praepositus pincernarum somnium suum: " Videbam coram me vitem,
+GEN|40|10|in qua erant tres propagines, crescere paulatim in gemmas et post flores uvas maturescere;
+GEN|40|11|calicemque pharaonis in manu mea. Tuli ergo uvas et expressi in calicem, quem tenebam, et tradidi poculum pharaoni ".
+GEN|40|12|Respondit Ioseph: " Haec est interpretatio somnii: tres propagines, tres adhuc dies sunt,
+GEN|40|13|post quos elevabit pharao caput tuum et restituet te in gradum pristinum; dabisque ei calicem iuxta officium tuum, sicut facere ante consueveras.
+GEN|40|14|Tantum memento mei, cum tibi bene fuerit, et facias mecum misericordiam, ut suggeras pharaoni, ut educat me de isto carcere;
+GEN|40|15|quia furto sublatus sum de terra Hebraeorum et hic innocens in lacum missus sum ".
+GEN|40|16|Videns pistorum magister quod somnium in bonum dissolvisset, ait: " Et ego vidi somnium, quod tria canistra farinae haberem super caput meum;
+GEN|40|17|et in uno canistro, quod erat excelsius, portare me ex omnibus cibis pharaonis, qui fiunt arte pistoria, avesque comedere eos ".
+GEN|40|18|Respondit Ioseph: " Haec est interpretatio somnii: tria canistra, tres adhuc dies sunt,
+GEN|40|19|post quos auferet pharao caput tuum ac suspendet te in patibulo, et comedent volucres carnes tuas ".
+GEN|40|20|Exinde dies tertius natalicius pharaonis erat; qui faciens grande convivium pueris suis elevavit caput magistri pincernarum et caput pistorum principis in medio puerorum suorum;
+GEN|40|21|restituitque alterum in locum suum, ut porrigeret ei poculum,
+GEN|40|22|alterum suspendit in patibulo, sicut interpretatus erat eis Ioseph.
+GEN|40|23|Attamen praepositus pincernarum non est recordatus Ioseph, sed oblitus est interpretis sui.
+GEN|41|1|Post duos annos vidit pharao somnium. Putabat se stare super fluvium,
+GEN|41|2|de quo ascendebant septem boves pulchrae et crassae et pascebantur in locis palustribus.
+GEN|41|3|Aliae quoque septem emergebant post illas de flumine foedae confectaeque macie et stabant in ipsa amnis ripa;
+GEN|41|4|devoraveruntque septem boves pulchras et crassas. Expergefactus pharao
+GEN|41|5|rursum dormivit et vidit alterum somnium. Septem spicae pullulabant in culmo uno plenae atque formosae.
+GEN|41|6|Aliae quoque totidem spicae tenues et percussae vento urente oriebantur
+GEN|41|7|devorantes omnem priorum pulchritudinem. Evigilavit pharao, et ecce erat somnium!
+GEN|41|8|Et, facto mane, pavore perterritus misit ad omnes coniectores Aegypti cunctosque sapientes suos; et accersitis narravit somnium, nec erat qui interpretaretur.
+GEN|41|9|Tunc demum reminiscens pincernarum magister ait: " Confiteor peccatum meum.
+GEN|41|10|Iratus rex servis suis me et magistrum pistorum retrudi iussit in carcerem principis satellitum,
+GEN|41|11|ubi una nocte uterque vidimus somnium praesagum futurorum.
+GEN|41|12|Erat ibi puer Hebraeus eiusdem ducis satellitum famulus, cui narrantes somnia
+GEN|41|13|audivimus quidquid postea rei probavit eventus. Ego enim redditus sum officio meo, et ille suspensus est in patibulo ".
+GEN|41|14|Protinus ad regis imperium eductum de carcere Ioseph totonderunt ac, veste mutata, obtulerunt ei.
+GEN|41|15|Cui ille ait: " Vidi somnia, nec est qui edisserat; quae audivi te sapientissime conicere ".
+GEN|41|16|Respondit Ioseph: " Absque me Deus respondebit prospera pharaoni! ".
+GEN|41|17|Narravit ergo pharao, quod viderat: " Putabam me stare super ripam fluminis
+GEN|41|18|et septem boves de amne conscendere pulchras nimis et obesis carnibus, quae in pastu paludis virecta carpebant.
+GEN|41|19|Et ecce has sequebantur aliae septem boves in tantum deformes et macilentae, ut numquam tales in terra Aegypti viderim;
+GEN|41|20|quae, devoratis et consumptis prioribus,
+GEN|41|21|nullum saturitatis dedere vestigium; sed simili macie et squalore torpebant. Evigilans, rursus sopore depressus,
+GEN|41|22|vidi somnium: Septem spicae pullulabant in culmo uno plenae atque pulcherrimae.
+GEN|41|23|Aliae quoque septem tenues et percussae vento urente oriebantur e stipula;
+GEN|41|24|quae priorum pulchritudinem devoraverunt. Narravi coniectoribus somnium, et nemo est qui edisserat ".
+GEN|41|25|Respondit Ioseph: " Somnium regis unum est: quae facturus est, Deus ostendit pharaoni.
+GEN|41|26|Septem boves pulchrae et septem spicae plenae septem ubertatis anni sunt; eandemque vim somnii comprehendunt.
+GEN|41|27|Septem quoque boves tenues atque macilentae, quae ascenderunt post eas, et septem spicae tenues et vento urente percussae septem anni sunt venturae famis,
+GEN|41|28|qui hoc ordine complebuntur:
+GEN|41|29|ecce septem anni venient fertilitatis magnae in universa terra Aegypti;
+GEN|41|30|quos sequentur septem anni alii tantae sterilitatis, ut oblivioni tradatur cuncta retro abundantia. Consumptura est enim fames omnem terram,
+GEN|41|31|et ubertatis magnitudinem perditura est inopiae magnitudo.
+GEN|41|32|Quod autem vidisti secundo ad eandem rem pertinens somnium, firmitatis indicium est, eo quod fiat sermo Dei et velocius a Deo impleatur.
+GEN|41|33|Nunc ergo provideat rex virum intellegentem et sapientem et praeficiat eum terrae Aegypti
+GEN|41|34|constituatque praepositos per cunctas regiones et quintam partem fructuum per septem annos fertilitatis,
+GEN|41|35|qui iam nunc futuri sunt, congreget in horrea; et omne frumentum sub pharaonis potestate condatur serveturque in urbibus;
+GEN|41|36|et paretur futurae septem annorum fami, quae pressura est Aegyptum, et non consumetur terra inopia ".
+GEN|41|37|Placuit pharaoni consilium et cunctis ministris eius.
+GEN|41|38|Locutusque est ad eos: " Num invenire poterimus talem virum, qui spiritu Dei plenus sit? ".
+GEN|41|39|Dixit ergo ad Ioseph: " Quia ostendit tibi Deus omnia, quae locutus es, numquid sapientiorem et consimilem tui invenire potero?
+GEN|41|40|Tu eris super domum meam, et ad tui oris imperium cunctus populus meus oboediet; uno tantum regni solio te praecedam ".
+GEN|41|41|Dixitque rursus pharao ad Ioseph: " Ecce, constitui te super universam terram Aegypti ".
+GEN|41|42|Tulitque anulum de manu sua et dedit eum in manu eius; vestivitque eum stola byssina et collo torquem auream circumposuit.
+GEN|41|43|Fecitque eum ascendere super currum suum secundum, clamante praecone: " Abrech! ", ut omnes coram eo genuflecterent et praepositum esse scirent universae terrae Aegypti.
+GEN|41|44|Dixit quoque rex ad Ioseph: " Ego sum pharao; absque tuo imperio non movebit quisquam manum aut pedem in omni terra Aegypti ".
+GEN|41|45|Vertitque nomen eius et vocavit eum lingua Aegyptiaca Saphaneth Phanec quod interpretatur Salvator mundi) deditque illi uxorem Aseneth filiam Putiphare sacerdotis Heliopoleos.Egressus est itaque Ioseph ad terram Aegypti
+GEN|41|46|­ triginta autem annorum erat quando stetit in conspectu regis pharaonis ­ et circuivit omnes regiones Aegypti.
+GEN|41|47|Venitque fertilitas septem annorum, et segetes congregavit in horrea Aegypti
+GEN|41|48|condens in singulis urbibus frumentum camporum in circuitu.
+GEN|41|49|Tantaque fuit abundantia tritici, ut arenae maris coaequaretur, et copia mensuram excederet.
+GEN|41|50|Nati sunt autem Ioseph filii duo, antequam veniret fames, quos ei peperit Aseneth filia Putiphare sacerdotis Heliopoleos.
+GEN|41|51|Vocavitque nomen primogeniti Manasses dicens: " Oblivisci me fecit Deus omnium laborum meorum et domus patris mei ".
+GEN|41|52|Nomen quoque secundi appellavit Ephraim dicens: " Crescere me fecit Deus in terra paupertatis meae ".
+GEN|41|53|Igitur, transactis septem annis ubertatis, qui fuerant in Aegypto,
+GEN|41|54|coeperunt venire septem anni inopiae, quos praedixerat Ioseph, et in universo orbe fames praevaluit; in cuncta autem terra Aegypti erat panis.
+GEN|41|55|Qua esuriente, clamavit populus ad pharaonem alimenta petens. Quibus ille respondit: " Ite ad Ioseph et, quidquid vobis dixerit, facite ".
+GEN|41|56|Et invaluit fames in omni terra Aegypti; aperuitque Ioseph universa horrea et vendebat Aegyptiis; nam et illos oppresserat fames.
+GEN|41|57|Omnesque provinciae veniebant in Aegyptum, ut emerent escas apud Ioseph, quia inopia invaluerat in universa terra.
+GEN|42|1|Audiens autem Iacob quod alimenta venderentur in Ae gypto, dixit filiis suis: " Quare aspicitis vos invicem?
+GEN|42|2|Audivi quod triticum venumdetur in Aegypto; descendite et emite nobis necessaria, ut possimus vivere et non consumamur inopia ".
+GEN|42|3|Descenderunt igitur fratres Ioseph decem, ut emerent frumenta in Aegypto,
+GEN|42|4|Beniamin fratre Ioseph domi retento a Iacob, qui dixerat fratribus eius: Ne forte in itinere quidquam patiatur mali ".
+GEN|42|5|Et ingressi sunt filii Israel terram Aegypti cum aliis, qui pergebant ad emendum. Erat autem fames in terra Chanaan.
+GEN|42|6|Et Ioseph erat princeps in terra Aegypti, atque ad eius nutum frumenta populis vendebantur. Cumque venissent et adorassent eum fratres sui proni in terram,
+GEN|42|7|et agnovisset eos, quasi ad alienos durius loquebatur interrogans eos: " Unde venistis? ". Qui responderunt: " De terra Chanaan, ut emamus victui necessaria ".
+GEN|42|8|Et tamen fratres ipse cognoscens non est cognitus ab eis.
+GEN|42|9|Recordatusque somniorum, quae aliquando viderat, ait ad eos: " Exploratores estis; ut videatis infirmiora terrae, venistis! ".
+GEN|42|10|Qui dixerunt: " Non est ita, domine; sed servi tui venerunt, ut emerent cibos.
+GEN|42|11|Omnes filii unius viri sumus; sinceri sumus, nec quidquam famuli tui machinantur mali ".
+GEN|42|12|Quibus ille respondit: " Aliter est; immunita terrae huius considerare venistis! ".
+GEN|42|13|At illi: " Duodecim, inquiunt, servi tui fratres sumus filii viri unius in terra Chanaan; minimus cum patre nostro est, alius non est super ".
+GEN|42|14|" Hoc est, ait, quod locutus sum: exploratores estis!
+GEN|42|15|Iam nunc experimentum vestri capiam: per salutem pharaonis, non egrediemini hinc, donec veniat frater vester minimus!
+GEN|42|16|Mittite ex vobis unum, et adducat eum; vos autem eritis in vinculis, donec probentur, quae dixistis, utrum vera an falsa sint. Alioquin, per salutem pharaonis, exploratores estis! ".
+GEN|42|17|Tradidit ergo illos custodiae tribus diebus.
+GEN|42|18|Die autem tertio eductis de carcere, ait: " Facite, quae dixi, et vivetis; Deum enim timeo.
+GEN|42|19|Si sinceri estis, frater vester unus ligetur in carcere; vos autem abite et ferte frumenta, quae emistis, in domos vestras,
+GEN|42|20|et fratrem vestrum minimum ad me adducite, ut possim vestros probare sermones, et non moriamini ".Fecerunt, ut dixerat,
+GEN|42|21|et locuti sunt ad invicem: " Merito haec patimur, quia peccavimus in fratrem nostrum videntes angustiam animae illius, cum deprecaretur nos, et non audivimus. Idcirco venit super nos ista tribulatio ".
+GEN|42|22|Et Ruben ait: " Numquid non dixi vobis: Nolite peccare in puerum? Et non audistis me. En sanguis eius exquiritur ".
+GEN|42|23|Nesciebant autem quod intellegeret Ioseph, eo quod per interpretem loquebatur ad eos.
+GEN|42|24|Avertitque se parumper et flevit; et reversus locutus est ad eos.
+GEN|42|25|Tollensque Simeon et ligans, illis praesentibus, iussit ministris, ut implerent eorum saccos tritico et reponerent pecunias singulorum in sacculis suis, datis supra cibariis in viam. Qui fecerunt ita.
+GEN|42|26|At illi portantes frumenta in asinis suis profecti sunt.
+GEN|42|27|Apertoque unus sacco, ut daret iumento pabulum in deversorio, contemplatus pecuniam in ore sacculi
+GEN|42|28|dixit fratribus suis: " Reddita est mihi pecunia: en habetur in sacco!. Et obstupefacti turbatique mutuo dixerunt: " Quidnam est hoc, quod fecit nobis Deus? ".
+GEN|42|29|Veneruntque ad Iacob patrem suum in terram Chanaan; et narraverunt ei omnia, quae accidissent sibi, dicentes:
+GEN|42|30|" Locutus est nobis dominus terrae dure et putavit nos exploratores esse provinciae ".
+GEN|42|31|Cui respondimus: " Sinceri sumus, nec ullas molimur insidias;
+GEN|42|32|duodecim fratres uno patre geniti sumus, unus non est super, minimus cum patre nostro est in terra Chanaan.
+GEN|42|33|Et dixit nobis vir, dominus terrae: "Sic probabo quod sinceri sitis: fratrem vestrum unum dimittite apud me et cibaria domibus vestris necessaria sumite et abite;
+GEN|42|34|fratremque vestrum minimum adducite ad me, ut sciam quod non sitis exploratores et istum, qui tenetur in vinculis, recipere possitis ac deinceps peragrandi terram habeatis licentiam" ".
+GEN|42|35|His dictis, cum frumenta effunderent, singuli reppererunt in ore saccorum ligatas pecunias; exterritisque simul omnibus,
+GEN|42|36|dixit pater Iacob: " Absque liberis me esse fecistis: Ioseph non est super, Simeon tenetur in vinculis, et Beniamin auferetis. In me haec omnia mala reciderunt ".
+GEN|42|37|Cui respondit Ruben: " Duos filios meos interfice, si non reduxero illum tibi; trade illum in manu mea, et ego eum tibi restituam ".
+GEN|42|38|At ille: " Non descendet, inquit, filius meus vobiscum. Frater mortuus est, et ipse solus remansit; si quid ei adversi acciderit in via, deducetis canos meos cum dolore ad inferos ".
+GEN|43|1|Interim fames omnem terram vehementer premebat;
+GEN|43|2|consumptisque cibis, quos ex Aegypto detulerant, dixit Iacob ad filios suos: " Revertimini et emite nobis pauxillum escarum ".
+GEN|43|3|Respondit Iudas: " Denuntiavit nobis vir ille sub attestatione iurisiurandi dicens: "Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum".
+GEN|43|4|Si ergo vis eum mittere nobiscum, pergemus pariter et ememus tibi necessaria;
+GEN|43|5|sin autem non vis, non ibimus. Vir enim, ut saepe diximus, denuntiavit nobis dicens: "Non videbitis faciem meam absque fratre vestro minimo" ".
+GEN|43|6|Dixit eis Israel: " Cur in meam hoc fecistis miseriam, ut indicaretis ei et alium habere vos fratrem? ".
+GEN|43|7|At illi responderunt: " Interrogavit nos homo per ordinem nostram progeniem: si pater viveret, si haberemus fratrem; et nos respondimus ei consequenter iuxta id, quod fuerat sciscitatus. Numquid scire poteramus quod dicturus esset: "Adducite fratrem vestrum vobiscum?" ".
+GEN|43|8|Iudas quoque dixit patri suo Israel: " Mitte puerum mecum, ut proficiscamur et possimus vivere, ne moriamur nos et tu et parvuli nostri.
+GEN|43|9|Ego spondeo pro puero; de manu mea require illum. Nisi reduxero et reddidero eum tibi, ero peccati reus in te omni tempore.
+GEN|43|10|Si non intercessisset dilatio, iam vice altera venissemus ".
+GEN|43|11|Igitur Israel pater eorum dixit ad eos: " Si sic necesse est, facite, quod vultis; sumite de optimis terrae fructibus in vasis vestris et deferte viro munera: modicum resinae et mellis et tragacanthum et ladanum, pistacias terebinthi et amygdalas.
+GEN|43|12|Pecuniam quoque duplicem ferte vobiscum et illam, quam invenistis in sacculis, reportate, ne forte errore factum sit;
+GEN|43|13|sed et fratrem vestrum tollite et ite ad virum.
+GEN|43|14|Deus autem meus omnipotens faciat vobis eum placabilem, et remittat vobiscum fratrem vestrum, quem tenet, et hunc Beniamin. Ego autem quasi orbatus absque liberis ero ".
+GEN|43|15|Tulerunt ergo viri munera et pecuniam duplicem et Beniamin descenderuntque in Aegyptum; et steterunt coram Ioseph.
+GEN|43|16|Quos cum ille vidisset et Beniamin simul, praecepit dispensatori domus suae dicens: " Introduc viros domum et occide victimas et instrue convivium, quoniam mecum sunt comesturi meridie ".
+GEN|43|17|Fecit ille, quod sibi fuerat imperatum, et introduxit viros in domum Ioseph.
+GEN|43|18|Ibique exterriti dixerunt mutuo: " Propter pecuniam, quam rettulimus prius in saccis nostris, introducti sumus, ut irruant in nos et violenter subiciant servituti et nos et asinos nostros ".
+GEN|43|19|Quam ob rem in ipsis foribus accedentes ad dispensatorem domus
+GEN|43|20|locuti sunt: " Oramus, domine, ut audias nos. Iam ante descendimus, ut emeremus escas;
+GEN|43|21|quibus emptis, cum venissemus ad deversorium, aperuimus saccos nostros et invenimus pecuniam in ore saccorum; quam nunc eodem pondere reportavimus.
+GEN|43|22|Sed et aliud attulimus argentum, ut emamus, quae nobis necessaria sunt. Non est in nostra conscientia, quis posuerit argentum in marsupiis nostris.
+GEN|43|23|At ille respondit: " Pax vobiscum, nolite timere. Deus vester et Deus patris vestri dedit vobis thesauros in saccis vestris; nam pecuniam, quam dedistis mihi, probatam ego habeo ". Eduxitque ad eos Simeon.
+GEN|43|24|Et introductis domum attulit aquam, et laverunt pedes suos; deditque pabulum asinis eorum.
+GEN|43|25|Illi vero parabant munera, donec ingrederetur Ioseph meridie; audierant enim quod ibi comesturi essent panem.
+GEN|43|26|Igitur ingressus est Ioseph domum suam, obtuleruntque ei munera tenentes in manibus suis; et adoraverunt proni in terram.
+GEN|43|27|At ille, clementer resalutatis eis, interrogavit eos dicens: " Salvusne est pater vester senex, de quo dixeratis mihi? Adhuc vivit? ".
+GEN|43|28|Qui responderunt: " Sospes est servus tuus pater noster, adhuc vivit ". Et incurvati adoraverunt eum.
+GEN|43|29|Attollens autem Ioseph oculos vidit Beniamin fratrem suum uterinum et ait: " Iste est frater vester parvulus, de quo dixeratis mihi? ". Et rursum: " Deus, inquit, misereatur tui, fili mi ".
+GEN|43|30|Festinavitque, quia commota fuerant viscera eius super fratre suo, et erumpebant lacrimae; et introiens cubiculum flevit.
+GEN|43|31|Rursumque, lota facie, egressus continuit se et ait: " Ponite panes ".
+GEN|43|32|Quibus appositis, seorsum Ioseph et seorsum fratribus, Aegyptiis quoque, qui vescebantur simul, seorsum ­ illicitum est enim Aegyptiis comedere cum Hebraeis, et profanum putant huiuscemodi convivium ­
+GEN|43|33|sederunt coram eo, primogenitus iuxta primogenita sua et minimus iuxta aetatem suam. Et mirabantur nimis,
+GEN|43|34|sumptis partibus, quas ab eo acceperant; maiorque pars venit Beniamin, ita ut quinque partibus excederet. Biberuntque et inebriati sunt cum eo.
+GEN|44|1|Praecepit autem Ioseph dispensatori domus suae dicens: " Imple saccos eorum frumento, quantum possunt capere, et pone pecuniam singulorum in summitate sacci.
+GEN|44|2|Scyphum autem meum argenteum et pretium, quod dedit tritici, pone in ore sacci iunioris ". Factumque est ita.
+GEN|44|3|Et, orto mane, dimissi sunt cum asinis suis.
+GEN|44|4|Iamque urbem exierant et processerant paululum, tunc Ioseph, arcessito dispensatore domus: " Surge, inquit, et persequere viros; et apprehensis dicito: "Quare reddidistis malum pro bono? Cur furati estis mihi scyphum argenteum?
+GEN|44|5|Nonne ipse est, in quo bibit dominus meus et in quo augurari solet? Pessimam rem fecistis!" ".
+GEN|44|6|Fecit ille, ut iusserat, et apprehensis per ordinem locutus est.
+GEN|44|7|Qui responderunt: " Quare sic loquitur dominus noster? Absit a servis tuis, ut tantum flagitii commiserimus.
+GEN|44|8|Pecuniam, quam invenimus in summitate saccorum, reportavimus ad te de terra Chanaan; et quomodo consequens est, ut furati simus de domo domini tui aurum vel argentum?
+GEN|44|9|Apud quemcumque fuerit inventum servorum tuorum, quod quaeris, moriatur; et nos erimus servi domini nostri ".
+GEN|44|10|Qui dixit eis: " Fiat iuxta vestram sententiam: apud quemcumque fuerit inventum, ipse sit servus meus; vos autem eritis innoxii ".
+GEN|44|11|Itaque festinato deponentes in terram saccos aperuerunt singuli.
+GEN|44|12|Quos scrutatus incipiens a maiore usque ad minimum invenit scyphum in sacco Beniamin.
+GEN|44|13|At illi, scissis vestibus, oneratisque rursum asinis, reversi sunt in oppidum.
+GEN|44|14|Et Iudas cum fratribus ingressus est ad Ioseph ­ necdum enim de loco abierat ­ omnesque ante eum pariter in terram corruerunt.
+GEN|44|15|Quibus ille ait: " Cur sic agere voluistis? An ignoratis quod non sit similis mei in augurandi scientia? ".
+GEN|44|16|Cui Iudas: " Quid respondebimus, inquit, domino meo? Vel quid loquemur aut iuste poterimus obtendere? Deus invenit iniquitatem servorum tuorum; en omnes servi sumus domini mei, et nos et apud quem inventus est scyphus.
+GEN|44|17|Respondit Ioseph: " Absit a me, ut sic agam! Qui furatus est scyphum, ipse sit servus meus; vos autem abite liberi ad patrem vestrum ".
+GEN|44|18|Accedens autem propius Iudas confidenter ait: " Oro, domine mi, loquatur servus tuus verbum in auribus tuis, et ne irascaris famulo tuo; tu es enim sicut pharao!
+GEN|44|19|Dominus meus interrogavit prius servos suos: "Habetis patrem aut fratrem?".
+GEN|44|20|Et nos respondimus domino meo: "Est nobis pater senex et puer parvulus, qui in senectute illius natus est, cuius uterinus frater mortuus est; et ipse solus superest a matre sua, pater vero tenere diligit eum" ".
+GEN|44|21|Dixistique servis tuis: "Adducite eum ad me, et ponam oculos meos super illum".
+GEN|44|22|Suggessimus domino meo: "Non potest puer relinquere patrem suum; si enim illum dimiserit, morietur".
+GEN|44|23|Et dixisti servis tuis: "Nisi venerit frater vester minimus vobiscum, non videbitis amplius faciem meam".
+GEN|44|24|Cum ergo ascendissemus ad famulum tuum patrem nostrum, narravimus ei omnia, quae locutus est dominus meus,
+GEN|44|25|et dixit pater noster: "Revertimini et emite nobis parum tritici".
+GEN|44|26|Cui diximus: "Ire non possumus. Si frater noster minimus descenderit nobiscum, proficiscemur simul; alioquin, illo absente, non poterimus videre faciem viri".
+GEN|44|27|Ad quae servus tuus pater meus respondit: "Vos scitis quod duos genuerit mihi uxor mea.
+GEN|44|28|Egressus est unus a me, et dixi: Bestia devoravit eum! Et hucusque non comparet.
+GEN|44|29|Si tuleritis et istum a facie mea, et aliquid ei in via contigerit, deducetis canos meos cum maerore ad inferos".
+GEN|44|30|Igitur, si intravero ad servum tuum patrem meum, et puer defuerit ­ cum anima illius ex huius anima pendeat ­
+GEN|44|31|videritque eum non esse nobiscum, morietur; et deducent famuli tui canos eius cum dolore ad inferos.
+GEN|44|32|Servus tuus pro puero patri meo spopondit: Nisi reduxero eum, peccati reus ero in patrem meum omni tempore.
+GEN|44|33|Manebo itaque servus tuus pro puero in ministerio domini mei, et puer ascendat cum fratribus suis.
+GEN|44|34|Non enim possum redire ad patrem meum, absente puero, ne calamitatis, quae oppressura est patrem meum, testis assistam ".
+GEN|45|1|Non se poterat ultra cohibere Ioseph omnibus coram astantibus, unde clamavit: " Egredimini, cuncti, foras! ". Et nemo aderat cum eo, quando manifestavit se fratribus suis.
+GEN|45|2|Elevavitque vocem cum fletu, quam audierunt Aegyptii omnisque domus pharaonis.
+GEN|45|3|Et dixit Ioseph fratribus suis: " Ego sum Ioseph! Adhuc pater meus vivit? ". Nec poterant respondere fratres nimio terrore perterriti.
+GEN|45|4|Ad quos ille clementer: " Accedite, inquit, ad me ". Et cum accessissent prope: " Ego sum, ait, Ioseph frater vester, quem vendidistis in Aegyptum.
+GEN|45|5|Nolite contristari, neque vobis durum esse videatur quod vendidistis me in his regionibus. Pro salute enim vestra misit me Deus ante vos in Aegyptum.
+GEN|45|6|Biennium est enim quod coepit fames esse in terra, et adhuc quinque anni restant, quibus nec arari poterit nec meti.
+GEN|45|7|Praemisitque me Deus, ut reservemini super terram, et servetur vita vestra in salvationem magnam.
+GEN|45|8|Non vestro consilio, sed Dei voluntate huc missus sum, qui fecit me quasi patrem pharaonis et dominum universae domus eius ac principem in omni terra Aegypti.
+GEN|45|9|Festinate et ascendite ad patrem meum et dicetis ei: "Haec mandat filius tuus Ioseph: Deus fecit me dominum universae terrae Aegypti; descende ad me, ne moreris.
+GEN|45|10|Et habitabis in terra Gessen; erisque iuxta me tu et filii tui et filii filiorum tuorum, oves tuae et armenta tua et universa, quae possides.
+GEN|45|11|Ibique te pascam ­ adhuc enim quinque anni residui sunt famis ­ ne et tu pereas et domus tua et omnia, quae possides".
+GEN|45|12|En oculi vestri et oculi fratris mei Beniamin vident quia os meum est, quod loquitur ad vos.
+GEN|45|13|Nuntiate patri meo universam gloriam meam in Aegypto et cuncta, quae vidistis. Festinate et adducite eum ad me ".
+GEN|45|14|Cumque amplexatus recidisset in collum Beniamin fratris sui, flevit, illo quoque similiter flente, super collum eius.
+GEN|45|15|Osculatusque est Ioseph omnes fratres suos et ploravit super singulos. Post quae ausi sunt loqui ad eum.
+GEN|45|16|Auditumque est et celebri sermone vulgatum in aula regis: " Venerunt fratres Ioseph! ". Et gavisus est pharao atque omnis familia eius.
+GEN|45|17|Dixitque ad Ioseph, ut imperaret fratribus suis dicens: " Onerantes iumenta ite in terram Chanaan
+GEN|45|18|et tollite inde patrem vestrum et cognationem et venite ad me; et ego dabo vobis omnia bona Aegypti, ut comedatis medullam terrae.
+GEN|45|19|Praecipe etiam: tollite plaustra de terra Aegypti ad subvectionem parvulorum vestrorum ac coniugum et tollite patrem vestrum et properate quantocius venientes.
+GEN|45|20|Nec doleatis super supellectilem vestram, quia omnes opes Aegypti vestrae erunt ".
+GEN|45|21|Feceruntque filii Israel, ut eis mandatum fuerat. Quibus dedit Ioseph plaustra secundum pharaonis imperium et cibaria in itinere.
+GEN|45|22|Singulis quoque proferri iussit vestimentum mutatorium; Beniamin vero dedit trecentos argenteos cum quinque
+GEN|45|23|vestimentis mutatoriis. Patri suo misit similiter asinos decem, qui subveherent ex omnibus divitiis Aegypti, et totidem asinas triticum et panem et cibum pro itinere portantes.
+GEN|45|24|Dimisit ergo fratres suos et proficiscentibus ait: " Ne irascamini in via! ".
+GEN|45|25|Qui ascendentes ex Aegypto venerunt in terram Chanaan ad patrem suum Iacob
+GEN|45|26|et nuntiaverunt ei dicentes: " Ioseph vivit et ipse dominatur in omni terra Aegypti! ". At cor eius frigidum mansit; non enim credebat eis.
+GEN|45|27|Tunc referebant omnia verba Ioseph, quae dixerat eis. Cumque vidisset plaustra et universa, quae miserat ad adducendum eum, revixit spiritus eius,
+GEN|45|28|et ait: " Sufficit mihi, si adhuc Ioseph filius meus vivit. Vadam et videbo illum, antequam moriar ".
+GEN|46|1|Profectusque Israel cum omnibus, quae habebat, venit Bersabee et, mactatis ibi victimis Deo patris sui Isaac,
+GEN|46|2|audivit eum per visionem noctis vocantem se: " Iacob, Iacob! ". Cui respondit: " Ecce adsum! ".
+GEN|46|3|Ait illi: " Ego sum Deus, Deus patris tui. Noli timere descendere in Aegyptum, quia in gentem magnam faciam te ibi.
+GEN|46|4|Ego descendam tecum illuc et ego inde adducam te revertentem; Ioseph quoque ponet manus suas super oculos tuos ".
+GEN|46|5|Surrexit igitur Iacob a Bersabee, tuleruntque eum filii cum parvulis et uxoribus suis in plaustris, quae miserat pharao ad portandum senem,
+GEN|46|6|sumpserunt quoque omnia, quae possederant in terra Chanaan; veneruntque in Aegyptum Iacob et omne semen eius,
+GEN|46|7|filii eius et nepotes, filiae et cuncta simul progenies.
+GEN|46|8|Haec sunt autem nomina filiorum Israel, qui ingressi sunt in Aegyptum, ipse cum liberis suis.Primogenitus Ruben.
+GEN|46|9|Filii Ruben: Henoch et Phallu et Hesron et Charmi.
+GEN|46|10|Filii Simeon: Iamuel et Iamin et Ahod et Iachin et Sohar et Saul filius Chananitidis.
+GEN|46|11|Filii Levi: Gerson et Caath et Merari.
+GEN|46|12|Filii Iudae: Her et Onan et Sela et Phares et Zara. Mortui sunt autem Her et Onan in terra Chanaan. Natique sunt filii Phares: Esrom et Hamul.
+GEN|46|13|Filii Issachar: Thola et Phua et Iasub et Semron.
+GEN|46|14|Filii Zabulon: Sared et Elon et Iahelel.
+GEN|46|15|Hi filii Liae, quos genuit in Paddanaram, cum Dina filia sua. Omnes animae filiorum eius et filiarum triginta tres.
+GEN|46|16|Filii Gad: Sephon et Haggi, Suni et Esebon, Heri et Arodi et Areli.
+GEN|46|17|Filii Aser: Iemna et lesua et Isui et Beria, Sara quoque soror eorum. Filii Beria: Heber et Melchiel.
+GEN|46|18|Hi filii Zelphae, quam dedit Laban Liae filiae suae; et hos genuit Iacob: sedecim animas.
+GEN|46|19|Filii Rachel uxoris Iacob: Ioseph et Beniamin.
+GEN|46|20|Natique sunt Ioseph filii in terra Aegypti, quos genuit ei Aseneth filia Putiphare sacerdotis Heliopoleos: Manasses et Ephraim.
+GEN|46|21|Filii Beniamin: Bela et Bochor et Asbel, Gera et Naaman et Echi et Ros, Mophim et Huphim et Ared.
+GEN|46|22|Hi filii Rachel, quos genuit Iacob: omnes animae quattuordecim.
+GEN|46|23|Filii Dan: Husim.
+GEN|46|24|Filii Nephthali: Iasiel et Guni et Ieser et Sellem.
+GEN|46|25|Hi filii Bilhae, quam dedit Laban Racheli filiae suae; et hos genuit Iacob: omnes animae septem.
+GEN|46|26|Cunctae animae, quae ingressae sunt cum Iacob in Aegyptum et egressae de femore illius, absque uxoribus filiorum eius, sexaginta sex.
+GEN|46|27|Filii autem Ioseph, qui nati sunt ei in terra Aegypti, animae duae. Omnes animae domus Iacob, quae ingressae sunt in Aegyptum, fuere septuaginta.
+GEN|46|28|Misit autem Iudam ante se ad Ioseph, ut nuntiaret et occurreret in Gessen.
+GEN|46|29|Et venerunt in terram Gessen. Iunctoque Ioseph curru suo, ascendit obviam patri suo in Gessen; vidensque eum irruit super collum eius et inter amplexus diu flevit.
+GEN|46|30|Dixitque Israel ad Ioseph: " Iam laetus moriar, quia vidi faciem tuam et superstitem te relinquo ".
+GEN|46|31|Et ille locutus est ad fratres suos et ad omnem domum patris sui: " Ascendam et nuntiabo pharaoni dicamque ei: Fratres mei et domus patris mei, qui erant in terra Chanaan, venerunt ad me.
+GEN|46|32|Et sunt viri pastores ovium curamque habent alendorum gregum; pecora sua et armenta et omnia, quae habere potuerunt, adduxerunt secum.
+GEN|46|33|Cumque vocaverit vos et dixerit: "Quod est opus vestrum?".
+GEN|46|34|Respondebitis: "Viri pastores sumus servi tui ab infantia nostra usque in praesens et nos et patres nostri". Haec autem dicetis, ut habitare possitis in terra Gessen, quia detestantur Aegyptii omnes pastores ovium.
+GEN|47|1|Ingressus ergo Ioseph nun tiavit pharaoni dicens: " Pater meus et fratres, oves eorum et armenta et cuncta, quae possident, venerunt de terra Chanaan; et ecce consistunt in terra Gessen ".
+GEN|47|2|Ex omnibus fratribus suis quinque viros statuit coram rege,
+GEN|47|3|quos ille interrogavit: " Quid habetis operis? ". Responderunt: " Pastores ovium sumus servi tui et nos et patres nostri ".
+GEN|47|4|Dixeruntque ad pharaonem: " Ad peregrinandum in terra venimus, quoniam non est herba gregibus servorum tuorum, ingravescente fame, in terra Chanaan petimusque, ut esse nos iubeas servos tuos in terra Gessen ".
+GEN|47|5|Dixit itaque rex ad Ioseph: " Pater tuus et fratres tui venerunt ad te.
+GEN|47|6|Terra Aegypti in conspectu tuo est; in optimo loco fac eos habitare et trade eis terram Gessen. Quod si nosti in eis esse viros industrios, constitue illos magistros pecorum meorum ".
+GEN|47|7|Post haec introduxit Ioseph patrem suum ad regem et statuit eum coram eo, qui benedicens illi
+GEN|47|8|et interrogatus ab eo: " Quot sunt dies annorum vitae tuae? ",
+GEN|47|9|respondit: " Dies peregrinationis meae centum triginta annorum sunt, parvi et mali; et non pervenerunt usque ad dies patrum meorum, quibus peregrinati sunt ".
+GEN|47|10|Et benedicto rege, egressus est foras.
+GEN|47|11|Ioseph vero patri et fratribus suis dedit possessionem in Aegypto in optimo terrae loco, in terra Ramesses, ut praeceperat pharao;
+GEN|47|12|et alebat eos omnemque domum patris sui praebens cibaria singulis.
+GEN|47|13|In tota terra panis deerat, et oppresserat fames terram valde, defecitque terra Aegypti et terra Chanaan prae fame.
+GEN|47|14|E quibus omnem pecuniam congregavit pro venditione frumenti et intulit eam in aerarium regis.
+GEN|47|15|Cumque defecisset emptoribus pretium, venit cuncta Aegyptus ad Ioseph dicens: " Da nobis panes! Quare morimur coram te, deficiente pecunia? ".
+GEN|47|16|Quibus ille respondit: " Adducite pecora vestra, et dabo vobis pro eis cibos, si pretium non habetis ".
+GEN|47|17|Quae cum adduxissent, dedit eis alimenta pro equis et ovibus et bobus et asinis; sustentavitque eos illo anno pro commutatione pecorum.
+GEN|47|18|Venerunt quoque anno secundo et dixerunt ei: " Non celamus dominum nostrum quod, deficiente pecunia, pecora transierunt ad dominum nostrum; nec clam te est quod absque corporibus et terra nihil habeamus.
+GEN|47|19|Cur ergo moriemur, te vidente, et nos et terra nostra? Eme nos et terram nostram in servitutem regiam et praebe semina, ne, pereunte cultore, redigatur terra in solitudinem ".
+GEN|47|20|Emit igitur Ioseph omnem terram Aegypti, vendentibus singulis possessiones suas prae magnitudine famis. Subiecitque eam pharaoni
+GEN|47|21|et cunctos populos eius redegit ei in servitutem, a novissimis terminis Aegypti usque ad extremos fines eius.
+GEN|47|22|Terram autem sacerdotum non emit, qui cibariis a rege statutis fruebantur, et idcirco non sunt compulsi vendere possessiones suas.
+GEN|47|23|Dixit ergo Ioseph ad populos: " En, ut cernitis, et vos et terram vestram pharao possidet; accipite semina et serite agros,
+GEN|47|24|ut fruges habere possitis. Quintam partem regi dabitis; quattuor reliquas permitto vobis in sementem et in cibum familiis et liberis vestris ".
+GEN|47|25|Qui responderunt: " Tu salvasti nos! Respiciat nos tantum dominus noster, et laeti serviemus regi ".
+GEN|47|26|Ex eo tempore usque in praesentem diem in universa terra Aegypti regibus quinta pars solvitur; et factum est a Ioseph in legem absque terra sacerdotali, quae libera ab hac condicione est.
+GEN|47|27|Habitavit ergo Israel in Aegypto, id est in terra Gessen, et possedit eam; auctusque est et multiplicatus nimis.
+GEN|47|28|Et vixit Iacob in terra Aegypti decem et septem annis; factique sunt omnes dies vitae illius centum quadraginta septem annorum.
+GEN|47|29|Cumque appropinquare cerneret diem mortis suae, vocavit filium suum Ioseph et dixit ad eum: " Si inveni gratiam in conspectu tuo, pone manum tuam sub femore meo et facies mihi misericordiam et veritatem, ut non sepelias me in Aegypto,
+GEN|47|30|sed dormiam cum patribus meis, et auferas me de terra hac condasque in sepulcro maiorum meorum ". Cui respondit Ioseph: " Ego faciam, quod iussisti ".
+GEN|47|31|Et ille: " Iura ergo, inquit, mihi! ". Quo iurante, adoravit Israel conversus ad lectuli caput.
+GEN|48|1|His ita transactis, nuntiatum est Ioseph quod aegrotaret pater suus. Et assumpsit secum duos filios Manasse et Ephraim.
+GEN|48|2|Dictumque est seni: " Ecce filius tuus Ioseph venit ad te ". Qui confortatus sedit in lectulo
+GEN|48|3|et ingresso ad se ait: " Deus omnipotens apparuit mihi in Luza, quae est in terra Chanaan, benedixitque mihi
+GEN|48|4|et ait: "Ego te augebo et multiplicabo et faciam te in multitudinem populorum; daboque tibi terram hanc et semini tuo post te in possessionem sempiternam".
+GEN|48|5|Duo ergo filii tui, qui nati sunt tibi in terra Aegypti, antequam huc venirem ad te, mei erunt: Ephraim et Manasses sicut Ruben et Simeon reputabuntur mihi.
+GEN|48|6|Reliquos autem, quos genueris post eos, tui erunt et nomine fratrum suorum vocabuntur in possessionibus suis.
+GEN|48|7|Mihi enim, quando veniebam de Paddanaram, mortua est Rachel mater tua in terra Chanaan in ipso itinere, cum adhuc esset spatium aliquod usque ad Ephratham, et sepelivi eam iuxta viam Ephrathae, quae alio nomine appellatur Bethlehem ".
+GEN|48|8|Videns autem filios eius dixit ad eum: " Qui sunt isti? ".
+GEN|48|9|Respondit: " Filii mei sunt, quos donavit mihi Deus in hoc loco ". " Adduc, inquit, eos ad me, ut benedicam illis! ".
+GEN|48|10|Oculi enim Israel caligabant prae nimia senectute, et clare videre non poterat. Applicitosque ad se deosculatus et circumplexus eos
+GEN|48|11|dixit ad filium suum: " Non sum fraudatus aspectu tuo; insuper ostendit mihi Deus semen tuum ".
+GEN|48|12|Cumque tulisset eos Ioseph de gremio patris, adoravit pronus in terram.
+GEN|48|13|Et posuit Ephraim ad dexteram suam, id est ad sinistram Israel, Manassen vero in sinistra sua, ad dexteram scilicet patris; applicuitque ambos ad eum.
+GEN|48|14|Qui extendens manum dexteram, posuit super caput Ephraim minoris fratris, sinistram autem super caput Manasse, qui maior natu erat, commutans manus.
+GEN|48|15|Benedixitque Iacob Ioseph et ait: Deus, in cuius conspectu ambulaveruntpatres mei Abraham et Isaac,Deus, qui pascit me ab adulescentia meausque in praesentem diem,
+GEN|48|16|Angelus, qui eruit me de cunctis malis,benedicat pueris istis!Et invocetur super eos nomen meum,nomina quoque patrum meorum Abraham et Isaac,et crescant in multitudinemsuper terram! ".
+GEN|48|17|Videns autem Ioseph quod posuisset pater suus dexteram manum super caput Ephraim, graviter accepit et apprehensam manum patris levare conatus est de capite Ephraim et transferre super caput Manasse.
+GEN|48|18|Dixitque ad patrem: " Non ita convenit, pater, quia hic est primogenitus; pone dexteram tuam super caput eius! ".
+GEN|48|19|Qui renuens ait: " Scio, fili mi, scio; et iste quidem erit in populos et multiplicabitur, sed frater eius minor maior erit illo, et semen illius crescet in plenitudinem gentium ".
+GEN|48|20|Benedixitque eis in die illo dicens: In te benedicet Israel atque dicet: "Faciat te Deus sicut Ephraim et sicut Manasse!" ".Constituitque Ephraim ante Manassen.
+GEN|48|21|Et ait ad Ioseph filium suum: " En ego morior, et erit Deus vobiscum reducetque vos ad terram patrum vestrorum.
+GEN|48|22|Do tibi partem unam extra fratres tuos, quam tuli de manu Amorraei in gladio et arcu meo ".
+GEN|49|1|Vocavit autem Iacob filios suos et ait eis: " Congrega mini, ut annuntiem, quae ventura sunt vobis in diebus novissimis.
+GEN|49|2|Congregamini et audite, filii Iacob,audite Israel patrem vestrum!
+GEN|49|3|Ruben primogenitus meus,tu fortitudo mea et principium roboris mei;prior in dignitate, maior in robore!
+GEN|49|4|Ebulliens sicut aqua non excellas,quia ascendisti cubile patris tuiet maculasti stratum meum.
+GEN|49|5|Simeon et Levi fratres,vasa violentiae arma eorum.
+GEN|49|6|In consilium eorum ne veniat anima mea,et in coetu illorum non sit gloria mea;quia in furore suo occiderunt virumet in voluntate sua subnervaverunt tauros.
+GEN|49|7|Maledictus furor eorum, quia pertinax,et indignatio eorum, quia dura!Dividam eos in Iacobet dispergam eos in Israel.
+GEN|49|8|Iuda, te laudabunt fratres tui;manus tua in cervicibus inimicorum tuorum;adorabunt te filii patris tui.
+GEN|49|9|Catulus leonis Iuda:a praeda, fili mi, ascendisti;requiescens accubuit ut leoet quasi leaena; quis suscitabit eum?
+GEN|49|10|Non auferetur sceptrum de Iudaet baculus ducis de pedibus eius,donec veniat ille, cuius est,et cui erit oboedientia gentium;
+GEN|49|11|ligans ad vineam pullum suumet ad vitem filium asinae suae,lavabit in vino stolam suamet in sanguine uvae pallium suum;
+GEN|49|12|nigriores sunt oculi eius vinoet dentes eius lacte candidiores.
+GEN|49|13|Zabulon in litore maris habitabitet in statione navium,pertingens usque ad Sidonem.
+GEN|49|14|Issachar asinus fortis,accubans inter caulas
+GEN|49|15|vidit requiem quod esset bona,et terram quod optima;et supposuit umerum suum ad portandumfactusque est tributis serviens.
+GEN|49|16|Dan iudicabit populum suumsicut una tribuum Israel.
+GEN|49|17|Fiat Dan coluber in via,cerastes in semita,mordens calcanea equi,ut cadat ascensor eius retro.
+GEN|49|18|Salutare tuum exspectabo, Domine!
+GEN|49|19|Gad, latrones aggredientur eum,ipse autem aggredietur calcaneum eorum.
+GEN|49|20|Aser, pinguis panis eius,et praebebit delicias regales.
+GEN|49|21|Nephthali cerva emissa,dans cornua pulchra.
+GEN|49|22|Arbor fructifera Ioseph,arbor fructifera super fontem:rami transcendunt murum.
+GEN|49|23|Sed exasperaverunt eum et iurgati sunt,et adversati sunt illi habentes iacula.
+GEN|49|24|Et confractus est arcus eorum,et dissoluti sunt nervi brachiorum eorumper manus Potentis Iacob,per nomen Pastoris, Lapidis Israel.
+GEN|49|25|Deus patris tui erit adiutor tuus,et Omnipotens benedicet tibibenedictionibus caeli desuper,benedictionibus abyssi iacentisdeorsum,benedictionibus uberum et vulvae.
+GEN|49|26|Benedictiones patris tui confortatae suntsuper benedictiones montium aeternorum,desiderium collium antiquorum;fiant in capite Iosephet in vertice nazaraei inter fratres suos.
+GEN|49|27|Beniamin lupus rapax;mane comedet praedamet vespere dividet spolia ".
+GEN|49|28|Omnes hi in tribubus Israel duodecim. Haec locutus est eis pater suus benedixitque singulis benedictionibus propriis.
+GEN|49|29|Et praecepit eis dicens: " Ego congregor ad populum meum; sepelite me cum patribus meis in spelunca Machpela, quae est in agro Ephron Hetthaei
+GEN|49|30|contra Mambre in terra Chanaan, quam emit Abraham cum agro ab Ephron Hetthaeo in possessionem sepulcri;
+GEN|49|31|ibi sepelierunt eum et Saram uxorem eius, ibi sepultus est Isaac cum Rebecca coniuge sua, ibi et Lia condita iacet ".
+GEN|49|32|Finitisque mandatis, quibus filios instruebat, collegit pedes suos super lectulum et obiit; appositusque est ad populum suum.
+GEN|50|1|Ioseph ruit super faciem patris flens et deosculans eum.
+GEN|50|2|Praecepitque servis suis medicis, ut aromatibus condirent patrem.
+GEN|50|3|Quibus iussa explentibus, transierunt quadraginta dies; iste quippe mos erat cadaverum conditorum. Flevitque eum Aegyptus septuaginta diebus.
+GEN|50|4|Et, expleto planctus tempore, locutus est Ioseph ad familiam pharaonis: Si inveni gratiam in conspectu vestro, loquimini in auribus pharaonis,
+GEN|50|5|eo quod pater meus adiuraverit me dicens: "En morior; in sepulcro meo, quod fodi mihi in terra Chanaan, sepelies me"; ascendam nunc et sepeliam patrem meum ac revertar ".
+GEN|50|6|Dixitque ei pharao: " Ascende et sepeli patrem tuum, sicut adiuratus es.
+GEN|50|7|Quo ascendente, ierunt cum eo omnes servi pharaonis, senes domus eius cunctique maiores natu terrae Aegypti,
+GEN|50|8|domus Ioseph cum fratribus suis, absque parvulis et gregibus atque armentis, quae dereliquerant in terra Gessen.
+GEN|50|9|Habuit quoque in comitatu currus et equites; et facta est turba non modica.
+GEN|50|10|Veneruntque ad Gorenatad (id est Aream rhamni), quae sita est trans Iordanem; ubi celebrantes exsequias planctu magno atque vehementi impleverunt septem dies.
+GEN|50|11|Quod cum vidissent habitatores terrae Chanaan, dixerunt: " Planctus magnus est iste Aegyptiis "; et idcirco vocatum est nomen loci illius Abelmesraim (id est Planctus Aegypti).
+GEN|50|12|Fecerunt ergo filii Iacob, sicut praeceperat eis;
+GEN|50|13|et portantes eum in terram Chanaan sepelierunt eum in spelunca Machpela, quam emerat Abraham cum agro in possessionem sepulcri ab Ephron Hetthaeo contra faciem Mambre.
+GEN|50|14|Reversusque est Ioseph in Aegyptum cum fratribus suis et omni comitatu, sepulto patre.
+GEN|50|15|Quo mortuo, timentes fratres eius et mutuo colloquentes: " Ne forte memor sit iniuriae, quam passus est, et reddat nobis omne malum, quod fecimus ",
+GEN|50|16|mandaverunt ei dicentes: " Pater tuus praecepit nobis, antequam moreretur,
+GEN|50|17|ut haec tibi verbis illius diceremus: "Obsecro, ut obliviscaris sceleris fratrum tuorum et peccati atque malitiae, quam exercuerunt in te". Nos quoque oramus, ut servis Dei patris tui dimittas iniquitatem hanc. Quibus auditis, flevit Ioseph.
+GEN|50|18|Veneruntque ad eum fratres sui et proni coram eo dixerunt: " Servi tui sumus ".
+GEN|50|19|Quibus ille respondit: " Nolite timere. Num Dei possumus resistere voluntati?
+GEN|50|20|Vos cogitastis de me malum; sed Deus vertit illud in bonum, ut exaltaret me, sicut in praesentiarum cernitis, et salvos faceret multos populos.
+GEN|50|21|Nolite timere: ego pascam vos et parvulos vestros ". Consolatusque est eos et blande ac leniter est locutus.
+GEN|50|22|Et habitavit in Aegypto cum omni domo patris sui; vixitque centum decem annis
+GEN|50|23|et vidit Ephraim filios usque ad tertiam generationem; filii quoque Machir filii Manasse nati sunt in genibus Ioseph.
+GEN|50|24|Quibus transactis, locutus est fratribus suis: " Post mortem meam Deus visitabit vos et ascendere vos faciet de terra ista ad terram, quam iuravit Abraham, Isaac et Iacob ".
+GEN|50|25|Cumque adiurasset eos atque dixisset: " Deus visitabit vos; asportate ossa mea vobiscum de loco isto ",
+GEN|50|26|mortuus est, expletis centum decem vitae suae annis. Et conditus aromatibus repositus est in loculo in Aegypto.

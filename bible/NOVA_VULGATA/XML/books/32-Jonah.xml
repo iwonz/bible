@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="Jonah" sblId="Jonah" name="Ionas" shortName="Ion" orderIndex="31" chaptersCount="4" versesCount="48">
+  <chapters>
+    <Chapter osisId="Jonah.1" sblId="Jonah 1" name="Ionas 1" shortName="Ion 1" orderIndex="0" versesCount="16">
+      <verses>
+        <Verse osisId="Jonah.1.1" sblId="Jonah 1:1" name="Ionas 1:1" shortName="Ion 1:1" orderIndex="0">Et factum est verbum Domini ad Ionam filium Amathi dicens:</Verse>
+        <Verse osisId="Jonah.1.2" sblId="Jonah 1:2" name="Ionas 1:2" shortName="Ion 1:2" orderIndex="1">" Surge et vade in Nineven civitatem grandem et praedica in ea, quia ascendit malitia eius coram me ".</Verse>
+        <Verse osisId="Jonah.1.3" sblId="Jonah 1:3" name="Ionas 1:3" shortName="Ion 1:3" orderIndex="2">Et surrexit Ionas, ut fugeret in Tharsis a facie Domini; et descendit Ioppen et invenit navem euntem in Tharsis et dedit naulum eius et descendit in eam, ut iret cum eis in Tharsis a facie Domini.</Verse>
+        <Verse osisId="Jonah.1.4" sblId="Jonah 1:4" name="Ionas 1:4" shortName="Ion 1:4" orderIndex="3">Dominus autem misit ventum magnum in mare, et facta est tempestas magna in mari, et navis periclitabatur conteri.</Verse>
+        <Verse osisId="Jonah.1.5" sblId="Jonah 1:5" name="Ionas 1:5" shortName="Ion 1:5" orderIndex="4">Et timuerunt nautae et clamaverunt unusquisque ad deum suum et miserunt vasa, quae erant in navi, in mare, ut alleviaretur ab eis. Ionas autem descenderat ad interiora navis et, cum recubuisset, dormiebat sopore gravi.</Verse>
+        <Verse osisId="Jonah.1.6" sblId="Jonah 1:6" name="Ionas 1:6" shortName="Ion 1:6" orderIndex="5">Et accessit ad eum gubernator et dixit ei: " Quid? Tu sopore deprimeris? Surge, invoca Deum tuum, si forte recogitet Deus de nobis, et non pereamus.</Verse>
+        <Verse osisId="Jonah.1.7" sblId="Jonah 1:7" name="Ionas 1:7" shortName="Ion 1:7" orderIndex="6">Et dixit unusquisque ad collegam suum: " Venite, et mittamus sortes, ut sciamus quare hoc malum sit nobis ". Et miserunt sortes, et cecidit sors super Ionam.</Verse>
+        <Verse osisId="Jonah.1.8" sblId="Jonah 1:8" name="Ionas 1:8" shortName="Ion 1:8" orderIndex="7">Et dixerunt ad eum: " Indica nobis cuius causa malum istud sit nobis. Quod est opus tuum, et unde venis? Quae terra tua, et ex quo populo es tu?.</Verse>
+        <Verse osisId="Jonah.1.9" sblId="Jonah 1:9" name="Ionas 1:9" shortName="Ion 1:9" orderIndex="8">Et dixit ad eos: " Hebraeus ego sum et Dominum, Deum caeli, ego timeo, qui fecit mare et aridam ".</Verse>
+        <Verse osisId="Jonah.1.10" sblId="Jonah 1:10" name="Ionas 1:10" shortName="Ion 1:10" orderIndex="9">Et timuerunt viri timore magno et dixerunt ad eum: " Quid hoc fecisti?. Cognoverant enim viri quod a facie Domini fugeret, quia indicaverat eis.</Verse>
+        <Verse osisId="Jonah.1.11" sblId="Jonah 1:11" name="Ionas 1:11" shortName="Ion 1:11" orderIndex="10">Et dixerunt ad eum: " Quid faciemus tibi, ut conticescat mare a nobis?. Mare enim magis ac magis intumescebat.</Verse>
+        <Verse osisId="Jonah.1.12" sblId="Jonah 1:12" name="Ionas 1:12" shortName="Ion 1:12" orderIndex="11">Et dixit ad eos: " Tollite me et mittite in mare, et cessabit mare a vobis; scio enim ego quoniam propter me tempestas haec grandis super vos.</Verse>
+        <Verse osisId="Jonah.1.13" sblId="Jonah 1:13" name="Ionas 1:13" shortName="Ion 1:13" orderIndex="12">Et remigabant viri, ut reverterentur ad aridam; et non valebant, quia mare magis intumescebat super eos.</Verse>
+        <Verse osisId="Jonah.1.14" sblId="Jonah 1:14" name="Ionas 1:14" shortName="Ion 1:14" orderIndex="13">Et clamaverunt ad Dominum et dixerunt: " Quaesumus, Domine, ne pereamus in anima viri istius, et ne des super nos sanguinem innocentem; quia tu, Domine, sicut voluisti, fecisti ".</Verse>
+        <Verse osisId="Jonah.1.15" sblId="Jonah 1:15" name="Ionas 1:15" shortName="Ion 1:15" orderIndex="14">Et tulerunt Ionam et miserunt in mare; et stetit mare a fervore suo.</Verse>
+        <Verse osisId="Jonah.1.16" sblId="Jonah 1:16" name="Ionas 1:16" shortName="Ion 1:16" orderIndex="15">Et timuerunt viri timore magno Dominum et immolaverunt hostias Domino et voverunt vota.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Jonah.2" sblId="Jonah 2" name="Ionas 2" shortName="Ion 2" orderIndex="1" versesCount="11">
+      <verses>
+        <Verse osisId="Jonah.2.1" sblId="Jonah 2:1" name="Ionas 2:1" shortName="Ion 2:1" orderIndex="0">Et praeparavit Dominus piscem grandem, ut deglutiret Ionam; et erat Ionas in ventre piscis tribus diebus et tribus noctibus.</Verse>
+        <Verse osisId="Jonah.2.2" sblId="Jonah 2:2" name="Ionas 2:2" shortName="Ion 2:2" orderIndex="1">Et oravit Ionas ad Dominum Deum suum de ventre piscis</Verse>
+        <Verse osisId="Jonah.2.3" sblId="Jonah 2:3" name="Ionas 2:3" shortName="Ion 2:3" orderIndex="2">et dixit: " Clamavi de tribulatione mea ad Dominum,et respondit mihi;de ventre inferi clamavi,et exaudisti vocem meam.</Verse>
+        <Verse osisId="Jonah.2.4" sblId="Jonah 2:4" name="Ionas 2:4" shortName="Ion 2:4" orderIndex="3">Et proiecisti me in profundum in corde maris,et flumen circumdedit me;omnes gurgites tui et fluctus tuisuper me transierunt.</Verse>
+        <Verse osisId="Jonah.2.5" sblId="Jonah 2:5" name="Ionas 2:5" shortName="Ion 2:5" orderIndex="4">Et ego dixi: "Abiectus suma conspectu oculorum tuorum;verumtamen rursus videbotemplum sanctum tuum".</Verse>
+        <Verse osisId="Jonah.2.6" sblId="Jonah 2:6" name="Ionas 2:6" shortName="Ion 2:6" orderIndex="5">Circumdederunt me aquae usque ad guttur,abyssus vallavit me,iuncus alligatus est capiti meo.</Verse>
+        <Verse osisId="Jonah.2.7" sblId="Jonah 2:7" name="Ionas 2:7" shortName="Ion 2:7" orderIndex="6">Ad extrema montium descendi,terrae vectes concluserunt me in aeternum,sed eduxisti de fovea vitam meam,Domine Deus meus.</Verse>
+        <Verse osisId="Jonah.2.8" sblId="Jonah 2:8" name="Ionas 2:8" shortName="Ion 2:8" orderIndex="7">Cum angustiaretur in me anima mea,Domini recordatus sum,et venit ad te oratio mea,ad templum sanctum tuum.</Verse>
+        <Verse osisId="Jonah.2.9" sblId="Jonah 2:9" name="Ionas 2:9" shortName="Ion 2:9" orderIndex="8">Qui colunt idola vana,pietatem suam derelinquunt;</Verse>
+        <Verse osisId="Jonah.2.10" sblId="Jonah 2:10" name="Ionas 2:10" shortName="Ion 2:10" orderIndex="9">ego autem in voce laudisimmolabo tibi,quaecumque vovi, reddam;salus Domini est ".</Verse>
+        <Verse osisId="Jonah.2.11" sblId="Jonah 2:11" name="Ionas 2:11" shortName="Ion 2:11" orderIndex="10">Et dixit Dominus pisci, et evomuit Ionam in aridam.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Jonah.3" sblId="Jonah 3" name="Ionas 3" shortName="Ion 3" orderIndex="2" versesCount="10">
+      <verses>
+        <Verse osisId="Jonah.3.1" sblId="Jonah 3:1" name="Ionas 3:1" shortName="Ion 3:1" orderIndex="0">Et factum est verbum Domini ad Ionam secundo dicens:</Verse>
+        <Verse osisId="Jonah.3.2" sblId="Jonah 3:2" name="Ionas 3:2" shortName="Ion 3:2" orderIndex="1">" Surge, vade in Nineven civitatem magnam et praedica in ea praedicationem, quam ego loquor ad te ".</Verse>
+        <Verse osisId="Jonah.3.3" sblId="Jonah 3:3" name="Ionas 3:3" shortName="Ion 3:3" orderIndex="2">Et surrexit Ionas et abiit in Nineven iuxta verbum Domini.Et Nineve erat civitas magna coram Deo, itinere trium dierum.</Verse>
+        <Verse osisId="Jonah.3.4" sblId="Jonah 3:4" name="Ionas 3:4" shortName="Ion 3:4" orderIndex="3">Et coepit Ionas introire in civitatem itinere diei unius; et clamavit et dixit: " Adhuc quadraginta dies, et Nineve subvertetur ".</Verse>
+        <Verse osisId="Jonah.3.5" sblId="Jonah 3:5" name="Ionas 3:5" shortName="Ion 3:5" orderIndex="4">Et crediderunt viri Ninevitae in Deo; et praedicaverunt ieiunium et vestiti sunt saccis a maiore usque ad minorem.</Verse>
+        <Verse osisId="Jonah.3.6" sblId="Jonah 3:6" name="Ionas 3:6" shortName="Ion 3:6" orderIndex="5">Et pervenit verbum ad regem Nineve; et surrexit de solio suo et abiecit pallium suum a se et indutus est sacco et sedit in cinere.</Verse>
+        <Verse osisId="Jonah.3.7" sblId="Jonah 3:7" name="Ionas 3:7" shortName="Ion 3:7" orderIndex="6">Et clamavit et dixit in Nineve decreto regis et principum eius dicens: " Homines et iumenta et boves et pecora non gustent quidquam nec pascantur et aquam non bibant;</Verse>
+        <Verse osisId="Jonah.3.8" sblId="Jonah 3:8" name="Ionas 3:8" shortName="Ion 3:8" orderIndex="7">et operiantur saccis homines et iumenta et clament ad Deum in fortitudine, et convertatur vir a via sua mala et a violentia, quae est in manibus eorum.</Verse>
+        <Verse osisId="Jonah.3.9" sblId="Jonah 3:9" name="Ionas 3:9" shortName="Ion 3:9" orderIndex="8">Quis scit si convertatur et ignoscat Deus et revertatur a furore irae suae, et non peribimus? ".</Verse>
+        <Verse osisId="Jonah.3.10" sblId="Jonah 3:10" name="Ionas 3:10" shortName="Ion 3:10" orderIndex="9">Et vidit Deus opera eorum, quia conversi sunt de via sua mala; et misertus est Deus super malum, quod lo cutus fuerat ut faceret eis, etnon fecit.</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Jonah.4" sblId="Jonah 4" name="Ionas 4" shortName="Ion 4" orderIndex="3" versesCount="11">
+      <verses>
+        <Verse osisId="Jonah.4.1" sblId="Jonah 4:1" name="Ionas 4:1" shortName="Ion 4:1" orderIndex="0">Et afflictus est Ionas afflictione magna et iratus est;</Verse>
+        <Verse osisId="Jonah.4.2" sblId="Jonah 4:2" name="Ionas 4:2" shortName="Ion 4:2" orderIndex="1">et oravit ad Dominum et dixit: " Obsecro, Domine, numquid non hoc est verbum meum, cum adhuc essem in terra mea? Propter hoc praeoccupavi ut fugerem in Tharsis. Sciebam enim quia tu Deus clemens et misericors es, longanimis et multae miserationis et ignoscens super malitia.</Verse>
+        <Verse osisId="Jonah.4.3" sblId="Jonah 4:3" name="Ionas 4:3" shortName="Ion 4:3" orderIndex="2">Et nunc, Domine, tolle, quaeso, animam meam a me, quia melior est mihi mors quam vita".</Verse>
+        <Verse osisId="Jonah.4.4" sblId="Jonah 4:4" name="Ionas 4:4" shortName="Ion 4:4" orderIndex="3">Et dixit Dominus: " Putasne bene irasceris tu? ".</Verse>
+        <Verse osisId="Jonah.4.5" sblId="Jonah 4:5" name="Ionas 4:5" shortName="Ion 4:5" orderIndex="4">Et egressus est Ionas de civitate et sedit contra orientem civitatis et fecit sibimet umbraculum ibi et sedebat subter illud in umbra, donec videret quid accideret in civitate.</Verse>
+        <Verse osisId="Jonah.4.6" sblId="Jonah 4:6" name="Ionas 4:6" shortName="Ion 4:6" orderIndex="5">Et praeparavit Dominus Deus hederam, et ascendit super Ionam, ut esset umbra super caput eius et protegeret eum ab afflictione sua. Et laetatus est Ionas super hedera laetitia magna.</Verse>
+        <Verse osisId="Jonah.4.7" sblId="Jonah 4:7" name="Ionas 4:7" shortName="Ion 4:7" orderIndex="6">Et paravit Deus vermem, cum surgeret aurora in crastinum, et percussit hederam, quae exaruit.</Verse>
+        <Verse osisId="Jonah.4.8" sblId="Jonah 4:8" name="Ionas 4:8" shortName="Ion 4:8" orderIndex="7">Et, cum ortus fuisset sol, praecepit Deus vento orientali calido; et percussit sol super caput Ionae, et elanguit; et petivit animae suae, ut moreretur, et dixit: " Melius est mihi mori quam vivere "</Verse>
+        <Verse osisId="Jonah.4.9" sblId="Jonah 4:9" name="Ionas 4:9" shortName="Ion 4:9" orderIndex="8">Et dixit Deus ad Ionam: " Putasne bene irasceris tu super hedera? ". Et dixit: " Bene irascor ego usque ad mortem ".</Verse>
+        <Verse osisId="Jonah.4.10" sblId="Jonah 4:10" name="Ionas 4:10" shortName="Ion 4:10" orderIndex="9">Et dixit Dominus: " Tu doles super hederam, in qua non laborasti neque fecisti, ut cresceret, quae sub una nocte nata est et sub una nocte periit.</Verse>
+        <Verse osisId="Jonah.4.11" sblId="Jonah 4:11" name="Ionas 4:11" shortName="Ion 4:11" orderIndex="10">Et ego non parcam Nineve civitati magnae, in qua sunt plus quam centum viginti milia hominum, qui nesciunt quid sit inter dexteram et sinistram suam, et iumenta multa? ".</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

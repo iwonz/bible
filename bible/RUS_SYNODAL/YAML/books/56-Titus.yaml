@@ -1,0 +1,340 @@
+chapters:
+- name: К Титу 1
+  orderIndex: 0
+  osisId: Titus.1
+  sblId: Titus 1
+  shortName: Тит 1
+  verses:
+  - name: К Титу 1:1
+    orderIndex: 0
+    osisId: Titus.1.1
+    sblId: Titus 1:1
+    shortName: Тит 1:1
+    text: Павел, раб Божий, Апостол же Иисуса Христа, по вере избранных Божиих и познанию
+      истины, [относящейся] к благочестию,
+  - name: К Титу 1:2
+    orderIndex: 1
+    osisId: Titus.1.2
+    sblId: Titus 1:2
+    shortName: Тит 1:2
+    text: в надежде вечной жизни, которую обещал неизменный в слове Бог прежде вековых
+      времен,
+  - name: К Титу 1:3
+    orderIndex: 2
+    osisId: Titus.1.3
+    sblId: Titus 1:3
+    shortName: Тит 1:3
+    text: а в свое время явил Свое слово в проповеди, вверенной мне по повелению Спасителя
+      нашего, Бога, –
+  - name: К Титу 1:4
+    orderIndex: 3
+    osisId: Titus.1.4
+    sblId: Titus 1:4
+    shortName: Тит 1:4
+    text: 'Титу, истинному сыну по общей вере: благодать, милость и мир от Бога Отца
+      и Господа Иисуса Христа, Спасителя нашего.'
+  - name: К Титу 1:5
+    orderIndex: 4
+    osisId: Titus.1.5
+    sblId: Titus 1:5
+    shortName: Тит 1:5
+    text: 'Для того я оставил тебя в Крите, чтобы ты довершил недоконченное и поставил
+      по всем городам пресвитеров, как я тебе приказывал:'
+  - name: К Титу 1:6
+    orderIndex: 5
+    osisId: Titus.1.6
+    sblId: Titus 1:6
+    shortName: Тит 1:6
+    text: если кто непорочен, муж одной жены, детей имеет верных, не укоряемых в распутстве
+      или непокорности.
+  - name: К Титу 1:7
+    orderIndex: 6
+    osisId: Titus.1.7
+    sblId: Titus 1:7
+    shortName: Тит 1:7
+    text: Ибо епископ должен быть непорочен, как Божий домостроитель, не дерзок, не
+      гневлив, не пьяница, не бийца, не корыстолюбец,
+  - name: К Титу 1:8
+    orderIndex: 7
+    osisId: Titus.1.8
+    sblId: Titus 1:8
+    shortName: Тит 1:8
+    text: но страннолюбив, любящий добро, целомудрен, справедлив, благочестив, воздержан,
+  - name: К Титу 1:9
+    orderIndex: 8
+    osisId: Titus.1.9
+    sblId: Titus 1:9
+    shortName: Тит 1:9
+    text: держащийся истинного слова, согласного с учением, чтобы он был силен и наставлять
+      в здравом учении и противящихся обличать.
+  - name: К Титу 1:10
+    orderIndex: 9
+    osisId: Titus.1.10
+    sblId: Titus 1:10
+    shortName: Тит 1:10
+    text: Ибо есть много и непокорных, пустословов и обманщиков, особенно из обрезанных,
+  - name: К Титу 1:11
+    orderIndex: 10
+    osisId: Titus.1.11
+    sblId: Titus 1:11
+    shortName: Тит 1:11
+    text: 'каковым должно заграждать уста: они развращают целые домы, уча, чему не
+      должно, из постыдной корысти.'
+  - name: К Титу 1:12
+    orderIndex: 11
+    osisId: Titus.1.12
+    sblId: Titus 1:12
+    shortName: Тит 1:12
+    text: 'Из них же самих один стихотворец сказал: "Критяне всегда лжецы, злые звери,
+      утробы ленивые".'
+  - name: К Титу 1:13
+    orderIndex: 12
+    osisId: Titus.1.13
+    sblId: Titus 1:13
+    shortName: Тит 1:13
+    text: Свидетельство это справедливо. По сей причине обличай их строго, дабы они
+      были здравы в вере,
+  - name: К Титу 1:14
+    orderIndex: 13
+    osisId: Titus.1.14
+    sblId: Titus 1:14
+    shortName: Тит 1:14
+    text: не внимая Иудейским басням и постановлениям людей, отвращающихся от истины.
+  - name: К Титу 1:15
+    orderIndex: 14
+    osisId: Titus.1.15
+    sblId: Titus 1:15
+    shortName: Тит 1:15
+    text: Для чистых все чисто; а для оскверненных и неверных нет ничего чистого,
+      но осквернены и ум их и совесть.
+  - name: К Титу 1:16
+    orderIndex: 15
+    osisId: Titus.1.16
+    sblId: Titus 1:16
+    shortName: Тит 1:16
+    text: Они говорят, что знают Бога, а делами отрекаются, будучи гнусны и непокорны
+      и не способны ни к какому доброму делу.
+  versesCount: 16
+- name: К Титу 2
+  orderIndex: 1
+  osisId: Titus.2
+  sblId: Titus 2
+  shortName: Тит 2
+  verses:
+  - name: К Титу 2:1
+    orderIndex: 0
+    osisId: Titus.2.1
+    sblId: Titus 2:1
+    shortName: Тит 2:1
+    text: 'Ты же говори то, что сообразно с здравым учением:'
+  - name: К Титу 2:2
+    orderIndex: 1
+    osisId: Titus.2.2
+    sblId: Titus 2:2
+    shortName: Тит 2:2
+    text: чтобы старцы были бдительны, степенны, целомудренны, здравы в вере, в любви,
+      в терпении;
+  - name: К Титу 2:3
+    orderIndex: 2
+    osisId: Titus.2.3
+    sblId: Titus 2:3
+    shortName: Тит 2:3
+    text: чтобы старицы также одевались прилично святым, не были клеветницы, не порабощались
+      пьянству, учили добру;
+  - name: К Титу 2:4
+    orderIndex: 3
+    osisId: Titus.2.4
+    sblId: Titus 2:4
+    shortName: Тит 2:4
+    text: чтобы вразумляли молодых любить мужей, любить детей,
+  - name: К Титу 2:5
+    orderIndex: 4
+    osisId: Titus.2.5
+    sblId: Titus 2:5
+    shortName: Тит 2:5
+    text: быть целомудренными, чистыми, попечительными о доме, добрыми, покорными
+      своим мужьям, да не порицается слово Божие.
+  - name: К Титу 2:6
+    orderIndex: 5
+    osisId: Titus.2.6
+    sblId: Titus 2:6
+    shortName: Тит 2:6
+    text: Юношей также увещевай быть целомудренными.
+  - name: К Титу 2:7
+    orderIndex: 6
+    osisId: Titus.2.7
+    sblId: Titus 2:7
+    shortName: Тит 2:7
+    text: Во всем показывай в себе образец добрых дел, в учительстве чистоту, степенность,
+      неповрежденность,
+  - name: К Титу 2:8
+    orderIndex: 7
+    osisId: Titus.2.8
+    sblId: Titus 2:8
+    shortName: Тит 2:8
+    text: слово здравое, неукоризненное, чтобы противник был посрамлен, не имея ничего
+      сказать о нас худого.
+  - name: К Титу 2:9
+    orderIndex: 8
+    osisId: Titus.2.9
+    sblId: Titus 2:9
+    shortName: Тит 2:9
+    text: Рабов [увещевай] повиноваться своим господам, угождать им во всем, не прекословить,
+  - name: К Титу 2:10
+    orderIndex: 9
+    osisId: Titus.2.10
+    sblId: Titus 2:10
+    shortName: Тит 2:10
+    text: не красть, но оказывать всю добрую верность, дабы они во всем были украшением
+      учению Спасителя нашего, Бога.
+  - name: К Титу 2:11
+    orderIndex: 10
+    osisId: Titus.2.11
+    sblId: Titus 2:11
+    shortName: Тит 2:11
+    text: Ибо явилась благодать Божия, спасительная для всех человеков,
+  - name: К Титу 2:12
+    orderIndex: 11
+    osisId: Titus.2.12
+    sblId: Titus 2:12
+    shortName: Тит 2:12
+    text: научающая нас, чтобы мы, отвергнув нечестие и мирские похоти, целомудренно,
+      праведно и благочестиво жили в нынешнем веке,
+  - name: К Титу 2:13
+    orderIndex: 12
+    osisId: Titus.2.13
+    sblId: Titus 2:13
+    shortName: Тит 2:13
+    text: ожидая блаженного упования и явления славы великого Бога и Спасителя нашего
+      Иисуса Христа,
+  - name: К Титу 2:14
+    orderIndex: 13
+    osisId: Titus.2.14
+    sblId: Titus 2:14
+    shortName: Тит 2:14
+    text: Который дал Себя за нас, чтобы избавить нас от всякого беззакония и очистить
+      Себе народ особенный, ревностный к добрым делам.
+  - name: К Титу 2:15
+    orderIndex: 14
+    osisId: Titus.2.15
+    sblId: Titus 2:15
+    shortName: Тит 2:15
+    text: Сие говори, увещевай и обличай со всякою властью, чтобы никто не пренебрегал
+      тебя.
+  versesCount: 15
+- name: К Титу 3
+  orderIndex: 2
+  osisId: Titus.3
+  sblId: Titus 3
+  shortName: Тит 3
+  verses:
+  - name: К Титу 3:1
+    orderIndex: 0
+    osisId: Titus.3.1
+    sblId: Titus 3:1
+    shortName: Тит 3:1
+    text: Напоминай им повиноваться и покоряться начальству и властям, быть готовыми
+      на всякое доброе дело,
+  - name: К Титу 3:2
+    orderIndex: 1
+    osisId: Titus.3.2
+    sblId: Titus 3:2
+    shortName: Тит 3:2
+    text: никого не злословить, быть не сварливыми, но тихими, и оказывать всякую
+      кротость ко всем человекам.
+  - name: К Титу 3:3
+    orderIndex: 2
+    osisId: Titus.3.3
+    sblId: Titus 3:3
+    shortName: Тит 3:3
+    text: Ибо и мы были некогда несмысленны, непокорны, заблуждшие, были рабы похотей
+      и различных удовольствий, жили в злобе и зависти, были гнусны, ненавидели друг
+      друга.
+  - name: К Титу 3:4
+    orderIndex: 3
+    osisId: Titus.3.4
+    sblId: Titus 3:4
+    shortName: Тит 3:4
+    text: Когда же явилась благодать и человеколюбие Спасителя нашего, Бога,
+  - name: К Титу 3:5
+    orderIndex: 4
+    osisId: Titus.3.5
+    sblId: Titus 3:5
+    shortName: Тит 3:5
+    text: Он спас нас не по делам праведности, которые бы мы сотворили, а по Своей
+      милости, банею возрождения и обновления Святым Духом,
+  - name: К Титу 3:6
+    orderIndex: 5
+    osisId: Titus.3.6
+    sblId: Titus 3:6
+    shortName: Тит 3:6
+    text: Которого излил на нас обильно через Иисуса Христа, Спасителя нашего,
+  - name: К Титу 3:7
+    orderIndex: 6
+    osisId: Titus.3.7
+    sblId: Titus 3:7
+    shortName: Тит 3:7
+    text: чтобы, оправдавшись Его благодатью, мы по упованию соделались наследниками
+      вечной жизни.
+  - name: К Титу 3:8
+    orderIndex: 7
+    osisId: Titus.3.8
+    sblId: Titus 3:8
+    shortName: Тит 3:8
+    text: 'Слово это верно; и я желаю, чтобы ты подтверждал о сем, дабы уверовавшие
+      в Бога старались быть прилежными к добрым делам: это хорошо и полезно человекам.'
+  - name: К Титу 3:9
+    orderIndex: 8
+    osisId: Titus.3.9
+    sblId: Titus 3:9
+    shortName: Тит 3:9
+    text: Глупых же состязаний и родословий, и споров и распрей о законе удаляйся,
+      ибо они бесполезны и суетны.
+  - name: К Титу 3:10
+    orderIndex: 9
+    osisId: Titus.3.10
+    sblId: Titus 3:10
+    shortName: Тит 3:10
+    text: Еретика, после первого и второго вразумления, отвращайся,
+  - name: К Титу 3:11
+    orderIndex: 10
+    osisId: Titus.3.11
+    sblId: Titus 3:11
+    shortName: Тит 3:11
+    text: зная, что таковой развратился и грешит, будучи самоосужден.
+  - name: К Титу 3:12
+    orderIndex: 11
+    osisId: Titus.3.12
+    sblId: Titus 3:12
+    shortName: Тит 3:12
+    text: Когда пришлю к тебе Артему или Тихика, поспеши придти ко мне в Никополь,
+      ибо я положил там провести зиму.
+  - name: К Титу 3:13
+    orderIndex: 12
+    osisId: Titus.3.13
+    sblId: Titus 3:13
+    shortName: Тит 3:13
+    text: Зину законника и Аполлоса позаботься отправить так, чтобы у них ни в чем
+      не было недостатка.
+  - name: К Титу 3:14
+    orderIndex: 13
+    osisId: Titus.3.14
+    sblId: Titus 3:14
+    shortName: Тит 3:14
+    text: Пусть и наши учатся упражняться в добрых делах, [в] [удовлетворении] необходимым
+      нуждам, дабы не были бесплодны.
+  - name: К Титу 3:15
+    orderIndex: 14
+    osisId: Titus.3.15
+    sblId: Titus 3:15
+    shortName: Тит 3:15
+    text: Приветствуют тебя все находящиеся со мною. Приветствуй любящих нас в вере.
+      Благодать со всеми вами. Аминь.
+  versesCount: 15
+chaptersCount: 3
+name: К Титу
+orderIndex: 55
+osisId: Titus
+sblId: Titus
+shortName: Тит
+versesCount: 46

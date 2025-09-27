@@ -1,0 +1,3137 @@
+chapters:
+- name: Romans 1
+  orderIndex: 0
+  osisId: Rom.1
+  sblId: Rom 1
+  shortName: Rom 1
+  verses:
+  - name: Romans 1:1
+    orderIndex: 0
+    osisId: Rom.1.1
+    sblId: Rom 1:1
+    shortName: Rom 1:1
+    text: Paul, a servant of Christ Jesus, called to be an apostle and set apart for
+      the gospel of God--
+  - name: Romans 1:2
+    orderIndex: 1
+    osisId: Rom.1.2
+    sblId: Rom 1:2
+    shortName: Rom 1:2
+    text: the gospel he promised beforehand through his prophets in the Holy Scriptures
+  - name: Romans 1:3
+    orderIndex: 2
+    osisId: Rom.1.3
+    sblId: Rom 1:3
+    shortName: Rom 1:3
+    text: regarding his Son, who as to his human nature was a descendant of David,
+  - name: Romans 1:4
+    orderIndex: 3
+    osisId: Rom.1.4
+    sblId: Rom 1:4
+    shortName: Rom 1:4
+    text: 'and who through the Spirit of holiness was declared with power to be the
+      Son of God by his resurrection from the dead: Jesus Christ our Lord.'
+  - name: Romans 1:5
+    orderIndex: 4
+    osisId: Rom.1.5
+    sblId: Rom 1:5
+    shortName: Rom 1:5
+    text: Through him and for his name's sake, we received grace and apostleship to
+      call people from among all the Gentiles to the obedience that comes from faith.
+  - name: Romans 1:6
+    orderIndex: 5
+    osisId: Rom.1.6
+    sblId: Rom 1:6
+    shortName: Rom 1:6
+    text: And you also are among those who are called to belong to Jesus Christ.
+  - name: Romans 1:7
+    orderIndex: 6
+    osisId: Rom.1.7
+    sblId: Rom 1:7
+    shortName: Rom 1:7
+    text: 'To all in Rome who are loved by God and called to be saints: Grace and
+      peace to you from God our Father and from the Lord Jesus Christ.'
+  - name: Romans 1:8
+    orderIndex: 7
+    osisId: Rom.1.8
+    sblId: Rom 1:8
+    shortName: Rom 1:8
+    text: First, I thank my God through Jesus Christ for all of you, because your
+      faith is being reported all over the world.
+  - name: Romans 1:9
+    orderIndex: 8
+    osisId: Rom.1.9
+    sblId: Rom 1:9
+    shortName: Rom 1:9
+    text: God, whom I serve with my whole heart in preaching the gospel of his Son,
+      is my witness how constantly I remember you
+  - name: Romans 1:10
+    orderIndex: 9
+    osisId: Rom.1.10
+    sblId: Rom 1:10
+    shortName: Rom 1:10
+    text: in my prayers at all times; and I pray that now at last by God's will the
+      way may be opened for me to come to you.
+  - name: Romans 1:11
+    orderIndex: 10
+    osisId: Rom.1.11
+    sblId: Rom 1:11
+    shortName: Rom 1:11
+    text: I long to see you so that I may impart to you some spiritual gift to make
+      you strong--
+  - name: Romans 1:12
+    orderIndex: 11
+    osisId: Rom.1.12
+    sblId: Rom 1:12
+    shortName: Rom 1:12
+    text: that is, that you and I may be mutually encouraged by each other's faith.
+  - name: Romans 1:13
+    orderIndex: 12
+    osisId: Rom.1.13
+    sblId: Rom 1:13
+    shortName: Rom 1:13
+    text: I do not want you to be unaware, brothers, that I planned many times to
+      come to you (but have been prevented from doing so until now) in order that
+      I might have a harvest among you, just as I have had among the other Gentiles.
+  - name: Romans 1:14
+    orderIndex: 13
+    osisId: Rom.1.14
+    sblId: Rom 1:14
+    shortName: Rom 1:14
+    text: I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.
+  - name: Romans 1:15
+    orderIndex: 14
+    osisId: Rom.1.15
+    sblId: Rom 1:15
+    shortName: Rom 1:15
+    text: That is why I am so eager to preach the gospel also to you who are at Rome.
+  - name: Romans 1:16
+    orderIndex: 15
+    osisId: Rom.1.16
+    sblId: Rom 1:16
+    shortName: Rom 1:16
+    text: 'I am not ashamed of the gospel, because it is the power of God for the
+      salvation of everyone who believes: first for the Jew, then for the Gentile.'
+  - name: Romans 1:17
+    orderIndex: 16
+    osisId: Rom.1.17
+    sblId: Rom 1:17
+    shortName: Rom 1:17
+    text: 'For in the gospel a righteousness from God is revealed, a righteousness
+      that is by faith from first to last, just as it is written: "The righteous will
+      live by faith."'
+  - name: Romans 1:18
+    orderIndex: 17
+    osisId: Rom.1.18
+    sblId: Rom 1:18
+    shortName: Rom 1:18
+    text: The wrath of God is being revealed from heaven against all the godlessness
+      and wickedness of men who suppress the truth by their wickedness,
+  - name: Romans 1:19
+    orderIndex: 18
+    osisId: Rom.1.19
+    sblId: Rom 1:19
+    shortName: Rom 1:19
+    text: since what may be known about God is plain to them, because God has made
+      it plain to them.
+  - name: Romans 1:20
+    orderIndex: 19
+    osisId: Rom.1.20
+    sblId: Rom 1:20
+    shortName: Rom 1:20
+    text: For since the creation of the world God's invisible qualities--his eternal
+      power and divine nature--have been clearly seen, being understood from what
+      has been made, so that men are without excuse.
+  - name: Romans 1:21
+    orderIndex: 20
+    osisId: Rom.1.21
+    sblId: Rom 1:21
+    shortName: Rom 1:21
+    text: For although they knew God, they neither glorified him as God nor gave thanks
+      to him, but their thinking became futile and their foolish hearts were darkened.
+  - name: Romans 1:22
+    orderIndex: 21
+    osisId: Rom.1.22
+    sblId: Rom 1:22
+    shortName: Rom 1:22
+    text: Although they claimed to be wise, they became fools
+  - name: Romans 1:23
+    orderIndex: 22
+    osisId: Rom.1.23
+    sblId: Rom 1:23
+    shortName: Rom 1:23
+    text: and exchanged the glory of the immortal God for images made to look like
+      mortal man and birds and animals and reptiles.
+  - name: Romans 1:24
+    orderIndex: 23
+    osisId: Rom.1.24
+    sblId: Rom 1:24
+    shortName: Rom 1:24
+    text: Therefore God gave them over in the sinful desires of their hearts to sexual
+      impurity for the degrading of their bodies with one another.
+  - name: Romans 1:25
+    orderIndex: 24
+    osisId: Rom.1.25
+    sblId: Rom 1:25
+    shortName: Rom 1:25
+    text: They exchanged the truth of God for a lie, and worshiped and served created
+      things rather than the Creator--who is forever praised. Amen.
+  - name: Romans 1:26
+    orderIndex: 25
+    osisId: Rom.1.26
+    sblId: Rom 1:26
+    shortName: Rom 1:26
+    text: Because of this, God gave them over to shameful lusts. Even their women
+      exchanged natural relations for unnatural ones.
+  - name: Romans 1:27
+    orderIndex: 26
+    osisId: Rom.1.27
+    sblId: Rom 1:27
+    shortName: Rom 1:27
+    text: In the same way the men also abandoned natural relations with women and
+      were inflamed with lust for one another. Men committed indecent acts with other
+      men, and received in themselves the due penalty for their perversion.
+  - name: Romans 1:28
+    orderIndex: 27
+    osisId: Rom.1.28
+    sblId: Rom 1:28
+    shortName: Rom 1:28
+    text: Furthermore, since they did not think it worthwhile to retain the knowledge
+      of God, he gave them over to a depraved mind, to do what ought not to be done.
+  - name: Romans 1:29
+    orderIndex: 28
+    osisId: Rom.1.29
+    sblId: Rom 1:29
+    shortName: Rom 1:29
+    text: They have become filled with every kind of wickedness, evil, greed and depravity.
+      They are full of envy, murder, strife, deceit and malice. They are gossips,
+  - name: Romans 1:30
+    orderIndex: 29
+    osisId: Rom.1.30
+    sblId: Rom 1:30
+    shortName: Rom 1:30
+    text: slanderers, God-haters, insolent, arrogant and boastful; they invent ways
+      of doing evil; they disobey their parents;
+  - name: Romans 1:31
+    orderIndex: 30
+    osisId: Rom.1.31
+    sblId: Rom 1:31
+    shortName: Rom 1:31
+    text: they are senseless, faithless, heartless, ruthless.
+  - name: Romans 1:32
+    orderIndex: 31
+    osisId: Rom.1.32
+    sblId: Rom 1:32
+    shortName: Rom 1:32
+    text: Although they know God's righteous decree that those who do such things
+      deserve death, they not only continue to do these very things but also approve
+      of those who practice them.
+  versesCount: 32
+- name: Romans 2
+  orderIndex: 1
+  osisId: Rom.2
+  sblId: Rom 2
+  shortName: Rom 2
+  verses:
+  - name: Romans 2:1
+    orderIndex: 0
+    osisId: Rom.2.1
+    sblId: Rom 2:1
+    shortName: Rom 2:1
+    text: You, therefore, have no excuse, you who pass judgment on someone else, for
+      at whatever point you judge the other, you are condemning yourself, because
+      you who pass judgment do the same things.
+  - name: Romans 2:2
+    orderIndex: 1
+    osisId: Rom.2.2
+    sblId: Rom 2:2
+    shortName: Rom 2:2
+    text: Now we know that God's judgment against those who do such things is based
+      on truth.
+  - name: Romans 2:3
+    orderIndex: 2
+    osisId: Rom.2.3
+    sblId: Rom 2:3
+    shortName: Rom 2:3
+    text: So when you, a mere man, pass judgment on them and yet do the same things,
+      do you think you will escape God's judgment?
+  - name: Romans 2:4
+    orderIndex: 3
+    osisId: Rom.2.4
+    sblId: Rom 2:4
+    shortName: Rom 2:4
+    text: Or do you show contempt for the riches of his kindness, tolerance and patience,
+      not realizing that God's kindness leads you toward repentance?
+  - name: Romans 2:5
+    orderIndex: 4
+    osisId: Rom.2.5
+    sblId: Rom 2:5
+    shortName: Rom 2:5
+    text: But because of your stubbornness and your unrepentant heart, you are storing
+      up wrath against yourself for the day of God's wrath, when his righteous judgment
+      will be revealed.
+  - name: Romans 2:6
+    orderIndex: 5
+    osisId: Rom.2.6
+    sblId: Rom 2:6
+    shortName: Rom 2:6
+    text: God "will give to each person according to what he has done."
+  - name: Romans 2:7
+    orderIndex: 6
+    osisId: Rom.2.7
+    sblId: Rom 2:7
+    shortName: Rom 2:7
+    text: To those who by persistence in doing good seek glory, honor and immortality,
+      he will give eternal life.
+  - name: Romans 2:8
+    orderIndex: 7
+    osisId: Rom.2.8
+    sblId: Rom 2:8
+    shortName: Rom 2:8
+    text: But for those who are self-seeking and who reject the truth and follow evil,
+      there will be wrath and anger.
+  - name: Romans 2:9
+    orderIndex: 8
+    osisId: Rom.2.9
+    sblId: Rom 2:9
+    shortName: Rom 2:9
+    text: 'There will be trouble and distress for every human being who does evil:
+      first for the Jew, then for the Gentile;'
+  - name: Romans 2:10
+    orderIndex: 9
+    osisId: Rom.2.10
+    sblId: Rom 2:10
+    shortName: Rom 2:10
+    text: 'but glory, honor and peace for everyone who does good: first for the Jew,
+      then for the Gentile.'
+  - name: Romans 2:11
+    orderIndex: 10
+    osisId: Rom.2.11
+    sblId: Rom 2:11
+    shortName: Rom 2:11
+    text: For God does not show favoritism.
+  - name: Romans 2:12
+    orderIndex: 11
+    osisId: Rom.2.12
+    sblId: Rom 2:12
+    shortName: Rom 2:12
+    text: All who sin apart from the law will also perish apart from the law, and
+      all who sin under the law will be judged by the law.
+  - name: Romans 2:13
+    orderIndex: 12
+    osisId: Rom.2.13
+    sblId: Rom 2:13
+    shortName: Rom 2:13
+    text: For it is not those who hear the law who are righteous in God's sight, but
+      it is those who obey the law who will be declared righteous.
+  - name: Romans 2:14
+    orderIndex: 13
+    osisId: Rom.2.14
+    sblId: Rom 2:14
+    shortName: Rom 2:14
+    text: (Indeed, when Gentiles, who do not have the law, do by nature things required
+      by the law, they are a law for themselves, even though they do not have the
+      law,
+  - name: Romans 2:15
+    orderIndex: 14
+    osisId: Rom.2.15
+    sblId: Rom 2:15
+    shortName: Rom 2:15
+    text: since they show that the requirements of the law are written on their hearts,
+      their consciences also bearing witness, and their thoughts now accusing, now
+      even defending them.)
+  - name: Romans 2:16
+    orderIndex: 15
+    osisId: Rom.2.16
+    sblId: Rom 2:16
+    shortName: Rom 2:16
+    text: This will take place on the day when God will judge men's secrets through
+      Jesus Christ, as my gospel declares.
+  - name: Romans 2:17
+    orderIndex: 16
+    osisId: Rom.2.17
+    sblId: Rom 2:17
+    shortName: Rom 2:17
+    text: Now you, if you call yourself a Jew; if you rely on the law and brag about
+      your relationship to God;
+  - name: Romans 2:18
+    orderIndex: 17
+    osisId: Rom.2.18
+    sblId: Rom 2:18
+    shortName: Rom 2:18
+    text: if you know his will and approve of what is superior because you are instructed
+      by the law;
+  - name: Romans 2:19
+    orderIndex: 18
+    osisId: Rom.2.19
+    sblId: Rom 2:19
+    shortName: Rom 2:19
+    text: if you are convinced that you are a guide for the blind, a light for those
+      who are in the dark,
+  - name: Romans 2:20
+    orderIndex: 19
+    osisId: Rom.2.20
+    sblId: Rom 2:20
+    shortName: Rom 2:20
+    text: an instructor of the foolish, a teacher of infants, because you have in
+      the law the embodiment of knowledge and truth--
+  - name: Romans 2:21
+    orderIndex: 20
+    osisId: Rom.2.21
+    sblId: Rom 2:21
+    shortName: Rom 2:21
+    text: you, then, who teach others, do you not teach yourself? You who preach against
+      stealing, do you steal?
+  - name: Romans 2:22
+    orderIndex: 21
+    osisId: Rom.2.22
+    sblId: Rom 2:22
+    shortName: Rom 2:22
+    text: You who say that people should not commit adultery, do you commit adultery?
+      You who abhor idols, do you rob temples?
+  - name: Romans 2:23
+    orderIndex: 22
+    osisId: Rom.2.23
+    sblId: Rom 2:23
+    shortName: Rom 2:23
+    text: You who brag about the law, do you dishonor God by breaking the law?
+  - name: Romans 2:24
+    orderIndex: 23
+    osisId: Rom.2.24
+    sblId: Rom 2:24
+    shortName: Rom 2:24
+    text: 'As it is written: "God''s name is blasphemed among the Gentiles because
+      of you."'
+  - name: Romans 2:25
+    orderIndex: 24
+    osisId: Rom.2.25
+    sblId: Rom 2:25
+    shortName: Rom 2:25
+    text: Circumcision has value if you observe the law, but if you break the law,
+      you have become as though you had not been circumcised.
+  - name: Romans 2:26
+    orderIndex: 25
+    osisId: Rom.2.26
+    sblId: Rom 2:26
+    shortName: Rom 2:26
+    text: If those who are not circumcised keep the law's requirements, will they
+      not be regarded as though they were circumcised?
+  - name: Romans 2:27
+    orderIndex: 26
+    osisId: Rom.2.27
+    sblId: Rom 2:27
+    shortName: Rom 2:27
+    text: The one who is not circumcised physically and yet obeys the law will condemn
+      you who, even though you have the written code and circumcision, are a lawbreaker.
+  - name: Romans 2:28
+    orderIndex: 27
+    osisId: Rom.2.28
+    sblId: Rom 2:28
+    shortName: Rom 2:28
+    text: A man is not a Jew if he is only one outwardly, nor is circumcision merely
+      outward and physical.
+  - name: Romans 2:29
+    orderIndex: 28
+    osisId: Rom.2.29
+    sblId: Rom 2:29
+    shortName: Rom 2:29
+    text: No, a man is a Jew if he is one inwardly; and circumcision is circumcision
+      of the heart, by the Spirit, not by the written code. Such a man's praise is
+      not from men, but from God.
+  versesCount: 29
+- name: Romans 3
+  orderIndex: 2
+  osisId: Rom.3
+  sblId: Rom 3
+  shortName: Rom 3
+  verses:
+  - name: Romans 3:1
+    orderIndex: 0
+    osisId: Rom.3.1
+    sblId: Rom 3:1
+    shortName: Rom 3:1
+    text: What advantage, then, is there in being a Jew, or what value is there in
+      circumcision?
+  - name: Romans 3:2
+    orderIndex: 1
+    osisId: Rom.3.2
+    sblId: Rom 3:2
+    shortName: Rom 3:2
+    text: Much in every way! First of all, they have been entrusted with the very
+      words of God.
+  - name: Romans 3:3
+    orderIndex: 2
+    osisId: Rom.3.3
+    sblId: Rom 3:3
+    shortName: Rom 3:3
+    text: What if some did not have faith? Will their lack of faith nullify God's
+      faithfulness?
+  - name: Romans 3:4
+    orderIndex: 3
+    osisId: Rom.3.4
+    sblId: Rom 3:4
+    shortName: Rom 3:4
+    text: 'Not at all! Let God be true, and every man a liar. As it is written: "So
+      that you may be proved right when you speak and prevail when you judge."'
+  - name: Romans 3:5
+    orderIndex: 4
+    osisId: Rom.3.5
+    sblId: Rom 3:5
+    shortName: Rom 3:5
+    text: But if our unrighteousness brings out God's righteousness more clearly,
+      what shall we say? That God is unjust in bringing his wrath on us? (I am using
+      a human argument.)
+  - name: Romans 3:6
+    orderIndex: 5
+    osisId: Rom.3.6
+    sblId: Rom 3:6
+    shortName: Rom 3:6
+    text: Certainly not! If that were so, how could God judge the world?
+  - name: Romans 3:7
+    orderIndex: 6
+    osisId: Rom.3.7
+    sblId: Rom 3:7
+    shortName: Rom 3:7
+    text: Someone might argue, "If my falsehood enhances God's truthfulness and so
+      increases his glory, why am I still condemned as a sinner?"
+  - name: Romans 3:8
+    orderIndex: 7
+    osisId: Rom.3.8
+    sblId: Rom 3:8
+    shortName: Rom 3:8
+    text: Why not say--as we are being slanderously reported as saying and as some
+      claim that we say--"Let us do evil that good may result"? Their condemnation
+      is deserved.
+  - name: Romans 3:9
+    orderIndex: 8
+    osisId: Rom.3.9
+    sblId: Rom 3:9
+    shortName: Rom 3:9
+    text: What shall we conclude then? Are we any better? Not at all! We have already
+      made the charge that Jews and Gentiles alike are all under sin.
+  - name: Romans 3:10
+    orderIndex: 9
+    osisId: Rom.3.10
+    sblId: Rom 3:10
+    shortName: Rom 3:10
+    text: 'As it is written: "There is no one righteous, not even one;'
+  - name: Romans 3:11
+    orderIndex: 10
+    osisId: Rom.3.11
+    sblId: Rom 3:11
+    shortName: Rom 3:11
+    text: there is no one who understands, no one who seeks God.
+  - name: Romans 3:12
+    orderIndex: 11
+    osisId: Rom.3.12
+    sblId: Rom 3:12
+    shortName: Rom 3:12
+    text: All have turned away, they have together become worthless; there is no one
+      who does good, not even one."
+  - name: Romans 3:13
+    orderIndex: 12
+    osisId: Rom.3.13
+    sblId: Rom 3:13
+    shortName: Rom 3:13
+    text: '"Their throats are open graves; their tongues practice deceit.The poison
+      of vipers is on their lips."'
+  - name: Romans 3:14
+    orderIndex: 13
+    osisId: Rom.3.14
+    sblId: Rom 3:14
+    shortName: Rom 3:14
+    text: '"Their mouths are full of cursing and bitterness."'
+  - name: Romans 3:15
+    orderIndex: 14
+    osisId: Rom.3.15
+    sblId: Rom 3:15
+    shortName: Rom 3:15
+    text: '"Their feet are swift to shed blood;'
+  - name: Romans 3:16
+    orderIndex: 15
+    osisId: Rom.3.16
+    sblId: Rom 3:16
+    shortName: Rom 3:16
+    text: ruin and misery mark their ways,
+  - name: Romans 3:17
+    orderIndex: 16
+    osisId: Rom.3.17
+    sblId: Rom 3:17
+    shortName: Rom 3:17
+    text: and the way of peace they do not know."
+  - name: Romans 3:18
+    orderIndex: 17
+    osisId: Rom.3.18
+    sblId: Rom 3:18
+    shortName: Rom 3:18
+    text: '"There is no fear of God before their eyes."'
+  - name: Romans 3:19
+    orderIndex: 18
+    osisId: Rom.3.19
+    sblId: Rom 3:19
+    shortName: Rom 3:19
+    text: Now we know that whatever the law says, it says to those who are under the
+      law, so that every mouth may be silenced and the whole world held accountable
+      to God.
+  - name: Romans 3:20
+    orderIndex: 19
+    osisId: Rom.3.20
+    sblId: Rom 3:20
+    shortName: Rom 3:20
+    text: Therefore no one will be declared righteous in his sight by observing the
+      law; rather, through the law we become conscious of sin.
+  - name: Romans 3:21
+    orderIndex: 20
+    osisId: Rom.3.21
+    sblId: Rom 3:21
+    shortName: Rom 3:21
+    text: But now a righteousness from God, apart from law, has been made known, to
+      which the Law and the Prophets testify.
+  - name: Romans 3:22
+    orderIndex: 21
+    osisId: Rom.3.22
+    sblId: Rom 3:22
+    shortName: Rom 3:22
+    text: This righteousness from God comes through faith in Jesus Christ to all who
+      believe. There is no difference,
+  - name: Romans 3:23
+    orderIndex: 22
+    osisId: Rom.3.23
+    sblId: Rom 3:23
+    shortName: Rom 3:23
+    text: for all have sinned and fall short of the glory of God,
+  - name: Romans 3:24
+    orderIndex: 23
+    osisId: Rom.3.24
+    sblId: Rom 3:24
+    shortName: Rom 3:24
+    text: and are justified freely by his grace through the redemption that came by
+      Christ Jesus.
+  - name: Romans 3:25
+    orderIndex: 24
+    osisId: Rom.3.25
+    sblId: Rom 3:25
+    shortName: Rom 3:25
+    text: God presented him as a sacrifice of atonement, through faith in his blood.
+      He did this to demonstrate his justice, because in his forbearance he had left
+      the sins committed beforehand unpunished--
+  - name: Romans 3:26
+    orderIndex: 25
+    osisId: Rom.3.26
+    sblId: Rom 3:26
+    shortName: Rom 3:26
+    text: he did it to demonstrate his justice at the present time, so as to be just
+      and the one who justifies those who have faith in Jesus.
+  - name: Romans 3:27
+    orderIndex: 26
+    osisId: Rom.3.27
+    sblId: Rom 3:27
+    shortName: Rom 3:27
+    text: Where, then, is boasting? It is excluded. On what principle? On that of
+      observing the law? No, but on that of faith.
+  - name: Romans 3:28
+    orderIndex: 27
+    osisId: Rom.3.28
+    sblId: Rom 3:28
+    shortName: Rom 3:28
+    text: For we maintain that a man is justified by faith apart from observing the
+      law.
+  - name: Romans 3:29
+    orderIndex: 28
+    osisId: Rom.3.29
+    sblId: Rom 3:29
+    shortName: Rom 3:29
+    text: Is God the God of Jews only? Is he not the God of Gentiles too? Yes, of
+      Gentiles too,
+  - name: Romans 3:30
+    orderIndex: 29
+    osisId: Rom.3.30
+    sblId: Rom 3:30
+    shortName: Rom 3:30
+    text: since there is only one God, who will justify the circumcised by faith and
+      the uncircumcised through that same faith.
+  - name: Romans 3:31
+    orderIndex: 30
+    osisId: Rom.3.31
+    sblId: Rom 3:31
+    shortName: Rom 3:31
+    text: Do we, then, nullify the law by this faith? Not at all! Rather, we uphold
+      the law.
+  versesCount: 31
+- name: Romans 4
+  orderIndex: 3
+  osisId: Rom.4
+  sblId: Rom 4
+  shortName: Rom 4
+  verses:
+  - name: Romans 4:1
+    orderIndex: 0
+    osisId: Rom.4.1
+    sblId: Rom 4:1
+    shortName: Rom 4:1
+    text: What then shall we say that Abraham, our forefather, discovered in this
+      matter?
+  - name: Romans 4:2
+    orderIndex: 1
+    osisId: Rom.4.2
+    sblId: Rom 4:2
+    shortName: Rom 4:2
+    text: If, in fact, Abraham was justified by works, he had something to boast about--but
+      not before God.
+  - name: Romans 4:3
+    orderIndex: 2
+    osisId: Rom.4.3
+    sblId: Rom 4:3
+    shortName: Rom 4:3
+    text: What does the Scripture say? "Abraham believed God, and it was credited
+      to him as righteousness."
+  - name: Romans 4:4
+    orderIndex: 3
+    osisId: Rom.4.4
+    sblId: Rom 4:4
+    shortName: Rom 4:4
+    text: Now when a man works, his wages are not credited to him as a gift, but as
+      an obligation.
+  - name: Romans 4:5
+    orderIndex: 4
+    osisId: Rom.4.5
+    sblId: Rom 4:5
+    shortName: Rom 4:5
+    text: However, to the man who does not work but trusts God who justifies the wicked,
+      his faith is credited as righteousness.
+  - name: Romans 4:6
+    orderIndex: 5
+    osisId: Rom.4.6
+    sblId: Rom 4:6
+    shortName: Rom 4:6
+    text: 'David says the same thing when he speaks of the blessedness of the man
+      to whom God credits righteousness apart from works:'
+  - name: Romans 4:7
+    orderIndex: 6
+    osisId: Rom.4.7
+    sblId: Rom 4:7
+    shortName: Rom 4:7
+    text: '"Blessed are they whose transgressions are forgiven, whose sins are covered.'
+  - name: Romans 4:8
+    orderIndex: 7
+    osisId: Rom.4.8
+    sblId: Rom 4:8
+    shortName: Rom 4:8
+    text: Blessed is the man whose sin the Lord will never count against him."
+  - name: Romans 4:9
+    orderIndex: 8
+    osisId: Rom.4.9
+    sblId: Rom 4:9
+    shortName: Rom 4:9
+    text: Is this blessedness only for the circumcised, or also for the uncircumcised?
+      We have been saying that Abraham's faith was credited to him as righteousness.
+  - name: Romans 4:10
+    orderIndex: 9
+    osisId: Rom.4.10
+    sblId: Rom 4:10
+    shortName: Rom 4:10
+    text: Under what circumstances was it credited? Was it after he was circumcised,
+      or before? It was not after, but before!
+  - name: Romans 4:11
+    orderIndex: 10
+    osisId: Rom.4.11
+    sblId: Rom 4:11
+    shortName: Rom 4:11
+    text: And he received the sign of circumcision, a seal of the righteousness that
+      he had by faith while he was still uncircumcised. So then, he is the father
+      of all who believe but have not been circumcised, in order that righteousness
+      might be credited to them.
+  - name: Romans 4:12
+    orderIndex: 11
+    osisId: Rom.4.12
+    sblId: Rom 4:12
+    shortName: Rom 4:12
+    text: And he is also the father of the circumcised who not only are circumcised
+      but who also walk in the footsteps of the faith that our father Abraham had
+      before he was circumcised.
+  - name: Romans 4:13
+    orderIndex: 12
+    osisId: Rom.4.13
+    sblId: Rom 4:13
+    shortName: Rom 4:13
+    text: It was not through law that Abraham and his offspring received the promise
+      that he would be heir of the world, but through the righteousness that comes
+      by faith.
+  - name: Romans 4:14
+    orderIndex: 13
+    osisId: Rom.4.14
+    sblId: Rom 4:14
+    shortName: Rom 4:14
+    text: For if those who live by law are heirs, faith has no value and the promise
+      is worthless,
+  - name: Romans 4:15
+    orderIndex: 14
+    osisId: Rom.4.15
+    sblId: Rom 4:15
+    shortName: Rom 4:15
+    text: because law brings wrath. And where there is no law there is no transgression.
+  - name: Romans 4:16
+    orderIndex: 15
+    osisId: Rom.4.16
+    sblId: Rom 4:16
+    shortName: Rom 4:16
+    text: Therefore, the promise comes by faith, so that it may be by grace and may
+      be guaranteed to all Abraham's offspring--not only to those who are of the law
+      but also to those who are of the faith of Abraham. He is the father of us all.
+  - name: Romans 4:17
+    orderIndex: 16
+    osisId: Rom.4.17
+    sblId: Rom 4:17
+    shortName: Rom 4:17
+    text: 'As it is written: "I have made you a father of many nations." He is our
+      father in the sight of God, in whom he believed--the God who gives life to the
+      dead and calls things that are not as though they were.'
+  - name: Romans 4:18
+    orderIndex: 17
+    osisId: Rom.4.18
+    sblId: Rom 4:18
+    shortName: Rom 4:18
+    text: Against all hope, Abraham in hope believed and so became the father of many
+      nations, just as it had been said to him, "So shall your offspring be."
+  - name: Romans 4:19
+    orderIndex: 18
+    osisId: Rom.4.19
+    sblId: Rom 4:19
+    shortName: Rom 4:19
+    text: Without weakening in his faith, he faced the fact that his body was as good
+      as dead--since he was about a hundred years old--and that Sarah's womb was also
+      dead.
+  - name: Romans 4:20
+    orderIndex: 19
+    osisId: Rom.4.20
+    sblId: Rom 4:20
+    shortName: Rom 4:20
+    text: Yet he did not waver through unbelief regarding the promise of God, but
+      was strengthened in his faith and gave glory to God,
+  - name: Romans 4:21
+    orderIndex: 20
+    osisId: Rom.4.21
+    sblId: Rom 4:21
+    shortName: Rom 4:21
+    text: being fully persuaded that God had power to do what he had promised.
+  - name: Romans 4:22
+    orderIndex: 21
+    osisId: Rom.4.22
+    sblId: Rom 4:22
+    shortName: Rom 4:22
+    text: This is why "it was credited to him as righteousness."
+  - name: Romans 4:23
+    orderIndex: 22
+    osisId: Rom.4.23
+    sblId: Rom 4:23
+    shortName: Rom 4:23
+    text: The words "it was credited to him" were written not for him alone,
+  - name: Romans 4:24
+    orderIndex: 23
+    osisId: Rom.4.24
+    sblId: Rom 4:24
+    shortName: Rom 4:24
+    text: but also for us, to whom God will credit righteousness--for us who believe
+      in him who raised Jesus our Lord from the dead.
+  - name: Romans 4:25
+    orderIndex: 24
+    osisId: Rom.4.25
+    sblId: Rom 4:25
+    shortName: Rom 4:25
+    text: He was delivered over to death for our sins and was raised to life for our
+      justification.
+  versesCount: 25
+- name: Romans 5
+  orderIndex: 4
+  osisId: Rom.5
+  sblId: Rom 5
+  shortName: Rom 5
+  verses:
+  - name: Romans 5:1
+    orderIndex: 0
+    osisId: Rom.5.1
+    sblId: Rom 5:1
+    shortName: Rom 5:1
+    text: Therefore, since we have been justified through faith, we have peace with
+      God through our Lord Jesus Christ,
+  - name: Romans 5:2
+    orderIndex: 1
+    osisId: Rom.5.2
+    sblId: Rom 5:2
+    shortName: Rom 5:2
+    text: through whom we have gained access by faith into this grace in which we
+      now stand. And we rejoice in the hope of the glory of God.
+  - name: Romans 5:3
+    orderIndex: 2
+    osisId: Rom.5.3
+    sblId: Rom 5:3
+    shortName: Rom 5:3
+    text: Not only so, but we also rejoice in our sufferings, because we know that
+      suffering produces perseverance;
+  - name: Romans 5:4
+    orderIndex: 3
+    osisId: Rom.5.4
+    sblId: Rom 5:4
+    shortName: Rom 5:4
+    text: perseverance, character; and character, hope.
+  - name: Romans 5:5
+    orderIndex: 4
+    osisId: Rom.5.5
+    sblId: Rom 5:5
+    shortName: Rom 5:5
+    text: And hope does not disappoint us, because God has poured out his love into
+      our hearts by the Holy Spirit, whom he has given us.
+  - name: Romans 5:6
+    orderIndex: 5
+    osisId: Rom.5.6
+    sblId: Rom 5:6
+    shortName: Rom 5:6
+    text: You see, at just the right time, when we were still powerless, Christ died
+      for the ungodly.
+  - name: Romans 5:7
+    orderIndex: 6
+    osisId: Rom.5.7
+    sblId: Rom 5:7
+    shortName: Rom 5:7
+    text: Very rarely will anyone die for a righteous man, though for a good man someone
+      might possibly dare to die.
+  - name: Romans 5:8
+    orderIndex: 7
+    osisId: Rom.5.8
+    sblId: Rom 5:8
+    shortName: Rom 5:8
+    text: 'But God demonstrates his own love for us in this: While we were still sinners,
+      Christ died for us.'
+  - name: Romans 5:9
+    orderIndex: 8
+    osisId: Rom.5.9
+    sblId: Rom 5:9
+    shortName: Rom 5:9
+    text: Since we have now been justified by his blood, how much more shall we be
+      saved from God's wrath through him!
+  - name: Romans 5:10
+    orderIndex: 9
+    osisId: Rom.5.10
+    sblId: Rom 5:10
+    shortName: Rom 5:10
+    text: For if, when we were God's enemies, we were reconciled to him through the
+      death of his Son, how much more, having been reconciled, shall we be saved through
+      his life!
+  - name: Romans 5:11
+    orderIndex: 10
+    osisId: Rom.5.11
+    sblId: Rom 5:11
+    shortName: Rom 5:11
+    text: Not only is this so, but we also rejoice in God through our Lord Jesus Christ,
+      through whom we have now received reconciliation.
+  - name: Romans 5:12
+    orderIndex: 11
+    osisId: Rom.5.12
+    sblId: Rom 5:12
+    shortName: Rom 5:12
+    text: Therefore, just as sin entered the world through one man, and death through
+      sin, and in this way death came to all men, because all sinned--
+  - name: Romans 5:13
+    orderIndex: 12
+    osisId: Rom.5.13
+    sblId: Rom 5:13
+    shortName: Rom 5:13
+    text: for before the law was given, sin was in the world. But sin is not taken
+      into account when there is no law.
+  - name: Romans 5:14
+    orderIndex: 13
+    osisId: Rom.5.14
+    sblId: Rom 5:14
+    shortName: Rom 5:14
+    text: Nevertheless, death reigned from the time of Adam to the time of Moses,
+      even over those who did not sin by breaking a command, as did Adam, who was
+      a pattern of the one to come.
+  - name: Romans 5:15
+    orderIndex: 14
+    osisId: Rom.5.15
+    sblId: Rom 5:15
+    shortName: Rom 5:15
+    text: But the gift is not like the trespass. For if the many died by the trespass
+      of the one man, how much more did God's grace and the gift that came by the
+      grace of the one man, Jesus Christ, overflow to the many!
+  - name: Romans 5:16
+    orderIndex: 15
+    osisId: Rom.5.16
+    sblId: Rom 5:16
+    shortName: Rom 5:16
+    text: 'Again, the gift of God is not like the result of the one man''s sin: The
+      judgment followed one sin and brought condemnation, but the gift followed many
+      trespasses and brought justification.'
+  - name: Romans 5:17
+    orderIndex: 16
+    osisId: Rom.5.17
+    sblId: Rom 5:17
+    shortName: Rom 5:17
+    text: For if, by the trespass of the one man, death reigned through that one man,
+      how much more will those who receive God's abundant provision of grace and of
+      the gift of righteousness reign in life through the one man, Jesus Christ.
+  - name: Romans 5:18
+    orderIndex: 17
+    osisId: Rom.5.18
+    sblId: Rom 5:18
+    shortName: Rom 5:18
+    text: Consequently, just as the result of one trespass was condemnation for all
+      men, so also the result of one act of righteousness was justification that brings
+      life for all men.
+  - name: Romans 5:19
+    orderIndex: 18
+    osisId: Rom.5.19
+    sblId: Rom 5:19
+    shortName: Rom 5:19
+    text: For just as through the disobedience of the one man the many were made sinners,
+      so also through the obedience of the one man the many will be made righteous.
+  - name: Romans 5:20
+    orderIndex: 19
+    osisId: Rom.5.20
+    sblId: Rom 5:20
+    shortName: Rom 5:20
+    text: The law was added so that the trespass might increase. But where sin increased,
+      grace increased all the more,
+  - name: Romans 5:21
+    orderIndex: 20
+    osisId: Rom.5.21
+    sblId: Rom 5:21
+    shortName: Rom 5:21
+    text: so that, just as sin reigned in death, so also grace might reign through
+      righteousness to bring eternal life through Jesus Christ our Lord.
+  versesCount: 21
+- name: Romans 6
+  orderIndex: 5
+  osisId: Rom.6
+  sblId: Rom 6
+  shortName: Rom 6
+  verses:
+  - name: Romans 6:1
+    orderIndex: 0
+    osisId: Rom.6.1
+    sblId: Rom 6:1
+    shortName: Rom 6:1
+    text: What shall we say, then? Shall we go on sinning so that grace may increase?
+  - name: Romans 6:2
+    orderIndex: 1
+    osisId: Rom.6.2
+    sblId: Rom 6:2
+    shortName: Rom 6:2
+    text: By no means! We died to sin; how can we live in it any longer?
+  - name: Romans 6:3
+    orderIndex: 2
+    osisId: Rom.6.3
+    sblId: Rom 6:3
+    shortName: Rom 6:3
+    text: Or don't you know that all of us who were baptized into Christ Jesus were
+      baptized into his death?
+  - name: Romans 6:4
+    orderIndex: 3
+    osisId: Rom.6.4
+    sblId: Rom 6:4
+    shortName: Rom 6:4
+    text: We were therefore buried with him through baptism into death in order that,
+      just as Christ was raised from the dead through the glory of the Father, we
+      too may live a new life.
+  - name: Romans 6:5
+    orderIndex: 4
+    osisId: Rom.6.5
+    sblId: Rom 6:5
+    shortName: Rom 6:5
+    text: If we have been united with him like this in his death, we will certainly
+      also be united with him in his resurrection.
+  - name: Romans 6:6
+    orderIndex: 5
+    osisId: Rom.6.6
+    sblId: Rom 6:6
+    shortName: Rom 6:6
+    text: For we know that our old self was crucified with him so that the body of
+      sin might be done away with, that we should no longer be slaves to sin--
+  - name: Romans 6:7
+    orderIndex: 6
+    osisId: Rom.6.7
+    sblId: Rom 6:7
+    shortName: Rom 6:7
+    text: because anyone who has died has been freed from sin.
+  - name: Romans 6:8
+    orderIndex: 7
+    osisId: Rom.6.8
+    sblId: Rom 6:8
+    shortName: Rom 6:8
+    text: Now if we died with Christ, we believe that we will also live with him.
+  - name: Romans 6:9
+    orderIndex: 8
+    osisId: Rom.6.9
+    sblId: Rom 6:9
+    shortName: Rom 6:9
+    text: For we know that since Christ was raised from the dead, he cannot die again;
+      death no longer has mastery over him.
+  - name: Romans 6:10
+    orderIndex: 9
+    osisId: Rom.6.10
+    sblId: Rom 6:10
+    shortName: Rom 6:10
+    text: The death he died, he died to sin once for all; but the life he lives, he
+      lives to God.
+  - name: Romans 6:11
+    orderIndex: 10
+    osisId: Rom.6.11
+    sblId: Rom 6:11
+    shortName: Rom 6:11
+    text: In the same way, count yourselves dead to sin but alive to God in Christ
+      Jesus.
+  - name: Romans 6:12
+    orderIndex: 11
+    osisId: Rom.6.12
+    sblId: Rom 6:12
+    shortName: Rom 6:12
+    text: Therefore do not let sin reign in your mortal body so that you obey its
+      evil desires.
+  - name: Romans 6:13
+    orderIndex: 12
+    osisId: Rom.6.13
+    sblId: Rom 6:13
+    shortName: Rom 6:13
+    text: Do not offer the parts of your body to sin, as instruments of wickedness,
+      but rather offer yourselves to God, as those who have been brought from death
+      to life; and offer the parts of your body to him as instruments of righteousness.
+  - name: Romans 6:14
+    orderIndex: 13
+    osisId: Rom.6.14
+    sblId: Rom 6:14
+    shortName: Rom 6:14
+    text: For sin shall not be your master, because you are not under law, but under
+      grace.
+  - name: Romans 6:15
+    orderIndex: 14
+    osisId: Rom.6.15
+    sblId: Rom 6:15
+    shortName: Rom 6:15
+    text: What then? Shall we sin because we are not under law but under grace? By
+      no means!
+  - name: Romans 6:16
+    orderIndex: 15
+    osisId: Rom.6.16
+    sblId: Rom 6:16
+    shortName: Rom 6:16
+    text: Don't you know that when you offer yourselves to someone to obey him as
+      slaves, you are slaves to the one whom you obey--whether you are slaves to sin,
+      which leads to death, or to obedience, which leads to righteousness?
+  - name: Romans 6:17
+    orderIndex: 16
+    osisId: Rom.6.17
+    sblId: Rom 6:17
+    shortName: Rom 6:17
+    text: But thanks be to God that, though you used to be slaves to sin, you wholeheartedly
+      obeyed the form of teaching to which you were entrusted.
+  - name: Romans 6:18
+    orderIndex: 17
+    osisId: Rom.6.18
+    sblId: Rom 6:18
+    shortName: Rom 6:18
+    text: You have been set free from sin and have become slaves to righteousness.
+  - name: Romans 6:19
+    orderIndex: 18
+    osisId: Rom.6.19
+    sblId: Rom 6:19
+    shortName: Rom 6:19
+    text: I put this in human terms because you are weak in your natural selves. Just
+      as you used to offer the parts of your body in slavery to impurity and to ever-increasing
+      wickedness, so now offer them in slavery to righteousness leading to holiness.
+  - name: Romans 6:20
+    orderIndex: 19
+    osisId: Rom.6.20
+    sblId: Rom 6:20
+    shortName: Rom 6:20
+    text: When you were slaves to sin, you were free from the control of righteousness.
+  - name: Romans 6:21
+    orderIndex: 20
+    osisId: Rom.6.21
+    sblId: Rom 6:21
+    shortName: Rom 6:21
+    text: What benefit did you reap at that time from the things you are now ashamed
+      of? Those things result in death!
+  - name: Romans 6:22
+    orderIndex: 21
+    osisId: Rom.6.22
+    sblId: Rom 6:22
+    shortName: Rom 6:22
+    text: But now that you have been set free from sin and have become slaves to God,
+      the benefit you reap leads to holiness, and the result is eternal life.
+  - name: Romans 6:23
+    orderIndex: 22
+    osisId: Rom.6.23
+    sblId: Rom 6:23
+    shortName: Rom 6:23
+    text: For the wages of sin is death, but the gift of God is eternal life in Christ
+      Jesus our Lord.
+  versesCount: 23
+- name: Romans 7
+  orderIndex: 6
+  osisId: Rom.7
+  sblId: Rom 7
+  shortName: Rom 7
+  verses:
+  - name: Romans 7:1
+    orderIndex: 0
+    osisId: Rom.7.1
+    sblId: Rom 7:1
+    shortName: Rom 7:1
+    text: Do you not know, brothers--for I am speaking to men who know the law--that
+      the law has authority over a man only as long as he lives?
+  - name: Romans 7:2
+    orderIndex: 1
+    osisId: Rom.7.2
+    sblId: Rom 7:2
+    shortName: Rom 7:2
+    text: For example, by law a married woman is bound to her husband as long as he
+      is alive, but if her husband dies, she is released from the law of marriage.
+  - name: Romans 7:3
+    orderIndex: 2
+    osisId: Rom.7.3
+    sblId: Rom 7:3
+    shortName: Rom 7:3
+    text: So then, if she marries another man while her husband is still alive, she
+      is called an adulteress. But if her husband dies, she is released from that
+      law and is not an adulteress, even though she marries another man.
+  - name: Romans 7:4
+    orderIndex: 3
+    osisId: Rom.7.4
+    sblId: Rom 7:4
+    shortName: Rom 7:4
+    text: So, my brothers, you also died to the law through the body of Christ, that
+      you might belong to another, to him who was raised from the dead, in order that
+      we might bear fruit to God.
+  - name: Romans 7:5
+    orderIndex: 4
+    osisId: Rom.7.5
+    sblId: Rom 7:5
+    shortName: Rom 7:5
+    text: For when we were controlled by the sinful nature, the sinful passions aroused
+      by the law were at work in our bodies, so that we bore fruit for death.
+  - name: Romans 7:6
+    orderIndex: 5
+    osisId: Rom.7.6
+    sblId: Rom 7:6
+    shortName: Rom 7:6
+    text: But now, by dying to what once bound us, we have been released from the
+      law so that we serve in the new way of the Spirit, and not in the old way of
+      the written code.
+  - name: Romans 7:7
+    orderIndex: 6
+    osisId: Rom.7.7
+    sblId: Rom 7:7
+    shortName: Rom 7:7
+    text: What shall we say, then? Is the law sin? Certainly not! Indeed I would not
+      have known what sin was except through the law. For I would not have known what
+      coveting really was if the law had not said, "Do not covet."
+  - name: Romans 7:8
+    orderIndex: 7
+    osisId: Rom.7.8
+    sblId: Rom 7:8
+    shortName: Rom 7:8
+    text: But sin, seizing the opportunity afforded by the commandment, produced in
+      me every kind of covetous desire. For apart from law, sin is dead.
+  - name: Romans 7:9
+    orderIndex: 8
+    osisId: Rom.7.9
+    sblId: Rom 7:9
+    shortName: Rom 7:9
+    text: Once I was alive apart from law; but when the commandment came, sin sprang
+      to life and I died.
+  - name: Romans 7:10
+    orderIndex: 9
+    osisId: Rom.7.10
+    sblId: Rom 7:10
+    shortName: Rom 7:10
+    text: I found that the very commandment that was intended to bring life actually
+      brought death.
+  - name: Romans 7:11
+    orderIndex: 10
+    osisId: Rom.7.11
+    sblId: Rom 7:11
+    shortName: Rom 7:11
+    text: For sin, seizing the opportunity afforded by the commandment, deceived me,
+      and through the commandment put me to death.
+  - name: Romans 7:12
+    orderIndex: 11
+    osisId: Rom.7.12
+    sblId: Rom 7:12
+    shortName: Rom 7:12
+    text: So then, the law is holy, and the commandment is holy, righteous and good.
+  - name: Romans 7:13
+    orderIndex: 12
+    osisId: Rom.7.13
+    sblId: Rom 7:13
+    shortName: Rom 7:13
+    text: Did that which is good, then, become death to me? By no means! But in order
+      that sin might be recognized as sin, it produced death in me through what was
+      good, so that through the commandment sin might become utterly sinful.
+  - name: Romans 7:14
+    orderIndex: 13
+    osisId: Rom.7.14
+    sblId: Rom 7:14
+    shortName: Rom 7:14
+    text: We know that the law is spiritual; but I am unspiritual, sold as a slave
+      to sin.
+  - name: Romans 7:15
+    orderIndex: 14
+    osisId: Rom.7.15
+    sblId: Rom 7:15
+    shortName: Rom 7:15
+    text: I do not understand what I do. For what I want to do I do not do, but what
+      I hate I do.
+  - name: Romans 7:16
+    orderIndex: 15
+    osisId: Rom.7.16
+    sblId: Rom 7:16
+    shortName: Rom 7:16
+    text: And if I do what I do not want to do, I agree that the law is good.
+  - name: Romans 7:17
+    orderIndex: 16
+    osisId: Rom.7.17
+    sblId: Rom 7:17
+    shortName: Rom 7:17
+    text: As it is, it is no longer I myself who do it, but it is sin living in me.
+  - name: Romans 7:18
+    orderIndex: 17
+    osisId: Rom.7.18
+    sblId: Rom 7:18
+    shortName: Rom 7:18
+    text: I know that nothing good lives in me, that is, in my sinful nature. For
+      I have the desire to do what is good, but I cannot carry it out.
+  - name: Romans 7:19
+    orderIndex: 18
+    osisId: Rom.7.19
+    sblId: Rom 7:19
+    shortName: Rom 7:19
+    text: For what I do is not the good I want to do; no, the evil I do not want to
+      do--this I keep on doing.
+  - name: Romans 7:20
+    orderIndex: 19
+    osisId: Rom.7.20
+    sblId: Rom 7:20
+    shortName: Rom 7:20
+    text: Now if I do what I do not want to do, it is no longer I who do it, but it
+      is sin living in me that does it.
+  - name: Romans 7:21
+    orderIndex: 20
+    osisId: Rom.7.21
+    sblId: Rom 7:21
+    shortName: Rom 7:21
+    text: 'So I find this law at work: When I want to do good, evil is right there
+      with me.'
+  - name: Romans 7:22
+    orderIndex: 21
+    osisId: Rom.7.22
+    sblId: Rom 7:22
+    shortName: Rom 7:22
+    text: For in my inner being I delight in God's law;
+  - name: Romans 7:23
+    orderIndex: 22
+    osisId: Rom.7.23
+    sblId: Rom 7:23
+    shortName: Rom 7:23
+    text: but I see another law at work in the members of my body, waging war against
+      the law of my mind and making me a prisoner of the law of sin at work within
+      my members.
+  - name: Romans 7:24
+    orderIndex: 23
+    osisId: Rom.7.24
+    sblId: Rom 7:24
+    shortName: Rom 7:24
+    text: What a wretched man I am! Who will rescue me from this body of death?
+  - name: Romans 7:25
+    orderIndex: 24
+    osisId: Rom.7.25
+    sblId: Rom 7:25
+    shortName: Rom 7:25
+    text: Thanks be to God--through Jesus Christ our Lord! So then, I myself in my
+      mind am a slave to God's law, but in the sinful nature a slave to the law of
+      sin.
+  versesCount: 25
+- name: Romans 8
+  orderIndex: 7
+  osisId: Rom.8
+  sblId: Rom 8
+  shortName: Rom 8
+  verses:
+  - name: Romans 8:1
+    orderIndex: 0
+    osisId: Rom.8.1
+    sblId: Rom 8:1
+    shortName: Rom 8:1
+    text: Therefore, there is now no condemnation for those who are in Christ Jesus,
+  - name: Romans 8:2
+    orderIndex: 1
+    osisId: Rom.8.2
+    sblId: Rom 8:2
+    shortName: Rom 8:2
+    text: because through Christ Jesus the law of the Spirit of life set me free from
+      the law of sin and death.
+  - name: Romans 8:3
+    orderIndex: 2
+    osisId: Rom.8.3
+    sblId: Rom 8:3
+    shortName: Rom 8:3
+    text: For what the law was powerless to do in that it was weakened by the sinful
+      nature, God did by sending his own Son in the likeness of sinful man to be a
+      sin offering. And so he condemned sin in sinful man,
+  - name: Romans 8:4
+    orderIndex: 3
+    osisId: Rom.8.4
+    sblId: Rom 8:4
+    shortName: Rom 8:4
+    text: in order that the righteous requirements of the law might be fully met in
+      us, who do not live according to the sinful nature but according to the Spirit.
+  - name: Romans 8:5
+    orderIndex: 4
+    osisId: Rom.8.5
+    sblId: Rom 8:5
+    shortName: Rom 8:5
+    text: Those who live according to the sinful nature have their minds set on what
+      that nature desires; but those who live in accordance with the Spirit have their
+      minds set on what the Spirit desires.
+  - name: Romans 8:6
+    orderIndex: 5
+    osisId: Rom.8.6
+    sblId: Rom 8:6
+    shortName: Rom 8:6
+    text: The mind of sinful man is death, but the mind controlled by the Spirit is
+      life and peace;
+  - name: Romans 8:7
+    orderIndex: 6
+    osisId: Rom.8.7
+    sblId: Rom 8:7
+    shortName: Rom 8:7
+    text: the sinful mind is hostile to God. It does not submit to God's law, nor
+      can it do so.
+  - name: Romans 8:8
+    orderIndex: 7
+    osisId: Rom.8.8
+    sblId: Rom 8:8
+    shortName: Rom 8:8
+    text: Those controlled by the sinful nature cannot please God.
+  - name: Romans 8:9
+    orderIndex: 8
+    osisId: Rom.8.9
+    sblId: Rom 8:9
+    shortName: Rom 8:9
+    text: You, however, are controlled not by the sinful nature but by the Spirit,
+      if the Spirit of God lives in you. And if anyone does not have the Spirit of
+      Christ, he does not belong to Christ.
+  - name: Romans 8:10
+    orderIndex: 9
+    osisId: Rom.8.10
+    sblId: Rom 8:10
+    shortName: Rom 8:10
+    text: But if Christ is in you, your body is dead because of sin, yet your spirit
+      is alive because of righteousness.
+  - name: Romans 8:11
+    orderIndex: 10
+    osisId: Rom.8.11
+    sblId: Rom 8:11
+    shortName: Rom 8:11
+    text: And if the Spirit of him who raised Jesus from the dead is living in you,
+      he who raised Christ from the dead will also give life to your mortal bodies
+      through his Spirit, who lives in you.
+  - name: Romans 8:12
+    orderIndex: 11
+    osisId: Rom.8.12
+    sblId: Rom 8:12
+    shortName: Rom 8:12
+    text: Therefore, brothers, we have an obligation--but it is not to the sinful
+      nature, to live according to it.
+  - name: Romans 8:13
+    orderIndex: 12
+    osisId: Rom.8.13
+    sblId: Rom 8:13
+    shortName: Rom 8:13
+    text: For if you live according to the sinful nature, you will die; but if by
+      the Spirit you put to death the misdeeds of the body, you will live,
+  - name: Romans 8:14
+    orderIndex: 13
+    osisId: Rom.8.14
+    sblId: Rom 8:14
+    shortName: Rom 8:14
+    text: because those who are led by the Spirit of God are sons of God.
+  - name: Romans 8:15
+    orderIndex: 14
+    osisId: Rom.8.15
+    sblId: Rom 8:15
+    shortName: Rom 8:15
+    text: For you did not receive a spirit that makes you a slave again to fear, but
+      you received the Spirit of sonship. And by him we cry, "Abba, Father."
+  - name: Romans 8:16
+    orderIndex: 15
+    osisId: Rom.8.16
+    sblId: Rom 8:16
+    shortName: Rom 8:16
+    text: The Spirit himself testifies with our spirit that we are God's children.
+  - name: Romans 8:17
+    orderIndex: 16
+    osisId: Rom.8.17
+    sblId: Rom 8:17
+    shortName: Rom 8:17
+    text: Now if we are children, then we are heirs--heirs of God and co-heirs with
+      Christ, if indeed we share in his sufferings in order that we may also share
+      in his glory.
+  - name: Romans 8:18
+    orderIndex: 17
+    osisId: Rom.8.18
+    sblId: Rom 8:18
+    shortName: Rom 8:18
+    text: I consider that our present sufferings are not worth comparing with the
+      glory that will be revealed in us.
+  - name: Romans 8:19
+    orderIndex: 18
+    osisId: Rom.8.19
+    sblId: Rom 8:19
+    shortName: Rom 8:19
+    text: The creation waits in eager expectation for the sons of God to be revealed.
+  - name: Romans 8:20
+    orderIndex: 19
+    osisId: Rom.8.20
+    sblId: Rom 8:20
+    shortName: Rom 8:20
+    text: For the creation was subjected to frustration, not by its own choice, but
+      by the will of the one who subjected it, in hope
+  - name: Romans 8:21
+    orderIndex: 20
+    osisId: Rom.8.21
+    sblId: Rom 8:21
+    shortName: Rom 8:21
+    text: that the creation itself will be liberated from its bondage to decay and
+      brought into the glorious freedom of the children of God.
+  - name: Romans 8:22
+    orderIndex: 21
+    osisId: Rom.8.22
+    sblId: Rom 8:22
+    shortName: Rom 8:22
+    text: We know that the whole creation has been groaning as in the pains of childbirth
+      right up to the present time.
+  - name: Romans 8:23
+    orderIndex: 22
+    osisId: Rom.8.23
+    sblId: Rom 8:23
+    shortName: Rom 8:23
+    text: Not only so, but we ourselves, who have the firstfruits of the Spirit, groan
+      inwardly as we wait eagerly for our adoption as sons, the redemption of our
+      bodies.
+  - name: Romans 8:24
+    orderIndex: 23
+    osisId: Rom.8.24
+    sblId: Rom 8:24
+    shortName: Rom 8:24
+    text: For in this hope we were saved. But hope that is seen is no hope at all.
+      Who hopes for what he already has?
+  - name: Romans 8:25
+    orderIndex: 24
+    osisId: Rom.8.25
+    sblId: Rom 8:25
+    shortName: Rom 8:25
+    text: But if we hope for what we do not yet have, we wait for it patiently.
+  - name: Romans 8:26
+    orderIndex: 25
+    osisId: Rom.8.26
+    sblId: Rom 8:26
+    shortName: Rom 8:26
+    text: In the same way, the Spirit helps us in our weakness. We do not know what
+      we ought to pray for, but the Spirit himself intercedes for us with groans that
+      words cannot express.
+  - name: Romans 8:27
+    orderIndex: 26
+    osisId: Rom.8.27
+    sblId: Rom 8:27
+    shortName: Rom 8:27
+    text: And he who searches our hearts knows the mind of the Spirit, because the
+      Spirit intercedes for the saints in accordance with God's will.
+  - name: Romans 8:28
+    orderIndex: 27
+    osisId: Rom.8.28
+    sblId: Rom 8:28
+    shortName: Rom 8:28
+    text: And we know that in all things God works for the good of those who love
+      him, who have been called according to his purpose.
+  - name: Romans 8:29
+    orderIndex: 28
+    osisId: Rom.8.29
+    sblId: Rom 8:29
+    shortName: Rom 8:29
+    text: For those God foreknew he also predestined to be conformed to the likeness
+      of his Son, that he might be the firstborn among many brothers.
+  - name: Romans 8:30
+    orderIndex: 29
+    osisId: Rom.8.30
+    sblId: Rom 8:30
+    shortName: Rom 8:30
+    text: And those he predestined, he also called; those he called, he also justified;
+      those he justified, he also glorified.
+  - name: Romans 8:31
+    orderIndex: 30
+    osisId: Rom.8.31
+    sblId: Rom 8:31
+    shortName: Rom 8:31
+    text: What, then, shall we say in response to this? If God is for us, who can
+      be against us?
+  - name: Romans 8:32
+    orderIndex: 31
+    osisId: Rom.8.32
+    sblId: Rom 8:32
+    shortName: Rom 8:32
+    text: He who did not spare his own Son, but gave him up for us all--how will he
+      not also, along with him, graciously give us all things?
+  - name: Romans 8:33
+    orderIndex: 32
+    osisId: Rom.8.33
+    sblId: Rom 8:33
+    shortName: Rom 8:33
+    text: Who will bring any charge against those whom God has chosen? It is God who
+      justifies.
+  - name: Romans 8:34
+    orderIndex: 33
+    osisId: Rom.8.34
+    sblId: Rom 8:34
+    shortName: Rom 8:34
+    text: Who is he that condemns? Christ Jesus, who died--more than that, who was
+      raised to life--is at the right hand of God and is also interceding for us.
+  - name: Romans 8:35
+    orderIndex: 34
+    osisId: Rom.8.35
+    sblId: Rom 8:35
+    shortName: Rom 8:35
+    text: Who shall separate us from the love of Christ? Shall trouble or hardship
+      or persecution or famine or nakedness or danger or sword?
+  - name: Romans 8:36
+    orderIndex: 35
+    osisId: Rom.8.36
+    sblId: Rom 8:36
+    shortName: Rom 8:36
+    text: 'As it is written: "For your sake we face death all day long; we are considered
+      as sheep to be slaughtered."'
+  - name: Romans 8:37
+    orderIndex: 36
+    osisId: Rom.8.37
+    sblId: Rom 8:37
+    shortName: Rom 8:37
+    text: No, in all these things we are more than conquerors through him who loved
+      us.
+  - name: Romans 8:38
+    orderIndex: 37
+    osisId: Rom.8.38
+    sblId: Rom 8:38
+    shortName: Rom 8:38
+    text: For I am convinced that neither death nor life, neither angels nor demons,
+      neither the present nor the future, nor any powers,
+  - name: Romans 8:39
+    orderIndex: 38
+    osisId: Rom.8.39
+    sblId: Rom 8:39
+    shortName: Rom 8:39
+    text: neither height nor depth, nor anything else in all creation, will be able
+      to separate us from the love of God that is in Christ Jesus our Lord.
+  versesCount: 39
+- name: Romans 9
+  orderIndex: 8
+  osisId: Rom.9
+  sblId: Rom 9
+  shortName: Rom 9
+  verses:
+  - name: Romans 9:1
+    orderIndex: 0
+    osisId: Rom.9.1
+    sblId: Rom 9:1
+    shortName: Rom 9:1
+    text: I speak the truth in Christ--I am not lying, my conscience confirms it in
+      the Holy Spirit--
+  - name: Romans 9:2
+    orderIndex: 1
+    osisId: Rom.9.2
+    sblId: Rom 9:2
+    shortName: Rom 9:2
+    text: I have great sorrow and unceasing anguish in my heart.
+  - name: Romans 9:3
+    orderIndex: 2
+    osisId: Rom.9.3
+    sblId: Rom 9:3
+    shortName: Rom 9:3
+    text: For I could wish that I myself were cursed and cut off from Christ for the
+      sake of my brothers, those of my own race,
+  - name: Romans 9:4
+    orderIndex: 3
+    osisId: Rom.9.4
+    sblId: Rom 9:4
+    shortName: Rom 9:4
+    text: the people of Israel. Theirs is the adoption as sons; theirs the divine
+      glory, the covenants, the receiving of the law, the temple worship and the promises.
+  - name: Romans 9:5
+    orderIndex: 4
+    osisId: Rom.9.5
+    sblId: Rom 9:5
+    shortName: Rom 9:5
+    text: Theirs are the patriarchs, and from them is traced the human ancestry of
+      Christ, who is God over all, forever praised! Amen.
+  - name: Romans 9:6
+    orderIndex: 5
+    osisId: Rom.9.6
+    sblId: Rom 9:6
+    shortName: Rom 9:6
+    text: It is not as though God's word had failed. For not all who are descended
+      from Israel are Israel.
+  - name: Romans 9:7
+    orderIndex: 6
+    osisId: Rom.9.7
+    sblId: Rom 9:7
+    shortName: Rom 9:7
+    text: Nor because they are his descendants are they all Abraham's children. On
+      the contrary, "It is through Isaac that your offspring will be reckoned."
+  - name: Romans 9:8
+    orderIndex: 7
+    osisId: Rom.9.8
+    sblId: Rom 9:8
+    shortName: Rom 9:8
+    text: In other words, it is not the natural children who are God's children, but
+      it is the children of the promise who are regarded as Abraham's offspring.
+  - name: Romans 9:9
+    orderIndex: 8
+    osisId: Rom.9.9
+    sblId: Rom 9:9
+    shortName: Rom 9:9
+    text: 'For this was how the promise was stated: "At the appointed time I will
+      return, and Sarah will have a son."'
+  - name: Romans 9:10
+    orderIndex: 9
+    osisId: Rom.9.10
+    sblId: Rom 9:10
+    shortName: Rom 9:10
+    text: Not only that, but Rebekah's children had one and the same father, our father
+      Isaac.
+  - name: Romans 9:11
+    orderIndex: 10
+    osisId: Rom.9.11
+    sblId: Rom 9:11
+    shortName: Rom 9:11
+    text: 'Yet, before the twins were born or had done anything good or bad--in order
+      that God''s purpose in election might stand:'
+  - name: Romans 9:12
+    orderIndex: 11
+    osisId: Rom.9.12
+    sblId: Rom 9:12
+    shortName: Rom 9:12
+    text: not by works but by him who calls--she was told, "The older will serve the
+      younger."
+  - name: Romans 9:13
+    orderIndex: 12
+    osisId: Rom.9.13
+    sblId: Rom 9:13
+    shortName: Rom 9:13
+    text: 'Just as it is written: "Jacob I loved, but Esau I hated."'
+  - name: Romans 9:14
+    orderIndex: 13
+    osisId: Rom.9.14
+    sblId: Rom 9:14
+    shortName: Rom 9:14
+    text: What then shall we say? Is God unjust? Not at all!
+  - name: Romans 9:15
+    orderIndex: 14
+    osisId: Rom.9.15
+    sblId: Rom 9:15
+    shortName: Rom 9:15
+    text: For he says to Moses, "I will have mercy on whom I have mercy, and I will
+      have compassion on whom I have compassion."
+  - name: Romans 9:16
+    orderIndex: 15
+    osisId: Rom.9.16
+    sblId: Rom 9:16
+    shortName: Rom 9:16
+    text: It does not, therefore, depend on man's desire or effort, but on God's mercy.
+  - name: Romans 9:17
+    orderIndex: 16
+    osisId: Rom.9.17
+    sblId: Rom 9:17
+    shortName: Rom 9:17
+    text: 'For the Scripture says to Pharaoh: "I raised you up for this very purpose,
+      that I might display my power in you and that my name might be proclaimed in
+      all the earth."'
+  - name: Romans 9:18
+    orderIndex: 17
+    osisId: Rom.9.18
+    sblId: Rom 9:18
+    shortName: Rom 9:18
+    text: Therefore God has mercy on whom he wants to have mercy, and he hardens whom
+      he wants to harden.
+  - name: Romans 9:19
+    orderIndex: 18
+    osisId: Rom.9.19
+    sblId: Rom 9:19
+    shortName: Rom 9:19
+    text: 'One of you will say to me: "Then why does God still blame us? For who resists
+      his will?"'
+  - name: Romans 9:20
+    orderIndex: 19
+    osisId: Rom.9.20
+    sblId: Rom 9:20
+    shortName: Rom 9:20
+    text: But who are you, O man, to talk back to God? "Shall what is formed say to
+      him who formed it, 'Why did you make me like this?'"
+  - name: Romans 9:21
+    orderIndex: 20
+    osisId: Rom.9.21
+    sblId: Rom 9:21
+    shortName: Rom 9:21
+    text: Does not the potter have the right to make out of the same lump of clay
+      some pottery for noble purposes and some for common use?
+  - name: Romans 9:22
+    orderIndex: 21
+    osisId: Rom.9.22
+    sblId: Rom 9:22
+    shortName: Rom 9:22
+    text: What if God, choosing to show his wrath and make his power known, bore with
+      great patience the objects of his wrath--prepared for destruction?
+  - name: Romans 9:23
+    orderIndex: 22
+    osisId: Rom.9.23
+    sblId: Rom 9:23
+    shortName: Rom 9:23
+    text: What if he did this to make the riches of his glory known to the objects
+      of his mercy, whom he prepared in advance for glory--
+  - name: Romans 9:24
+    orderIndex: 23
+    osisId: Rom.9.24
+    sblId: Rom 9:24
+    shortName: Rom 9:24
+    text: even us, whom he also called, not only from the Jews but also from the Gentiles?
+  - name: Romans 9:25
+    orderIndex: 24
+    osisId: Rom.9.25
+    sblId: Rom 9:25
+    shortName: Rom 9:25
+    text: 'As he says in Hosea: "I will call them ''my people'' who are not my people;
+      and I will call her ''my loved one'' who is not my loved one,"'
+  - name: Romans 9:26
+    orderIndex: 25
+    osisId: Rom.9.26
+    sblId: Rom 9:26
+    shortName: Rom 9:26
+    text: and, "It will happen that in the very place where it was said to them, 'You
+      are not my people,' they will be called 'sons of the living God.'"
+  - name: Romans 9:27
+    orderIndex: 26
+    osisId: Rom.9.27
+    sblId: Rom 9:27
+    shortName: Rom 9:27
+    text: 'Isaiah cries out concerning Israel: "Though the number of the Israelites
+      be like the sand by the sea, only the remnant will be saved.'
+  - name: Romans 9:28
+    orderIndex: 27
+    osisId: Rom.9.28
+    sblId: Rom 9:28
+    shortName: Rom 9:28
+    text: For the Lord will carry out his sentence on earth with speed and finality."
+  - name: Romans 9:29
+    orderIndex: 28
+    osisId: Rom.9.29
+    sblId: Rom 9:29
+    shortName: Rom 9:29
+    text: 'It is just as Isaiah said previously: "Unless the Lord Almighty had left
+      us descendants, we would have become like Sodom, we would have been like Gomorrah."'
+  - name: Romans 9:30
+    orderIndex: 29
+    osisId: Rom.9.30
+    sblId: Rom 9:30
+    shortName: Rom 9:30
+    text: What then shall we say? That the Gentiles, who did not pursue righteousness,
+      have obtained it, a righteousness that is by faith;
+  - name: Romans 9:31
+    orderIndex: 30
+    osisId: Rom.9.31
+    sblId: Rom 9:31
+    shortName: Rom 9:31
+    text: but Israel, who pursued a law of righteousness, has not attained it.
+  - name: Romans 9:32
+    orderIndex: 31
+    osisId: Rom.9.32
+    sblId: Rom 9:32
+    shortName: Rom 9:32
+    text: Why not? Because they pursued it not by faith but as if it were by works.
+      They stumbled over the "stumbling stone."
+  - name: Romans 9:33
+    orderIndex: 32
+    osisId: Rom.9.33
+    sblId: Rom 9:33
+    shortName: Rom 9:33
+    text: 'As it is written: "See, I lay in Zion a stone that causes men to stumble
+      and a rock that makes them fall, and the one who trusts in him will never be
+      put to shame."'
+  versesCount: 33
+- name: Romans 10
+  orderIndex: 9
+  osisId: Rom.10
+  sblId: Rom 10
+  shortName: Rom 10
+  verses:
+  - name: Romans 10:1
+    orderIndex: 0
+    osisId: Rom.10.1
+    sblId: Rom 10:1
+    shortName: Rom 10:1
+    text: Brothers, my heart's desire and prayer to God for the Israelites is that
+      they may be saved.
+  - name: Romans 10:2
+    orderIndex: 1
+    osisId: Rom.10.2
+    sblId: Rom 10:2
+    shortName: Rom 10:2
+    text: For I can testify about them that they are zealous for God, but their zeal
+      is not based on knowledge.
+  - name: Romans 10:3
+    orderIndex: 2
+    osisId: Rom.10.3
+    sblId: Rom 10:3
+    shortName: Rom 10:3
+    text: Since they did not know the righteousness that comes from God and sought
+      to establish their own, they did not submit to God's righteousness.
+  - name: Romans 10:4
+    orderIndex: 3
+    osisId: Rom.10.4
+    sblId: Rom 10:4
+    shortName: Rom 10:4
+    text: Christ is the end of the law so that there may be righteousness for everyone
+      who believes.
+  - name: Romans 10:5
+    orderIndex: 4
+    osisId: Rom.10.5
+    sblId: Rom 10:5
+    shortName: Rom 10:5
+    text: 'Moses describes in this way the righteousness that is by the law: "The
+      man who does these things will live by them."'
+  - name: Romans 10:6
+    orderIndex: 5
+    osisId: Rom.10.6
+    sblId: Rom 10:6
+    shortName: Rom 10:6
+    text: 'But the righteousness that is by faith says: "Do not say in your heart,
+      ''Who will ascend into heaven?''" (that is, to bring Christ down)'
+  - name: Romans 10:7
+    orderIndex: 6
+    osisId: Rom.10.7
+    sblId: Rom 10:7
+    shortName: Rom 10:7
+    text: '"or ''Who will descend into the deep?''" (that is, to bring Christ up from
+      the dead).'
+  - name: Romans 10:8
+    orderIndex: 7
+    osisId: Rom.10.8
+    sblId: Rom 10:8
+    shortName: Rom 10:8
+    text: 'But what does it say? "The word is near you; it is in your mouth and in
+      your heart," that is, the word of faith we are proclaiming:'
+  - name: Romans 10:9
+    orderIndex: 8
+    osisId: Rom.10.9
+    sblId: Rom 10:9
+    shortName: Rom 10:9
+    text: That if you confess with your mouth, "Jesus is Lord," and believe in your
+      heart that God raised him from the dead, you will be saved.
+  - name: Romans 10:10
+    orderIndex: 9
+    osisId: Rom.10.10
+    sblId: Rom 10:10
+    shortName: Rom 10:10
+    text: For it is with your heart that you believe and are justified, and it is
+      with your mouth that you confess and are saved.
+  - name: Romans 10:11
+    orderIndex: 10
+    osisId: Rom.10.11
+    sblId: Rom 10:11
+    shortName: Rom 10:11
+    text: As the Scripture says, "Anyone who trusts in him will never be put to shame."
+  - name: Romans 10:12
+    orderIndex: 11
+    osisId: Rom.10.12
+    sblId: Rom 10:12
+    shortName: Rom 10:12
+    text: For there is no difference between Jew and Gentile--the same Lord is Lord
+      of all and richly blesses all who call on him,
+  - name: Romans 10:13
+    orderIndex: 12
+    osisId: Rom.10.13
+    sblId: Rom 10:13
+    shortName: Rom 10:13
+    text: for, "Everyone who calls on the name of the Lord will be saved."
+  - name: Romans 10:14
+    orderIndex: 13
+    osisId: Rom.10.14
+    sblId: Rom 10:14
+    shortName: Rom 10:14
+    text: How, then, can they call on the one they have not believed in? And how can
+      they believe in the one of whom they have not heard? And how can they hear without
+      someone preaching to them?
+  - name: Romans 10:15
+    orderIndex: 14
+    osisId: Rom.10.15
+    sblId: Rom 10:15
+    shortName: Rom 10:15
+    text: And how can they preach unless they are sent? As it is written, "How beautiful
+      are the feet of those who bring good news!"
+  - name: Romans 10:16
+    orderIndex: 15
+    osisId: Rom.10.16
+    sblId: Rom 10:16
+    shortName: Rom 10:16
+    text: But not all the Israelites accepted the good news. For Isaiah says, "Lord,
+      who has believed our message?"
+  - name: Romans 10:17
+    orderIndex: 16
+    osisId: Rom.10.17
+    sblId: Rom 10:17
+    shortName: Rom 10:17
+    text: Consequently, faith comes from hearing the message, and the message is heard
+      through the word of Christ.
+  - name: Romans 10:18
+    orderIndex: 17
+    osisId: Rom.10.18
+    sblId: Rom 10:18
+    shortName: Rom 10:18
+    text: 'But I ask: Did they not hear? Of course they did: "Their voice has gone
+      out into all the earth, their words to the ends of the world."'
+  - name: Romans 10:19
+    orderIndex: 18
+    osisId: Rom.10.19
+    sblId: Rom 10:19
+    shortName: Rom 10:19
+    text: 'Again I ask: Did Israel not understand? First, Moses says, "I will make
+      you envious by those who are not a nation; I will make you angry by a nation
+      that has no understanding."'
+  - name: Romans 10:20
+    orderIndex: 19
+    osisId: Rom.10.20
+    sblId: Rom 10:20
+    shortName: Rom 10:20
+    text: And Isaiah boldly says, "I was found by those who did not seek me; I revealed
+      myself to those who did not ask for me."
+  - name: Romans 10:21
+    orderIndex: 20
+    osisId: Rom.10.21
+    sblId: Rom 10:21
+    shortName: Rom 10:21
+    text: But concerning Israel he says, "All day long I have held out my hands to
+      a disobedient and obstinate people."
+  versesCount: 21
+- name: Romans 11
+  orderIndex: 10
+  osisId: Rom.11
+  sblId: Rom 11
+  shortName: Rom 11
+  verses:
+  - name: Romans 11:1
+    orderIndex: 0
+    osisId: Rom.11.1
+    sblId: Rom 11:1
+    shortName: Rom 11:1
+    text: 'I ask then: Did God reject his people? By no means! I am an Israelite myself,
+      a descendant of Abraham, from the tribe of Benjamin.'
+  - name: Romans 11:2
+    orderIndex: 1
+    osisId: Rom.11.2
+    sblId: Rom 11:2
+    shortName: Rom 11:2
+    text: 'God did not reject his people, whom he foreknew. Don''t you know what the
+      Scripture says in the passage about Elijah--how he appealed to God against Israel:'
+  - name: Romans 11:3
+    orderIndex: 2
+    osisId: Rom.11.3
+    sblId: Rom 11:3
+    shortName: Rom 11:3
+    text: '"Lord, they have killed your prophets and torn down your altars; I am the
+      only one left, and they are trying to kill me"?'
+  - name: Romans 11:4
+    orderIndex: 3
+    osisId: Rom.11.4
+    sblId: Rom 11:4
+    shortName: Rom 11:4
+    text: And what was God's answer to him? "I have reserved for myself seven thousand
+      who have not bowed the knee to Baal."
+  - name: Romans 11:5
+    orderIndex: 4
+    osisId: Rom.11.5
+    sblId: Rom 11:5
+    shortName: Rom 11:5
+    text: So too, at the present time there is a remnant chosen by grace.
+  - name: Romans 11:6
+    orderIndex: 5
+    osisId: Rom.11.6
+    sblId: Rom 11:6
+    shortName: Rom 11:6
+    text: And if by grace, then it is no longer by works; if it were, grace would
+      no longer be grace.
+  - name: Romans 11:7
+    orderIndex: 6
+    osisId: Rom.11.7
+    sblId: Rom 11:7
+    shortName: Rom 11:7
+    text: What then? What Israel sought so earnestly it did not obtain, but the elect
+      did. The others were hardened,
+  - name: Romans 11:8
+    orderIndex: 7
+    osisId: Rom.11.8
+    sblId: Rom 11:8
+    shortName: Rom 11:8
+    text: 'as it is written: "God gave them a spirit of stupor, eyes so that they
+      could not see and ears so that they could not hear, to this very day."'
+  - name: Romans 11:9
+    orderIndex: 8
+    osisId: Rom.11.9
+    sblId: Rom 11:9
+    shortName: Rom 11:9
+    text: 'And David says: "May their table become a snare and a trap, a stumbling
+      block and a retribution for them.'
+  - name: Romans 11:10
+    orderIndex: 9
+    osisId: Rom.11.10
+    sblId: Rom 11:10
+    shortName: Rom 11:10
+    text: May their eyes be darkened so they cannot see, and their backs be bent forever."
+  - name: Romans 11:11
+    orderIndex: 10
+    osisId: Rom.11.11
+    sblId: Rom 11:11
+    shortName: Rom 11:11
+    text: 'Again I ask: Did they stumble so as to fall beyond recovery? Not at all!
+      Rather, because of their transgression, salvation has come to the Gentiles to
+      make Israel envious.'
+  - name: Romans 11:12
+    orderIndex: 11
+    osisId: Rom.11.12
+    sblId: Rom 11:12
+    shortName: Rom 11:12
+    text: But if their transgression means riches for the world, and their loss means
+      riches for the Gentiles, how much greater riches will their fullness bring!
+  - name: Romans 11:13
+    orderIndex: 12
+    osisId: Rom.11.13
+    sblId: Rom 11:13
+    shortName: Rom 11:13
+    text: I am talking to you Gentiles. Inasmuch as I am the apostle to the Gentiles,
+      I make much of my ministry
+  - name: Romans 11:14
+    orderIndex: 13
+    osisId: Rom.11.14
+    sblId: Rom 11:14
+    shortName: Rom 11:14
+    text: in the hope that I may somehow arouse my own people to envy and save some
+      of them.
+  - name: Romans 11:15
+    orderIndex: 14
+    osisId: Rom.11.15
+    sblId: Rom 11:15
+    shortName: Rom 11:15
+    text: For if their rejection is the reconciliation of the world, what will their
+      acceptance be but life from the dead?
+  - name: Romans 11:16
+    orderIndex: 15
+    osisId: Rom.11.16
+    sblId: Rom 11:16
+    shortName: Rom 11:16
+    text: If the part of the dough offered as firstfruits is holy, then the whole
+      batch is holy; if the root is holy, so are the branches.
+  - name: Romans 11:17
+    orderIndex: 16
+    osisId: Rom.11.17
+    sblId: Rom 11:17
+    shortName: Rom 11:17
+    text: If some of the branches have been broken off, and you, though a wild olive
+      shoot, have been grafted in among the others and now share in the nourishing
+      sap from the olive root,
+  - name: Romans 11:18
+    orderIndex: 17
+    osisId: Rom.11.18
+    sblId: Rom 11:18
+    shortName: Rom 11:18
+    text: 'do not boast over those branches. If you do, consider this: You do not
+      support the root, but the root supports you.'
+  - name: Romans 11:19
+    orderIndex: 18
+    osisId: Rom.11.19
+    sblId: Rom 11:19
+    shortName: Rom 11:19
+    text: You will say then, "Branches were broken off so that I could be grafted
+      in."
+  - name: Romans 11:20
+    orderIndex: 19
+    osisId: Rom.11.20
+    sblId: Rom 11:20
+    shortName: Rom 11:20
+    text: Granted. But they were broken off because of unbelief, and you stand by
+      faith. Do not be arrogant, but be afraid.
+  - name: Romans 11:21
+    orderIndex: 20
+    osisId: Rom.11.21
+    sblId: Rom 11:21
+    shortName: Rom 11:21
+    text: For if God did not spare the natural branches, he will not spare you either.
+  - name: Romans 11:22
+    orderIndex: 21
+    osisId: Rom.11.22
+    sblId: Rom 11:22
+    shortName: Rom 11:22
+    text: 'Consider therefore the kindness and sternness of God: sternness to those
+      who fell, but kindness to you, provided that you continue in his kindness. Otherwise,
+      you also will be cut off.'
+  - name: Romans 11:23
+    orderIndex: 22
+    osisId: Rom.11.23
+    sblId: Rom 11:23
+    shortName: Rom 11:23
+    text: And if they do not persist in unbelief, they will be grafted in, for God
+      is able to graft them in again.
+  - name: Romans 11:24
+    orderIndex: 23
+    osisId: Rom.11.24
+    sblId: Rom 11:24
+    shortName: Rom 11:24
+    text: After all, if you were cut out of an olive tree that is wild by nature,
+      and contrary to nature were grafted into a cultivated olive tree, how much more
+      readily will these, the natural branches, be grafted into their own olive tree!
+  - name: Romans 11:25
+    orderIndex: 24
+    osisId: Rom.11.25
+    sblId: Rom 11:25
+    shortName: Rom 11:25
+    text: 'I do not want you to be ignorant of this mystery, brothers, so that you
+      may not be conceited: Israel has experienced a hardening in part until the full
+      number of the Gentiles has come in.'
+  - name: Romans 11:26
+    orderIndex: 25
+    osisId: Rom.11.26
+    sblId: Rom 11:26
+    shortName: Rom 11:26
+    text: 'And so all Israel will be saved, as it is written: "The deliverer will
+      come from Zion; he will turn godlessness away from Jacob.'
+  - name: Romans 11:27
+    orderIndex: 26
+    osisId: Rom.11.27
+    sblId: Rom 11:27
+    shortName: Rom 11:27
+    text: And this is my covenant with them when I take away their sins."
+  - name: Romans 11:28
+    orderIndex: 27
+    osisId: Rom.11.28
+    sblId: Rom 11:28
+    shortName: Rom 11:28
+    text: As far as the gospel is concerned, they are enemies on your account; but
+      as far as election is concerned, they are loved on account of the patriarchs,
+  - name: Romans 11:29
+    orderIndex: 28
+    osisId: Rom.11.29
+    sblId: Rom 11:29
+    shortName: Rom 11:29
+    text: for God's gifts and his call are irrevocable.
+  - name: Romans 11:30
+    orderIndex: 29
+    osisId: Rom.11.30
+    sblId: Rom 11:30
+    shortName: Rom 11:30
+    text: Just as you who were at one time disobedient to God have now received mercy
+      as a result of their disobedience,
+  - name: Romans 11:31
+    orderIndex: 30
+    osisId: Rom.11.31
+    sblId: Rom 11:31
+    shortName: Rom 11:31
+    text: so they too have now become disobedient in order that they too may now receive
+      mercy as a result of God's mercy to you.
+  - name: Romans 11:32
+    orderIndex: 31
+    osisId: Rom.11.32
+    sblId: Rom 11:32
+    shortName: Rom 11:32
+    text: For God has bound all men over to disobedience so that he may have mercy
+      on them all.
+  - name: Romans 11:33
+    orderIndex: 32
+    osisId: Rom.11.33
+    sblId: Rom 11:33
+    shortName: Rom 11:33
+    text: Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable
+      his judgments, and his paths beyond tracing out!
+  - name: Romans 11:34
+    orderIndex: 33
+    osisId: Rom.11.34
+    sblId: Rom 11:34
+    shortName: Rom 11:34
+    text: '"Who has known the mind of the Lord? Or who has been his counselor?"'
+  - name: Romans 11:35
+    orderIndex: 34
+    osisId: Rom.11.35
+    sblId: Rom 11:35
+    shortName: Rom 11:35
+    text: '"Who has ever given to God, that God should repay him?"'
+  - name: Romans 11:36
+    orderIndex: 35
+    osisId: Rom.11.36
+    sblId: Rom 11:36
+    shortName: Rom 11:36
+    text: For from him and through him and to him are all things. To him be the glory
+      forever! Amen.
+  versesCount: 36
+- name: Romans 12
+  orderIndex: 11
+  osisId: Rom.12
+  sblId: Rom 12
+  shortName: Rom 12
+  verses:
+  - name: Romans 12:1
+    orderIndex: 0
+    osisId: Rom.12.1
+    sblId: Rom 12:1
+    shortName: Rom 12:1
+    text: Therefore, I urge you, brothers, in view of God's mercy, to offer your bodies
+      as living sacrifices, holy and pleasing to God--this is your spiritual act of
+      worship.
+  - name: Romans 12:2
+    orderIndex: 1
+    osisId: Rom.12.2
+    sblId: Rom 12:2
+    shortName: Rom 12:2
+    text: Do not conform any longer to the pattern of this world, but be transformed
+      by the renewing of your mind. Then you will be able to test and approve what
+      God's will is--his good, pleasing and perfect will.
+  - name: Romans 12:3
+    orderIndex: 2
+    osisId: Rom.12.3
+    sblId: Rom 12:3
+    shortName: Rom 12:3
+    text: 'For by the grace given me I say to every one of you: Do not think of yourself
+      more highly than you ought, but rather think of yourself with sober judgment,
+      in accordance with the measure of faith God has given you.'
+  - name: Romans 12:4
+    orderIndex: 3
+    osisId: Rom.12.4
+    sblId: Rom 12:4
+    shortName: Rom 12:4
+    text: Just as each of us has one body with many members, and these members do
+      not all have the same function,
+  - name: Romans 12:5
+    orderIndex: 4
+    osisId: Rom.12.5
+    sblId: Rom 12:5
+    shortName: Rom 12:5
+    text: so in Christ we who are many form one body, and each member belongs to all
+      the others.
+  - name: Romans 12:6
+    orderIndex: 5
+    osisId: Rom.12.6
+    sblId: Rom 12:6
+    shortName: Rom 12:6
+    text: We have different gifts, according to the grace given us. If a man's gift
+      is prophesying, let him use it in proportion to his faith.
+  - name: Romans 12:7
+    orderIndex: 6
+    osisId: Rom.12.7
+    sblId: Rom 12:7
+    shortName: Rom 12:7
+    text: If it is serving, let him serve; if it is teaching, let him teach;
+  - name: Romans 12:8
+    orderIndex: 7
+    osisId: Rom.12.8
+    sblId: Rom 12:8
+    shortName: Rom 12:8
+    text: if it is encouraging, let him encourage; if it is contributing to the needs
+      of others, let him give generously; if it is leadership, let him govern diligently;
+      if it is showing mercy, let him do it cheerfully.
+  - name: Romans 12:9
+    orderIndex: 8
+    osisId: Rom.12.9
+    sblId: Rom 12:9
+    shortName: Rom 12:9
+    text: Love must be sincere. Hate what is evil; cling to what is good.
+  - name: Romans 12:10
+    orderIndex: 9
+    osisId: Rom.12.10
+    sblId: Rom 12:10
+    shortName: Rom 12:10
+    text: Be devoted to one another in brotherly love. Honor one another above yourselves.
+  - name: Romans 12:11
+    orderIndex: 10
+    osisId: Rom.12.11
+    sblId: Rom 12:11
+    shortName: Rom 12:11
+    text: Never be lacking in zeal, but keep your spiritual fervor, serving the Lord.
+  - name: Romans 12:12
+    orderIndex: 11
+    osisId: Rom.12.12
+    sblId: Rom 12:12
+    shortName: Rom 12:12
+    text: Be joyful in hope, patient in affliction, faithful in prayer.
+  - name: Romans 12:13
+    orderIndex: 12
+    osisId: Rom.12.13
+    sblId: Rom 12:13
+    shortName: Rom 12:13
+    text: Share with God's people who are in need. Practice hospitality.
+  - name: Romans 12:14
+    orderIndex: 13
+    osisId: Rom.12.14
+    sblId: Rom 12:14
+    shortName: Rom 12:14
+    text: Bless those who persecute you; bless and do not curse.
+  - name: Romans 12:15
+    orderIndex: 14
+    osisId: Rom.12.15
+    sblId: Rom 12:15
+    shortName: Rom 12:15
+    text: Rejoice with those who rejoice; mourn with those who mourn.
+  - name: Romans 12:16
+    orderIndex: 15
+    osisId: Rom.12.16
+    sblId: Rom 12:16
+    shortName: Rom 12:16
+    text: Live in harmony with one another. Do not be proud, but be willing to associate
+      with people of low position. Do not be conceited.
+  - name: Romans 12:17
+    orderIndex: 16
+    osisId: Rom.12.17
+    sblId: Rom 12:17
+    shortName: Rom 12:17
+    text: Do not repay anyone evil for evil. Be careful to do what is right in the
+      eyes of everybody.
+  - name: Romans 12:18
+    orderIndex: 17
+    osisId: Rom.12.18
+    sblId: Rom 12:18
+    shortName: Rom 12:18
+    text: If it is possible, as far as it depends on you, live at peace with everyone.
+  - name: Romans 12:19
+    orderIndex: 18
+    osisId: Rom.12.19
+    sblId: Rom 12:19
+    shortName: Rom 12:19
+    text: 'Do not take revenge, my friends, but leave room for God''s wrath, for it
+      is written: "It is mine to avenge; I will repay," says the Lord.'
+  - name: Romans 12:20
+    orderIndex: 19
+    osisId: Rom.12.20
+    sblId: Rom 12:20
+    shortName: Rom 12:20
+    text: 'On the contrary: "If your enemy is hungry, feed him; if he is thirsty,
+      give him something to drink. In doing this, you will heap burning coals on his
+      head."'
+  - name: Romans 12:21
+    orderIndex: 20
+    osisId: Rom.12.21
+    sblId: Rom 12:21
+    shortName: Rom 12:21
+    text: Do not be overcome by evil, but overcome evil with good.
+  versesCount: 21
+- name: Romans 13
+  orderIndex: 12
+  osisId: Rom.13
+  sblId: Rom 13
+  shortName: Rom 13
+  verses:
+  - name: Romans 13:1
+    orderIndex: 0
+    osisId: Rom.13.1
+    sblId: Rom 13:1
+    shortName: Rom 13:1
+    text: Everyone must submit himself to the governing authorities, for there is
+      no authority except that which God has established. The authorities that exist
+      have been established by God.
+  - name: Romans 13:2
+    orderIndex: 1
+    osisId: Rom.13.2
+    sblId: Rom 13:2
+    shortName: Rom 13:2
+    text: Consequently, he who rebels against the authority is rebelling against what
+      God has instituted, and those who do so will bring judgment on themselves.
+  - name: Romans 13:3
+    orderIndex: 2
+    osisId: Rom.13.3
+    sblId: Rom 13:3
+    shortName: Rom 13:3
+    text: For rulers hold no terror for those who do right, but for those who do wrong.
+      Do you want to be free from fear of the one in authority? Then do what is right
+      and he will commend you.
+  - name: Romans 13:4
+    orderIndex: 3
+    osisId: Rom.13.4
+    sblId: Rom 13:4
+    shortName: Rom 13:4
+    text: For he is God's servant to do you good. But if you do wrong, be afraid,
+      for he does not bear the sword for nothing. He is God's servant, an agent of
+      wrath to bring punishment on the wrongdoer.
+  - name: Romans 13:5
+    orderIndex: 4
+    osisId: Rom.13.5
+    sblId: Rom 13:5
+    shortName: Rom 13:5
+    text: Therefore, it is necessary to submit to the authorities, not only because
+      of possible punishment but also because of conscience.
+  - name: Romans 13:6
+    orderIndex: 5
+    osisId: Rom.13.6
+    sblId: Rom 13:6
+    shortName: Rom 13:6
+    text: This is also why you pay taxes, for the authorities are God's servants,
+      who give their full time to governing.
+  - name: Romans 13:7
+    orderIndex: 6
+    osisId: Rom.13.7
+    sblId: Rom 13:7
+    shortName: Rom 13:7
+    text: 'Give everyone what you owe him: If you owe taxes, pay taxes; if revenue,
+      then revenue; if respect, then respect; if honor, then honor.'
+  - name: Romans 13:8
+    orderIndex: 7
+    osisId: Rom.13.8
+    sblId: Rom 13:8
+    shortName: Rom 13:8
+    text: Let no debt remain outstanding, except the continuing debt to love one another,
+      for he who loves his fellowman has fulfilled the law.
+  - name: Romans 13:9
+    orderIndex: 8
+    osisId: Rom.13.9
+    sblId: Rom 13:9
+    shortName: Rom 13:9
+    text: 'The commandments, "Do not commit adultery,Do not murder,Do not steal,Do
+      not covet," and whatever other commandment there may be, are summed up in this
+      one rule: "Love your neighbor as yourself."'
+  - name: Romans 13:10
+    orderIndex: 9
+    osisId: Rom.13.10
+    sblId: Rom 13:10
+    shortName: Rom 13:10
+    text: Love does no harm to its neighbor. Therefore love is the fulfillment of
+      the law.
+  - name: Romans 13:11
+    orderIndex: 10
+    osisId: Rom.13.11
+    sblId: Rom 13:11
+    shortName: Rom 13:11
+    text: And do this, understanding the present time. The hour has come for you to
+      wake up from your slumber, because our salvation is nearer now than when we
+      first believed.
+  - name: Romans 13:12
+    orderIndex: 11
+    osisId: Rom.13.12
+    sblId: Rom 13:12
+    shortName: Rom 13:12
+    text: The night is nearly over; the day is almost here. So let us put aside the
+      deeds of darkness and put on the armor of light.
+  - name: Romans 13:13
+    orderIndex: 12
+    osisId: Rom.13.13
+    sblId: Rom 13:13
+    shortName: Rom 13:13
+    text: Let us behave decently, as in the daytime, not in orgies and drunkenness,
+      not in sexual immorality and debauchery, not in dissension and jealousy.
+  - name: Romans 13:14
+    orderIndex: 13
+    osisId: Rom.13.14
+    sblId: Rom 13:14
+    shortName: Rom 13:14
+    text: Rather, clothe yourselves with the Lord Jesus Christ, and do not think about
+      how to gratify the desires of the sinful nature.
+  versesCount: 14
+- name: Romans 14
+  orderIndex: 13
+  osisId: Rom.14
+  sblId: Rom 14
+  shortName: Rom 14
+  verses:
+  - name: Romans 14:1
+    orderIndex: 0
+    osisId: Rom.14.1
+    sblId: Rom 14:1
+    shortName: Rom 14:1
+    text: Accept him whose faith is weak, without passing judgment on disputable matters.
+  - name: Romans 14:2
+    orderIndex: 1
+    osisId: Rom.14.2
+    sblId: Rom 14:2
+    shortName: Rom 14:2
+    text: One man's faith allows him to eat everything, but another man, whose faith
+      is weak, eats only vegetables.
+  - name: Romans 14:3
+    orderIndex: 2
+    osisId: Rom.14.3
+    sblId: Rom 14:3
+    shortName: Rom 14:3
+    text: The man who eats everything must not look down on him who does not, and
+      the man who does not eat everything must not condemn the man who does, for God
+      has accepted him.
+  - name: Romans 14:4
+    orderIndex: 3
+    osisId: Rom.14.4
+    sblId: Rom 14:4
+    shortName: Rom 14:4
+    text: Who are you to judge someone else's servant? To his own master he stands
+      or falls. And he will stand, for the Lord is able to make him stand.
+  - name: Romans 14:5
+    orderIndex: 4
+    osisId: Rom.14.5
+    sblId: Rom 14:5
+    shortName: Rom 14:5
+    text: One man considers one day more sacred than another; another man considers
+      every day alike. Each one should be fully convinced in his own mind.
+  - name: Romans 14:6
+    orderIndex: 5
+    osisId: Rom.14.6
+    sblId: Rom 14:6
+    shortName: Rom 14:6
+    text: He who regards one day as special, does so to the Lord. He who eats meat,
+      eats to the Lord, for he gives thanks to God; and he who abstains, does so to
+      the Lord and gives thanks to God.
+  - name: Romans 14:7
+    orderIndex: 6
+    osisId: Rom.14.7
+    sblId: Rom 14:7
+    shortName: Rom 14:7
+    text: For none of us lives to himself alone and none of us dies to himself alone.
+  - name: Romans 14:8
+    orderIndex: 7
+    osisId: Rom.14.8
+    sblId: Rom 14:8
+    shortName: Rom 14:8
+    text: If we live, we live to the Lord; and if we die, we die to the Lord. So,
+      whether we live or die, we belong to the Lord.
+  - name: Romans 14:9
+    orderIndex: 8
+    osisId: Rom.14.9
+    sblId: Rom 14:9
+    shortName: Rom 14:9
+    text: For this very reason, Christ died and returned to life so that he might
+      be the Lord of both the dead and the living.
+  - name: Romans 14:10
+    orderIndex: 9
+    osisId: Rom.14.10
+    sblId: Rom 14:10
+    shortName: Rom 14:10
+    text: You, then, why do you judge your brother? Or why do you look down on your
+      brother? For we will all stand before God's judgment seat.
+  - name: Romans 14:11
+    orderIndex: 10
+    osisId: Rom.14.11
+    sblId: Rom 14:11
+    shortName: Rom 14:11
+    text: 'It is written: "''As surely as I live,'' says the Lord, ''every knee will
+      bow before me; every tongue will confess to God.''"'
+  - name: Romans 14:12
+    orderIndex: 11
+    osisId: Rom.14.12
+    sblId: Rom 14:12
+    shortName: Rom 14:12
+    text: So then, each of us will give an account of himself to God.
+  - name: Romans 14:13
+    orderIndex: 12
+    osisId: Rom.14.13
+    sblId: Rom 14:13
+    shortName: Rom 14:13
+    text: Therefore let us stop passing judgment on one another. Instead, make up
+      your mind not to put any stumbling block or obstacle in your brother's way.
+  - name: Romans 14:14
+    orderIndex: 13
+    osisId: Rom.14.14
+    sblId: Rom 14:14
+    shortName: Rom 14:14
+    text: As one who is in the Lord Jesus, I am fully convinced that no food is unclean
+      in itself. But if anyone regards something as unclean, then for him it is unclean.
+  - name: Romans 14:15
+    orderIndex: 14
+    osisId: Rom.14.15
+    sblId: Rom 14:15
+    shortName: Rom 14:15
+    text: If your brother is distressed because of what you eat, you are no longer
+      acting in love. Do not by your eating destroy your brother for whom Christ died.
+  - name: Romans 14:16
+    orderIndex: 15
+    osisId: Rom.14.16
+    sblId: Rom 14:16
+    shortName: Rom 14:16
+    text: Do not allow what you consider good to be spoken of as evil.
+  - name: Romans 14:17
+    orderIndex: 16
+    osisId: Rom.14.17
+    sblId: Rom 14:17
+    shortName: Rom 14:17
+    text: For the kingdom of God is not a matter of eating and drinking, but of righteousness,
+      peace and joy in the Holy Spirit,
+  - name: Romans 14:18
+    orderIndex: 17
+    osisId: Rom.14.18
+    sblId: Rom 14:18
+    shortName: Rom 14:18
+    text: because anyone who serves Christ in this way is pleasing to God and approved
+      by men.
+  - name: Romans 14:19
+    orderIndex: 18
+    osisId: Rom.14.19
+    sblId: Rom 14:19
+    shortName: Rom 14:19
+    text: Let us therefore make every effort to do what leads to peace and to mutual
+      edification.
+  - name: Romans 14:20
+    orderIndex: 19
+    osisId: Rom.14.20
+    sblId: Rom 14:20
+    shortName: Rom 14:20
+    text: Do not destroy the work of God for the sake of food. All food is clean,
+      but it is wrong for a man to eat anything that causes someone else to stumble.
+  - name: Romans 14:21
+    orderIndex: 20
+    osisId: Rom.14.21
+    sblId: Rom 14:21
+    shortName: Rom 14:21
+    text: It is better not to eat meat or drink wine or to do anything else that will
+      cause your brother to fall.
+  - name: Romans 14:22
+    orderIndex: 21
+    osisId: Rom.14.22
+    sblId: Rom 14:22
+    shortName: Rom 14:22
+    text: So whatever you believe about these things keep between yourself and God.
+      Blessed is the man who does not condemn himself by what he approves.
+  - name: Romans 14:23
+    orderIndex: 22
+    osisId: Rom.14.23
+    sblId: Rom 14:23
+    shortName: Rom 14:23
+    text: But the man who has doubts is condemned if he eats, because his eating is
+      not from faith; and everything that does not come from faith is sin.
+  versesCount: 23
+- name: Romans 15
+  orderIndex: 14
+  osisId: Rom.15
+  sblId: Rom 15
+  shortName: Rom 15
+  verses:
+  - name: Romans 15:1
+    orderIndex: 0
+    osisId: Rom.15.1
+    sblId: Rom 15:1
+    shortName: Rom 15:1
+    text: We who are strong ought to bear with the failings of the weak and not to
+      please ourselves.
+  - name: Romans 15:2
+    orderIndex: 1
+    osisId: Rom.15.2
+    sblId: Rom 15:2
+    shortName: Rom 15:2
+    text: Each of us should please his neighbor for his good, to build him up.
+  - name: Romans 15:3
+    orderIndex: 2
+    osisId: Rom.15.3
+    sblId: Rom 15:3
+    shortName: Rom 15:3
+    text: 'For even Christ did not please himself but, as it is written: "The insults
+      of those who insult you have fallen on me."'
+  - name: Romans 15:4
+    orderIndex: 3
+    osisId: Rom.15.4
+    sblId: Rom 15:4
+    shortName: Rom 15:4
+    text: For everything that was written in the past was written to teach us, so
+      that through endurance and the encouragement of the Scriptures we might have
+      hope.
+  - name: Romans 15:5
+    orderIndex: 4
+    osisId: Rom.15.5
+    sblId: Rom 15:5
+    shortName: Rom 15:5
+    text: May the God who gives endurance and encouragement give you a spirit of unity
+      among yourselves as you follow Christ Jesus,
+  - name: Romans 15:6
+    orderIndex: 5
+    osisId: Rom.15.6
+    sblId: Rom 15:6
+    shortName: Rom 15:6
+    text: so that with one heart and mouth you may glorify the God and Father of our
+      Lord Jesus Christ.
+  - name: Romans 15:7
+    orderIndex: 6
+    osisId: Rom.15.7
+    sblId: Rom 15:7
+    shortName: Rom 15:7
+    text: Accept one another, then, just as Christ accepted you, in order to bring
+      praise to God.
+  - name: Romans 15:8
+    orderIndex: 7
+    osisId: Rom.15.8
+    sblId: Rom 15:8
+    shortName: Rom 15:8
+    text: For I tell you that Christ has become a servant of the Jews on behalf of
+      God's truth, to confirm the promises made to the patriarchs
+  - name: Romans 15:9
+    orderIndex: 8
+    osisId: Rom.15.9
+    sblId: Rom 15:9
+    shortName: Rom 15:9
+    text: 'so that the Gentiles may glorify God for his mercy, as it is written: "Therefore
+      I will praise you among the Gentiles; I will sing hymns to your name."'
+  - name: Romans 15:10
+    orderIndex: 9
+    osisId: Rom.15.10
+    sblId: Rom 15:10
+    shortName: Rom 15:10
+    text: Again, it says, "Rejoice, O Gentiles, with his people."
+  - name: Romans 15:11
+    orderIndex: 10
+    osisId: Rom.15.11
+    sblId: Rom 15:11
+    shortName: Rom 15:11
+    text: And again, "Praise the Lord, all you Gentiles, and sing praises to him,
+      all you peoples."
+  - name: Romans 15:12
+    orderIndex: 11
+    osisId: Rom.15.12
+    sblId: Rom 15:12
+    shortName: Rom 15:12
+    text: And again, Isaiah says, "The Root of Jesse will spring up, one who will
+      arise to rule over the nations; the Gentiles will hope in him."
+  - name: Romans 15:13
+    orderIndex: 12
+    osisId: Rom.15.13
+    sblId: Rom 15:13
+    shortName: Rom 15:13
+    text: May the God of hope fill you with all joy and peace as you trust in him,
+      so that you may overflow with hope by the power of the Holy Spirit.
+  - name: Romans 15:14
+    orderIndex: 13
+    osisId: Rom.15.14
+    sblId: Rom 15:14
+    shortName: Rom 15:14
+    text: I myself am convinced, my brothers, that you yourselves are full of goodness,
+      complete in knowledge and competent to instruct one another.
+  - name: Romans 15:15
+    orderIndex: 14
+    osisId: Rom.15.15
+    sblId: Rom 15:15
+    shortName: Rom 15:15
+    text: I have written you quite boldly on some points, as if to remind you of them
+      again, because of the grace God gave me
+  - name: Romans 15:16
+    orderIndex: 15
+    osisId: Rom.15.16
+    sblId: Rom 15:16
+    shortName: Rom 15:16
+    text: to be a minister of Christ Jesus to the Gentiles with the priestly duty
+      of proclaiming the gospel of God, so that the Gentiles might become an offering
+      acceptable to God, sanctified by the Holy Spirit.
+  - name: Romans 15:17
+    orderIndex: 16
+    osisId: Rom.15.17
+    sblId: Rom 15:17
+    shortName: Rom 15:17
+    text: Therefore I glory in Christ Jesus in my service to God.
+  - name: Romans 15:18
+    orderIndex: 17
+    osisId: Rom.15.18
+    sblId: Rom 15:18
+    shortName: Rom 15:18
+    text: I will not venture to speak of anything except what Christ has accomplished
+      through me in leading the Gentiles to obey God by what I have said and done--
+  - name: Romans 15:19
+    orderIndex: 18
+    osisId: Rom.15.19
+    sblId: Rom 15:19
+    shortName: Rom 15:19
+    text: by the power of signs and miracles, through the power of the Spirit. So
+      from Jerusalem all the way around to Illyricum, I have fully proclaimed the
+      gospel of Christ.
+  - name: Romans 15:20
+    orderIndex: 19
+    osisId: Rom.15.20
+    sblId: Rom 15:20
+    shortName: Rom 15:20
+    text: It has always been my ambition to preach the gospel where Christ was not
+      known, so that I would not be building on someone else's foundation.
+  - name: Romans 15:21
+    orderIndex: 20
+    osisId: Rom.15.21
+    sblId: Rom 15:21
+    shortName: Rom 15:21
+    text: 'Rather, as it is written: "Those who were not told about him will see,
+      and those who have not heard will understand."'
+  - name: Romans 15:22
+    orderIndex: 21
+    osisId: Rom.15.22
+    sblId: Rom 15:22
+    shortName: Rom 15:22
+    text: This is why I have often been hindered from coming to you.
+  - name: Romans 15:23
+    orderIndex: 22
+    osisId: Rom.15.23
+    sblId: Rom 15:23
+    shortName: Rom 15:23
+    text: But now that there is no more place for me to work in these regions, and
+      since I have been longing for many years to see you,
+  - name: Romans 15:24
+    orderIndex: 23
+    osisId: Rom.15.24
+    sblId: Rom 15:24
+    shortName: Rom 15:24
+    text: I plan to do so when I go to Spain. I hope to visit you while passing through
+      and to have you assist me on my journey there, after I have enjoyed your company
+      for a while.
+  - name: Romans 15:25
+    orderIndex: 24
+    osisId: Rom.15.25
+    sblId: Rom 15:25
+    shortName: Rom 15:25
+    text: Now, however, I am on my way to Jerusalem in the service of the saints there.
+  - name: Romans 15:26
+    orderIndex: 25
+    osisId: Rom.15.26
+    sblId: Rom 15:26
+    shortName: Rom 15:26
+    text: For Macedonia and Achaia were pleased to make a contribution for the poor
+      among the saints in Jerusalem.
+  - name: Romans 15:27
+    orderIndex: 26
+    osisId: Rom.15.27
+    sblId: Rom 15:27
+    shortName: Rom 15:27
+    text: They were pleased to do it, and indeed they owe it to them. For if the Gentiles
+      have shared in the Jews' spiritual blessings, they owe it to the Jews to share
+      with them their material blessings.
+  - name: Romans 15:28
+    orderIndex: 27
+    osisId: Rom.15.28
+    sblId: Rom 15:28
+    shortName: Rom 15:28
+    text: So after I have completed this task and have made sure that they have received
+      this fruit, I will go to Spain and visit you on the way.
+  - name: Romans 15:29
+    orderIndex: 28
+    osisId: Rom.15.29
+    sblId: Rom 15:29
+    shortName: Rom 15:29
+    text: I know that when I come to you, I will come in the full measure of the blessing
+      of Christ.
+  - name: Romans 15:30
+    orderIndex: 29
+    osisId: Rom.15.30
+    sblId: Rom 15:30
+    shortName: Rom 15:30
+    text: I urge you, brothers, by our Lord Jesus Christ and by the love of the Spirit,
+      to join me in my struggle by praying to God for me.
+  - name: Romans 15:31
+    orderIndex: 30
+    osisId: Rom.15.31
+    sblId: Rom 15:31
+    shortName: Rom 15:31
+    text: Pray that I may be rescued from the unbelievers in Judea and that my service
+      in Jerusalem may be acceptable to the saints there,
+  - name: Romans 15:32
+    orderIndex: 31
+    osisId: Rom.15.32
+    sblId: Rom 15:32
+    shortName: Rom 15:32
+    text: so that by God's will I may come to you with joy and together with you be
+      refreshed.
+  - name: Romans 15:33
+    orderIndex: 32
+    osisId: Rom.15.33
+    sblId: Rom 15:33
+    shortName: Rom 15:33
+    text: The God of peace be with you all. Amen.
+  versesCount: 33
+- name: Romans 16
+  orderIndex: 15
+  osisId: Rom.16
+  sblId: Rom 16
+  shortName: Rom 16
+  verses:
+  - name: Romans 16:1
+    orderIndex: 0
+    osisId: Rom.16.1
+    sblId: Rom 16:1
+    shortName: Rom 16:1
+    text: I commend to you our sister Phoebe, a servant of the church in Cenchrea.
+  - name: Romans 16:2
+    orderIndex: 1
+    osisId: Rom.16.2
+    sblId: Rom 16:2
+    shortName: Rom 16:2
+    text: I ask you to receive her in the Lord in a way worthy of the saints and to
+      give her any help she may need from you, for she has been a great help to many
+      people, including me.
+  - name: Romans 16:3
+    orderIndex: 2
+    osisId: Rom.16.3
+    sblId: Rom 16:3
+    shortName: Rom 16:3
+    text: Greet Priscilla and Aquila, my fellow workers in Christ Jesus.
+  - name: Romans 16:4
+    orderIndex: 3
+    osisId: Rom.16.4
+    sblId: Rom 16:4
+    shortName: Rom 16:4
+    text: They risked their lives for me. Not only I but all the churches of the Gentiles
+      are grateful to them.
+  - name: Romans 16:5
+    orderIndex: 4
+    osisId: Rom.16.5
+    sblId: Rom 16:5
+    shortName: Rom 16:5
+    text: Greet also the church that meets at their house. Greet my dear friend Epenetus,
+      who was the first convert to Christ in the province of Asia.
+  - name: Romans 16:6
+    orderIndex: 5
+    osisId: Rom.16.6
+    sblId: Rom 16:6
+    shortName: Rom 16:6
+    text: Greet Mary, who worked very hard for you.
+  - name: Romans 16:7
+    orderIndex: 6
+    osisId: Rom.16.7
+    sblId: Rom 16:7
+    shortName: Rom 16:7
+    text: Greet Andronicus and Junias, my relatives who have been in prison with me.
+      They are outstanding among the apostles, and they were in Christ before I was.
+  - name: Romans 16:8
+    orderIndex: 7
+    osisId: Rom.16.8
+    sblId: Rom 16:8
+    shortName: Rom 16:8
+    text: Greet Ampliatus, whom I love in the Lord.
+  - name: Romans 16:9
+    orderIndex: 8
+    osisId: Rom.16.9
+    sblId: Rom 16:9
+    shortName: Rom 16:9
+    text: Greet Urbanus, our fellow worker in Christ, and my dear friend Stachys.
+  - name: Romans 16:10
+    orderIndex: 9
+    osisId: Rom.16.10
+    sblId: Rom 16:10
+    shortName: Rom 16:10
+    text: Greet Apelles, tested and approved in Christ. Greet those who belong to
+      the household of Aristobulus.
+  - name: Romans 16:11
+    orderIndex: 10
+    osisId: Rom.16.11
+    sblId: Rom 16:11
+    shortName: Rom 16:11
+    text: Greet Herodion, my relative. Greet those in the household of Narcissus who
+      are in the Lord.
+  - name: Romans 16:12
+    orderIndex: 11
+    osisId: Rom.16.12
+    sblId: Rom 16:12
+    shortName: Rom 16:12
+    text: Greet Tryphena and Tryphosa, those women who work hard in the Lord. Greet
+      my dear friend Persis, another woman who has worked very hard in the Lord.
+  - name: Romans 16:13
+    orderIndex: 12
+    osisId: Rom.16.13
+    sblId: Rom 16:13
+    shortName: Rom 16:13
+    text: Greet Rufus, chosen in the Lord, and his mother, who has been a mother to
+      me, too.
+  - name: Romans 16:14
+    orderIndex: 13
+    osisId: Rom.16.14
+    sblId: Rom 16:14
+    shortName: Rom 16:14
+    text: Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the brothers with
+      them.
+  - name: Romans 16:15
+    orderIndex: 14
+    osisId: Rom.16.15
+    sblId: Rom 16:15
+    shortName: Rom 16:15
+    text: Greet Philologus, Julia, Nereus and his sister, and Olympas and all the
+      saints with them.
+  - name: Romans 16:16
+    orderIndex: 15
+    osisId: Rom.16.16
+    sblId: Rom 16:16
+    shortName: Rom 16:16
+    text: Greet one another with a holy kiss. All the churches of Christ send greetings.
+  - name: Romans 16:17
+    orderIndex: 16
+    osisId: Rom.16.17
+    sblId: Rom 16:17
+    shortName: Rom 16:17
+    text: I urge you, brothers, to watch out for those who cause divisions and put
+      obstacles in your way that are contrary to the teaching you have learned. Keep
+      away from them.
+  - name: Romans 16:18
+    orderIndex: 17
+    osisId: Rom.16.18
+    sblId: Rom 16:18
+    shortName: Rom 16:18
+    text: For such people are not serving our Lord Christ, but their own appetites.
+      By smooth talk and flattery they deceive the minds of naive people.
+  - name: Romans 16:19
+    orderIndex: 18
+    osisId: Rom.16.19
+    sblId: Rom 16:19
+    shortName: Rom 16:19
+    text: Everyone has heard about your obedience, so I am full of joy over you; but
+      I want you to be wise about what is good, and innocent about what is evil.
+  - name: Romans 16:20
+    orderIndex: 19
+    osisId: Rom.16.20
+    sblId: Rom 16:20
+    shortName: Rom 16:20
+    text: The God of peace will soon crush Satan under your feet. The grace of our
+      Lord Jesus be with you.
+  - name: Romans 16:21
+    orderIndex: 20
+    osisId: Rom.16.21
+    sblId: Rom 16:21
+    shortName: Rom 16:21
+    text: Timothy, my fellow worker, sends his greetings to you, as do Lucius, Jason
+      and Sosipater, my relatives.
+  - name: Romans 16:22
+    orderIndex: 21
+    osisId: Rom.16.22
+    sblId: Rom 16:22
+    shortName: Rom 16:22
+    text: I, Tertius, who wrote down this letter, greet you in the Lord.
+  - name: Romans 16:23
+    orderIndex: 22
+    osisId: Rom.16.23
+    sblId: Rom 16:23
+    shortName: Rom 16:23
+    text: Gaius, whose hospitality I and the whole church here enjoy, sends you his
+      greetings. Erastus, who is the city's director of public works, and our brother
+      Quartus send you their greetings.
+  - name: Romans 16:24
+    orderIndex: 23
+    osisId: Rom.16.24
+    sblId: Rom 16:24
+    shortName: Rom 16:24
+    text: See Footnote
+  - name: Romans 16:25
+    orderIndex: 24
+    osisId: Rom.16.25
+    sblId: Rom 16:25
+    shortName: Rom 16:25
+    text: Now to him who is able to establish you by my gospel and the proclamation
+      of Jesus Christ, according to the revelation of the mystery hidden for long
+      ages past,
+  - name: Romans 16:26
+    orderIndex: 25
+    osisId: Rom.16.26
+    sblId: Rom 16:26
+    shortName: Rom 16:26
+    text: but now revealed and made known through the prophetic writings by the command
+      of the eternal God, so that all nations might believe and obey him--
+  - name: Romans 16:27
+    orderIndex: 26
+    osisId: Rom.16.27
+    sblId: Rom 16:27
+    shortName: Rom 16:27
+    text: to the only wise God be glory forever through Jesus Christ! Amen.
+  versesCount: 27
+chaptersCount: 16
+name: Romans
+orderIndex: 44
+osisId: Rom
+sblId: Rom
+shortName: Rom
+versesCount: 433

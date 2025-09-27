@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="book" n="Phlm">
+        <div type="chapter" n="1">
+          <ab n="1">Paulus vinctus Iesu Christi et Timotheus frater Philemoni dilecto et adiutori nostro</ab>
+          <ab n="2">et Appiae sorori et Archippo commilitoni nostro et ecclesiae quae in domo tua est</ab>
+          <ab n="3">gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo</ab>
+          <ab n="4">gratias ago Deo meo semper memoriam tui faciens in orationibus meis</ab>
+          <ab n="5">audiens caritatem tuam et fidem quam habes in Domino Iesu et in omnes sanctos</ab>
+          <ab n="6">ut communicatio fidei tuae evidens fiat in agnitione omnis boni in nobis in Christo Iesu</ab>
+          <ab n="7">gaudium enim magnum habui et consolationem in caritate tua quia viscera sanctorum requieverunt per te frater</ab>
+          <ab n="8">propter quod multam fiduciam habentes in Christo Iesu imperandi tibi quod ad rem pertinet</ab>
+          <ab n="9">propter caritatem magis obsecro cum sis talis ut Paulus senex nunc autem et vinctus Iesu Christi</ab>
+          <ab n="10">obsecro te de meo filio quem genui in vinculis Onesimo</ab>
+          <ab n="11">qui tibi aliquando inutilis fuit nunc autem et tibi et mihi utilis</ab>
+          <ab n="12">quem remisi tu autem illum id est mea viscera suscipe</ab>
+          <ab n="13">quem ego volueram mecum detinere ut pro te mihi ministraret in vinculis evangelii</ab>
+          <ab n="14">sine consilio autem tuo nihil volui facere uti ne velut ex necessitate bonum tuum esset sed voluntarium</ab>
+          <ab n="15">forsitan enim ideo discessit ad horam a te ut aeternum illum recipere</ab>
+          <ab n="16">iam non ut servum sed plus servo carissimum fratrem maxime mihi quanto autem magis tibi et in carne et in Domino</ab>
+          <ab n="17">si ergo habes me socium suscipe illum sicut me</ab>
+          <ab n="18">si autem aliquid nocuit tibi aut debet hoc mihi inputa</ab>
+          <ab n="19">ego Paulus scripsi mea manu ego reddam ut non dicam tibi quod et te ipsum mihi debes</ab>
+          <ab n="20">ita frater ego te fruar in Domino refice viscera mea in Domino</ab>
+          <ab n="21">confidens oboedientia tua scripsi tibi sciens quoniam et super id quod dico facies</ab>
+          <ab n="22">simul autem et para mihi hospitium nam spero per orationes vestras donari me vobis</ab>
+          <ab n="23">salutat te Epaphras concaptivus meus in Christo Iesu</ab>
+          <ab n="24">Marcus Aristarchus Demas Lucas adiutores mei</ab>
+          <ab n="25">gratia Domini nostri Iesu Christi cum spiritu vestro amen</ab>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="Luke" sblId="Luke" name="路加福音" shortName="路" orderIndex="41" chaptersCount="24" versesCount="1151">
+  <chapters>
+    <Chapter osisId="Luke.1" sblId="Luke 1" name="路加福音 1" shortName="路 1" orderIndex="0" versesCount="80">
+      <verses>
+        <Verse osisId="Luke.1.1" sblId="Luke 1:1" name="路加福音 1:1" shortName="路 1:1" orderIndex="0">提阿非羅 大人哪，有好些人提筆作書，述說在我們中間所實現的事，是照傳道的人從起初親眼看見又傳給我們的。這些事我從起頭都詳細考察了，我也想按著次序寫給你，</Verse>
+        <Verse osisId="Luke.1.2" sblId="Luke 1:2" name="路加福音 1:2" shortName="路 1:2" orderIndex="1" />
+        <Verse osisId="Luke.1.3" sblId="Luke 1:3" name="路加福音 1:3" shortName="路 1:3" orderIndex="2" />
+        <Verse osisId="Luke.1.4" sblId="Luke 1:4" name="路加福音 1:4" shortName="路 1:4" orderIndex="3">要讓你知道所學的道都是確實的。</Verse>
+        <Verse osisId="Luke.1.5" sblId="Luke 1:5" name="路加福音 1:5" shortName="路 1:5" orderIndex="4">在 希律 作 猶太 王的時候， 亞比雅 班裏有一個祭司，名叫 撒迦利亞 ；他妻子是 亞倫 的後代，名叫 伊利莎白 。</Verse>
+        <Verse osisId="Luke.1.6" sblId="Luke 1:6" name="路加福音 1:6" shortName="路 1:6" orderIndex="5">他們兩人在上帝面前都是義人，遵行主的一切誡命和條例，沒有可指責的。</Verse>
+        <Verse osisId="Luke.1.7" sblId="Luke 1:7" name="路加福音 1:7" shortName="路 1:7" orderIndex="6">只是他們沒有孩子，因為 伊利莎白 不生育，兩個人又年紀老邁了。</Verse>
+        <Verse osisId="Luke.1.8" sblId="Luke 1:8" name="路加福音 1:8" shortName="路 1:8" orderIndex="7">撒迦利亞 按班次在上帝面前執行祭司的職務，</Verse>
+        <Verse osisId="Luke.1.9" sblId="Luke 1:9" name="路加福音 1:9" shortName="路 1:9" orderIndex="8">照祭司的規矩抽籤，進到主的殿裏燒香。</Verse>
+        <Verse osisId="Luke.1.10" sblId="Luke 1:10" name="路加福音 1:10" shortName="路 1:10" orderIndex="9">燒香的時候，眾百姓在外面禱告。</Verse>
+        <Verse osisId="Luke.1.11" sblId="Luke 1:11" name="路加福音 1:11" shortName="路 1:11" orderIndex="10">有主的一個使者站在香壇的右邊，向他顯現。</Verse>
+        <Verse osisId="Luke.1.12" sblId="Luke 1:12" name="路加福音 1:12" shortName="路 1:12" orderIndex="11">撒迦利亞 看見，就驚慌害怕。</Verse>
+        <Verse osisId="Luke.1.13" sblId="Luke 1:13" name="路加福音 1:13" shortName="路 1:13" orderIndex="12">天使對他說：「 撒迦利亞 ，不要害怕，因為你的祈禱已經被聽見了。你的妻子 伊利莎白 要給你生一個兒子，你要給他起名叫 約翰 。</Verse>
+        <Verse osisId="Luke.1.14" sblId="Luke 1:14" name="路加福音 1:14" shortName="路 1:14" orderIndex="13">你必歡喜快樂；有許多人因他出世也必喜樂。</Verse>
+        <Verse osisId="Luke.1.15" sblId="Luke 1:15" name="路加福音 1:15" shortName="路 1:15" orderIndex="14">他在主面前將要為大，淡酒烈酒都不喝，從母腹裏就被聖靈充滿。</Verse>
+        <Verse osisId="Luke.1.16" sblId="Luke 1:16" name="路加福音 1:16" shortName="路 1:16" orderIndex="15">他要使許多 以色列 人回轉，歸於主—他們的上帝。</Verse>
+        <Verse osisId="Luke.1.17" sblId="Luke 1:17" name="路加福音 1:17" shortName="路 1:17" orderIndex="16">他將有 以利亞 的精神和能力，走在主的前面，叫父親的心轉向兒女，叫悖逆的人轉向義人的智慧，又為主預備迎接他的百姓。」</Verse>
+        <Verse osisId="Luke.1.18" sblId="Luke 1:18" name="路加福音 1:18" shortName="路 1:18" orderIndex="17">撒迦利亞 對天使說：「我怎麼能知道這事呢？我已經老了，我的妻子也年紀老邁了。」</Verse>
+        <Verse osisId="Luke.1.19" sblId="Luke 1:19" name="路加福音 1:19" shortName="路 1:19" orderIndex="18">天使回答他說：「我是站在上帝面前的 加百列 ，奉差遣來對你說話，把這好信息報給你。</Verse>
+        <Verse osisId="Luke.1.20" sblId="Luke 1:20" name="路加福音 1:20" shortName="路 1:20" orderIndex="19">到了時候，這些話必然應驗；只因你不信我的話，你會成為啞巴，不能說話，直到這些事實現的日子。」</Verse>
+        <Verse osisId="Luke.1.21" sblId="Luke 1:21" name="路加福音 1:21" shortName="路 1:21" orderIndex="20">百姓等候 撒迦利亞 ，詫異他在聖所裏遲延那麼久。</Verse>
+        <Verse osisId="Luke.1.22" sblId="Luke 1:22" name="路加福音 1:22" shortName="路 1:22" orderIndex="21">到他出來，卻不能和他們說話，他們就知道他在聖所裏見了異象；他直向他們打手勢，因為他成了啞巴。</Verse>
+        <Verse osisId="Luke.1.23" sblId="Luke 1:23" name="路加福音 1:23" shortName="路 1:23" orderIndex="22">他供職的日子一滿，就回家去了。</Verse>
+        <Verse osisId="Luke.1.24" sblId="Luke 1:24" name="路加福音 1:24" shortName="路 1:24" orderIndex="23">這些日子以後，他的妻子 伊利莎白 就懷孕，隱藏了五個月；</Verse>
+        <Verse osisId="Luke.1.25" sblId="Luke 1:25" name="路加福音 1:25" shortName="路 1:25" orderIndex="24">她說：「主在眷顧我的日子，這樣看顧我，要除掉我在人前的羞恥。」</Verse>
+        <Verse osisId="Luke.1.26" sblId="Luke 1:26" name="路加福音 1:26" shortName="路 1:26" orderIndex="25">到了第六個月，天使 加百列 奉上帝的差遣往 加利利 的一座城去，這城名叫 拿撒勒 ，</Verse>
+        <Verse osisId="Luke.1.27" sblId="Luke 1:27" name="路加福音 1:27" shortName="路 1:27" orderIndex="26">到一個童女那裏，她已經許配 大衛 家的一個人，名叫 約瑟 ；童女的名字叫 馬利亞 。</Verse>
+        <Verse osisId="Luke.1.28" sblId="Luke 1:28" name="路加福音 1:28" shortName="路 1:28" orderIndex="27">天使進去，對她說：「蒙大恩的女子，你好，主和你同在！」</Verse>
+        <Verse osisId="Luke.1.29" sblId="Luke 1:29" name="路加福音 1:29" shortName="路 1:29" orderIndex="28">馬利亞 因這話就很驚慌，又反覆思考這樣問候是甚麼意思。</Verse>
+        <Verse osisId="Luke.1.30" sblId="Luke 1:30" name="路加福音 1:30" shortName="路 1:30" orderIndex="29">天使對她說： 「 馬利亞 ，不要怕，你在上帝面前已經蒙恩了。</Verse>
+        <Verse osisId="Luke.1.31" sblId="Luke 1:31" name="路加福音 1:31" shortName="路 1:31" orderIndex="30">你要懷孕生子，要給他起名叫耶穌。</Verse>
+        <Verse osisId="Luke.1.32" sblId="Luke 1:32" name="路加福音 1:32" shortName="路 1:32" orderIndex="31">他將要為大，稱為至高者的兒子； 主上帝要把他祖先 大衛 的王位給他。</Verse>
+        <Verse osisId="Luke.1.33" sblId="Luke 1:33" name="路加福音 1:33" shortName="路 1:33" orderIndex="32">他要作 雅各 家的王，直到永遠； 他的國沒有窮盡。」</Verse>
+        <Verse osisId="Luke.1.34" sblId="Luke 1:34" name="路加福音 1:34" shortName="路 1:34" orderIndex="33">馬利亞 對天使說：「我沒有出嫁，怎麼會有這事呢？」</Verse>
+        <Verse osisId="Luke.1.35" sblId="Luke 1:35" name="路加福音 1:35" shortName="路 1:35" orderIndex="34">天使回答她說： 「聖靈要臨到你身上； 至高者的能力要庇蔭你， 因此，那要出生的聖者要稱為上帝的兒子 。</Verse>
+        <Verse osisId="Luke.1.36" sblId="Luke 1:36" name="路加福音 1:36" shortName="路 1:36" orderIndex="35">況且，你的親戚 伊利莎白 ，就是那素來稱為不生育的，在年老的時候也懷了男胎，現在懷孕六個月了。</Verse>
+        <Verse osisId="Luke.1.37" sblId="Luke 1:37" name="路加福音 1:37" shortName="路 1:37" orderIndex="36">因為，出於上帝的話，沒有一句不帶能力的。」</Verse>
+        <Verse osisId="Luke.1.38" sblId="Luke 1:38" name="路加福音 1:38" shortName="路 1:38" orderIndex="37">馬利亞 說：「我是主的使女，願意照你的話實現在我身上。」於是天使離開她去了。</Verse>
+        <Verse osisId="Luke.1.39" sblId="Luke 1:39" name="路加福音 1:39" shortName="路 1:39" orderIndex="38">在那些日子， 馬利亞 起身，急忙前往山區，來到 猶大 的一座城，</Verse>
+        <Verse osisId="Luke.1.40" sblId="Luke 1:40" name="路加福音 1:40" shortName="路 1:40" orderIndex="39">進了 撒迦利亞 的家，向 伊利莎白 問安。</Verse>
+        <Verse osisId="Luke.1.41" sblId="Luke 1:41" name="路加福音 1:41" shortName="路 1:41" orderIndex="40">伊利莎白 一聽到 馬利亞 問安，所懷的胎就在腹裏跳動。 伊利莎白 被聖靈充滿，</Verse>
+        <Verse osisId="Luke.1.42" sblId="Luke 1:42" name="路加福音 1:42" shortName="路 1:42" orderIndex="41">高聲喊著說： 「你在婦女中是有福的！ 你所懷的胎也是有福的！</Verse>
+        <Verse osisId="Luke.1.43" sblId="Luke 1:43" name="路加福音 1:43" shortName="路 1:43" orderIndex="42">我主的母親到我這裏來，為何這事臨到我呢？</Verse>
+        <Verse osisId="Luke.1.44" sblId="Luke 1:44" name="路加福音 1:44" shortName="路 1:44" orderIndex="43">因為你問安的聲音一入我耳，我腹裏的胎就歡喜跳動。</Verse>
+        <Verse osisId="Luke.1.45" sblId="Luke 1:45" name="路加福音 1:45" shortName="路 1:45" orderIndex="44">這相信的女子是有福的！因為主對她所說的話都要應驗。」</Verse>
+        <Verse osisId="Luke.1.46" sblId="Luke 1:46" name="路加福音 1:46" shortName="路 1:46" orderIndex="45">馬利亞 說： 「我心尊主為大；</Verse>
+        <Verse osisId="Luke.1.47" sblId="Luke 1:47" name="路加福音 1:47" shortName="路 1:47" orderIndex="46">我靈以上帝我的救主為樂；</Verse>
+        <Verse osisId="Luke.1.48" sblId="Luke 1:48" name="路加福音 1:48" shortName="路 1:48" orderIndex="47">因為他顧念他使女的卑微； 從今以後，萬代要稱我有福。</Verse>
+        <Verse osisId="Luke.1.49" sblId="Luke 1:49" name="路加福音 1:49" shortName="路 1:49" orderIndex="48">因為那有權能的為我做了大事； 他的名是聖的。</Verse>
+        <Verse osisId="Luke.1.50" sblId="Luke 1:50" name="路加福音 1:50" shortName="路 1:50" orderIndex="49">他憐憫敬畏他的人， 直到世世代代。</Verse>
+        <Verse osisId="Luke.1.51" sblId="Luke 1:51" name="路加福音 1:51" shortName="路 1:51" orderIndex="50">他用膀臂施展大能； 他趕散心裏妄想的狂傲人。</Verse>
+        <Verse osisId="Luke.1.52" sblId="Luke 1:52" name="路加福音 1:52" shortName="路 1:52" orderIndex="51">他叫有權柄的失位， 叫卑賤的升高。</Verse>
+        <Verse osisId="Luke.1.53" sblId="Luke 1:53" name="路加福音 1:53" shortName="路 1:53" orderIndex="52">他叫飢餓的飽餐美食， 叫富足的空手回去。</Verse>
+        <Verse osisId="Luke.1.54" sblId="Luke 1:54" name="路加福音 1:54" shortName="路 1:54" orderIndex="53">他扶助了他的僕人 以色列 ，不忘記施憐憫，</Verse>
+        <Verse osisId="Luke.1.55" sblId="Luke 1:55" name="路加福音 1:55" shortName="路 1:55" orderIndex="54">正如他對我們的列祖說過， 『憐憫 亞伯拉罕 和他的後裔，直到永遠。』」</Verse>
+        <Verse osisId="Luke.1.56" sblId="Luke 1:56" name="路加福音 1:56" shortName="路 1:56" orderIndex="55">馬利亞 和 伊利莎白 同住，約有三個月，然後回家去了。</Verse>
+        <Verse osisId="Luke.1.57" sblId="Luke 1:57" name="路加福音 1:57" shortName="路 1:57" orderIndex="56">伊利莎白 的產期到了，生了一個兒子。</Verse>
+        <Verse osisId="Luke.1.58" sblId="Luke 1:58" name="路加福音 1:58" shortName="路 1:58" orderIndex="57">鄰里親屬聽見主向她大施憐憫，就和她一同歡樂。</Verse>
+        <Verse osisId="Luke.1.59" sblId="Luke 1:59" name="路加福音 1:59" shortName="路 1:59" orderIndex="58">到了第八日，他們來給孩子行割禮，並要照他父親的名字叫他 撒迦利亞 。</Verse>
+        <Verse osisId="Luke.1.60" sblId="Luke 1:60" name="路加福音 1:60" shortName="路 1:60" orderIndex="59">他母親回應說：「不！要叫他 約翰 。」</Verse>
+        <Verse osisId="Luke.1.61" sblId="Luke 1:61" name="路加福音 1:61" shortName="路 1:61" orderIndex="60">他們對她說：「你親族中沒有叫這名字的。」</Verse>
+        <Verse osisId="Luke.1.62" sblId="Luke 1:62" name="路加福音 1:62" shortName="路 1:62" orderIndex="61">他們就向他父親打手勢，問他這孩子要叫甚麼名字。</Verse>
+        <Verse osisId="Luke.1.63" sblId="Luke 1:63" name="路加福音 1:63" shortName="路 1:63" orderIndex="62">他要了一塊寫字的板，寫上：「他的名字是 約翰 。」他們就都驚訝。</Verse>
+        <Verse osisId="Luke.1.64" sblId="Luke 1:64" name="路加福音 1:64" shortName="路 1:64" orderIndex="63">撒迦利亞 的口立刻開了，舌頭也鬆了，就開始說話稱頌上帝。</Verse>
+        <Verse osisId="Luke.1.65" sblId="Luke 1:65" name="路加福音 1:65" shortName="路 1:65" orderIndex="64">周圍居住的人都懼怕；這一切的事就傳遍了 猶太 山區。</Verse>
+        <Verse osisId="Luke.1.66" sblId="Luke 1:66" name="路加福音 1:66" shortName="路 1:66" orderIndex="65">凡聽見的人都把這事放在心裏，他們說：「這個孩子將來會怎麼樣呢？」因為有主的手與他同在。</Verse>
+        <Verse osisId="Luke.1.67" sblId="Luke 1:67" name="路加福音 1:67" shortName="路 1:67" orderIndex="66">他父親 撒迦利亞 被聖靈充滿，就預言說：</Verse>
+        <Verse osisId="Luke.1.68" sblId="Luke 1:68" name="路加福音 1:68" shortName="路 1:68" orderIndex="67">「主— 以色列 的上帝是應當稱頌的！ 因他眷顧他的百姓，為他們施行救贖，</Verse>
+        <Verse osisId="Luke.1.69" sblId="Luke 1:69" name="路加福音 1:69" shortName="路 1:69" orderIndex="68">在他僕人 大衛 家中， 為我們興起了拯救的角，</Verse>
+        <Verse osisId="Luke.1.70" sblId="Luke 1:70" name="路加福音 1:70" shortName="路 1:70" orderIndex="69">正如主藉著古時候聖先知的口所說的，</Verse>
+        <Verse osisId="Luke.1.71" sblId="Luke 1:71" name="路加福音 1:71" shortName="路 1:71" orderIndex="70">『他拯救我們脫離仇敵， 脫離一切恨我們之人的手。</Verse>
+        <Verse osisId="Luke.1.72" sblId="Luke 1:72" name="路加福音 1:72" shortName="路 1:72" orderIndex="71">他向我們列祖施憐憫， 記得他的聖約，</Verse>
+        <Verse osisId="Luke.1.73" sblId="Luke 1:73" name="路加福音 1:73" shortName="路 1:73" orderIndex="72">就是他對我們祖宗 亞伯拉罕 所起的誓，</Verse>
+        <Verse osisId="Luke.1.74" sblId="Luke 1:74" name="路加福音 1:74" shortName="路 1:74" orderIndex="73">叫我們既從仇敵手中被救出來， 就可以終身在他面前， 無所懼怕地用聖潔和公義事奉他。</Verse>
+        <Verse osisId="Luke.1.75" sblId="Luke 1:75" name="路加福音 1:75" shortName="路 1:75" orderIndex="74" />
+        <Verse osisId="Luke.1.76" sblId="Luke 1:76" name="路加福音 1:76" shortName="路 1:76" orderIndex="75">孩子啊，你要稱為至高者的先知； 因為你要走在主的前面，為他預備道路，</Verse>
+        <Verse osisId="Luke.1.77" sblId="Luke 1:77" name="路加福音 1:77" shortName="路 1:77" orderIndex="76">叫他的百姓因罪得赦， 認識救恩；</Verse>
+        <Verse osisId="Luke.1.78" sblId="Luke 1:78" name="路加福音 1:78" shortName="路 1:78" orderIndex="77">因我們上帝憐憫的心腸， 叫清晨的日光從高天臨到我們，</Verse>
+        <Verse osisId="Luke.1.79" sblId="Luke 1:79" name="路加福音 1:79" shortName="路 1:79" orderIndex="78">要照亮坐在黑暗中死蔭裏的人， 把我們的腳引到和平的路上。』」</Verse>
+        <Verse osisId="Luke.1.80" sblId="Luke 1:80" name="路加福音 1:80" shortName="路 1:80" orderIndex="79">這孩子漸漸長大，心靈堅強，住在曠野，直到他在 以色列 人面前公開出現的日子。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.2" sblId="Luke 2" name="路加福音 2" shortName="路 2" orderIndex="1" versesCount="52">
+      <verses>
+        <Verse osisId="Luke.2.1" sblId="Luke 2:1" name="路加福音 2:1" shortName="路 2:1" orderIndex="0">在那些日子，凱撒 奧古斯都 降旨，叫全國人民都登記戶籍。</Verse>
+        <Verse osisId="Luke.2.2" sblId="Luke 2:2" name="路加福音 2:2" shortName="路 2:2" orderIndex="1">這第一次登記戶籍是在 居里扭 作 敘利亞 總督的時候行的。</Verse>
+        <Verse osisId="Luke.2.3" sblId="Luke 2:3" name="路加福音 2:3" shortName="路 2:3" orderIndex="2">眾人各歸各城，辦理登記。</Verse>
+        <Verse osisId="Luke.2.4" sblId="Luke 2:4" name="路加福音 2:4" shortName="路 2:4" orderIndex="3">約瑟 也從 加利利 的 拿撒勒城 上 猶太 去，到了 大衛 的城名叫 伯利恆 ，因為他是 大衛 家族的人，</Verse>
+        <Verse osisId="Luke.2.5" sblId="Luke 2:5" name="路加福音 2:5" shortName="路 2:5" orderIndex="4">要和他所聘之妻 馬利亞 一同登記戶籍。那時 馬利亞 已經懷孕。</Verse>
+        <Verse osisId="Luke.2.6" sblId="Luke 2:6" name="路加福音 2:6" shortName="路 2:6" orderIndex="5">他們在那裏的時候， 馬利亞 的產期到了，</Verse>
+        <Verse osisId="Luke.2.7" sblId="Luke 2:7" name="路加福音 2:7" shortName="路 2:7" orderIndex="6">就生了頭胎的兒子，用布包起來，放在馬槽裏，因為客店裏沒有地方。</Verse>
+        <Verse osisId="Luke.2.8" sblId="Luke 2:8" name="路加福音 2:8" shortName="路 2:8" orderIndex="7">在 伯利恆 的野外有牧羊人，夜間值班看守羊群。</Verse>
+        <Verse osisId="Luke.2.9" sblId="Luke 2:9" name="路加福音 2:9" shortName="路 2:9" orderIndex="8">有主的一個使者站在他們旁邊，主的榮光四面照著他們，牧羊人就很懼怕。</Verse>
+        <Verse osisId="Luke.2.10" sblId="Luke 2:10" name="路加福音 2:10" shortName="路 2:10" orderIndex="9">那天使對他們說：「不要懼怕！看哪！因為我報給你們大喜的信息，是關乎萬民的：</Verse>
+        <Verse osisId="Luke.2.11" sblId="Luke 2:11" name="路加福音 2:11" shortName="路 2:11" orderIndex="10">因今天在 大衛 的城裏，為你們生了救主，就是主基督。</Verse>
+        <Verse osisId="Luke.2.12" sblId="Luke 2:12" name="路加福音 2:12" shortName="路 2:12" orderIndex="11">你們要看見一個嬰孩，包著布，臥在馬槽裏，那就是給你們的記號。」</Verse>
+        <Verse osisId="Luke.2.13" sblId="Luke 2:13" name="路加福音 2:13" shortName="路 2:13" orderIndex="12">忽然，有一大隊天兵同那天使讚美上帝說：</Verse>
+        <Verse osisId="Luke.2.14" sblId="Luke 2:14" name="路加福音 2:14" shortName="路 2:14" orderIndex="13">「在至高之處榮耀歸與上帝！ 在地上平安歸與他所喜悅的人！」</Verse>
+        <Verse osisId="Luke.2.15" sblId="Luke 2:15" name="路加福音 2:15" shortName="路 2:15" orderIndex="14">眾天使離開他們，升天去了。牧羊人彼此說：「我們往 伯利恆 去，看看所成的事，就是主所告訴我們的。」</Verse>
+        <Verse osisId="Luke.2.16" sblId="Luke 2:16" name="路加福音 2:16" shortName="路 2:16" orderIndex="15">他們急忙去了，找到 馬利亞 和 約瑟 ，還有那嬰孩臥在馬槽裏。</Verse>
+        <Verse osisId="Luke.2.17" sblId="Luke 2:17" name="路加福音 2:17" shortName="路 2:17" orderIndex="16">他們看見，就把天使論這孩子的話傳開了。</Verse>
+        <Verse osisId="Luke.2.18" sblId="Luke 2:18" name="路加福音 2:18" shortName="路 2:18" orderIndex="17">聽見的人都詫異牧羊人對他們所說的話。</Verse>
+        <Verse osisId="Luke.2.19" sblId="Luke 2:19" name="路加福音 2:19" shortName="路 2:19" orderIndex="18">馬利亞 卻把這一切的事存在心裏，反覆思考。</Verse>
+        <Verse osisId="Luke.2.20" sblId="Luke 2:20" name="路加福音 2:20" shortName="路 2:20" orderIndex="19">牧羊人回去了，因所聽見所看見的一切事，正如天使向他們所說的，就歸榮耀於上帝，讚美他。</Verse>
+        <Verse osisId="Luke.2.21" sblId="Luke 2:21" name="路加福音 2:21" shortName="路 2:21" orderIndex="20">滿了八天，他們就給孩子行割禮，又給他起名叫耶穌；這是他還沒有在母腹裏成胎以前天使所起的名。</Verse>
+        <Verse osisId="Luke.2.22" sblId="Luke 2:22" name="路加福音 2:22" shortName="路 2:22" orderIndex="21">按 摩西 律法滿了潔淨的日子，他們就帶著孩子上 耶路撒冷 去，要把他獻給主。</Verse>
+        <Verse osisId="Luke.2.23" sblId="Luke 2:23" name="路加福音 2:23" shortName="路 2:23" orderIndex="22">正如主的律法上所記：「凡頭生的男子必歸主為聖」；</Verse>
+        <Verse osisId="Luke.2.24" sblId="Luke 2:24" name="路加福音 2:24" shortName="路 2:24" orderIndex="23">又要照主的律法上所說，用一對斑鳩，或用兩隻雛鴿獻祭。</Verse>
+        <Verse osisId="Luke.2.25" sblId="Luke 2:25" name="路加福音 2:25" shortName="路 2:25" orderIndex="24">那時，在 耶路撒冷 有一個人，名叫 西面 ；這人又公義又虔誠，素常盼望 以色列 的安慰者來到，又有聖靈在他身上。</Verse>
+        <Verse osisId="Luke.2.26" sblId="Luke 2:26" name="路加福音 2:26" shortName="路 2:26" orderIndex="25">他得了聖靈的啟示，知道自己未死以前必看見主所立的基督。</Verse>
+        <Verse osisId="Luke.2.27" sblId="Luke 2:27" name="路加福音 2:27" shortName="路 2:27" orderIndex="26">他受了聖靈的感動，進入聖殿，正遇見耶穌的父母抱著孩子進來，要照律法的規矩而行。</Verse>
+        <Verse osisId="Luke.2.28" sblId="Luke 2:28" name="路加福音 2:28" shortName="路 2:28" orderIndex="27">西面 就把他抱過來，稱頌上帝說：</Verse>
+        <Verse osisId="Luke.2.29" sblId="Luke 2:29" name="路加福音 2:29" shortName="路 2:29" orderIndex="28">「主啊，如今可以照你的話， 容你的僕人安然去世；</Verse>
+        <Verse osisId="Luke.2.30" sblId="Luke 2:30" name="路加福音 2:30" shortName="路 2:30" orderIndex="29">因為我的眼睛已經看見你的救恩，</Verse>
+        <Verse osisId="Luke.2.31" sblId="Luke 2:31" name="路加福音 2:31" shortName="路 2:31" orderIndex="30">就是你在萬民面前所預備的：</Verse>
+        <Verse osisId="Luke.2.32" sblId="Luke 2:32" name="路加福音 2:32" shortName="路 2:32" orderIndex="31">是啟示外邦人的光， 是你民 以色列 的榮耀。」</Verse>
+        <Verse osisId="Luke.2.33" sblId="Luke 2:33" name="路加福音 2:33" shortName="路 2:33" orderIndex="32">孩子的父母因論耶穌的這些話就驚訝。</Verse>
+        <Verse osisId="Luke.2.34" sblId="Luke 2:34" name="路加福音 2:34" shortName="路 2:34" orderIndex="33">西面 給他們祝福，又對孩子的母親 馬利亞 說：「這孩子被立，是要叫 以色列 中許多人跌倒，許多人興起；又要成為毀謗的對象，</Verse>
+        <Verse osisId="Luke.2.35" sblId="Luke 2:35" name="路加福音 2:35" shortName="路 2:35" orderIndex="34">叫許多人心裏的意念顯露出來；你自己的心也要被劍刺透。」</Verse>
+        <Verse osisId="Luke.2.36" sblId="Luke 2:36" name="路加福音 2:36" shortName="路 2:36" orderIndex="35">又有位女先知，名叫 亞拿 ，是 亞設 支派 法內力 的女兒，年紀已經老邁，從童女出嫁，同丈夫住了七年，</Verse>
+        <Verse osisId="Luke.2.37" sblId="Luke 2:37" name="路加福音 2:37" shortName="路 2:37" orderIndex="36">就寡居了，現在已經八十四歲 。她不離開聖殿，禁食祈求，晝夜事奉上帝。</Verse>
+        <Verse osisId="Luke.2.38" sblId="Luke 2:38" name="路加福音 2:38" shortName="路 2:38" orderIndex="37">正當那時，她進前來感謝上帝，對一切盼望 耶路撒冷 得救贖的人講論這孩子的事。</Verse>
+        <Verse osisId="Luke.2.39" sblId="Luke 2:39" name="路加福音 2:39" shortName="路 2:39" orderIndex="38">約瑟 和 馬利亞 照主的律法辦完了一切的事，就回 加利利 ，到自己的城 拿撒勒 去了。</Verse>
+        <Verse osisId="Luke.2.40" sblId="Luke 2:40" name="路加福音 2:40" shortName="路 2:40" orderIndex="39">孩子漸漸長大，強健起來，充滿智慧，又有上帝的恩典在他身上。</Verse>
+        <Verse osisId="Luke.2.41" sblId="Luke 2:41" name="路加福音 2:41" shortName="路 2:41" orderIndex="40">每年逾越節，他父母都上 耶路撒冷 去。</Verse>
+        <Verse osisId="Luke.2.42" sblId="Luke 2:42" name="路加福音 2:42" shortName="路 2:42" orderIndex="41">當他十二歲的時候，他們按著過節的規矩上去。</Verse>
+        <Verse osisId="Luke.2.43" sblId="Luke 2:43" name="路加福音 2:43" shortName="路 2:43" orderIndex="42">守滿了節期，他們回去，孩童耶穌仍舊在 耶路撒冷 。他的父母並不知道，</Verse>
+        <Verse osisId="Luke.2.44" sblId="Luke 2:44" name="路加福音 2:44" shortName="路 2:44" orderIndex="43">以為他在同行的人中間，走了一天的路程才在親屬和熟悉的人中找他，</Verse>
+        <Verse osisId="Luke.2.45" sblId="Luke 2:45" name="路加福音 2:45" shortName="路 2:45" orderIndex="44">既找不著，就回 耶路撒冷 去找他。</Verse>
+        <Verse osisId="Luke.2.46" sblId="Luke 2:46" name="路加福音 2:46" shortName="路 2:46" orderIndex="45">過了三天，他們發現他在聖殿裏，坐在教師中間，一面聽，一面問。</Verse>
+        <Verse osisId="Luke.2.47" sblId="Luke 2:47" name="路加福音 2:47" shortName="路 2:47" orderIndex="46">凡聽見他的人都對他的聰明和應對感到驚奇。</Verse>
+        <Verse osisId="Luke.2.48" sblId="Luke 2:48" name="路加福音 2:48" shortName="路 2:48" orderIndex="47">他父母看見就很驚奇。他母親對他說：「我兒啊，為甚麼對我們這樣做呢？看哪，你父親和我很焦急，到處找你！」</Verse>
+        <Verse osisId="Luke.2.49" sblId="Luke 2:49" name="路加福音 2:49" shortName="路 2:49" orderIndex="48">耶穌對他們說：「為甚麼找我呢？難道你們不知道我應當在我父的家裏嗎？ 」</Verse>
+        <Verse osisId="Luke.2.50" sblId="Luke 2:50" name="路加福音 2:50" shortName="路 2:50" orderIndex="49">他所說的這話，他們不明白。</Verse>
+        <Verse osisId="Luke.2.51" sblId="Luke 2:51" name="路加福音 2:51" shortName="路 2:51" orderIndex="50">他就同他們下去，回到 拿撒勒 ，並且順從他們。他母親把這一切的事都存在心裏。</Verse>
+        <Verse osisId="Luke.2.52" sblId="Luke 2:52" name="路加福音 2:52" shortName="路 2:52" orderIndex="51">耶穌的智慧和身量 ，並上帝和人喜愛他的心，都一齊增長。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.3" sblId="Luke 3" name="路加福音 3" shortName="路 3" orderIndex="2" versesCount="38">
+      <verses>
+        <Verse osisId="Luke.3.1" sblId="Luke 3:1" name="路加福音 3:1" shortName="路 3:1" orderIndex="0">凱撒 提庇留 在位第十五年， 本丟．彼拉多 作 猶太 總督， 希律 作 加利利 分封的王，他兄弟 腓力 作 以土利亞 和 特拉可尼 地區分封的王， 呂撒聶 作 亞比利尼 分封的王，</Verse>
+        <Verse osisId="Luke.3.2" sblId="Luke 3:2" name="路加福音 3:2" shortName="路 3:2" orderIndex="1">亞那 和 該亞法 作大祭司。那時， 撒迦利亞 的兒子 約翰 在曠野裏，上帝的話臨到他。</Verse>
+        <Verse osisId="Luke.3.3" sblId="Luke 3:3" name="路加福音 3:3" shortName="路 3:3" orderIndex="2">他就走遍 約旦河 一帶地方，宣講悔改的洗禮，使罪得赦。</Verse>
+        <Verse osisId="Luke.3.4" sblId="Luke 3:4" name="路加福音 3:4" shortName="路 3:4" orderIndex="3">正如 以賽亞 先知書上所記的話： 「在曠野有聲音呼喊著： 預備主的道， 修直他的路！</Verse>
+        <Verse osisId="Luke.3.5" sblId="Luke 3:5" name="路加福音 3:5" shortName="路 3:5" orderIndex="4">一切山窪都要填滿； 大小山岡都要削平！ 彎彎曲曲的地方要改為筆直； 高高低低的道路要改為平坦！</Verse>
+        <Verse osisId="Luke.3.6" sblId="Luke 3:6" name="路加福音 3:6" shortName="路 3:6" orderIndex="5">凡血肉之軀的，都要看見上帝的救恩！」</Verse>
+        <Verse osisId="Luke.3.7" sblId="Luke 3:7" name="路加福音 3:7" shortName="路 3:7" orderIndex="6">約翰 對那出來要受他洗的眾人說：「毒蛇的孽種啊，誰指示你們逃避那將要來的憤怒呢？</Verse>
+        <Verse osisId="Luke.3.8" sblId="Luke 3:8" name="路加福音 3:8" shortName="路 3:8" orderIndex="7">你們要結出果子來，和悔改的心相稱。不要自己心裏說：『我們有 亞伯拉罕 為祖宗。』我告訴你們，上帝能從這些石頭中給 亞伯拉罕 興起子孫來。</Verse>
+        <Verse osisId="Luke.3.9" sblId="Luke 3:9" name="路加福音 3:9" shortName="路 3:9" orderIndex="8">現在斧子已經放在樹根上，凡不結好果子的樹就砍下來，丟在火裏。」</Verse>
+        <Verse osisId="Luke.3.10" sblId="Luke 3:10" name="路加福音 3:10" shortName="路 3:10" orderIndex="9">眾人問他：「這樣，我們該做甚麼呢？」</Verse>
+        <Verse osisId="Luke.3.11" sblId="Luke 3:11" name="路加福音 3:11" shortName="路 3:11" orderIndex="10">約翰 回答：「有兩件衣裳的，就分給那沒有的；有食物的，也該這樣做。」</Verse>
+        <Verse osisId="Luke.3.12" sblId="Luke 3:12" name="路加福音 3:12" shortName="路 3:12" orderIndex="11">也有稅吏來要受洗，對他說：「老師，我們該做甚麼呢？」</Verse>
+        <Verse osisId="Luke.3.13" sblId="Luke 3:13" name="路加福音 3:13" shortName="路 3:13" orderIndex="12">約翰 對他們說：「除了規定的數目，不要多收。」</Verse>
+        <Verse osisId="Luke.3.14" sblId="Luke 3:14" name="路加福音 3:14" shortName="路 3:14" orderIndex="13">也有士兵問他說：「我們該做甚麼呢？」 約翰 說：「不要勒索任何人，也不要敲詐人；自己有糧餉就該知足。」</Verse>
+        <Verse osisId="Luke.3.15" sblId="Luke 3:15" name="路加福音 3:15" shortName="路 3:15" orderIndex="14">百姓期待基督的來臨；他們心裏猜測，或許 約翰 是基督。</Verse>
+        <Verse osisId="Luke.3.16" sblId="Luke 3:16" name="路加福音 3:16" shortName="路 3:16" orderIndex="15">約翰 對眾人說：「我是用水給你們施洗，但有一位能力比我更大的要來，我就是給他解鞋帶也不配。他要用聖靈與火給你們施洗。</Verse>
+        <Verse osisId="Luke.3.17" sblId="Luke 3:17" name="路加福音 3:17" shortName="路 3:17" orderIndex="16">他手裏拿著簸箕，要揚淨他的穀物，把麥子收在倉裏，把糠用不滅的火燒盡。」</Verse>
+        <Verse osisId="Luke.3.18" sblId="Luke 3:18" name="路加福音 3:18" shortName="路 3:18" orderIndex="17">約翰 又用許多別的話勸百姓，向他們傳福音。</Verse>
+        <Verse osisId="Luke.3.19" sblId="Luke 3:19" name="路加福音 3:19" shortName="路 3:19" orderIndex="18">希律 分封王，因他兄弟之妻 希羅底 的緣故，並因他所做的一切惡事，受了 約翰 的責備。</Verse>
+        <Verse osisId="Luke.3.20" sblId="Luke 3:20" name="路加福音 3:20" shortName="路 3:20" orderIndex="19">希律 在一切事上又添了這一件，就是把 約翰 收在監裏。</Verse>
+        <Verse osisId="Luke.3.21" sblId="Luke 3:21" name="路加福音 3:21" shortName="路 3:21" orderIndex="20">眾百姓都受了洗，耶穌也受了洗。他正禱告的時候，天開了，</Verse>
+        <Verse osisId="Luke.3.22" sblId="Luke 3:22" name="路加福音 3:22" shortName="路 3:22" orderIndex="21">聖靈降在他身上，形狀彷彿鴿子；又有聲音從天上來，說：「你是我的愛子，我喜愛你。」</Verse>
+        <Verse osisId="Luke.3.23" sblId="Luke 3:23" name="路加福音 3:23" shortName="路 3:23" orderIndex="22">耶穌開始傳道，年紀約有三十歲。依人看來，他是 約瑟 的兒子， 約瑟 是 希里 的兒子，</Verse>
+        <Verse osisId="Luke.3.24" sblId="Luke 3:24" name="路加福音 3:24" shortName="路 3:24" orderIndex="23">希里 是 瑪塔 的兒子， 瑪塔 是 利未 的兒子， 利未 是 麥基 的兒子， 麥基 是 雅拿 的兒子， 雅拿 是 約瑟 的兒子，</Verse>
+        <Verse osisId="Luke.3.25" sblId="Luke 3:25" name="路加福音 3:25" shortName="路 3:25" orderIndex="24">約瑟 是 瑪他提亞 的兒子， 瑪他提亞 是 亞摩斯 的兒子， 亞摩斯 是 拿鴻 的兒子， 拿鴻 是 以斯利 的兒子， 以斯利 是 拿該 的兒子，</Verse>
+        <Verse osisId="Luke.3.26" sblId="Luke 3:26" name="路加福音 3:26" shortName="路 3:26" orderIndex="25">拿該 是 瑪押 的兒子， 瑪押 是 瑪他提亞 的兒子， 瑪他提亞 是 西美 的兒子， 西美 是 約瑟 的兒子， 約瑟 是 猶大 的兒子， 猶大 是 約亞拿 的兒子，</Verse>
+        <Verse osisId="Luke.3.27" sblId="Luke 3:27" name="路加福音 3:27" shortName="路 3:27" orderIndex="26">約亞拿 是 利撒 的兒子， 利撒 是 所羅巴伯 的兒子， 所羅巴伯 是 撒拉鐵 的兒子， 撒拉鐵 是 尼利 的兒子， 尼利 是 麥基 的兒子，</Verse>
+        <Verse osisId="Luke.3.28" sblId="Luke 3:28" name="路加福音 3:28" shortName="路 3:28" orderIndex="27">麥基 是 亞底 的兒子， 亞底 是 哥桑 的兒子， 哥桑 是 以摩當 的兒子， 以摩當 是 珥 的兒子， 珥 是 約細 的兒子，</Verse>
+        <Verse osisId="Luke.3.29" sblId="Luke 3:29" name="路加福音 3:29" shortName="路 3:29" orderIndex="28">約細 是 以利以謝 的兒子， 以利以謝 是 約令 的兒子， 約令 是 瑪塔 的兒子， 瑪塔 是 利未 的兒子，</Verse>
+        <Verse osisId="Luke.3.30" sblId="Luke 3:30" name="路加福音 3:30" shortName="路 3:30" orderIndex="29">利未 是 西緬 的兒子， 西緬 是 猶大 的兒子， 猶大 是 約瑟 的兒子， 約瑟 是 約南 的兒子， 約南 是 以利亞敬 的兒子，</Verse>
+        <Verse osisId="Luke.3.31" sblId="Luke 3:31" name="路加福音 3:31" shortName="路 3:31" orderIndex="30">以利亞敬 是 米利亞 的兒子， 米利亞 是 買南 的兒子， 買南 是 瑪達他 的兒子， 瑪達他 是 拿單 的兒子， 拿單 是 大衛 的兒子，</Verse>
+        <Verse osisId="Luke.3.32" sblId="Luke 3:32" name="路加福音 3:32" shortName="路 3:32" orderIndex="31">大衛 是 耶西 的兒子， 耶西 是 俄備得 的兒子， 俄備得 是 波阿斯 的兒子， 波阿斯 是 沙拉 的兒子， 沙拉 是 拿順 的兒子 ，</Verse>
+        <Verse osisId="Luke.3.33" sblId="Luke 3:33" name="路加福音 3:33" shortName="路 3:33" orderIndex="32">拿順 是 亞米拿達 的兒子， 亞米拿達 是 亞民 的兒子， 亞民 是 亞尼 的兒子， 亞尼 是 希斯崙 的兒子 ， 希斯崙 是 法勒斯 的兒子， 法勒斯 是 猶大 的兒子，</Verse>
+        <Verse osisId="Luke.3.34" sblId="Luke 3:34" name="路加福音 3:34" shortName="路 3:34" orderIndex="33">猶大 是 雅各 的兒子， 雅各 是 以撒 的兒子， 以撒 是 亞伯拉罕 的兒子， 亞伯拉罕 是 他拉 的兒子， 他拉 是 拿鶴 的兒子，</Verse>
+        <Verse osisId="Luke.3.35" sblId="Luke 3:35" name="路加福音 3:35" shortName="路 3:35" orderIndex="34">拿鶴 是 西鹿 的兒子， 西鹿 是 拉吳 的兒子， 拉吳 是 法勒 的兒子， 法勒 是 希伯 的兒子， 希伯 是 沙拉 的兒子，</Verse>
+        <Verse osisId="Luke.3.36" sblId="Luke 3:36" name="路加福音 3:36" shortName="路 3:36" orderIndex="35">沙拉 是 該南 的兒子， 該南 是 亞法撒 的兒子， 亞法撒 是 閃 的兒子， 閃 是 挪亞 的兒子， 挪亞 是 拉麥 的兒子，</Verse>
+        <Verse osisId="Luke.3.37" sblId="Luke 3:37" name="路加福音 3:37" shortName="路 3:37" orderIndex="36">拉麥 是 瑪土撒拉 的兒子， 瑪土撒拉 是 以諾 的兒子， 以諾 是 雅列 的兒子， 雅列 是 瑪勒列 的兒子， 瑪勒列 是 該南 的兒子， 該南 是 以挪士 的兒子，</Verse>
+        <Verse osisId="Luke.3.38" sblId="Luke 3:38" name="路加福音 3:38" shortName="路 3:38" orderIndex="37">以挪士 是 塞特 的兒子， 塞特 是 亞當 的兒子， 亞當 是上帝的兒子。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.4" sblId="Luke 4" name="路加福音 4" shortName="路 4" orderIndex="3" versesCount="44">
+      <verses>
+        <Verse osisId="Luke.4.1" sblId="Luke 4:1" name="路加福音 4:1" shortName="路 4:1" orderIndex="0">耶穌滿有聖靈，從 約旦河 回來，聖靈把他引到曠野，</Verse>
+        <Verse osisId="Luke.4.2" sblId="Luke 4:2" name="路加福音 4:2" shortName="路 4:2" orderIndex="1">四十天受魔鬼的試探。在那些日子，他沒有吃甚麼，日子滿了，他餓了。</Verse>
+        <Verse osisId="Luke.4.3" sblId="Luke 4:3" name="路加福音 4:3" shortName="路 4:3" orderIndex="2">魔鬼對他說：「你若是上帝的兒子，叫這塊石頭變成食物吧。」</Verse>
+        <Verse osisId="Luke.4.4" sblId="Luke 4:4" name="路加福音 4:4" shortName="路 4:4" orderIndex="3">耶穌回答：「經上記著： 『人活著，不是單靠食物。 』」</Verse>
+        <Verse osisId="Luke.4.5" sblId="Luke 4:5" name="路加福音 4:5" shortName="路 4:5" orderIndex="4">魔鬼又領他上了高山，霎時間把天下萬國都指給他看，</Verse>
+        <Verse osisId="Luke.4.6" sblId="Luke 4:6" name="路加福音 4:6" shortName="路 4:6" orderIndex="5">對他說：「這一切權柄和榮華我都要給你，因為這原是交給我的，我願意給誰就給誰。</Verse>
+        <Verse osisId="Luke.4.7" sblId="Luke 4:7" name="路加福音 4:7" shortName="路 4:7" orderIndex="6">你若在我面前下拜，這一切都歸你。」</Verse>
+        <Verse osisId="Luke.4.8" sblId="Luke 4:8" name="路加福音 4:8" shortName="路 4:8" orderIndex="7">耶穌回答他說：「經上記著： 『要拜主—你的上帝， 惟獨事奉他。』」</Verse>
+        <Verse osisId="Luke.4.9" sblId="Luke 4:9" name="路加福音 4:9" shortName="路 4:9" orderIndex="8">魔鬼又領他到 耶路撒冷 去，叫他站在聖殿頂上，對他說：「你若是上帝的兒子，從這裏跳下去！</Verse>
+        <Verse osisId="Luke.4.10" sblId="Luke 4:10" name="路加福音 4:10" shortName="路 4:10" orderIndex="9">因為經上記著： 『主要為你命令他的使者保護你；</Verse>
+        <Verse osisId="Luke.4.11" sblId="Luke 4:11" name="路加福音 4:11" shortName="路 4:11" orderIndex="10">他們要用手托住你， 免得你的腳碰在石頭上。』」</Verse>
+        <Verse osisId="Luke.4.12" sblId="Luke 4:12" name="路加福音 4:12" shortName="路 4:12" orderIndex="11">耶穌回答他說：「經上說：『不可試探主—你的上帝。』」</Verse>
+        <Verse osisId="Luke.4.13" sblId="Luke 4:13" name="路加福音 4:13" shortName="路 4:13" orderIndex="12">魔鬼用完了各樣的試探，就離開耶穌，再等時機。</Verse>
+        <Verse osisId="Luke.4.14" sblId="Luke 4:14" name="路加福音 4:14" shortName="路 4:14" orderIndex="13">耶穌帶著聖靈的能力回到 加利利 ，他的名聲傳遍了四方。</Verse>
+        <Verse osisId="Luke.4.15" sblId="Luke 4:15" name="路加福音 4:15" shortName="路 4:15" orderIndex="14">他在各會堂裏教導人，眾人都稱讚他。</Verse>
+        <Verse osisId="Luke.4.16" sblId="Luke 4:16" name="路加福音 4:16" shortName="路 4:16" orderIndex="15">耶穌來到 拿撒勒 ，就是他長大的地方。在安息日，照他素常的規矩進了會堂，站起來要念聖經。</Verse>
+        <Verse osisId="Luke.4.17" sblId="Luke 4:17" name="路加福音 4:17" shortName="路 4:17" orderIndex="16">有人把 以賽亞 先知的書交給他，他就打開，找到一處寫著：</Verse>
+        <Verse osisId="Luke.4.18" sblId="Luke 4:18" name="路加福音 4:18" shortName="路 4:18" orderIndex="17">「主的靈在我身上， 因為他用膏膏我， 叫我傳福音給貧窮的人； 差遣我宣告： 被擄的得釋放， 失明的得看見， 受壓迫的得自由，</Verse>
+        <Verse osisId="Luke.4.19" sblId="Luke 4:19" name="路加福音 4:19" shortName="路 4:19" orderIndex="18">宣告上帝悅納人的禧年。」</Verse>
+        <Verse osisId="Luke.4.20" sblId="Luke 4:20" name="路加福音 4:20" shortName="路 4:20" orderIndex="19">於是他把書捲起來，交還給管理人，就坐下。會堂裏的人都定睛看他。</Verse>
+        <Verse osisId="Luke.4.21" sblId="Luke 4:21" name="路加福音 4:21" shortName="路 4:21" orderIndex="20">耶穌對他們說：「你們聽見的這段經文，今天已經應驗了。」</Verse>
+        <Verse osisId="Luke.4.22" sblId="Luke 4:22" name="路加福音 4:22" shortName="路 4:22" orderIndex="21">眾人都稱讚他，並對他口中所出的恩言感到驚訝；他們說：「這不是 約瑟 的兒子嗎？」</Verse>
+        <Verse osisId="Luke.4.23" sblId="Luke 4:23" name="路加福音 4:23" shortName="路 4:23" orderIndex="22">耶穌對他們說：「你們一定會用這俗語向我說：『醫生，你醫治自己吧！我們聽見你在 迦百農 所做的事，也該在你自己的家鄉做吧。』」</Verse>
+        <Verse osisId="Luke.4.24" sblId="Luke 4:24" name="路加福音 4:24" shortName="路 4:24" orderIndex="23">他又說：「我實在告訴你們，沒有先知在自己家鄉被人接納的。</Verse>
+        <Verse osisId="Luke.4.25" sblId="Luke 4:25" name="路加福音 4:25" shortName="路 4:25" orderIndex="24">我對你們說實話，在 以利亞 的時候，天閉塞了三年六個月，遍地有大饑荒，那時， 以色列 中有許多寡婦，</Verse>
+        <Verse osisId="Luke.4.26" sblId="Luke 4:26" name="路加福音 4:26" shortName="路 4:26" orderIndex="25">以利亞 並沒有奉差往她們中任何一個人那裏去，只奉差往 西頓 的 撒勒法 一個寡婦那裏去。</Verse>
+        <Verse osisId="Luke.4.27" sblId="Luke 4:27" name="路加福音 4:27" shortName="路 4:27" orderIndex="26">在 以利沙 先知的時候， 以色列 中有許多痲瘋病人，但除了 敘利亞 的 乃縵 ，沒有一個得潔淨的。」</Verse>
+        <Verse osisId="Luke.4.28" sblId="Luke 4:28" name="路加福音 4:28" shortName="路 4:28" orderIndex="27">會堂裏的人聽見這些話，都怒氣填胸，</Verse>
+        <Verse osisId="Luke.4.29" sblId="Luke 4:29" name="路加福音 4:29" shortName="路 4:29" orderIndex="28">就起來趕他出城。他們的城造在山上；他們帶他到山崖，要把他推下去。</Verse>
+        <Verse osisId="Luke.4.30" sblId="Luke 4:30" name="路加福音 4:30" shortName="路 4:30" orderIndex="29">他卻從他們中間穿過去，走了。</Verse>
+        <Verse osisId="Luke.4.31" sblId="Luke 4:31" name="路加福音 4:31" shortName="路 4:31" orderIndex="30">耶穌下到 迦百農 ，就是 加利利 的一座城，在安息日教導眾人。</Verse>
+        <Verse osisId="Luke.4.32" sblId="Luke 4:32" name="路加福音 4:32" shortName="路 4:32" orderIndex="31">他們對他的教導感到很驚奇，因為他的話裏有權柄。</Verse>
+        <Verse osisId="Luke.4.33" sblId="Luke 4:33" name="路加福音 4:33" shortName="路 4:33" orderIndex="32">在會堂裏有一個人，被污鬼的靈附著，大聲喊叫說：</Verse>
+        <Verse osisId="Luke.4.34" sblId="Luke 4:34" name="路加福音 4:34" shortName="路 4:34" orderIndex="33">「唉！ 拿撒勒 人耶穌，你為甚麼干擾我們？你來消滅我們嗎？我知道你是誰，你是上帝的聖者。」</Verse>
+        <Verse osisId="Luke.4.35" sblId="Luke 4:35" name="路加福音 4:35" shortName="路 4:35" orderIndex="34">耶穌斥責他說：「不要作聲，從這人身上出來吧！」鬼把那人摔倒在眾人中間，就出來了，卻沒有傷害他。</Verse>
+        <Verse osisId="Luke.4.36" sblId="Luke 4:36" name="路加福音 4:36" shortName="路 4:36" orderIndex="35">眾人都驚訝，彼此對問：「這是甚麼道理呢？因為他用權柄能力命令污靈，污靈就出來。」</Verse>
+        <Verse osisId="Luke.4.37" sblId="Luke 4:37" name="路加福音 4:37" shortName="路 4:37" orderIndex="36">於是耶穌的名聲傳遍了周圍各地。</Verse>
+        <Verse osisId="Luke.4.38" sblId="Luke 4:38" name="路加福音 4:38" shortName="路 4:38" orderIndex="37">耶穌出了會堂，進了 西門 的家。 西門 的岳母在發高燒，有些人為她求耶穌。</Verse>
+        <Verse osisId="Luke.4.39" sblId="Luke 4:39" name="路加福音 4:39" shortName="路 4:39" orderIndex="38">耶穌站在她旁邊，斥責那高燒，燒就退了。她立刻起來服事他們。</Verse>
+        <Verse osisId="Luke.4.40" sblId="Luke 4:40" name="路加福音 4:40" shortName="路 4:40" orderIndex="39">日落的時候，凡有病人的，不論害甚麼病，都帶到耶穌那裏。耶穌給他們每一個人按手，治好他們。</Verse>
+        <Verse osisId="Luke.4.41" sblId="Luke 4:41" name="路加福音 4:41" shortName="路 4:41" orderIndex="40">又有鬼從好些人身上出來，喊著說：「你是上帝的兒子！」耶穌斥責他們，不許他們說話，因為他們知道他是基督。</Verse>
+        <Verse osisId="Luke.4.42" sblId="Luke 4:42" name="路加福音 4:42" shortName="路 4:42" orderIndex="41">天亮的時候，耶穌出來，走到荒野的地方。眾人去找他，到了他那裏，要留住他，不讓他離開他們。</Verse>
+        <Verse osisId="Luke.4.43" sblId="Luke 4:43" name="路加福音 4:43" shortName="路 4:43" orderIndex="42">但耶穌對他們說：「我也必須在別的城傳上帝國的福音，因我奉差原是為此。」</Verse>
+        <Verse osisId="Luke.4.44" sblId="Luke 4:44" name="路加福音 4:44" shortName="路 4:44" orderIndex="43">於是耶穌在 猶太 的各會堂傳道。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.5" sblId="Luke 5" name="路加福音 5" shortName="路 5" orderIndex="4" versesCount="39">
+      <verses>
+        <Verse osisId="Luke.5.1" sblId="Luke 5:1" name="路加福音 5:1" shortName="路 5:1" orderIndex="0">耶穌站在 革尼撒勒 湖邊，眾人擁擠他，要聽上帝的道。</Verse>
+        <Verse osisId="Luke.5.2" sblId="Luke 5:2" name="路加福音 5:2" shortName="路 5:2" orderIndex="1">他見有兩隻船靠在湖邊，打魚的人卻離開船，洗網去了。</Verse>
+        <Verse osisId="Luke.5.3" sblId="Luke 5:3" name="路加福音 5:3" shortName="路 5:3" orderIndex="2">有一隻船是 西門 的，耶穌就上去，請他把船撐開，稍微離岸，就坐下，在船上教導眾人。</Verse>
+        <Verse osisId="Luke.5.4" sblId="Luke 5:4" name="路加福音 5:4" shortName="路 5:4" orderIndex="3">他講完了，對 西門 說：「把船開到水深的地方下網打魚。」</Verse>
+        <Verse osisId="Luke.5.5" sblId="Luke 5:5" name="路加福音 5:5" shortName="路 5:5" orderIndex="4">西門 說：「老師，我們整夜勞累，並沒有打著甚麼。但依從你的話，我就下網。」</Verse>
+        <Verse osisId="Luke.5.6" sblId="Luke 5:6" name="路加福音 5:6" shortName="路 5:6" orderIndex="5">他們下了網，圈住許多魚，網險些裂開，</Verse>
+        <Verse osisId="Luke.5.7" sblId="Luke 5:7" name="路加福音 5:7" shortName="路 5:7" orderIndex="6">就招手叫另一隻船上的同伴來幫助。他們就來，把魚裝滿了兩隻船，船甚至要沉下去。</Verse>
+        <Verse osisId="Luke.5.8" sblId="Luke 5:8" name="路加福音 5:8" shortName="路 5:8" orderIndex="7">西門．彼得 看見，就俯伏在耶穌膝前，說：「主啊，離開我，我是個罪人。」</Verse>
+        <Verse osisId="Luke.5.9" sblId="Luke 5:9" name="路加福音 5:9" shortName="路 5:9" orderIndex="8">他和一切跟他一起的人對打到了這一網的魚都很驚訝。</Verse>
+        <Verse osisId="Luke.5.10" sblId="Luke 5:10" name="路加福音 5:10" shortName="路 5:10" orderIndex="9">他的夥伴 西庇太 的兒子 雅各 、 約翰 ，也是這樣。耶穌對 西門 說：「不要怕！從今以後，你要得人了。」</Verse>
+        <Verse osisId="Luke.5.11" sblId="Luke 5:11" name="路加福音 5:11" shortName="路 5:11" orderIndex="10">他們把兩隻船靠了岸，就撇下所有的，跟從了耶穌。</Verse>
+        <Verse osisId="Luke.5.12" sblId="Luke 5:12" name="路加福音 5:12" shortName="路 5:12" orderIndex="11">有一回，耶穌在一個城裏，有人滿身長了痲瘋，看見他，就俯伏在地，求他說：「主啊，你若肯，你能使我潔淨。」</Verse>
+        <Verse osisId="Luke.5.13" sblId="Luke 5:13" name="路加福音 5:13" shortName="路 5:13" orderIndex="12">耶穌伸手摸他，說：「我肯，你潔淨了吧！」痲瘋病立刻離開了他。</Verse>
+        <Verse osisId="Luke.5.14" sblId="Luke 5:14" name="路加福音 5:14" shortName="路 5:14" orderIndex="13">耶穌吩咐他：「你不可告訴任何人，只要去，把自己給祭司察看，又因為你已經潔淨，要照 摩西 所吩咐的獻上祭物，作為證據給眾人看。」</Verse>
+        <Verse osisId="Luke.5.15" sblId="Luke 5:15" name="路加福音 5:15" shortName="路 5:15" orderIndex="14">但耶穌的名聲越發傳揚出去。有一大群人聚集來聽道，也希望耶穌醫治他們的病。</Verse>
+        <Verse osisId="Luke.5.16" sblId="Luke 5:16" name="路加福音 5:16" shortName="路 5:16" orderIndex="15">耶穌卻退到曠野去禱告。</Verse>
+        <Verse osisId="Luke.5.17" sblId="Luke 5:17" name="路加福音 5:17" shortName="路 5:17" orderIndex="16">有一天，耶穌教導人，有法利賽人和律法教師在旁邊坐著；他們是從 加利利 各鄉村、 猶太 和 耶路撒冷 來的。主的能力與耶穌同在，使他能治好病人。</Verse>
+        <Verse osisId="Luke.5.18" sblId="Luke 5:18" name="路加福音 5:18" shortName="路 5:18" orderIndex="17">這時，有些人用褥子抬著一個癱子，要把他抬進去放在耶穌面前，</Verse>
+        <Verse osisId="Luke.5.19" sblId="Luke 5:19" name="路加福音 5:19" shortName="路 5:19" orderIndex="18">卻因人多，找不出法子抬進去，就上了房頂，從瓦間把他連褥子縋到當中，在耶穌面前。</Verse>
+        <Verse osisId="Luke.5.20" sblId="Luke 5:20" name="路加福音 5:20" shortName="路 5:20" orderIndex="19">耶穌見他們的信心，就說：「朋友，你的罪赦了。」</Verse>
+        <Verse osisId="Luke.5.21" sblId="Luke 5:21" name="路加福音 5:21" shortName="路 5:21" orderIndex="20">文士和法利賽人就開始議論說：「這個人是誰，竟說褻瀆的話？除了上帝一位之外，誰能赦罪呢？」</Verse>
+        <Verse osisId="Luke.5.22" sblId="Luke 5:22" name="路加福音 5:22" shortName="路 5:22" orderIndex="21">耶穌知道他們所議論的，就回答他們說：「你們心裏為甚麼議論呢？</Verse>
+        <Verse osisId="Luke.5.23" sblId="Luke 5:23" name="路加福音 5:23" shortName="路 5:23" orderIndex="22">說『你的罪赦了』，或說『你起來行走』，哪一樣容易呢？</Verse>
+        <Verse osisId="Luke.5.24" sblId="Luke 5:24" name="路加福音 5:24" shortName="路 5:24" orderIndex="23">但要讓你們知道，人子在地上有赦罪的權柄。」他就對癱子說：「我吩咐你，起來！拿你的褥子回家去吧。」</Verse>
+        <Verse osisId="Luke.5.25" sblId="Luke 5:25" name="路加福音 5:25" shortName="路 5:25" orderIndex="24">那人當著眾人面前立刻起來，拿了他所躺臥的褥子回家去，歸榮耀給上帝。</Verse>
+        <Verse osisId="Luke.5.26" sblId="Luke 5:26" name="路加福音 5:26" shortName="路 5:26" orderIndex="25">眾人都驚奇，也歸榮耀給上帝，並且滿心懼怕，說：「我們今日看見不尋常的事了！」</Verse>
+        <Verse osisId="Luke.5.27" sblId="Luke 5:27" name="路加福音 5:27" shortName="路 5:27" orderIndex="26">這些事以後，耶穌出去，看見一個稅吏，名叫 利未 ，在稅關坐著，就對他說：「來跟從我！」</Verse>
+        <Verse osisId="Luke.5.28" sblId="Luke 5:28" name="路加福音 5:28" shortName="路 5:28" orderIndex="27">他就撇下所有的，起來跟從耶穌。</Verse>
+        <Verse osisId="Luke.5.29" sblId="Luke 5:29" name="路加福音 5:29" shortName="路 5:29" orderIndex="28">利未 在自己家裏為耶穌大擺宴席，有一大群稅吏和別的人與他們一同坐席。</Verse>
+        <Verse osisId="Luke.5.30" sblId="Luke 5:30" name="路加福音 5:30" shortName="路 5:30" orderIndex="29">法利賽人和文士就向耶穌的門徒發怨言說：「你們為甚麼跟稅吏和罪人一同吃喝呢？」</Verse>
+        <Verse osisId="Luke.5.31" sblId="Luke 5:31" name="路加福音 5:31" shortName="路 5:31" orderIndex="30">耶穌回答他們：「健康的人用不著醫生；有病的人才用得著。</Verse>
+        <Verse osisId="Luke.5.32" sblId="Luke 5:32" name="路加福音 5:32" shortName="路 5:32" orderIndex="31">我不是來召義人悔改，而是召罪人悔改。」</Verse>
+        <Verse osisId="Luke.5.33" sblId="Luke 5:33" name="路加福音 5:33" shortName="路 5:33" orderIndex="32">他們對耶穌說：「 約翰 的門徒常常禁食祈禱，法利賽人的門徒也是這樣，惟獨跟你在一起的又吃又喝。」</Verse>
+        <Verse osisId="Luke.5.34" sblId="Luke 5:34" name="路加福音 5:34" shortName="路 5:34" orderIndex="33">耶穌對他們說：「新郎和賓客在一起的時候，你們怎麼能叫賓客禁食呢？</Verse>
+        <Verse osisId="Luke.5.35" sblId="Luke 5:35" name="路加福音 5:35" shortName="路 5:35" orderIndex="34">但日子將到，新郎要被帶走，那些日子他們就要禁食了。」</Verse>
+        <Verse osisId="Luke.5.36" sblId="Luke 5:36" name="路加福音 5:36" shortName="路 5:36" orderIndex="35">耶穌又講一個比喻，對他們說：「沒有人把新衣服撕下一塊來補在舊衣服上，若是這樣，會把新的撕裂了，並且所撕下來的那塊新的和舊的也不相稱。</Verse>
+        <Verse osisId="Luke.5.37" sblId="Luke 5:37" name="路加福音 5:37" shortName="路 5:37" orderIndex="36">也沒有人把新酒裝在舊皮袋裏；若是這樣，新酒會脹破皮袋，酒就漏出來，皮袋也糟蹋了。</Verse>
+        <Verse osisId="Luke.5.38" sblId="Luke 5:38" name="路加福音 5:38" shortName="路 5:38" orderIndex="37">相反地，新酒必須裝在新皮袋裏。</Verse>
+        <Verse osisId="Luke.5.39" sblId="Luke 5:39" name="路加福音 5:39" shortName="路 5:39" orderIndex="38">沒有人喝了陳酒又想喝新的；他總說陳的好。」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.6" sblId="Luke 6" name="路加福音 6" shortName="路 6" orderIndex="5" versesCount="49">
+      <verses>
+        <Verse osisId="Luke.6.1" sblId="Luke 6:1" name="路加福音 6:1" shortName="路 6:1" orderIndex="0">有一個安息日 ，耶穌從麥田經過。他的門徒摘了麥穗，用手搓著吃。</Verse>
+        <Verse osisId="Luke.6.2" sblId="Luke 6:2" name="路加福音 6:2" shortName="路 6:2" orderIndex="1">有幾個法利賽人說：「你們為甚麼做安息日不合法的事呢？」</Verse>
+        <Verse osisId="Luke.6.3" sblId="Luke 6:3" name="路加福音 6:3" shortName="路 6:3" orderIndex="2">耶穌回答他們：「 大衛 和跟從他的人飢餓時所做的事，你們沒有念過嗎？</Verse>
+        <Verse osisId="Luke.6.4" sblId="Luke 6:4" name="路加福音 6:4" shortName="路 6:4" orderIndex="3">他怎麼進了上帝的居所，拿供餅吃，又給跟從的人吃呢？這餅惟獨祭司可以吃，別人都不可以吃。」</Verse>
+        <Verse osisId="Luke.6.5" sblId="Luke 6:5" name="路加福音 6:5" shortName="路 6:5" orderIndex="4">他又對他們說：「人子是安息日的主。」</Verse>
+        <Verse osisId="Luke.6.6" sblId="Luke 6:6" name="路加福音 6:6" shortName="路 6:6" orderIndex="5">又有一個安息日，耶穌進了會堂教導人，在那裏有一個人，他的右手萎縮了。</Verse>
+        <Verse osisId="Luke.6.7" sblId="Luke 6:7" name="路加福音 6:7" shortName="路 6:7" orderIndex="6">文士和法利賽人窺探耶穌會不會在安息日治病，為要找把柄告他。</Verse>
+        <Verse osisId="Luke.6.8" sblId="Luke 6:8" name="路加福音 6:8" shortName="路 6:8" orderIndex="7">耶穌卻知道他們的意念，就對那萎縮了手的人說：「起來，站在當中！」那人就起來，站著。</Verse>
+        <Verse osisId="Luke.6.9" sblId="Luke 6:9" name="路加福音 6:9" shortName="路 6:9" orderIndex="8">耶穌對他們說：「我問你們，在安息日行善行惡，救命害命，哪樣是合法的呢？」</Verse>
+        <Verse osisId="Luke.6.10" sblId="Luke 6:10" name="路加福音 6:10" shortName="路 6:10" orderIndex="9">他就環視眾人，對那人說：「伸出手來！」他照著做，他的手就復原了。</Verse>
+        <Verse osisId="Luke.6.11" sblId="Luke 6:11" name="路加福音 6:11" shortName="路 6:11" orderIndex="10">他們怒氣填胸，彼此商議怎樣對付耶穌。</Verse>
+        <Verse osisId="Luke.6.12" sblId="Luke 6:12" name="路加福音 6:12" shortName="路 6:12" orderIndex="11">在那些日子，耶穌出去，上山祈禱，整夜向上帝禱告。</Verse>
+        <Verse osisId="Luke.6.13" sblId="Luke 6:13" name="路加福音 6:13" shortName="路 6:13" orderIndex="12">到了天亮，他叫門徒來，就從他們中間挑選十二個人，稱他們為使徒。</Verse>
+        <Verse osisId="Luke.6.14" sblId="Luke 6:14" name="路加福音 6:14" shortName="路 6:14" orderIndex="13">這十二個人有 西門 （耶穌又給他起名叫 彼得 ），還有他弟弟 安得烈 ，又有 雅各 和 約翰 ， 腓力 和 巴多羅買 ，</Verse>
+        <Verse osisId="Luke.6.15" sblId="Luke 6:15" name="路加福音 6:15" shortName="路 6:15" orderIndex="14">馬太 和 多馬 ， 亞勒腓 的兒子 雅各 和激進黨的 西門 ，</Verse>
+        <Verse osisId="Luke.6.16" sblId="Luke 6:16" name="路加福音 6:16" shortName="路 6:16" orderIndex="15">雅各 的兒子 猶大 和後來成為出賣者的 加略 人 猶大 。</Verse>
+        <Verse osisId="Luke.6.17" sblId="Luke 6:17" name="路加福音 6:17" shortName="路 6:17" orderIndex="16">耶穌和他們下了山，站在一塊平地上；在一起的有許多門徒，又有許多百姓從全 猶太 和 耶路撒冷 ，並 推羅 、 西頓 的海邊來，</Verse>
+        <Verse osisId="Luke.6.18" sblId="Luke 6:18" name="路加福音 6:18" shortName="路 6:18" orderIndex="17">都要聽他講道，又希望耶穌醫治他們的病；還有被污靈纏磨的，也得了醫治。</Verse>
+        <Verse osisId="Luke.6.19" sblId="Luke 6:19" name="路加福音 6:19" shortName="路 6:19" orderIndex="18">眾人都想要摸他，因為有能力從他身上發出來，治好了他們。</Verse>
+        <Verse osisId="Luke.6.20" sblId="Luke 6:20" name="路加福音 6:20" shortName="路 6:20" orderIndex="19">耶穌舉目看著門徒，說： 「貧窮的人有福了！ 因為上帝的國是你們的。</Verse>
+        <Verse osisId="Luke.6.21" sblId="Luke 6:21" name="路加福音 6:21" shortName="路 6:21" orderIndex="20">現在飢餓的人有福了！ 因為你們將得飽足。 現在哭泣的人有福了！ 因為你們將要歡笑。</Verse>
+        <Verse osisId="Luke.6.22" sblId="Luke 6:22" name="路加福音 6:22" shortName="路 6:22" orderIndex="21">人為人子的緣故憎恨你們，拒絕你們，辱罵你們，把你們當惡人除掉你們的名，你們就有福了！</Verse>
+        <Verse osisId="Luke.6.23" sblId="Luke 6:23" name="路加福音 6:23" shortName="路 6:23" orderIndex="22">在那日，你們要歡欣雀躍，因為你們在天上的賞賜是很多的；他們的祖宗也是這樣待先知的。</Verse>
+        <Verse osisId="Luke.6.24" sblId="Luke 6:24" name="路加福音 6:24" shortName="路 6:24" orderIndex="23">但你們富足的人有禍了！ 因為你們已經受過安慰。</Verse>
+        <Verse osisId="Luke.6.25" sblId="Luke 6:25" name="路加福音 6:25" shortName="路 6:25" orderIndex="24">你們現在飽足的人有禍了！ 因為你們將要飢餓。 你們現在歡笑的人有禍了！ 因為你們將要哀慟哭泣。</Verse>
+        <Verse osisId="Luke.6.26" sblId="Luke 6:26" name="路加福音 6:26" shortName="路 6:26" orderIndex="25">人都說你們好的時候，你們有禍了！因為他們的祖宗也是這樣待假先知的。」</Verse>
+        <Verse osisId="Luke.6.27" sblId="Luke 6:27" name="路加福音 6:27" shortName="路 6:27" orderIndex="26">「可是我告訴你們這些聽的人，要愛你們的仇敵！要善待恨你們的人！</Verse>
+        <Verse osisId="Luke.6.28" sblId="Luke 6:28" name="路加福音 6:28" shortName="路 6:28" orderIndex="27">要祝福詛咒你們的人！要為凌辱你們的人禱告！</Verse>
+        <Verse osisId="Luke.6.29" sblId="Luke 6:29" name="路加福音 6:29" shortName="路 6:29" orderIndex="28">有人打你的臉，連另一邊也由他打。有人拿你的外衣，連內衣也由他拿去。</Verse>
+        <Verse osisId="Luke.6.30" sblId="Luke 6:30" name="路加福音 6:30" shortName="路 6:30" orderIndex="29">凡求你的，就給他；有人拿走你的東西，不要討回來。</Verse>
+        <Verse osisId="Luke.6.31" sblId="Luke 6:31" name="路加福音 6:31" shortName="路 6:31" orderIndex="30">「你們想要人怎樣待你們，你們也要怎樣待人。</Verse>
+        <Verse osisId="Luke.6.32" sblId="Luke 6:32" name="路加福音 6:32" shortName="路 6:32" orderIndex="31">你們若只愛那愛你們的人，有甚麼可感謝的呢？就是罪人也愛那愛他們的人。</Verse>
+        <Verse osisId="Luke.6.33" sblId="Luke 6:33" name="路加福音 6:33" shortName="路 6:33" orderIndex="32">你們若善待那善待你們的人，有甚麼可感謝的呢？就是罪人也是這樣做。</Verse>
+        <Verse osisId="Luke.6.34" sblId="Luke 6:34" name="路加福音 6:34" shortName="路 6:34" orderIndex="33">你們若借給人，希望從他收回，有甚麼可感謝的呢？就是罪人也借給罪人，再如數收回。</Verse>
+        <Verse osisId="Luke.6.35" sblId="Luke 6:35" name="路加福音 6:35" shortName="路 6:35" orderIndex="34">你們倒要愛仇敵，要善待他們，並要借給人不指望償還，你們的賞賜就很多了，你們必作至高者的兒子，因為他恩待那忘恩的和作惡的。</Verse>
+        <Verse osisId="Luke.6.36" sblId="Luke 6:36" name="路加福音 6:36" shortName="路 6:36" orderIndex="35">你們要仁慈，像你們的父是仁慈的。」</Verse>
+        <Verse osisId="Luke.6.37" sblId="Luke 6:37" name="路加福音 6:37" shortName="路 6:37" orderIndex="36">「你們不要評斷別人，就不被審判；你們不要定人的罪，就不被定罪；你們要饒恕人，就必蒙饒恕。</Verse>
+        <Verse osisId="Luke.6.38" sblId="Luke 6:38" name="路加福音 6:38" shortName="路 6:38" orderIndex="37">你們要給人，就必有給你們的，並且用十足的升斗，連搖帶按，上尖下流地倒在你們懷裏；因為你們用甚麼量器量給人，也必用甚麼量器量給你們。」</Verse>
+        <Verse osisId="Luke.6.39" sblId="Luke 6:39" name="路加福音 6:39" shortName="路 6:39" orderIndex="38">耶穌又用比喻對他們說：「瞎子豈能領瞎子，兩個人不是都要掉在坑裏嗎？</Verse>
+        <Verse osisId="Luke.6.40" sblId="Luke 6:40" name="路加福音 6:40" shortName="路 6:40" orderIndex="39">學生不高過老師，凡學成了的會和老師一樣。</Verse>
+        <Verse osisId="Luke.6.41" sblId="Luke 6:41" name="路加福音 6:41" shortName="路 6:41" orderIndex="40">為甚麼看見你弟兄眼中有刺，卻不想自己眼中有梁木呢？</Verse>
+        <Verse osisId="Luke.6.42" sblId="Luke 6:42" name="路加福音 6:42" shortName="路 6:42" orderIndex="41">你不見自己眼中有梁木，怎能對你弟兄說：『讓我去掉你眼中的刺』呢？你這假冒為善的人！先去掉自己眼中的梁木，然後才能看得清楚，好去掉你弟兄眼中的刺。」</Verse>
+        <Verse osisId="Luke.6.43" sblId="Luke 6:43" name="路加福音 6:43" shortName="路 6:43" orderIndex="42">「沒有好樹結壞果子，也沒有壞樹結好果子。</Verse>
+        <Verse osisId="Luke.6.44" sblId="Luke 6:44" name="路加福音 6:44" shortName="路 6:44" orderIndex="43">每一種樹木可以從其果子看出來。人不是從荊棘上摘無花果的，也不是從蒺藜裏摘葡萄的。</Verse>
+        <Verse osisId="Luke.6.45" sblId="Luke 6:45" name="路加福音 6:45" shortName="路 6:45" orderIndex="44">善人從他心裏所存的善發出善來，惡人從他所存的惡發出惡來；因為心裏所充滿的，口裏就說出來。」</Verse>
+        <Verse osisId="Luke.6.46" sblId="Luke 6:46" name="路加福音 6:46" shortName="路 6:46" orderIndex="45">「你們為甚麼稱呼我『主啊，主啊』，卻不照我的話做呢？</Verse>
+        <Verse osisId="Luke.6.47" sblId="Luke 6:47" name="路加福音 6:47" shortName="路 6:47" orderIndex="46">凡到我這裏來，聽了我的話又去做的，我要告訴你們他像甚麼人：</Verse>
+        <Verse osisId="Luke.6.48" sblId="Luke 6:48" name="路加福音 6:48" shortName="路 6:48" orderIndex="47">他像一個人蓋房子，把地挖深，將根基立在磐石上，到發大水的時候，水沖那房子，房子總不動搖，因為蓋造得好。</Verse>
+        <Verse osisId="Luke.6.49" sblId="Luke 6:49" name="路加福音 6:49" shortName="路 6:49" orderIndex="48">但聽了不去做的，就像一個人在土地上蓋房子，沒有根基，水一沖，立刻倒塌了，並且那房子損壞得很厲害。」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.7" sblId="Luke 7" name="路加福音 7" shortName="路 7" orderIndex="6" versesCount="50">
+      <verses>
+        <Verse osisId="Luke.7.1" sblId="Luke 7:1" name="路加福音 7:1" shortName="路 7:1" orderIndex="0">耶穌對百姓講完了這一切的話，就進了 迦百農 。</Verse>
+        <Verse osisId="Luke.7.2" sblId="Luke 7:2" name="路加福音 7:2" shortName="路 7:2" orderIndex="1">有一個百夫長所器重的僕人害病，快要死了。</Verse>
+        <Verse osisId="Luke.7.3" sblId="Luke 7:3" name="路加福音 7:3" shortName="路 7:3" orderIndex="2">百夫長風聞耶穌的事，就託 猶太 人的幾個長老去求耶穌來救他的僕人。</Verse>
+        <Verse osisId="Luke.7.4" sblId="Luke 7:4" name="路加福音 7:4" shortName="路 7:4" orderIndex="3">他們到了耶穌那裏，切切地求他說：「你為他做這事是他配得的；</Verse>
+        <Verse osisId="Luke.7.5" sblId="Luke 7:5" name="路加福音 7:5" shortName="路 7:5" orderIndex="4">因為他愛我們的民族，為我們建造會堂。」</Verse>
+        <Verse osisId="Luke.7.6" sblId="Luke 7:6" name="路加福音 7:6" shortName="路 7:6" orderIndex="5">耶穌就和他們同去。離那家不遠，百夫長託幾個朋友去見耶穌，對他說：「主啊，不必勞駕，因你到舍下來，我不敢當。</Verse>
+        <Verse osisId="Luke.7.7" sblId="Luke 7:7" name="路加福音 7:7" shortName="路 7:7" orderIndex="6">我也自以為不配去見你，只要你說一句話，就會讓我的僮僕得痊癒。</Verse>
+        <Verse osisId="Luke.7.8" sblId="Luke 7:8" name="路加福音 7:8" shortName="路 7:8" orderIndex="7">因為我被派在人的權下，也有兵在我之下。我對這個說：『去！』他就去；對那個說：『來！』他就來；對我的僕人說：『做這事！』他就去做。」</Verse>
+        <Verse osisId="Luke.7.9" sblId="Luke 7:9" name="路加福音 7:9" shortName="路 7:9" orderIndex="8">耶穌聽到這些話，就很驚訝，轉身對跟隨的眾人說：「我告訴你們，這麼大的信心，就是在 以色列 ，我也沒有見過。」</Verse>
+        <Verse osisId="Luke.7.10" sblId="Luke 7:10" name="路加福音 7:10" shortName="路 7:10" orderIndex="9">那差來的人回到百夫長家裏，發現僕人已經好了。</Verse>
+        <Verse osisId="Luke.7.11" sblId="Luke 7:11" name="路加福音 7:11" shortName="路 7:11" orderIndex="10">過了不久 ，耶穌往一座城去，這城名叫 拿因 ，他的門徒和一大群人與他同行。</Verse>
+        <Verse osisId="Luke.7.12" sblId="Luke 7:12" name="路加福音 7:12" shortName="路 7:12" orderIndex="11">當他走近城門時，有一個死人被抬出來。這人是他母親獨生的兒子，而他母親又是寡婦。城裏的許多人與她一同送殯。</Verse>
+        <Verse osisId="Luke.7.13" sblId="Luke 7:13" name="路加福音 7:13" shortName="路 7:13" orderIndex="12">主看見那寡婦就憐憫她，對她說：「不要哭。」</Verse>
+        <Verse osisId="Luke.7.14" sblId="Luke 7:14" name="路加福音 7:14" shortName="路 7:14" orderIndex="13">於是耶穌進前來，按著槓，抬的人就站住了。耶穌說：「年輕人，我吩咐你，起來！」</Verse>
+        <Verse osisId="Luke.7.15" sblId="Luke 7:15" name="路加福音 7:15" shortName="路 7:15" orderIndex="14">那死人就坐了起來，開始說話，耶穌就把他交給他的母親。</Verse>
+        <Verse osisId="Luke.7.16" sblId="Luke 7:16" name="路加福音 7:16" shortName="路 7:16" orderIndex="15">眾人都驚奇，歸榮耀給上帝，說：「有大先知在我們當中興起了！」又說：「上帝眷顧了他的百姓！」</Verse>
+        <Verse osisId="Luke.7.17" sblId="Luke 7:17" name="路加福音 7:17" shortName="路 7:17" orderIndex="16">關於耶穌的這事就傳遍了 猶太 和周圍地區。</Verse>
+        <Verse osisId="Luke.7.18" sblId="Luke 7:18" name="路加福音 7:18" shortName="路 7:18" orderIndex="17">約翰 的門徒把這些事都告訴 約翰 。於是 約翰 叫了兩個門徒來，</Verse>
+        <Verse osisId="Luke.7.19" sblId="Luke 7:19" name="路加福音 7:19" shortName="路 7:19" orderIndex="18">差他們到主 那裏去，說：「將要來的那位就是你嗎？還是我們要等候別人呢？」</Verse>
+        <Verse osisId="Luke.7.20" sblId="Luke 7:20" name="路加福音 7:20" shortName="路 7:20" orderIndex="19">那兩個人來到耶穌那裏，說：「施洗的 約翰 差我們來問你：『將要來的那位就是你嗎？還是我們要等候別人呢？』」</Verse>
+        <Verse osisId="Luke.7.21" sblId="Luke 7:21" name="路加福音 7:21" shortName="路 7:21" orderIndex="20">就在那時，耶穌治好了許多患疾病的，得瘟疫的，被邪靈附身的，又開恩使好些盲人能看見。</Verse>
+        <Verse osisId="Luke.7.22" sblId="Luke 7:22" name="路加福音 7:22" shortName="路 7:22" orderIndex="21">耶穌回答他們：「你們去，把所看見、所聽見的告訴 約翰 ：就是盲人看見，瘸子行走，痲瘋病人得潔淨，聾子聽見，死人復活，窮人聽到福音。</Verse>
+        <Verse osisId="Luke.7.23" sblId="Luke 7:23" name="路加福音 7:23" shortName="路 7:23" orderIndex="22">凡不因我跌倒的有福了！」</Verse>
+        <Verse osisId="Luke.7.24" sblId="Luke 7:24" name="路加福音 7:24" shortName="路 7:24" orderIndex="23">約翰 所差來的人一走，耶穌就對眾人談到 約翰 ，說：「你們從前到曠野去，是要看甚麼呢？被吹動的蘆葦嗎？</Verse>
+        <Verse osisId="Luke.7.25" sblId="Luke 7:25" name="路加福音 7:25" shortName="路 7:25" orderIndex="24">你們出去到底是要看甚麼？穿細軟衣服的人嗎？看哪，那穿華麗衣服、宴樂度日的人是在王宮裏。</Verse>
+        <Verse osisId="Luke.7.26" sblId="Luke 7:26" name="路加福音 7:26" shortName="路 7:26" orderIndex="25">你們出去究竟是要看甚麼？是先知嗎？是的，我告訴你們，他比先知大多了。</Verse>
+        <Verse osisId="Luke.7.27" sblId="Luke 7:27" name="路加福音 7:27" shortName="路 7:27" orderIndex="26">這個人就是經上所說的： 『看哪，我要差遣我的使者在你面前， 他要在你前面為你預備道路。』</Verse>
+        <Verse osisId="Luke.7.28" sblId="Luke 7:28" name="路加福音 7:28" shortName="路 7:28" orderIndex="27">我告訴你們，凡女子所生的，沒有比 約翰 大的；但在上帝國裏，最小的比他還大。」</Verse>
+        <Verse osisId="Luke.7.29" sblId="Luke 7:29" name="路加福音 7:29" shortName="路 7:29" orderIndex="28">眾百姓和稅吏已受過 約翰 的洗，聽見這話，就以上帝為義；</Verse>
+        <Verse osisId="Luke.7.30" sblId="Luke 7:30" name="路加福音 7:30" shortName="路 7:30" orderIndex="29">但法利賽人和律法師沒有受過 約翰 的洗，竟廢棄了上帝為他們所定的旨意。</Verse>
+        <Verse osisId="Luke.7.31" sblId="Luke 7:31" name="路加福音 7:31" shortName="路 7:31" orderIndex="30">主又說：「這樣，我該用甚麼來比這世代的人呢？他們好像甚麼呢？</Verse>
+        <Verse osisId="Luke.7.32" sblId="Luke 7:32" name="路加福音 7:32" shortName="路 7:32" orderIndex="31">這正像孩童坐在街市上，彼此喊叫： 『我們為你們吹笛，你們不跳舞； 我們唱哀歌，你們不啼哭。』</Verse>
+        <Verse osisId="Luke.7.33" sblId="Luke 7:33" name="路加福音 7:33" shortName="路 7:33" orderIndex="32">施洗的 約翰 來，不吃餅，不喝酒，你們說他是被鬼附的。</Verse>
+        <Verse osisId="Luke.7.34" sblId="Luke 7:34" name="路加福音 7:34" shortName="路 7:34" orderIndex="33">人子來，也吃也喝，你們又說這人貪食好酒，是稅吏和罪人的朋友。</Verse>
+        <Verse osisId="Luke.7.35" sblId="Luke 7:35" name="路加福音 7:35" shortName="路 7:35" orderIndex="34">而智慧是由所有智慧的人來證實的。」</Verse>
+        <Verse osisId="Luke.7.36" sblId="Luke 7:36" name="路加福音 7:36" shortName="路 7:36" orderIndex="35">有一個法利賽人請耶穌和他吃飯，耶穌就到那法利賽人家裏去坐席。</Verse>
+        <Verse osisId="Luke.7.37" sblId="Luke 7:37" name="路加福音 7:37" shortName="路 7:37" orderIndex="36">那城裏有一個女人，是個罪人，知道耶穌在法利賽人家裏坐席，就拿著盛滿香膏的玉瓶，</Verse>
+        <Verse osisId="Luke.7.38" sblId="Luke 7:38" name="路加福音 7:38" shortName="路 7:38" orderIndex="37">站在耶穌背後，挨著他的腳哭，眼淚滴濕了耶穌的腳，就用自己的頭髮擦乾，又用嘴連連親他的腳，把香膏抹上。</Verse>
+        <Verse osisId="Luke.7.39" sblId="Luke 7:39" name="路加福音 7:39" shortName="路 7:39" orderIndex="38">請耶穌的法利賽人看見這事，心裏說：「這人若是先知，一定知道摸他的是誰，是個怎樣的女人；她是個罪人哪！」</Verse>
+        <Verse osisId="Luke.7.40" sblId="Luke 7:40" name="路加福音 7:40" shortName="路 7:40" orderIndex="39">耶穌回應他說：「 西門 ，我有話要對你說。」 西門 說：「老師，請說。」</Verse>
+        <Verse osisId="Luke.7.41" sblId="Luke 7:41" name="路加福音 7:41" shortName="路 7:41" orderIndex="40">耶穌說：「有兩個人欠了某一個債主的錢，一個欠五百個銀幣，一個欠五十個銀幣。</Verse>
+        <Verse osisId="Luke.7.42" sblId="Luke 7:42" name="路加福音 7:42" shortName="路 7:42" orderIndex="41">因為他們無力償還，債主就開恩赦免了他們兩個人的債。那麼，這兩個人哪一個更愛他呢？」</Verse>
+        <Verse osisId="Luke.7.43" sblId="Luke 7:43" name="路加福音 7:43" shortName="路 7:43" orderIndex="42">西門 回答：「我想是那多得赦免的人。」耶穌對他說：「你的判斷不錯。」</Verse>
+        <Verse osisId="Luke.7.44" sblId="Luke 7:44" name="路加福音 7:44" shortName="路 7:44" orderIndex="43">於是他轉過來向著那女人，對 西門 說：「你看見這女人嗎？我進了你的家，你沒有給我水洗腳，但這女人用眼淚滴濕了我的腳，又用頭髮擦乾。</Verse>
+        <Verse osisId="Luke.7.45" sblId="Luke 7:45" name="路加福音 7:45" shortName="路 7:45" orderIndex="44">你沒有親我，但這女人從我進來就不住地親我的腳。</Verse>
+        <Verse osisId="Luke.7.46" sblId="Luke 7:46" name="路加福音 7:46" shortName="路 7:46" orderIndex="45">你沒有用油抹我的頭，但這女人用香膏抹我的腳。</Verse>
+        <Verse osisId="Luke.7.47" sblId="Luke 7:47" name="路加福音 7:47" shortName="路 7:47" orderIndex="46">所以我告訴你，她許多的罪都赦免了，因為她愛的多；而那少得赦免的，愛的就少。」</Verse>
+        <Verse osisId="Luke.7.48" sblId="Luke 7:48" name="路加福音 7:48" shortName="路 7:48" orderIndex="47">於是耶穌對那女人說：「你的罪都赦免了。」</Verse>
+        <Verse osisId="Luke.7.49" sblId="Luke 7:49" name="路加福音 7:49" shortName="路 7:49" orderIndex="48">同席的人心裏說：「這是甚麼人，竟赦免人的罪呢？」</Verse>
+        <Verse osisId="Luke.7.50" sblId="Luke 7:50" name="路加福音 7:50" shortName="路 7:50" orderIndex="49">耶穌對那女人說：「你的信救了你，平安地回去吧！」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.8" sblId="Luke 8" name="路加福音 8" shortName="路 8" orderIndex="7" versesCount="56">
+      <verses>
+        <Verse osisId="Luke.8.1" sblId="Luke 8:1" name="路加福音 8:1" shortName="路 8:1" orderIndex="0">過了不久，耶穌周遊各城各鄉傳道，宣講上帝國的福音。和他同去的有十二個使徒，</Verse>
+        <Verse osisId="Luke.8.2" sblId="Luke 8:2" name="路加福音 8:2" shortName="路 8:2" orderIndex="1">還有曾被邪靈所附，被疾病所纏，而已經治好的幾個婦女，其中有稱為 抹大拉 的 馬利亞 ，曾有七個鬼從她身上趕出來，</Verse>
+        <Verse osisId="Luke.8.3" sblId="Luke 8:3" name="路加福音 8:3" shortName="路 8:3" orderIndex="2">又有 希律 的管家 苦撒 的妻子 約亞拿 ，和 蘇撒拿 以及好些別的婦女，她們都是用自己的財物供給耶穌和使徒。</Verse>
+        <Verse osisId="Luke.8.4" sblId="Luke 8:4" name="路加福音 8:4" shortName="路 8:4" orderIndex="3">當一大群人聚集，又有人從各城裏出來見耶穌的時候，耶穌用比喻說：</Verse>
+        <Verse osisId="Luke.8.5" sblId="Luke 8:5" name="路加福音 8:5" shortName="路 8:5" orderIndex="4">「有一個撒種的出去撒種。他撒的時候，有的落在路旁，被人踐踏，天上的飛鳥又來把它吃掉了。</Verse>
+        <Verse osisId="Luke.8.6" sblId="Luke 8:6" name="路加福音 8:6" shortName="路 8:6" orderIndex="5">有的落在磐石上，一出來就枯乾了，因為得不著滋潤。</Verse>
+        <Verse osisId="Luke.8.7" sblId="Luke 8:7" name="路加福音 8:7" shortName="路 8:7" orderIndex="6">有的落在荊棘裏，荊棘跟它一同生長，把它擠住了。</Verse>
+        <Verse osisId="Luke.8.8" sblId="Luke 8:8" name="路加福音 8:8" shortName="路 8:8" orderIndex="7">又有的落在好土裏，生長起來，結實百倍。」耶穌說完這些話，大聲說：「有耳可聽的，就應當聽！」</Verse>
+        <Verse osisId="Luke.8.9" sblId="Luke 8:9" name="路加福音 8:9" shortName="路 8:9" orderIndex="8">門徒問耶穌這比喻是甚麼意思。</Verse>
+        <Verse osisId="Luke.8.10" sblId="Luke 8:10" name="路加福音 8:10" shortName="路 8:10" orderIndex="9">他說：「上帝國的奧祕只讓你們知道，至於別人，就用比喻，要 他們看也看不見， 聽也不明白。」</Verse>
+        <Verse osisId="Luke.8.11" sblId="Luke 8:11" name="路加福音 8:11" shortName="路 8:11" orderIndex="10">「這比喻是這樣的：種子就是上帝的道。</Verse>
+        <Verse osisId="Luke.8.12" sblId="Luke 8:12" name="路加福音 8:12" shortName="路 8:12" orderIndex="11">那些在路旁的，就是人聽了道，隨後魔鬼來，從他們心裏把道奪去，以免他們信了得救。</Verse>
+        <Verse osisId="Luke.8.13" sblId="Luke 8:13" name="路加福音 8:13" shortName="路 8:13" orderIndex="12">那些在磐石上的，就是人聽道，歡喜領受，但沒有根，不過暫時相信，等到碰上試煉就退後了。</Verse>
+        <Verse osisId="Luke.8.14" sblId="Luke 8:14" name="路加福音 8:14" shortName="路 8:14" orderIndex="13">那落在荊棘裏的，就是人聽了道，走開以後，被今生的憂慮、錢財、宴樂擠住了，結不出成熟的子粒來。</Verse>
+        <Verse osisId="Luke.8.15" sblId="Luke 8:15" name="路加福音 8:15" shortName="路 8:15" orderIndex="14">那落在好土裏的，就是人聽了道，並用純真善良的心持守它，耐心等候結果實。」</Verse>
+        <Verse osisId="Luke.8.16" sblId="Luke 8:16" name="路加福音 8:16" shortName="路 8:16" orderIndex="15">「沒有人點燈用器皿蓋上，或放在床底下，而是放在燈臺上，讓進來的人看見亮光。</Verse>
+        <Verse osisId="Luke.8.17" sblId="Luke 8:17" name="路加福音 8:17" shortName="路 8:17" orderIndex="16">因為掩藏的事沒有不顯出來的，隱瞞的事也沒有不露出來被人知道的。</Verse>
+        <Verse osisId="Luke.8.18" sblId="Luke 8:18" name="路加福音 8:18" shortName="路 8:18" orderIndex="17">所以，你們應當小心怎樣聽。因為凡有的，還要給他；凡沒有的，連他自以為有的也要奪去。」</Verse>
+        <Verse osisId="Luke.8.19" sblId="Luke 8:19" name="路加福音 8:19" shortName="路 8:19" orderIndex="18">耶穌的母親和他兄弟來看他，因為人多，不能到他跟前。</Verse>
+        <Verse osisId="Luke.8.20" sblId="Luke 8:20" name="路加福音 8:20" shortName="路 8:20" orderIndex="19">有人告訴他說：「你母親和你兄弟站在外邊，要見你。」</Verse>
+        <Verse osisId="Luke.8.21" sblId="Luke 8:21" name="路加福音 8:21" shortName="路 8:21" orderIndex="20">耶穌回答他們：「聽了上帝的道而遵行的人，就是我的母親，我的兄弟了。」</Verse>
+        <Verse osisId="Luke.8.22" sblId="Luke 8:22" name="路加福音 8:22" shortName="路 8:22" orderIndex="21">有一天，耶穌和門徒上了船，他對門徒說：「我們渡到湖的對岸去吧。」他們就開了船。</Verse>
+        <Verse osisId="Luke.8.23" sblId="Luke 8:23" name="路加福音 8:23" shortName="路 8:23" orderIndex="22">船行的時候，耶穌睡著了。湖上忽然起了狂風，船將灌滿了水，很危險。</Verse>
+        <Verse osisId="Luke.8.24" sblId="Luke 8:24" name="路加福音 8:24" shortName="路 8:24" orderIndex="23">門徒去叫醒他，說：「老師！老師！我們快沒命啦！」耶穌醒了，斥責那狂風大浪，風浪就止住，平靜了。</Verse>
+        <Verse osisId="Luke.8.25" sblId="Luke 8:25" name="路加福音 8:25" shortName="路 8:25" orderIndex="24">耶穌對他們說：「你們的信心在哪裏呢？」他們又懼怕又驚訝，彼此說：「這到底是誰？他吩咐風和水，連風和水都聽從他。」</Verse>
+        <Verse osisId="Luke.8.26" sblId="Luke 8:26" name="路加福音 8:26" shortName="路 8:26" orderIndex="25">他們到了 格拉森 人的地區，就在 加利利 的對面。</Verse>
+        <Verse osisId="Luke.8.27" sblId="Luke 8:27" name="路加福音 8:27" shortName="路 8:27" orderIndex="26">耶穌上了岸，就有城裏一個被鬼附的人迎著他走來。這個人好久不穿衣服，不住在屋子裏，而住在墳墓裏。</Verse>
+        <Verse osisId="Luke.8.28" sblId="Luke 8:28" name="路加福音 8:28" shortName="路 8:28" orderIndex="27">他看見耶穌，就喊叫著俯伏在他面前，大聲說：「至高上帝的兒子耶穌，你為甚麼干擾我？我求你，不要叫我受苦！」</Verse>
+        <Verse osisId="Luke.8.29" sblId="Luke 8:29" name="路加福音 8:29" shortName="路 8:29" orderIndex="28">這是因耶穌曾吩咐污靈從這人身上出來。原來這污靈屢次抓住他；他常被人看守，又被鐵鏈和腳鐐捆鎖，他竟把鎖鏈掙斷，被鬼趕到曠野去。</Verse>
+        <Verse osisId="Luke.8.30" sblId="Luke 8:30" name="路加福音 8:30" shortName="路 8:30" orderIndex="29">耶穌問他：「你的名字叫甚麼？」他說：「 群 」；這是因為附著他的鬼多。</Verse>
+        <Verse osisId="Luke.8.31" sblId="Luke 8:31" name="路加福音 8:31" shortName="路 8:31" orderIndex="30">鬼就央求耶穌不要命令他們到無底坑裏去。</Verse>
+        <Verse osisId="Luke.8.32" sblId="Luke 8:32" name="路加福音 8:32" shortName="路 8:32" orderIndex="31">那裏有一大群豬正在山坡上吃食，鬼央求耶穌准他們進入豬裏；耶穌准了他們。</Verse>
+        <Verse osisId="Luke.8.33" sblId="Luke 8:33" name="路加福音 8:33" shortName="路 8:33" orderIndex="32">於是鬼從那人出來，進入豬裏，那群豬就闖下山崖，投進湖裏，淹死了。</Verse>
+        <Verse osisId="Luke.8.34" sblId="Luke 8:34" name="路加福音 8:34" shortName="路 8:34" orderIndex="33">放豬的看見這事就逃跑了，去告訴城裏和鄉下的人。</Verse>
+        <Verse osisId="Luke.8.35" sblId="Luke 8:35" name="路加福音 8:35" shortName="路 8:35" orderIndex="34">眾人出來，要看發生了甚麼事；到了耶穌那裏，發現那人坐在耶穌腳前，鬼已離開了他，穿著衣服，神智清醒，他們就害怕。</Verse>
+        <Verse osisId="Luke.8.36" sblId="Luke 8:36" name="路加福音 8:36" shortName="路 8:36" orderIndex="35">看見這事的人把被鬼附的人怎麼得醫治的事告訴他們。</Verse>
+        <Verse osisId="Luke.8.37" sblId="Luke 8:37" name="路加福音 8:37" shortName="路 8:37" orderIndex="36">格拉森 周圍地區的人，因為害怕得很，都求耶穌離開他們；耶穌就上船回去了。</Verse>
+        <Verse osisId="Luke.8.38" sblId="Luke 8:38" name="路加福音 8:38" shortName="路 8:38" orderIndex="37">鬼已從身上出去的那人懇求要和耶穌在一起，耶穌卻打發他回去，說：</Verse>
+        <Verse osisId="Luke.8.39" sblId="Luke 8:39" name="路加福音 8:39" shortName="路 8:39" orderIndex="38">「你回家去，傳講上帝為你做了多麼大的事。」他就走遍全城，傳揚耶穌為他做了多麼大的事。</Verse>
+        <Verse osisId="Luke.8.40" sblId="Luke 8:40" name="路加福音 8:40" shortName="路 8:40" orderIndex="39">耶穌回來的時候，眾人迎接他，因為他們都等候著他。</Verse>
+        <Verse osisId="Luke.8.41" sblId="Luke 8:41" name="路加福音 8:41" shortName="路 8:41" orderIndex="40">有一個會堂主管，名叫 葉魯 ，來俯伏在耶穌腳前，求耶穌到他家裏去，</Verse>
+        <Verse osisId="Luke.8.42" sblId="Luke 8:42" name="路加福音 8:42" shortName="路 8:42" orderIndex="41">因為他有一個獨生女，約十二歲，快要死了。 耶穌去的時候，眾人簇擁著他。</Verse>
+        <Verse osisId="Luke.8.43" sblId="Luke 8:43" name="路加福音 8:43" shortName="路 8:43" orderIndex="42">有一個女人，患了經血不止的病有十二年，在醫生手裏花盡了一生所有的 ，但沒有人能治好她。</Verse>
+        <Verse osisId="Luke.8.44" sblId="Luke 8:44" name="路加福音 8:44" shortName="路 8:44" orderIndex="43">她來到耶穌背後，摸他的衣裳繸子，經血立刻止住了。</Verse>
+        <Verse osisId="Luke.8.45" sblId="Luke 8:45" name="路加福音 8:45" shortName="路 8:45" orderIndex="44">耶穌說：「摸我的是誰？」眾人都不承認。 彼得 說：「老師，眾人擁擁擠擠緊靠著你。」</Verse>
+        <Verse osisId="Luke.8.46" sblId="Luke 8:46" name="路加福音 8:46" shortName="路 8:46" orderIndex="45">耶穌說：「有人摸了我，因為我覺得有能力從我身上出去。」</Verse>
+        <Verse osisId="Luke.8.47" sblId="Luke 8:47" name="路加福音 8:47" shortName="路 8:47" orderIndex="46">那女人知道瞞不住了，就戰戰兢兢地俯伏在耶穌跟前，把摸他的緣故和怎樣立刻痊癒的事，當著眾人都說出來。</Verse>
+        <Verse osisId="Luke.8.48" sblId="Luke 8:48" name="路加福音 8:48" shortName="路 8:48" orderIndex="47">耶穌對她說：「女兒，你的信救了你。平安地回去吧！」</Verse>
+        <Verse osisId="Luke.8.49" sblId="Luke 8:49" name="路加福音 8:49" shortName="路 8:49" orderIndex="48">耶穌還在說話的時候，有人從會堂主管的家裏來，說：「你的女兒死了，不要勞駕老師了。」</Verse>
+        <Verse osisId="Luke.8.50" sblId="Luke 8:50" name="路加福音 8:50" shortName="路 8:50" orderIndex="49">耶穌聽見就對他說：「不要怕，只要信！她必得痊癒。」</Verse>
+        <Verse osisId="Luke.8.51" sblId="Luke 8:51" name="路加福音 8:51" shortName="路 8:51" orderIndex="50">耶穌到了他的家，除了 彼得 、 約翰 、 雅各 ，和女兒的父母，不許別人同他進去。</Verse>
+        <Verse osisId="Luke.8.52" sblId="Luke 8:52" name="路加福音 8:52" shortName="路 8:52" orderIndex="51">眾人都在為這女孩哀哭捶胸。耶穌說：「不要哭，她不是死了，是睡著了。」</Verse>
+        <Verse osisId="Luke.8.53" sblId="Luke 8:53" name="路加福音 8:53" shortName="路 8:53" orderIndex="52">他們知道她已經死了，就嘲笑耶穌。</Verse>
+        <Verse osisId="Luke.8.54" sblId="Luke 8:54" name="路加福音 8:54" shortName="路 8:54" orderIndex="53">耶穌拉著她的手，呼叫著：「孩子，起來吧！」</Verse>
+        <Verse osisId="Luke.8.55" sblId="Luke 8:55" name="路加福音 8:55" shortName="路 8:55" orderIndex="54">她的靈魂就回來了，她立刻起來。耶穌吩咐給她東西吃。</Verse>
+        <Verse osisId="Luke.8.56" sblId="Luke 8:56" name="路加福音 8:56" shortName="路 8:56" orderIndex="55">她的父母非常驚奇；耶穌吩咐他們不要把所發生的事告訴任何人。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.9" sblId="Luke 9" name="路加福音 9" shortName="路 9" orderIndex="8" versesCount="62">
+      <verses>
+        <Verse osisId="Luke.9.1" sblId="Luke 9:1" name="路加福音 9:1" shortName="路 9:1" orderIndex="0">耶穌叫齊了十二使徒，給他們能力和權柄制伏一切的鬼，醫治疾病，</Verse>
+        <Verse osisId="Luke.9.2" sblId="Luke 9:2" name="路加福音 9:2" shortName="路 9:2" orderIndex="1">又差遣他們宣講上帝的國，醫治病人，</Verse>
+        <Verse osisId="Luke.9.3" sblId="Luke 9:3" name="路加福音 9:3" shortName="路 9:3" orderIndex="2">對他們說：「途中甚麼都不要帶；不要帶手杖和行囊，不要帶食物和銀錢，也不要帶兩件內衣 。</Verse>
+        <Verse osisId="Luke.9.4" sblId="Luke 9:4" name="路加福音 9:4" shortName="路 9:4" orderIndex="3">你們無論進哪一家，就住在哪裏，也從那裏離開。</Verse>
+        <Verse osisId="Luke.9.5" sblId="Luke 9:5" name="路加福音 9:5" shortName="路 9:5" orderIndex="4">凡不接待你們的，你們離開那城的時候，要跺掉你們腳上的塵土，證明他們的不是。」</Verse>
+        <Verse osisId="Luke.9.6" sblId="Luke 9:6" name="路加福音 9:6" shortName="路 9:6" orderIndex="5">於是使徒出去，走遍各鄉傳福音，到處治病。</Verse>
+        <Verse osisId="Luke.9.7" sblId="Luke 9:7" name="路加福音 9:7" shortName="路 9:7" orderIndex="6">希律 分封王聽見耶穌所做的一切事，就困惑起來，因為有人說：「 約翰 從死人中復活了。」</Verse>
+        <Verse osisId="Luke.9.8" sblId="Luke 9:8" name="路加福音 9:8" shortName="路 9:8" orderIndex="7">又有人說：「 以利亞 顯現了。」還有人說：「古時的一個先知又活了。」</Verse>
+        <Verse osisId="Luke.9.9" sblId="Luke 9:9" name="路加福音 9:9" shortName="路 9:9" orderIndex="8">希律 說：「 約翰 我已經斬了，但這是甚麼人？關於他，我竟聽到這樣的事！」於是 希律 想要見他。</Verse>
+        <Verse osisId="Luke.9.10" sblId="Luke 9:10" name="路加福音 9:10" shortName="路 9:10" orderIndex="9">使徒們回來，把所做的事告訴耶穌，耶穌就私下帶他們離開那裏，往一座叫 伯賽大 的城去。</Verse>
+        <Verse osisId="Luke.9.11" sblId="Luke 9:11" name="路加福音 9:11" shortName="路 9:11" orderIndex="10">眾人知道了，就跟著他去；耶穌接待他們，對他們講論上帝國的事，治好那些需要醫治的人。</Verse>
+        <Verse osisId="Luke.9.12" sblId="Luke 9:12" name="路加福音 9:12" shortName="路 9:12" orderIndex="11">太陽快要下山，十二使徒進前來對他說：「請叫眾人散去，他們好往四面村莊鄉鎮裏去借宿和找吃的，因為我們這裏地方偏僻。」</Verse>
+        <Verse osisId="Luke.9.13" sblId="Luke 9:13" name="路加福音 9:13" shortName="路 9:13" orderIndex="12">耶穌對他們說：「你們給他們吃吧！」他們說：「我們不過有五個餅、兩條魚，若不去為這許多人買食物就不夠。」</Verse>
+        <Verse osisId="Luke.9.14" sblId="Luke 9:14" name="路加福音 9:14" shortName="路 9:14" orderIndex="13">那時，男人約有五千。耶穌對門徒說：「叫他們分組坐下，每組大約五十個人。」</Verse>
+        <Verse osisId="Luke.9.15" sblId="Luke 9:15" name="路加福音 9:15" shortName="路 9:15" orderIndex="14">門徒就這樣做了，叫眾人都坐下。</Verse>
+        <Verse osisId="Luke.9.16" sblId="Luke 9:16" name="路加福音 9:16" shortName="路 9:16" orderIndex="15">耶穌拿著這五個餅和兩條魚，望著天祝福，擘開，遞給門徒，擺在眾人面前。</Verse>
+        <Verse osisId="Luke.9.17" sblId="Luke 9:17" name="路加福音 9:17" shortName="路 9:17" orderIndex="16">所有的人都吃，並且吃飽了。他們把剩下的碎屑收拾起來，裝滿了十二個籃子。</Verse>
+        <Verse osisId="Luke.9.18" sblId="Luke 9:18" name="路加福音 9:18" shortName="路 9:18" orderIndex="17">耶穌獨自禱告的時候，門徒也同他在那裏。耶穌問他們：「眾人說我是誰？」</Verse>
+        <Verse osisId="Luke.9.19" sblId="Luke 9:19" name="路加福音 9:19" shortName="路 9:19" orderIndex="18">他們回答：「是施洗的 約翰 ；有人說是 以利亞 ；還有人說是古時的一個先知又活了。」</Verse>
+        <Verse osisId="Luke.9.20" sblId="Luke 9:20" name="路加福音 9:20" shortName="路 9:20" orderIndex="19">耶穌問他們：「你們說我是誰？」 彼得 回答：「是上帝所立的基督。」</Verse>
+        <Verse osisId="Luke.9.21" sblId="Luke 9:21" name="路加福音 9:21" shortName="路 9:21" orderIndex="20">耶穌切切吩咐他們，命令他們不可把這事告訴任何人；</Verse>
+        <Verse osisId="Luke.9.22" sblId="Luke 9:22" name="路加福音 9:22" shortName="路 9:22" orderIndex="21">又說：「人子必須受許多的苦，被長老、祭司長和文士棄絕，並且被殺，第三天復活。」</Verse>
+        <Verse osisId="Luke.9.23" sblId="Luke 9:23" name="路加福音 9:23" shortName="路 9:23" orderIndex="22">耶穌又對眾人說：「若有人要跟從我，就當捨己，天天背起自己的十字架來跟從我。</Verse>
+        <Verse osisId="Luke.9.24" sblId="Luke 9:24" name="路加福音 9:24" shortName="路 9:24" orderIndex="23">因為凡要救自己生命的，必喪失生命；凡為我喪失生命的，他必救自己的生命。</Verse>
+        <Verse osisId="Luke.9.25" sblId="Luke 9:25" name="路加福音 9:25" shortName="路 9:25" orderIndex="24">人就是賺得全世界，卻喪失了自己，或賠上自己，有甚麼益處呢？</Verse>
+        <Verse osisId="Luke.9.26" sblId="Luke 9:26" name="路加福音 9:26" shortName="路 9:26" orderIndex="25">凡把我和我的道當作可恥的，人子在自己的榮耀裏，和天父與聖天使的榮耀裏來臨的時候，也要把那人當作可恥的。</Verse>
+        <Verse osisId="Luke.9.27" sblId="Luke 9:27" name="路加福音 9:27" shortName="路 9:27" orderIndex="26">我實在告訴你們，站在這裏的，有人在沒經歷死亡以前，必定看見上帝的國。」</Verse>
+        <Verse osisId="Luke.9.28" sblId="Luke 9:28" name="路加福音 9:28" shortName="路 9:28" orderIndex="27">說了這些話以後約有八天，耶穌帶著 彼得 、 約翰 、 雅各 上山去禱告。</Verse>
+        <Verse osisId="Luke.9.29" sblId="Luke 9:29" name="路加福音 9:29" shortName="路 9:29" orderIndex="28">正禱告的時候，他的面貌改變了，衣服潔白放光。</Verse>
+        <Verse osisId="Luke.9.30" sblId="Luke 9:30" name="路加福音 9:30" shortName="路 9:30" orderIndex="29">忽然有 摩西 和 以利亞 兩個人同耶穌說話；</Verse>
+        <Verse osisId="Luke.9.31" sblId="Luke 9:31" name="路加福音 9:31" shortName="路 9:31" orderIndex="30">他們在榮光裏顯現，談論耶穌去世的事，就是他在 耶路撒冷 將要完成的事。</Verse>
+        <Verse osisId="Luke.9.32" sblId="Luke 9:32" name="路加福音 9:32" shortName="路 9:32" orderIndex="31">彼得 和他的同伴都打盹，但一清醒，就看見耶穌的榮光和與他一起站著的那兩個人。</Verse>
+        <Verse osisId="Luke.9.33" sblId="Luke 9:33" name="路加福音 9:33" shortName="路 9:33" orderIndex="32">二人正要和耶穌分離的時候， 彼得 對耶穌說：「老師，我們在這裏真好！我們來搭三座棚，一座為你，一座為 摩西 ，一座為 以利亞 。」他卻不知道自己在說些甚麼。</Verse>
+        <Verse osisId="Luke.9.34" sblId="Luke 9:34" name="路加福音 9:34" shortName="路 9:34" orderIndex="33">說這些話的時候，有一朵雲彩來遮蓋他們；他們一進入雲彩就很懼怕。</Verse>
+        <Verse osisId="Luke.9.35" sblId="Luke 9:35" name="路加福音 9:35" shortName="路 9:35" orderIndex="34">有聲音從雲彩裏出來，說：「這是我的兒子，我所揀選的 。你們要聽從他！」</Verse>
+        <Verse osisId="Luke.9.36" sblId="Luke 9:36" name="路加福音 9:36" shortName="路 9:36" orderIndex="35">聲音停止後，只見耶穌獨自一人。當那些日子，門徒保持沉默，不把所看見的事告訴任何人。</Verse>
+        <Verse osisId="Luke.9.37" sblId="Luke 9:37" name="路加福音 9:37" shortName="路 9:37" orderIndex="36">第二天，他們下了山，有一大群人來迎見耶穌。</Verse>
+        <Verse osisId="Luke.9.38" sblId="Luke 9:38" name="路加福音 9:38" shortName="路 9:38" orderIndex="37">其中有一人喊著說：「老師！求你看看我的兒子，因為他是我的獨子。</Verse>
+        <Verse osisId="Luke.9.39" sblId="Luke 9:39" name="路加福音 9:39" shortName="路 9:39" orderIndex="38">他被靈拿住就突然喊叫，那靈又使他抽風，口吐白沫，並且重重地傷害他，不輕易放過他。</Verse>
+        <Verse osisId="Luke.9.40" sblId="Luke 9:40" name="路加福音 9:40" shortName="路 9:40" orderIndex="39">我求過你的門徒把那靈趕出去，他們卻不能。」</Verse>
+        <Verse osisId="Luke.9.41" sblId="Luke 9:41" name="路加福音 9:41" shortName="路 9:41" orderIndex="40">耶穌回答：「唉！這又不信又悖謬的世代啊，我和你們在一起，忍耐你們，要到幾時呢？把你的兒子帶到這裏來！」</Verse>
+        <Verse osisId="Luke.9.42" sblId="Luke 9:42" name="路加福音 9:42" shortName="路 9:42" orderIndex="41">他正來的時候，那鬼把他摔倒，使他重重地抽風。耶穌斥責那污靈，把孩子治好了，交給他父親。</Verse>
+        <Verse osisId="Luke.9.43" sblId="Luke 9:43" name="路加福音 9:43" shortName="路 9:43" orderIndex="42">眾人都詫異上帝的大能 。 眾人正驚訝於耶穌所做的一切事的時候，耶穌對門徒說：</Verse>
+        <Verse osisId="Luke.9.44" sblId="Luke 9:44" name="路加福音 9:44" shortName="路 9:44" orderIndex="43">「你們要把這些話聽進去，因為人子將要被交在人手裏。」</Verse>
+        <Verse osisId="Luke.9.45" sblId="Luke 9:45" name="路加福音 9:45" shortName="路 9:45" orderIndex="44">門徒卻不明白這話，其中的意思對他們隱藏著，使他們不能明白，他們也不敢問這話的意思。</Verse>
+        <Verse osisId="Luke.9.46" sblId="Luke 9:46" name="路加福音 9:46" shortName="路 9:46" orderIndex="45">門徒互相議論，他們中間誰最大。</Verse>
+        <Verse osisId="Luke.9.47" sblId="Luke 9:47" name="路加福音 9:47" shortName="路 9:47" orderIndex="46">耶穌看出他們心中的議論，就領一個小孩子來，叫他站在自己旁邊，</Verse>
+        <Verse osisId="Luke.9.48" sblId="Luke 9:48" name="路加福音 9:48" shortName="路 9:48" orderIndex="47">對他們說：「凡為我的名接納這小孩子的，就是接納我；凡接納我的，就是接納那差我來的。你們中間最小的，他就是最大的。」</Verse>
+        <Verse osisId="Luke.9.49" sblId="Luke 9:49" name="路加福音 9:49" shortName="路 9:49" orderIndex="48">約翰 回應說：「老師，我們看見一個人奉你的名趕鬼，我們就阻止他，因為他不與我們一同跟從你。」</Verse>
+        <Verse osisId="Luke.9.50" sblId="Luke 9:50" name="路加福音 9:50" shortName="路 9:50" orderIndex="49">耶穌對他說：「不要阻止他，因為不抵擋你們的，就是幫助你們的。」</Verse>
+        <Verse osisId="Luke.9.51" sblId="Luke 9:51" name="路加福音 9:51" shortName="路 9:51" orderIndex="50">耶穌被接上升的日子將到，他決定面向 耶路撒冷 走去。</Verse>
+        <Verse osisId="Luke.9.52" sblId="Luke 9:52" name="路加福音 9:52" shortName="路 9:52" orderIndex="51">他打發使者在他前頭走；他們進了 撒瑪利亞 的一個村莊，要為他作準備。</Verse>
+        <Verse osisId="Luke.9.53" sblId="Luke 9:53" name="路加福音 9:53" shortName="路 9:53" orderIndex="52">那裏的人不接待他，因為他面向著 耶路撒冷 去。</Verse>
+        <Verse osisId="Luke.9.54" sblId="Luke 9:54" name="路加福音 9:54" shortName="路 9:54" orderIndex="53">他的門徒 雅各 和 約翰 看見了，就說：「主啊！你要我們吩咐火從天上降下來，燒滅他們 嗎？」</Verse>
+        <Verse osisId="Luke.9.55" sblId="Luke 9:55" name="路加福音 9:55" shortName="路 9:55" orderIndex="54">耶穌轉身責備兩個門徒。</Verse>
+        <Verse osisId="Luke.9.56" sblId="Luke 9:56" name="路加福音 9:56" shortName="路 9:56" orderIndex="55">於是他們就往別的村莊去了。</Verse>
+        <Verse osisId="Luke.9.57" sblId="Luke 9:57" name="路加福音 9:57" shortName="路 9:57" orderIndex="56">他們在路上走的時候，有一個人對耶穌說：「你無論往哪裏去，我都要跟從你。」</Verse>
+        <Verse osisId="Luke.9.58" sblId="Luke 9:58" name="路加福音 9:58" shortName="路 9:58" orderIndex="57">耶穌對他說：「狐狸有洞，天空的飛鳥有窩，人子卻沒有枕頭的地方。」</Verse>
+        <Verse osisId="Luke.9.59" sblId="Luke 9:59" name="路加福音 9:59" shortName="路 9:59" orderIndex="58">他又對另一個人說：「來跟從我！」那人說：「主啊 ，容許我先回去埋葬我的父親。」</Verse>
+        <Verse osisId="Luke.9.60" sblId="Luke 9:60" name="路加福音 9:60" shortName="路 9:60" orderIndex="59">耶穌對他說：「讓死人埋葬他們的死人，你只管去傳講上帝的國。」</Verse>
+        <Verse osisId="Luke.9.61" sblId="Luke 9:61" name="路加福音 9:61" shortName="路 9:61" orderIndex="60">又有一人說：「主啊，我要跟從你，但容許我先去辭別我家裏的人。」</Verse>
+        <Verse osisId="Luke.9.62" sblId="Luke 9:62" name="路加福音 9:62" shortName="路 9:62" orderIndex="61">耶穌對他說：「手扶著犁向後看的人，不配進上帝的國。」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.10" sblId="Luke 10" name="路加福音 10" shortName="路 10" orderIndex="9" versesCount="42">
+      <verses>
+        <Verse osisId="Luke.10.1" sblId="Luke 10:1" name="路加福音 10:1" shortName="路 10:1" orderIndex="0">這些事以後，主另外指定七十二個人 ，差遣他們兩個兩個地在他前面，往自己所要到的各城各地去。</Verse>
+        <Verse osisId="Luke.10.2" sblId="Luke 10:2" name="路加福音 10:2" shortName="路 10:2" orderIndex="1">他對他們說：「要收的莊稼多，做工的人少。所以，你們要求莊稼的主差遣做工的人出去收他的莊稼。</Verse>
+        <Verse osisId="Luke.10.3" sblId="Luke 10:3" name="路加福音 10:3" shortName="路 10:3" orderIndex="2">你們去吧！看！我差你們出去，如同羔羊進入狼群。</Verse>
+        <Verse osisId="Luke.10.4" sblId="Luke 10:4" name="路加福音 10:4" shortName="路 10:4" orderIndex="3">不要帶錢囊，不要帶行囊，不要帶鞋子；在路上也不要向人問安。</Verse>
+        <Verse osisId="Luke.10.5" sblId="Luke 10:5" name="路加福音 10:5" shortName="路 10:5" orderIndex="4">無論進哪一家，先要說：『願這一家平安。』</Verse>
+        <Verse osisId="Luke.10.6" sblId="Luke 10:6" name="路加福音 10:6" shortName="路 10:6" orderIndex="5">那裏若有當得平安的人，你們所求的平安就必臨到那家，不然，將歸還你們。</Verse>
+        <Verse osisId="Luke.10.7" sblId="Luke 10:7" name="路加福音 10:7" shortName="路 10:7" orderIndex="6">你們要住在那家，吃喝他們所供給的，因為工人得工錢是應當的；不要從這家搬到那家。</Verse>
+        <Verse osisId="Luke.10.8" sblId="Luke 10:8" name="路加福音 10:8" shortName="路 10:8" orderIndex="7">無論進哪一城，人若接待你們，給你們擺上甚麼食物，你們就吃甚麼。</Verse>
+        <Verse osisId="Luke.10.9" sblId="Luke 10:9" name="路加福音 10:9" shortName="路 10:9" orderIndex="8">要醫治那城裏的病人，對他們說：『上帝的國臨近你們了。』</Verse>
+        <Verse osisId="Luke.10.10" sblId="Luke 10:10" name="路加福音 10:10" shortName="路 10:10" orderIndex="9">無論進哪一城，人若不接待你們，你們就到大街上去，說：</Verse>
+        <Verse osisId="Luke.10.11" sblId="Luke 10:11" name="路加福音 10:11" shortName="路 10:11" orderIndex="10">『就是你們城裏的塵土黏在我們的腳上，我們也當著你們擦去。但是，你們該知道上帝的國臨近了。』</Verse>
+        <Verse osisId="Luke.10.12" sblId="Luke 10:12" name="路加福音 10:12" shortName="路 10:12" orderIndex="11">我告訴你們，在那日子， 所多瑪 所受的，比那城還容易受呢！」</Verse>
+        <Verse osisId="Luke.10.13" sblId="Luke 10:13" name="路加福音 10:13" shortName="路 10:13" orderIndex="12">「 哥拉汛 哪，你有禍了！ 伯賽大 啊，你有禍了！因為在你們中間所行的異能，若行在 推羅 、 西頓 ，他們早已披麻蒙灰，坐在地上悔改了。</Verse>
+        <Verse osisId="Luke.10.14" sblId="Luke 10:14" name="路加福音 10:14" shortName="路 10:14" orderIndex="13">在審判的時候， 推羅 和 西頓 所受的，比你們還容易受呢！</Verse>
+        <Verse osisId="Luke.10.15" sblId="Luke 10:15" name="路加福音 10:15" shortName="路 10:15" orderIndex="14">迦百農 啊， 你以為要被舉到天上嗎？ 你要被推下陰間！」</Verse>
+        <Verse osisId="Luke.10.16" sblId="Luke 10:16" name="路加福音 10:16" shortName="路 10:16" orderIndex="15">耶穌又對門徒說：「聽從你們的就是聽從我；棄絕你們的就是棄絕我；棄絕我的就是棄絕差遣我來的那位。」</Verse>
+        <Verse osisId="Luke.10.17" sblId="Luke 10:17" name="路加福音 10:17" shortName="路 10:17" orderIndex="16">那七十二個人歡歡喜喜地回來，說：「主啊，因你的名，就是鬼也服了我們。」</Verse>
+        <Verse osisId="Luke.10.18" sblId="Luke 10:18" name="路加福音 10:18" shortName="路 10:18" orderIndex="17">耶穌對他們說：「我看見撒但從天上墜落，像閃電一樣。</Verse>
+        <Verse osisId="Luke.10.19" sblId="Luke 10:19" name="路加福音 10:19" shortName="路 10:19" orderIndex="18">我已經給你們權柄可以踐踏蛇和蠍子，又勝過仇敵一切的能力，絕沒有甚麼能害你們。</Verse>
+        <Verse osisId="Luke.10.20" sblId="Luke 10:20" name="路加福音 10:20" shortName="路 10:20" orderIndex="19">然而，不要因靈服了你們就歡喜，而要因你們的名記錄在天上歡喜。」</Verse>
+        <Verse osisId="Luke.10.21" sblId="Luke 10:21" name="路加福音 10:21" shortName="路 10:21" orderIndex="20">正當那時，耶穌被聖靈感動而歡喜快樂，說：「父啊，天地的主，我感謝你！因為你把這些事向聰明智慧的人隱藏起來，而向嬰孩啟示出來。父啊，是的，因為你的美意本是如此。</Verse>
+        <Verse osisId="Luke.10.22" sblId="Luke 10:22" name="路加福音 10:22" shortName="路 10:22" orderIndex="21">一切都是我父交給我的。除了父，沒有人知道子是誰；除了子和子所願意啟示的人，沒有人知道父是誰。」</Verse>
+        <Verse osisId="Luke.10.23" sblId="Luke 10:23" name="路加福音 10:23" shortName="路 10:23" orderIndex="22">耶穌轉身私下對門徒說：「看見你們所看見的，那眼睛有福了。</Verse>
+        <Verse osisId="Luke.10.24" sblId="Luke 10:24" name="路加福音 10:24" shortName="路 10:24" orderIndex="23">我告訴你們，從前有許多先知和君王要看你們所看的，卻沒有看見，要聽你們所聽的，卻沒有聽見。」</Verse>
+        <Verse osisId="Luke.10.25" sblId="Luke 10:25" name="路加福音 10:25" shortName="路 10:25" orderIndex="24">有一個律法師起來試探耶穌，說：「老師！我該做甚麼才可以承受永生？」</Verse>
+        <Verse osisId="Luke.10.26" sblId="Luke 10:26" name="路加福音 10:26" shortName="路 10:26" orderIndex="25">耶穌對他說：「律法上寫的是甚麼？你是怎樣念的呢？」</Verse>
+        <Verse osisId="Luke.10.27" sblId="Luke 10:27" name="路加福音 10:27" shortName="路 10:27" orderIndex="26">他回答說：「你要盡心、盡性、盡力、盡意愛主—你的上帝，又要愛鄰 如己。」</Verse>
+        <Verse osisId="Luke.10.28" sblId="Luke 10:28" name="路加福音 10:28" shortName="路 10:28" orderIndex="27">耶穌對他說：「你回答得正確，你這樣做就會得永生。」</Verse>
+        <Verse osisId="Luke.10.29" sblId="Luke 10:29" name="路加福音 10:29" shortName="路 10:29" orderIndex="28">那人要證明自己有理，就對耶穌說：「誰是我的鄰舍呢？」</Verse>
+        <Verse osisId="Luke.10.30" sblId="Luke 10:30" name="路加福音 10:30" shortName="路 10:30" orderIndex="29">耶穌回答：「有一個人從 耶路撒冷 下 耶利哥 去，落在強盜手中。他們剝去他的衣裳，把他打個半死，丟下他走了。</Verse>
+        <Verse osisId="Luke.10.31" sblId="Luke 10:31" name="路加福音 10:31" shortName="路 10:31" orderIndex="30">偶然有一個祭司從那條路下來，看見他就從另一邊過去了。</Verse>
+        <Verse osisId="Luke.10.32" sblId="Luke 10:32" name="路加福音 10:32" shortName="路 10:32" orderIndex="31">又有一個 利未 人來到那裏，看見他，也照樣從另一邊過去了。</Verse>
+        <Verse osisId="Luke.10.33" sblId="Luke 10:33" name="路加福音 10:33" shortName="路 10:33" orderIndex="32">可是，有一個 撒瑪利亞 人路過那裏，看見他就動了慈心，</Verse>
+        <Verse osisId="Luke.10.34" sblId="Luke 10:34" name="路加福音 10:34" shortName="路 10:34" orderIndex="33">上前用油和酒倒在他的傷處，包裹好了，扶他騎上自己的牲口，帶他到旅店裏去，照應他。</Verse>
+        <Verse osisId="Luke.10.35" sblId="Luke 10:35" name="路加福音 10:35" shortName="路 10:35" orderIndex="34">第二天，他拿出兩個銀幣來，交給店主，說：『請你照應他，額外的費用，我回來時會還你。』</Verse>
+        <Verse osisId="Luke.10.36" sblId="Luke 10:36" name="路加福音 10:36" shortName="路 10:36" orderIndex="35">你想，這三個人哪一個是落在強盜手中那人的鄰舍呢？」</Verse>
+        <Verse osisId="Luke.10.37" sblId="Luke 10:37" name="路加福音 10:37" shortName="路 10:37" orderIndex="36">他說：「是憐憫他的。」耶穌對他說：「你去，照樣做吧！」</Verse>
+        <Verse osisId="Luke.10.38" sblId="Luke 10:38" name="路加福音 10:38" shortName="路 10:38" orderIndex="37">他們繼續前行，耶穌進了一個村莊。有一個女人，名叫 馬大 ，接他到自己家裏。</Verse>
+        <Verse osisId="Luke.10.39" sblId="Luke 10:39" name="路加福音 10:39" shortName="路 10:39" orderIndex="38">她有一個妹妹，名叫 馬利亞 ，在主的腳前坐著聽他的道。</Verse>
+        <Verse osisId="Luke.10.40" sblId="Luke 10:40" name="路加福音 10:40" shortName="路 10:40" orderIndex="39">馬大 伺候的事多，心裏忙亂，進前來，說：「主啊，我的妹妹留下我一個人伺候，你不在意嗎？請吩咐她來幫助我。」</Verse>
+        <Verse osisId="Luke.10.41" sblId="Luke 10:41" name="路加福音 10:41" shortName="路 10:41" orderIndex="40">主回答說：「 馬大 ， 馬大 ，你為許多的事操心煩惱，</Verse>
+        <Verse osisId="Luke.10.42" sblId="Luke 10:42" name="路加福音 10:42" shortName="路 10:42" orderIndex="41">但是不可少的只有一件 。 馬利亞 已經選擇了那上好的福分，是沒有人能從她奪去的。」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.11" sblId="Luke 11" name="路加福音 11" shortName="路 11" orderIndex="10" versesCount="54">
+      <verses>
+        <Verse osisId="Luke.11.1" sblId="Luke 11:1" name="路加福音 11:1" shortName="路 11:1" orderIndex="0">耶穌在一個地方禱告。禱告完了，有個門徒對他說：「主啊，求你教導我們禱告，像 約翰 教導他的門徒一樣。」</Verse>
+        <Verse osisId="Luke.11.2" sblId="Luke 11:2" name="路加福音 11:2" shortName="路 11:2" orderIndex="1">耶穌對他們說：「你們禱告的時候，要說： 『父啊， 願人都尊你的名為聖； 願你的國降臨；</Verse>
+        <Verse osisId="Luke.11.3" sblId="Luke 11:3" name="路加福音 11:3" shortName="路 11:3" orderIndex="2">我們日用的飲食，天天賜給我們。</Verse>
+        <Verse osisId="Luke.11.4" sblId="Luke 11:4" name="路加福音 11:4" shortName="路 11:4" orderIndex="3">赦免我們的罪， 因為我們也赦免凡虧欠我們的人。 不叫我們陷入試探。 』」</Verse>
+        <Verse osisId="Luke.11.5" sblId="Luke 11:5" name="路加福音 11:5" shortName="路 11:5" orderIndex="4">耶穌又對他們說：「你們中間誰有一個朋友半夜到他那裏去，對他說：『朋友！請借給我三個餅；</Verse>
+        <Verse osisId="Luke.11.6" sblId="Luke 11:6" name="路加福音 11:6" shortName="路 11:6" orderIndex="5">因為我有一個朋友旅途中來到我這裏，我沒有東西招待他。』</Verse>
+        <Verse osisId="Luke.11.7" sblId="Luke 11:7" name="路加福音 11:7" shortName="路 11:7" orderIndex="6">那人在裏面回答：『不要打擾我，門已經關了，孩子們也同我在床上了，我不能起來給你。』</Verse>
+        <Verse osisId="Luke.11.8" sblId="Luke 11:8" name="路加福音 11:8" shortName="路 11:8" orderIndex="7">我告訴你們，雖不因他是朋友起來給他，也會因他不顧面子地直求，起來照他所需要的給他。</Verse>
+        <Verse osisId="Luke.11.9" sblId="Luke 11:9" name="路加福音 11:9" shortName="路 11:9" orderIndex="8">我又告訴你們，祈求，就給你們；尋找，就找到；叩門，就給你們開門。</Verse>
+        <Verse osisId="Luke.11.10" sblId="Luke 11:10" name="路加福音 11:10" shortName="路 11:10" orderIndex="9">因為凡祈求的，就得著；尋找的，就找到；叩門的，就給他開門。</Verse>
+        <Verse osisId="Luke.11.11" sblId="Luke 11:11" name="路加福音 11:11" shortName="路 11:11" orderIndex="10">你們中間作父親的，誰有兒子 求魚，反拿蛇當魚給他呢？</Verse>
+        <Verse osisId="Luke.11.12" sblId="Luke 11:12" name="路加福音 11:12" shortName="路 11:12" orderIndex="11">求雞蛋，反給他蠍子呢？</Verse>
+        <Verse osisId="Luke.11.13" sblId="Luke 11:13" name="路加福音 11:13" shortName="路 11:13" orderIndex="12">你們雖然不好，尚且知道拿好東西給兒女，何況 天父，他豈不更要把聖靈賜給求他的人嗎？」</Verse>
+        <Verse osisId="Luke.11.14" sblId="Luke 11:14" name="路加福音 11:14" shortName="路 11:14" orderIndex="13">耶穌趕出一個使人成為啞巴的鬼 ，鬼出去了，啞巴就說出話來；眾人都很驚訝。</Verse>
+        <Verse osisId="Luke.11.15" sblId="Luke 11:15" name="路加福音 11:15" shortName="路 11:15" orderIndex="14">其中卻有人說：「他是靠著鬼王 別西卜 趕鬼。」</Verse>
+        <Verse osisId="Luke.11.16" sblId="Luke 11:16" name="路加福音 11:16" shortName="路 11:16" orderIndex="15">又有人試探耶穌，要他顯個來自天上的神蹟。</Verse>
+        <Verse osisId="Luke.11.17" sblId="Luke 11:17" name="路加福音 11:17" shortName="路 11:17" orderIndex="16">他知道他們的意念，就對他們說：「一國自相紛爭，必定荒蕪；一家自相紛爭，就必敗落。</Verse>
+        <Verse osisId="Luke.11.18" sblId="Luke 11:18" name="路加福音 11:18" shortName="路 11:18" orderIndex="17">撒但若自相紛爭，他的國怎能立得住呢？因為你們說我是靠著 別西卜 趕鬼。</Verse>
+        <Verse osisId="Luke.11.19" sblId="Luke 11:19" name="路加福音 11:19" shortName="路 11:19" orderIndex="18">我若靠著 別西卜 趕鬼，你們的子弟趕鬼又靠著誰呢？這樣，他們要作你們的判官。</Verse>
+        <Verse osisId="Luke.11.20" sblId="Luke 11:20" name="路加福音 11:20" shortName="路 11:20" orderIndex="19">我若靠著上帝的能力趕鬼，那麼，上帝的國就已臨到你們了。</Verse>
+        <Verse osisId="Luke.11.21" sblId="Luke 11:21" name="路加福音 11:21" shortName="路 11:21" orderIndex="20">壯士全副武裝，看守自己的住宅，他所有的都很安全；</Verse>
+        <Verse osisId="Luke.11.22" sblId="Luke 11:22" name="路加福音 11:22" shortName="路 11:22" orderIndex="21">但有一個比他更強的來攻擊他，並且戰勝了他，就奪去他所倚靠的盔甲兵器，又分了他的掠物。</Verse>
+        <Verse osisId="Luke.11.23" sblId="Luke 11:23" name="路加福音 11:23" shortName="路 11:23" orderIndex="22">不跟我一起的，就是反對我；不與我一起收聚的，就是在拆散。」</Verse>
+        <Verse osisId="Luke.11.24" sblId="Luke 11:24" name="路加福音 11:24" shortName="路 11:24" orderIndex="23">「污靈離了人身，走遍無水之地尋找安歇之處，卻找不到。就說：『我要回到我原來的屋裏去。』</Verse>
+        <Verse osisId="Luke.11.25" sblId="Luke 11:25" name="路加福音 11:25" shortName="路 11:25" orderIndex="24">他到了，看見裏面打掃乾淨，修飾好了，</Verse>
+        <Verse osisId="Luke.11.26" sblId="Luke 11:26" name="路加福音 11:26" shortName="路 11:26" orderIndex="25">就去另帶了七個比自己更惡的靈來，都進去住在那裏。那人後來的景況比先前更壞了。」</Verse>
+        <Verse osisId="Luke.11.27" sblId="Luke 11:27" name="路加福音 11:27" shortName="路 11:27" orderIndex="26">耶穌正說這些話的時候，眾人中間有一個女人高聲對他說：「懷你胎乳養你的有福了！」</Verse>
+        <Verse osisId="Luke.11.28" sblId="Luke 11:28" name="路加福音 11:28" shortName="路 11:28" orderIndex="27">耶穌卻說：「更有福的是聽上帝的道而遵守的人！」</Verse>
+        <Verse osisId="Luke.11.29" sblId="Luke 11:29" name="路加福音 11:29" shortName="路 11:29" orderIndex="28">當眾人越來越擁擠的時候，耶穌說：「這世代是一個邪惡的世代。他們求看神蹟，除了 約拿 的神蹟以外，再沒有神蹟給他們看了。</Verse>
+        <Verse osisId="Luke.11.30" sblId="Luke 11:30" name="路加福音 11:30" shortName="路 11:30" orderIndex="29">約拿 怎樣為 尼尼微 人成了神蹟，人子也要照樣為這世代的人成為神蹟。</Verse>
+        <Verse osisId="Luke.11.31" sblId="Luke 11:31" name="路加福音 11:31" shortName="路 11:31" orderIndex="30">在審判的時候，南方的女王要起來定這世代的人的罪，因為她從地極而來，要聽 所羅門 智慧的話。看哪，比 所羅門 更大的在這裏！</Verse>
+        <Verse osisId="Luke.11.32" sblId="Luke 11:32" name="路加福音 11:32" shortName="路 11:32" orderIndex="31">在審判的時候， 尼尼微 人要起來定這世代的罪，因為 尼尼微 人聽了 約拿 所傳的就悔改了。看哪，比 約拿 更大的在這裏！」</Verse>
+        <Verse osisId="Luke.11.33" sblId="Luke 11:33" name="路加福音 11:33" shortName="路 11:33" orderIndex="32">「沒有人點燈放在地窖裏，或是斗底下 ，總是放在燈臺上，讓進來的人看見亮光。</Verse>
+        <Verse osisId="Luke.11.34" sblId="Luke 11:34" name="路加福音 11:34" shortName="路 11:34" orderIndex="33">你的眼睛就是身體的燈。當你的眼睛明亮，全身就光明，當眼睛昏花，全身就黑暗。</Verse>
+        <Verse osisId="Luke.11.35" sblId="Luke 11:35" name="路加福音 11:35" shortName="路 11:35" orderIndex="34">所以，你要注意，免得你裏面的光暗了。</Verse>
+        <Verse osisId="Luke.11.36" sblId="Luke 11:36" name="路加福音 11:36" shortName="路 11:36" orderIndex="35">若是你全身光明，毫無黑暗，就必全然光明，如同燈的明光照亮你。」</Verse>
+        <Verse osisId="Luke.11.37" sblId="Luke 11:37" name="路加福音 11:37" shortName="路 11:37" orderIndex="36">耶穌正說話的時候，有一個法利賽人請他吃飯，耶穌就進去坐席。</Verse>
+        <Verse osisId="Luke.11.38" sblId="Luke 11:38" name="路加福音 11:38" shortName="路 11:38" orderIndex="37">這法利賽人看見耶穌飯前不先洗手就很詫異。</Verse>
+        <Verse osisId="Luke.11.39" sblId="Luke 11:39" name="路加福音 11:39" shortName="路 11:39" orderIndex="38">主對他說：「如今你們法利賽人洗淨杯盤的外面，你們裏面卻滿了貪婪和邪惡。</Verse>
+        <Verse osisId="Luke.11.40" sblId="Luke 11:40" name="路加福音 11:40" shortName="路 11:40" orderIndex="39">無知的人哪！造外面的，不也造了裏面嗎？</Verse>
+        <Verse osisId="Luke.11.41" sblId="Luke 11:41" name="路加福音 11:41" shortName="路 11:41" orderIndex="40">只要把杯盤裏面的施捨給人，對你們來說一切就都潔淨了。</Verse>
+        <Verse osisId="Luke.11.42" sblId="Luke 11:42" name="路加福音 11:42" shortName="路 11:42" orderIndex="41">「但是你們法利賽人有禍了！因為你們將薄荷、芸香，和各樣蔬菜獻上十分之一，疏忽了公義和愛上帝的事；這原是你們該做的—至於其他也不可忽略。</Verse>
+        <Verse osisId="Luke.11.43" sblId="Luke 11:43" name="路加福音 11:43" shortName="路 11:43" orderIndex="42">你們法利賽人有禍了！因為你們喜愛會堂裏的高位，又喜歡人們在街市上向你們問安。</Verse>
+        <Verse osisId="Luke.11.44" sblId="Luke 11:44" name="路加福音 11:44" shortName="路 11:44" orderIndex="43">你們有禍了！因為你們如同不顯露的墳墓，走在上面的人並不知道。」</Verse>
+        <Verse osisId="Luke.11.45" sblId="Luke 11:45" name="路加福音 11:45" shortName="路 11:45" orderIndex="44">律法師中有一個回答耶穌，說：「老師，你這樣說也把我們侮辱了。」</Verse>
+        <Verse osisId="Luke.11.46" sblId="Luke 11:46" name="路加福音 11:46" shortName="路 11:46" orderIndex="45">耶穌說：「你們律法師也有禍了！因為你們把難挑的擔子放在別人身上，自己卻不肯動一個指頭去減輕這些擔子。</Verse>
+        <Verse osisId="Luke.11.47" sblId="Luke 11:47" name="路加福音 11:47" shortName="路 11:47" orderIndex="46">你們有禍了！因為你們建造先知的墳墓，那些先知正是你們的祖宗所殺的。</Verse>
+        <Verse osisId="Luke.11.48" sblId="Luke 11:48" name="路加福音 11:48" shortName="路 11:48" orderIndex="47">可見你們祖宗所做的事，你們是證人，你們也贊同，因為他們殺了先知，你們建造先知的墳墓。</Verse>
+        <Verse osisId="Luke.11.49" sblId="Luke 11:49" name="路加福音 11:49" shortName="路 11:49" orderIndex="48">所以，上帝的智慧也曾說：『我要差遣先知和使徒到他們那裏去，有的他們要殘殺，有的他們要迫害』，</Verse>
+        <Verse osisId="Luke.11.50" sblId="Luke 11:50" name="路加福音 11:50" shortName="路 11:50" orderIndex="49">為使創世以來所流眾先知的血的罪都歸在這世代的人身上，</Verse>
+        <Verse osisId="Luke.11.51" sblId="Luke 11:51" name="路加福音 11:51" shortName="路 11:51" orderIndex="50">就是從 亞伯 的血起，直到被殺在祭壇和聖所中間的 撒迦利亞 的血為止。是的，我告訴你們，這都要向這世代的人追討。</Verse>
+        <Verse osisId="Luke.11.52" sblId="Luke 11:52" name="路加福音 11:52" shortName="路 11:52" orderIndex="51">你們律法師有禍了！因為你們把知識的鑰匙奪了去，自己不進去，要進去的人，你們也阻擋他們。」</Verse>
+        <Verse osisId="Luke.11.53" sblId="Luke 11:53" name="路加福音 11:53" shortName="路 11:53" orderIndex="52">耶穌從那裏出來，文士和法利賽人就開始極力地催逼他，盤問他許多事，</Verse>
+        <Verse osisId="Luke.11.54" sblId="Luke 11:54" name="路加福音 11:54" shortName="路 11:54" orderIndex="53">伺機要抓他的話柄。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.12" sblId="Luke 12" name="路加福音 12" shortName="路 12" orderIndex="11" versesCount="59">
+      <verses>
+        <Verse osisId="Luke.12.1" sblId="Luke 12:1" name="路加福音 12:1" shortName="路 12:1" orderIndex="0">這時，有幾萬人聚集，甚至彼此踐踏。耶穌就先對門徒說：「你們要防備法利賽人的酵，就是假冒為善。</Verse>
+        <Verse osisId="Luke.12.2" sblId="Luke 12:2" name="路加福音 12:2" shortName="路 12:2" orderIndex="1">掩蓋的事沒有不顯露出來的，隱藏的事也沒有不被人知道的。</Verse>
+        <Verse osisId="Luke.12.3" sblId="Luke 12:3" name="路加福音 12:3" shortName="路 12:3" orderIndex="2">因此，你們在暗中所說的，將要在明處被人聽見；在密室附耳所說的，將要在屋頂上被人宣揚。」</Verse>
+        <Verse osisId="Luke.12.4" sblId="Luke 12:4" name="路加福音 12:4" shortName="路 12:4" orderIndex="3">「我的朋友，我對你們說，那最多只能殺人身體而不能再做甚麼的，不要怕他們。</Verse>
+        <Verse osisId="Luke.12.5" sblId="Luke 12:5" name="路加福音 12:5" shortName="路 12:5" orderIndex="4">我提醒你們該怕的是誰：該怕那殺了以後又有權柄把人扔在地獄裏的。是的，我告訴你們，正要怕他。</Verse>
+        <Verse osisId="Luke.12.6" sblId="Luke 12:6" name="路加福音 12:6" shortName="路 12:6" orderIndex="5">五隻麻雀不是賣二銅錢 嗎？但在上帝面前，一隻也不被忘記；</Verse>
+        <Verse osisId="Luke.12.7" sblId="Luke 12:7" name="路加福音 12:7" shortName="路 12:7" orderIndex="6">就是你們的頭髮也都數過了。不要懼怕，你們比許多的麻雀還貴重！」</Verse>
+        <Verse osisId="Luke.12.8" sblId="Luke 12:8" name="路加福音 12:8" shortName="路 12:8" orderIndex="7">「我又告訴你們，凡在人面前認我的，人子在上帝的使者面前也必認他；</Verse>
+        <Verse osisId="Luke.12.9" sblId="Luke 12:9" name="路加福音 12:9" shortName="路 12:9" orderIndex="8">在人面前不認我的，人子在上帝的使者面前也必不認他。</Verse>
+        <Verse osisId="Luke.12.10" sblId="Luke 12:10" name="路加福音 12:10" shortName="路 12:10" orderIndex="9">凡說話干犯人子的，還可得赦免；但是褻瀆聖靈的，總不得赦免。</Verse>
+        <Verse osisId="Luke.12.11" sblId="Luke 12:11" name="路加福音 12:11" shortName="路 12:11" orderIndex="10">有人帶你們到會堂、官長和掌權的人面前，不要擔心怎麼答辯，說甚麼話；</Verse>
+        <Verse osisId="Luke.12.12" sblId="Luke 12:12" name="路加福音 12:12" shortName="路 12:12" orderIndex="11">因為就在那時候，聖靈要指教你們該說的話。」</Verse>
+        <Verse osisId="Luke.12.13" sblId="Luke 12:13" name="路加福音 12:13" shortName="路 12:13" orderIndex="12">人群中有一個人對耶穌說：「老師！請你吩咐我的兄弟和我分家產。」</Verse>
+        <Verse osisId="Luke.12.14" sblId="Luke 12:14" name="路加福音 12:14" shortName="路 12:14" orderIndex="13">耶穌對他說：「你這個人！誰立我作你們的判官，或給你們分家產的呢？」</Verse>
+        <Verse osisId="Luke.12.15" sblId="Luke 12:15" name="路加福音 12:15" shortName="路 12:15" orderIndex="14">於是他對他們說：「你們要謹慎自守，躲避一切的貪心，因為人的生命不在於家道豐富。」</Verse>
+        <Verse osisId="Luke.12.16" sblId="Luke 12:16" name="路加福音 12:16" shortName="路 12:16" orderIndex="15">然後他用比喻對他們說：「有一個財主，田地出產豐富。</Verse>
+        <Verse osisId="Luke.12.17" sblId="Luke 12:17" name="路加福音 12:17" shortName="路 12:17" orderIndex="16">他自己心裏想：『我的出產沒有地方儲藏，怎麼辦呢？』</Verse>
+        <Verse osisId="Luke.12.18" sblId="Luke 12:18" name="路加福音 12:18" shortName="路 12:18" orderIndex="17">就說：『我要這麼辦：要把我的倉庫拆了，另蓋更大的，在那裏好儲藏我一切的糧食和財物，</Verse>
+        <Verse osisId="Luke.12.19" sblId="Luke 12:19" name="路加福音 12:19" shortName="路 12:19" orderIndex="18">然後要對我自己說：你這個人哪，你有許多財物積存，可供多年享用，只管安安逸逸吃喝快樂吧！』</Verse>
+        <Verse osisId="Luke.12.20" sblId="Luke 12:20" name="路加福音 12:20" shortName="路 12:20" orderIndex="19">上帝卻對他說：『無知的人哪！今夜就要你的性命，你所預備的要歸誰呢？』</Verse>
+        <Verse osisId="Luke.12.21" sblId="Luke 12:21" name="路加福音 12:21" shortName="路 12:21" orderIndex="20">凡為自己積財，在上帝面前卻不富足的，也是這樣。」</Verse>
+        <Verse osisId="Luke.12.22" sblId="Luke 12:22" name="路加福音 12:22" shortName="路 12:22" orderIndex="21">耶穌又對門徒說：「所以，我告訴你們，不要為生命憂慮吃甚麼，為身體憂慮穿甚麼。</Verse>
+        <Verse osisId="Luke.12.23" sblId="Luke 12:23" name="路加福音 12:23" shortName="路 12:23" orderIndex="22">因為生命勝於飲食，身體勝於衣裳。</Verse>
+        <Verse osisId="Luke.12.24" sblId="Luke 12:24" name="路加福音 12:24" shortName="路 12:24" orderIndex="23">你們想一想烏鴉：牠們既不種也不收，既沒有倉又沒有庫，上帝尚且養活牠們。你們比飛鳥要貴重得多呢！</Verse>
+        <Verse osisId="Luke.12.25" sblId="Luke 12:25" name="路加福音 12:25" shortName="路 12:25" orderIndex="24">你們哪一個能藉著憂慮使壽數多加一刻呢 ？</Verse>
+        <Verse osisId="Luke.12.26" sblId="Luke 12:26" name="路加福音 12:26" shortName="路 12:26" orderIndex="25">這最小的事你們尚且不能做，何必憂慮其餘的事呢？</Verse>
+        <Verse osisId="Luke.12.27" sblId="Luke 12:27" name="路加福音 12:27" shortName="路 12:27" orderIndex="26">你們想一想百合花是怎麼長起來的：它也不勞動，也不紡線。然而我告訴你們，就是 所羅門 極榮華的時候，他所穿戴的還不如這些花的一朵呢！</Verse>
+        <Verse osisId="Luke.12.28" sblId="Luke 12:28" name="路加福音 12:28" shortName="路 12:28" orderIndex="27">你們這小信的人哪！野地裏的草今天還在，明天就丟在爐裏，上帝還給它這樣的妝飾，何況你們呢？</Verse>
+        <Verse osisId="Luke.12.29" sblId="Luke 12:29" name="路加福音 12:29" shortName="路 12:29" orderIndex="28">你們不要求吃甚麼，喝甚麼，也不要掛慮。</Verse>
+        <Verse osisId="Luke.12.30" sblId="Luke 12:30" name="路加福音 12:30" shortName="路 12:30" orderIndex="29">這都是世上的外邦人所求的；你們需要這些東西，你們的父都知道。</Verse>
+        <Verse osisId="Luke.12.31" sblId="Luke 12:31" name="路加福音 12:31" shortName="路 12:31" orderIndex="30">你們只要求他的國，這些東西就必加給你們了。</Verse>
+        <Verse osisId="Luke.12.32" sblId="Luke 12:32" name="路加福音 12:32" shortName="路 12:32" orderIndex="31">你們這小群，不要懼怕，因為你們的父樂意把國賜給你們。</Verse>
+        <Verse osisId="Luke.12.33" sblId="Luke 12:33" name="路加福音 12:33" shortName="路 12:33" orderIndex="32">你們要變賣財產賙濟人，為自己預備永不壞的錢囊和用不盡的財寶在天上，就是賊不能近，蟲不能蛀的地方。</Verse>
+        <Verse osisId="Luke.12.34" sblId="Luke 12:34" name="路加福音 12:34" shortName="路 12:34" orderIndex="33">因為你們的財寶在哪裏，你們的心也在哪裏。」</Verse>
+        <Verse osisId="Luke.12.35" sblId="Luke 12:35" name="路加福音 12:35" shortName="路 12:35" orderIndex="34">「你們要束緊腰帶，燈也要點著，</Verse>
+        <Verse osisId="Luke.12.36" sblId="Luke 12:36" name="路加福音 12:36" shortName="路 12:36" orderIndex="35">好像僕人等候自己的主人從婚宴上回來。他來叩門，就立刻給他開門。</Verse>
+        <Verse osisId="Luke.12.37" sblId="Luke 12:37" name="路加福音 12:37" shortName="路 12:37" orderIndex="36">主人來了，看見僕人警醒，那些僕人就有福了。我實在告訴你們，主人會叫他們坐席，自己束上腰帶，前來伺候他們。</Verse>
+        <Verse osisId="Luke.12.38" sblId="Luke 12:38" name="路加福音 12:38" shortName="路 12:38" orderIndex="37">他或是半夜來，或是天亮之前來，看見僕人這樣，那些僕人就有福了。</Verse>
+        <Verse osisId="Luke.12.39" sblId="Luke 12:39" name="路加福音 12:39" shortName="路 12:39" orderIndex="38">你們要知道，一家的主人若知道賊甚麼時候來，就 不容賊挖穿房屋。</Verse>
+        <Verse osisId="Luke.12.40" sblId="Luke 12:40" name="路加福音 12:40" shortName="路 12:40" orderIndex="39">你們也要預備，因為在你們想不到的時候，人子就來了。」</Verse>
+        <Verse osisId="Luke.12.41" sblId="Luke 12:41" name="路加福音 12:41" shortName="路 12:41" orderIndex="40">彼得 說：「主啊，這比喻是對我們說的呢？還是也對眾人呢？」</Verse>
+        <Verse osisId="Luke.12.42" sblId="Luke 12:42" name="路加福音 12:42" shortName="路 12:42" orderIndex="41">主說：「那麼，誰是那忠心又精明的管家，主人要派他管理自己的家僕，按時定量分糧給他們的呢？</Verse>
+        <Verse osisId="Luke.12.43" sblId="Luke 12:43" name="路加福音 12:43" shortName="路 12:43" orderIndex="42">主人來到，看見僕人這樣做，那僕人就有福了。</Verse>
+        <Verse osisId="Luke.12.44" sblId="Luke 12:44" name="路加福音 12:44" shortName="路 12:44" orderIndex="43">我實在告訴你們，主人要派他管理所有的財產。</Verse>
+        <Verse osisId="Luke.12.45" sblId="Luke 12:45" name="路加福音 12:45" shortName="路 12:45" orderIndex="44">如果那僕人心裏說『我的主人會來得遲』，就動手打僮僕和使女，並且吃喝醉酒，</Verse>
+        <Verse osisId="Luke.12.46" sblId="Luke 12:46" name="路加福音 12:46" shortName="路 12:46" orderIndex="45">在想不到的日子，不知道的時候，那僕人的主人要來，重重地懲罰他 ，定他和不忠心的人同罪。</Verse>
+        <Verse osisId="Luke.12.47" sblId="Luke 12:47" name="路加福音 12:47" shortName="路 12:47" orderIndex="46">僕人知道主人的意思，卻沒預備，又未順他的意思做，那僕人要多受責打；</Verse>
+        <Verse osisId="Luke.12.48" sblId="Luke 12:48" name="路加福音 12:48" shortName="路 12:48" orderIndex="47">至於那不知道而做了當受責打的事的，要少受責打。多給誰，就向誰多取；多託誰，就向誰多要。」</Verse>
+        <Verse osisId="Luke.12.49" sblId="Luke 12:49" name="路加福音 12:49" shortName="路 12:49" orderIndex="48">「我來是要把火丟在地上，假如已經燒起來，不也是我所希望的嗎？</Verse>
+        <Verse osisId="Luke.12.50" sblId="Luke 12:50" name="路加福音 12:50" shortName="路 12:50" orderIndex="49">我有當受的洗還沒有受，在這事完成之前，我是多麼地焦急！</Verse>
+        <Verse osisId="Luke.12.51" sblId="Luke 12:51" name="路加福音 12:51" shortName="路 12:51" orderIndex="50">你們以為我來是要使地上太平嗎？不！我告訴你們，是使人紛爭。</Verse>
+        <Verse osisId="Luke.12.52" sblId="Luke 12:52" name="路加福音 12:52" shortName="路 12:52" orderIndex="51">從今以後，一家五個人將要紛爭，三個和兩個相爭，兩個和三個相爭：</Verse>
+        <Verse osisId="Luke.12.53" sblId="Luke 12:53" name="路加福音 12:53" shortName="路 12:53" orderIndex="52">父親和兒子相爭， 兒子和父親相爭； 母親和女兒相爭， 女兒和母親相爭； 婆婆和媳婦相爭， 媳婦和婆婆相爭。」</Verse>
+        <Verse osisId="Luke.12.54" sblId="Luke 12:54" name="路加福音 12:54" shortName="路 12:54" orderIndex="53">耶穌又對眾人說：「你們看見西邊起了雲彩，就說：『要下大雨了』，果然就有；</Verse>
+        <Verse osisId="Luke.12.55" sblId="Luke 12:55" name="路加福音 12:55" shortName="路 12:55" orderIndex="54">起了南風，你們就說：『要燥熱了』，也就有了。</Verse>
+        <Verse osisId="Luke.12.56" sblId="Luke 12:56" name="路加福音 12:56" shortName="路 12:56" orderIndex="55">假冒為善的人哪，你們知道分辨天地的氣象，怎麼不知道分辨這是甚麼時代呢？」</Verse>
+        <Verse osisId="Luke.12.57" sblId="Luke 12:57" name="路加福音 12:57" shortName="路 12:57" orderIndex="56">「你們又為何不自己判斷甚麼是合理的呢？</Verse>
+        <Verse osisId="Luke.12.58" sblId="Luke 12:58" name="路加福音 12:58" shortName="路 12:58" orderIndex="57">你同告你的冤家去見官，還在路上，要盡力跟他和解，免得他拉你到法官面前，法官把你交給法警，法警把你下在監裏。</Verse>
+        <Verse osisId="Luke.12.59" sblId="Luke 12:59" name="路加福音 12:59" shortName="路 12:59" orderIndex="58">我告訴你，就是最後一小文錢 還沒有還清，你也絕不能從那裏出來。」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.13" sblId="Luke 13" name="路加福音 13" shortName="路 13" orderIndex="12" versesCount="35">
+      <verses>
+        <Verse osisId="Luke.13.1" sblId="Luke 13:1" name="路加福音 13:1" shortName="路 13:1" orderIndex="0">正當那時，有些在場的人把 彼拉多 使 加利利 人的血攙雜在他們祭物中的事，告訴耶穌。</Verse>
+        <Verse osisId="Luke.13.2" sblId="Luke 13:2" name="路加福音 13:2" shortName="路 13:2" orderIndex="1">耶穌對他們說：「你們以為這些 加利利 人比其他的 加利利 人更有罪，所以受這害嗎？</Verse>
+        <Verse osisId="Luke.13.3" sblId="Luke 13:3" name="路加福音 13:3" shortName="路 13:3" orderIndex="2">我告訴你們，不是的！你們若不悔改，都同樣要滅亡！</Verse>
+        <Verse osisId="Luke.13.4" sblId="Luke 13:4" name="路加福音 13:4" shortName="路 13:4" orderIndex="3">從前 西羅亞 樓倒塌，壓死了十八個人，你們以為那些人比一切住在 耶路撒冷 的人更有罪嗎？</Verse>
+        <Verse osisId="Luke.13.5" sblId="Luke 13:5" name="路加福音 13:5" shortName="路 13:5" orderIndex="4">我告訴你們，不是的！你們若不悔改，都照樣要滅亡！」</Verse>
+        <Verse osisId="Luke.13.6" sblId="Luke 13:6" name="路加福音 13:6" shortName="路 13:6" orderIndex="5">於是，耶穌用比喻說：「有一個人在葡萄園裏栽了一棵無花果樹。他前來在樹上找果子，卻找不到，</Verse>
+        <Verse osisId="Luke.13.7" sblId="Luke 13:7" name="路加福音 13:7" shortName="路 13:7" orderIndex="6">就對園丁說：『看哪，我這三年來到這棵無花果樹前找果子，竟找不到。把它砍了吧，何必白佔土地呢？』</Verse>
+        <Verse osisId="Luke.13.8" sblId="Luke 13:8" name="路加福音 13:8" shortName="路 13:8" orderIndex="7">園丁回答：『主啊，今年且留著，等我在樹周圍掘開土，加上肥料，</Verse>
+        <Verse osisId="Luke.13.9" sblId="Luke 13:9" name="路加福音 13:9" shortName="路 13:9" orderIndex="8">以後若結果子便罷，不然再把它砍了。』」</Verse>
+        <Verse osisId="Luke.13.10" sblId="Luke 13:10" name="路加福音 13:10" shortName="路 13:10" orderIndex="9">安息日，耶穌在一個會堂裏教導人。</Verse>
+        <Verse osisId="Luke.13.11" sblId="Luke 13:11" name="路加福音 13:11" shortName="路 13:11" orderIndex="10">有一個女人被靈附身，病了十八年，腰彎得一點都直不起來。</Verse>
+        <Verse osisId="Luke.13.12" sblId="Luke 13:12" name="路加福音 13:12" shortName="路 13:12" orderIndex="11">耶穌看見，就叫她過來，對她說：「婦人，你的病好了！」</Verse>
+        <Verse osisId="Luke.13.13" sblId="Luke 13:13" name="路加福音 13:13" shortName="路 13:13" orderIndex="12">於是用雙手按著她，她立刻直起腰來，就歸榮耀給上帝。</Verse>
+        <Verse osisId="Luke.13.14" sblId="Luke 13:14" name="路加福音 13:14" shortName="路 13:14" orderIndex="13">會堂的主管因為耶穌在安息日治病，就很生氣，對眾人說：「有六天應當做工，那六天之內可以來求醫，在安息日卻不可。」</Verse>
+        <Verse osisId="Luke.13.15" sblId="Luke 13:15" name="路加福音 13:15" shortName="路 13:15" orderIndex="14">主回答他：「假冒為善的人哪，難道你們各人在安息日不解開槽上的牛和驢，牽去喝水嗎？</Verse>
+        <Verse osisId="Luke.13.16" sblId="Luke 13:16" name="路加福音 13:16" shortName="路 13:16" orderIndex="15">何況她本是 亞伯拉罕 的後裔，被撒但捆綁了十八年，不該在安息日這天解開她的綁嗎？」</Verse>
+        <Verse osisId="Luke.13.17" sblId="Luke 13:17" name="路加福音 13:17" shortName="路 13:17" orderIndex="16">耶穌說這些話，他的敵人都慚愧了；所有的人因他所做一切榮耀的事都很歡喜。</Verse>
+        <Verse osisId="Luke.13.18" sblId="Luke 13:18" name="路加福音 13:18" shortName="路 13:18" orderIndex="17">耶穌說：「上帝的國像甚麼？我拿甚麼來比擬呢？</Verse>
+        <Verse osisId="Luke.13.19" sblId="Luke 13:19" name="路加福音 13:19" shortName="路 13:19" orderIndex="18">它好比一粒芥菜種，有人拿去種在園子裏，長大成樹，天上的飛鳥在它的枝上築巢。」</Verse>
+        <Verse osisId="Luke.13.20" sblId="Luke 13:20" name="路加福音 13:20" shortName="路 13:20" orderIndex="19">他又說：「我拿甚麼來比擬上帝的國呢？</Verse>
+        <Verse osisId="Luke.13.21" sblId="Luke 13:21" name="路加福音 13:21" shortName="路 13:21" orderIndex="20">它好比麵酵，有婦人拿來放進三斗麵裏，直到全團都發起來。」</Verse>
+        <Verse osisId="Luke.13.22" sblId="Luke 13:22" name="路加福音 13:22" shortName="路 13:22" orderIndex="21">耶穌往 耶路撒冷 去，在所經過的各城各鄉教導人。</Verse>
+        <Verse osisId="Luke.13.23" sblId="Luke 13:23" name="路加福音 13:23" shortName="路 13:23" orderIndex="22">有一個人問他：「主啊，得救的人很少吧？」 耶穌對眾人說：</Verse>
+        <Verse osisId="Luke.13.24" sblId="Luke 13:24" name="路加福音 13:24" shortName="路 13:24" orderIndex="23">「你們要努力進窄門。我告訴你們，將來有許多人想要進去，卻不能。</Verse>
+        <Verse osisId="Luke.13.25" sblId="Luke 13:25" name="路加福音 13:25" shortName="路 13:25" orderIndex="24">等到一家之主起來關了門，你們才站在外面敲門，說：『主啊，給我們開門！』他要回答你們說：『我不認識你們，不知道你們是哪裏來的。』</Verse>
+        <Verse osisId="Luke.13.26" sblId="Luke 13:26" name="路加福音 13:26" shortName="路 13:26" orderIndex="25">那時，你們要說：『我們在你面前吃過喝過，你也在我們的街上教導過人。』</Verse>
+        <Verse osisId="Luke.13.27" sblId="Luke 13:27" name="路加福音 13:27" shortName="路 13:27" orderIndex="26">他要對你們說：『我 告訴你們，我不知道你們是哪裏來的。你們這一切不義的人，給我走開！』</Verse>
+        <Verse osisId="Luke.13.28" sblId="Luke 13:28" name="路加福音 13:28" shortName="路 13:28" orderIndex="27">你們要看見 亞伯拉罕 、 以撒 、 雅各 和眾先知都在上帝的國裏，你們卻被趕到外面，在那裏要哀哭切齒了。</Verse>
+        <Verse osisId="Luke.13.29" sblId="Luke 13:29" name="路加福音 13:29" shortName="路 13:29" orderIndex="28">從東從西，從南從北，將有人來，在上帝的國裏坐席。</Verse>
+        <Verse osisId="Luke.13.30" sblId="Luke 13:30" name="路加福音 13:30" shortName="路 13:30" orderIndex="29">看吧，在後的，將要在前；在前的，將要在後。」</Verse>
+        <Verse osisId="Luke.13.31" sblId="Luke 13:31" name="路加福音 13:31" shortName="路 13:31" orderIndex="30">就在那時，有幾個法利賽人來對耶穌說：「離開這裏到別處去吧，因為 希律 想要殺你。」</Verse>
+        <Verse osisId="Luke.13.32" sblId="Luke 13:32" name="路加福音 13:32" shortName="路 13:32" orderIndex="31">耶穌對他們說：「你們去告訴那個狐狸：『你看吧，今天明天我趕鬼治病，第三天我的事就成了。』</Verse>
+        <Verse osisId="Luke.13.33" sblId="Luke 13:33" name="路加福音 13:33" shortName="路 13:33" orderIndex="32">雖然這樣，今天明天後天我必須向前走，因為先知是不可能在 耶路撒冷 之外被害的。</Verse>
+        <Verse osisId="Luke.13.34" sblId="Luke 13:34" name="路加福音 13:34" shortName="路 13:34" orderIndex="33">耶路撒冷 啊， 耶路撒冷 啊，你常殺害先知，又用石頭打死那奉差遣到你這裏來的人。我多少次想聚集你的兒女，好像母雞把小雞聚集在翅膀底下，可是你們不願意。</Verse>
+        <Verse osisId="Luke.13.35" sblId="Luke 13:35" name="路加福音 13:35" shortName="路 13:35" orderIndex="34">看吧，你們的家要被廢棄。我告訴你們，你們絕不會再見到我，直到你們說：『奉主名來的是應當稱頌的！』」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.14" sblId="Luke 14" name="路加福音 14" shortName="路 14" orderIndex="13" versesCount="35">
+      <verses>
+        <Verse osisId="Luke.14.1" sblId="Luke 14:1" name="路加福音 14:1" shortName="路 14:1" orderIndex="0">安息日，耶穌到一個法利賽人的領袖家裏去吃飯，他們就窺探他。</Verse>
+        <Verse osisId="Luke.14.2" sblId="Luke 14:2" name="路加福音 14:2" shortName="路 14:2" orderIndex="1">這時在他面前有一個患水腫病的人。</Verse>
+        <Verse osisId="Luke.14.3" sblId="Luke 14:3" name="路加福音 14:3" shortName="路 14:3" orderIndex="2">耶穌回答律法師和法利賽人，說：「安息日治病合不合法？」</Verse>
+        <Verse osisId="Luke.14.4" sblId="Luke 14:4" name="路加福音 14:4" shortName="路 14:4" orderIndex="3">他們卻不說話。耶穌扶著那人，治好了他，叫他走了。</Verse>
+        <Verse osisId="Luke.14.5" sblId="Luke 14:5" name="路加福音 14:5" shortName="路 14:5" orderIndex="4">耶穌對他們說：「你們中間誰有兒子 或有牛在安息日掉在井裏，不立刻拉他上來呢？」</Verse>
+        <Verse osisId="Luke.14.6" sblId="Luke 14:6" name="路加福音 14:6" shortName="路 14:6" orderIndex="5">他們對這些事不能反駁。</Verse>
+        <Verse osisId="Luke.14.7" sblId="Luke 14:7" name="路加福音 14:7" shortName="路 14:7" orderIndex="6">耶穌見所請的客人選擇首位，就用比喻對他們說：</Verse>
+        <Verse osisId="Luke.14.8" sblId="Luke 14:8" name="路加福音 14:8" shortName="路 14:8" orderIndex="7">「你被人請去赴婚宴，不要坐在首位上，恐怕主人請了比你尊貴的客人，</Verse>
+        <Verse osisId="Luke.14.9" sblId="Luke 14:9" name="路加福音 14:9" shortName="路 14:9" orderIndex="8">請了你和他的那人前來，對你說：『請讓座給這一位吧。』你就羞羞慚慚地退到末位去了。</Verse>
+        <Verse osisId="Luke.14.10" sblId="Luke 14:10" name="路加福音 14:10" shortName="路 14:10" orderIndex="9">你被請的時候，去坐在末位上，好讓主人來對你說：『朋友，請上座。』那時，你在同席的人面前就有光彩了。</Verse>
+        <Verse osisId="Luke.14.11" sblId="Luke 14:11" name="路加福音 14:11" shortName="路 14:11" orderIndex="10">因為凡自高的，必降為卑；自甘卑微的，必升為高。」</Verse>
+        <Verse osisId="Luke.14.12" sblId="Luke 14:12" name="路加福音 14:12" shortName="路 14:12" orderIndex="11">耶穌又對請他的人說：「你準備午飯或晚餐，不要請你的朋友、弟兄、親屬和富足的鄰舍，免得他們回請你，你就得了報答。</Verse>
+        <Verse osisId="Luke.14.13" sblId="Luke 14:13" name="路加福音 14:13" shortName="路 14:13" orderIndex="12">你擺設宴席，倒要請那貧窮的、殘疾的、瘸腿的、失明的，</Verse>
+        <Verse osisId="Luke.14.14" sblId="Luke 14:14" name="路加福音 14:14" shortName="路 14:14" orderIndex="13">你就有福了！因為他們沒有甚麼可報答你。到義人復活的時候，你要得到報答。」</Verse>
+        <Verse osisId="Luke.14.15" sblId="Luke 14:15" name="路加福音 14:15" shortName="路 14:15" orderIndex="14">同席的有一人聽見這些話，就對耶穌說：「在上帝國裏吃飯的有福了！」</Verse>
+        <Verse osisId="Luke.14.16" sblId="Luke 14:16" name="路加福音 14:16" shortName="路 14:16" orderIndex="15">耶穌對他說：「有人擺設大宴席，請了許多客人。</Verse>
+        <Verse osisId="Luke.14.17" sblId="Luke 14:17" name="路加福音 14:17" shortName="路 14:17" orderIndex="16">到了坐席的時候，他打發僕人去對所請的人說：『請來吧！樣樣都已齊備了。』</Verse>
+        <Verse osisId="Luke.14.18" sblId="Luke 14:18" name="路加福音 14:18" shortName="路 14:18" orderIndex="17">眾人異口同聲地推辭。頭一個對他說：『我買了一塊地，必須去看看。請你准我辭了。』</Verse>
+        <Verse osisId="Luke.14.19" sblId="Luke 14:19" name="路加福音 14:19" shortName="路 14:19" orderIndex="18">另一個說：『我買了五對牛，要去試一試。請你准我辭了。』</Verse>
+        <Verse osisId="Luke.14.20" sblId="Luke 14:20" name="路加福音 14:20" shortName="路 14:20" orderIndex="19">又有一個說：『我才娶了妻子，所以不能去。』</Verse>
+        <Verse osisId="Luke.14.21" sblId="Luke 14:21" name="路加福音 14:21" shortName="路 14:21" orderIndex="20">那僕人回來，把這些事都告訴了主人。這家的主人就發怒，對僕人說：『快出去，到城裏大街小巷，領那貧窮的、殘疾的、失明的、瘸腿的來。』</Verse>
+        <Verse osisId="Luke.14.22" sblId="Luke 14:22" name="路加福音 14:22" shortName="路 14:22" orderIndex="21">僕人說：『主啊，你所吩咐的已經辦了，還有空位。』</Verse>
+        <Verse osisId="Luke.14.23" sblId="Luke 14:23" name="路加福音 14:23" shortName="路 14:23" orderIndex="22">主人對僕人說：『你出去，到大街小巷強拉人進來，坐滿我的屋子。</Verse>
+        <Verse osisId="Luke.14.24" sblId="Luke 14:24" name="路加福音 14:24" shortName="路 14:24" orderIndex="23">我告訴你們，先前所請的人沒有一個可以嘗到我的宴席。』」</Verse>
+        <Verse osisId="Luke.14.25" sblId="Luke 14:25" name="路加福音 14:25" shortName="路 14:25" orderIndex="24">有一大群人和耶穌同行。他轉過來對他們說：</Verse>
+        <Verse osisId="Luke.14.26" sblId="Luke 14:26" name="路加福音 14:26" shortName="路 14:26" orderIndex="25">「無論甚麼人到我這裏來，若不愛我勝過愛 自己的父母、妻子、兒女、兄弟、姊妹，甚至自己的性命，就不能作我的門徒。</Verse>
+        <Verse osisId="Luke.14.27" sblId="Luke 14:27" name="路加福音 14:27" shortName="路 14:27" orderIndex="26">凡不背著自己的十字架來跟從我的，也不能作我的門徒。</Verse>
+        <Verse osisId="Luke.14.28" sblId="Luke 14:28" name="路加福音 14:28" shortName="路 14:28" orderIndex="27">你們哪一個要蓋一座樓，不先坐下來計算費用，看能不能蓋成？</Verse>
+        <Verse osisId="Luke.14.29" sblId="Luke 14:29" name="路加福音 14:29" shortName="路 14:29" orderIndex="28">免得安了地基，不能蓋成，看見的人都笑話他，說：</Verse>
+        <Verse osisId="Luke.14.30" sblId="Luke 14:30" name="路加福音 14:30" shortName="路 14:30" orderIndex="29">『這個人開了工，卻不能完工。』</Verse>
+        <Verse osisId="Luke.14.31" sblId="Luke 14:31" name="路加福音 14:31" shortName="路 14:31" orderIndex="30">或是一個王出去和別的王打仗，豈不先坐下來酌量，他能不能用一萬兵去抵抗那領二萬兵來攻打他的嗎？</Verse>
+        <Verse osisId="Luke.14.32" sblId="Luke 14:32" name="路加福音 14:32" shortName="路 14:32" orderIndex="31">若是不能，他就趁敵人還遠的時候，派使者去談和平的條件。</Verse>
+        <Verse osisId="Luke.14.33" sblId="Luke 14:33" name="路加福音 14:33" shortName="路 14:33" orderIndex="32">這樣，你們無論甚麼人，若不撇下一切所有的，就不能作我的門徒。」</Verse>
+        <Verse osisId="Luke.14.34" sblId="Luke 14:34" name="路加福音 14:34" shortName="路 14:34" orderIndex="33">「鹽本是好的；鹽若失了味，怎能叫它再鹹呢？</Verse>
+        <Verse osisId="Luke.14.35" sblId="Luke 14:35" name="路加福音 14:35" shortName="路 14:35" orderIndex="34">或用在田裏，或堆在糞裏，都不合適，只好丟在外面。有耳可聽的，就應當聽！」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.15" sblId="Luke 15" name="路加福音 15" shortName="路 15" orderIndex="14" versesCount="32">
+      <verses>
+        <Verse osisId="Luke.15.1" sblId="Luke 15:1" name="路加福音 15:1" shortName="路 15:1" orderIndex="0">許多稅吏和罪人都挨近耶穌，要聽他講道。</Verse>
+        <Verse osisId="Luke.15.2" sblId="Luke 15:2" name="路加福音 15:2" shortName="路 15:2" orderIndex="1">法利賽人和文士私下議論說：「這個人接納罪人，又同他們吃飯。」</Verse>
+        <Verse osisId="Luke.15.3" sblId="Luke 15:3" name="路加福音 15:3" shortName="路 15:3" orderIndex="2">耶穌就用比喻對他們說：</Verse>
+        <Verse osisId="Luke.15.4" sblId="Luke 15:4" name="路加福音 15:4" shortName="路 15:4" orderIndex="3">「你們中間誰有一百隻羊，失去其中的一隻，不把這九十九隻留在曠野，去找那失去的羊，直到找著呢？</Verse>
+        <Verse osisId="Luke.15.5" sblId="Luke 15:5" name="路加福音 15:5" shortName="路 15:5" orderIndex="4">找到了，他就歡歡喜喜地把羊扛在肩上。</Verse>
+        <Verse osisId="Luke.15.6" sblId="Luke 15:6" name="路加福音 15:6" shortName="路 15:6" orderIndex="5">他回到家裏，請朋友和鄰舍來，對他們說：『你們和我一同歡喜吧，我失去的羊已經找到了！』</Verse>
+        <Verse osisId="Luke.15.7" sblId="Luke 15:7" name="路加福音 15:7" shortName="路 15:7" orderIndex="6">我告訴你們，一個罪人悔改，在天上也要這樣為他歡喜，比為九十九個不用悔改的義人歡喜還大呢！」</Verse>
+        <Verse osisId="Luke.15.8" sblId="Luke 15:8" name="路加福音 15:8" shortName="路 15:8" orderIndex="7">「同樣，哪一個婦人有十塊錢 ，若失落一塊，不點上燈，打掃屋子，細細地找，直到找著呢？</Verse>
+        <Verse osisId="Luke.15.9" sblId="Luke 15:9" name="路加福音 15:9" shortName="路 15:9" orderIndex="8">找到了，她就請朋友和鄰舍來，對她們說：『你們和我一同歡喜吧，我失落的那塊錢已經找到了！』</Verse>
+        <Verse osisId="Luke.15.10" sblId="Luke 15:10" name="路加福音 15:10" shortName="路 15:10" orderIndex="9">我告訴你們，一個罪人悔改，上帝的使者也是這樣為他歡喜。」</Verse>
+        <Verse osisId="Luke.15.11" sblId="Luke 15:11" name="路加福音 15:11" shortName="路 15:11" orderIndex="10">耶穌又說：「一個人有兩個兒子。</Verse>
+        <Verse osisId="Luke.15.12" sblId="Luke 15:12" name="路加福音 15:12" shortName="路 15:12" orderIndex="11">小兒子對父親說：『父親，請你把我應得的家業分給我。』他父親就把財產分給他們。</Verse>
+        <Verse osisId="Luke.15.13" sblId="Luke 15:13" name="路加福音 15:13" shortName="路 15:13" orderIndex="12">過了不多幾天，小兒子把他一切所有的都收拾起來，往遠方去了。在那裏，他任意放蕩，浪費錢財。</Verse>
+        <Verse osisId="Luke.15.14" sblId="Luke 15:14" name="路加福音 15:14" shortName="路 15:14" orderIndex="13">他耗盡了一切所有的，又恰逢那地方有大饑荒，就窮困起來。</Verse>
+        <Verse osisId="Luke.15.15" sblId="Luke 15:15" name="路加福音 15:15" shortName="路 15:15" orderIndex="14">於是他去投靠當地的一個居民，那人打發他到田裏去放豬。</Verse>
+        <Verse osisId="Luke.15.16" sblId="Luke 15:16" name="路加福音 15:16" shortName="路 15:16" orderIndex="15">他恨不得拿豬所吃的豆莢充飢，也沒有人給他甚麼吃的。</Verse>
+        <Verse osisId="Luke.15.17" sblId="Luke 15:17" name="路加福音 15:17" shortName="路 15:17" orderIndex="16">他醒悟過來，就說：『我父親有多少雇工，糧食有餘，我倒在這裏餓死嗎？</Verse>
+        <Verse osisId="Luke.15.18" sblId="Luke 15:18" name="路加福音 15:18" shortName="路 15:18" orderIndex="17">我要起來，到我父親那裏去，對他說：父親！我得罪了天，又得罪了你，</Verse>
+        <Verse osisId="Luke.15.19" sblId="Luke 15:19" name="路加福音 15:19" shortName="路 15:19" orderIndex="18">從今以後，我不配稱為你的兒子，把我當作一個雇工吧。』</Verse>
+        <Verse osisId="Luke.15.20" sblId="Luke 15:20" name="路加福音 15:20" shortName="路 15:20" orderIndex="19">於是他起來，往他父親那裏去。相離還遠，他父親看見，就動了慈心，跑去擁抱著他，連連親他。</Verse>
+        <Verse osisId="Luke.15.21" sblId="Luke 15:21" name="路加福音 15:21" shortName="路 15:21" orderIndex="20">兒子對他說：『父親！我得罪了天，又得罪了你，從今以後，我不配稱為你的兒子。』</Verse>
+        <Verse osisId="Luke.15.22" sblId="Luke 15:22" name="路加福音 15:22" shortName="路 15:22" orderIndex="21">父親卻吩咐僕人：『快把那上好的袍子拿出來給他穿，把戒指戴在他指頭上，把鞋穿在他腳上，</Verse>
+        <Verse osisId="Luke.15.23" sblId="Luke 15:23" name="路加福音 15:23" shortName="路 15:23" orderIndex="22">把那肥牛犢牽來宰了，我們來吃喝慶祝；</Verse>
+        <Verse osisId="Luke.15.24" sblId="Luke 15:24" name="路加福音 15:24" shortName="路 15:24" orderIndex="23">因為我這個兒子是死而復活，失而復得的。』他們就開始慶祝。</Verse>
+        <Verse osisId="Luke.15.25" sblId="Luke 15:25" name="路加福音 15:25" shortName="路 15:25" orderIndex="24">「那時，大兒子正在田裏。他回來，離家不遠時，聽見奏樂跳舞的聲音，</Verse>
+        <Verse osisId="Luke.15.26" sblId="Luke 15:26" name="路加福音 15:26" shortName="路 15:26" orderIndex="25">就叫一個僮僕來，問是甚麼事。</Verse>
+        <Verse osisId="Luke.15.27" sblId="Luke 15:27" name="路加福音 15:27" shortName="路 15:27" orderIndex="26">僮僕對他說：『你弟弟回來了，你父親因為他無災無病地回來，把肥牛犢宰了。』</Verse>
+        <Verse osisId="Luke.15.28" sblId="Luke 15:28" name="路加福音 15:28" shortName="路 15:28" orderIndex="27">大兒子就生氣，不肯進去，他父親出來勸他。</Verse>
+        <Verse osisId="Luke.15.29" sblId="Luke 15:29" name="路加福音 15:29" shortName="路 15:29" orderIndex="28">他對父親說：『你看，我服侍你這麼多年，從來沒有違背過你的命令，而你從來沒有給我一隻小山羊，叫我和朋友們一同快樂。</Verse>
+        <Verse osisId="Luke.15.30" sblId="Luke 15:30" name="路加福音 15:30" shortName="路 15:30" orderIndex="29">但你這個兒子和娼妓吃光了你的財產，他一回來，你倒為他宰了肥牛犢。』</Verse>
+        <Verse osisId="Luke.15.31" sblId="Luke 15:31" name="路加福音 15:31" shortName="路 15:31" orderIndex="30">父親對他說：『兒啊！你常和我同在，我所有的一切都是你的；</Verse>
+        <Verse osisId="Luke.15.32" sblId="Luke 15:32" name="路加福音 15:32" shortName="路 15:32" orderIndex="31">可是你這個弟弟是死而復活，失而復得的，所以我們理當歡喜慶祝。』」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.16" sblId="Luke 16" name="路加福音 16" shortName="路 16" orderIndex="15" versesCount="31">
+      <verses>
+        <Verse osisId="Luke.16.1" sblId="Luke 16:1" name="路加福音 16:1" shortName="路 16:1" orderIndex="0">耶穌又對門徒說：「某財主有一個管家，有人向主人告管家浪費他的財物。</Verse>
+        <Verse osisId="Luke.16.2" sblId="Luke 16:2" name="路加福音 16:2" shortName="路 16:2" orderIndex="1">主人叫他來，對他說：『我聽到了，你做的是甚麼事？把你所經管的交代清楚，你不能再作我的管家了。』</Verse>
+        <Verse osisId="Luke.16.3" sblId="Luke 16:3" name="路加福音 16:3" shortName="路 16:3" orderIndex="2">那管家心裏說：『主人辭我，不用我再作管家，我將來做甚麼呢？鋤地嘛，沒有力氣；討飯嘛，怕羞。</Verse>
+        <Verse osisId="Luke.16.4" sblId="Luke 16:4" name="路加福音 16:4" shortName="路 16:4" orderIndex="3">我知道怎麼做，好叫人們在我不作管家之後，接我到他們家裏去。』</Verse>
+        <Verse osisId="Luke.16.5" sblId="Luke 16:5" name="路加福音 16:5" shortName="路 16:5" orderIndex="4">於是他把欠他主人債的，一個一個地叫了來，問頭一個說：『你欠我主人多少？』</Verse>
+        <Verse osisId="Luke.16.6" sblId="Luke 16:6" name="路加福音 16:6" shortName="路 16:6" orderIndex="5">他說：『一百簍 油。』管家對他說：『拿你的賬，快坐下，寫五十。』</Verse>
+        <Verse osisId="Luke.16.7" sblId="Luke 16:7" name="路加福音 16:7" shortName="路 16:7" orderIndex="6">他問另一個說：『你欠多少？』他說：『一百石麥子。』管家對他說：『拿你的賬，寫八十。』</Verse>
+        <Verse osisId="Luke.16.8" sblId="Luke 16:8" name="路加福音 16:8" shortName="路 16:8" orderIndex="7">主人就誇獎這不義的管家做事精明，因為今世之子應付自己的世代比光明之子更加精明。</Verse>
+        <Verse osisId="Luke.16.9" sblId="Luke 16:9" name="路加福音 16:9" shortName="路 16:9" orderIndex="8">我又告訴你們，要藉著那不義的錢財結交朋友，到了錢財無用的時候，他們可以接你們到永遠的住處 去。</Verse>
+        <Verse osisId="Luke.16.10" sblId="Luke 16:10" name="路加福音 16:10" shortName="路 16:10" orderIndex="9">人在最小的事上忠心，在大事上也忠心；在最小的事上不義，在大事上也不義。</Verse>
+        <Verse osisId="Luke.16.11" sblId="Luke 16:11" name="路加福音 16:11" shortName="路 16:11" orderIndex="10">若是你們在不義的錢財上不忠心，誰還把那真實的錢財託付你們呢？</Verse>
+        <Verse osisId="Luke.16.12" sblId="Luke 16:12" name="路加福音 16:12" shortName="路 16:12" orderIndex="11">如果你們在別人的東西上不忠心，誰還把你們自己的東西給你們呢？</Verse>
+        <Verse osisId="Luke.16.13" sblId="Luke 16:13" name="路加福音 16:13" shortName="路 16:13" orderIndex="12">一個僕人不能服侍兩個主；他不是恨這個愛那個，就是重這個輕那個。你們不能又服侍上帝，又服侍 瑪門 。」</Verse>
+        <Verse osisId="Luke.16.14" sblId="Luke 16:14" name="路加福音 16:14" shortName="路 16:14" orderIndex="13">法利賽人是貪愛錢財的；他們聽見這一切話，就嘲笑耶穌。</Verse>
+        <Verse osisId="Luke.16.15" sblId="Luke 16:15" name="路加福音 16:15" shortName="路 16:15" orderIndex="14">耶穌對他們說：「你們是在人面前自稱為義的，你們的心，上帝卻知道；因為人以為尊貴的，是上帝看為可憎惡的。</Verse>
+        <Verse osisId="Luke.16.16" sblId="Luke 16:16" name="路加福音 16:16" shortName="路 16:16" orderIndex="15">律法和先知到 約翰 為止，從此上帝國的福音傳開了，人人努力要進去。</Verse>
+        <Verse osisId="Luke.16.17" sblId="Luke 16:17" name="路加福音 16:17" shortName="路 16:17" orderIndex="16">天地廢去比律法的一點一畫落空還要容易。</Verse>
+        <Verse osisId="Luke.16.18" sblId="Luke 16:18" name="路加福音 16:18" shortName="路 16:18" orderIndex="17">凡休妻另娶的，就是犯姦淫；娶被丈夫休了的婦人的，也是犯姦淫。」</Verse>
+        <Verse osisId="Luke.16.19" sblId="Luke 16:19" name="路加福音 16:19" shortName="路 16:19" orderIndex="18">「有一個財主穿著紫色袍和細麻布衣服，天天奢華宴樂。</Verse>
+        <Verse osisId="Luke.16.20" sblId="Luke 16:20" name="路加福音 16:20" shortName="路 16:20" orderIndex="19">又有一個討飯的，名叫 拉撒路 ，渾身長瘡，被人放在財主門口，</Verse>
+        <Verse osisId="Luke.16.21" sblId="Luke 16:21" name="路加福音 16:21" shortName="路 16:21" orderIndex="20">想得財主桌子上掉下來的碎食充飢，甚至還有狗來舔他的瘡。</Verse>
+        <Verse osisId="Luke.16.22" sblId="Luke 16:22" name="路加福音 16:22" shortName="路 16:22" orderIndex="21">後來那討飯的死了，被天使帶去放在 亞伯拉罕 的懷裏。財主也死了，並且埋葬了。</Verse>
+        <Verse osisId="Luke.16.23" sblId="Luke 16:23" name="路加福音 16:23" shortName="路 16:23" orderIndex="22">他在陰間受苦，舉目遠遠地望見 亞伯拉罕 ，又望見 拉撒路 在他懷裏，</Verse>
+        <Verse osisId="Luke.16.24" sblId="Luke 16:24" name="路加福音 16:24" shortName="路 16:24" orderIndex="23">他就喊著說：『我祖 亞伯拉罕 哪，可憐我吧！請打發 拉撒路 來，用指頭尖蘸點水，涼涼我的舌頭，因為我在這火焰裏，極其痛苦。』</Verse>
+        <Verse osisId="Luke.16.25" sblId="Luke 16:25" name="路加福音 16:25" shortName="路 16:25" orderIndex="24">亞伯拉罕 說：『孩子啊，你該回想你生前享過福， 拉撒路 也同樣受過苦，如今他在這裏得安慰，你卻受痛苦。</Verse>
+        <Verse osisId="Luke.16.26" sblId="Luke 16:26" name="路加福音 16:26" shortName="路 16:26" orderIndex="25">除此之外，在你們和我們之間，有深淵隔開，以致人要從這邊過到你們那邊是不可能的；要從那邊過到這邊也是不可能的。』</Verse>
+        <Verse osisId="Luke.16.27" sblId="Luke 16:27" name="路加福音 16:27" shortName="路 16:27" orderIndex="26">財主說：『我祖啊，既然這樣，求你打發 拉撒路 到我父家去，</Verse>
+        <Verse osisId="Luke.16.28" sblId="Luke 16:28" name="路加福音 16:28" shortName="路 16:28" orderIndex="27">因為我還有五個兄弟，他可以警告他們，免得他們也來到這痛苦的地方。』</Verse>
+        <Verse osisId="Luke.16.29" sblId="Luke 16:29" name="路加福音 16:29" shortName="路 16:29" orderIndex="28">亞伯拉罕 說：『他們有 摩西 和先知的話可以聽從。』</Verse>
+        <Verse osisId="Luke.16.30" sblId="Luke 16:30" name="路加福音 16:30" shortName="路 16:30" orderIndex="29">他說：『不！我祖 亞伯拉罕 哪，假如有一個人從死人中到他們那裏去，他們一定會悔改。』</Verse>
+        <Verse osisId="Luke.16.31" sblId="Luke 16:31" name="路加福音 16:31" shortName="路 16:31" orderIndex="30">亞伯拉罕 對他說：『如果他們不聽從 摩西 和先知的話，就是有人從死人中復活，他們也不會信服的。』」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.17" sblId="Luke 17" name="路加福音 17" shortName="路 17" orderIndex="16" versesCount="37">
+      <verses>
+        <Verse osisId="Luke.17.1" sblId="Luke 17:1" name="路加福音 17:1" shortName="路 17:1" orderIndex="0">耶穌又對門徒說：「絆倒人的事是免不了的，但那絆倒人的有禍了！</Verse>
+        <Verse osisId="Luke.17.2" sblId="Luke 17:2" name="路加福音 17:2" shortName="路 17:2" orderIndex="1">人若把這些小子中的一個絆倒的，還不如把磨石拴在他的頸項上，丟在海裏。</Verse>
+        <Verse osisId="Luke.17.3" sblId="Luke 17:3" name="路加福音 17:3" shortName="路 17:3" orderIndex="2">你們要謹慎！若是你的弟兄犯罪，就勸戒他；他若懊悔，就饒恕他。</Verse>
+        <Verse osisId="Luke.17.4" sblId="Luke 17:4" name="路加福音 17:4" shortName="路 17:4" orderIndex="3">如果他一天七次得罪你，又七次回頭，說：『我懊悔了』，你總要饒恕他。」</Verse>
+        <Verse osisId="Luke.17.5" sblId="Luke 17:5" name="路加福音 17:5" shortName="路 17:5" orderIndex="4">使徒對主說：「請加增我們的信心。」</Verse>
+        <Verse osisId="Luke.17.6" sblId="Luke 17:6" name="路加福音 17:6" shortName="路 17:6" orderIndex="5">主說：「你們若有信心像一粒芥菜種，就是對這棵桑樹說：『你要連根拔起，栽在海裏』，它也會聽從你們。」</Verse>
+        <Verse osisId="Luke.17.7" sblId="Luke 17:7" name="路加福音 17:7" shortName="路 17:7" orderIndex="6">「你們當中誰有僕人耕地或是放羊，從田裏回來，就對他說『你快來坐下吃飯』呢？</Verse>
+        <Verse osisId="Luke.17.8" sblId="Luke 17:8" name="路加福音 17:8" shortName="路 17:8" orderIndex="7">他豈不對僕人說『你給我預備晚飯，束上帶子伺候我，等我吃喝完了，你才可以吃喝』嗎？</Verse>
+        <Verse osisId="Luke.17.9" sblId="Luke 17:9" name="路加福音 17:9" shortName="路 17:9" orderIndex="8">僕人照所吩咐的去做，主人還謝謝他嗎？</Verse>
+        <Verse osisId="Luke.17.10" sblId="Luke 17:10" name="路加福音 17:10" shortName="路 17:10" orderIndex="9">這樣，你們做完了一切所吩咐的，要說：『我們是無用的僕人，所做的本是我們該做的。』」</Verse>
+        <Verse osisId="Luke.17.11" sblId="Luke 17:11" name="路加福音 17:11" shortName="路 17:11" orderIndex="10">耶穌往 耶路撒冷 去，經過 撒瑪利亞 和 加利利 中間的地區。</Verse>
+        <Verse osisId="Luke.17.12" sblId="Luke 17:12" name="路加福音 17:12" shortName="路 17:12" orderIndex="11">他進入一個村子，有十個痲瘋病人迎面而來，遠遠地站著，</Verse>
+        <Verse osisId="Luke.17.13" sblId="Luke 17:13" name="路加福音 17:13" shortName="路 17:13" orderIndex="12">高聲說：「耶穌，老師啊，可憐我們吧！」</Verse>
+        <Verse osisId="Luke.17.14" sblId="Luke 17:14" name="路加福音 17:14" shortName="路 17:14" orderIndex="13">耶穌看見，就對他們說：「你們去，把身體給祭司檢查。」他們正去的時候就潔淨了。</Verse>
+        <Verse osisId="Luke.17.15" sblId="Luke 17:15" name="路加福音 17:15" shortName="路 17:15" orderIndex="14">其中有一個見自己已經好了，就回來大聲歸榮耀給上帝，</Verse>
+        <Verse osisId="Luke.17.16" sblId="Luke 17:16" name="路加福音 17:16" shortName="路 17:16" orderIndex="15">又俯伏在耶穌腳前感謝他。這人是 撒瑪利亞 人。</Verse>
+        <Verse osisId="Luke.17.17" sblId="Luke 17:17" name="路加福音 17:17" shortName="路 17:17" orderIndex="16">耶穌回答說：「潔淨了的不是十個人嗎？那九個在哪裏呢？</Verse>
+        <Verse osisId="Luke.17.18" sblId="Luke 17:18" name="路加福音 17:18" shortName="路 17:18" orderIndex="17">除了這外族人，再沒有別人回來歸榮耀給上帝嗎？」</Verse>
+        <Verse osisId="Luke.17.19" sblId="Luke 17:19" name="路加福音 17:19" shortName="路 17:19" orderIndex="18">於是他對那人說：「起來，走吧，你的信救了你！」</Verse>
+        <Verse osisId="Luke.17.20" sblId="Luke 17:20" name="路加福音 17:20" shortName="路 17:20" orderIndex="19">法利賽人問：「上帝的國幾時來到？」耶穌回答：「上帝的國來到，不是眼睛看得見的。</Verse>
+        <Verse osisId="Luke.17.21" sblId="Luke 17:21" name="路加福音 17:21" shortName="路 17:21" orderIndex="20">人也不能說：『看哪，在這裏！』或說：『在那裏！』因為上帝的國就在你們心裏 。」</Verse>
+        <Verse osisId="Luke.17.22" sblId="Luke 17:22" name="路加福音 17:22" shortName="路 17:22" orderIndex="21">他又對門徒說：「那些日子將到，你們渴望能看見人子的一個日子，卻看不見。</Verse>
+        <Verse osisId="Luke.17.23" sblId="Luke 17:23" name="路加福音 17:23" shortName="路 17:23" orderIndex="22">有人要對你們說：『看哪，在那裏！』或說：『看哪，在這裏！』你們不要出去，也不要追隨他們。</Verse>
+        <Verse osisId="Luke.17.24" sblId="Luke 17:24" name="路加福音 17:24" shortName="路 17:24" orderIndex="23">好像閃電從天這邊一閃直照到天那邊，人子在他的日子 也要這樣。</Verse>
+        <Verse osisId="Luke.17.25" sblId="Luke 17:25" name="路加福音 17:25" shortName="路 17:25" orderIndex="24">可是他必須先受許多苦，又被這世代所棄絕。</Verse>
+        <Verse osisId="Luke.17.26" sblId="Luke 17:26" name="路加福音 17:26" shortName="路 17:26" orderIndex="25">挪亞 的日子怎樣，人子的日子也要怎樣。</Verse>
+        <Verse osisId="Luke.17.27" sblId="Luke 17:27" name="路加福音 17:27" shortName="路 17:27" orderIndex="26">那時，人又吃又喝，又娶又嫁，直到 挪亞 進方舟的那日，洪水就來，把他們全都滅了。</Verse>
+        <Verse osisId="Luke.17.28" sblId="Luke 17:28" name="路加福音 17:28" shortName="路 17:28" orderIndex="27">同樣，就像在 羅得 的日子，人又吃又喝，又買又賣，又耕種又建造，</Verse>
+        <Verse osisId="Luke.17.29" sblId="Luke 17:29" name="路加福音 17:29" shortName="路 17:29" orderIndex="28">到 羅得 離開 所多瑪 的那日，有火與硫磺從天上降下來，把他們全都滅了。</Verse>
+        <Verse osisId="Luke.17.30" sblId="Luke 17:30" name="路加福音 17:30" shortName="路 17:30" orderIndex="29">人子顯現的日子也要這樣。</Verse>
+        <Verse osisId="Luke.17.31" sblId="Luke 17:31" name="路加福音 17:31" shortName="路 17:31" orderIndex="30">在那日，人在屋頂上，東西在屋裏，不要下來拿；人在田裏，也不要回家。</Verse>
+        <Verse osisId="Luke.17.32" sblId="Luke 17:32" name="路加福音 17:32" shortName="路 17:32" orderIndex="31">你們想想 羅得 的妻子吧！</Verse>
+        <Verse osisId="Luke.17.33" sblId="Luke 17:33" name="路加福音 17:33" shortName="路 17:33" orderIndex="32">凡想保全性命的，要喪失性命；凡喪失性命的，要保存性命。</Verse>
+        <Verse osisId="Luke.17.34" sblId="Luke 17:34" name="路加福音 17:34" shortName="路 17:34" orderIndex="33">我告訴你們，在那一夜，兩個人在一張床上，一個被接去，一個被撇下。</Verse>
+        <Verse osisId="Luke.17.35" sblId="Luke 17:35" name="路加福音 17:35" shortName="路 17:35" orderIndex="34">兩個女人一同推磨，一個被接去，一個被撇下。 」</Verse>
+        <Verse osisId="Luke.17.36" sblId="Luke 17:36" name="路加福音 17:36" shortName="路 17:36" orderIndex="35" />
+        <Verse osisId="Luke.17.37" sblId="Luke 17:37" name="路加福音 17:37" shortName="路 17:37" orderIndex="36">門徒回答他說：「主啊，在哪裏呢？」耶穌對他們說：「屍首在哪裏，鷹也會聚在哪裏。」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.18" sblId="Luke 18" name="路加福音 18" shortName="路 18" orderIndex="17" versesCount="43">
+      <verses>
+        <Verse osisId="Luke.18.1" sblId="Luke 18:1" name="路加福音 18:1" shortName="路 18:1" orderIndex="0">耶穌對門徒講了一個比喻，為了要他們常常禱告，不可灰心。</Verse>
+        <Verse osisId="Luke.18.2" sblId="Luke 18:2" name="路加福音 18:2" shortName="路 18:2" orderIndex="1">他說：「某城有一個官，不懼怕上帝，也不尊重人。</Verse>
+        <Verse osisId="Luke.18.3" sblId="Luke 18:3" name="路加福音 18:3" shortName="路 18:3" orderIndex="2">那城裏有個寡婦，常到他那裏，說：『我有一個冤家，求你給我伸冤。』</Verse>
+        <Verse osisId="Luke.18.4" sblId="Luke 18:4" name="路加福音 18:4" shortName="路 18:4" orderIndex="3">他很久不受理，後來心裏說：『我雖不懼怕上帝，也不尊重人，</Verse>
+        <Verse osisId="Luke.18.5" sblId="Luke 18:5" name="路加福音 18:5" shortName="路 18:5" orderIndex="4">只因這寡婦煩擾我，我就給她伸冤吧，免得她常來糾纏我。』」</Verse>
+        <Verse osisId="Luke.18.6" sblId="Luke 18:6" name="路加福音 18:6" shortName="路 18:6" orderIndex="5">主說：「你們聽這不義的官所說的話。</Verse>
+        <Verse osisId="Luke.18.7" sblId="Luke 18:7" name="路加福音 18:7" shortName="路 18:7" orderIndex="6">上帝的選民晝夜呼籲他，他豈會延遲不給他們伸冤嗎？</Verse>
+        <Verse osisId="Luke.18.8" sblId="Luke 18:8" name="路加福音 18:8" shortName="路 18:8" orderIndex="7">我告訴你們，他很快就要給他們伸冤。然而，人子來的時候，能在世上找到這樣的信德嗎？」</Verse>
+        <Verse osisId="Luke.18.9" sblId="Luke 18:9" name="路加福音 18:9" shortName="路 18:9" orderIndex="8">耶穌向那些自以為義而藐視別人的人講了這比喻：</Verse>
+        <Verse osisId="Luke.18.10" sblId="Luke 18:10" name="路加福音 18:10" shortName="路 18:10" orderIndex="9">「有兩個人上聖殿去禱告，一個是法利賽人，一個是稅吏。</Verse>
+        <Verse osisId="Luke.18.11" sblId="Luke 18:11" name="路加福音 18:11" shortName="路 18:11" orderIndex="10">法利賽人獨自站著，自言自語地禱告說：『上帝啊，我感謝你，我不像別人勒索、不義、姦淫，也不像這個稅吏。</Verse>
+        <Verse osisId="Luke.18.12" sblId="Luke 18:12" name="路加福音 18:12" shortName="路 18:12" orderIndex="11">我每週禁食兩次，凡我所得的都獻上十分之一。』</Verse>
+        <Verse osisId="Luke.18.13" sblId="Luke 18:13" name="路加福音 18:13" shortName="路 18:13" orderIndex="12">那稅吏遠遠地站著，連舉目望天也不敢，只捶著胸，說：『上帝啊，開恩可憐我這個罪人！』</Verse>
+        <Verse osisId="Luke.18.14" sblId="Luke 18:14" name="路加福音 18:14" shortName="路 18:14" orderIndex="13">我告訴你們，這人回家去比那人倒算為義了。因為凡自高的，必降為卑；自甘卑微的，必升為高。」</Verse>
+        <Verse osisId="Luke.18.15" sblId="Luke 18:15" name="路加福音 18:15" shortName="路 18:15" orderIndex="14">有人甚至連嬰孩也帶來見耶穌，要他摸他們，門徒看見就責備那些人。</Verse>
+        <Verse osisId="Luke.18.16" sblId="Luke 18:16" name="路加福音 18:16" shortName="路 18:16" orderIndex="15">耶穌卻叫他們來，說：「讓小孩子到我這裏來，不要阻止他們，因為在上帝國的正是這樣的人。</Verse>
+        <Verse osisId="Luke.18.17" sblId="Luke 18:17" name="路加福音 18:17" shortName="路 18:17" orderIndex="16">我實在告訴你們，凡要接受上帝國的，若不像小孩子，絕不能進去。」</Verse>
+        <Verse osisId="Luke.18.18" sblId="Luke 18:18" name="路加福音 18:18" shortName="路 18:18" orderIndex="17">有一個官問耶穌說：「善良的老師，我該做甚麼事才能承受永生？」</Verse>
+        <Verse osisId="Luke.18.19" sblId="Luke 18:19" name="路加福音 18:19" shortName="路 18:19" orderIndex="18">耶穌對他說：「你為甚麼稱我是善良的？除了上帝一位之外，再沒有善良的。</Verse>
+        <Verse osisId="Luke.18.20" sblId="Luke 18:20" name="路加福音 18:20" shortName="路 18:20" orderIndex="19">誡命你是知道的：『不可姦淫；不可殺人；不可偷盜；不可作假見證；當孝敬父母。』」</Verse>
+        <Verse osisId="Luke.18.21" sblId="Luke 18:21" name="路加福音 18:21" shortName="路 18:21" orderIndex="20">那人說：「這一切我從小都遵守了。」</Verse>
+        <Verse osisId="Luke.18.22" sblId="Luke 18:22" name="路加福音 18:22" shortName="路 18:22" orderIndex="21">耶穌聽見了，就對他說：「你還缺少一件：要變賣你一切所有的，分給窮人，就必有財寶在天上；你還要來跟從我。」</Verse>
+        <Verse osisId="Luke.18.23" sblId="Luke 18:23" name="路加福音 18:23" shortName="路 18:23" orderIndex="22">他聽見這些話，就很憂愁，因為他很富有。</Verse>
+        <Verse osisId="Luke.18.24" sblId="Luke 18:24" name="路加福音 18:24" shortName="路 18:24" orderIndex="23">耶穌見他變得很憂愁 ，就說：「有錢財的人進上帝的國是何等的難哪！</Verse>
+        <Verse osisId="Luke.18.25" sblId="Luke 18:25" name="路加福音 18:25" shortName="路 18:25" orderIndex="24">駱駝穿過針眼比財主進上帝的國還容易呢！」</Verse>
+        <Verse osisId="Luke.18.26" sblId="Luke 18:26" name="路加福音 18:26" shortName="路 18:26" orderIndex="25">聽見的人說：「這樣，誰能得救呢？」</Verse>
+        <Verse osisId="Luke.18.27" sblId="Luke 18:27" name="路加福音 18:27" shortName="路 18:27" orderIndex="26">耶穌說：「在人所不能的事，在上帝都能。」</Verse>
+        <Verse osisId="Luke.18.28" sblId="Luke 18:28" name="路加福音 18:28" shortName="路 18:28" orderIndex="27">彼得 說：「看哪，我們已經撇下自己所有的跟從你了。」</Verse>
+        <Verse osisId="Luke.18.29" sblId="Luke 18:29" name="路加福音 18:29" shortName="路 18:29" orderIndex="28">耶穌對他們說：「我實在告訴你們，凡是為上帝的國撇下房屋，或是妻子、兄弟、父母、兒女的，</Verse>
+        <Verse osisId="Luke.18.30" sblId="Luke 18:30" name="路加福音 18:30" shortName="路 18:30" orderIndex="29">沒有不在今世得更多倍，而在來世得永生的。」</Verse>
+        <Verse osisId="Luke.18.31" sblId="Luke 18:31" name="路加福音 18:31" shortName="路 18:31" orderIndex="30">耶穌把十二使徒帶到一邊，對他們說：「看哪，我們上 耶路撒冷 去，先知所寫的一切事都要成就在人子身上。</Verse>
+        <Verse osisId="Luke.18.32" sblId="Luke 18:32" name="路加福音 18:32" shortName="路 18:32" orderIndex="31">他將被交給外邦人；他們要戲弄他，凌辱他，向他吐唾沫，</Verse>
+        <Verse osisId="Luke.18.33" sblId="Luke 18:33" name="路加福音 18:33" shortName="路 18:33" orderIndex="32">並要鞭打他，殺害他；第三天他要復活。」</Verse>
+        <Verse osisId="Luke.18.34" sblId="Luke 18:34" name="路加福音 18:34" shortName="路 18:34" orderIndex="33">這些事門徒一點也不明白，這話的意思對他們是隱藏的；他們不知道所說的是甚麼。</Verse>
+        <Verse osisId="Luke.18.35" sblId="Luke 18:35" name="路加福音 18:35" shortName="路 18:35" orderIndex="34">耶穌將近 耶利哥 的時候，有一個盲人坐在路旁討飯。</Verse>
+        <Verse osisId="Luke.18.36" sblId="Luke 18:36" name="路加福音 18:36" shortName="路 18:36" orderIndex="35">他聽見許多人經過，就問是甚麼事。</Verse>
+        <Verse osisId="Luke.18.37" sblId="Luke 18:37" name="路加福音 18:37" shortName="路 18:37" orderIndex="36">他們告訴他，是 拿撒勒 人耶穌經過。</Verse>
+        <Verse osisId="Luke.18.38" sblId="Luke 18:38" name="路加福音 18:38" shortName="路 18:38" orderIndex="37">他就呼叫說：「 大衛 之子耶穌啊，可憐我吧！」</Verse>
+        <Verse osisId="Luke.18.39" sblId="Luke 18:39" name="路加福音 18:39" shortName="路 18:39" orderIndex="38">在前頭走的人就責備他，不許他作聲，他卻越發喊叫：「 大衛 之子啊，可憐我吧！」</Verse>
+        <Verse osisId="Luke.18.40" sblId="Luke 18:40" name="路加福音 18:40" shortName="路 18:40" orderIndex="39">耶穌就站住，吩咐把他領過來，他到了跟前，就問他：</Verse>
+        <Verse osisId="Luke.18.41" sblId="Luke 18:41" name="路加福音 18:41" shortName="路 18:41" orderIndex="40">「你要我為你做甚麼？」他說：「主啊，我要能看見。」</Verse>
+        <Verse osisId="Luke.18.42" sblId="Luke 18:42" name="路加福音 18:42" shortName="路 18:42" orderIndex="41">耶穌對他說：「你看見吧！你的信救了你。」</Verse>
+        <Verse osisId="Luke.18.43" sblId="Luke 18:43" name="路加福音 18:43" shortName="路 18:43" orderIndex="42">那盲人立刻看得見了，就跟隨耶穌，一路歸榮耀給上帝。眾人看見這事，也都讚美上帝。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.19" sblId="Luke 19" name="路加福音 19" shortName="路 19" orderIndex="18" versesCount="48">
+      <verses>
+        <Verse osisId="Luke.19.1" sblId="Luke 19:1" name="路加福音 19:1" shortName="路 19:1" orderIndex="0">耶穌進了 耶利哥 ，要從那裏經過。</Verse>
+        <Verse osisId="Luke.19.2" sblId="Luke 19:2" name="路加福音 19:2" shortName="路 19:2" orderIndex="1">有一個人名叫 撒該 ，作稅吏長，是個財主。</Verse>
+        <Verse osisId="Luke.19.3" sblId="Luke 19:3" name="路加福音 19:3" shortName="路 19:3" orderIndex="2">他要看看耶穌是怎樣的人，只因人多，他的身材又矮，所以看不見。</Verse>
+        <Verse osisId="Luke.19.4" sblId="Luke 19:4" name="路加福音 19:4" shortName="路 19:4" orderIndex="3">於是他跑到前頭，爬上桑樹，要看耶穌，因為耶穌要從那裏經過。</Verse>
+        <Verse osisId="Luke.19.5" sblId="Luke 19:5" name="路加福音 19:5" shortName="路 19:5" orderIndex="4">耶穌到了那裏，抬頭一看，對他說：「 撒該 ，快下來！今天我必須住在你家裏。」</Verse>
+        <Verse osisId="Luke.19.6" sblId="Luke 19:6" name="路加福音 19:6" shortName="路 19:6" orderIndex="5">他就急忙下來，歡歡喜喜地接待耶穌。</Verse>
+        <Verse osisId="Luke.19.7" sblId="Luke 19:7" name="路加福音 19:7" shortName="路 19:7" orderIndex="6">眾人看見，都私下議論說：「他竟然到罪人家裏去住宿。」</Verse>
+        <Verse osisId="Luke.19.8" sblId="Luke 19:8" name="路加福音 19:8" shortName="路 19:8" orderIndex="7">撒該 站著對主說：「主啊，我把所有的一半給窮人；我若勒索了誰，就還他四倍。」</Verse>
+        <Verse osisId="Luke.19.9" sblId="Luke 19:9" name="路加福音 19:9" shortName="路 19:9" orderIndex="8">耶穌對他說：「今天救恩到了這家，因為他也是 亞伯拉罕 的子孫。</Verse>
+        <Verse osisId="Luke.19.10" sblId="Luke 19:10" name="路加福音 19:10" shortName="路 19:10" orderIndex="9">人子來是要尋找和拯救失喪的人。」</Verse>
+        <Verse osisId="Luke.19.11" sblId="Luke 19:11" name="路加福音 19:11" shortName="路 19:11" orderIndex="10">眾人正聽見這些話的時候，耶穌因為將近 耶路撒冷 ，又因他們以為上帝的國快要顯現，就接著講了一個比喻，</Verse>
+        <Verse osisId="Luke.19.12" sblId="Luke 19:12" name="路加福音 19:12" shortName="路 19:12" orderIndex="11">說：「有一個貴族往遠方去，為要取得王位，然後回來。</Verse>
+        <Verse osisId="Luke.19.13" sblId="Luke 19:13" name="路加福音 19:13" shortName="路 19:13" orderIndex="12">他叫了自己的十個僕人來，交給他們十錠銀子，說：『你們去做生意，直到我回來。』</Verse>
+        <Verse osisId="Luke.19.14" sblId="Luke 19:14" name="路加福音 19:14" shortName="路 19:14" orderIndex="13">他本國的百姓卻恨他，打發使者隨後去，說：『我們不願意這個人作我們的王。』</Verse>
+        <Verse osisId="Luke.19.15" sblId="Luke 19:15" name="路加福音 19:15" shortName="路 19:15" orderIndex="14">他得了王位回來，就吩咐叫那領了銀子的僕人來，要知道他們做生意賺了多少。</Verse>
+        <Verse osisId="Luke.19.16" sblId="Luke 19:16" name="路加福音 19:16" shortName="路 19:16" orderIndex="15">頭一個上來，說：『主啊，你的一錠銀子已經賺了十錠。』</Verse>
+        <Verse osisId="Luke.19.17" sblId="Luke 19:17" name="路加福音 19:17" shortName="路 19:17" orderIndex="16">主人對他說：『好，我善良的僕人，你既在最小的事上忠心，你有權柄管十座城。』</Verse>
+        <Verse osisId="Luke.19.18" sblId="Luke 19:18" name="路加福音 19:18" shortName="路 19:18" orderIndex="17">第二個來，說：『主啊，你的一錠銀子已經賺了五錠。』</Verse>
+        <Verse osisId="Luke.19.19" sblId="Luke 19:19" name="路加福音 19:19" shortName="路 19:19" orderIndex="18">主人也對這個說：『你管五座城。』</Verse>
+        <Verse osisId="Luke.19.20" sblId="Luke 19:20" name="路加福音 19:20" shortName="路 19:20" orderIndex="19">又有一個來說：『主啊！看哪，你的一錠銀子在這裏，我把它包在手巾裏存著。</Verse>
+        <Verse osisId="Luke.19.21" sblId="Luke 19:21" name="路加福音 19:21" shortName="路 19:21" orderIndex="20">我向來怕你，因為你是嚴厲的人：沒有放的，也要去拿；沒有種的，也要去收。』</Verse>
+        <Verse osisId="Luke.19.22" sblId="Luke 19:22" name="路加福音 19:22" shortName="路 19:22" orderIndex="21">主人對他說：『你這惡僕，我要憑你的話定你的罪。你既知道我是嚴厲的人，沒有放的也去拿，沒有種的也去收，</Verse>
+        <Verse osisId="Luke.19.23" sblId="Luke 19:23" name="路加福音 19:23" shortName="路 19:23" orderIndex="22">為甚麼不把我的銀子存在銀行，等我來的時候，連本帶利都取回來呢？』</Verse>
+        <Verse osisId="Luke.19.24" sblId="Luke 19:24" name="路加福音 19:24" shortName="路 19:24" orderIndex="23">於是他對那些站在旁邊的人說：『把他這一錠奪過來，給那有十錠的。』</Verse>
+        <Verse osisId="Luke.19.25" sblId="Luke 19:25" name="路加福音 19:25" shortName="路 19:25" orderIndex="24">他們對他說：『主啊，他已經有十錠了。』</Verse>
+        <Verse osisId="Luke.19.26" sblId="Luke 19:26" name="路加福音 19:26" shortName="路 19:26" orderIndex="25">主人說：『我告訴你們，凡有的，還要給他；沒有的，連他所有的也要奪過來。</Verse>
+        <Verse osisId="Luke.19.27" sblId="Luke 19:27" name="路加福音 19:27" shortName="路 19:27" orderIndex="26">至於我那些仇敵，不要我作他們王的，把他們拉來，在我面前殺了！』」</Verse>
+        <Verse osisId="Luke.19.28" sblId="Luke 19:28" name="路加福音 19:28" shortName="路 19:28" orderIndex="27">耶穌說完了這些話，就走在前面，上 耶路撒冷 去。</Verse>
+        <Verse osisId="Luke.19.29" sblId="Luke 19:29" name="路加福音 19:29" shortName="路 19:29" orderIndex="28">快到 伯法其 和 伯大尼 ，在名叫 橄欖山 的地方，他打發兩個門徒，</Verse>
+        <Verse osisId="Luke.19.30" sblId="Luke 19:30" name="路加福音 19:30" shortName="路 19:30" orderIndex="29">說：「你們往對面村子裏去，進去的時候會看見一匹驢駒拴在那裏，是從來沒有人騎過的，把牠解開，牽來。</Verse>
+        <Verse osisId="Luke.19.31" sblId="Luke 19:31" name="路加福音 19:31" shortName="路 19:31" orderIndex="30">若有人問為甚麼解開牠，你們就這樣說：『主要用牠。』」</Verse>
+        <Verse osisId="Luke.19.32" sblId="Luke 19:32" name="路加福音 19:32" shortName="路 19:32" orderIndex="31">被打發的人去了，所遇見的正如耶穌對他們所說的。</Verse>
+        <Verse osisId="Luke.19.33" sblId="Luke 19:33" name="路加福音 19:33" shortName="路 19:33" orderIndex="32">他們解開驢駒的時候，主人問他們：「為甚麼解開驢駒？」</Verse>
+        <Verse osisId="Luke.19.34" sblId="Luke 19:34" name="路加福音 19:34" shortName="路 19:34" orderIndex="33">他們說：「主要用牠。」</Verse>
+        <Verse osisId="Luke.19.35" sblId="Luke 19:35" name="路加福音 19:35" shortName="路 19:35" orderIndex="34">他們把驢駒牽到耶穌那裏，把自己的衣服搭在上面，扶耶穌騎上。</Verse>
+        <Verse osisId="Luke.19.36" sblId="Luke 19:36" name="路加福音 19:36" shortName="路 19:36" orderIndex="35">他前進的時候，眾人把衣服鋪在路上。</Verse>
+        <Verse osisId="Luke.19.37" sblId="Luke 19:37" name="路加福音 19:37" shortName="路 19:37" orderIndex="36">他將近 耶路撒冷 ，正下 橄欖山 的時候，一大群門徒因所見過的一切異能，都歡呼起來，大聲讚美上帝，</Verse>
+        <Verse osisId="Luke.19.38" sblId="Luke 19:38" name="路加福音 19:38" shortName="路 19:38" orderIndex="37">說： 「奉主名來的王 是應當稱頌的！ 在天上有和平； 在至高之處有榮光。」</Verse>
+        <Verse osisId="Luke.19.39" sblId="Luke 19:39" name="路加福音 19:39" shortName="路 19:39" orderIndex="38">人群中有幾個法利賽人對耶穌說：「老師，責備你的門徒吧！」</Verse>
+        <Verse osisId="Luke.19.40" sblId="Luke 19:40" name="路加福音 19:40" shortName="路 19:40" orderIndex="39">耶穌回答：「我告訴你們，若是這些人閉口不說，石頭也要呼叫起來。」</Verse>
+        <Verse osisId="Luke.19.41" sblId="Luke 19:41" name="路加福音 19:41" shortName="路 19:41" orderIndex="40">耶穌快到 耶路撒冷 ，看見那城，就為它哀哭，</Verse>
+        <Verse osisId="Luke.19.42" sblId="Luke 19:42" name="路加福音 19:42" shortName="路 19:42" orderIndex="41">說：「但願你在這日子知道有關你平安的事，不過這事現在是隱藏的，你的眼睛看不出來。</Verse>
+        <Verse osisId="Luke.19.43" sblId="Luke 19:43" name="路加福音 19:43" shortName="路 19:43" orderIndex="42">因為日子將到，你的仇敵要築起土壘包圍你，四面困住你，</Verse>
+        <Verse osisId="Luke.19.44" sblId="Luke 19:44" name="路加福音 19:44" shortName="路 19:44" orderIndex="43">並要消滅你和你裏頭的兒女，連一塊石頭也不留在另一塊石頭上，因為你不知道你蒙眷顧的時候。」</Verse>
+        <Verse osisId="Luke.19.45" sblId="Luke 19:45" name="路加福音 19:45" shortName="路 19:45" orderIndex="44">耶穌一進聖殿就趕出在裏面做買賣的人，</Verse>
+        <Verse osisId="Luke.19.46" sblId="Luke 19:46" name="路加福音 19:46" shortName="路 19:46" orderIndex="45">對他們說：「經上說： 『我的殿是禱告的殿， 你們倒使它成為賊窩了。』」</Verse>
+        <Verse osisId="Luke.19.47" sblId="Luke 19:47" name="路加福音 19:47" shortName="路 19:47" orderIndex="46">耶穌天天在聖殿裏教導人。祭司長、文士和百姓的領袖都想殺他，</Verse>
+        <Verse osisId="Luke.19.48" sblId="Luke 19:48" name="路加福音 19:48" shortName="路 19:48" orderIndex="47">但找不出方法來，因為百姓都側耳聽他。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.20" sblId="Luke 20" name="路加福音 20" shortName="路 20" orderIndex="19" versesCount="47">
+      <verses>
+        <Verse osisId="Luke.20.1" sblId="Luke 20:1" name="路加福音 20:1" shortName="路 20:1" orderIndex="0">有一天，耶穌在聖殿裏教導百姓，宣講福音的時候，祭司長、文士和長老上前來，</Verse>
+        <Verse osisId="Luke.20.2" sblId="Luke 20:2" name="路加福音 20:2" shortName="路 20:2" orderIndex="1">問他說：「你告訴我們，你仗著甚麼權柄做這些事？給你這權柄的是誰呢？」</Verse>
+        <Verse osisId="Luke.20.3" sblId="Luke 20:3" name="路加福音 20:3" shortName="路 20:3" orderIndex="2">耶穌回答他們：「我也要問你們一句話，你們告訴我。</Verse>
+        <Verse osisId="Luke.20.4" sblId="Luke 20:4" name="路加福音 20:4" shortName="路 20:4" orderIndex="3">約翰 的洗禮是從天上來的，還是從人間來的呢？」</Verse>
+        <Verse osisId="Luke.20.5" sblId="Luke 20:5" name="路加福音 20:5" shortName="路 20:5" orderIndex="4">他們彼此商量說：「我們若說『從天上來的』，他會說『這樣，你們為甚麼不信他呢？』</Verse>
+        <Verse osisId="Luke.20.6" sblId="Luke 20:6" name="路加福音 20:6" shortName="路 20:6" orderIndex="5">我們若說『從人間來的』，所有的百姓都會用石頭打死我們，因為他們信 約翰 是先知。」</Verse>
+        <Verse osisId="Luke.20.7" sblId="Luke 20:7" name="路加福音 20:7" shortName="路 20:7" orderIndex="6">於是他們回答：「我們不知道是從哪裏來的。」</Verse>
+        <Verse osisId="Luke.20.8" sblId="Luke 20:8" name="路加福音 20:8" shortName="路 20:8" orderIndex="7">耶穌對他們說：「我也不告訴你們，我仗著甚麼權柄做這些事。」</Verse>
+        <Verse osisId="Luke.20.9" sblId="Luke 20:9" name="路加福音 20:9" shortName="路 20:9" orderIndex="8">耶穌用這個比喻對百姓說：「有人開墾了一個葡萄園，租給園戶，就出外遠行，去了許久。</Verse>
+        <Verse osisId="Luke.20.10" sblId="Luke 20:10" name="路加福音 20:10" shortName="路 20:10" orderIndex="9">到了時候，他打發一個僕人到園戶那裏去，叫他們把園中當納的果子交給他；園戶竟打了他，叫他空手回去。</Verse>
+        <Verse osisId="Luke.20.11" sblId="Luke 20:11" name="路加福音 20:11" shortName="路 20:11" orderIndex="10">園主又打發另一個僕人去，他們也打了他，並且侮辱他，叫他空手回去。</Verse>
+        <Verse osisId="Luke.20.12" sblId="Luke 20:12" name="路加福音 20:12" shortName="路 20:12" orderIndex="11">園主又打發第三個僕人去，他們也打傷了他，把他推出去了。</Verse>
+        <Verse osisId="Luke.20.13" sblId="Luke 20:13" name="路加福音 20:13" shortName="路 20:13" orderIndex="12">葡萄園主說：『我要怎麼做呢？我要打發我的愛子去，或許他們會尊敬他。』</Verse>
+        <Verse osisId="Luke.20.14" sblId="Luke 20:14" name="路加福音 20:14" shortName="路 20:14" orderIndex="13">可是，園戶看見他，彼此說：『這是承受產業的。我們殺了他，產業就歸我們了！』</Verse>
+        <Verse osisId="Luke.20.15" sblId="Luke 20:15" name="路加福音 20:15" shortName="路 20:15" orderIndex="14">於是他們把他扔出葡萄園外，殺了。這樣，葡萄園主要怎麼處置他們呢？</Verse>
+        <Verse osisId="Luke.20.16" sblId="Luke 20:16" name="路加福音 20:16" shortName="路 20:16" orderIndex="15">他要來除滅那些園戶，將葡萄園轉給別人。」聽見的人說：「絕對不可！」</Verse>
+        <Verse osisId="Luke.20.17" sblId="Luke 20:17" name="路加福音 20:17" shortName="路 20:17" orderIndex="16">耶穌看著他們，說：「那麼，經上記著： 『匠人所丟棄的石頭 已作了房角的頭塊石頭。』 這是甚麼意思呢？</Verse>
+        <Verse osisId="Luke.20.18" sblId="Luke 20:18" name="路加福音 20:18" shortName="路 20:18" orderIndex="17">凡跌在那石頭上的，一定會跌得粉碎；那石頭掉在誰的身上，就要把誰壓得稀爛。」</Verse>
+        <Verse osisId="Luke.20.19" sblId="Luke 20:19" name="路加福音 20:19" shortName="路 20:19" orderIndex="18">文士和祭司長看出這比喻是指著他們說的，當時就想要下手拿他，只是懼怕百姓。</Verse>
+        <Verse osisId="Luke.20.20" sblId="Luke 20:20" name="路加福音 20:20" shortName="路 20:20" orderIndex="19">於是他們窺探耶穌，打發奸細裝作好人，要在他的話上抓把柄，好把他交給總督處置。</Verse>
+        <Verse osisId="Luke.20.21" sblId="Luke 20:21" name="路加福音 20:21" shortName="路 20:21" orderIndex="20">奸細就問耶穌：「老師，我們知道你所講所教的都很正確，也不看人的面子，而是誠誠實實傳上帝的道。</Verse>
+        <Verse osisId="Luke.20.22" sblId="Luke 20:22" name="路加福音 20:22" shortName="路 20:22" orderIndex="21">我們納稅給凱撒合不合法？」</Verse>
+        <Verse osisId="Luke.20.23" sblId="Luke 20:23" name="路加福音 20:23" shortName="路 20:23" orderIndex="22">耶穌看出他們的詭詐，就對他們說：</Verse>
+        <Verse osisId="Luke.20.24" sblId="Luke 20:24" name="路加福音 20:24" shortName="路 20:24" orderIndex="23">「拿一個銀幣來給我看。這像和這名號是誰的？」他們說：「是凱撒的。」</Verse>
+        <Verse osisId="Luke.20.25" sblId="Luke 20:25" name="路加福音 20:25" shortName="路 20:25" orderIndex="24">耶穌對他們說：「這樣，凱撒的歸凱撒，上帝的歸上帝。」</Verse>
+        <Verse osisId="Luke.20.26" sblId="Luke 20:26" name="路加福音 20:26" shortName="路 20:26" orderIndex="25">他們無法當著百姓在他的話上抓到把柄，又因他的對答而驚訝，就閉口不言了。</Verse>
+        <Verse osisId="Luke.20.27" sblId="Luke 20:27" name="路加福音 20:27" shortName="路 20:27" orderIndex="26">有些撒都該人來見耶穌。他們說沒有復活這回事，於是問耶穌：</Verse>
+        <Verse osisId="Luke.20.28" sblId="Luke 20:28" name="路加福音 20:28" shortName="路 20:28" orderIndex="27">「老師， 摩西 為我們寫下這話：『某人的哥哥若死了，有妻無子，他該娶哥哥的妻子，為哥哥生子立後。』</Verse>
+        <Verse osisId="Luke.20.29" sblId="Luke 20:29" name="路加福音 20:29" shortName="路 20:29" orderIndex="28">那麼，有兄弟七人，第一個娶了妻，沒有孩子死了。</Verse>
+        <Verse osisId="Luke.20.30" sblId="Luke 20:30" name="路加福音 20:30" shortName="路 20:30" orderIndex="29">第二個、</Verse>
+        <Verse osisId="Luke.20.31" sblId="Luke 20:31" name="路加福音 20:31" shortName="路 20:31" orderIndex="30">第三個也娶過她；同樣地，七個人都娶過她，沒有留下孩子就死了。</Verse>
+        <Verse osisId="Luke.20.32" sblId="Luke 20:32" name="路加福音 20:32" shortName="路 20:32" orderIndex="31">後來，那婦人也死了。</Verse>
+        <Verse osisId="Luke.20.33" sblId="Luke 20:33" name="路加福音 20:33" shortName="路 20:33" orderIndex="32">那麼，在復活的時候，那婦人是哪一個的妻子呢？因為他們七個人都娶過她。」</Verse>
+        <Verse osisId="Luke.20.34" sblId="Luke 20:34" name="路加福音 20:34" shortName="路 20:34" orderIndex="33">耶穌對他們說：「這世代的人有娶有嫁，</Verse>
+        <Verse osisId="Luke.20.35" sblId="Luke 20:35" name="路加福音 20:35" shortName="路 20:35" orderIndex="34">惟有配得那要來的世代和從死人中復活的人不娶也不嫁。</Verse>
+        <Verse osisId="Luke.20.36" sblId="Luke 20:36" name="路加福音 20:36" shortName="路 20:36" orderIndex="35">因為他們不能再死，和天使一樣；既然是復活的人，他們就是上帝的兒子。</Verse>
+        <Verse osisId="Luke.20.37" sblId="Luke 20:37" name="路加福音 20:37" shortName="路 20:37" orderIndex="36">至於死人復活， 摩西 在《荊棘篇》上就指明了，他稱主是 亞伯拉罕 的上帝， 以撒 的上帝， 雅各 的上帝。</Verse>
+        <Verse osisId="Luke.20.38" sblId="Luke 20:38" name="路加福音 20:38" shortName="路 20:38" orderIndex="37">上帝不是死人的上帝，而是活人的上帝，因為對他來說，人都是活的。」</Verse>
+        <Verse osisId="Luke.20.39" sblId="Luke 20:39" name="路加福音 20:39" shortName="路 20:39" orderIndex="38">有幾個文士說：「老師，你說得好。」</Verse>
+        <Verse osisId="Luke.20.40" sblId="Luke 20:40" name="路加福音 20:40" shortName="路 20:40" orderIndex="39">以後，他們不敢再問他甚麼了。</Verse>
+        <Verse osisId="Luke.20.41" sblId="Luke 20:41" name="路加福音 20:41" shortName="路 20:41" orderIndex="40">耶穌對他們說：「人們怎麼說基督是 大衛 的後裔呢？</Verse>
+        <Verse osisId="Luke.20.42" sblId="Luke 20:42" name="路加福音 20:42" shortName="路 20:42" orderIndex="41">《詩篇》 上 大衛 自己說： 「主對我主說： 『你坐在我的右邊，</Verse>
+        <Verse osisId="Luke.20.43" sblId="Luke 20:43" name="路加福音 20:43" shortName="路 20:43" orderIndex="42">等我使你的仇敵作你的腳凳。』</Verse>
+        <Verse osisId="Luke.20.44" sblId="Luke 20:44" name="路加福音 20:44" shortName="路 20:44" orderIndex="43">大衛 既稱他為主，他怎麼又是 大衛 的後裔呢？」</Verse>
+        <Verse osisId="Luke.20.45" sblId="Luke 20:45" name="路加福音 20:45" shortName="路 20:45" orderIndex="44">眾百姓聽的時候，耶穌對他的門徒說：</Verse>
+        <Verse osisId="Luke.20.46" sblId="Luke 20:46" name="路加福音 20:46" shortName="路 20:46" orderIndex="45">「你們要防備文士。他們好穿長袍走來走去，喜歡人們在街市上向他們問安，又喜愛會堂裏的高位，宴席上的首座。</Verse>
+        <Verse osisId="Luke.20.47" sblId="Luke 20:47" name="路加福音 20:47" shortName="路 20:47" orderIndex="46">他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的懲罰！」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.21" sblId="Luke 21" name="路加福音 21" shortName="路 21" orderIndex="20" versesCount="38">
+      <verses>
+        <Verse osisId="Luke.21.1" sblId="Luke 21:1" name="路加福音 21:1" shortName="路 21:1" orderIndex="0">耶穌抬頭觀看，見財主把捐項投入聖殿銀庫，</Verse>
+        <Verse osisId="Luke.21.2" sblId="Luke 21:2" name="路加福音 21:2" shortName="路 21:2" orderIndex="1">又見一個窮寡婦投了兩個小文錢 ，</Verse>
+        <Verse osisId="Luke.21.3" sblId="Luke 21:3" name="路加福音 21:3" shortName="路 21:3" orderIndex="2">就說：「我實在告訴你們，這窮寡婦所投的比眾人更多。</Verse>
+        <Verse osisId="Luke.21.4" sblId="Luke 21:4" name="路加福音 21:4" shortName="路 21:4" orderIndex="3">因為眾人都是拿有餘的捐獻，但這寡婦，雖然自己不足，卻把一生所有的都投進去了。」</Verse>
+        <Verse osisId="Luke.21.5" sblId="Luke 21:5" name="路加福音 21:5" shortName="路 21:5" orderIndex="4">有人談論聖殿是用美石和供物裝飾的，耶穌就說：</Verse>
+        <Verse osisId="Luke.21.6" sblId="Luke 21:6" name="路加福音 21:6" shortName="路 21:6" orderIndex="5">「你們所看見的這一切，日子將到，沒有一塊石頭會留在另一塊石頭上而不被拆毀的。」</Verse>
+        <Verse osisId="Luke.21.7" sblId="Luke 21:7" name="路加福音 21:7" shortName="路 21:7" orderIndex="6">他們問他：「老師，甚麼時候有這些事呢？這些事將臨到的時候有甚麼預兆呢？」</Verse>
+        <Verse osisId="Luke.21.8" sblId="Luke 21:8" name="路加福音 21:8" shortName="路 21:8" orderIndex="7">耶穌說：「你們要謹慎，不要受迷惑，因為將有好些人冒我的名來，說『我是基督』，又說『時候近了』，你們不要跟從他們！</Verse>
+        <Verse osisId="Luke.21.9" sblId="Luke 21:9" name="路加福音 21:9" shortName="路 21:9" orderIndex="8">當你們聽見打仗和動亂的事，不要驚惶；因為這些事必須先發生，但終結不會立刻就到。」</Verse>
+        <Verse osisId="Luke.21.10" sblId="Luke 21:10" name="路加福音 21:10" shortName="路 21:10" orderIndex="9">於是耶穌對他們說：「民要攻打民，國要攻打國，</Verse>
+        <Verse osisId="Luke.21.11" sblId="Luke 21:11" name="路加福音 21:11" shortName="路 21:11" orderIndex="10">將有大地震，多處必有饑荒、瘟疫，又有可怕的異象和大神蹟從天上顯現。</Verse>
+        <Verse osisId="Luke.21.12" sblId="Luke 21:12" name="路加福音 21:12" shortName="路 21:12" orderIndex="11">但這一切的事以前，有人要下手拿你們，迫害你們，把你們交給會堂，並且關在監裏，又為我名的緣故拉你們到君王和統治者面前。</Verse>
+        <Verse osisId="Luke.21.13" sblId="Luke 21:13" name="路加福音 21:13" shortName="路 21:13" orderIndex="12">但這些事終必成為你們作見證的機會。</Verse>
+        <Verse osisId="Luke.21.14" sblId="Luke 21:14" name="路加福音 21:14" shortName="路 21:14" orderIndex="13">所以，你們要立定心意，不要預先考慮怎樣申辯；</Verse>
+        <Verse osisId="Luke.21.15" sblId="Luke 21:15" name="路加福音 21:15" shortName="路 21:15" orderIndex="14">因為我必賜你們口才和智慧，是你們一切敵人所敵不住、駁不倒的。</Verse>
+        <Verse osisId="Luke.21.16" sblId="Luke 21:16" name="路加福音 21:16" shortName="路 21:16" orderIndex="15">連你們的父母、兄弟、親族、朋友也要把你們交給官府；你們中間也將有被他們害死的。</Verse>
+        <Verse osisId="Luke.21.17" sblId="Luke 21:17" name="路加福音 21:17" shortName="路 21:17" orderIndex="16">你們要為我的名被眾人憎恨。</Verse>
+        <Verse osisId="Luke.21.18" sblId="Luke 21:18" name="路加福音 21:18" shortName="路 21:18" orderIndex="17">然而，你們連一根頭髮也不會損失。</Verse>
+        <Verse osisId="Luke.21.19" sblId="Luke 21:19" name="路加福音 21:19" shortName="路 21:19" orderIndex="18">你們憑著堅忍，就必保全性命。」</Verse>
+        <Verse osisId="Luke.21.20" sblId="Luke 21:20" name="路加福音 21:20" shortName="路 21:20" orderIndex="19">「當你們看見 耶路撒冷 被兵圍困，就可知道它成為荒蕪的日子近了。</Verse>
+        <Verse osisId="Luke.21.21" sblId="Luke 21:21" name="路加福音 21:21" shortName="路 21:21" orderIndex="20">那時，在 猶太 的，應當逃到山上；在城裏的，應當出來；在鄉下的，不要進城。</Verse>
+        <Verse osisId="Luke.21.22" sblId="Luke 21:22" name="路加福音 21:22" shortName="路 21:22" orderIndex="21">因為這是報應的日子，要使經上所寫的都得應驗。</Verse>
+        <Verse osisId="Luke.21.23" sblId="Luke 21:23" name="路加福音 21:23" shortName="路 21:23" orderIndex="22">在那些日子，懷孕的和奶孩子的就苦了。因為將有大災難降在這地方，也有憤怒臨到這百姓。</Verse>
+        <Verse osisId="Luke.21.24" sblId="Luke 21:24" name="路加福音 21:24" shortName="路 21:24" orderIndex="23">他們要倒在刀下，又被擄到各國去。 耶路撒冷 要被外邦人踐踏，直到外邦人的日子滿了。」</Verse>
+        <Verse osisId="Luke.21.25" sblId="Luke 21:25" name="路加福音 21:25" shortName="路 21:25" orderIndex="24">「日月星辰要顯出預兆，地上的邦國也有困苦，因海中波浪的響聲而惶惶不安。</Verse>
+        <Verse osisId="Luke.21.26" sblId="Luke 21:26" name="路加福音 21:26" shortName="路 21:26" orderIndex="25">人想到那要臨到世界的事，就都嚇得魂不附體，因為天上的萬象都要震動。</Verse>
+        <Verse osisId="Luke.21.27" sblId="Luke 21:27" name="路加福音 21:27" shortName="路 21:27" orderIndex="26">那時，他們要看見人子帶著能力和大榮耀駕雲來臨。</Verse>
+        <Verse osisId="Luke.21.28" sblId="Luke 21:28" name="路加福音 21:28" shortName="路 21:28" orderIndex="27">一有這些事，你們就當挺身昂首，因為你們得救贖的日子近了。」</Verse>
+        <Verse osisId="Luke.21.29" sblId="Luke 21:29" name="路加福音 21:29" shortName="路 21:29" orderIndex="28">耶穌對他們講了一個比喻說：「你們看無花果樹和各樣的樹，</Verse>
+        <Verse osisId="Luke.21.30" sblId="Luke 21:30" name="路加福音 21:30" shortName="路 21:30" orderIndex="29">樹葉一長出來，你們看了自然就知道夏天近了。</Verse>
+        <Verse osisId="Luke.21.31" sblId="Luke 21:31" name="路加福音 21:31" shortName="路 21:31" orderIndex="30">同樣，當你們看見這些事發生，就知道上帝的國近了。</Verse>
+        <Verse osisId="Luke.21.32" sblId="Luke 21:32" name="路加福音 21:32" shortName="路 21:32" orderIndex="31">我實在告訴你們，這世代還沒有過去，一切都要發生。</Verse>
+        <Verse osisId="Luke.21.33" sblId="Luke 21:33" name="路加福音 21:33" shortName="路 21:33" orderIndex="32">天地要廢去，我的話卻絕不廢去。」</Verse>
+        <Verse osisId="Luke.21.34" sblId="Luke 21:34" name="路加福音 21:34" shortName="路 21:34" orderIndex="33">「你們要謹慎，免得被貪食、醉酒和今生的憂慮壓住你們的心，那日子就忽然臨到你們，</Verse>
+        <Verse osisId="Luke.21.35" sblId="Luke 21:35" name="路加福音 21:35" shortName="路 21:35" orderIndex="34">如同羅網一樣，因為那日子要臨到所有居住在地面上的人。</Verse>
+        <Verse osisId="Luke.21.36" sblId="Luke 21:36" name="路加福音 21:36" shortName="路 21:36" orderIndex="35">你們要時時警醒，常常祈求，使你們能逃避這一切要來的事，得以站立在人子面前。」</Verse>
+        <Verse osisId="Luke.21.37" sblId="Luke 21:37" name="路加福音 21:37" shortName="路 21:37" orderIndex="36">耶穌每日在聖殿裏教導人，每夜出城到 橄欖山 住宿。</Verse>
+        <Verse osisId="Luke.21.38" sblId="Luke 21:38" name="路加福音 21:38" shortName="路 21:38" orderIndex="37">眾百姓清早上聖殿，到耶穌那裏聽他講道。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.22" sblId="Luke 22" name="路加福音 22" shortName="路 22" orderIndex="21" versesCount="71">
+      <verses>
+        <Verse osisId="Luke.22.1" sblId="Luke 22:1" name="路加福音 22:1" shortName="路 22:1" orderIndex="0">除酵節，又叫逾越節，近了。</Verse>
+        <Verse osisId="Luke.22.2" sblId="Luke 22:2" name="路加福音 22:2" shortName="路 22:2" orderIndex="1">祭司長和文士在想法子怎樣殺害耶穌，因他們懼怕百姓。</Verse>
+        <Verse osisId="Luke.22.3" sblId="Luke 22:3" name="路加福音 22:3" shortName="路 22:3" orderIndex="2">這時，撒但入了那稱為 加略 人 猶大 的心。他本是十二使徒裏的一個。</Verse>
+        <Verse osisId="Luke.22.4" sblId="Luke 22:4" name="路加福音 22:4" shortName="路 22:4" orderIndex="3">他去跟祭司長和守殿官商量怎樣把耶穌交給他們。</Verse>
+        <Verse osisId="Luke.22.5" sblId="Luke 22:5" name="路加福音 22:5" shortName="路 22:5" orderIndex="4">他們很高興，就約定給他銀子。</Verse>
+        <Verse osisId="Luke.22.6" sblId="Luke 22:6" name="路加福音 22:6" shortName="路 22:6" orderIndex="5">他應允了，就找機會，要趁眾人不在跟前的時候把耶穌交給他們。</Verse>
+        <Verse osisId="Luke.22.7" sblId="Luke 22:7" name="路加福音 22:7" shortName="路 22:7" orderIndex="6">除酵節到了，這一天必須宰逾越節的羔羊。</Verse>
+        <Verse osisId="Luke.22.8" sblId="Luke 22:8" name="路加福音 22:8" shortName="路 22:8" orderIndex="7">耶穌打發 彼得 和 約翰 ，說：「你們去為我們預備逾越節的宴席，好讓我們吃。」</Verse>
+        <Verse osisId="Luke.22.9" sblId="Luke 22:9" name="路加福音 22:9" shortName="路 22:9" orderIndex="8">他們問他：「你要我們在哪裏預備？」</Verse>
+        <Verse osisId="Luke.22.10" sblId="Luke 22:10" name="路加福音 22:10" shortName="路 22:10" orderIndex="9">耶穌對他們說：「你們進了城，會有人拿著一罐水迎面而來，你們就跟著他，到他所進的房子裏去，</Verse>
+        <Verse osisId="Luke.22.11" sblId="Luke 22:11" name="路加福音 22:11" shortName="路 22:11" orderIndex="10">對那家的主人說：『老師問：客房在哪裏？我和我的門徒要在那裏吃逾越節的宴席。』</Verse>
+        <Verse osisId="Luke.22.12" sblId="Luke 22:12" name="路加福音 22:12" shortName="路 22:12" orderIndex="11">他會帶你們看一間擺設齊全的樓上大廳，你們就在那裏預備。」</Verse>
+        <Verse osisId="Luke.22.13" sblId="Luke 22:13" name="路加福音 22:13" shortName="路 22:13" orderIndex="12">他們去了，所看到的正如耶穌所說的。他們就預備了逾越節的宴席。</Verse>
+        <Verse osisId="Luke.22.14" sblId="Luke 22:14" name="路加福音 22:14" shortName="路 22:14" orderIndex="13">時候到了，耶穌坐席，使徒們也和他同坐。</Verse>
+        <Verse osisId="Luke.22.15" sblId="Luke 22:15" name="路加福音 22:15" shortName="路 22:15" orderIndex="14">耶穌對他們說：「我非常渴望在受害以前和你們吃這逾越節的宴席。</Verse>
+        <Verse osisId="Luke.22.16" sblId="Luke 22:16" name="路加福音 22:16" shortName="路 22:16" orderIndex="15">我告訴你們，我不再吃這宴席，直到它實現在上帝的國裏。」</Verse>
+        <Verse osisId="Luke.22.17" sblId="Luke 22:17" name="路加福音 22:17" shortName="路 22:17" orderIndex="16">耶穌接過杯來，祝謝了，說：「你們拿這杯，大家分著喝。</Verse>
+        <Verse osisId="Luke.22.18" sblId="Luke 22:18" name="路加福音 22:18" shortName="路 22:18" orderIndex="17">我告訴你們，從今以後，我不再喝這葡萄汁，直等上帝的國來到。」</Verse>
+        <Verse osisId="Luke.22.19" sblId="Luke 22:19" name="路加福音 22:19" shortName="路 22:19" orderIndex="18">他又拿起餅來，祝謝了，就擘開，遞給他們，說：「這是我的身體，為你們捨的，你們要如此行，為的是記念我。」</Verse>
+        <Verse osisId="Luke.22.20" sblId="Luke 22:20" name="路加福音 22:20" shortName="路 22:20" orderIndex="19">飯後他照樣拿起杯來，說：「這杯是用我的血所立的新約，為你們流出來的。</Verse>
+        <Verse osisId="Luke.22.21" sblId="Luke 22:21" name="路加福音 22:21" shortName="路 22:21" orderIndex="20">但是，看哪，那出賣我的人的手跟我一同在桌子上。</Verse>
+        <Verse osisId="Luke.22.22" sblId="Luke 22:22" name="路加福音 22:22" shortName="路 22:22" orderIndex="21">人子固然要照所預定的離去，但那出賣人子的人有禍了！」</Verse>
+        <Verse osisId="Luke.22.23" sblId="Luke 22:23" name="路加福音 22:23" shortName="路 22:23" orderIndex="22">於是他們開始互相追問他們中間哪一個會做這事。</Verse>
+        <Verse osisId="Luke.22.24" sblId="Luke 22:24" name="路加福音 22:24" shortName="路 22:24" orderIndex="23">門徒中間也起了爭論：他們中哪一個可算為大。</Verse>
+        <Verse osisId="Luke.22.25" sblId="Luke 22:25" name="路加福音 22:25" shortName="路 22:25" orderIndex="24">耶穌對他們說：「外邦人有君王為主治理他們，那掌權管他們的稱為恩主。</Verse>
+        <Verse osisId="Luke.22.26" sblId="Luke 22:26" name="路加福音 22:26" shortName="路 22:26" orderIndex="25">但你們不可這樣。你們中間最大的，倒要成為最小的；為領袖的，倒要像服事人的。</Verse>
+        <Verse osisId="Luke.22.27" sblId="Luke 22:27" name="路加福音 22:27" shortName="路 22:27" orderIndex="26">是誰為大？是坐席的還是服事人的呢？不是坐席的大嗎？然而，我在你們中間是如同服事人的。</Verse>
+        <Verse osisId="Luke.22.28" sblId="Luke 22:28" name="路加福音 22:28" shortName="路 22:28" orderIndex="27">「我在試煉之中，常和我同在的就是你們。</Verse>
+        <Verse osisId="Luke.22.29" sblId="Luke 22:29" name="路加福音 22:29" shortName="路 22:29" orderIndex="28">我把國賜給你們，正如我父賜給我一樣，</Verse>
+        <Verse osisId="Luke.22.30" sblId="Luke 22:30" name="路加福音 22:30" shortName="路 22:30" orderIndex="29">使你們在我的國裏坐在我的席上吃喝，並且坐在寶座上審判 以色列 十二個支派。」</Verse>
+        <Verse osisId="Luke.22.31" sblId="Luke 22:31" name="路加福音 22:31" shortName="路 22:31" orderIndex="30">主又說：「 西門 ， 西門 ！撒但要得著你們，好篩你們像篩麥子一樣；</Verse>
+        <Verse osisId="Luke.22.32" sblId="Luke 22:32" name="路加福音 22:32" shortName="路 22:32" orderIndex="31">但我已經為你祈求，使你不至於失了信心。你回頭以後，要堅固你的弟兄。」</Verse>
+        <Verse osisId="Luke.22.33" sblId="Luke 22:33" name="路加福音 22:33" shortName="路 22:33" orderIndex="32">彼得 對他說：「主啊，我已準備好要同你坐牢，與你同死。」</Verse>
+        <Verse osisId="Luke.22.34" sblId="Luke 22:34" name="路加福音 22:34" shortName="路 22:34" orderIndex="33">耶穌說：「 彼得 ，我告訴你，今日雞還沒有叫，你要三次說不認得我。」</Verse>
+        <Verse osisId="Luke.22.35" sblId="Luke 22:35" name="路加福音 22:35" shortName="路 22:35" orderIndex="34">耶穌又對他們說：「我差你們出去的時候，沒有錢囊，沒有行囊，沒有鞋子，你們缺少甚麼沒有？」他們說：「沒有。」</Verse>
+        <Verse osisId="Luke.22.36" sblId="Luke 22:36" name="路加福音 22:36" shortName="路 22:36" orderIndex="35">耶穌對他們說：「但如今，有錢囊的要帶著，有行囊的也一樣；沒有刀的要賣衣服買刀。</Verse>
+        <Verse osisId="Luke.22.37" sblId="Luke 22:37" name="路加福音 22:37" shortName="路 22:37" orderIndex="36">我告訴你們，經上寫著說：『他被列在罪犯之中。』這話必須應驗在我身上，因為那關於我的事必然成就。」</Verse>
+        <Verse osisId="Luke.22.38" sblId="Luke 22:38" name="路加福音 22:38" shortName="路 22:38" orderIndex="37">他們說：「主啊，請看！這裏有兩把刀。」耶穌對他們說：「夠了。」</Verse>
+        <Verse osisId="Luke.22.39" sblId="Luke 22:39" name="路加福音 22:39" shortName="路 22:39" orderIndex="38">耶穌出來，照常往 橄欖山 去，門徒也跟隨他。</Verse>
+        <Verse osisId="Luke.22.40" sblId="Luke 22:40" name="路加福音 22:40" shortName="路 22:40" orderIndex="39">到了那地方，他就對他們說：「你們要禱告，免得陷入試探。」</Verse>
+        <Verse osisId="Luke.22.41" sblId="Luke 22:41" name="路加福音 22:41" shortName="路 22:41" orderIndex="40">於是他離開他們約有一塊石頭扔出去那麼遠，跪下禱告，</Verse>
+        <Verse osisId="Luke.22.42" sblId="Luke 22:42" name="路加福音 22:42" shortName="路 22:42" orderIndex="41">說：「父啊！你若願意，求你將這杯撤去；然而，不是照我的意願，而是要成全你的旨意。」 〔</Verse>
+        <Verse osisId="Luke.22.43" sblId="Luke 22:43" name="路加福音 22:43" shortName="路 22:43" orderIndex="42">有一位天使從天上顯現，加添他的力量。</Verse>
+        <Verse osisId="Luke.22.44" sblId="Luke 22:44" name="路加福音 22:44" shortName="路 22:44" orderIndex="43">耶穌非常痛苦焦慮，禱告更加懇切，汗如大血點滴在地上。 〕</Verse>
+        <Verse osisId="Luke.22.45" sblId="Luke 22:45" name="路加福音 22:45" shortName="路 22:45" orderIndex="44">禱告完了，他起來，到門徒那裏，見他們因為憂愁都睡著了，</Verse>
+        <Verse osisId="Luke.22.46" sblId="Luke 22:46" name="路加福音 22:46" shortName="路 22:46" orderIndex="45">就對他們說：「你們為甚麼睡覺呢？起來禱告，免得陷入試探！」</Verse>
+        <Verse osisId="Luke.22.47" sblId="Luke 22:47" name="路加福音 22:47" shortName="路 22:47" orderIndex="46">耶穌還在說話的時候，來了一群人。十二使徒之一名叫 猶大 的，走在前頭，接近耶穌，要親他。</Verse>
+        <Verse osisId="Luke.22.48" sblId="Luke 22:48" name="路加福音 22:48" shortName="路 22:48" orderIndex="47">耶穌對他說：「 猶大 ，你用親吻來出賣人子嗎？」</Verse>
+        <Verse osisId="Luke.22.49" sblId="Luke 22:49" name="路加福音 22:49" shortName="路 22:49" orderIndex="48">左右的人見了要發生的事，就說：「主啊，我們拿刀砍好不好？」</Verse>
+        <Verse osisId="Luke.22.50" sblId="Luke 22:50" name="路加福音 22:50" shortName="路 22:50" orderIndex="49">其中有一個人把大祭司的僕人砍了一刀，削掉了他的右耳。</Verse>
+        <Verse osisId="Luke.22.51" sblId="Luke 22:51" name="路加福音 22:51" shortName="路 22:51" orderIndex="50">耶穌回答說：「算了，住手吧！」就摸那人的耳朵，把他治好了。</Verse>
+        <Verse osisId="Luke.22.52" sblId="Luke 22:52" name="路加福音 22:52" shortName="路 22:52" orderIndex="51">耶穌對那些來抓他的祭司長、守殿官和長老說：「你們帶著刀棒出來，如同對付強盜嗎？</Verse>
+        <Verse osisId="Luke.22.53" sblId="Luke 22:53" name="路加福音 22:53" shortName="路 22:53" orderIndex="52">我天天同你們在聖殿裏，你們不下手抓我。現在卻是你們的時候，黑暗掌權了。」</Verse>
+        <Verse osisId="Luke.22.54" sblId="Luke 22:54" name="路加福音 22:54" shortName="路 22:54" orderIndex="53">他們拿住耶穌，把他帶走，進入大祭司的住宅。 彼得 遠遠地跟著。</Verse>
+        <Verse osisId="Luke.22.55" sblId="Luke 22:55" name="路加福音 22:55" shortName="路 22:55" orderIndex="54">他們在院子中間生了火，一同坐著， 彼得 也坐在他們當中。</Verse>
+        <Verse osisId="Luke.22.56" sblId="Luke 22:56" name="路加福音 22:56" shortName="路 22:56" orderIndex="55">有一個使女看見 彼得 面向火光坐著，就定睛看他，說：「這個人素來也是同那人一起的。」</Verse>
+        <Verse osisId="Luke.22.57" sblId="Luke 22:57" name="路加福音 22:57" shortName="路 22:57" orderIndex="56">彼得 卻不承認，說：「你這個女人，我不認得他！」</Verse>
+        <Verse osisId="Luke.22.58" sblId="Luke 22:58" name="路加福音 22:58" shortName="路 22:58" orderIndex="57">過了一會兒，又有一個人看見他，說：「你也是他們一夥的。」 彼得 說：「你這個人，我不是！」</Verse>
+        <Verse osisId="Luke.22.59" sblId="Luke 22:59" name="路加福音 22:59" shortName="路 22:59" orderIndex="58">約過了一小時，又有一個人堅持說：「他實在是同那人一起的，因為他也是 加利利 人。」</Verse>
+        <Verse osisId="Luke.22.60" sblId="Luke 22:60" name="路加福音 22:60" shortName="路 22:60" orderIndex="59">彼得 說：「你這個人，我不知道你在說甚麼！」正說話之間，雞就叫了。</Verse>
+        <Verse osisId="Luke.22.61" sblId="Luke 22:61" name="路加福音 22:61" shortName="路 22:61" orderIndex="60">主轉過身來看 彼得 ， 彼得 就想起主對他所說的話：「今日雞叫以前，你要三次不認我。」</Verse>
+        <Verse osisId="Luke.22.62" sblId="Luke 22:62" name="路加福音 22:62" shortName="路 22:62" orderIndex="61">他就出去痛哭。</Verse>
+        <Verse osisId="Luke.22.63" sblId="Luke 22:63" name="路加福音 22:63" shortName="路 22:63" orderIndex="62">看守耶穌的人戲弄他，打他，</Verse>
+        <Verse osisId="Luke.22.64" sblId="Luke 22:64" name="路加福音 22:64" shortName="路 22:64" orderIndex="63">又蒙著他的眼，問他：「你說預言吧！打你的是誰？」</Verse>
+        <Verse osisId="Luke.22.65" sblId="Luke 22:65" name="路加福音 22:65" shortName="路 22:65" orderIndex="64">他們還用許多別的話辱罵他。</Verse>
+        <Verse osisId="Luke.22.66" sblId="Luke 22:66" name="路加福音 22:66" shortName="路 22:66" orderIndex="65">天一亮，民間的眾長老、祭司長和文士都聚集，把耶穌帶到他們的議會裏，</Verse>
+        <Verse osisId="Luke.22.67" sblId="Luke 22:67" name="路加福音 22:67" shortName="路 22:67" orderIndex="66">說：「如果你是基督，就告訴我們。」耶穌對他們說：「我若告訴你們，你們也不信；</Verse>
+        <Verse osisId="Luke.22.68" sblId="Luke 22:68" name="路加福音 22:68" shortName="路 22:68" orderIndex="67">我若問你們，你們也不回答。</Verse>
+        <Verse osisId="Luke.22.69" sblId="Luke 22:69" name="路加福音 22:69" shortName="路 22:69" orderIndex="68">從今以後，人子要坐在權能者上帝的右邊。」</Verse>
+        <Verse osisId="Luke.22.70" sblId="Luke 22:70" name="路加福音 22:70" shortName="路 22:70" orderIndex="69">他們都說：「那麼，你是上帝的兒子了？」耶穌對他們說：「你們說我是。」</Verse>
+        <Verse osisId="Luke.22.71" sblId="Luke 22:71" name="路加福音 22:71" shortName="路 22:71" orderIndex="70">他們說：「我們何必再要見證呢？他親口所說的，我們都親耳聽見了。」</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.23" sblId="Luke 23" name="路加福音 23" shortName="路 23" orderIndex="22" versesCount="56">
+      <verses>
+        <Verse osisId="Luke.23.1" sblId="Luke 23:1" name="路加福音 23:1" shortName="路 23:1" orderIndex="0">眾人都起來，把耶穌解到 彼拉多 面前。</Verse>
+        <Verse osisId="Luke.23.2" sblId="Luke 23:2" name="路加福音 23:2" shortName="路 23:2" orderIndex="1">他們開始控告他說：「我們見這人煽惑我們的國民，禁止我們納稅給凱撒，並說自己是基督，是王。」</Verse>
+        <Verse osisId="Luke.23.3" sblId="Luke 23:3" name="路加福音 23:3" shortName="路 23:3" orderIndex="2">彼拉多 問耶穌：「你是 猶太 人的王嗎？」耶穌回答：「是你說的。」</Verse>
+        <Verse osisId="Luke.23.4" sblId="Luke 23:4" name="路加福音 23:4" shortName="路 23:4" orderIndex="3">彼拉多 對祭司長們和眾人說：「我查不出這人有甚麼罪來。」</Verse>
+        <Verse osisId="Luke.23.5" sblId="Luke 23:5" name="路加福音 23:5" shortName="路 23:5" orderIndex="4">但他們越發竭力地說：「他煽動百姓，在 猶太 全地傳道，從 加利利 起，直到這裏了。」</Verse>
+        <Verse osisId="Luke.23.6" sblId="Luke 23:6" name="路加福音 23:6" shortName="路 23:6" orderIndex="5">彼拉多 一聽見，就問：「這人是 加利利 人嗎？」</Verse>
+        <Verse osisId="Luke.23.7" sblId="Luke 23:7" name="路加福音 23:7" shortName="路 23:7" orderIndex="6">既知道耶穌屬 希律 所管， 彼拉多 就把他送到 希律 那裏去。那時 希律 正在 耶路撒冷 。</Verse>
+        <Verse osisId="Luke.23.8" sblId="Luke 23:8" name="路加福音 23:8" shortName="路 23:8" orderIndex="7">希律 看見耶穌就非常高興；因為聽見過他的事，早就想要見他，並且指望看他行些神蹟，</Verse>
+        <Verse osisId="Luke.23.9" sblId="Luke 23:9" name="路加福音 23:9" shortName="路 23:9" orderIndex="8">於是問他許多的話，耶穌卻一言不答。</Verse>
+        <Verse osisId="Luke.23.10" sblId="Luke 23:10" name="路加福音 23:10" shortName="路 23:10" orderIndex="9">那些祭司長和文士都站著，竭力控告他。</Verse>
+        <Verse osisId="Luke.23.11" sblId="Luke 23:11" name="路加福音 23:11" shortName="路 23:11" orderIndex="10">希律 和他的士兵就藐視耶穌，戲弄他，給他穿上華麗的衣服，把他送回 彼拉多 那裏去。</Verse>
+        <Verse osisId="Luke.23.12" sblId="Luke 23:12" name="路加福音 23:12" shortName="路 23:12" orderIndex="11">從前 希律 和 彼拉多 彼此有仇，在那一天竟成了朋友。</Verse>
+        <Verse osisId="Luke.23.13" sblId="Luke 23:13" name="路加福音 23:13" shortName="路 23:13" orderIndex="12">彼拉多 傳齊了眾祭司長、官長和百姓，</Verse>
+        <Verse osisId="Luke.23.14" sblId="Luke 23:14" name="路加福音 23:14" shortName="路 23:14" orderIndex="13">對他們說：「你們解這人到我這裏，說他是煽惑百姓的。看哪，我也曾在你們面前審問他，並沒有查出這人犯過你們控告他的任何罪；</Verse>
+        <Verse osisId="Luke.23.15" sblId="Luke 23:15" name="路加福音 23:15" shortName="路 23:15" orderIndex="14">就是 希律 也是如此，所以把他送回來。可見他沒有做甚麼該死的事。</Verse>
+        <Verse osisId="Luke.23.16" sblId="Luke 23:16" name="路加福音 23:16" shortName="路 23:16" orderIndex="15">所以，我要責打他，把他釋放。」</Verse>
+        <Verse osisId="Luke.23.17" sblId="Luke 23:17" name="路加福音 23:17" shortName="路 23:17" orderIndex="16" />
+        <Verse osisId="Luke.23.18" sblId="Luke 23:18" name="路加福音 23:18" shortName="路 23:18" orderIndex="17">眾人卻一齊喊著說：「除掉這個人！釋放 巴拉巴 給我們！」</Verse>
+        <Verse osisId="Luke.23.19" sblId="Luke 23:19" name="路加福音 23:19" shortName="路 23:19" orderIndex="18">這 巴拉巴 是因在城裏作亂和殺人而下在監裏的。</Verse>
+        <Verse osisId="Luke.23.20" sblId="Luke 23:20" name="路加福音 23:20" shortName="路 23:20" orderIndex="19">彼拉多 願意釋放耶穌，就再次向他們講話。</Verse>
+        <Verse osisId="Luke.23.21" sblId="Luke 23:21" name="路加福音 23:21" shortName="路 23:21" orderIndex="20">無奈他們喊著說：「把他釘十字架！把他釘十字架！」</Verse>
+        <Verse osisId="Luke.23.22" sblId="Luke 23:22" name="路加福音 23:22" shortName="路 23:22" orderIndex="21">彼拉多 第三次對他們說：「為甚麼呢？這人做了甚麼惡事呢？我並沒有查出他有甚麼該死的罪來。所以，我要責打他，把他釋放。」</Verse>
+        <Verse osisId="Luke.23.23" sblId="Luke 23:23" name="路加福音 23:23" shortName="路 23:23" orderIndex="22">他們大聲催逼 彼拉多 ，要求他把耶穌釘十字架；他們的聲音終於得勝。</Verse>
+        <Verse osisId="Luke.23.24" sblId="Luke 23:24" name="路加福音 23:24" shortName="路 23:24" orderIndex="23">彼拉多 這才照他們的要求定案；</Verse>
+        <Verse osisId="Luke.23.25" sblId="Luke 23:25" name="路加福音 23:25" shortName="路 23:25" orderIndex="24">又把他們所要求的那因作亂和殺人而下在監裏的人釋放了，而把耶穌交給他們，隨他們的意思處置。</Verse>
+        <Verse osisId="Luke.23.26" sblId="Luke 23:26" name="路加福音 23:26" shortName="路 23:26" orderIndex="25">他們把耶穌帶去的時候，有一個 古利奈 人 西門 從鄉下來，他們就拿住他，把十字架擱在他身上，叫他背著跟在耶穌後面。</Verse>
+        <Verse osisId="Luke.23.27" sblId="Luke 23:27" name="路加福音 23:27" shortName="路 23:27" orderIndex="26">有許多百姓跟隨耶穌，其中有好些婦女為他號咷痛哭。</Verse>
+        <Verse osisId="Luke.23.28" sblId="Luke 23:28" name="路加福音 23:28" shortName="路 23:28" orderIndex="27">耶穌轉身對她們說：「 耶路撒冷 的女子，不要為我哭，要為你們自己和你們的兒女哭。</Verse>
+        <Verse osisId="Luke.23.29" sblId="Luke 23:29" name="路加福音 23:29" shortName="路 23:29" orderIndex="28">因為日子將到，人要說：『不生育的、未曾懷孕的，和未曾哺乳孩子的有福了！』</Verse>
+        <Verse osisId="Luke.23.30" sblId="Luke 23:30" name="路加福音 23:30" shortName="路 23:30" orderIndex="29">那時，人要向大山說： 『倒在我們身上！』 向小山說： 『遮蓋我們！』</Verse>
+        <Verse osisId="Luke.23.31" sblId="Luke 23:31" name="路加福音 23:31" shortName="路 23:31" orderIndex="30">他們若在樹木青綠的時候做這些事，那麼在枯乾的時候將會怎麼樣呢？」</Verse>
+        <Verse osisId="Luke.23.32" sblId="Luke 23:32" name="路加福音 23:32" shortName="路 23:32" orderIndex="31">另外有兩個犯人也被帶來和耶穌一同處死。</Verse>
+        <Verse osisId="Luke.23.33" sblId="Luke 23:33" name="路加福音 23:33" shortName="路 23:33" orderIndex="32">到了一個地方，名叫髑髏地，他們就在那裏把耶穌釘在十字架上，又釘了兩個犯人：一個在右邊，一個在左邊。 〔</Verse>
+        <Verse osisId="Luke.23.34" sblId="Luke 23:34" name="路加福音 23:34" shortName="路 23:34" orderIndex="33">這時，耶穌說：「父啊！赦免他們，因為他們所做的，他們不知道。」 〕士兵就抽籤分他的衣服。</Verse>
+        <Verse osisId="Luke.23.35" sblId="Luke 23:35" name="路加福音 23:35" shortName="路 23:35" orderIndex="34">百姓站在那裏觀看。官長也嘲笑他，說：「他救了別人，他若是基督，是上帝所揀選的，救救他自己吧！」</Verse>
+        <Verse osisId="Luke.23.36" sblId="Luke 23:36" name="路加福音 23:36" shortName="路 23:36" orderIndex="35">士兵也戲弄他，上前拿醋送給他喝，</Verse>
+        <Verse osisId="Luke.23.37" sblId="Luke 23:37" name="路加福音 23:37" shortName="路 23:37" orderIndex="36">說：「你若是 猶太 人的王，救救你自己吧！」</Verse>
+        <Verse osisId="Luke.23.38" sblId="Luke 23:38" name="路加福音 23:38" shortName="路 23:38" orderIndex="37">在耶穌上方有一個牌子寫著：「這是 猶太 人的王。」</Verse>
+        <Verse osisId="Luke.23.39" sblId="Luke 23:39" name="路加福音 23:39" shortName="路 23:39" orderIndex="38">同釘的犯人中有一個譏笑他，說：「你不是基督嗎？救救你自己和我們吧！」</Verse>
+        <Verse osisId="Luke.23.40" sblId="Luke 23:40" name="路加福音 23:40" shortName="路 23:40" orderIndex="39">另一個就應聲責備他，說：「你是一樣受刑的，還不怕上帝嗎？</Verse>
+        <Verse osisId="Luke.23.41" sblId="Luke 23:41" name="路加福音 23:41" shortName="路 23:41" orderIndex="40">我們是應得的，因為我們是自作自受，但這個人沒有做過一件不對的事。」</Verse>
+        <Verse osisId="Luke.23.42" sblId="Luke 23:42" name="路加福音 23:42" shortName="路 23:42" orderIndex="41">他對耶穌說：「耶穌啊，你進入你國的時候，求你記念我。」</Verse>
+        <Verse osisId="Luke.23.43" sblId="Luke 23:43" name="路加福音 23:43" shortName="路 23:43" orderIndex="42">耶穌對他說：「我實在告訴你，今日你要同我在樂園裏了。」</Verse>
+        <Verse osisId="Luke.23.44" sblId="Luke 23:44" name="路加福音 23:44" shortName="路 23:44" orderIndex="43">那時大約是正午，全地都黑暗了，直到下午三點鐘，</Verse>
+        <Verse osisId="Luke.23.45" sblId="Luke 23:45" name="路加福音 23:45" shortName="路 23:45" orderIndex="44">太陽變黑了，殿的幔子從當中裂為兩半。</Verse>
+        <Verse osisId="Luke.23.46" sblId="Luke 23:46" name="路加福音 23:46" shortName="路 23:46" orderIndex="45">耶穌大聲喊著說：「父啊，我將我的靈交在你手裏！」他說了這話，氣就斷了。</Verse>
+        <Verse osisId="Luke.23.47" sblId="Luke 23:47" name="路加福音 23:47" shortName="路 23:47" orderIndex="46">百夫長看見所發生的事，就歸榮耀給上帝，說：「這人真是個義人！」</Verse>
+        <Verse osisId="Luke.23.48" sblId="Luke 23:48" name="路加福音 23:48" shortName="路 23:48" orderIndex="47">聚集觀看這事的眾人，見了所發生的事，都捶著胸回去了。</Verse>
+        <Verse osisId="Luke.23.49" sblId="Luke 23:49" name="路加福音 23:49" shortName="路 23:49" orderIndex="48">所有與耶穌熟悉的人，和從 加利利 跟著他來的婦女們，都遠遠地站著，看這些事。</Verse>
+        <Verse osisId="Luke.23.50" sblId="Luke 23:50" name="路加福音 23:50" shortName="路 23:50" orderIndex="49">有一個人名叫 約瑟 ，是個議員，為人善良正直，</Verse>
+        <Verse osisId="Luke.23.51" sblId="Luke 23:51" name="路加福音 23:51" shortName="路 23:51" orderIndex="50">卻沒有附從別人的所謀所為。他是 猶太 的 亞利馬太城 人，素常盼望著上帝的國。</Verse>
+        <Verse osisId="Luke.23.52" sblId="Luke 23:52" name="路加福音 23:52" shortName="路 23:52" orderIndex="51">這人去見 彼拉多 ，請求要耶穌的身體。</Verse>
+        <Verse osisId="Luke.23.53" sblId="Luke 23:53" name="路加福音 23:53" shortName="路 23:53" orderIndex="52">他把耶穌的身體取下來，用細麻布裹好，安放在鑿巖而成的墳墓裏；那墳墓從來沒有葬過人。</Verse>
+        <Verse osisId="Luke.23.54" sblId="Luke 23:54" name="路加福音 23:54" shortName="路 23:54" orderIndex="53">那日是預備日，安息日快到了。</Verse>
+        <Verse osisId="Luke.23.55" sblId="Luke 23:55" name="路加福音 23:55" shortName="路 23:55" orderIndex="54">那些從 加利利 和耶穌同來的婦女跟在後面，看見了墳墓和他的身體怎樣安放。</Verse>
+        <Verse osisId="Luke.23.56" sblId="Luke 23:56" name="路加福音 23:56" shortName="路 23:56" orderIndex="55">她們就回去，預備了香料香膏。在安息日，她們遵照誡命安息了。</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="Luke.24" sblId="Luke 24" name="路加福音 24" shortName="路 24" orderIndex="23" versesCount="53">
+      <verses>
+        <Verse osisId="Luke.24.1" sblId="Luke 24:1" name="路加福音 24:1" shortName="路 24:1" orderIndex="0">七日的第一日，黎明的時候，那些婦女帶著所預備的香料來到墳墓那裏，</Verse>
+        <Verse osisId="Luke.24.2" sblId="Luke 24:2" name="路加福音 24:2" shortName="路 24:2" orderIndex="1">發現石頭已經從墳墓滾開了，</Verse>
+        <Verse osisId="Luke.24.3" sblId="Luke 24:3" name="路加福音 24:3" shortName="路 24:3" orderIndex="2">她們就進去，只是不見主耶穌的身體。</Verse>
+        <Verse osisId="Luke.24.4" sblId="Luke 24:4" name="路加福音 24:4" shortName="路 24:4" orderIndex="3">正在為這事困惑的時候，忽然有兩個人站在旁邊，衣服放光。</Verse>
+        <Verse osisId="Luke.24.5" sblId="Luke 24:5" name="路加福音 24:5" shortName="路 24:5" orderIndex="4">婦女們非常害怕，就俯伏在地上。那兩個人對她們說：「為甚麼在死人中找活人呢？</Verse>
+        <Verse osisId="Luke.24.6" sblId="Luke 24:6" name="路加福音 24:6" shortName="路 24:6" orderIndex="5">他不在這裏，已經復活了。要記得他還在 加利利 的時候怎樣告訴你們的，</Verse>
+        <Verse osisId="Luke.24.7" sblId="Luke 24:7" name="路加福音 24:7" shortName="路 24:7" orderIndex="6">他說：『人子必須被交在罪人手裏，釘在十字架上，第三天復活。』」</Verse>
+        <Verse osisId="Luke.24.8" sblId="Luke 24:8" name="路加福音 24:8" shortName="路 24:8" orderIndex="7">她們就想起耶穌的話來。</Verse>
+        <Verse osisId="Luke.24.9" sblId="Luke 24:9" name="路加福音 24:9" shortName="路 24:9" orderIndex="8">於是她們從墳墓那裏回去，把這一切事告訴十一個使徒和其餘的人。</Verse>
+        <Verse osisId="Luke.24.10" sblId="Luke 24:10" name="路加福音 24:10" shortName="路 24:10" orderIndex="9">把這些事告訴使徒的有 抹大拉 的 馬利亞 、 約亞拿 ，和 雅各 的母親 馬利亞 ，還有跟她們在一起的婦女。</Verse>
+        <Verse osisId="Luke.24.11" sblId="Luke 24:11" name="路加福音 24:11" shortName="路 24:11" orderIndex="10">她們這些話，使徒以為是胡言，就不相信。</Verse>
+        <Verse osisId="Luke.24.12" sblId="Luke 24:12" name="路加福音 24:12" shortName="路 24:12" orderIndex="11">彼得 起來，跑到墳墓前，俯身往裏看，只見細麻布，就回去了，因所發生的事而心裏驚訝。</Verse>
+        <Verse osisId="Luke.24.13" sblId="Luke 24:13" name="路加福音 24:13" shortName="路 24:13" orderIndex="12">同一天，門徒中有兩個人往一個村子去；這村子名叫 以馬忤斯 ，離 耶路撒冷 約有二十五里 。</Verse>
+        <Verse osisId="Luke.24.14" sblId="Luke 24:14" name="路加福音 24:14" shortName="路 24:14" orderIndex="13">他們彼此談論所發生的這一切事。</Verse>
+        <Verse osisId="Luke.24.15" sblId="Luke 24:15" name="路加福音 24:15" shortName="路 24:15" orderIndex="14">正交談議論的時候，耶穌親自走近他們，和他們同行，</Verse>
+        <Verse osisId="Luke.24.16" sblId="Luke 24:16" name="路加福音 24:16" shortName="路 24:16" orderIndex="15">可是他們的眼睛模糊了，沒認出他。</Verse>
+        <Verse osisId="Luke.24.17" sblId="Luke 24:17" name="路加福音 24:17" shortName="路 24:17" orderIndex="16">耶穌對他們說：「你們一邊走一邊談，彼此談論的是甚麼事呢？」他們就站住，臉上帶著愁容。</Verse>
+        <Verse osisId="Luke.24.18" sblId="Luke 24:18" name="路加福音 24:18" shortName="路 24:18" orderIndex="17">兩人中有一個名叫 革流巴 的回答：「你是在 耶路撒冷 的旅客中，惟一還不知道這幾天在那裏發生了甚麼事的人嗎？」</Verse>
+        <Verse osisId="Luke.24.19" sblId="Luke 24:19" name="路加福音 24:19" shortName="路 24:19" orderIndex="18">耶穌對他們說：「甚麼事呢？」他們對他說：「就是 拿撒勒 人耶穌的事。他是個先知，在上帝和眾百姓面前，說話行事都大有能力。</Verse>
+        <Verse osisId="Luke.24.20" sblId="Luke 24:20" name="路加福音 24:20" shortName="路 24:20" orderIndex="19">祭司長們和我們的官長竟把他解去，定了死罪，釘在十字架上。</Verse>
+        <Verse osisId="Luke.24.21" sblId="Luke 24:21" name="路加福音 24:21" shortName="路 24:21" orderIndex="20">但我們素來所盼望要救贖 以色列 民的就是他。不但如此，這些事發生到現在已經三天了。</Verse>
+        <Verse osisId="Luke.24.22" sblId="Luke 24:22" name="路加福音 24:22" shortName="路 24:22" orderIndex="21">還有，我們中間的幾個婦女使我們驚奇：她們清早去了墳墓，</Verse>
+        <Verse osisId="Luke.24.23" sblId="Luke 24:23" name="路加福音 24:23" shortName="路 24:23" orderIndex="22">不見他的身體，就回來告訴我們，說她們看見了天使顯現，說他活了。</Verse>
+        <Verse osisId="Luke.24.24" sblId="Luke 24:24" name="路加福音 24:24" shortName="路 24:24" orderIndex="23">又有我們的幾個人往墳墓那裏去，所發現的正如婦女們所說的，只是沒有看見他。」</Verse>
+        <Verse osisId="Luke.24.25" sblId="Luke 24:25" name="路加福音 24:25" shortName="路 24:25" orderIndex="24">耶穌對他們說：「無知的人哪，先知所說的一切話，你們的心信得太遲鈍了。</Verse>
+        <Verse osisId="Luke.24.26" sblId="Luke 24:26" name="路加福音 24:26" shortName="路 24:26" orderIndex="25">基督不是必須受這些苦難，然後進入他的榮耀嗎？」</Verse>
+        <Verse osisId="Luke.24.27" sblId="Luke 24:27" name="路加福音 24:27" shortName="路 24:27" orderIndex="26">於是，他從 摩西 和眾先知起，凡經上所指著自己的話都給他們作了解釋。</Verse>
+        <Verse osisId="Luke.24.28" sblId="Luke 24:28" name="路加福音 24:28" shortName="路 24:28" orderIndex="27">他們走近所要去的村子，耶穌好像還要往前走，</Verse>
+        <Verse osisId="Luke.24.29" sblId="Luke 24:29" name="路加福音 24:29" shortName="路 24:29" orderIndex="28">他們卻強留他說：「時候晚了，天快黑了，請你同我們住下吧。」耶穌就進去，要同他們住下。</Verse>
+        <Verse osisId="Luke.24.30" sblId="Luke 24:30" name="路加福音 24:30" shortName="路 24:30" orderIndex="29">坐下來和他們用餐的時候，耶穌拿起餅來，祝福了，擘開，遞給他們。</Verse>
+        <Verse osisId="Luke.24.31" sblId="Luke 24:31" name="路加福音 24:31" shortName="路 24:31" orderIndex="30">他們的眼睛開了，這才認出他來。耶穌卻從他們眼前消失了。</Verse>
+        <Verse osisId="Luke.24.32" sblId="Luke 24:32" name="路加福音 24:32" shortName="路 24:32" orderIndex="31">他們彼此說：「在路上他和我們說話，給我們講解聖經的時候，我們的心在我們裏面 豈不是火熱的嗎？」</Verse>
+        <Verse osisId="Luke.24.33" sblId="Luke 24:33" name="路加福音 24:33" shortName="路 24:33" orderIndex="32">於是他們立刻起身，回 耶路撒冷 去，看見十一個使徒和與他們正在一起的人聚集在一處，</Verse>
+        <Verse osisId="Luke.24.34" sblId="Luke 24:34" name="路加福音 24:34" shortName="路 24:34" orderIndex="33">說：「主果然復活了，已經顯現給 西門 看了。」</Verse>
+        <Verse osisId="Luke.24.35" sblId="Luke 24:35" name="路加福音 24:35" shortName="路 24:35" orderIndex="34">於是，兩個人把路上所遇到，和耶穌擘餅的時候怎麼被他們認出來的事，都述說了一遍。</Verse>
+        <Verse osisId="Luke.24.36" sblId="Luke 24:36" name="路加福音 24:36" shortName="路 24:36" orderIndex="35">正說這些話的時候，耶穌親自站在他們當中，說：「願你們平安！」</Verse>
+        <Verse osisId="Luke.24.37" sblId="Luke 24:37" name="路加福音 24:37" shortName="路 24:37" orderIndex="36">他們卻驚慌害怕，以為所看見的是魂。</Verse>
+        <Verse osisId="Luke.24.38" sblId="Luke 24:38" name="路加福音 24:38" shortName="路 24:38" orderIndex="37">耶穌對他們說：「你們為甚麼驚恐不安？為甚麼心裏起疑惑呢？</Verse>
+        <Verse osisId="Luke.24.39" sblId="Luke 24:39" name="路加福音 24:39" shortName="路 24:39" orderIndex="38">你們看我的手和我的腳，就知道實在是我了。摸摸我，看，因為魂無骨無肉，你們看，我是有的。」</Verse>
+        <Verse osisId="Luke.24.40" sblId="Luke 24:40" name="路加福音 24:40" shortName="路 24:40" orderIndex="39">說了這話，他就把手和腳給他們看。</Verse>
+        <Verse osisId="Luke.24.41" sblId="Luke 24:41" name="路加福音 24:41" shortName="路 24:41" orderIndex="40">他們還在又驚又喜、不敢相信的時候，耶穌對他們說：「你們這裏有甚麼吃的沒有？」</Verse>
+        <Verse osisId="Luke.24.42" sblId="Luke 24:42" name="路加福音 24:42" shortName="路 24:42" orderIndex="41">他們給了他一片烤魚，</Verse>
+        <Verse osisId="Luke.24.43" sblId="Luke 24:43" name="路加福音 24:43" shortName="路 24:43" orderIndex="42">他接過來，在他們面前吃了。</Verse>
+        <Verse osisId="Luke.24.44" sblId="Luke 24:44" name="路加福音 24:44" shortName="路 24:44" orderIndex="43">耶穌對他們說：「這就是我從前和你們同在時所告訴你們的話： 摩西 的律法、先知的書，和《 詩篇》 上所記一切指著我的話都必須應驗。」</Verse>
+        <Verse osisId="Luke.24.45" sblId="Luke 24:45" name="路加福音 24:45" shortName="路 24:45" orderIndex="44">於是耶穌開他們的心竅，使他們能明白聖經，</Verse>
+        <Verse osisId="Luke.24.46" sblId="Luke 24:46" name="路加福音 24:46" shortName="路 24:46" orderIndex="45">又對他們說：「照經上所寫的，基督必受害，第三天從死人中復活，</Verse>
+        <Verse osisId="Luke.24.47" sblId="Luke 24:47" name="路加福音 24:47" shortName="路 24:47" orderIndex="46">並且人們要奉他的名傳悔改、使罪得赦的道，從 耶路撒冷 起直傳到萬邦。</Verse>
+        <Verse osisId="Luke.24.48" sblId="Luke 24:48" name="路加福音 24:48" shortName="路 24:48" orderIndex="47">你們就是這些事的見證。</Verse>
+        <Verse osisId="Luke.24.49" sblId="Luke 24:49" name="路加福音 24:49" shortName="路 24:49" orderIndex="48">我要將我父所應許的降在你們身上，你們要在城裏等候，直到你們領受從上面來的能力。」</Verse>
+        <Verse osisId="Luke.24.50" sblId="Luke 24:50" name="路加福音 24:50" shortName="路 24:50" orderIndex="49">耶穌領他們出來，直到 伯大尼 附近，就舉手給他們祝福。</Verse>
+        <Verse osisId="Luke.24.51" sblId="Luke 24:51" name="路加福音 24:51" shortName="路 24:51" orderIndex="50">正祝福的時候，他離開他們，被帶到天上去了。</Verse>
+        <Verse osisId="Luke.24.52" sblId="Luke 24:52" name="路加福音 24:52" shortName="路 24:52" orderIndex="51">他們就拜他，帶著極大的喜樂回 耶路撒冷 去，</Verse>
+        <Verse osisId="Luke.24.53" sblId="Luke 24:53" name="路加福音 24:53" shortName="路 24:53" orderIndex="52">常在聖殿裏稱頌上帝。</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

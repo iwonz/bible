@@ -1,0 +1,660 @@
+chapters:
+- name: 腓立比书 1
+  orderIndex: 0
+  osisId: Phil.1
+  sblId: Phil 1
+  shortName: 腓 1
+  verses:
+  - name: 腓立比书 1:1
+    orderIndex: 0
+    osisId: Phil.1.1
+    sblId: Phil 1:1
+    shortName: 腓 1:1
+    text: 基督耶稣的仆人 保罗 和 提摩太 写信给住 腓立比 、在基督耶稣里的众圣徒，以及诸位监督和执事。
+  - name: 腓立比书 1:2
+    orderIndex: 1
+    osisId: Phil.1.2
+    sblId: Phil 1:2
+    shortName: 腓 1:2
+    text: 愿恩惠、平安 从我们的父上帝和主耶稣基督归给你们！
+  - name: 腓立比书 1:3
+    orderIndex: 2
+    osisId: Phil.1.3
+    sblId: Phil 1:3
+    shortName: 腓 1:3
+    text: 我每逢想念你们，就感谢我的上帝，
+  - name: 腓立比书 1:4
+    orderIndex: 3
+    osisId: Phil.1.4
+    sblId: Phil 1:4
+    shortName: 腓 1:4
+    text: 每逢为你们众人祈求的时候，总是欢欢喜喜地祈求，
+  - name: 腓立比书 1:5
+    orderIndex: 4
+    osisId: Phil.1.5
+    sblId: Phil 1:5
+    shortName: 腓 1:5
+    text: 因为从第一天直到如今，你们都同心合意兴旺福音。
+  - name: 腓立比书 1:6
+    orderIndex: 5
+    osisId: Phil.1.6
+    sblId: Phil 1:6
+    shortName: 腓 1:6
+    text: 我深信，那在你们心里动了美好工作的，到了耶稣基督的日子必完成这工作。
+  - name: 腓立比书 1:7
+    orderIndex: 6
+    osisId: Phil.1.7
+    sblId: Phil 1:7
+    shortName: 腓 1:7
+    text: 我为你们众人有这样的想法原是应当的，因为你们常在我心里；无论我是在捆锁中，在辩明并证实福音的时候，你们都与我一同蒙恩。
+  - name: 腓立比书 1:8
+    orderIndex: 7
+    osisId: Phil.1.8
+    sblId: Phil 1:8
+    shortName: 腓 1:8
+    text: 我以基督耶稣的心肠切切想念你们众人，这是上帝可以为我作证的。
+  - name: 腓立比书 1:9
+    orderIndex: 8
+    osisId: Phil.1.9
+    sblId: Phil 1:9
+    shortName: 腓 1:9
+    text: 我所祷告的就是：要你们的爱心，在知识和各样见识上，不断增长，
+  - name: 腓立比书 1:10
+    orderIndex: 9
+    osisId: Phil.1.10
+    sblId: Phil 1:10
+    shortName: 腓 1:10
+    text: 使你们能分辨是非，在基督的日子作真诚无可指责的人，
+  - name: 腓立比书 1:11
+    orderIndex: 10
+    osisId: Phil.1.11
+    sblId: Phil 1:11
+    shortName: 腓 1:11
+    text: 更靠着耶稣基督结满仁义的果子，归荣耀称赞给上帝。
+  - name: 腓立比书 1:12
+    orderIndex: 11
+    osisId: Phil.1.12
+    sblId: Phil 1:12
+    shortName: 腓 1:12
+    text: 弟兄们，我要你们知道，我所遭遇的事反而使福音更兴旺，
+  - name: 腓立比书 1:13
+    orderIndex: 12
+    osisId: Phil.1.13
+    sblId: Phil 1:13
+    shortName: 腓 1:13
+    text: 以致御营全军和其余的人都知道我是为基督的缘故受捆锁的；
+  - name: 腓立比书 1:14
+    orderIndex: 13
+    osisId: Phil.1.14
+    sblId: Phil 1:14
+    shortName: 腓 1:14
+    text: 而且那在主里的弟兄，多半都因我受的捆锁而笃信不疑，越发放胆无所惧怕地传道。
+  - name: 腓立比书 1:15
+    orderIndex: 14
+    osisId: Phil.1.15
+    sblId: Phil 1:15
+    shortName: 腓 1:15
+    text: 有些人传基督是出于嫉妒纷争；有些人是出于好意。
+  - name: 腓立比书 1:16
+    orderIndex: 15
+    osisId: Phil.1.16
+    sblId: Phil 1:16
+    shortName: 腓 1:16
+    text: 后者是出于爱心，知道我奉差遣是为福音辩护的。
+  - name: 腓立比书 1:17
+    orderIndex: 16
+    osisId: Phil.1.17
+    sblId: Phil 1:17
+    shortName: 腓 1:17
+    text: 前者传基督是出于自私，动机不纯，企图要加增我捆锁的苦楚。
+  - name: 腓立比书 1:18
+    orderIndex: 17
+    osisId: Phil.1.18
+    sblId: Phil 1:18
+    shortName: 腓 1:18
+    text: 这又何妨呢？或是假意或是真心，无论如何，只要基督被传开了，为此我就欢喜。 我还要欢喜，
+  - name: 腓立比书 1:19
+    orderIndex: 18
+    osisId: Phil.1.19
+    sblId: Phil 1:19
+    shortName: 腓 1:19
+    text: 因为我知道，这事藉着你们的祈祷和耶稣基督的灵的帮助，终必使我得到释放。
+  - name: 腓立比书 1:20
+    orderIndex: 19
+    osisId: Phil.1.20
+    sblId: Phil 1:20
+    shortName: 腓 1:20
+    text: 这就是我所切慕、所盼望的：没有一事能使我羞愧；反倒凡事坦然无惧，无论是生是死，总要让基督在我身上照常显大。
+  - name: 腓立比书 1:21
+    orderIndex: 20
+    osisId: Phil.1.21
+    sblId: Phil 1:21
+    shortName: 腓 1:21
+    text: 因为我活着就是基督，死了就有益处。
+  - name: 腓立比书 1:22
+    orderIndex: 21
+    osisId: Phil.1.22
+    sblId: Phil 1:22
+    shortName: 腓 1:22
+    text: 但是，我在肉身活着，若能有工作的成果，我就不知道该挑选什么。
+  - name: 腓立比书 1:23
+    orderIndex: 22
+    osisId: Phil.1.23
+    sblId: Phil 1:23
+    shortName: 腓 1:23
+    text: 我处在两难之间：我情愿离世与基督同在，因为这是好得无比的；
+  - name: 腓立比书 1:24
+    orderIndex: 23
+    osisId: Phil.1.24
+    sblId: Phil 1:24
+    shortName: 腓 1:24
+    text: 然而，我为你们肉身活着更加要紧。
+  - name: 腓立比书 1:25
+    orderIndex: 24
+    osisId: Phil.1.25
+    sblId: Phil 1:25
+    shortName: 腓 1:25
+    text: 既然我这样深信，就知道仍要留在世间，且与你们众人一起存留，使你们在所信的道上又长进又喜乐，
+  - name: 腓立比书 1:26
+    orderIndex: 25
+    osisId: Phil.1.26
+    sblId: Phil 1:26
+    shortName: 腓 1:26
+    text: 为了我再到你们那里时，你们在基督耶稣里的夸耀越发加增。
+  - name: 腓立比书 1:27
+    orderIndex: 26
+    osisId: Phil.1.27
+    sblId: Phil 1:27
+    shortName: 腓 1:27
+    text: 最重要的是：你们行事为人要与基督的福音相称，这样，无论我来见你们，或不在你们那里，都可以听到你们的景况，知道你们同有一个心志，站立得稳，为福音的信仰齐心努力，
+  - name: 腓立比书 1:28
+    orderIndex: 27
+    osisId: Phil.1.28
+    sblId: Phil 1:28
+    shortName: 腓 1:28
+    text: 丝毫不怕敌人的威胁；以此证明他们会沉沦，你们会得救，这是出于上帝。
+  - name: 腓立比书 1:29
+    orderIndex: 28
+    osisId: Phil.1.29
+    sblId: Phil 1:29
+    shortName: 腓 1:29
+    text: 因为你们蒙恩，不但得以信服基督，而且要为他受苦。
+  - name: 腓立比书 1:30
+    orderIndex: 29
+    osisId: Phil.1.30
+    sblId: Phil 1:30
+    shortName: 腓 1:30
+    text: 你们的争战，就与你们曾在我身上见过、现在所听到的是一样的。
+  versesCount: 30
+- name: 腓立比书 2
+  orderIndex: 1
+  osisId: Phil.2
+  sblId: Phil 2
+  shortName: 腓 2
+  verses:
+  - name: 腓立比书 2:1
+    orderIndex: 0
+    osisId: Phil.2.1
+    sblId: Phil 2:1
+    shortName: 腓 2:1
+    text: 所以，在基督里若有任何劝勉，若有任何爱心的安慰，若有任何圣灵的团契，若有任何慈悲怜悯，
+  - name: 腓立比书 2:2
+    orderIndex: 1
+    osisId: Phil.2.2
+    sblId: Phil 2:2
+    shortName: 腓 2:2
+    text: 你们就要意志相同，爱心相同，有一致的心思，一致的想法，使我的喜乐得以满足。
+  - name: 腓立比书 2:3
+    orderIndex: 2
+    osisId: Phil.2.3
+    sblId: Phil 2:3
+    shortName: 腓 2:3
+    text: 凡事不可自私自利，不可贪图虚荣；只要心存谦卑，各人看别人比自己强。
+  - name: 腓立比书 2:4
+    orderIndex: 3
+    osisId: Phil.2.4
+    sblId: Phil 2:4
+    shortName: 腓 2:4
+    text: 各人不要单顾自己的事，也要顾别人的事。
+  - name: 腓立比书 2:5
+    orderIndex: 4
+    osisId: Phil.2.5
+    sblId: Phil 2:5
+    shortName: 腓 2:5
+    text: 你们当以基督耶稣的心为心：
+  - name: 腓立比书 2:6
+    orderIndex: 5
+    osisId: Phil.2.6
+    sblId: Phil 2:6
+    shortName: 腓 2:6
+    text: 他本有上帝的形像， 却不坚持自己与上帝同等 ；
+  - name: 腓立比书 2:7
+    orderIndex: 6
+    osisId: Phil.2.7
+    sblId: Phil 2:7
+    shortName: 腓 2:7
+    text: 反倒虚己， 取了奴仆的形像， 成为人的样式； 既有人的样子，
+  - name: 腓立比书 2:8
+    orderIndex: 7
+    osisId: Phil.2.8
+    sblId: Phil 2:8
+    shortName: 腓 2:8
+    text: 就谦卑自己， 存心顺服，以至于死， 且死在十字架上。
+  - name: 腓立比书 2:9
+    orderIndex: 8
+    osisId: Phil.2.9
+    sblId: Phil 2:9
+    shortName: 腓 2:9
+    text: 所以上帝把他升为至高， 又赐给他超乎万名之上的名，
+  - name: 腓立比书 2:10
+    orderIndex: 9
+    osisId: Phil.2.10
+    sblId: Phil 2:10
+    shortName: 腓 2:10
+    text: 使一切在天上的、地上的和地底下的， 因耶稣的名， 众膝都要跪下，
+  - name: 腓立比书 2:11
+    orderIndex: 10
+    osisId: Phil.2.11
+    sblId: Phil 2:11
+    shortName: 腓 2:11
+    text: 众口都要宣认： 耶稣基督是主， 归荣耀给父上帝。
+  - name: 腓立比书 2:12
+    orderIndex: 11
+    osisId: Phil.2.12
+    sblId: Phil 2:12
+    shortName: 腓 2:12
+    text: 我亲爱的，这样看来，你们向来是顺服的，不但我在你们那里，就是我现在不在你们那里的时候更是顺服的，就当恐惧战兢完成你们自己得救的事；
+  - name: 腓立比书 2:13
+    orderIndex: 12
+    osisId: Phil.2.13
+    sblId: Phil 2:13
+    shortName: 腓 2:13
+    text: 因为是上帝在你们心里运行，使你们又立志又实行，为要成就他的美意。
+  - name: 腓立比书 2:14
+    orderIndex: 13
+    osisId: Phil.2.14
+    sblId: Phil 2:14
+    shortName: 腓 2:14
+    text: 你们无论做什么事，都不要发怨言起争论，
+  - name: 腓立比书 2:15
+    orderIndex: 14
+    osisId: Phil.2.15
+    sblId: Phil 2:15
+    shortName: 腓 2:15
+    text: 好使你们无可指责，诚实无伪，在这弯曲悖谬的世代作上帝无瑕疵的儿女。你们在这世代中要像明光照耀，
+  - name: 腓立比书 2:16
+    orderIndex: 15
+    osisId: Phil.2.16
+    sblId: Phil 2:16
+    shortName: 腓 2:16
+    text: 将生命的道显明出来，使我在基督的日子得以夸耀我没有白跑，也没有徒劳。
+  - name: 腓立比书 2:17
+    orderIndex: 16
+    osisId: Phil.2.17
+    sblId: Phil 2:17
+    shortName: 腓 2:17
+    text: 我以你们的信心为供献的祭物，我若被浇献在其上也是喜乐，并且与你们众人一同喜乐。
+  - name: 腓立比书 2:18
+    orderIndex: 17
+    osisId: Phil.2.18
+    sblId: Phil 2:18
+    shortName: 腓 2:18
+    text: 你们也要照样喜乐，并且与我一同喜乐。
+  - name: 腓立比书 2:19
+    orderIndex: 18
+    osisId: Phil.2.19
+    sblId: Phil 2:19
+    shortName: 腓 2:19
+    text: 我靠主耶稣希望很快能差 提摩太 去见你们，好让我知道你们的事而心里得着安慰。
+  - name: 腓立比书 2:20
+    orderIndex: 19
+    osisId: Phil.2.20
+    sblId: Phil 2:20
+    shortName: 腓 2:20
+    text: 因为我没有别人与我同心，真正关怀你们的事。
+  - name: 腓立比书 2:21
+    orderIndex: 20
+    osisId: Phil.2.21
+    sblId: Phil 2:21
+    shortName: 腓 2:21
+    text: 其他的人都求自己的事，并不求耶稣基督的事。
+  - name: 腓立比书 2:22
+    orderIndex: 21
+    osisId: Phil.2.22
+    sblId: Phil 2:22
+    shortName: 腓 2:22
+    text: 但你们知道 提摩太 是经得起考验的，他与我为了福音一同服侍，待我像儿子待父亲一样。
+  - name: 腓立比书 2:23
+    orderIndex: 22
+    osisId: Phil.2.23
+    sblId: Phil 2:23
+    shortName: 腓 2:23
+    text: 所以，我一看出我的事怎样了结，我希望立刻差他去，
+  - name: 腓立比书 2:24
+    orderIndex: 23
+    osisId: Phil.2.24
+    sblId: Phil 2:24
+    shortName: 腓 2:24
+    text: 但我靠着主自信我不久也会去。
+  - name: 腓立比书 2:25
+    orderIndex: 24
+    osisId: Phil.2.25
+    sblId: Phil 2:25
+    shortName: 腓 2:25
+    text: 然而，我想必须差 以巴弗提 到你们那里去。他是我的弟兄、同工和战友，是你们差遣来供应我需要的。
+  - name: 腓立比书 2:26
+    orderIndex: 25
+    osisId: Phil.2.26
+    sblId: Phil 2:26
+    shortName: 腓 2:26
+    text: 他很想念 你们众人，并且极其难过，因为你们听见他病了。
+  - name: 腓立比书 2:27
+    orderIndex: 26
+    osisId: Phil.2.27
+    sblId: Phil 2:27
+    shortName: 腓 2:27
+    text: 他真的生病了，几乎要死。然而上帝怜悯他，不但怜悯他，也怜悯我，免得我忧上加忧。
+  - name: 腓立比书 2:28
+    orderIndex: 27
+    osisId: Phil.2.28
+    sblId: Phil 2:28
+    shortName: 腓 2:28
+    text: 所以，我更要尽快送他回去，好让你们再见到他而喜乐，我也可以减少忧愁。
+  - name: 腓立比书 2:29
+    orderIndex: 28
+    osisId: Phil.2.29
+    sblId: Phil 2:29
+    shortName: 腓 2:29
+    text: 故此，你们要在主里欢欢喜喜地接待他，而且要尊重这样的人，
+  - name: 腓立比书 2:30
+    orderIndex: 29
+    osisId: Phil.2.30
+    sblId: Phil 2:30
+    shortName: 腓 2:30
+    text: 因他为做基督的工作不顾性命，几乎至死，为要补足你们供应我不够的地方。
+  versesCount: 30
+- name: 腓立比书 3
+  orderIndex: 2
+  osisId: Phil.3
+  sblId: Phil 3
+  shortName: 腓 3
+  verses:
+  - name: 腓立比书 3:1
+    orderIndex: 0
+    osisId: Phil.3.1
+    sblId: Phil 3:1
+    shortName: 腓 3:1
+    text: 末了，我的弟兄们，你们要靠主喜乐。我把这些话再写给你们，对我并不困难，对你们却是妥当的。
+  - name: 腓立比书 3:2
+    orderIndex: 1
+    osisId: Phil.3.2
+    sblId: Phil 3:2
+    shortName: 腓 3:2
+    text: 应当防备犬类，防备作恶的，防备妄自行割的。
+  - name: 腓立比书 3:3
+    orderIndex: 2
+    osisId: Phil.3.3
+    sblId: Phil 3:3
+    shortName: 腓 3:3
+    text: 因为真受割礼的，就是我们这藉着上帝的灵敬拜、以基督耶稣为夸耀、不依靠肉体的。
+  - name: 腓立比书 3:4
+    orderIndex: 3
+    osisId: Phil.3.4
+    sblId: Phil 3:4
+    shortName: 腓 3:4
+    text: 其实，我也可以靠肉体；若是别人以为他可以依靠肉体，我更可以。
+  - name: 腓立比书 3:5
+    orderIndex: 4
+    osisId: Phil.3.5
+    sblId: Phil 3:5
+    shortName: 腓 3:5
+    text: 我出生后第八天受割礼；我是 以色列 族、 便雅悯 支派的人，是 希伯来 人所生的 希伯来 人。就律法说，我是法利赛人；
+  - name: 腓立比书 3:6
+    orderIndex: 5
+    osisId: Phil.3.6
+    sblId: Phil 3:6
+    shortName: 腓 3:6
+    text: 就热心说，我是迫害教会的；就律法上的义说，我是无可指责的。
+  - name: 腓立比书 3:7
+    orderIndex: 6
+    osisId: Phil.3.7
+    sblId: Phil 3:7
+    shortName: 腓 3:7
+    text: 只是我先前以为对我是有益的，我现在因基督的缘故而当作是有损的。
+  - name: 腓立比书 3:8
+    orderIndex: 7
+    osisId: Phil.3.8
+    sblId: Phil 3:8
+    shortName: 腓 3:8
+    text: 不但如此，我已把万事当作是有损的，因我以认识我主基督耶稣为至宝。我为他已经丢弃万事，看作粪土，为要赢得基督，
+  - name: 腓立比书 3:9
+    orderIndex: 8
+    osisId: Phil.3.9
+    sblId: Phil 3:9
+    shortName: 腓 3:9
+    text: 并且得以在他里面，不是有自己因律法而得的义，而是有信基督的义 ，就是基于信，从上帝而来的义，
+  - name: 腓立比书 3:10
+    orderIndex: 9
+    osisId: Phil.3.10
+    sblId: Phil 3:10
+    shortName: 腓 3:10
+    text: 使我认识基督，知道他复活的大能，并且知道和他一同受苦，效法他的死，
+  - name: 腓立比书 3:11
+    orderIndex: 10
+    osisId: Phil.3.11
+    sblId: Phil 3:11
+    shortName: 腓 3:11
+    text: 或许我也得以从死人中复活。
+  - name: 腓立比书 3:12
+    orderIndex: 11
+    osisId: Phil.3.12
+    sblId: Phil 3:12
+    shortName: 腓 3:12
+    text: 这不是说我已经得着了，已经完全了；而是竭力追求，或许可以得着基督耶稣 所要我得着的 。
+  - name: 腓立比书 3:13
+    orderIndex: 12
+    osisId: Phil.3.13
+    sblId: Phil 3:13
+    shortName: 腓 3:13
+    text: 弟兄们，我不是以为自己已经得着了；我只有一件事，就是忘记背后，努力面前的，
+  - name: 腓立比书 3:14
+    orderIndex: 13
+    osisId: Phil.3.14
+    sblId: Phil 3:14
+    shortName: 腓 3:14
+    text: 向着标竿直跑，要得上帝在基督耶稣里从上面召我来得的奖赏。
+  - name: 腓立比书 3:15
+    orderIndex: 14
+    osisId: Phil.3.15
+    sblId: Phil 3:15
+    shortName: 腓 3:15
+    text: 所以，我们中间凡是成熟的人，总要存这样的心；若在什么事上存别样的心，上帝也会把这些事指示你们。
+  - name: 腓立比书 3:16
+    orderIndex: 15
+    osisId: Phil.3.16
+    sblId: Phil 3:16
+    shortName: 腓 3:16
+    text: 然而，我们达到什么地步，就当照这个地步行。
+  - name: 腓立比书 3:17
+    orderIndex: 16
+    osisId: Phil.3.17
+    sblId: Phil 3:17
+    shortName: 腓 3:17
+    text: 弟兄们，你们要一同效法我，也当留意看那些效法我们榜样的人。
+  - name: 腓立比书 3:18
+    orderIndex: 17
+    osisId: Phil.3.18
+    sblId: Phil 3:18
+    shortName: 腓 3:18
+    text: 因为，我屡次告诉你们，现在又流泪告诉你们：许多人行事是基督十字架的仇敌。
+  - name: 腓立比书 3:19
+    orderIndex: 18
+    osisId: Phil.3.19
+    sblId: Phil 3:19
+    shortName: 腓 3:19
+    text: 他们的结局就是灭亡。他们的神明是自己的肚腹；他们以自己的羞辱为光荣，专以地上的事为念。
+  - name: 腓立比书 3:20
+    orderIndex: 19
+    osisId: Phil.3.20
+    sblId: Phil 3:20
+    shortName: 腓 3:20
+    text: 我们却是天上的国民，并且等候救主，就是主耶稣基督从天上降临。
+  - name: 腓立比书 3:21
+    orderIndex: 20
+    osisId: Phil.3.21
+    sblId: Phil 3:21
+    shortName: 腓 3:21
+    text: 他要按着那能使万有归服自己的大能，把我们这卑贱的身体改变形状，和他自己荣耀的身体相似。
+  versesCount: 21
+- name: 腓立比书 4
+  orderIndex: 3
+  osisId: Phil.4
+  sblId: Phil 4
+  shortName: 腓 4
+  verses:
+  - name: 腓立比书 4:1
+    orderIndex: 0
+    osisId: Phil.4.1
+    sblId: Phil 4:1
+    shortName: 腓 4:1
+    text: 我所亲爱、所想念的弟兄们，你们就是我的喜乐，我的冠冕。我亲爱的，你们应当靠主站立得稳。
+  - name: 腓立比书 4:2
+    orderIndex: 1
+    osisId: Phil.4.2
+    sblId: Phil 4:2
+    shortName: 腓 4:2
+    text: 我劝 友阿蝶 和 循都基 要在主里同心。
+  - name: 腓立比书 4:3
+    orderIndex: 2
+    osisId: Phil.4.3
+    sblId: Phil 4:3
+    shortName: 腓 4:3
+    text: 我也求你这真实同负一轭的，要帮助这两个女人，因为她们在福音上曾与我、 革利免 和我其余的同工一同劳苦，他们的名字都在生命册上。
+  - name: 腓立比书 4:4
+    orderIndex: 3
+    osisId: Phil.4.4
+    sblId: Phil 4:4
+    shortName: 腓 4:4
+    text: 你们要靠主常常喜乐。我再说，你们要喜乐。
+  - name: 腓立比书 4:5
+    orderIndex: 4
+    osisId: Phil.4.5
+    sblId: Phil 4:5
+    shortName: 腓 4:5
+    text: 要让众人知道你们谦让的心。主已经近了。
+  - name: 腓立比书 4:6
+    orderIndex: 5
+    osisId: Phil.4.6
+    sblId: Phil 4:6
+    shortName: 腓 4:6
+    text: 应当一无挂虑，只要凡事藉着祷告、祈求和感谢，将你们所要的告诉上帝。
+  - name: 腓立比书 4:7
+    orderIndex: 6
+    osisId: Phil.4.7
+    sblId: Phil 4:7
+    shortName: 腓 4:7
+    text: 上帝所赐那超越人所能了解的平安 ，必在基督耶稣里，保守你们的心怀意念。
+  - name: 腓立比书 4:8
+    orderIndex: 7
+    osisId: Phil.4.8
+    sblId: Phil 4:8
+    shortName: 腓 4:8
+    text: 末了，弟兄们，凡是真实的、凡是可敬的、凡是公义的、凡是清洁的、凡是可爱的、凡是有美名的，若有什么德行，若有什么称赞，你们都要留意。
+  - name: 腓立比书 4:9
+    orderIndex: 8
+    osisId: Phil.4.9
+    sblId: Phil 4:9
+    shortName: 腓 4:9
+    text: 你们从我所学习的，所领受的，所听见的，所看见的事，你们都要继续去做，赐平安的上帝就必与你们同在。
+  - name: 腓立比书 4:10
+    orderIndex: 9
+    osisId: Phil.4.10
+    sblId: Phil 4:10
+    shortName: 腓 4:10
+    text: 我靠主大大喜乐，因为你们关怀我的心如今又表现了出来；其实你们一直都关怀我，只是没有机会罢了。
+  - name: 腓立比书 4:11
+    orderIndex: 10
+    osisId: Phil.4.11
+    sblId: Phil 4:11
+    shortName: 腓 4:11
+    text: 我并不是因缺乏而说这话，因为我已经学会无论在什么景况都可以知足。
+  - name: 腓立比书 4:12
+    orderIndex: 11
+    osisId: Phil.4.12
+    sblId: Phil 4:12
+    shortName: 腓 4:12
+    text: 我知道怎样处卑贱，也知道怎样处丰富；或饱足或饥饿，或有余或缺乏，任何事情，任何景况，我都得了秘诀。
+  - name: 腓立比书 4:13
+    orderIndex: 12
+    osisId: Phil.4.13
+    sblId: Phil 4:13
+    shortName: 腓 4:13
+    text: 我靠着那加给我力量的，凡事都能做。
+  - name: 腓立比书 4:14
+    orderIndex: 13
+    osisId: Phil.4.14
+    sblId: Phil 4:14
+    shortName: 腓 4:14
+    text: 然而，你们能和我分担忧患是一件好事。
+  - name: 腓立比书 4:15
+    orderIndex: 14
+    osisId: Phil.4.15
+    sblId: Phil 4:15
+    shortName: 腓 4:15
+    text: 腓立比 人哪，你们也知道我开始传福音、离开 马其顿 的时候，在收支的事上，除了你们以外，并没有别的教会和我分担。
+  - name: 腓立比书 4:16
+    orderIndex: 15
+    osisId: Phil.4.16
+    sblId: Phil 4:16
+    shortName: 腓 4:16
+    text: 就是我在 帖撒罗尼迦 ，你们也一再差人来供给我的需用。
+  - name: 腓立比书 4:17
+    orderIndex: 16
+    osisId: Phil.4.17
+    sblId: Phil 4:17
+    shortName: 腓 4:17
+    text: 我并不求什么馈赠，只求你们的果子不断增多，归在你们的账上。
+  - name: 腓立比书 4:18
+    orderIndex: 17
+    osisId: Phil.4.18
+    sblId: Phil 4:18
+    shortName: 腓 4:18
+    text: 但我已经如数收到，并且有余；我已经充足，因我从 以巴弗提 受了你们的馈赠，当作极美的香气，为上帝所接纳、所喜悦的祭物。
+  - name: 腓立比书 4:19
+    orderIndex: 18
+    osisId: Phil.4.19
+    sblId: Phil 4:19
+    shortName: 腓 4:19
+    text: 我的上帝必照他荣耀的丰富，在基督耶稣里，使你们一切所需用的都充足。
+  - name: 腓立比书 4:20
+    orderIndex: 19
+    osisId: Phil.4.20
+    sblId: Phil 4:20
+    shortName: 腓 4:20
+    text: 愿荣耀归给我们的父上帝，直到永永远远。阿们！
+  - name: 腓立比书 4:21
+    orderIndex: 20
+    osisId: Phil.4.21
+    sblId: Phil 4:21
+    shortName: 腓 4:21
+    text: 请问候在基督耶稣里的各位圣徒。跟我一起的众弟兄都问候你们。
+  - name: 腓立比书 4:22
+    orderIndex: 21
+    osisId: Phil.4.22
+    sblId: Phil 4:22
+    shortName: 腓 4:22
+    text: 众圣徒都问候你们，特别在凯撒家里的人问候你们。
+  - name: 腓立比书 4:23
+    orderIndex: 22
+    osisId: Phil.4.23
+    sblId: Phil 4:23
+    shortName: 腓 4:23
+    text: 愿主耶稣基督的恩与你们的灵同在！
+  versesCount: 23
+chaptersCount: 4
+name: 腓立比书
+orderIndex: 49
+osisId: Phil
+sblId: Phil
+shortName: 腓
+versesCount: 104

@@ -1,0 +1,715 @@
+{
+  "osisId": "2Tim",
+  "sblId": "2Tim",
+  "name": "2 Timothy",
+  "shortName": "2 Tim",
+  "orderIndex": 54,
+  "chaptersCount": 4,
+  "versesCount": 83,
+  "chapters": [
+    {
+      "osisId": "2Tim.1",
+      "sblId": "2Tim 1",
+      "name": "2 Timothy 1",
+      "shortName": "2 Tim 1",
+      "orderIndex": 0,
+      "versesCount": 18,
+      "verses": [
+        {
+          "osisId": "2Tim.1.1",
+          "sblId": "2Tim 1:1",
+          "name": "2 Timothy 1:1",
+          "shortName": "2 Tim 1:1",
+          "text": "Paul, an apostle of Christ Jesus by the will of God, according to the promise of life that is in Christ Jesus,",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "2Tim.1.2",
+          "sblId": "2Tim 1:2",
+          "name": "2 Timothy 1:2",
+          "shortName": "2 Tim 1:2",
+          "text": "To Timothy, my dear son: Grace, mercy and peace from God the Father and Christ Jesus our Lord.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "2Tim.1.3",
+          "sblId": "2Tim 1:3",
+          "name": "2 Timothy 1:3",
+          "shortName": "2 Tim 1:3",
+          "text": "I thank God, whom I serve, as my forefathers did, with a clear conscience, as night and day I constantly remember you in my prayers.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "2Tim.1.4",
+          "sblId": "2Tim 1:4",
+          "name": "2 Timothy 1:4",
+          "shortName": "2 Tim 1:4",
+          "text": "Recalling your tears, I long to see you, so that I may be filled with joy.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "2Tim.1.5",
+          "sblId": "2Tim 1:5",
+          "name": "2 Timothy 1:5",
+          "shortName": "2 Tim 1:5",
+          "text": "I have been reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "2Tim.1.6",
+          "sblId": "2Tim 1:6",
+          "name": "2 Timothy 1:6",
+          "shortName": "2 Tim 1:6",
+          "text": "For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "2Tim.1.7",
+          "sblId": "2Tim 1:7",
+          "name": "2 Timothy 1:7",
+          "shortName": "2 Tim 1:7",
+          "text": "For God did not give us a spirit of timidity, but a spirit of power, of love and of self-discipline.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "2Tim.1.8",
+          "sblId": "2Tim 1:8",
+          "name": "2 Timothy 1:8",
+          "shortName": "2 Tim 1:8",
+          "text": "So do not be ashamed to testify about our Lord, or ashamed of me his prisoner. But join with me in suffering for the gospel, by the power of God,",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "2Tim.1.9",
+          "sblId": "2Tim 1:9",
+          "name": "2 Timothy 1:9",
+          "shortName": "2 Tim 1:9",
+          "text": "who has saved us and called us to a holy life--not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "2Tim.1.10",
+          "sblId": "2Tim 1:10",
+          "name": "2 Timothy 1:10",
+          "shortName": "2 Tim 1:10",
+          "text": "but it has now been revealed through the appearing of our Savior, Christ Jesus, who has destroyed death and has brought life and immortality to light through the gospel.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "2Tim.1.11",
+          "sblId": "2Tim 1:11",
+          "name": "2 Timothy 1:11",
+          "shortName": "2 Tim 1:11",
+          "text": "And of this gospel I was appointed a herald and an apostle and a teacher.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "2Tim.1.12",
+          "sblId": "2Tim 1:12",
+          "name": "2 Timothy 1:12",
+          "shortName": "2 Tim 1:12",
+          "text": "That is why I am suffering as I am. Yet I am not ashamed, because I know whom I have believed, and am convinced that he is able to guard what I have entrusted to him for that day.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "2Tim.1.13",
+          "sblId": "2Tim 1:13",
+          "name": "2 Timothy 1:13",
+          "shortName": "2 Tim 1:13",
+          "text": "What you heard from me, keep as the pattern of sound teaching, with faith and love in Christ Jesus.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "2Tim.1.14",
+          "sblId": "2Tim 1:14",
+          "name": "2 Timothy 1:14",
+          "shortName": "2 Tim 1:14",
+          "text": "Guard the good deposit that was entrusted to you--guard it with the help of the Holy Spirit who lives in us.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "2Tim.1.15",
+          "sblId": "2Tim 1:15",
+          "name": "2 Timothy 1:15",
+          "shortName": "2 Tim 1:15",
+          "text": "You know that everyone in the province of Asia has deserted me, including Phygelus and Hermogenes.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "2Tim.1.16",
+          "sblId": "2Tim 1:16",
+          "name": "2 Timothy 1:16",
+          "shortName": "2 Tim 1:16",
+          "text": "May the Lord show mercy to the household of Onesiphorus, because he often refreshed me and was not ashamed of my chains.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "2Tim.1.17",
+          "sblId": "2Tim 1:17",
+          "name": "2 Timothy 1:17",
+          "shortName": "2 Tim 1:17",
+          "text": "On the contrary, when he was in Rome, he searched hard for me until he found me.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "2Tim.1.18",
+          "sblId": "2Tim 1:18",
+          "name": "2 Timothy 1:18",
+          "shortName": "2 Tim 1:18",
+          "text": "May the Lord grant that he will find mercy from the Lord on that day! You know very well in how many ways he helped me in Ephesus.",
+          "orderIndex": 17
+        }
+      ]
+    },
+    {
+      "osisId": "2Tim.2",
+      "sblId": "2Tim 2",
+      "name": "2 Timothy 2",
+      "shortName": "2 Tim 2",
+      "orderIndex": 1,
+      "versesCount": 26,
+      "verses": [
+        {
+          "osisId": "2Tim.2.1",
+          "sblId": "2Tim 2:1",
+          "name": "2 Timothy 2:1",
+          "shortName": "2 Tim 2:1",
+          "text": "You then, my son, be strong in the grace that is in Christ Jesus.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "2Tim.2.2",
+          "sblId": "2Tim 2:2",
+          "name": "2 Timothy 2:2",
+          "shortName": "2 Tim 2:2",
+          "text": "And the things you have heard me say in the presence of many witnesses entrust to reliable men who will also be qualified to teach others.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "2Tim.2.3",
+          "sblId": "2Tim 2:3",
+          "name": "2 Timothy 2:3",
+          "shortName": "2 Tim 2:3",
+          "text": "Endure hardship with us like a good soldier of Christ Jesus.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "2Tim.2.4",
+          "sblId": "2Tim 2:4",
+          "name": "2 Timothy 2:4",
+          "shortName": "2 Tim 2:4",
+          "text": "No one serving as a soldier gets involved in civilian affairs--he wants to please his commanding officer.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "2Tim.2.5",
+          "sblId": "2Tim 2:5",
+          "name": "2 Timothy 2:5",
+          "shortName": "2 Tim 2:5",
+          "text": "Similarly, if anyone competes as an athlete, he does not receive the victor's crown unless he competes according to the rules.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "2Tim.2.6",
+          "sblId": "2Tim 2:6",
+          "name": "2 Timothy 2:6",
+          "shortName": "2 Tim 2:6",
+          "text": "The hardworking farmer should be the first to receive a share of the crops.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "2Tim.2.7",
+          "sblId": "2Tim 2:7",
+          "name": "2 Timothy 2:7",
+          "shortName": "2 Tim 2:7",
+          "text": "Reflect on what I am saying, for the Lord will give you insight into all this.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "2Tim.2.8",
+          "sblId": "2Tim 2:8",
+          "name": "2 Timothy 2:8",
+          "shortName": "2 Tim 2:8",
+          "text": "Remember Jesus Christ, raised from the dead, descended from David. This is my gospel,",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "2Tim.2.9",
+          "sblId": "2Tim 2:9",
+          "name": "2 Timothy 2:9",
+          "shortName": "2 Tim 2:9",
+          "text": "for which I am suffering even to the point of being chained like a criminal. But God's word is not chained.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "2Tim.2.10",
+          "sblId": "2Tim 2:10",
+          "name": "2 Timothy 2:10",
+          "shortName": "2 Tim 2:10",
+          "text": "Therefore I endure everything for the sake of the elect, that they too may obtain the salvation that is in Christ Jesus, with eternal glory.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "2Tim.2.11",
+          "sblId": "2Tim 2:11",
+          "name": "2 Timothy 2:11",
+          "shortName": "2 Tim 2:11",
+          "text": "Here is a trustworthy saying: If we died with him, we will also live with him;",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "2Tim.2.12",
+          "sblId": "2Tim 2:12",
+          "name": "2 Timothy 2:12",
+          "shortName": "2 Tim 2:12",
+          "text": "if we endure, we will also reign with him. If we disown him, he will also disown us;",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "2Tim.2.13",
+          "sblId": "2Tim 2:13",
+          "name": "2 Timothy 2:13",
+          "shortName": "2 Tim 2:13",
+          "text": "if we are faithless, he will remain faithful, for he cannot disown himself.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "2Tim.2.14",
+          "sblId": "2Tim 2:14",
+          "name": "2 Timothy 2:14",
+          "shortName": "2 Tim 2:14",
+          "text": "Keep reminding them of these things. Warn them before God against quarreling about words; it is of no value, and only ruins those who listen.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "2Tim.2.15",
+          "sblId": "2Tim 2:15",
+          "name": "2 Timothy 2:15",
+          "shortName": "2 Tim 2:15",
+          "text": "Do your best to present yourself to God as one approved, a workman who does not need to be ashamed and who correctly handles the word of truth.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "2Tim.2.16",
+          "sblId": "2Tim 2:16",
+          "name": "2 Timothy 2:16",
+          "shortName": "2 Tim 2:16",
+          "text": "Avoid godless chatter, because those who indulge in it will become more and more ungodly.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "2Tim.2.17",
+          "sblId": "2Tim 2:17",
+          "name": "2 Timothy 2:17",
+          "shortName": "2 Tim 2:17",
+          "text": "Their teaching will spread like gangrene. Among them are Hymenaeus and Philetus,",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "2Tim.2.18",
+          "sblId": "2Tim 2:18",
+          "name": "2 Timothy 2:18",
+          "shortName": "2 Tim 2:18",
+          "text": "who have wandered away from the truth. They say that the resurrection has already taken place, and they destroy the faith of some.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "2Tim.2.19",
+          "sblId": "2Tim 2:19",
+          "name": "2 Timothy 2:19",
+          "shortName": "2 Tim 2:19",
+          "text": "Nevertheless, God's solid foundation stands firm, sealed with this inscription: \"The Lord knows those who are his,\" and, \"Everyone who confesses the name of the Lord must turn away from wickedness.\"",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "2Tim.2.20",
+          "sblId": "2Tim 2:20",
+          "name": "2 Timothy 2:20",
+          "shortName": "2 Tim 2:20",
+          "text": "In a large house there are articles not only of gold and silver, but also of wood and clay; some are for noble purposes and some for ignoble.",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "2Tim.2.21",
+          "sblId": "2Tim 2:21",
+          "name": "2 Timothy 2:21",
+          "shortName": "2 Tim 2:21",
+          "text": "If a man cleanses himself from the latter, he will be an instrument for noble purposes, made holy, useful to the Master and prepared to do any good work.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "2Tim.2.22",
+          "sblId": "2Tim 2:22",
+          "name": "2 Timothy 2:22",
+          "shortName": "2 Tim 2:22",
+          "text": "Flee the evil desires of youth, and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "2Tim.2.23",
+          "sblId": "2Tim 2:23",
+          "name": "2 Timothy 2:23",
+          "shortName": "2 Tim 2:23",
+          "text": "Don't have anything to do with foolish and stupid arguments, because you know they produce quarrels.",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "2Tim.2.24",
+          "sblId": "2Tim 2:24",
+          "name": "2 Timothy 2:24",
+          "shortName": "2 Tim 2:24",
+          "text": "And the Lord's servant must not quarrel; instead, he must be kind to everyone, able to teach, not resentful.",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "2Tim.2.25",
+          "sblId": "2Tim 2:25",
+          "name": "2 Timothy 2:25",
+          "shortName": "2 Tim 2:25",
+          "text": "Those who oppose him he must gently instruct, in the hope that God will grant them repentance leading them to a knowledge of the truth,",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "2Tim.2.26",
+          "sblId": "2Tim 2:26",
+          "name": "2 Timothy 2:26",
+          "shortName": "2 Tim 2:26",
+          "text": "and that they will come to their senses and escape from the trap of the devil, who has taken them captive to do his will.",
+          "orderIndex": 25
+        }
+      ]
+    },
+    {
+      "osisId": "2Tim.3",
+      "sblId": "2Tim 3",
+      "name": "2 Timothy 3",
+      "shortName": "2 Tim 3",
+      "orderIndex": 2,
+      "versesCount": 17,
+      "verses": [
+        {
+          "osisId": "2Tim.3.1",
+          "sblId": "2Tim 3:1",
+          "name": "2 Timothy 3:1",
+          "shortName": "2 Tim 3:1",
+          "text": "But mark this: There will be terrible times in the last days.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "2Tim.3.2",
+          "sblId": "2Tim 3:2",
+          "name": "2 Timothy 3:2",
+          "shortName": "2 Tim 3:2",
+          "text": "People will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to their parents, ungrateful, unholy,",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "2Tim.3.3",
+          "sblId": "2Tim 3:3",
+          "name": "2 Timothy 3:3",
+          "shortName": "2 Tim 3:3",
+          "text": "without love, unforgiving, slanderous, without self-control, brutal, not lovers of the good,",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "2Tim.3.4",
+          "sblId": "2Tim 3:4",
+          "name": "2 Timothy 3:4",
+          "shortName": "2 Tim 3:4",
+          "text": "treacherous, rash, conceited, lovers of pleasure rather than lovers of God--",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "2Tim.3.5",
+          "sblId": "2Tim 3:5",
+          "name": "2 Timothy 3:5",
+          "shortName": "2 Tim 3:5",
+          "text": "having a form of godliness but denying its power. Have nothing to do with them.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "2Tim.3.6",
+          "sblId": "2Tim 3:6",
+          "name": "2 Timothy 3:6",
+          "shortName": "2 Tim 3:6",
+          "text": "They are the kind who worm their way into homes and gain control over weak-willed women, who are loaded down with sins and are swayed by all kinds of evil desires,",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "2Tim.3.7",
+          "sblId": "2Tim 3:7",
+          "name": "2 Timothy 3:7",
+          "shortName": "2 Tim 3:7",
+          "text": "always learning but never able to acknowledge the truth.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "2Tim.3.8",
+          "sblId": "2Tim 3:8",
+          "name": "2 Timothy 3:8",
+          "shortName": "2 Tim 3:8",
+          "text": "Just as Jannes and Jambres opposed Moses, so also these men oppose the truth--men of depraved minds, who, as far as the faith is concerned, are rejected.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "2Tim.3.9",
+          "sblId": "2Tim 3:9",
+          "name": "2 Timothy 3:9",
+          "shortName": "2 Tim 3:9",
+          "text": "But they will not get very far because, as in the case of those men, their folly will be clear to everyone.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "2Tim.3.10",
+          "sblId": "2Tim 3:10",
+          "name": "2 Timothy 3:10",
+          "shortName": "2 Tim 3:10",
+          "text": "You, however, know all about my teaching, my way of life, my purpose, faith, patience, love, endurance,",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "2Tim.3.11",
+          "sblId": "2Tim 3:11",
+          "name": "2 Timothy 3:11",
+          "shortName": "2 Tim 3:11",
+          "text": "persecutions, sufferings--what kinds of things happened to me in Antioch, Iconium and Lystra, the persecutions I endured. Yet the Lord rescued me from all of them.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "2Tim.3.12",
+          "sblId": "2Tim 3:12",
+          "name": "2 Timothy 3:12",
+          "shortName": "2 Tim 3:12",
+          "text": "In fact, everyone who wants to live a godly life in Christ Jesus will be persecuted,",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "2Tim.3.13",
+          "sblId": "2Tim 3:13",
+          "name": "2 Timothy 3:13",
+          "shortName": "2 Tim 3:13",
+          "text": "while evil men and impostors will go from bad to worse, deceiving and being deceived.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "2Tim.3.14",
+          "sblId": "2Tim 3:14",
+          "name": "2 Timothy 3:14",
+          "shortName": "2 Tim 3:14",
+          "text": "But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it,",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "2Tim.3.15",
+          "sblId": "2Tim 3:15",
+          "name": "2 Timothy 3:15",
+          "shortName": "2 Tim 3:15",
+          "text": "and how from infancy you have known the holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "2Tim.3.16",
+          "sblId": "2Tim 3:16",
+          "name": "2 Timothy 3:16",
+          "shortName": "2 Tim 3:16",
+          "text": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "2Tim.3.17",
+          "sblId": "2Tim 3:17",
+          "name": "2 Timothy 3:17",
+          "shortName": "2 Tim 3:17",
+          "text": "so that the man of God may be thoroughly equipped for every good work.",
+          "orderIndex": 16
+        }
+      ]
+    },
+    {
+      "osisId": "2Tim.4",
+      "sblId": "2Tim 4",
+      "name": "2 Timothy 4",
+      "shortName": "2 Tim 4",
+      "orderIndex": 3,
+      "versesCount": 22,
+      "verses": [
+        {
+          "osisId": "2Tim.4.1",
+          "sblId": "2Tim 4:1",
+          "name": "2 Timothy 4:1",
+          "shortName": "2 Tim 4:1",
+          "text": "In the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of his appearing and his kingdom, I give you this charge:",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "2Tim.4.2",
+          "sblId": "2Tim 4:2",
+          "name": "2 Timothy 4:2",
+          "shortName": "2 Tim 4:2",
+          "text": "Preach the Word; be prepared in season and out of season; correct, rebuke and encourage--with great patience and careful instruction.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "2Tim.4.3",
+          "sblId": "2Tim 4:3",
+          "name": "2 Timothy 4:3",
+          "shortName": "2 Tim 4:3",
+          "text": "For the time will come when men will not put up with sound doctrine. Instead, to suit their own desires, they will gather around them a great number of teachers to say what their itching ears want to hear.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "2Tim.4.4",
+          "sblId": "2Tim 4:4",
+          "name": "2 Timothy 4:4",
+          "shortName": "2 Tim 4:4",
+          "text": "They will turn their ears away from the truth and turn aside to myths.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "2Tim.4.5",
+          "sblId": "2Tim 4:5",
+          "name": "2 Timothy 4:5",
+          "shortName": "2 Tim 4:5",
+          "text": "But you, keep your head in all situations, endure hardship, do the work of an evangelist, discharge all the duties of your ministry.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "2Tim.4.6",
+          "sblId": "2Tim 4:6",
+          "name": "2 Timothy 4:6",
+          "shortName": "2 Tim 4:6",
+          "text": "For I am already being poured out like a drink offering, and the time has come for my departure.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "2Tim.4.7",
+          "sblId": "2Tim 4:7",
+          "name": "2 Timothy 4:7",
+          "shortName": "2 Tim 4:7",
+          "text": "I have fought the good fight, I have finished the race, I have kept the faith.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "2Tim.4.8",
+          "sblId": "2Tim 4:8",
+          "name": "2 Timothy 4:8",
+          "shortName": "2 Tim 4:8",
+          "text": "Now there is in store for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day--and not only to me, but also to all who have longed for his appearing.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "2Tim.4.9",
+          "sblId": "2Tim 4:9",
+          "name": "2 Timothy 4:9",
+          "shortName": "2 Tim 4:9",
+          "text": "Do your best to come to me quickly,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "2Tim.4.10",
+          "sblId": "2Tim 4:10",
+          "name": "2 Timothy 4:10",
+          "shortName": "2 Tim 4:10",
+          "text": "for Demas, because he loved this world, has deserted me and has gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "2Tim.4.11",
+          "sblId": "2Tim 4:11",
+          "name": "2 Timothy 4:11",
+          "shortName": "2 Tim 4:11",
+          "text": "Only Luke is with me. Get Mark and bring him with you, because he is helpful to me in my ministry.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "2Tim.4.12",
+          "sblId": "2Tim 4:12",
+          "name": "2 Timothy 4:12",
+          "shortName": "2 Tim 4:12",
+          "text": "I sent Tychicus to Ephesus.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "2Tim.4.13",
+          "sblId": "2Tim 4:13",
+          "name": "2 Timothy 4:13",
+          "shortName": "2 Tim 4:13",
+          "text": "When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "2Tim.4.14",
+          "sblId": "2Tim 4:14",
+          "name": "2 Timothy 4:14",
+          "shortName": "2 Tim 4:14",
+          "text": "Alexander the metalworker did me a great deal of harm. The Lord will repay him for what he has done.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "2Tim.4.15",
+          "sblId": "2Tim 4:15",
+          "name": "2 Timothy 4:15",
+          "shortName": "2 Tim 4:15",
+          "text": "You too should be on your guard against him, because he strongly opposed our message.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "2Tim.4.16",
+          "sblId": "2Tim 4:16",
+          "name": "2 Timothy 4:16",
+          "shortName": "2 Tim 4:16",
+          "text": "At my first defense, no one came to my support, but everyone deserted me. May it not be held against them.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "2Tim.4.17",
+          "sblId": "2Tim 4:17",
+          "name": "2 Timothy 4:17",
+          "shortName": "2 Tim 4:17",
+          "text": "But the Lord stood at my side and gave me strength, so that through me the message might be fully proclaimed and all the Gentiles might hear it. And I was delivered from the lion's mouth.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "2Tim.4.18",
+          "sblId": "2Tim 4:18",
+          "name": "2 Timothy 4:18",
+          "shortName": "2 Tim 4:18",
+          "text": "The Lord will rescue me from every evil attack and will bring me safely to his heavenly kingdom. To him be glory for ever and ever. Amen.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "2Tim.4.19",
+          "sblId": "2Tim 4:19",
+          "name": "2 Timothy 4:19",
+          "shortName": "2 Tim 4:19",
+          "text": "Greet Priscilla and Aquila and the household of Onesiphorus.",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "2Tim.4.20",
+          "sblId": "2Tim 4:20",
+          "name": "2 Timothy 4:20",
+          "shortName": "2 Tim 4:20",
+          "text": "Erastus stayed in Corinth, and I left Trophimus sick in Miletus.",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "2Tim.4.21",
+          "sblId": "2Tim 4:21",
+          "name": "2 Timothy 4:21",
+          "shortName": "2 Tim 4:21",
+          "text": "Do your best to get here before winter. Eubulus greets you, and so do Pudens, Linus, Claudia and all the brothers.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "2Tim.4.22",
+          "sblId": "2Tim 4:22",
+          "name": "2 Timothy 4:22",
+          "shortName": "2 Tim 4:22",
+          "text": "The Lord be with your spirit. Grace be with you.",
+          "orderIndex": 21
+        }
+      ]
+    }
+  ]
+}

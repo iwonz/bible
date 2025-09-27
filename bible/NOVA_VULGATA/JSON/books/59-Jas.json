@@ -1,0 +1,925 @@
+{
+  "osisId": "Jas",
+  "sblId": "Jas",
+  "name": "Epistula Iacobi",
+  "shortName": "Iac",
+  "orderIndex": 58,
+  "chaptersCount": 5,
+  "versesCount": 108,
+  "chapters": [
+    {
+      "osisId": "Jas.1",
+      "sblId": "Jas 1",
+      "name": "Epistula Iacobi 1",
+      "shortName": "Iac 1",
+      "orderIndex": 0,
+      "versesCount": 27,
+      "verses": [
+        {
+          "osisId": "Jas.1.1",
+          "sblId": "Jas 1:1",
+          "name": "Epistula Iacobi 1:1",
+          "shortName": "Iac 1:1",
+          "text": "Iacobus, Dei et Domini Iesu Christi servus, duodecim tribu bus, quae sunt in dispersione, salutem.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Jas.1.2",
+          "sblId": "Jas 1:2",
+          "name": "Epistula Iacobi 1:2",
+          "shortName": "Iac 1:2",
+          "text": "Omne gaudium existimate, fratres mei, cum in tentationibus variis incideritis,",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Jas.1.3",
+          "sblId": "Jas 1:3",
+          "name": "Epistula Iacobi 1:3",
+          "shortName": "Iac 1:3",
+          "text": "scientes quod probatio fidei vestrae patientiam operatur;",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Jas.1.4",
+          "sblId": "Jas 1:4",
+          "name": "Epistula Iacobi 1:4",
+          "shortName": "Iac 1:4",
+          "text": "patientia autem opus perfectum habeat, ut sitis perfecti et integri, in nullo deficientes.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Jas.1.5",
+          "sblId": "Jas 1:5",
+          "name": "Epistula Iacobi 1:5",
+          "shortName": "Iac 1:5",
+          "text": "Si quis autem vestrum indiget sapientia, postulet a Deo, qui dat omnibus affluenter et non improperat, et dabitur ei.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Jas.1.6",
+          "sblId": "Jas 1:6",
+          "name": "Epistula Iacobi 1:6",
+          "shortName": "Iac 1:6",
+          "text": "Postulet autem in fide nihil haesitans; qui enim haesitat, similis est fluctui maris, qui a vento movetur et circumfertur.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Jas.1.7",
+          "sblId": "Jas 1:7",
+          "name": "Epistula Iacobi 1:7",
+          "shortName": "Iac 1:7",
+          "text": "Non ergo aestimet homo ille quod accipiat aliquid a Domino,",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Jas.1.8",
+          "sblId": "Jas 1:8",
+          "name": "Epistula Iacobi 1:8",
+          "shortName": "Iac 1:8",
+          "text": "vir duplex animo, inconstans in omnibus viis suis.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Jas.1.9",
+          "sblId": "Jas 1:9",
+          "name": "Epistula Iacobi 1:9",
+          "shortName": "Iac 1:9",
+          "text": "Glorietur autem frater humilis in exaltatione sua,",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Jas.1.10",
+          "sblId": "Jas 1:10",
+          "name": "Epistula Iacobi 1:10",
+          "shortName": "Iac 1:10",
+          "text": "dives autem in humilitate sua, quoniam sicut flos feni transibit.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Jas.1.11",
+          "sblId": "Jas 1:11",
+          "name": "Epistula Iacobi 1:11",
+          "shortName": "Iac 1:11",
+          "text": "Exortus est enim sol cum ardore et arefecit fenum, et flos eius decidit, et decor vultus eius deperiit; ita et dives in itineribus suis marcescet.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Jas.1.12",
+          "sblId": "Jas 1:12",
+          "name": "Epistula Iacobi 1:12",
+          "shortName": "Iac 1:12",
+          "text": "Beatus vir, qui suffert tentationem, quia, cum probatus fuerit, accipiet coronam vitae, quam repromisit Deus diligentibus se.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Jas.1.13",
+          "sblId": "Jas 1:13",
+          "name": "Epistula Iacobi 1:13",
+          "shortName": "Iac 1:13",
+          "text": "Nemo, cum tentatur, dicat: \" A Deo tentor \"; Deus enim non tentatur malis, ipse autem neminem tentat.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Jas.1.14",
+          "sblId": "Jas 1:14",
+          "name": "Epistula Iacobi 1:14",
+          "shortName": "Iac 1:14",
+          "text": "Unusquisque vero tentatur a concupiscentia sua abstractus et illectus;",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Jas.1.15",
+          "sblId": "Jas 1:15",
+          "name": "Epistula Iacobi 1:15",
+          "shortName": "Iac 1:15",
+          "text": "dein concupiscentia, cum conceperit, parit peccatum; peccatum vero, cum consummatum fuerit, generat mortem.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Jas.1.16",
+          "sblId": "Jas 1:16",
+          "name": "Epistula Iacobi 1:16",
+          "shortName": "Iac 1:16",
+          "text": "Nolite errare, fratres mei dilectissimi.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Jas.1.17",
+          "sblId": "Jas 1:17",
+          "name": "Epistula Iacobi 1:17",
+          "shortName": "Iac 1:17",
+          "text": "Omne datum optimum et omne donum perfectum de sursum est, descendens a Patre luminum, apud quem non est transmutatio nec vicissitudinis obumbratio.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Jas.1.18",
+          "sblId": "Jas 1:18",
+          "name": "Epistula Iacobi 1:18",
+          "shortName": "Iac 1:18",
+          "text": "Voluntarie genuit nos verbo veritatis, ut simus primitiae quaedam creaturae eius.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Jas.1.19",
+          "sblId": "Jas 1:19",
+          "name": "Epistula Iacobi 1:19",
+          "shortName": "Iac 1:19",
+          "text": "Scitis, fratres mei dilecti. Sit autem omnis homo velox ad audiendum, tardus autem ad loquendum et tardus ad iram;",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Jas.1.20",
+          "sblId": "Jas 1:20",
+          "name": "Epistula Iacobi 1:20",
+          "shortName": "Iac 1:20",
+          "text": "ira enim viri iustitiam Dei non operatur.",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Jas.1.21",
+          "sblId": "Jas 1:21",
+          "name": "Epistula Iacobi 1:21",
+          "shortName": "Iac 1:21",
+          "text": "Propter quod abicientes omnem immunditiam et abundantiam malitiae, in mansuetudine suscipite insitum verbum, quod potest salvare animas vestras.",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Jas.1.22",
+          "sblId": "Jas 1:22",
+          "name": "Epistula Iacobi 1:22",
+          "shortName": "Iac 1:22",
+          "text": "Estote autem factores verbi et non auditores tantum fallentes vosmetipsos.",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Jas.1.23",
+          "sblId": "Jas 1:23",
+          "name": "Epistula Iacobi 1:23",
+          "shortName": "Iac 1:23",
+          "text": "Quia si quis auditor est verbi et non factor, hic comparabitur viro consideranti vultum nativitatis suae in speculo;",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Jas.1.24",
+          "sblId": "Jas 1:24",
+          "name": "Epistula Iacobi 1:24",
+          "shortName": "Iac 1:24",
+          "text": "consideravit enim se et abiit, et statim oblitus est qualis fuerit.",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Jas.1.25",
+          "sblId": "Jas 1:25",
+          "name": "Epistula Iacobi 1:25",
+          "shortName": "Iac 1:25",
+          "text": "Qui autem perspexerit in lege perfecta libertatis et permanserit, non auditor obliviosus factus sed factor operis, hic beatus in facto suo erit.",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Jas.1.26",
+          "sblId": "Jas 1:26",
+          "name": "Epistula Iacobi 1:26",
+          "shortName": "Iac 1:26",
+          "text": "Si quis putat se religiosum esse, non freno circumducens linguam suam sed seducens cor suum, huius vana est religio.",
+          "orderIndex": 25
+        },
+        {
+          "osisId": "Jas.1.27",
+          "sblId": "Jas 1:27",
+          "name": "Epistula Iacobi 1:27",
+          "shortName": "Iac 1:27",
+          "text": "Religio munda et immaculata apud Deum et Patrem haec est: visitare pupillos et viduas in tribulatione eorum, immaculatum se custodire ab hoc saeculo.",
+          "orderIndex": 26
+        }
+      ]
+    },
+    {
+      "osisId": "Jas.2",
+      "sblId": "Jas 2",
+      "name": "Epistula Iacobi 2",
+      "shortName": "Iac 2",
+      "orderIndex": 1,
+      "versesCount": 26,
+      "verses": [
+        {
+          "osisId": "Jas.2.1",
+          "sblId": "Jas 2:1",
+          "name": "Epistula Iacobi 2:1",
+          "shortName": "Iac 2:1",
+          "text": "Fratres mei, nolite in persona rum acceptione habere fidem Domini nostri Iesu Christi gloriae.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Jas.2.2",
+          "sblId": "Jas 2:2",
+          "name": "Epistula Iacobi 2:2",
+          "shortName": "Iac 2:2",
+          "text": "Etenim, si introierit in synagogam vestram vir aureum anulum habens in veste candida, introierit autem et pauper in sordido habitu,",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Jas.2.3",
+          "sblId": "Jas 2:3",
+          "name": "Epistula Iacobi 2:3",
+          "shortName": "Iac 2:3",
+          "text": "et intendatis in eum, qui indutus est veste praeclara, et dixeritis: \" Tu sede hic bene \", pauperi autem dicatis: \" Tu sta illic aut sede sub scabello meo \";",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Jas.2.4",
+          "sblId": "Jas 2:4",
+          "name": "Epistula Iacobi 2:4",
+          "shortName": "Iac 2:4",
+          "text": "nonne iudicatis apud vosmetipsos et facti estis iudices cogitationum iniquarum?",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Jas.2.5",
+          "sblId": "Jas 2:5",
+          "name": "Epistula Iacobi 2:5",
+          "shortName": "Iac 2:5",
+          "text": "Audite, fratres mei dilectissimi. Nonne Deus elegit, qui pauperes sunt mundo, divites in fide et heredes regni, quod repromisit diligentibus se?",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Jas.2.6",
+          "sblId": "Jas 2:6",
+          "name": "Epistula Iacobi 2:6",
+          "shortName": "Iac 2:6",
+          "text": "Vos autem exhonorastis pauperem. Nonne divites opprimunt vos et ipsi trahunt vos ad iudicia?",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Jas.2.7",
+          "sblId": "Jas 2:7",
+          "name": "Epistula Iacobi 2:7",
+          "shortName": "Iac 2:7",
+          "text": "Nonne ipsi blasphemant bonum nomen, quod invocatum est super vos?",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Jas.2.8",
+          "sblId": "Jas 2:8",
+          "name": "Epistula Iacobi 2:8",
+          "shortName": "Iac 2:8",
+          "text": "Si tamen legem perficitis regalem secundum Scripturam: \" Diliges proximum tuum sicut teipsum \", bene facitis;",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Jas.2.9",
+          "sblId": "Jas 2:9",
+          "name": "Epistula Iacobi 2:9",
+          "shortName": "Iac 2:9",
+          "text": "si autem personas accipitis, peccatum operamini, redarguti a lege quasi transgressores.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Jas.2.10",
+          "sblId": "Jas 2:10",
+          "name": "Epistula Iacobi 2:10",
+          "shortName": "Iac 2:10",
+          "text": "Quicumque autem totam legem servaverit, offendat autem in uno, factus est omnium reus.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Jas.2.11",
+          "sblId": "Jas 2:11",
+          "name": "Epistula Iacobi 2:11",
+          "shortName": "Iac 2:11",
+          "text": "Qui enim dixit: \" Non moechaberis \", dixit et: \" Non occides \"; quod si non moecharis, occidis autem, factus es transgressor legis.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Jas.2.12",
+          "sblId": "Jas 2:12",
+          "name": "Epistula Iacobi 2:12",
+          "shortName": "Iac 2:12",
+          "text": "Sic loquimini et sic facite sicut per legem libertatis iudicandi.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Jas.2.13",
+          "sblId": "Jas 2:13",
+          "name": "Epistula Iacobi 2:13",
+          "shortName": "Iac 2:13",
+          "text": "Iudicium enim sine misericordia illi, qui non fecit misericordiam; superexsultat misericordia iudicio.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Jas.2.14",
+          "sblId": "Jas 2:14",
+          "name": "Epistula Iacobi 2:14",
+          "shortName": "Iac 2:14",
+          "text": "Quid proderit, fratres mei, si fidem quis dicat se habere, opera autem non habeat? Numquid poterit fides salvare eum?",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Jas.2.15",
+          "sblId": "Jas 2:15",
+          "name": "Epistula Iacobi 2:15",
+          "shortName": "Iac 2:15",
+          "text": "Si frater aut soror nudi sunt et indigent victu cotidiano,",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Jas.2.16",
+          "sblId": "Jas 2:16",
+          "name": "Epistula Iacobi 2:16",
+          "shortName": "Iac 2:16",
+          "text": "dicat autem aliquis de vobis illis: \" Ite in pace, calefacimini et saturamini \", non dederitis autem eis, quae necessaria sunt corporis, quid proderit?",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Jas.2.17",
+          "sblId": "Jas 2:17",
+          "name": "Epistula Iacobi 2:17",
+          "shortName": "Iac 2:17",
+          "text": "Sic et fides, si non habeat opera, mortua est in semetipsa.",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Jas.2.18",
+          "sblId": "Jas 2:18",
+          "name": "Epistula Iacobi 2:18",
+          "shortName": "Iac 2:18",
+          "text": "Sed dicet quis: \" Tu fidem habes, et ego opera habeo \". Ostende mihi fidem tuam sine operibus, et ego tibi ostendam ex operibus meis fidem.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Jas.2.19",
+          "sblId": "Jas 2:19",
+          "name": "Epistula Iacobi 2:19",
+          "shortName": "Iac 2:19",
+          "text": "Tu credis quoniam unus est Deus? Bene facis; et daemones credunt et contremiscunt!",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Jas.2.20",
+          "sblId": "Jas 2:20",
+          "name": "Epistula Iacobi 2:20",
+          "shortName": "Iac 2:20",
+          "text": "Vis autem scire, o homo inanis, quoniam fides sine operibus otiosa est?",
+          "orderIndex": 19
+        },
+        {
+          "osisId": "Jas.2.21",
+          "sblId": "Jas 2:21",
+          "name": "Epistula Iacobi 2:21",
+          "shortName": "Iac 2:21",
+          "text": "Abraham, pater noster, nonne ex operibus iustificatus est offerens Isaac filium suum super altare?",
+          "orderIndex": 20
+        },
+        {
+          "osisId": "Jas.2.22",
+          "sblId": "Jas 2:22",
+          "name": "Epistula Iacobi 2:22",
+          "shortName": "Iac 2:22",
+          "text": "Vides quoniam fides cooperabatur operibus illius, et ex operibus fides consummata est;",
+          "orderIndex": 21
+        },
+        {
+          "osisId": "Jas.2.23",
+          "sblId": "Jas 2:23",
+          "name": "Epistula Iacobi 2:23",
+          "shortName": "Iac 2:23",
+          "text": "et suppleta est Scriptura dicens: \" Credidit Abraham Deo, et reputatum est illi ad iustitiam \", et amicus Dei appellatus est.",
+          "orderIndex": 22
+        },
+        {
+          "osisId": "Jas.2.24",
+          "sblId": "Jas 2:24",
+          "name": "Epistula Iacobi 2:24",
+          "shortName": "Iac 2:24",
+          "text": "Videtis quoniam ex operibus iustificatur homo et non ex fide tantum.",
+          "orderIndex": 23
+        },
+        {
+          "osisId": "Jas.2.25",
+          "sblId": "Jas 2:25",
+          "name": "Epistula Iacobi 2:25",
+          "shortName": "Iac 2:25",
+          "text": "Similiter autem et Rahab, meretrix nonne ex operibus iustificata est suscipiens nuntios et alia via eiciens?",
+          "orderIndex": 24
+        },
+        {
+          "osisId": "Jas.2.26",
+          "sblId": "Jas 2:26",
+          "name": "Epistula Iacobi 2:26",
+          "shortName": "Iac 2:26",
+          "text": "Sicut enim corpus sine spiritu emortuum est, ita et fides sine operibus mortua est.",
+          "orderIndex": 25
+        }
+      ]
+    },
+    {
+      "osisId": "Jas.3",
+      "sblId": "Jas 3",
+      "name": "Epistula Iacobi 3",
+      "shortName": "Iac 3",
+      "orderIndex": 2,
+      "versesCount": 18,
+      "verses": [
+        {
+          "osisId": "Jas.3.1",
+          "sblId": "Jas 3:1",
+          "name": "Epistula Iacobi 3:1",
+          "shortName": "Iac 3:1",
+          "text": "Nolite plures magistri fieri, fra tres mei, scientes quoniam maius iudicium accipiemus.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Jas.3.2",
+          "sblId": "Jas 3:2",
+          "name": "Epistula Iacobi 3:2",
+          "shortName": "Iac 3:2",
+          "text": "In multis enim offendimus omnes. Si quis in verbo non offendit, hic perfectus est vir, potens etiam freno circumducere totum corpus.",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Jas.3.3",
+          "sblId": "Jas 3:3",
+          "name": "Epistula Iacobi 3:3",
+          "shortName": "Iac 3:3",
+          "text": "Si autem equorum frenos in ora mittimus ad oboediendum nobis, et omne corpus illorum circumferimus.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Jas.3.4",
+          "sblId": "Jas 3:4",
+          "name": "Epistula Iacobi 3:4",
+          "shortName": "Iac 3:4",
+          "text": "Ecce et naves, cum tam magnae sint et a ventis validis minentur, circumferuntur a minimo gubernaculo, ubi impetus dirigentis voluerit;",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Jas.3.5",
+          "sblId": "Jas 3:5",
+          "name": "Epistula Iacobi 3:5",
+          "shortName": "Iac 3:5",
+          "text": "ita et lingua modicum quidem membrum est et magna exsultat. Ecce quantus ignis quam magnam silvam incendit!",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Jas.3.6",
+          "sblId": "Jas 3:6",
+          "name": "Epistula Iacobi 3:6",
+          "shortName": "Iac 3:6",
+          "text": "Et lingua ignis est, universitas iniquitatis; lingua constituitur in membris nostris, quae maculat totum corpus et inflammat rotam nativitatis et inflammatur a gehenna.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Jas.3.7",
+          "sblId": "Jas 3:7",
+          "name": "Epistula Iacobi 3:7",
+          "shortName": "Iac 3:7",
+          "text": "Omnis enim natura et bestiarum et volucrum et serpentium et etiam cetorum domatur et domita est a natura humana;",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Jas.3.8",
+          "sblId": "Jas 3:8",
+          "name": "Epistula Iacobi 3:8",
+          "shortName": "Iac 3:8",
+          "text": "linguam autem nullus hominum domare potest, inquietum malum, plena veneno mortifero.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Jas.3.9",
+          "sblId": "Jas 3:9",
+          "name": "Epistula Iacobi 3:9",
+          "shortName": "Iac 3:9",
+          "text": "In ipsa benedicimus Dominum et Patrem et in ipsa maledicimus homines, qui ad similitudinem Dei facti sunt;",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Jas.3.10",
+          "sblId": "Jas 3:10",
+          "name": "Epistula Iacobi 3:10",
+          "shortName": "Iac 3:10",
+          "text": "ex ipso ore procedit benedictio et maledictio. Non oportet, fratres mei, haec ita fieri.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Jas.3.11",
+          "sblId": "Jas 3:11",
+          "name": "Epistula Iacobi 3:11",
+          "shortName": "Iac 3:11",
+          "text": "Numquid fons de eodem foramine emanat dulcem et amaram aquam?",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Jas.3.12",
+          "sblId": "Jas 3:12",
+          "name": "Epistula Iacobi 3:12",
+          "shortName": "Iac 3:12",
+          "text": "Numquid potest, fratres mei, ficus olivas facere, aut vitis ficus? Neque salsa dulcem potest facere aquam.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Jas.3.13",
+          "sblId": "Jas 3:13",
+          "name": "Epistula Iacobi 3:13",
+          "shortName": "Iac 3:13",
+          "text": "Quis sapiens et disciplinatus inter vos? Ostendat ex bona conversatione operationem suam in mansuetudine sapientiae.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Jas.3.14",
+          "sblId": "Jas 3:14",
+          "name": "Epistula Iacobi 3:14",
+          "shortName": "Iac 3:14",
+          "text": "Quod si zelum amarum habetis et contentiones in cordibus vestris, nolite gloriari et mendaces esse adversus veritatem.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Jas.3.15",
+          "sblId": "Jas 3:15",
+          "name": "Epistula Iacobi 3:15",
+          "shortName": "Iac 3:15",
+          "text": "Non est ista sapientia desursum descendens, sed terrena, animalis, diabolica;",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Jas.3.16",
+          "sblId": "Jas 3:16",
+          "name": "Epistula Iacobi 3:16",
+          "shortName": "Iac 3:16",
+          "text": "ubi enim zelus et contentio, ibi inconstantia et omne opus pravum.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Jas.3.17",
+          "sblId": "Jas 3:17",
+          "name": "Epistula Iacobi 3:17",
+          "shortName": "Iac 3:17",
+          "text": "Quae autem desursum est sapientia primum quidem pudica est, deinde pacifica, modesta, suadibilis, plena misericordia et fructibus bonis, non iudicans, sine simulatione;",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Jas.3.18",
+          "sblId": "Jas 3:18",
+          "name": "Epistula Iacobi 3:18",
+          "shortName": "Iac 3:18",
+          "text": "fructus autem iustitiae in pace seminatur facientibus pacem.",
+          "orderIndex": 17
+        }
+      ]
+    },
+    {
+      "osisId": "Jas.4",
+      "sblId": "Jas 4",
+      "name": "Epistula Iacobi 4",
+      "shortName": "Iac 4",
+      "orderIndex": 3,
+      "versesCount": 17,
+      "verses": [
+        {
+          "osisId": "Jas.4.1",
+          "sblId": "Jas 4:1",
+          "name": "Epistula Iacobi 4:1",
+          "shortName": "Iac 4:1",
+          "text": "Unde bella et unde lites in vobis? Nonne hinc, ex concupi scentiis vestris, quae militant in membris vestris?",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Jas.4.2",
+          "sblId": "Jas 4:2",
+          "name": "Epistula Iacobi 4:2",
+          "shortName": "Iac 4:2",
+          "text": "Concupiscitis et non habetis; occiditis et zelatis et non potestis adipisci; litigatis et belligeratis. Non habetis, propter quod non postulatis;",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Jas.4.3",
+          "sblId": "Jas 4:3",
+          "name": "Epistula Iacobi 4:3",
+          "shortName": "Iac 4:3",
+          "text": "petitis et non accipitis, eo quod male petitis, ut in concupiscentiis vestris insumatis.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Jas.4.4",
+          "sblId": "Jas 4:4",
+          "name": "Epistula Iacobi 4:4",
+          "shortName": "Iac 4:4",
+          "text": "Adulteri, nescitis quia amicitia huius mundi inimica est Dei?Quicumque ergo voluerit amicus esse saeculi huius, inimicus Dei constituitur.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Jas.4.5",
+          "sblId": "Jas 4:5",
+          "name": "Epistula Iacobi 4:5",
+          "shortName": "Iac 4:5",
+          "text": "Aut putatis quia inaniter Scriptura dicat: \" Ad invidiam concupiscit Spiritus, qui inhabitat in nobis? \".",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Jas.4.6",
+          "sblId": "Jas 4:6",
+          "name": "Epistula Iacobi 4:6",
+          "shortName": "Iac 4:6",
+          "text": "Maiorem autem dat gratiam; propter quod dicit: Deus superbis resistit,humilibus autem dat gratiam \".",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Jas.4.7",
+          "sblId": "Jas 4:7",
+          "name": "Epistula Iacobi 4:7",
+          "shortName": "Iac 4:7",
+          "text": "Subicimini igitur Deo; resistite autem Diabolo, et fugiet a vobis.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Jas.4.8",
+          "sblId": "Jas 4:8",
+          "name": "Epistula Iacobi 4:8",
+          "shortName": "Iac 4:8",
+          "text": "Appropiate Deo, et appropinquabit vobis. Emundate manus, peccatores; et purificate corda, duplices animo.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Jas.4.9",
+          "sblId": "Jas 4:9",
+          "name": "Epistula Iacobi 4:9",
+          "shortName": "Iac 4:9",
+          "text": "Miseri estote et lugete et plorate; risus vester in luctum convertatur, et gaudium in maerorem.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Jas.4.10",
+          "sblId": "Jas 4:10",
+          "name": "Epistula Iacobi 4:10",
+          "shortName": "Iac 4:10",
+          "text": "Humiliamini in conspectu Domini, et exaltabit vos.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Jas.4.11",
+          "sblId": "Jas 4:11",
+          "name": "Epistula Iacobi 4:11",
+          "shortName": "Iac 4:11",
+          "text": "Nolite detrahere alterutrum, fratres; qui detrahit fratri, aut qui iudicat fratrem suum, detrahit legi et iudicat legem; si autem iudicas legem, non es factor legis sed iudex.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Jas.4.12",
+          "sblId": "Jas 4:12",
+          "name": "Epistula Iacobi 4:12",
+          "shortName": "Iac 4:12",
+          "text": "Unus est legislator et iudex, qui potest salvare et perdere; tu autem quis es, qui iudicas proximum?",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Jas.4.13",
+          "sblId": "Jas 4:13",
+          "name": "Epistula Iacobi 4:13",
+          "shortName": "Iac 4:13",
+          "text": "Age nunc, qui dicitis: \" Hodie aut crastino ibimus in illam civitatem et faciemus quidem ibi annum et mercabimur et lucrum faciemus \";",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Jas.4.14",
+          "sblId": "Jas 4:14",
+          "name": "Epistula Iacobi 4:14",
+          "shortName": "Iac 4:14",
+          "text": "qui ignoratis, quae erit in crastinum vita vestra! Vapor enim estis ad modicum parens, deinceps exterminatur;",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Jas.4.15",
+          "sblId": "Jas 4:15",
+          "name": "Epistula Iacobi 4:15",
+          "shortName": "Iac 4:15",
+          "text": "pro eo ut dicatis: \" Si Dominus voluerit, et vivemus et faciemus hoc aut illud \".",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Jas.4.16",
+          "sblId": "Jas 4:16",
+          "name": "Epistula Iacobi 4:16",
+          "shortName": "Iac 4:16",
+          "text": "Nunc autem gloriamini in superbiis vestris; omnis gloriatio talis maligna est.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Jas.4.17",
+          "sblId": "Jas 4:17",
+          "name": "Epistula Iacobi 4:17",
+          "shortName": "Iac 4:17",
+          "text": "Scienti igitur bonum facere et non facienti, peccatum est illi!",
+          "orderIndex": 16
+        }
+      ]
+    },
+    {
+      "osisId": "Jas.5",
+      "sblId": "Jas 5",
+      "name": "Epistula Iacobi 5",
+      "shortName": "Iac 5",
+      "orderIndex": 4,
+      "versesCount": 20,
+      "verses": [
+        {
+          "osisId": "Jas.5.1",
+          "sblId": "Jas 5:1",
+          "name": "Epistula Iacobi 5:1",
+          "shortName": "Iac 5:1",
+          "text": "Age nunc, divites, plorate ulu lantes in miseriis, quae adve nient vobis.",
+          "orderIndex": 0
+        },
+        {
+          "osisId": "Jas.5.2",
+          "sblId": "Jas 5:2",
+          "name": "Epistula Iacobi 5:2",
+          "shortName": "Iac 5:2",
+          "text": "Divitiae vestrae putrefactae sunt, et vestimenta vestra a tineis comesta sunt,",
+          "orderIndex": 1
+        },
+        {
+          "osisId": "Jas.5.3",
+          "sblId": "Jas 5:3",
+          "name": "Epistula Iacobi 5:3",
+          "shortName": "Iac 5:3",
+          "text": "aurum et argentum vestrum aeruginavit, et aerugo eorum in testimonium vobis erit et manducabit carnes vestras sicut ignis: thesaurizastis in novissimis diebus.",
+          "orderIndex": 2
+        },
+        {
+          "osisId": "Jas.5.4",
+          "sblId": "Jas 5:4",
+          "name": "Epistula Iacobi 5:4",
+          "shortName": "Iac 5:4",
+          "text": "Ecce merces operariorum, qui messuerunt regiones vestras, quae fraudata est a vobis, clamat, et clamores eorum, qui messuerunt, in aures Domini Sabaoth introierunt.",
+          "orderIndex": 3
+        },
+        {
+          "osisId": "Jas.5.5",
+          "sblId": "Jas 5:5",
+          "name": "Epistula Iacobi 5:5",
+          "shortName": "Iac 5:5",
+          "text": "Epulati estis super terram et in luxuriis fuistis, enutristis corda vestra in die occisionis.",
+          "orderIndex": 4
+        },
+        {
+          "osisId": "Jas.5.6",
+          "sblId": "Jas 5:6",
+          "name": "Epistula Iacobi 5:6",
+          "shortName": "Iac 5:6",
+          "text": "Addixistis, occidistis iustum. Non resistit vobis.",
+          "orderIndex": 5
+        },
+        {
+          "osisId": "Jas.5.7",
+          "sblId": "Jas 5:7",
+          "name": "Epistula Iacobi 5:7",
+          "shortName": "Iac 5:7",
+          "text": "Patientes igitur estote, fratres, usque ad adventum Domini. Ecce agricola exspectat pretiosum fructum terrae, patienter ferens, donec accipiat imbrem temporaneum et serotinum.",
+          "orderIndex": 6
+        },
+        {
+          "osisId": "Jas.5.8",
+          "sblId": "Jas 5:8",
+          "name": "Epistula Iacobi 5:8",
+          "shortName": "Iac 5:8",
+          "text": "Patientes estote, et vos, confirmate corda vestra, quoniam adventus Domini appropinquavit.",
+          "orderIndex": 7
+        },
+        {
+          "osisId": "Jas.5.9",
+          "sblId": "Jas 5:9",
+          "name": "Epistula Iacobi 5:9",
+          "shortName": "Iac 5:9",
+          "text": "Nolite ingemiscere, fratres, in alterutrum, ut non iudicemini; ecce iudex ante ianuam assistit.",
+          "orderIndex": 8
+        },
+        {
+          "osisId": "Jas.5.10",
+          "sblId": "Jas 5:10",
+          "name": "Epistula Iacobi 5:10",
+          "shortName": "Iac 5:10",
+          "text": "Exemplum accipite, fratres, laboris et patientiae prophetas, qui locuti sunt in nomine Domini.",
+          "orderIndex": 9
+        },
+        {
+          "osisId": "Jas.5.11",
+          "sblId": "Jas 5:11",
+          "name": "Epistula Iacobi 5:11",
+          "shortName": "Iac 5:11",
+          "text": "Ecce beatificamus eos, qui sustinuerunt; sufferentiam Iob audistis et finem Domini vidistis, quoniam misericors est Dominus et miserator.",
+          "orderIndex": 10
+        },
+        {
+          "osisId": "Jas.5.12",
+          "sblId": "Jas 5:12",
+          "name": "Epistula Iacobi 5:12",
+          "shortName": "Iac 5:12",
+          "text": "Ante omnia autem, fratres mei, nolite iurare neque per caelum neque per terram, neque aliud quodcumque iuramentum; sit autem vestrum \" Est \" est, et \" Non \" non, uti non sub iudicio decidatis.",
+          "orderIndex": 11
+        },
+        {
+          "osisId": "Jas.5.13",
+          "sblId": "Jas 5:13",
+          "name": "Epistula Iacobi 5:13",
+          "shortName": "Iac 5:13",
+          "text": "Tristatur aliquis vestrum? Oret. Aequo animo est? Psallat.",
+          "orderIndex": 12
+        },
+        {
+          "osisId": "Jas.5.14",
+          "sblId": "Jas 5:14",
+          "name": "Epistula Iacobi 5:14",
+          "shortName": "Iac 5:14",
+          "text": "Infirmatur quis in vobis? Advocet presbyteros ecclesiae, et orent super eum, unguentes eum oleo in nomine Domini.",
+          "orderIndex": 13
+        },
+        {
+          "osisId": "Jas.5.15",
+          "sblId": "Jas 5:15",
+          "name": "Epistula Iacobi 5:15",
+          "shortName": "Iac 5:15",
+          "text": "Et oratio fidei salvabit infirmum, et allevabit eum Dominus; et si peccata operatus fuerit, dimittentur ei.",
+          "orderIndex": 14
+        },
+        {
+          "osisId": "Jas.5.16",
+          "sblId": "Jas 5:16",
+          "name": "Epistula Iacobi 5:16",
+          "shortName": "Iac 5:16",
+          "text": "Confitemini ergo alterutrum peccata et orate pro invicem, ut sanemini. Multum enim valet deprecatio iusti operans.",
+          "orderIndex": 15
+        },
+        {
+          "osisId": "Jas.5.17",
+          "sblId": "Jas 5:17",
+          "name": "Epistula Iacobi 5:17",
+          "shortName": "Iac 5:17",
+          "text": "Elias homo erat similis nobis passibilis et oratione oravit, ut non plueret, et non pluit super terram annos tres et menses sex;",
+          "orderIndex": 16
+        },
+        {
+          "osisId": "Jas.5.18",
+          "sblId": "Jas 5:18",
+          "name": "Epistula Iacobi 5:18",
+          "shortName": "Iac 5:18",
+          "text": "et rursum oravit, et caelum dedit pluviam, et terra germinavit fructum suum.",
+          "orderIndex": 17
+        },
+        {
+          "osisId": "Jas.5.19",
+          "sblId": "Jas 5:19",
+          "name": "Epistula Iacobi 5:19",
+          "shortName": "Iac 5:19",
+          "text": "Fratres mei, si quis ex vobis erraverit a veritate, et converterit quis eum,",
+          "orderIndex": 18
+        },
+        {
+          "osisId": "Jas.5.20",
+          "sblId": "Jas 5:20",
+          "name": "Epistula Iacobi 5:20",
+          "shortName": "Iac 5:20",
+          "text": "scire debet quoniam, qui converti fecerit peccatorem ab errore viae eius, salvabit animam suam a morte et operiet multitudinem peccatorum.",
+          "orderIndex": 19
+        }
+      ]
+    }
+  ]
+}

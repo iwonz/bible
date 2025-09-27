@@ -1,0 +1,881 @@
+languageCode,code,bookOsisId,bookSblId,bookOrderIndex,chapterOsisId,chapterSblId,chapterOrderIndex,verseOsisId,verseSblId,verseOrderIndex,text
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.1,John 1:1,0,in principio erat Verbum et Verbum erat apud Deum et Deus erat Verbum
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.2,John 1:2,1,hoc erat in principio apud Deum
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.3,John 1:3,2,omnia per ipsum facta sunt et sine ipso factum est nihil quod factum est
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.4,John 1:4,3,in ipso vita erat et vita erat lux hominum
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.5,John 1:5,4,et lux in tenebris lucet et tenebrae eam non conprehenderunt
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.6,John 1:6,5,fuit homo missus a Deo cui nomen erat Iohannes
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.7,John 1:7,6,hic venit in testimonium ut testimonium perhiberet de lumine ut omnes crederent per illum
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.8,John 1:8,7,non erat ille lux sed ut testimonium perhiberet de lumine
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.9,John 1:9,8,erat lux vera quae inluminat omnem hominem venientem in mundum
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.10,John 1:10,9,in mundo erat et mundus per ipsum factus est et mundus eum non cognovit
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.11,John 1:11,10,in propria venit et sui eum non receperunt
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.12,John 1:12,11,quotquot autem receperunt eum dedit eis potestatem filios Dei fieri his qui credunt in nomine eius
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.13,John 1:13,12,qui non ex sanguinibus neque ex voluntate carnis neque ex voluntate viri sed ex Deo nati sunt
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.14,John 1:14,13,et Verbum caro factum est et habitavit in nobis et vidimus gloriam eius gloriam quasi unigeniti a Patre plenum gratiae et veritatis
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.15,John 1:15,14,Iohannes testimonium perhibet de ipso et clamat dicens hic erat quem dixi vobis qui post me venturus est ante me factus est quia prior me erat
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.16,John 1:16,15,et de plenitudine eius nos omnes accepimus et gratiam pro gratia
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.17,John 1:17,16,quia lex per Mosen data est gratia et veritas per Iesum Christum facta est
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.18,John 1:18,17,Deum nemo vidit umquam unigenitus Filius qui est in sinu Patris ipse enarravit
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.19,John 1:19,18,et hoc est testimonium Iohannis quando miserunt Iudaei ab Hierosolymis sacerdotes et Levitas ad eum ut interrogarent eum tu quis es
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.20,John 1:20,19,et confessus est et non negavit et confessus est quia non sum ego Christus
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.21,John 1:21,20,et interrogaverunt eum quid ergo Helias es tu et dicit non sum propheta es tu et respondit non
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.22,John 1:22,21,dixerunt ergo ei quis es ut responsum demus his qui miserunt nos quid dicis de te ipso
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.23,John 1:23,22,ait ego vox clamantis in deserto dirigite viam Domini sicut dixit Esaias propheta
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.24,John 1:24,23,et qui missi fuerant erant ex Pharisaeis
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.25,John 1:25,24,et interrogaverunt eum et dixerunt ei quid ergo baptizas si tu non es Christus neque Helias neque propheta
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.26,John 1:26,25,respondit eis Iohannes dicens ego baptizo in aqua medius autem vestrum stetit quem vos non scitis
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.27,John 1:27,26,ipse est qui post me venturus est qui ante me factus est cuius ego non sum dignus ut solvam eius corrigiam calciamenti
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.28,John 1:28,27,haec in Bethania facta sunt trans Iordanen ubi erat Iohannes baptizans
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.29,John 1:29,28,altera die videt Iohannes Iesum venientem ad se et ait ecce agnus Dei qui tollit peccatum mundi
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.30,John 1:30,29,hic est de quo dixi post me venit vir qui ante me factus est quia prior me erat
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.31,John 1:31,30,et ego nesciebam eum sed ut manifestaretur Israhel propterea veni ego in aqua baptizans
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.32,John 1:32,31,et testimonium perhibuit Iohannes dicens quia vidi Spiritum descendentem quasi columbam de caelo et mansit super eum
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.33,John 1:33,32,et ego nesciebam eum sed qui misit me baptizare in aqua ille mihi dixit super quem videris Spiritum descendentem et manentem super eum hic est qui baptizat in Spiritu Sancto
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.34,John 1:34,33,et ego vidi et testimonium perhibui quia hic est Filius Dei
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.35,John 1:35,34,altera die iterum stabat Iohannes et ex discipulis eius duo
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.36,John 1:36,35,et respiciens Iesum ambulantem dicit ecce agnus Dei
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.37,John 1:37,36,et audierunt eum duo discipuli loquentem et secuti sunt Iesum
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.38,John 1:38,37,conversus autem Iesus et videns eos sequentes dicit eis quid quaeritis qui dixerunt ei rabbi quod dicitur interpretatum magister ubi habitas
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.39,John 1:39,38,dicit eis venite et videte venerunt et viderunt ubi maneret et apud eum manserunt die illo hora autem erat quasi decima
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.40,John 1:40,39,erat autem Andreas frater Simonis Petri unus ex duobus qui audierant ab Iohanne et secuti fuerant eum
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.41,John 1:41,40,invenit hic primum fratrem suum Simonem et dicit ei invenimus Messiam quod est interpretatum Christus
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.42,John 1:42,41,et adduxit eum ad Iesum intuitus autem eum Iesus dixit tu es Simon filius Iohanna tu vocaberis Cephas quod interpretatur Petrus
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.43,John 1:43,42,in crastinum voluit exire in Galilaeam et invenit Philippum et dicit ei Iesus sequere me
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.44,John 1:44,43,erat autem Philippus a Bethsaida civitate Andreae et Petri
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.45,John 1:45,44,invenit Philippus Nathanahel et dicit ei quem scripsit Moses in lege et prophetae invenimus Iesum filium Ioseph a Nazareth
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.46,John 1:46,45,et dixit ei Nathanahel a Nazareth potest aliquid boni esse dicit ei Philippus veni et vide
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.47,John 1:47,46,vidit Iesus Nathanahel venientem ad se et dicit de eo ecce vere Israhelita in quo dolus non est
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.48,John 1:48,47,dicit ei Nathanahel unde me nosti respondit Iesus et dixit ei priusquam te Philippus vocaret cum esses sub ficu vidi te
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.49,John 1:49,48,respondit ei Nathanahel et ait rabbi tu es Filius Dei tu es rex Israhel
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.50,John 1:50,49,respondit Iesus et dixit ei quia dixi tibi vidi te sub ficu credis maius his videbis
+la,VULGATA,John,John,42,John.1,John 1,0,John.1.51,John 1:51,50,et dicit ei amen amen dico vobis videbitis caelum apertum et angelos Dei ascendentes et descendentes supra Filium hominis
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.1,John 2:1,0,et die tertio nuptiae factae sunt in Cana Galilaeae et erat mater Iesu ibi
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.2,John 2:2,1,vocatus est autem ibi et Iesus et discipuli eius ad nuptias
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.3,John 2:3,2,et deficiente vino dicit mater Iesu ad eum vinum non habent
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.4,John 2:4,3,et dicit ei Iesus quid mihi et tibi est mulier nondum venit hora mea
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.5,John 2:5,4,dicit mater eius ministris quodcumque dixerit vobis facite
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.6,John 2:6,5,erant autem ibi lapideae hydriae sex positae secundum purificationem Iudaeorum capientes singulae metretas binas vel ternas
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.7,John 2:7,6,dicit eis Iesus implete hydrias aqua et impleverunt eas usque ad summum
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.8,John 2:8,7,et dicit eis Iesus haurite nunc et ferte architriclino et tulerunt
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.9,John 2:9,8,ut autem gustavit architriclinus aquam vinum factam et non sciebat unde esset ministri autem sciebant qui haurierant aquam vocat sponsum architriclinus
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.10,John 2:10,9,et dicit ei omnis homo primum bonum vinum ponit et cum inebriati fuerint tunc id quod deterius est tu servasti bonum vinum usque adhuc
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.11,John 2:11,10,hoc fecit initium signorum Iesus in Cana Galilaeae et manifestavit gloriam suam et crediderunt in eum discipuli eius
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.12,John 2:12,11,post hoc descendit Capharnaum ipse et mater eius et fratres eius et discipuli eius et ibi manserunt non multis diebus
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.13,John 2:13,12,et prope erat pascha Iudaeorum et ascendit Hierosolyma Iesus
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.14,John 2:14,13,et invenit in templo vendentes boves et oves et columbas et nummularios sedentes
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.15,John 2:15,14,et cum fecisset quasi flagellum de funiculis omnes eiecit de templo oves quoque et boves et nummulariorum effudit aes et mensas subvertit
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.16,John 2:16,15,et his qui columbas vendebant dixit auferte ista hinc nolite facere domum Patris mei domum negotiationis
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.17,John 2:17,16,recordati vero sunt discipuli eius quia scriptum est zelus domus tuae comedit me
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.18,John 2:18,17,responderunt ergo Iudaei et dixerunt ei quod signum ostendis nobis quia haec facis
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.19,John 2:19,18,respondit Iesus et dixit eis solvite templum hoc et in tribus diebus excitabo illud
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.20,John 2:20,19,dixerunt ergo Iudaei quadraginta et sex annis aedificatum est templum hoc et tu tribus diebus excitabis illud
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.21,John 2:21,20,ille autem dicebat de templo corporis sui
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.22,John 2:22,21,cum ergo resurrexisset a mortuis recordati sunt discipuli eius quia hoc dicebat et crediderunt scripturae et sermoni quem dixit Iesus
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.23,John 2:23,22,cum autem esset Hierosolymis in pascha in die festo multi crediderunt in nomine eius videntes signa eius quae faciebat
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.24,John 2:24,23,ipse autem Iesus non credebat semet ipsum eis eo quod ipse nosset omnes
+la,VULGATA,John,John,42,John.2,John 2,1,John.2.25,John 2:25,24,et quia opus ei non erat ut quis testimonium perhiberet de homine ipse enim sciebat quid esset in homine
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.1,John 3:1,0,erat autem homo ex Pharisaeis Nicodemus nomine princeps Iudaeorum
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.2,John 3:2,1,hic venit ad eum nocte et dixit ei rabbi scimus quia a Deo venisti magister nemo enim potest haec signa facere quae tu facis nisi fuerit Deus cum eo
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.3,John 3:3,2,respondit Iesus et dixit ei amen amen dico tibi nisi quis natus fuerit denuo non potest videre regnum Dei
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.4,John 3:4,3,dicit ad eum Nicodemus quomodo potest homo nasci cum senex sit numquid potest in ventrem matris suae iterato introire et nasci
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.5,John 3:5,4,respondit Iesus amen amen dico tibi nisi quis renatus fuerit ex aqua et Spiritu non potest introire in regnum Dei
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.6,John 3:6,5,quod natum est ex carne caro est et quod natum est ex Spiritu spiritus est
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.7,John 3:7,6,non mireris quia dixi tibi oportet vos nasci denuo
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.8,John 3:8,7,Spiritus ubi vult spirat et vocem eius audis sed non scis unde veniat et quo vadat sic est omnis qui natus est ex Spiritu
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.9,John 3:9,8,respondit Nicodemus et dixit ei quomodo possunt haec fieri
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.10,John 3:10,9,respondit Iesus et dixit ei tu es magister Israhel et haec ignoras
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.11,John 3:11,10,amen amen dico tibi quia quod scimus loquimur et quod vidimus testamur et testimonium nostrum non accipitis
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.12,John 3:12,11,si terrena dixi vobis et non creditis quomodo si dixero vobis caelestia credetis
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.13,John 3:13,12,et nemo ascendit in caelum nisi qui descendit de caelo Filius hominis qui est in caelo
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.14,John 3:14,13,et sicut Moses exaltavit serpentem in deserto ita exaltari oportet Filium hominis
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.15,John 3:15,14,ut omnis qui credit in ipso non pereat sed habeat vitam aeternam
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.16,John 3:16,15,sic enim dilexit Deus mundum ut Filium suum unigenitum daret ut omnis qui credit in eum non pereat sed habeat vitam aeternam
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.17,John 3:17,16,non enim misit Deus Filium suum in mundum ut iudicet mundum sed ut salvetur mundus per ipsum
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.18,John 3:18,17,qui credit in eum non iudicatur qui autem non credit iam iudicatus est quia non credidit in nomine unigeniti Filii Dei
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.19,John 3:19,18,hoc est autem iudicium quia lux venit in mundum et dilexerunt homines magis tenebras quam lucem erant enim eorum mala opera
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.20,John 3:20,19,omnis enim qui mala agit odit lucem et non venit ad lucem ut non arguantur opera eius
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.21,John 3:21,20,qui autem facit veritatem venit ad lucem ut manifestentur eius opera quia in Deo sunt facta
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.22,John 3:22,21,post haec venit Iesus et discipuli eius in iudaeam terram et illic demorabatur cum eis et baptizabat
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.23,John 3:23,22,erat autem et Iohannes baptizans in Aenon iuxta Salim quia aquae multae erant illic et adveniebant et baptizabantur
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.24,John 3:24,23,nondum enim missus fuerat in carcerem Iohannes
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.25,John 3:25,24,facta est ergo quaestio ex discipulis Iohannis cum Iudaeis de purificatione
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.26,John 3:26,25,et venerunt ad Iohannem et dixerunt ei rabbi qui erat tecum trans Iordanen cui tu testimonium perhibuisti ecce hic baptizat et omnes veniunt ad eum
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.27,John 3:27,26,respondit Iohannes et dixit non potest homo accipere quicquam nisi fuerit ei datum de caelo
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.28,John 3:28,27,ipsi vos mihi testimonium perhibetis quod dixerim ego non sum Christus sed quia missus sum ante illum
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.29,John 3:29,28,qui habet sponsam sponsus est amicus autem sponsi qui stat et audit eum gaudio gaudet propter vocem sponsi hoc ergo gaudium meum impletum est
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.30,John 3:30,29,illum oportet crescere me autem minui
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.31,John 3:31,30,qui desursum venit supra omnes est qui est de terra de terra est et de terra loquitur qui de caelo venit supra omnes est
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.32,John 3:32,31,et quod vidit et audivit hoc testatur et testimonium eius nemo accipit
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.33,John 3:33,32,qui accipit eius testimonium signavit quia Deus verax est
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.34,John 3:34,33,quem enim misit Deus verba Dei loquitur non enim ad mensuram dat Deus Spiritum
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.35,John 3:35,34,Pater diligit Filium et omnia dedit in manu eius
+la,VULGATA,John,John,42,John.3,John 3,2,John.3.36,John 3:36,35,qui credit in Filium habet vitam aeternam qui autem incredulus est Filio non videbit vitam sed ira Dei manet super eum
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.1,John 4:1,0,ut ergo cognovit Iesus quia audierunt Pharisaei quia Iesus plures discipulos facit et baptizat quam Iohannes
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.2,John 4:2,1,quamquam Iesus non baptizaret sed discipuli eius
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.3,John 4:3,2,reliquit Iudaeam et abiit iterum in Galilaeam
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.4,John 4:4,3,oportebat autem eum transire per Samariam
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.5,John 4:5,4,venit ergo in civitatem Samariae quae dicitur Sychar iuxta praedium quod dedit Iacob Ioseph filio suo
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.6,John 4:6,5,erat autem ibi fons Iacob Iesus ergo fatigatus ex itinere sedebat sic super fontem hora erat quasi sexta
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.7,John 4:7,6,venit mulier de Samaria haurire aquam dicit ei Iesus da mihi bibere
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.8,John 4:8,7,discipuli enim eius abierant in civitatem ut cibos emerent
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.9,John 4:9,8,dicit ergo ei mulier illa samaritana quomodo tu Iudaeus cum sis bibere a me poscis quae sum mulier samaritana non enim coutuntur Iudaei Samaritanis
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.10,John 4:10,9,respondit Iesus et dixit ei si scires donum Dei et quis est qui dicit tibi da mihi bibere tu forsitan petisses ab eo et dedisset tibi aquam vivam
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.11,John 4:11,10,dicit ei mulier Domine neque in quo haurias habes et puteus altus est unde ergo habes aquam vivam
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.12,John 4:12,11,numquid tu maior es patre nostro Iacob qui dedit nobis puteum et ipse ex eo bibit et filii eius et pecora eius
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.13,John 4:13,12,respondit Iesus et dixit ei omnis qui bibit ex aqua hac sitiet iterum qui autem biberit ex aqua quam ego dabo ei non sitiet in aeternum
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.14,John 4:14,13,sed aqua quam dabo ei fiet in eo fons aquae salientis in vitam aeternam
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.15,John 4:15,14,dicit ad eum mulier Domine da mihi hanc aquam ut non sitiam neque veniam huc haurire
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.16,John 4:16,15,dicit ei Iesus vade voca virum tuum et veni huc
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.17,John 4:17,16,respondit mulier et dixit non habeo virum dicit ei Iesus bene dixisti quia non habeo virum
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.18,John 4:18,17,quinque enim viros habuisti et nunc quem habes non est tuus vir hoc vere dixisti
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.19,John 4:19,18,dicit ei mulier Domine video quia propheta es tu
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.20,John 4:20,19,patres nostri in monte hoc adoraverunt et vos dicitis quia Hierosolymis est locus ubi adorare oportet
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.21,John 4:21,20,dicit ei Iesus mulier crede mihi quia veniet hora quando neque in monte hoc neque in Hierosolymis adorabitis Patrem
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.22,John 4:22,21,vos adoratis quod nescitis nos adoramus quod scimus quia salus ex Iudaeis est
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.23,John 4:23,22,sed venit hora et nunc est quando veri adoratores adorabunt Patrem in spiritu et veritate nam et Pater tales quaerit qui adorent eum
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.24,John 4:24,23,spiritus est Deus et eos qui adorant eum in spiritu et veritate oportet adorare
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.25,John 4:25,24,dicit ei mulier scio quia Messias venit qui dicitur Christus cum ergo venerit ille nobis adnuntiabit omnia
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.26,John 4:26,25,dicit ei Iesus ego sum qui loquor tecum
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.27,John 4:27,26,et continuo venerunt discipuli eius et mirabantur quia cum muliere loquebatur nemo tamen dixit quid quaeris aut quid loqueris cum ea
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.28,John 4:28,27,reliquit ergo hydriam suam mulier et abiit in civitatem et dicit illis hominibus
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.29,John 4:29,28,venite videte hominem qui dixit mihi omnia quaecumque feci numquid ipse est Christus
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.30,John 4:30,29,exierunt de civitate et veniebant ad eum
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.31,John 4:31,30,interea rogabant eum discipuli dicentes rabbi manduca
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.32,John 4:32,31,ille autem dixit eis ego cibum habeo manducare quem vos nescitis
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.33,John 4:33,32,dicebant ergo discipuli ad invicem numquid aliquis adtulit ei manducare
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.34,John 4:34,33,dicit eis Iesus meus cibus est ut faciam voluntatem eius qui misit me ut perficiam opus eius
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.35,John 4:35,34,nonne vos dicitis quod adhuc quattuor menses sunt et messis venit ecce dico vobis levate oculos vestros et videte regiones quia albae sunt iam ad messem
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.36,John 4:36,35,et qui metit mercedem accipit et congregat fructum in vitam aeternam ut et qui seminat simul gaudeat et qui metit
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.37,John 4:37,36,in hoc enim est verbum verum quia alius est qui seminat et alius est qui metit
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.38,John 4:38,37,ego misi vos metere quod vos non laborastis alii laboraverunt et vos in laborem eorum introistis
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.39,John 4:39,38,ex civitate autem illa multi crediderunt in eum Samaritanorum propter verbum mulieris testimonium perhibentis quia dixit mihi omnia quaecumque feci
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.40,John 4:40,39,cum venissent ergo ad illum Samaritani rogaverunt eum ut ibi maneret et mansit ibi duos dies
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.41,John 4:41,40,et multo plures crediderunt propter sermonem eius
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.42,John 4:42,41,et mulieri dicebant quia iam non propter tuam loquellam credimus ipsi enim audivimus et scimus quia hic est vere salvator mundi
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.43,John 4:43,42,post duos autem dies exiit inde et abiit in Galilaeam
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.44,John 4:44,43,ipse enim Iesus testimonium perhibuit quia propheta in sua patria honorem non habet
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.45,John 4:45,44,cum ergo venisset in Galilaeam exceperunt eum Galilaei cum omnia vidissent quae fecerat Hierosolymis in die festo et ipsi enim venerant in diem festum
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.46,John 4:46,45,venit ergo iterum in Cana Galilaeae ubi fecit aquam vinum et erat quidam regulus cuius filius infirmabatur Capharnaum
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.47,John 4:47,46,hic cum audisset quia Iesus adveniret a Iudaea in Galilaeam abiit ad eum et rogabat eum ut descenderet et sanaret filium eius incipiebat enim mori
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.48,John 4:48,47,dixit ergo Iesus ad eum nisi signa et prodigia videritis non creditis
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.49,John 4:49,48,dicit ad eum regulus Domine descende priusquam moriatur filius meus
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.50,John 4:50,49,dicit ei Iesus vade filius tuus vivit credidit homo sermoni quem dixit ei Iesus et ibat
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.51,John 4:51,50,iam autem eo descendente servi occurrerunt ei et nuntiaverunt dicentes quia filius eius viveret
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.52,John 4:52,51,interrogabat ergo horam ab eis in qua melius habuerit et dixerunt ei quia heri hora septima reliquit eum febris
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.53,John 4:53,52,cognovit ergo pater quia illa hora erat in qua dixit ei Iesus filius tuus vivit et credidit ipse et domus eius tota
+la,VULGATA,John,John,42,John.4,John 4,3,John.4.54,John 4:54,53,hoc iterum secundum signum fecit Iesus cum venisset a Iudaea in Galilaeam
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.1,John 5:1,0,post haec erat dies festus Iudaeorum et ascendit Iesus Hierosolymis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.2,John 5:2,1,est autem Hierosolymis super Probatica piscina quae cognominatur hebraice Bethsaida quinque porticus habens
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.3,John 5:3,2,in his iacebat multitudo magna languentium caecorum claudorum aridorum expectantium aquae motum
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.4,John 5:4,3,
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.5,John 5:5,4,erat autem quidam homo ibi triginta et octo annos habens in infirmitate sua
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.6,John 5:6,5,hunc cum vidisset Iesus iacentem et cognovisset quia multum iam tempus habet dicit ei vis sanus fieri
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.7,John 5:7,6,respondit ei languidus Domine hominem non habeo ut cum turbata fuerit aqua mittat me in piscinam dum venio enim ego alius ante me descendit
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.8,John 5:8,7,dicit ei Iesus surge tolle grabattum tuum et ambula
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.9,John 5:9,8,et statim sanus factus est homo et sustulit grabattum suum et ambulabat erat autem sabbatum in illo die
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.10,John 5:10,9,dicebant Iudaei illi qui sanatus fuerat sabbatum est non licet tibi tollere grabattum tuum
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.11,John 5:11,10,respondit eis qui me fecit sanum ille mihi dixit tolle grabattum tuum et ambula
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.12,John 5:12,11,interrogaverunt ergo eum quis est ille homo qui dixit tibi tolle grabattum tuum et ambula
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.13,John 5:13,12,is autem qui sanus fuerat effectus nesciebat quis esset Iesus enim declinavit turba constituta in loco
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.14,John 5:14,13,postea invenit eum Iesus in templo et dixit illi ecce sanus factus es iam noli peccare ne deterius tibi aliquid contingat
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.15,John 5:15,14,abiit ille homo et nuntiavit Iudaeis quia Iesus esset qui fecit eum sanum
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.16,John 5:16,15,propterea persequebantur Iudaei Iesum quia haec faciebat in sabbato
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.17,John 5:17,16,Iesus autem respondit eis Pater meus usque modo operatur et ego operor
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.18,John 5:18,17,propterea ergo magis quaerebant eum Iudaei interficere quia non solum solvebat sabbatum sed et Patrem suum dicebat Deum aequalem se faciens Deo respondit itaque Iesus et dixit eis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.19,John 5:19,18,amen amen dico vobis non potest Filius a se facere quicquam nisi quod viderit Patrem facientem quaecumque enim ille fecerit haec et Filius similiter facit
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.20,John 5:20,19,Pater enim diligit Filium et omnia demonstrat ei quae ipse facit et maiora his demonstrabit ei opera ut vos miremini
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.21,John 5:21,20,sicut enim Pater suscitat mortuos et vivificat sic et Filius quos vult vivificat
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.22,John 5:22,21,neque enim Pater iudicat quemquam sed iudicium omne dedit Filio
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.23,John 5:23,22,ut omnes honorificent Filium sicut honorificant Patrem qui non honorificat Filium non honorificat Patrem qui misit illum
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.24,John 5:24,23,amen amen dico vobis quia qui verbum meum audit et credit ei qui misit me habet vitam aeternam et in iudicium non venit sed transit a morte in vitam
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.25,John 5:25,24,amen amen dico vobis quia venit hora et nunc est quando mortui audient vocem Filii Dei et qui audierint vivent
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.26,John 5:26,25,sicut enim Pater habet vitam in semet ipso sic dedit et Filio vitam habere in semet ipso
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.27,John 5:27,26,et potestatem dedit ei et iudicium facere quia Filius hominis est
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.28,John 5:28,27,nolite mirari hoc quia venit hora in qua omnes qui in monumentis sunt audient vocem eius
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.29,John 5:29,28,et procedent qui bona fecerunt in resurrectionem vitae qui vero mala egerunt in resurrectionem iudicii
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.30,John 5:30,29,non possum ego a me ipso facere quicquam sicut audio iudico et iudicium meum iustum est quia non quaero voluntatem meam sed voluntatem eius qui misit me
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.31,John 5:31,30,si ego testimonium perhibeo de me testimonium meum non est verum
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.32,John 5:32,31,alius est qui testimonium perhibet de me et scio quia verum est testimonium quod perhibet de me
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.33,John 5:33,32,vos misistis ad Iohannem et testimonium perhibuit veritati
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.34,John 5:34,33,ego autem non ab homine testimonium accipio sed haec dico ut vos salvi sitis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.35,John 5:35,34,ille erat lucerna ardens et lucens vos autem voluistis exultare ad horam in luce eius
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.36,John 5:36,35,ego autem habeo testimonium maius Iohanne opera enim quae dedit mihi Pater ut perficiam ea ipsa opera quae ego facio testimonium perhibent de me quia Pater me misit
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.37,John 5:37,36,et qui misit me Pater ipse testimonium perhibuit de me neque vocem eius umquam audistis neque speciem eius vidistis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.38,John 5:38,37,et verbum eius non habetis in vobis manens quia quem misit ille huic vos non creditis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.39,John 5:39,38,scrutamini scripturas quia vos putatis in ipsis vitam aeternam habere et illae sunt quae testimonium perhibent de me
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.40,John 5:40,39,et non vultis venire ad me ut vitam habeatis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.41,John 5:41,40,claritatem ab hominibus non accipio
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.42,John 5:42,41,sed cognovi vos quia dilectionem Dei non habetis in vobis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.43,John 5:43,42,ego veni in nomine Patris mei et non accipitis me si alius venerit in nomine suo illum accipietis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.44,John 5:44,43,quomodo potestis vos credere qui gloriam ab invicem accipitis et gloriam quae a solo est Deo non quaeritis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.45,John 5:45,44,nolite putare quia ego accusaturus sim vos apud Patrem est qui accuset vos Moses in quo vos speratis
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.46,John 5:46,45,si enim crederetis Mosi crederetis forsitan et mihi de me enim ille scripsit
+la,VULGATA,John,John,42,John.5,John 5,4,John.5.47,John 5:47,46,si autem illius litteris non creditis quomodo meis verbis credetis
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.1,John 6:1,0,post haec abiit Iesus trans mare Galilaeae quod est Tiberiadis
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.2,John 6:2,1,et sequebatur eum multitudo magna quia videbant signa quae faciebat super his qui infirmabantur
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.3,John 6:3,2,subiit ergo in montem Iesus et ibi sedebat cum discipulis suis
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.4,John 6:4,3,erat autem proximum pascha dies festus Iudaeorum
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.5,John 6:5,4,cum sublevasset ergo oculos Iesus et vidisset quia multitudo maxima venit ad eum dicit ad Philippum unde ememus panes ut manducent hii
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.6,John 6:6,5,hoc autem dicebat temptans eum ipse enim sciebat quid esset facturus
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.7,John 6:7,6,respondit ei Philippus ducentorum denariorum panes non sufficiunt eis ut unusquisque modicum quid accipiat
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.8,John 6:8,7,dicit ei unus ex discipulis eius Andreas frater Simonis Petri
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.9,John 6:9,8,est puer unus hic qui habet quinque panes hordiacios et duos pisces sed haec quid sunt inter tantos
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.10,John 6:10,9,dixit ergo Iesus facite homines discumbere erat autem faenum multum in loco discubuerunt ergo viri numero quasi quinque milia
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.11,John 6:11,10,accepit ergo panes Iesus et cum gratias egisset distribuit discumbentibus similiter et ex piscibus quantum volebant
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.12,John 6:12,11,ut autem impleti sunt dixit discipulis suis colligite quae superaverunt fragmenta ne pereant
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.13,John 6:13,12,collegerunt ergo et impleverunt duodecim cofinos fragmentorum ex quinque panibus hordiaciis quae superfuerunt his qui manducaverunt
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.14,John 6:14,13,illi ergo homines cum vidissent quod fecerat signum dicebant quia hic est vere propheta qui venturus est in mundum
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.15,John 6:15,14,Iesus ergo cum cognovisset quia venturi essent ut raperent eum et facerent eum regem fugit iterum in montem ipse solus
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.16,John 6:16,15,ut autem sero factum est descenderunt discipuli eius ad mare
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.17,John 6:17,16,et cum ascendissent navem venerunt trans mare in Capharnaum et tenebrae iam factae erant et non venerat ad eos Iesus
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.18,John 6:18,17,mare autem vento magno flante exsurgebat
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.19,John 6:19,18,cum remigassent ergo quasi stadia viginti quinque aut triginta vident Iesum ambulantem super mare et proximum navi fieri et timuerunt
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.20,John 6:20,19,ille autem dicit eis ego sum nolite timere
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.21,John 6:21,20,voluerunt ergo accipere eum in navi et statim fuit navis ad terram quam ibant
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.22,John 6:22,21,altera die turba quae stabat trans mare vidit quia navicula alia non erat ibi nisi una et quia non introisset cum discipulis suis Iesus in navem sed soli discipuli eius abissent
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.23,John 6:23,22,aliae vero supervenerunt naves a Tiberiade iuxta locum ubi manducaverant panem gratias agente Domino
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.24,John 6:24,23,cum ergo vidisset turba quia Iesus non esset ibi neque discipuli eius ascenderunt naviculas et venerunt Capharnaum quaerentes Iesum
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.25,John 6:25,24,et cum invenissent eum trans mare dixerunt ei rabbi quando huc venisti
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.26,John 6:26,25,respondit eis Iesus et dixit amen amen dico vobis quaeritis me non quia vidistis signa sed quia manducastis ex panibus et saturati estis
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.27,John 6:27,26,operamini non cibum qui perit sed qui permanet in vitam aeternam quem Filius hominis vobis dabit hunc enim Pater signavit Deus
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.28,John 6:28,27,dixerunt ergo ad eum quid faciemus ut operemur opera Dei
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.29,John 6:29,28,respondit Iesus et dixit eis hoc est opus Dei ut credatis in eum quem misit ille
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.30,John 6:30,29,dixerunt ergo ei quod ergo tu facis signum ut videamus et credamus tibi quid operaris
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.31,John 6:31,30,patres nostri manna manducaverunt in deserto sicut scriptum est panem de caelo dedit eis manducare
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.32,John 6:32,31,dixit ergo eis Iesus amen amen dico vobis non Moses dedit vobis panem de caelo sed Pater meus dat vobis panem de caelo verum
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.33,John 6:33,32,panis enim Dei est qui descendit de caelo et dat vitam mundo
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.34,John 6:34,33,dixerunt ergo ad eum Domine semper da nobis panem hunc
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.35,John 6:35,34,dixit autem eis Iesus ego sum panis vitae qui veniet ad me non esuriet et qui credit in me non sitiet umquam
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.36,John 6:36,35,sed dixi vobis quia et vidistis me et non creditis
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.37,John 6:37,36,omne quod dat mihi Pater ad me veniet et eum qui venit ad me non eiciam foras
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.38,John 6:38,37,quia descendi de caelo non ut faciam voluntatem meam sed voluntatem eius qui misit me
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.39,John 6:39,38,haec est autem voluntas eius qui misit me Patris ut omne quod dedit mihi non perdam ex eo sed resuscitem illum novissimo die
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.40,John 6:40,39,haec est enim voluntas Patris mei qui misit me ut omnis qui videt Filium et credit in eum habeat vitam aeternam et resuscitabo ego eum in novissimo die
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.41,John 6:41,40,murmurabant ergo Iudaei de illo quia dixisset ego sum panis qui de caelo descendi
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.42,John 6:42,41,et dicebant nonne hic est Iesus filius Ioseph cuius nos novimus patrem et matrem quomodo ergo dicit hic quia de caelo descendi
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.43,John 6:43,42,respondit ergo Iesus et dixit eis nolite murmurare in invicem
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.44,John 6:44,43,nemo potest venire ad me nisi Pater qui misit me traxerit eum et ego resuscitabo eum novissimo die
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.45,John 6:45,44,est scriptum in prophetis et erunt omnes docibiles Dei omnis qui audivit a Patre et didicit venit ad me
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.46,John 6:46,45,non quia Patrem vidit quisquam nisi is qui est a Deo hic vidit Patrem
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.47,John 6:47,46,amen amen dico vobis qui credit in me habet vitam aeternam
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.48,John 6:48,47,ego sum panis vitae
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.49,John 6:49,48,patres vestri manducaverunt in deserto manna et mortui sunt
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.50,John 6:50,49,hic est panis de caelo descendens ut si quis ex ipso manducaverit non moriatur
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.51,John 6:51,50,ego sum panis vivus qui de caelo descendi
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.52,John 6:52,51,si quis manducaverit ex hoc pane vivet in aeternum et panis quem ego dabo caro mea est pro mundi vita
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.53,John 6:53,52,litigabant ergo Iudaei ad invicem dicentes quomodo potest hic nobis carnem suam dare ad manducandum
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.54,John 6:54,53,dixit ergo eis Iesus amen amen dico vobis nisi manducaveritis carnem Filii hominis et biberitis eius sanguinem non habetis vitam in vobis
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.55,John 6:55,54,qui manducat meam carnem et bibit meum sanguinem habet vitam aeternam et ego resuscitabo eum in novissimo die
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.56,John 6:56,55,caro enim mea vere est cibus et sanguis meus vere est potus
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.57,John 6:57,56,qui manducat meam carnem et bibit meum sanguinem in me manet et ego in illo
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.58,John 6:58,57,sicut misit me vivens Pater et ego vivo propter Patrem et qui manducat me et ipse vivet propter me
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.59,John 6:59,58,hic est panis qui de caelo descendit non sicut manducaverunt patres vestri manna et mortui sunt qui manducat hunc panem vivet in aeternum
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.60,John 6:60,59,haec dixit in synagoga docens in Capharnaum
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.61,John 6:61,60,multi ergo audientes ex discipulis eius dixerunt durus est hic sermo quis potest eum audire
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.62,John 6:62,61,sciens autem Iesus apud semet ipsum quia murmurarent de hoc discipuli eius dixit eis hoc vos scandalizat
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.63,John 6:63,62,si ergo videritis Filium hominis ascendentem ubi erat prius
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.64,John 6:64,63,spiritus est qui vivificat caro non prodest quicquam verba quae ego locutus sum vobis spiritus et vita sunt
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.65,John 6:65,64,sed sunt quidam ex vobis qui non credunt sciebat enim ab initio Iesus qui essent credentes et quis traditurus esset eum
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.66,John 6:66,65,et dicebat propterea dixi vobis quia nemo potest venire ad me nisi fuerit ei datum a Patre meo
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.67,John 6:67,66,ex hoc multi discipulorum eius abierunt retro et iam non cum illo ambulabant
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.68,John 6:68,67,dixit ergo Iesus ad duodecim numquid et vos vultis abire
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.69,John 6:69,68,respondit ergo ei Simon Petrus Domine ad quem ibimus verba vitae aeternae habes
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.70,John 6:70,69,et nos credidimus et cognovimus quia tu es Christus Filius Dei
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.71,John 6:71,70,respondit eis Iesus nonne ego vos duodecim elegi et ex vobis unus diabolus est
+la,VULGATA,John,John,42,John.6,John 6,5,John.6.72,John 6:72,71,dicebat autem Iudam Simonis Scariotis hic enim erat traditurus eum cum esset unus ex duodecim
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.1,John 7:1,0,post haec ambulabat Iesus in Galilaeam non enim volebat in Iudaeam ambulare quia quaerebant eum Iudaei interficere
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.2,John 7:2,1,erat autem in proximo dies festus Iudaeorum scenopegia
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.3,John 7:3,2,dixerunt autem ad eum fratres eius transi hinc et vade in Iudaeam ut et discipuli tui videant opera tua quae facis
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.4,John 7:4,3,nemo quippe in occulto quid facit et quaerit ipse in palam esse si haec facis manifesta te ipsum mundo
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.5,John 7:5,4,neque enim fratres eius credebant in eum
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.6,John 7:6,5,dicit ergo eis Iesus tempus meum nondum advenit tempus autem vestrum semper est paratum
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.7,John 7:7,6,non potest mundus odisse vos me autem odit quia ego testimonium perhibeo de illo quia opera eius mala sunt
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.8,John 7:8,7,vos ascendite ad diem festum hunc ego non ascendo ad diem festum istum quia meum tempus nondum impletum est
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.9,John 7:9,8,haec cum dixisset ipse mansit in Galilaea
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.10,John 7:10,9,ut autem ascenderunt fratres eius tunc et ipse ascendit ad diem festum non manifeste sed quasi in occulto
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.11,John 7:11,10,Iudaei ergo quaerebant eum in die festo et dicebant ubi est ille
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.12,John 7:12,11,et murmur multus de eo erat in turba; quidam enim dicebant quia bonus est alii autem dicebant non sed seducit turbas
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.13,John 7:13,12,nemo tamen palam loquebatur de illo propter metum Iudaeorum
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.14,John 7:14,13,iam autem die festo mediante ascendit Iesus in templum et docebat
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.15,John 7:15,14,et mirabantur Iudaei dicentes quomodo hic litteras scit cum non didicerit
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.16,John 7:16,15,respondit eis Iesus et dixit mea doctrina non est mea sed eius qui misit me
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.17,John 7:17,16,si quis voluerit voluntatem eius facere cognoscet de doctrina utrum ex Deo sit an ego a me ipso loquar
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.18,John 7:18,17,qui a semet ipso loquitur gloriam propriam quaerit qui autem quaerit gloriam eius qui misit illum hic verax est et iniustitia in illo non est
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.19,John 7:19,18,nonne Moses dedit vobis legem et nemo ex vobis facit legem
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.20,John 7:20,19,quid me quaeritis interficere respondit turba et dixit daemonium habes quis te quaerit interficere
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.21,John 7:21,20,respondit Iesus et dixit eis unum opus feci et omnes miramini
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.22,John 7:22,21,propterea Moses dedit vobis circumcisionem non quia ex Mose est sed ex patribus et in sabbato circumciditis hominem
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.23,John 7:23,22,si circumcisionem accipit homo in sabbato ut non solvatur lex Mosi mihi indignamini quia totum hominem sanum feci in sabbato
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.24,John 7:24,23,nolite iudicare secundum faciem sed iustum iudicium iudicate
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.25,John 7:25,24,dicebant ergo quidam ex Hierosolymis nonne hic est quem quaerunt interficere
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.26,John 7:26,25,et ecce palam loquitur et nihil ei dicunt numquid vere cognoverunt principes quia hic est Christus
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.27,John 7:27,26,sed hunc scimus unde sit Christus autem cum venerit nemo scit unde sit
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.28,John 7:28,27,clamabat ergo docens in templo Iesus et dicens et me scitis et unde sim scitis et a me ipso non veni sed est verus qui misit me quem vos non scitis
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.29,John 7:29,28,ego scio eum quia ab ipso sum et ipse me misit
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.30,John 7:30,29,quaerebant ergo eum adprehendere et nemo misit in illum manus quia nondum venerat hora eius
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.31,John 7:31,30,de turba autem multi crediderunt in eum et dicebant Christus cum venerit numquid plura signa faciet quam quae hic facit
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.32,John 7:32,31,audierunt Pharisaei turbam murmurantem de illo haec et miserunt principes et Pharisaei ministros ut adprehenderent eum
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.33,John 7:33,32,dixit ergo Iesus adhuc modicum tempus vobiscum sum et vado ad eum qui misit me
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.34,John 7:34,33,quaeretis me et non invenietis et ubi sum ego vos non potestis venire
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.35,John 7:35,34,dixerunt ergo Iudaei ad se ipsos quo hic iturus est quia non inveniemus eum numquid in dispersionem gentium iturus est et docturus gentes
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.36,John 7:36,35,quis est hic sermo quem dixit quaeretis me et non invenietis et ubi sum ego non potestis venire
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.37,John 7:37,36,in novissimo autem die magno festivitatis stabat Iesus et clamabat dicens si quis sitit veniat ad me et bibat
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.38,John 7:38,37,qui credit in me sicut dixit scriptura flumina de ventre eius fluent aquae vivae
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.39,John 7:39,38,hoc autem dixit de Spiritu quem accepturi erant credentes in eum non enim erat Spiritus quia Iesus nondum fuerat glorificatus
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.40,John 7:40,39,ex illa ergo turba cum audissent hos sermones eius dicebant hic est vere propheta
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.41,John 7:41,40,alii dicebant hic est Christus quidam autem dicebant numquid a Galilaea Christus venit
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.42,John 7:42,41,nonne scriptura dicit quia ex semine David et Bethleem castello ubi erat David venit Christus
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.43,John 7:43,42,dissensio itaque facta est in turba propter eum
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.44,John 7:44,43,quidam autem ex ipsis volebant adprehendere eum sed nemo misit super illum manus
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.45,John 7:45,44,venerunt ergo ministri ad pontifices et Pharisaeos et dixerunt eis illi quare non adduxistis eum
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.46,John 7:46,45,responderunt ministri numquam sic locutus est homo sicut hic homo
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.47,John 7:47,46,responderunt ergo eis Pharisaei numquid et vos seducti estis
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.48,John 7:48,47,numquid aliquis ex principibus credidit in eum aut ex Pharisaeis
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.49,John 7:49,48,sed turba haec quae non novit legem maledicti sunt
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.50,John 7:50,49,dicit Nicodemus ad eos ille qui venit ad eum nocte qui unus erat ex ipsis
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.51,John 7:51,50,numquid lex nostra iudicat hominem nisi audierit ab ipso prius et cognoverit quid faciat
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.52,John 7:52,51,responderunt et dixerunt ei numquid et tu Galilaeus es scrutare et vide quia propheta a Galilaea non surgit
+la,VULGATA,John,John,42,John.7,John 7,6,John.7.53,John 7:53,52,et reversi sunt unusquisque in domum suam
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.1,John 8:1,0,Iesus autem perrexit in montem Oliveti
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.2,John 8:2,1,et diluculo iterum venit in templum et omnis populus venit ad eum et sedens docebat eos
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.3,John 8:3,2,adducunt autem scribae et Pharisaei mulierem in adulterio deprehensam et statuerunt eam in medio
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.4,John 8:4,3,et dixerunt ei magister haec mulier modo deprehensa est in adulterio
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.5,John 8:5,4,in lege autem Moses mandavit nobis huiusmodi lapidare tu ergo quid dicis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.6,John 8:6,5,haec autem dicebant temptantes eum ut possent accusare eum Iesus autem inclinans se deorsum digito scribebat in terra
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.7,John 8:7,6,cum autem perseverarent interrogantes eum erexit se et dixit eis qui sine peccato est vestrum primus in illam lapidem mittat
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.8,John 8:8,7,et iterum se inclinans scribebat in terra
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.9,John 8:9,8,audientes autem unus post unum exiebant incipientes a senioribus et remansit solus et mulier in medio stans
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.10,John 8:10,9,erigens autem se Iesus dixit ei mulier ubi sunt nemo te condemnavit
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.11,John 8:11,10,quae dixit nemo Domine dixit autem Iesus nec ego te condemnabo vade et amplius iam noli peccare
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.12,John 8:12,11,iterum ergo locutus est eis Iesus dicens ego sum lux mundi qui sequitur me non ambulabit in tenebris sed habebit lucem vitae
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.13,John 8:13,12,dixerunt ergo ei Pharisaei tu de te ipso testimonium perhibes testimonium tuum non est verum
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.14,John 8:14,13,respondit Iesus et dixit eis et si ego testimonium perhibeo de me ipso verum est testimonium meum quia scio unde veni et quo vado vos autem nescitis unde venio aut quo vado
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.15,John 8:15,14,vos secundum carnem iudicatis ego non iudico quemquam
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.16,John 8:16,15,et si iudico ego iudicium meum verum est quia solus non sum sed ego et qui me misit Pater
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.17,John 8:17,16,et in lege vestra scriptum est quia duorum hominum testimonium verum est
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.18,John 8:18,17,ego sum qui testimonium perhibeo de me ipso et testimonium perhibet de me qui misit me Pater
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.19,John 8:19,18,dicebant ergo ei ubi est Pater tuus respondit Iesus neque me scitis neque Patrem meum si me sciretis forsitan et Patrem meum sciretis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.20,John 8:20,19,haec verba locutus est in gazofilacio docens in templo et nemo adprehendit eum quia necdum venerat hora eius
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.21,John 8:21,20,dixit ergo iterum eis Iesus ego vado et quaeretis me et in peccato vestro moriemini quo ego vado vos non potestis venire
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.22,John 8:22,21,dicebant ergo Iudaei numquid interficiet semet ipsum quia dicit quo ego vado vos non potestis venire
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.23,John 8:23,22,et dicebat eis vos de deorsum estis ego de supernis sum vos de mundo hoc estis ego non sum de hoc mundo
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.24,John 8:24,23,dixi ergo vobis quia moriemini in peccatis vestris si enim non credideritis quia ego sum moriemini in peccato vestro
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.25,John 8:25,24,dicebant ergo ei tu quis es dixit eis Iesus principium quia et loquor vobis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.26,John 8:26,25,multa habeo de vobis loqui et iudicare sed qui misit me verax est et ego quae audivi ab eo haec loquor in mundo
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.27,John 8:27,26,et non cognoverunt quia Patrem eis dicebat
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.28,John 8:28,27,dixit ergo eis Iesus cum exaltaveritis Filium hominis tunc cognoscetis quia ego sum et a me ipso facio nihil sed sicut docuit me Pater haec loquor
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.29,John 8:29,28,et qui me misit mecum est non reliquit me solum quia ego quae placita sunt ei facio semper
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.30,John 8:30,29,haec illo loquente multi crediderunt in eum
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.31,John 8:31,30,dicebat ergo Iesus ad eos qui crediderunt ei Iudaeos si vos manseritis in sermone meo vere discipuli mei eritis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.32,John 8:32,31,et cognoscetis veritatem et veritas liberabit vos
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.33,John 8:33,32,responderunt ei semen Abrahae sumus et nemini servivimus umquam quomodo tu dicis liberi eritis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.34,John 8:34,33,respondit eis Iesus amen amen dico vobis quia omnis qui facit peccatum servus est peccati
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.35,John 8:35,34,servus autem non manet in domo in aeternum filius manet in aeternum
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.36,John 8:36,35,si ergo Filius vos liberaverit vere liberi eritis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.37,John 8:37,36,scio quia filii Abrahae estis sed quaeritis me interficere quia sermo meus non capit in vobis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.38,John 8:38,37,ego quod vidi apud Patrem loquor et vos quae vidistis apud patrem vestrum facitis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.39,John 8:39,38,responderunt et dixerunt ei pater noster Abraham est dicit eis Iesus si filii Abrahae estis opera Abrahae facite
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.40,John 8:40,39,nunc autem quaeritis me interficere hominem qui veritatem vobis locutus sum quam audivi a Deo hoc Abraham non fecit
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.41,John 8:41,40,vos facitis opera patris vestri dixerunt itaque ei nos ex fornicatione non sumus nati unum patrem habemus Deum
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.42,John 8:42,41,dixit ergo eis Iesus si Deus pater vester esset diligeretis utique me ego enim ex Deo processi et veni neque enim a me ipso veni sed ille me misit
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.43,John 8:43,42,quare loquellam meam non cognoscitis quia non potestis audire sermonem meum
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.44,John 8:44,43,vos ex patre diabolo estis et desideria patris vestri vultis facere ille homicida erat ab initio et in veritate non stetit quia non est veritas in eo cum loquitur mendacium ex propriis loquitur quia mendax est et pater eius
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.45,John 8:45,44,ego autem quia veritatem dico non creditis mihi
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.46,John 8:46,45,quis ex vobis arguit me de peccato si veritatem dico quare vos non creditis mihi
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.47,John 8:47,46,qui est ex Deo verba Dei audit propterea vos non auditis quia ex Deo non estis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.48,John 8:48,47,responderunt igitur Iudaei et dixerunt ei nonne bene dicimus nos quia Samaritanus es tu et daemonium habes
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.49,John 8:49,48,respondit Iesus ego daemonium non habeo sed honorifico Patrem meum et vos inhonoratis me
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.50,John 8:50,49,ego autem non quaero gloriam meam est qui quaerit et iudicat
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.51,John 8:51,50,amen amen dico vobis si quis sermonem meum servaverit mortem non videbit in aeternum
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.52,John 8:52,51,dixerunt ergo Iudaei nunc cognovimus quia daemonium habes Abraham mortuus est et prophetae et tu dicis si quis sermonem meum servaverit non gustabit mortem in aeternum
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.53,John 8:53,52,numquid tu maior es patre nostro Abraham qui mortuus est et prophetae mortui sunt quem te ipsum facis
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.54,John 8:54,53,respondit Iesus si ego glorifico me ipsum gloria mea nihil est est Pater meus qui glorificat me quem vos dicitis quia Deus noster est
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.55,John 8:55,54,et non cognovistis eum ego autem novi eum et si dixero quia non scio eum ero similis vobis mendax sed scio eum et sermonem eius servo
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.56,John 8:56,55,Abraham pater vester exultavit ut videret diem meum et vidit et gavisus est
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.57,John 8:57,56,dixerunt ergo Iudaei ad eum quinquaginta annos nondum habes et Abraham vidisti
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.58,John 8:58,57,dixit eis Iesus amen amen dico vobis antequam Abraham fieret ego sum
+la,VULGATA,John,John,42,John.8,John 8,7,John.8.59,John 8:59,58,tulerunt ergo lapides ut iacerent in eum Iesus autem abscondit se et exivit de templo
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.1,John 9:1,0,et praeteriens vidit hominem caecum a nativitate
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.2,John 9:2,1,et interrogaverunt eum discipuli sui rabbi quis peccavit hic aut parentes eius ut caecus nasceretur
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.3,John 9:3,2,respondit Iesus neque hic peccavit neque parentes eius sed ut manifestetur opera Dei in illo
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.4,John 9:4,3,me oportet operari opera eius qui misit me donec dies est venit nox quando nemo potest operari
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.5,John 9:5,4,quamdiu in mundo sum lux sum mundi
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.6,John 9:6,5,haec cum dixisset expuit in terram et fecit lutum ex sputo et linuit lutum super oculos eius
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.7,John 9:7,6,et dixit ei vade lava in natatoria Siloae quod interpretatur Missus abiit ergo et lavit et venit videns
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.8,John 9:8,7,itaque vicini et qui videbant eum prius quia mendicus erat dicebant nonne hic est qui sedebat et mendicabat alii dicebant quia hic est
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.9,John 9:9,8,alii autem nequaquam sed similis est eius ille dicebat quia ego sum
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.10,John 9:10,9,dicebant ergo ei quomodo aperti sunt oculi tibi
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.11,John 9:11,10,respondit ille homo qui dicitur Iesus lutum fecit et unxit oculos meos et dixit mihi vade ad natatoriam Siloae et lava et abii et lavi et vidi
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.12,John 9:12,11,dixerunt ei ubi est ille ait nescio
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.13,John 9:13,12,adducunt eum ad Pharisaeos qui caecus fuerat
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.14,John 9:14,13,erat autem sabbatum quando lutum fecit Iesus et aperuit oculos eius
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.15,John 9:15,14,iterum ergo interrogabant eum Pharisaei quomodo vidisset ille autem dixit eis lutum posuit mihi super oculos et lavi et video
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.16,John 9:16,15,dicebant ergo ex Pharisaeis quidam non est hic homo a Deo quia sabbatum non custodit alii dicebant quomodo potest homo peccator haec signa facere et scisma erat in eis
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.17,John 9:17,16,dicunt ergo caeco iterum tu quid dicis de eo qui aperuit oculos tuos ille autem dixit quia propheta est
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.18,John 9:18,17,non crediderunt ergo Iudaei de illo quia caecus fuisset et vidisset donec vocaverunt parentes eius qui viderat
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.19,John 9:19,18,et interrogaverunt eos dicentes hic est filius vester quem vos dicitis quia caecus natus est quomodo ergo nunc videt
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.20,John 9:20,19,responderunt eis parentes eius et dixerunt scimus quia hic est filius noster et quia caecus natus est
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.21,John 9:21,20,quomodo autem nunc videat nescimus aut quis eius aperuit oculos nos nescimus ipsum interrogate aetatem habet ipse de se loquatur
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.22,John 9:22,21,haec dixerunt parentes eius quia timebant Iudaeos iam enim conspiraverant Iudaei ut si quis eum confiteretur Christum extra synagogam fieret
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.23,John 9:23,22,propterea parentes eius dixerunt quia aetatem habet ipsum interrogate
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.24,John 9:24,23,vocaverunt ergo rursum hominem qui fuerat caecus et dixerunt ei da gloriam Deo nos scimus quia hic homo peccator est
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.25,John 9:25,24,dixit ergo ille si peccator est nescio unum scio quia caecus cum essem modo video
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.26,John 9:26,25,dixerunt ergo illi quid fecit tibi quomodo aperuit tibi oculos
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.27,John 9:27,26,respondit eis dixi vobis iam et audistis quid iterum vultis audire numquid et vos vultis discipuli eius fieri
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.28,John 9:28,27,maledixerunt ei et dixerunt tu discipulus illius es nos autem Mosi discipuli sumus
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.29,John 9:29,28,nos scimus quia Mosi locutus est Deus hunc autem nescimus unde sit
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.30,John 9:30,29,respondit ille homo et dixit eis in hoc enim mirabile est quia vos nescitis unde sit et aperuit meos oculos
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.31,John 9:31,30,scimus autem quia peccatores Deus non audit sed si quis Dei cultor est et voluntatem eius facit hunc exaudit
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.32,John 9:32,31,a saeculo non est auditum quia aperuit quis oculos caeci nati
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.33,John 9:33,32,nisi esset hic a Deo non poterat facere quicquam
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.34,John 9:34,33,responderunt et dixerunt ei in peccatis natus es totus et tu doces nos et eiecerunt eum foras
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.35,John 9:35,34,audivit Iesus quia eiecerunt eum foras et cum invenisset eum dixit ei tu credis in Filium Dei
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.36,John 9:36,35,respondit ille et dixit quis est Domine ut credam in eum
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.37,John 9:37,36,et dixit ei Iesus et vidisti eum et qui loquitur tecum ipse est
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.38,John 9:38,37,at ille ait credo Domine et procidens adoravit eum
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.39,John 9:39,38,dixit ei Iesus in iudicium ego in hunc mundum veni ut qui non vident videant et qui vident caeci fiant
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.40,John 9:40,39,et audierunt ex Pharisaeis qui cum ipso erant et dixerunt ei numquid et nos caeci sumus
+la,VULGATA,John,John,42,John.9,John 9,8,John.9.41,John 9:41,40,dixit eis Iesus si caeci essetis non haberetis peccatum nunc vero dicitis quia videmus peccatum vestrum manet
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.1,John 10:1,0,amen amen dico vobis qui non intrat per ostium in ovile ovium sed ascendit aliunde ille fur est et latro
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.2,John 10:2,1,qui autem intrat per ostium pastor est ovium
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.3,John 10:3,2,huic ostiarius aperit et oves vocem eius audiunt et proprias oves vocat nominatim et educit eas
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.4,John 10:4,3,et cum proprias oves emiserit ante eas vadit et oves illum sequuntur quia sciunt vocem eius
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.5,John 10:5,4,alienum autem non sequuntur sed fugient ab eo quia non noverunt vocem alienorum
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.6,John 10:6,5,hoc proverbium dixit eis Iesus illi autem non cognoverunt quid loqueretur eis
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.7,John 10:7,6,dixit ergo eis iterum Iesus amen amen dico vobis quia ego sum ostium ovium
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.8,John 10:8,7,omnes quotquot venerunt fures sunt et latrones sed non audierunt eos oves
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.9,John 10:9,8,ego sum ostium per me si quis introierit salvabitur et ingredietur et egredietur et pascua inveniet
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.10,John 10:10,9,fur non venit nisi ut furetur et mactet et perdat ego veni ut vitam habeant et abundantius habeant
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.11,John 10:11,10,ego sum pastor bonus bonus pastor animam suam dat pro ovibus
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.12,John 10:12,11,mercennarius et qui non est pastor cuius non sunt oves propriae videt lupum venientem et dimittit oves et fugit et lupus rapit et dispergit oves
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.13,John 10:13,12,mercennarius autem fugit quia mercennarius est et non pertinet ad eum de ovibus
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.14,John 10:14,13,ego sum pastor bonus et cognosco meas et cognoscunt me meae
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.15,John 10:15,14,sicut novit me Pater et ego agnosco Patrem et animam meam pono pro ovibus
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.16,John 10:16,15,et alias oves habeo quae non sunt ex hoc ovili et illas oportet me adducere et vocem meam audient et fiet unum ovile unus pastor
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.17,John 10:17,16,propterea me Pater diligit quia ego pono animam meam ut iterum sumam eam
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.18,John 10:18,17,nemo tollit eam a me sed ego pono eam a me ipso potestatem habeo ponendi eam et potestatem habeo iterum sumendi eam hoc mandatum accepi a Patre meo
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.19,John 10:19,18,dissensio iterum facta est inter Iudaeos propter sermones hos
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.20,John 10:20,19,dicebant autem multi ex ipsis daemonium habet et insanit quid eum auditis
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.21,John 10:21,20,alii dicebant haec verba non sunt daemonium habentis numquid daemonium potest caecorum oculos aperire
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.22,John 10:22,21,facta sunt autem encenia in Hierosolymis et hiemps erat
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.23,John 10:23,22,et ambulabat Iesus in templo in porticu Salomonis
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.24,John 10:24,23,circumdederunt ergo eum Iudaei et dicebant ei quousque animam nostram tollis si tu es Christus dic nobis palam
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.25,John 10:25,24,respondit eis Iesus loquor vobis et non creditis opera quae ego facio in nomine Patris mei haec testimonium perhibent de me
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.26,John 10:26,25,sed vos non creditis quia non estis ex ovibus meis
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.27,John 10:27,26,oves meae vocem meam audiunt et ego cognosco eas et sequuntur me
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.28,John 10:28,27,et ego vitam aeternam do eis et non peribunt in aeternum et non rapiet eas quisquam de manu mea
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.29,John 10:29,28,Pater meus quod dedit mihi maius omnibus est et nemo potest rapere de manu Patris mei
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.30,John 10:30,29,ego et Pater unum sumus
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.31,John 10:31,30,sustulerunt lapides Iudaei ut lapidarent eum
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.32,John 10:32,31,respondit eis Iesus multa opera bona ostendi vobis ex Patre meo propter quod eorum opus me lapidatis
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.33,John 10:33,32,responderunt ei Iudaei de bono opere non lapidamus te sed de blasphemia et quia tu homo cum sis facis te ipsum Deum
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.34,John 10:34,33,respondit eis Iesus nonne scriptum est in lege vestra quia ego dixi dii estis
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.35,John 10:35,34,si illos dixit deos ad quos sermo Dei factus est et non potest solvi scriptura
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.36,John 10:36,35,quem Pater sanctificavit et misit in mundum vos dicitis quia blasphemas quia dixi Filius Dei sum
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.37,John 10:37,36,si non facio opera Patris mei nolite credere mihi
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.38,John 10:38,37,si autem facio et si mihi non vultis credere operibus credite ut cognoscatis et credatis quia in me est Pater et ego in Patre
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.39,John 10:39,38,quaerebant ergo eum prendere et exivit de manibus eorum
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.40,John 10:40,39,et abiit iterum trans Iordanen in eum locum ubi erat Iohannes baptizans primum et mansit illic
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.41,John 10:41,40,et multi venerunt ad eum et dicebant quia Iohannes quidem signum fecit nullum
+la,VULGATA,John,John,42,John.10,John 10,9,John.10.42,John 10:42,41,omnia autem quaecumque dixit Iohannes de hoc vera erant et multi crediderunt in eum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.1,John 11:1,0,erat autem quidam languens Lazarus a Bethania de castello Mariae et Marthae sororis eius
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.2,John 11:2,1,Maria autem erat quae unxit Dominum unguento et extersit pedes eius capillis suis cuius frater Lazarus infirmabatur
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.3,John 11:3,2,miserunt ergo sorores ad eum dicentes Domine ecce quem amas infirmatur
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.4,John 11:4,3,audiens autem Iesus dixit eis infirmitas haec non est ad mortem sed pro gloria Dei ut glorificetur Filius Dei per eam
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.5,John 11:5,4,diligebat autem Iesus Martham et sororem eius Mariam et Lazarum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.6,John 11:6,5,ut ergo audivit quia infirmabatur tunc quidem mansit in eodem loco duobus diebus
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.7,John 11:7,6,deinde post haec dicit discipulis suis eamus in Iudaeam iterum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.8,John 11:8,7,dicunt ei discipuli rabbi nunc quaerebant te Iudaei lapidare et iterum vadis illuc
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.9,John 11:9,8,respondit Iesus nonne duodecim horae sunt diei si quis ambulaverit in die non offendit quia lucem huius mundi videt
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.10,John 11:10,9,si autem ambulaverit nocte offendit quia lux non est in eo
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.11,John 11:11,10,haec ait et post hoc dicit eis Lazarus amicus noster dormit sed vado ut a somno exsuscitem eum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.12,John 11:12,11,dixerunt ergo discipuli eius Domine si dormit salvus erit
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.13,John 11:13,12,dixerat autem Iesus de morte eius illi autem putaverunt quia de dormitione somni diceret
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.14,John 11:14,13,tunc ergo dixit eis Iesus manifeste Lazarus mortuus est
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.15,John 11:15,14,et gaudeo propter vos ut credatis quoniam non eram ibi sed eamus ad eum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.16,John 11:16,15,dixit ergo Thomas qui dicitur Didymus ad condiscipulos eamus et nos ut moriamur cum eo
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.17,John 11:17,16,venit itaque Iesus et invenit eum quattuor dies iam in monumento habentem
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.18,John 11:18,17,erat autem Bethania iuxta Hierosolyma quasi stadiis quindecim
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.19,John 11:19,18,multi autem ex Iudaeis venerant ad Martham et Mariam ut consolarentur eas de fratre suo
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.20,John 11:20,19,Martha ergo ut audivit quia Iesus venit occurrit illi Maria autem domi sedebat
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.21,John 11:21,20,dixit ergo Martha ad Iesum Domine si fuisses hic frater meus non fuisset mortuus
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.22,John 11:22,21,sed et nunc scio quia quaecumque poposceris a Deo dabit tibi Deus
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.23,John 11:23,22,dicit illi Iesus resurget frater tuus
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.24,John 11:24,23,dicit ei Martha scio quia resurget in resurrectione in novissima die
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.25,John 11:25,24,dixit ei Iesus ego sum resurrectio et vita qui credit in me et si mortuus fuerit vivet
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.26,John 11:26,25,et omnis qui vivit et credit in me non morietur in aeternum credis hoc
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.27,John 11:27,26,ait illi utique Domine ego credidi quia tu es Christus Filius Dei qui in mundum venisti
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.28,John 11:28,27,et cum haec dixisset abiit et vocavit Mariam sororem suam silentio dicens magister adest et vocat te
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.29,John 11:29,28,illa ut audivit surgit cito et venit ad eum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.30,John 11:30,29,nondum enim venerat Iesus in castellum sed erat adhuc in illo loco ubi occurrerat ei Martha
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.31,John 11:31,30,Iudaei igitur qui erant cum ea in domo et consolabantur eam cum vidissent Mariam quia cito surrexit et exiit secuti sunt eam dicentes quia vadit ad monumentum ut ploret ibi
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.32,John 11:32,31,Maria ergo cum venisset ubi erat Iesus videns eum cecidit ad pedes eius et dixit ei Domine si fuisses hic non esset mortuus frater meus
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.33,John 11:33,32,Iesus ergo ut vidit eam plorantem et Iudaeos qui venerant cum ea plorantes fremuit spiritu et turbavit se ipsum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.34,John 11:34,33,et dixit ubi posuistis eum dicunt ei Domine veni et vide
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.35,John 11:35,34,et lacrimatus est Iesus
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.36,John 11:36,35,dixerunt ergo Iudaei ecce quomodo amabat eum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.37,John 11:37,36,quidam autem dixerunt ex ipsis non poterat hic qui aperuit oculos caeci facere ut et hic non moreretur
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.38,John 11:38,37,Iesus ergo rursum fremens in semet ipso venit ad monumentum erat autem spelunca et lapis superpositus erat ei
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.39,John 11:39,38,ait Iesus tollite lapidem dicit ei Martha soror eius qui mortuus fuerat Domine iam fetet quadriduanus enim est
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.40,John 11:40,39,dicit ei Iesus nonne dixi tibi quoniam si credideris videbis gloriam Dei
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.41,John 11:41,40,tulerunt ergo lapidem Iesus autem elevatis sursum oculis dixit Pater gratias ago tibi quoniam audisti me
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.42,John 11:42,41,ego autem sciebam quia semper me audis sed propter populum qui circumstat dixi ut credant quia tu me misisti
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.43,John 11:43,42,haec cum dixisset voce magna clamavit Lazare veni foras
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.44,John 11:44,43,et statim prodiit qui fuerat mortuus ligatus pedes et manus institis et facies illius sudario erat ligata dicit Iesus eis solvite eum et sinite abire
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.45,John 11:45,44,multi ergo ex Iudaeis qui venerant ad Mariam et viderant quae fecit crediderunt in eum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.46,John 11:46,45,quidam autem ex ipsis abierunt ad Pharisaeos et dixerunt eis quae fecit Iesus
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.47,John 11:47,46,collegerunt ergo pontifices et Pharisaei concilium et dicebant quid facimus quia hic homo multa signa facit
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.48,John 11:48,47,si dimittimus eum sic omnes credent in eum et venient Romani et tollent nostrum et locum et gentem
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.49,John 11:49,48,unus autem ex ipsis Caiaphas cum esset pontifex anni illius dixit eis vos nescitis quicquam
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.50,John 11:50,49,nec cogitatis quia expedit nobis ut unus moriatur homo pro populo et non tota gens pereat
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.51,John 11:51,50,hoc autem a semet ipso non dixit sed cum esset pontifex anni illius prophetavit quia Iesus moriturus erat pro gente
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.52,John 11:52,51,et non tantum pro gente sed et ut filios Dei qui erant dispersi congregaret in unum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.53,John 11:53,52,ab illo ergo die cogitaverunt ut interficerent eum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.54,John 11:54,53,Iesus ergo iam non in palam ambulabat apud Iudaeos sed abiit in regionem iuxta desertum in civitatem quae dicitur Efrem et ibi morabatur cum discipulis
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.55,John 11:55,54,proximum autem erat pascha Iudaeorum et ascenderunt multi Hierosolyma de regione ante pascha ut sanctificarent se ipsos
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.56,John 11:56,55,quaerebant ergo Iesum et conloquebantur ad invicem in templo stantes quid putatis quia non veniat ad diem festum
+la,VULGATA,John,John,42,John.11,John 11,10,John.11.57,John 11:57,56,dederant autem pontifices et Pharisaei mandatum ut si quis cognoverit ubi sit indicet ut adprehendant eum
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.1,John 12:1,0,Iesus ergo ante sex dies paschae venit Bethaniam ubi fuerat Lazarus mortuus quem suscitavit Iesus
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.2,John 12:2,1,fecerunt autem ei cenam ibi et Martha ministrabat Lazarus vero unus erat ex discumbentibus cum eo
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.3,John 12:3,2,Maria ergo accepit libram unguenti nardi pistici pretiosi unxit pedes Iesu et extersit capillis suis pedes eius et domus impleta est ex odore unguenti
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.4,John 12:4,3,dicit ergo unus ex discipulis eius Iudas Scariotis qui erat eum traditurus
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.5,John 12:5,4,quare hoc unguentum non veniit trecentis denariis et datum est egenis
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.6,John 12:6,5,dixit autem hoc non quia de egenis pertinebat ad eum sed quia fur erat et loculos habens ea quae mittebantur portabat
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.7,John 12:7,6,dixit ergo Iesus sine illam ut in die sepulturae meae servet illud
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.8,John 12:8,7,pauperes enim semper habetis vobiscum me autem non semper habetis
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.9,John 12:9,8,cognovit ergo turba multa ex Iudaeis quia illic est et venerunt non propter Iesum tantum sed ut Lazarum viderent quem suscitavit a mortuis
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.10,John 12:10,9,cogitaverunt autem principes sacerdotum ut et Lazarum interficerent
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.11,John 12:11,10,quia multi propter illum abibant ex Iudaeis et credebant in Iesum
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.12,John 12:12,11,in crastinum autem turba multa quae venerat ad diem festum cum audissent quia venit Iesus Hierosolyma
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.13,John 12:13,12,acceperunt ramos palmarum et processerunt obviam ei et clamabant osanna benedictus qui venit in nomine Domini rex Israhel
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.14,John 12:14,13,et invenit Iesus asellum et sedit super eum sicut scriptum est
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.15,John 12:15,14,noli timere filia Sion ecce rex tuus venit sedens super pullum asinae
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.16,John 12:16,15,haec non cognoverunt discipuli eius primum sed quando glorificatus est Iesus tunc recordati sunt quia haec erant scripta de eo et haec fecerunt ei
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.17,John 12:17,16,testimonium ergo perhibebat turba quae erat cum eo quando Lazarum vocavit de monumento et suscitavit eum a mortuis
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.18,John 12:18,17,propterea et obviam venit ei turba quia audierunt eum fecisse hoc signum
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.19,John 12:19,18,Pharisaei ergo dixerunt ad semet ipsos videtis quia nihil proficimus ecce mundus totus post eum abiit
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.20,John 12:20,19,erant autem gentiles quidam ex his qui ascenderant ut adorarent in die festo
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.21,John 12:21,20,hii ergo accesserunt ad Philippum qui erat a Bethsaida Galilaeae et rogabant eum dicentes domine volumus Iesum videre
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.22,John 12:22,21,venit Philippus et dicit Andreae Andreas rursum et Philippus dixerunt Iesu
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.23,John 12:23,22,Iesus autem respondit eis dicens venit hora ut clarificetur Filius hominis
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.24,John 12:24,23,amen amen dico vobis nisi granum frumenti cadens in terram mortuum fuerit
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.25,John 12:25,24,ipsum solum manet si autem mortuum fuerit multum fructum adfert qui amat animam suam perdet eam et qui odit animam suam in hoc mundo in vitam aeternam custodit eam
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.26,John 12:26,25,si quis mihi ministrat me sequatur et ubi sum ego illic et minister meus erit si quis mihi ministraverit honorificabit eum Pater meus
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.27,John 12:27,26,nunc anima mea turbata est et quid dicam Pater salvifica me ex hora hac sed propterea veni in horam hanc
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.28,John 12:28,27,Pater clarifica tuum nomen venit ergo vox de caelo et clarificavi et iterum clarificabo
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.29,John 12:29,28,turba ergo quae stabat et audierat dicebant tonitruum factum esse alii dicebant angelus ei locutus est
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.30,John 12:30,29,respondit Iesus et dixit non propter me vox haec venit sed propter vos
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.31,John 12:31,30,nunc iudicium est mundi nunc princeps huius mundi eicietur foras
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.32,John 12:32,31,et ego si exaltatus fuero a terra omnia traham ad me ipsum
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.33,John 12:33,32,hoc autem dicebat significans qua morte esset moriturus
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.34,John 12:34,33,respondit ei turba nos audivimus ex lege quia Christus manet in aeternum et quomodo tu dicis oportet exaltari Filium hominis quis est iste Filius hominis
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.35,John 12:35,34,dixit ergo eis Iesus adhuc modicum lumen in vobis est ambulate dum lucem habetis ut non tenebrae vos conprehendant et qui ambulat in tenebris nescit quo vadat
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.36,John 12:36,35,dum lucem habetis credite in lucem ut filii lucis sitis haec locutus est Iesus et abiit et abscondit se ab eis
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.37,John 12:37,36,cum autem tanta signa fecisset coram eis non credebant in eum
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.38,John 12:38,37,ut sermo Esaiae prophetae impleretur quem dixit Domine quis credidit auditui nostro et brachium Domini cui revelatum est
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.39,John 12:39,38,propterea non poterant credere quia iterum dixit Esaias
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.40,John 12:40,39,excaecavit oculos eorum et induravit eorum cor ut non videant oculis et intellegant corde et convertantur et sanem eos
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.41,John 12:41,40,haec dixit Esaias quando vidit gloriam eius et locutus est de eo
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.42,John 12:42,41,verumtamen et ex principibus multi crediderunt in eum sed propter Pharisaeos non confitebantur ut de synagoga non eicerentur
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.43,John 12:43,42,dilexerunt enim gloriam hominum magis quam gloriam Dei
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.44,John 12:44,43,Iesus autem clamavit et dixit qui credit in me non credit in me sed in eum qui misit me
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.45,John 12:45,44,et qui videt me videt eum qui misit me
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.46,John 12:46,45,ego lux in mundum veni ut omnis qui credit in me in tenebris non maneat
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.47,John 12:47,46,et si quis audierit verba mea et non custodierit ego non iudico eum non enim veni ut iudicem mundum sed ut salvificem mundum
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.48,John 12:48,47,qui spernit me et non accipit verba mea habet qui iudicet eum sermo quem locutus sum ille iudicabit eum in novissimo die
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.49,John 12:49,48,quia ego ex me ipso non sum locutus sed qui misit me Pater ipse mihi mandatum dedit quid dicam et quid loquar
+la,VULGATA,John,John,42,John.12,John 12,11,John.12.50,John 12:50,49,et scio quia mandatum eius vita aeterna est quae ergo ego loquor sicut dixit mihi Pater sic loquor
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.1,John 13:1,0,ante diem autem festum paschae sciens Iesus quia venit eius hora ut transeat ex hoc mundo ad Patrem cum dilexisset suos qui erant in mundo in finem dilexit eos
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.2,John 13:2,1,et cena facta cum diabolus iam misisset in corde ut traderet eum Iudas Simonis Scariotis
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.3,John 13:3,2,sciens quia omnia dedit ei Pater in manus et quia a Deo exivit et ad Deum vadit
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.4,John 13:4,3,surgit a cena et ponit vestimenta sua et cum accepisset linteum praecinxit se
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.5,John 13:5,4,deinde mittit aquam in pelvem et coepit lavare pedes discipulorum et extergere linteo quo erat praecinctus
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.6,John 13:6,5,venit ergo ad Simonem Petrum et dicit ei Petrus Domine tu mihi lavas pedes
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.7,John 13:7,6,respondit Iesus et dicit ei quod ego facio tu nescis modo scies autem postea
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.8,John 13:8,7,dicit ei Petrus non lavabis mihi pedes in aeternum respondit Iesus ei si non lavero te non habes partem mecum
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.9,John 13:9,8,dicit ei Simon Petrus Domine non tantum pedes meos sed et manus et caput
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.10,John 13:10,9,dicit ei Iesus qui lotus est non indiget ut lavet sed est mundus totus et vos mundi estis sed non omnes
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.11,John 13:11,10,sciebat enim quisnam esset qui traderet eum propterea dixit non estis mundi omnes
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.12,John 13:12,11,postquam ergo lavit pedes eorum et accepit vestimenta sua cum recubuisset iterum dixit eis scitis quid fecerim vobis
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.13,John 13:13,12,vos vocatis me magister et Domine et bene dicitis sum etenim
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.14,John 13:14,13,si ergo ego lavi vestros pedes Dominus et magister et vos debetis alter alterius lavare pedes
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.15,John 13:15,14,exemplum enim dedi vobis ut quemadmodum ego feci vobis ita et vos faciatis
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.16,John 13:16,15,amen amen dico vobis non est servus maior domino suo neque apostolus maior eo qui misit illum
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.17,John 13:17,16,si haec scitis beati eritis si feceritis ea
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.18,John 13:18,17,non de omnibus vobis dico ego scio quos elegerim sed ut impleatur scriptura qui manducat mecum panem levavit contra me calcaneum suum
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.19,John 13:19,18,amodo dico vobis priusquam fiat ut credatis cum factum fuerit quia ego sum
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.20,John 13:20,19,amen amen dico vobis qui accipit si quem misero me accipit qui autem me accipit accipit eum qui me misit
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.21,John 13:21,20,cum haec dixisset Iesus turbatus est spiritu et protestatus est et dixit amen amen dico vobis quia unus ex vobis tradet me
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.22,John 13:22,21,aspiciebant ergo ad invicem discipuli haesitantes de quo diceret
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.23,John 13:23,22,erat ergo recumbens unus ex discipulis eius in sinu Iesu quem diligebat Iesus
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.24,John 13:24,23,innuit ergo huic Simon Petrus et dicit ei quis est de quo dicit
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.25,John 13:25,24,itaque cum recubuisset ille supra pectus Iesu dicit ei Domine quis est
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.26,John 13:26,25,respondit Iesus ille est cui ego intinctum panem porrexero et cum intinxisset panem dedit Iudae Simonis Scariotis
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.27,John 13:27,26,et post buccellam tunc introivit in illum Satanas dicit ei Iesus quod facis fac citius
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.28,John 13:28,27,hoc autem nemo scivit discumbentium ad quid dixerit ei
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.29,John 13:29,28,quidam enim putabant quia loculos habebat Iudas quia dicit ei Iesus eme ea quae opus sunt nobis ad diem festum aut egenis ut aliquid daret
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.30,John 13:30,29,cum ergo accepisset ille buccellam exivit continuo erat autem nox
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.31,John 13:31,30,cum ergo exisset dicit Iesus nunc clarificatus est Filius hominis et Deus clarificatus est in eo
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.32,John 13:32,31,si Deus clarificatus est in eo et Deus clarificabit eum in semet ipso et continuo clarificabit eum
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.33,John 13:33,32,filioli adhuc modicum vobiscum sum quaeretis me et sicut dixi Iudaeis quo ego vado vos non potestis venire et vobis dico modo
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.34,John 13:34,33,mandatum novum do vobis ut diligatis invicem sicut dilexi vos ut et vos diligatis invicem
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.35,John 13:35,34,in hoc cognoscent omnes quia mei discipuli estis si dilectionem habueritis ad invicem
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.36,John 13:36,35,dicit ei Simon Petrus Domine quo vadis respondit Iesus quo ego vado non potes me modo sequi sequeris autem postea
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.37,John 13:37,36,dicit ei Petrus quare non possum sequi te modo animam meam pro te ponam
+la,VULGATA,John,John,42,John.13,John 13,12,John.13.38,John 13:38,37,respondit Iesus animam tuam pro me ponis amen amen dico tibi non cantabit gallus donec me ter neges
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.1,John 14:1,0,non turbetur cor vestrum creditis in Deum et in me credite
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.2,John 14:2,1,in domo Patris mei mansiones multae sunt si quo minus dixissem vobis quia vado parare vobis locum
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.3,John 14:3,2,et si abiero et praeparavero vobis locum iterum venio et accipiam vos ad me ipsum ut ubi sum ego et vos sitis
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.4,John 14:4,3,et quo ego vado scitis et viam scitis
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.5,John 14:5,4,dicit ei Thomas Domine nescimus quo vadis et quomodo possumus viam scire
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.6,John 14:6,5,dicit ei Iesus ego sum via et veritas et vita nemo venit ad Patrem nisi per me
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.7,John 14:7,6,si cognovissetis me et Patrem meum utique cognovissetis et amodo cognoscitis eum et vidistis eum
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.8,John 14:8,7,dicit ei Philippus Domine ostende nobis Patrem et sufficit nobis
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.9,John 14:9,8,dicit ei Iesus tanto tempore vobiscum sum et non cognovistis me Philippe qui vidit me vidit et Patrem quomodo tu dicis ostende nobis Patrem
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.10,John 14:10,9,non credis quia ego in Patre et Pater in me est verba quae ego loquor vobis a me ipso non loquor Pater autem in me manens ipse facit opera
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.11,John 14:11,10,non creditis quia ego in Patre et Pater in me est
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.12,John 14:12,11,alioquin propter opera ipsa credite amen amen dico vobis qui credit in me opera quae ego facio et ipse faciet et maiora horum faciet quia ego ad Patrem vado
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.13,John 14:13,12,et quodcumque petieritis in nomine meo hoc faciam ut glorificetur Pater in Filio
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.14,John 14:14,13,si quid petieritis me in nomine meo hoc faciam
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.15,John 14:15,14,si diligitis me mandata mea servate
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.16,John 14:16,15,et ego rogabo Patrem et alium paracletum dabit vobis ut maneat vobiscum in aeternum
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.17,John 14:17,16,Spiritum veritatis quem mundus non potest accipere quia non videt eum nec scit eum vos autem cognoscitis eum quia apud vos manebit et in vobis erit
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.18,John 14:18,17,non relinquam vos orfanos veniam ad vos
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.19,John 14:19,18,adhuc modicum et mundus me iam non videt vos autem videtis me quia ego vivo et vos vivetis
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.20,John 14:20,19,in illo die vos cognoscetis quia ego sum in Patre meo et vos in me et ego in vobis
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.21,John 14:21,20,qui habet mandata mea et servat ea ille est qui diligit me qui autem diligit me diligetur a Patre meo et ego diligam eum et manifestabo ei me ipsum
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.22,John 14:22,21,dicit ei Iudas non ille Scariotis Domine quid factum est quia nobis manifestaturus es te ipsum et non mundo
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.23,John 14:23,22,respondit Iesus et dixit ei si quis diligit me sermonem meum servabit et Pater meus diliget eum et ad eum veniemus et mansiones apud eum faciemus
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.24,John 14:24,23,qui non diligit me sermones meos non servat et sermonem quem audistis non est meus sed eius qui misit me Patris
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.25,John 14:25,24,haec locutus sum vobis apud vos manens
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.26,John 14:26,25,paracletus autem Spiritus Sanctus quem mittet Pater in nomine meo ille vos docebit omnia et suggeret vobis omnia quaecumque dixero vobis
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.27,John 14:27,26,pacem relinquo vobis pacem meam do vobis non quomodo mundus dat ego do vobis non turbetur cor vestrum neque formidet
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.28,John 14:28,27,audistis quia ego dixi vobis vado et venio ad vos si diligeretis me gauderetis utique quia vado ad Patrem quia Pater maior me est
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.29,John 14:29,28,et nunc dixi vobis priusquam fiat ut cum factum fuerit credatis
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.30,John 14:30,29,iam non multa loquar vobiscum venit enim princeps mundi huius et in me non habet quicquam
+la,VULGATA,John,John,42,John.14,John 14,13,John.14.31,John 14:31,30,sed ut cognoscat mundus quia diligo Patrem et sicut mandatum dedit mihi Pater sic facio surgite eamus hinc
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.1,John 15:1,0,ego sum vitis vera et Pater meus agricola est
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.2,John 15:2,1,omnem palmitem in me non ferentem fructum tollet eum et omnem qui fert fructum purgabit eum ut fructum plus adferat
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.3,John 15:3,2,iam vos mundi estis propter sermonem quem locutus sum vobis
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.4,John 15:4,3,manete in me et ego in vobis sicut palmes non potest ferre fructum a semet ipso nisi manserit in vite sic nec vos nisi in me manseritis
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.5,John 15:5,4,ego sum vitis vos palmites qui manet in me et ego in eo hic fert fructum multum quia sine me nihil potestis facere
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.6,John 15:6,5,si quis in me non manserit mittetur foras sicut palmes et aruit et colligent eos et in ignem mittunt et ardent
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.7,John 15:7,6,si manseritis in me et verba mea in vobis manserint quodcumque volueritis petetis et fiet vobis
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.8,John 15:8,7,in hoc clarificatus est Pater meus ut fructum plurimum adferatis et efficiamini mei discipuli
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.9,John 15:9,8,sicut dilexit me Pater et ego dilexi vos manete in dilectione mea
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.10,John 15:10,9,si praecepta mea servaveritis manebitis in dilectione mea sicut et ego Patris mei praecepta servavi et maneo in eius dilectione
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.11,John 15:11,10,haec locutus sum vobis ut gaudium meum in vobis sit et gaudium vestrum impleatur
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.12,John 15:12,11,hoc est praeceptum meum ut diligatis invicem sicut dilexi vos
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.13,John 15:13,12,maiorem hac dilectionem nemo habet ut animam suam quis ponat pro amicis suis
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.14,John 15:14,13,vos amici mei estis si feceritis quae ego praecipio vobis
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.15,John 15:15,14,iam non dico vos servos quia servus nescit quid facit dominus eius vos autem dixi amicos quia omnia quaecumque audivi a Patre meo nota feci vobis
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.16,John 15:16,15,non vos me elegistis sed ego elegi vos et posui vos ut eatis et fructum adferatis et fructus vester maneat ut quodcumque petieritis Patrem in nomine meo det vobis
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.17,John 15:17,16,haec mando vobis ut diligatis invicem
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.18,John 15:18,17,si mundus vos odit scitote quia me priorem vobis odio habuit
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.19,John 15:19,18,si de mundo fuissetis mundus quod suum erat diligeret quia vero de mundo non estis sed ego elegi vos de mundo propterea odit vos mundus
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.20,John 15:20,19,mementote sermonis mei quem ego dixi vobis non est servus maior domino suo si me persecuti sunt et vos persequentur si sermonem meum servaverunt et vestrum servabunt
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.21,John 15:21,20,sed haec omnia facient vobis propter nomen meum quia nesciunt eum qui misit me
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.22,John 15:22,21,si non venissem et locutus fuissem eis peccatum non haberent nunc autem excusationem non habent de peccato suo
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.23,John 15:23,22,qui me odit et Patrem meum odit
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.24,John 15:24,23,si opera non fecissem in eis quae nemo alius fecit peccatum non haberent nunc autem et viderunt et oderunt et me et Patrem meum
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.25,John 15:25,24,sed ut impleatur sermo qui in lege eorum scriptus est quia odio me habuerunt gratis
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.26,John 15:26,25,cum autem venerit paracletus quem ego mittam vobis a Patre Spiritum veritatis qui a Patre procedit ille testimonium perhibebit de me
+la,VULGATA,John,John,42,John.15,John 15,14,John.15.27,John 15:27,26,et vos testimonium perhibetis quia ab initio mecum estis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.1,John 16:1,0,haec locutus sum vobis ut non scandalizemini
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.2,John 16:2,1,absque synagogis facient vos sed venit hora ut omnis qui interficit vos arbitretur obsequium se praestare Deo
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.3,John 16:3,2,et haec facient quia non noverunt Patrem neque me
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.4,John 16:4,3,sed haec locutus sum vobis ut cum venerit hora eorum reminiscamini quia ego dixi vobis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.5,John 16:5,4,haec autem vobis ab initio non dixi quia vobiscum eram at nunc vado ad eum qui me misit et nemo ex vobis interrogat me quo vadis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.6,John 16:6,5,sed quia haec locutus sum vobis tristitia implevit cor vestrum
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.7,John 16:7,6,sed ego veritatem dico vobis expedit vobis ut ego vadam si enim non abiero paracletus non veniet ad vos si autem abiero mittam eum ad vos
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.8,John 16:8,7,et cum venerit ille arguet mundum de peccato et de iustitia et de iudicio
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.9,John 16:9,8,de peccato quidem quia non credunt in me
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.10,John 16:10,9,de iustitia vero quia ad Patrem vado et iam non videbitis me
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.11,John 16:11,10,de iudicio autem quia princeps mundi huius iudicatus est
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.12,John 16:12,11,adhuc multa habeo vobis dicere sed non potestis portare modo
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.13,John 16:13,12,cum autem venerit ille Spiritus veritatis docebit vos in omnem veritatem non enim loquetur a semet ipso sed quaecumque audiet loquetur et quae ventura sunt adnuntiabit vobis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.14,John 16:14,13,ille me clarificabit quia de meo accipiet et adnuntiabit vobis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.15,John 16:15,14,omnia quaecumque habet Pater mea sunt propterea dixi quia de meo accipit et adnuntiabit vobis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.16,John 16:16,15,modicum et iam non videbitis me et iterum modicum et videbitis me quia vado ad Patrem
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.17,John 16:17,16,dixerunt ergo ex discipulis eius ad invicem quid est hoc quod dicit nobis modicum et non videbitis me et iterum modicum et videbitis me et quia vado ad Patrem
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.18,John 16:18,17,dicebant ergo quid est hoc quod dicit modicum nescimus quid loquitur
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.19,John 16:19,18,cognovit autem Iesus quia volebant eum interrogare et dixit eis de hoc quaeritis inter vos quia dixi modicum et non videbitis me et iterum modicum et videbitis me
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.20,John 16:20,19,amen amen dico vobis quia plorabitis et flebitis vos mundus autem gaudebit vos autem contristabimini sed tristitia vestra vertetur in gaudium
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.21,John 16:21,20,mulier cum parit tristitiam habet quia venit hora eius cum autem pepererit puerum iam non meminit pressurae propter gaudium quia natus est homo in mundum
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.22,John 16:22,21,et vos igitur nunc quidem tristitiam habetis iterum autem videbo vos et gaudebit cor vestrum et gaudium vestrum nemo tollit a vobis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.23,John 16:23,22,et in illo die me non rogabitis quicquam amen amen dico vobis si quid petieritis Patrem in nomine meo dabit vobis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.24,John 16:24,23,usque modo non petistis quicquam in nomine meo petite et accipietis ut gaudium vestrum sit plenum
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.25,John 16:25,24,haec in proverbiis locutus sum vobis venit hora cum iam non in proverbiis loquar vobis sed palam de Patre adnuntiabo vobis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.26,John 16:26,25,illo die in nomine meo petetis et non dico vobis quia ego rogabo Patrem de vobis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.27,John 16:27,26,ipse enim Pater amat vos quia vos me amastis et credidistis quia ego a Deo exivi
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.28,John 16:28,27,exivi a Patre et veni in mundum iterum relinquo mundum et vado ad Patrem
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.29,John 16:29,28,dicunt ei discipuli eius ecce nunc palam loqueris et proverbium nullum dicis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.30,John 16:30,29,nunc scimus quia scis omnia et non opus est tibi ut quis te interroget in hoc credimus quia a Deo existi
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.31,John 16:31,30,respondit eis Iesus modo creditis
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.32,John 16:32,31,ecce venit hora et iam venit ut dispergamini unusquisque in propria et me solum relinquatis et non sum solus quia Pater mecum est
+la,VULGATA,John,John,42,John.16,John 16,15,John.16.33,John 16:33,32,haec locutus sum vobis ut in me pacem habeatis in mundo pressuram habetis sed confidite ego vici mundum
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.1,John 17:1,0,haec locutus est Iesus et sublevatis oculis in caelum dixit Pater venit hora clarifica Filium tuum ut Filius tuus clarificet te
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.2,John 17:2,1,sicut dedisti ei potestatem omnis carnis ut omne quod dedisti ei det eis vitam aeternam
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.3,John 17:3,2,haec est autem vita aeterna ut cognoscant te solum verum Deum et quem misisti Iesum Christum
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.4,John 17:4,3,ego te clarificavi super terram opus consummavi quod dedisti mihi ut faciam
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.5,John 17:5,4,et nunc clarifica me tu Pater apud temet ipsum claritatem quam habui priusquam mundus esset apud te
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.6,John 17:6,5,manifestavi nomen tuum hominibus quos dedisti mihi de mundo tui erant et mihi eos dedisti et sermonem tuum servaverunt
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.7,John 17:7,6,nunc cognoverunt quia omnia quae dedisti mihi abs te sunt
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.8,John 17:8,7,quia verba quae dedisti mihi dedi eis et ipsi acceperunt et cognoverunt vere quia a te exivi et crediderunt quia tu me misisti
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.9,John 17:9,8,ego pro eis rogo non pro mundo rogo sed pro his quos dedisti mihi quia tui sunt
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.10,John 17:10,9,et mea omnia tua sunt et tua mea sunt et clarificatus sum in eis
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.11,John 17:11,10,et iam non sum in mundo et hii in mundo sunt et ego ad te venio Pater sancte serva eos in nomine tuo quos dedisti mihi ut sint unum sicut et nos
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.12,John 17:12,11,cum essem cum eis ego servabam eos in nomine tuo quos dedisti mihi custodivi et nemo ex his perivit nisi filius perditionis ut scriptura impleatur
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.13,John 17:13,12,nunc autem ad te venio et haec loquor in mundo ut habeant gaudium meum impletum in semet ipsis
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.14,John 17:14,13,ego dedi eis sermonem tuum et mundus odio eos habuit quia non sunt de mundo sicut et ego non sum de mundo
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.15,John 17:15,14,non rogo ut tollas eos de mundo sed ut serves eos ex malo
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.16,John 17:16,15,de mundo non sunt sicut et ego non sum de mundo
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.17,John 17:17,16,sanctifica eos in veritate sermo tuus veritas est
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.18,John 17:18,17,sicut me misisti in mundum et ego misi eos in mundum
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.19,John 17:19,18,et pro eis ego sanctifico me ipsum ut sint et ipsi sanctificati in veritate
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.20,John 17:20,19,non pro his autem rogo tantum sed et pro eis qui credituri sunt per verbum eorum in me
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.21,John 17:21,20,ut omnes unum sint sicut tu Pater in me et ego in te ut et ipsi in nobis unum sint ut mundus credat quia tu me misisti
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.22,John 17:22,21,et ego claritatem quam dedisti mihi dedi eis ut sint unum sicut nos unum sumus
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.23,John 17:23,22,ego in eis et tu in me ut sint consummati in unum et cognoscat mundus quia tu me misisti et dilexisti eos sicut me dilexisti
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.24,John 17:24,23,Pater quos dedisti mihi volo ut ubi ego sum et illi sint mecum ut videant claritatem meam quam dedisti mihi quia dilexisti me ante constitutionem mundi
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.25,John 17:25,24,Pater iuste et mundus te non cognovit ego autem te cognovi et hii cognoverunt quia tu me misisti
+la,VULGATA,John,John,42,John.17,John 17,16,John.17.26,John 17:26,25,et notum feci eis nomen tuum et notum faciam ut dilectio qua dilexisti me in ipsis sit et ego in ipsis
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.1,John 18:1,0,haec cum dixisset Iesus egressus est cum discipulis suis trans torrentem Cedron ubi erat hortus in quem introivit ipse et discipuli eius
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.2,John 18:2,1,sciebat autem et Iudas qui tradebat eum ipsum locum quia frequenter Iesus convenerat illuc cum discipulis suis
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.3,John 18:3,2,Iudas ergo cum accepisset cohortem et a pontificibus et Pharisaeis ministros venit illuc cum lanternis et facibus et armis
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.4,John 18:4,3,Iesus itaque sciens omnia quae ventura erant super eum processit et dicit eis quem quaeritis
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.5,John 18:5,4,responderunt ei Iesum Nazarenum dicit eis Iesus ego sum stabat autem et Iudas qui tradebat eum cum ipsis
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.6,John 18:6,5,ut ergo dixit eis ego sum abierunt retrorsum et ceciderunt in terram
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.7,John 18:7,6,iterum ergo eos interrogavit quem quaeritis illi autem dixerunt Iesum Nazarenum
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.8,John 18:8,7,respondit Iesus dixi vobis quia ego sum si ergo me quaeritis sinite hos abire
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.9,John 18:9,8,ut impleretur sermo quem dixit quia quos dedisti mihi non perdidi ex ipsis quemquam
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.10,John 18:10,9,Simon ergo Petrus habens gladium eduxit eum et percussit pontificis servum et abscidit eius auriculam dextram erat autem nomen servo Malchus
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.11,John 18:11,10,dixit ergo Iesus Petro mitte gladium in vaginam calicem quem dedit mihi Pater non bibam illum
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.12,John 18:12,11,cohors ergo et tribunus et ministri Iudaeorum conprehenderunt Iesum et ligaverunt eum
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.13,John 18:13,12,et adduxerunt eum ad Annam primum erat enim socer Caiaphae qui erat pontifex anni illius
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.14,John 18:14,13,erat autem Caiaphas qui consilium dederat Iudaeis quia expedit unum hominem mori pro populo
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.15,John 18:15,14,sequebatur autem Iesum Simon Petrus et alius discipulus discipulus autem ille erat notus pontifici et introivit cum Iesu in atrium pontificis
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.16,John 18:16,15,Petrus autem stabat ad ostium foris exivit ergo discipulus alius qui erat notus pontifici et dixit ostiariae et introduxit Petrum
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.17,John 18:17,16,dicit ergo Petro ancilla ostiaria numquid et tu ex discipulis es hominis istius dicit ille non sum
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.18,John 18:18,17,stabant autem servi et ministri ad prunas quia frigus erat et calefiebant erat autem cum eis et Petrus stans et calefaciens se
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.19,John 18:19,18,pontifex ergo interrogavit Iesum de discipulis suis et de doctrina eius
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.20,John 18:20,19,respondit ei Iesus ego palam locutus sum mundo ego semper docui in synagoga et in templo quo omnes Iudaei conveniunt et in occulto locutus sum nihil
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.21,John 18:21,20,quid me interrogas interroga eos qui audierunt quid locutus sum ipsis ecce hii sciunt quae dixerim ego
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.22,John 18:22,21,haec autem cum dixisset unus adsistens ministrorum dedit alapam Iesu dicens sic respondes pontifici
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.23,John 18:23,22,respondit ei Iesus si male locutus sum testimonium perhibe de malo si autem bene quid me caedis
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.24,John 18:24,23,et misit eum Annas ligatum ad Caiaphan pontificem
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.25,John 18:25,24,erat autem Simon Petrus stans et calefaciens se dixerunt ergo ei numquid et tu ex discipulis eius es negavit ille et dixit non sum
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.26,John 18:26,25,dicit unus ex servis pontificis cognatus eius cuius abscidit Petrus auriculam nonne ego te vidi in horto cum illo
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.27,John 18:27,26,iterum ergo negavit Petrus et statim gallus cantavit
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.28,John 18:28,27,adducunt ergo Iesum a Caiapha in praetorium erat autem mane et ipsi non introierunt in praetorium ut non contaminarentur sed manducarent pascha
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.29,John 18:29,28,exivit ergo Pilatus ad eos foras et dixit quam accusationem adfertis adversus hominem hunc
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.30,John 18:30,29,responderunt et dixerunt ei si non esset hic malefactor non tibi tradidissemus eum
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.31,John 18:31,30,dixit ergo eis Pilatus accipite eum vos et secundum legem vestram iudicate eum dixerunt ergo ei Iudaei nobis non licet interficere quemquam
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.32,John 18:32,31,ut sermo Iesu impleretur quem dixit significans qua esset morte moriturus
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.33,John 18:33,32,introivit ergo iterum in praetorium Pilatus et vocavit Iesum et dixit ei tu es rex Iudaeorum
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.34,John 18:34,33,et respondit Iesus a temet ipso hoc dicis an alii tibi dixerunt de me
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.35,John 18:35,34,respondit Pilatus numquid ego Iudaeus sum gens tua et pontifices tradiderunt te mihi quid fecisti
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.36,John 18:36,35,respondit Iesus regnum meum non est de mundo hoc si ex hoc mundo esset regnum meum ministri mei decertarent ut non traderer Iudaeis nunc autem meum regnum non est hinc
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.37,John 18:37,36,dixit itaque ei Pilatus ergo rex es tu respondit Iesus tu dicis quia rex sum ego ego in hoc natus sum et ad hoc veni in mundum ut testimonium perhibeam veritati omnis qui est ex veritate audit meam vocem
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.38,John 18:38,37,dicit ei Pilatus quid est veritas et cum hoc dixisset iterum exivit ad Iudaeos et dicit eis ego nullam invenio in eo causam
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.39,John 18:39,38,est autem consuetudo vobis ut unum dimittam vobis in pascha vultis ergo dimittam vobis regem Iudaeorum
+la,VULGATA,John,John,42,John.18,John 18,17,John.18.40,John 18:40,39,clamaverunt rursum omnes dicentes non hunc sed Barabban erat autem Barabbas latro
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.1,John 19:1,0,tunc ergo adprehendit Pilatus Iesum et flagellavit
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.2,John 19:2,1,et milites plectentes coronam de spinis inposuerunt capiti eius et veste purpurea circumdederunt eum
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.3,John 19:3,2,et veniebant ad eum et dicebant have rex Iudaeorum et dabant ei alapas
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.4,John 19:4,3,exiit iterum Pilatus foras et dicit eis ecce adduco vobis eum foras
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.5,John 19:5,4,ut cognoscatis quia in eo nullam causam invenio et purpureum vestimentum et dicit eis ecce homo
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.6,John 19:6,5,cum ergo vidissent eum pontifices et ministri clamabant dicentes crucifige crucifige dicit eis Pilatus accipite eum vos et crucifigite ego enim non invenio in eo causam
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.7,John 19:7,6,responderunt ei Iudaei nos legem habemus et secundum legem debet mori quia Filium Dei se fecit
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.8,John 19:8,7,cum ergo audisset Pilatus hunc sermonem magis timuit
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.9,John 19:9,8,et ingressus est praetorium iterum et dicit ad Iesum unde es tu Iesus autem responsum non dedit ei
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.10,John 19:10,9,dicit ergo ei Pilatus mihi non loqueris nescis quia potestatem habeo crucifigere te et potestatem habeo dimittere te
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.11,John 19:11,10,respondit Iesus non haberes potestatem adversum me ullam nisi tibi esset datum desuper propterea qui tradidit me tibi maius peccatum habet
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.12,John 19:12,11,exinde quaerebat Pilatus dimittere eum Iudaei autem clamabant dicentes si hunc dimittis non es amicus Caesaris omnis qui se regem facit contradicit Caesari
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.13,John 19:13,12,Pilatus ergo cum audisset hos sermones adduxit foras Iesum et sedit pro tribunali in locum qui dicitur Lithostrotus hebraice autem Gabbatha
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.14,John 19:14,13,erat autem parasceve paschae hora quasi sexta et dicit Iudaeis ecce rex vester
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.15,John 19:15,14,illi autem clamabant tolle tolle crucifige eum dixit eis Pilatus regem vestrum crucifigam responderunt pontifices non habemus regem nisi Caesarem
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.16,John 19:16,15,tunc ergo tradidit eis illum ut crucifigeretur susceperunt autem Iesum et eduxerunt
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.17,John 19:17,16,et baiulans sibi crucem exivit in eum qui dicitur Calvariae locum hebraice Golgotha
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.18,John 19:18,17,ubi eum crucifixerunt et cum eo alios duos hinc et hinc medium autem Iesum
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.19,John 19:19,18,scripsit autem et titulum Pilatus et posuit super crucem erat autem scriptum Iesus Nazarenus rex Iudaeorum
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.20,John 19:20,19,hunc ergo titulum multi legerunt Iudaeorum quia prope civitatem erat locus ubi crucifixus est Iesus et erat scriptum hebraice graece et latine
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.21,John 19:21,20,dicebant ergo Pilato pontifices Iudaeorum noli scribere rex Iudaeorum sed quia ipse dixit rex sum Iudaeorum
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.22,John 19:22,21,respondit Pilatus quod scripsi scripsi
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.23,John 19:23,22,milites ergo cum crucifixissent eum acceperunt vestimenta eius et fecerunt quattuor partes unicuique militi partem et tunicam erat autem tunica inconsutilis desuper contexta per totum
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.24,John 19:24,23,dixerunt ergo ad invicem non scindamus eam sed sortiamur de illa cuius sit ut scriptura impleatur dicens partiti sunt vestimenta mea sibi et in vestem meam miserunt sortem et milites quidem haec fecerunt
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.25,John 19:25,24,stabant autem iuxta crucem Iesu mater eius et soror matris eius Maria Cleopae et Maria Magdalene
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.26,John 19:26,25,cum vidisset ergo Iesus matrem et discipulum stantem quem diligebat dicit matri suae mulier ecce filius tuus
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.27,John 19:27,26,deinde dicit discipulo ecce mater tua et ex illa hora accepit eam discipulus in sua
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.28,John 19:28,27,postea sciens Iesus quia iam omnia consummata sunt ut consummaretur scriptura dicit sitio
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.29,John 19:29,28,vas ergo positum erat aceto plenum illi autem spongiam plenam aceto hysopo circumponentes obtulerunt ori eius
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.30,John 19:30,29,cum ergo accepisset Iesus acetum dixit consummatum est et inclinato capite tradidit spiritum
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.31,John 19:31,30,Iudaei ergo quoniam parasceve erat ut non remanerent in cruce corpora sabbato erat enim magnus dies ille sabbati rogaverunt Pilatum ut frangerentur eorum crura et tollerentur
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.32,John 19:32,31,venerunt ergo milites et primi quidem fregerunt crura et alterius qui crucifixus est cum eo
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.33,John 19:33,32,ad Iesum autem cum venissent ut viderunt eum iam mortuum non fregerunt eius crura
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.34,John 19:34,33,sed unus militum lancea latus eius aperuit et continuo exivit sanguis et aqua
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.35,John 19:35,34,et qui vidit testimonium perhibuit et verum est eius testimonium et ille scit quia vera dicit ut et vos credatis
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.36,John 19:36,35,facta sunt enim haec ut scriptura impleatur os non comminuetis ex eo
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.37,John 19:37,36,et iterum alia scriptura dicit videbunt in quem transfixerunt
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.38,John 19:38,37,post haec autem rogavit Pilatum Ioseph ab Arimathia eo quod esset discipulus Iesu occultus autem propter metum Iudaeorum ut tolleret corpus Iesu et permisit Pilatus venit ergo et tulit corpus Iesu
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.39,John 19:39,38,venit autem et Nicodemus qui venerat ad Iesum nocte primum ferens mixturam murrae et aloes quasi libras centum
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.40,John 19:40,39,acceperunt ergo corpus Iesu et ligaverunt eum linteis cum aromatibus sicut mos Iudaeis est sepelire
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.41,John 19:41,40,erat autem in loco ubi crucifixus est hortus et in horto monumentum novum in quo nondum quisquam positus erat
+la,VULGATA,John,John,42,John.19,John 19,18,John.19.42,John 19:42,41,ibi ergo propter parasceven Iudaeorum quia iuxta erat monumentum posuerunt Iesum
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.1,John 20:1,0,una autem sabbati Maria Magdalene venit mane cum adhuc tenebrae essent ad monumentum et videt lapidem sublatum a monumento
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.2,John 20:2,1,cucurrit ergo et venit ad Simonem Petrum et ad alium discipulum quem amabat Iesus et dicit eis tulerunt Dominum de monumento et nescimus ubi posuerunt eum
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.3,John 20:3,2,exiit ergo Petrus et ille alius discipulus et venerunt ad monumentum
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.4,John 20:4,3,currebant autem duo simul et ille alius discipulus praecucurrit citius Petro et venit primus ad monumentum
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.5,John 20:5,4,et cum se inclinasset videt posita linteamina non tamen introivit
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.6,John 20:6,5,venit ergo Simon Petrus sequens eum et introivit in monumentum et videt linteamina posita
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.7,John 20:7,6,et sudarium quod fuerat super caput eius non cum linteaminibus positum sed separatim involutum in unum locum
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.8,John 20:8,7,tunc ergo introivit et ille discipulus qui venerat primus ad monumentum et vidit et credidit
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.9,John 20:9,8,nondum enim sciebant scripturam quia oportet eum a mortuis resurgere
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.10,John 20:10,9,abierunt ergo iterum ad semet ipsos discipuli
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.11,John 20:11,10,Maria autem stabat ad monumentum foris plorans dum ergo fleret inclinavit se et prospexit in monumentum
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.12,John 20:12,11,et vidit duos angelos in albis sedentes unum ad caput et unum ad pedes ubi positum fuerat corpus Iesu
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.13,John 20:13,12,dicunt ei illi mulier quid ploras dicit eis quia tulerunt Dominum meum et nescio ubi posuerunt eum
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.14,John 20:14,13,haec cum dixisset conversa est retrorsum et videt Iesum stantem et non sciebat quia Iesus est
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.15,John 20:15,14,dicit ei Iesus mulier quid ploras quem quaeris illa existimans quia hortulanus esset dicit ei domine si tu sustulisti eum dicito mihi ubi posuisti eum et ego eum tollam
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.16,John 20:16,15,dicit ei Iesus Maria conversa illa dicit ei rabboni quod dicitur magister
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.17,John 20:17,16,dicit ei Iesus noli me tangere nondum enim ascendi ad Patrem meum vade autem ad fratres meos et dic eis ascendo ad Patrem meum et Patrem vestrum et Deum meum et Deum vestrum
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.18,John 20:18,17,venit Maria Magdalene adnuntians discipulis quia vidi Dominum et haec dixit mihi
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.19,John 20:19,18,cum esset ergo sero die illo una sabbatorum et fores essent clausae ubi erant discipuli propter metum Iudaeorum venit Iesus et stetit in medio et dicit eis pax vobis
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.20,John 20:20,19,et hoc cum dixisset ostendit eis manus et latus gavisi sunt ergo discipuli viso Domino
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.21,John 20:21,20,dixit ergo eis iterum pax vobis sicut misit me Pater et ego mitto vos
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.22,John 20:22,21,hoc cum dixisset insuflavit et dicit eis accipite Spiritum Sanctum
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.23,John 20:23,22,quorum remiseritis peccata remittuntur eis quorum retinueritis detenta sunt
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.24,John 20:24,23,Thomas autem unus ex duodecim qui dicitur Didymus non erat cum eis quando venit Iesus
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.25,John 20:25,24,dixerunt ergo ei alii discipuli vidimus Dominum ille autem dixit eis nisi videro in manibus eius figuram clavorum et mittam digitum meum in locum clavorum et mittam manum meam in latus eius non credam
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.26,John 20:26,25,et post dies octo iterum erant discipuli eius intus et Thomas cum eis venit Iesus ianuis clausis et stetit in medio et dixit pax vobis
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.27,John 20:27,26,deinde dicit Thomae infer digitum tuum huc et vide manus meas et adfer manum tuam et mitte in latus meum et noli esse incredulus sed fidelis
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.28,John 20:28,27,respondit Thomas et dixit ei Dominus meus et Deus meus
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.29,John 20:29,28,dicit ei Iesus quia vidisti me credidisti beati qui non viderunt et crediderunt
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.30,John 20:30,29,multa quidem et alia signa fecit Iesus in conspectu discipulorum suorum quae non sunt scripta in libro hoc
+la,VULGATA,John,John,42,John.20,John 20,19,John.20.31,John 20:31,30,haec autem scripta sunt ut credatis quia Iesus est Christus Filius Dei et ut credentes vitam habeatis in nomine eius
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.1,John 21:1,0,postea manifestavit se iterum Iesus ad mare Tiberiadis manifestavit autem sic
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.2,John 21:2,1,erant simul Simon Petrus et Thomas qui dicitur Didymus et Nathanahel qui erat a Cana Galilaeae et filii Zebedaei et alii ex discipulis eius duo
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.3,John 21:3,2,dicit eis Simon Petrus vado piscari dicunt ei venimus et nos tecum et exierunt et ascenderunt in navem et illa nocte nihil prendiderunt
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.4,John 21:4,3,mane autem iam facto stetit Iesus in litore non tamen cognoverunt discipuli quia Iesus est
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.5,John 21:5,4,dicit ergo eis Iesus pueri numquid pulmentarium habetis responderunt ei non
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.6,John 21:6,5,dixit eis mittite in dexteram navigii rete et invenietis miserunt ergo et iam non valebant illud trahere a multitudine piscium
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.7,John 21:7,6,dicit ergo discipulus ille quem diligebat Iesus Petro Dominus est Simon Petrus cum audisset quia Dominus est tunicam succinxit se erat enim nudus et misit se in mare
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.8,John 21:8,7,alii autem discipuli navigio venerunt non enim longe erant a terra sed quasi a cubitis ducentis trahentes rete piscium
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.9,John 21:9,8,ut ergo descenderunt in terram viderunt prunas positas et piscem superpositum et panem
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.10,John 21:10,9,dicit eis Iesus adferte de piscibus quos prendidistis nunc
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.11,John 21:11,10,ascendit Simon Petrus et traxit rete in terram plenum magnis piscibus centum quinquaginta tribus et cum tanti essent non est scissum rete
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.12,John 21:12,11,dicit eis Iesus venite prandete et nemo audebat discentium interrogare eum tu quis es scientes quia Dominus esset
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.13,John 21:13,12,et venit Iesus et accepit panem et dat eis et piscem similiter
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.14,John 21:14,13,hoc iam tertio manifestatus est Iesus discipulis cum surrexisset a mortuis
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.15,John 21:15,14,cum ergo prandissent dicit Simoni Petro Iesus Simon Iohannis diligis me plus his dicit ei etiam Domine tu scis quia amo te dicit ei pasce agnos meos
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.16,John 21:16,15,dicit ei iterum Simon Iohannis diligis me ait illi etiam Domine tu scis quia amo te dicit ei pasce agnos meos
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.17,John 21:17,16,dicit ei tertio Simon Iohannis amas me contristatus est Petrus quia dixit ei tertio amas me et dicit ei Domine tu omnia scis tu scis quia amo te dicit ei pasce oves meas
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.18,John 21:18,17,amen amen dico tibi cum esses iunior cingebas te et ambulabas ubi volebas cum autem senueris extendes manus tuas et alius te cinget et ducet quo non vis
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.19,John 21:19,18,hoc autem dixit significans qua morte clarificaturus esset Deum et hoc cum dixisset dicit ei sequere me
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.20,John 21:20,19,conversus Petrus vidit illum discipulum quem diligebat Iesus sequentem qui et recubuit in cena super pectus eius et dixit Domine quis est qui tradit te
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.21,John 21:21,20,hunc ergo cum vidisset Petrus dicit Iesu Domine hic autem quid
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.22,John 21:22,21,dicit ei Iesus si sic eum volo manere donec veniam quid ad te tu me sequere
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.23,John 21:23,22,exivit ergo sermo iste in fratres quia discipulus ille non moritur et non dixit ei Iesus non moritur sed si sic eum volo manere donec venio quid ad te
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.24,John 21:24,23,hic est discipulus qui testimonium perhibet de his et scripsit haec et scimus quia verum est testimonium eius
+la,VULGATA,John,John,42,John.21,John 21,20,John.21.25,John 21:25,24,sunt autem et alia multa quae fecit Iesus quae si scribantur per singula nec ipsum arbitror mundum capere eos qui scribendi sunt libros amen

@@ -1,0 +1,769 @@
+chapters:
+- name: Epistula Iacobi 1
+  orderIndex: 0
+  osisId: Jas.1
+  sblId: Jas 1
+  shortName: Iac 1
+  verses:
+  - name: Epistula Iacobi 1:1
+    orderIndex: 0
+    osisId: Jas.1.1
+    sblId: Jas 1:1
+    shortName: Iac 1:1
+    text: Iacobus Dei et Domini nostri Iesu Christi servus duodecim tribubus quae
+      sunt in dispersione salutem
+  - name: Epistula Iacobi 1:2
+    orderIndex: 1
+    osisId: Jas.1.2
+    sblId: Jas 1:2
+    shortName: Iac 1:2
+    text: omne gaudium existimate fratres mei cum in temptationibus variis incideritis
+  - name: Epistula Iacobi 1:3
+    orderIndex: 2
+    osisId: Jas.1.3
+    sblId: Jas 1:3
+    shortName: Iac 1:3
+    text: scientes quod probatio fidei vestrae patientiam operatur
+  - name: Epistula Iacobi 1:4
+    orderIndex: 3
+    osisId: Jas.1.4
+    sblId: Jas 1:4
+    shortName: Iac 1:4
+    text: patientia autem opus perfectum habeat ut sitis perfecti et integri in nullo
+      deficientes
+  - name: Epistula Iacobi 1:5
+    orderIndex: 4
+    osisId: Jas.1.5
+    sblId: Jas 1:5
+    shortName: Iac 1:5
+    text: si quis autem vestrum indiget sapientiam postulet a Deo qui dat omnibus
+      affluenter et non inproperat et dabitur ei
+  - name: Epistula Iacobi 1:6
+    orderIndex: 5
+    osisId: Jas.1.6
+    sblId: Jas 1:6
+    shortName: Iac 1:6
+    text: postulet autem in fide nihil haesitans qui enim haesitat similis est fluctui
+      maris qui a vento movetur et circumfertur
+  - name: Epistula Iacobi 1:7
+    orderIndex: 6
+    osisId: Jas.1.7
+    sblId: Jas 1:7
+    shortName: Iac 1:7
+    text: non ergo aestimet homo ille quod accipiat aliquid a Domino
+  - name: Epistula Iacobi 1:8
+    orderIndex: 7
+    osisId: Jas.1.8
+    sblId: Jas 1:8
+    shortName: Iac 1:8
+    text: vir duplex animo inconstans in omnibus viis suis
+  - name: Epistula Iacobi 1:9
+    orderIndex: 8
+    osisId: Jas.1.9
+    sblId: Jas 1:9
+    shortName: Iac 1:9
+    text: glorietur autem frater humilis in exaltatione sua
+  - name: Epistula Iacobi 1:10
+    orderIndex: 9
+    osisId: Jas.1.10
+    sblId: Jas 1:10
+    shortName: Iac 1:10
+    text: dives autem in humilitate sua quoniam sicut flos faeni transibit
+  - name: Epistula Iacobi 1:11
+    orderIndex: 10
+    osisId: Jas.1.11
+    sblId: Jas 1:11
+    shortName: Iac 1:11
+    text: exortus est enim sol cum ardore et arefecit faenum et flos eius decidit
+      et decor vultus eius deperiit ita et dives in itineribus suis marcescet
+  - name: Epistula Iacobi 1:12
+    orderIndex: 11
+    osisId: Jas.1.12
+    sblId: Jas 1:12
+    shortName: Iac 1:12
+    text: beatus vir qui suffert temptationem quia cum probatus fuerit accipiet coronam
+      vitae quam repromisit Deus diligentibus se
+  - name: Epistula Iacobi 1:13
+    orderIndex: 12
+    osisId: Jas.1.13
+    sblId: Jas 1:13
+    shortName: Iac 1:13
+    text: nemo cum temptatur dicat quoniam a Deo temptor Deus enim intemptator malorum
+      est ipse autem neminem temptat
+  - name: Epistula Iacobi 1:14
+    orderIndex: 13
+    osisId: Jas.1.14
+    sblId: Jas 1:14
+    shortName: Iac 1:14
+    text: unusquisque vero temptatur a concupiscentia sua abstractus et inlectus
+  - name: Epistula Iacobi 1:15
+    orderIndex: 14
+    osisId: Jas.1.15
+    sblId: Jas 1:15
+    shortName: Iac 1:15
+    text: dein concupiscentia cum conceperit parit peccatum peccatum vero cum consummatum
+      fuerit generat mortem
+  - name: Epistula Iacobi 1:16
+    orderIndex: 15
+    osisId: Jas.1.16
+    sblId: Jas 1:16
+    shortName: Iac 1:16
+    text: nolite itaque errare fratres mei dilectissimi
+  - name: Epistula Iacobi 1:17
+    orderIndex: 16
+    osisId: Jas.1.17
+    sblId: Jas 1:17
+    shortName: Iac 1:17
+    text: omne datum optimum et omne donum perfectum desursum est descendens a Patre
+      luminum apud quem non est transmutatio nec vicissitudinis obumbratio
+  - name: Epistula Iacobi 1:18
+    orderIndex: 17
+    osisId: Jas.1.18
+    sblId: Jas 1:18
+    shortName: Iac 1:18
+    text: voluntarie genuit nos verbo veritatis ut simus initium aliquod creaturae
+      eius
+  - name: Epistula Iacobi 1:19
+    orderIndex: 18
+    osisId: Jas.1.19
+    sblId: Jas 1:19
+    shortName: Iac 1:19
+    text: scitis fratres mei dilecti sit autem omnis homo velox ad audiendum tardus
+      autem ad loquendum et tardus ad iram
+  - name: Epistula Iacobi 1:20
+    orderIndex: 19
+    osisId: Jas.1.20
+    sblId: Jas 1:20
+    shortName: Iac 1:20
+    text: ira enim viri iustitiam Dei non operatur
+  - name: Epistula Iacobi 1:21
+    orderIndex: 20
+    osisId: Jas.1.21
+    sblId: Jas 1:21
+    shortName: Iac 1:21
+    text: propter quod abicientes omnem inmunditiam et abundantiam malitiae in mansuetudine
+      suscipite insitum verbum quod potest salvare animas vestras
+  - name: Epistula Iacobi 1:22
+    orderIndex: 21
+    osisId: Jas.1.22
+    sblId: Jas 1:22
+    shortName: Iac 1:22
+    text: estote autem factores verbi et non auditores tantum fallentes vosmet ipsos
+  - name: Epistula Iacobi 1:23
+    orderIndex: 22
+    osisId: Jas.1.23
+    sblId: Jas 1:23
+    shortName: Iac 1:23
+    text: quia si quis auditor est verbi et non factor hic conparabitur viro consideranti
+      vultum nativitatis suae in speculo
+  - name: Epistula Iacobi 1:24
+    orderIndex: 23
+    osisId: Jas.1.24
+    sblId: Jas 1:24
+    shortName: Iac 1:24
+    text: consideravit enim se et abiit et statim oblitus est qualis fuerit
+  - name: Epistula Iacobi 1:25
+    orderIndex: 24
+    osisId: Jas.1.25
+    sblId: Jas 1:25
+    shortName: Iac 1:25
+    text: qui autem perspexerit in lege perfecta libertatis et permanserit non auditor
+      obliviosus factus sed factor operis hic beatus in facto suo erit
+  - name: Epistula Iacobi 1:26
+    orderIndex: 25
+    osisId: Jas.1.26
+    sblId: Jas 1:26
+    shortName: Iac 1:26
+    text: si quis autem putat se religiosum esse non refrenans linguam suam sed seducens
+      cor suum huius vana est religio
+  - name: Epistula Iacobi 1:27
+    orderIndex: 26
+    osisId: Jas.1.27
+    sblId: Jas 1:27
+    shortName: Iac 1:27
+    text: religio munda et inmaculata apud Deum et Patrem haec est visitare pupillos
+      et viduas in tribulatione eorum inmaculatum se custodire ab hoc saeculo
+  versesCount: 27
+- name: Epistula Iacobi 2
+  orderIndex: 1
+  osisId: Jas.2
+  sblId: Jas 2
+  shortName: Iac 2
+  verses:
+  - name: Epistula Iacobi 2:1
+    orderIndex: 0
+    osisId: Jas.2.1
+    sblId: Jas 2:1
+    shortName: Iac 2:1
+    text: fratres mei nolite in personarum acceptione habere fidem Domini nostri Iesu
+      Christi gloriae
+  - name: Epistula Iacobi 2:2
+    orderIndex: 1
+    osisId: Jas.2.2
+    sblId: Jas 2:2
+    shortName: Iac 2:2
+    text: etenim si introierit in conventu vestro vir aureum anulum habens in veste
+      candida introierit autem et pauper in sordido habitu
+  - name: Epistula Iacobi 2:3
+    orderIndex: 2
+    osisId: Jas.2.3
+    sblId: Jas 2:3
+    shortName: Iac 2:3
+    text: et intendatis in eum qui indutus est veste praeclara et dixeritis tu sede
+      hic bene pauperi autem dicatis tu sta illic aut sede sub scabillo pedum meorum
+  - name: Epistula Iacobi 2:4
+    orderIndex: 3
+    osisId: Jas.2.4
+    sblId: Jas 2:4
+    shortName: Iac 2:4
+    text: nonne iudicatis apud vosmet ipsos et facti estis iudices cogitationum iniquarum
+  - name: Epistula Iacobi 2:5
+    orderIndex: 4
+    osisId: Jas.2.5
+    sblId: Jas 2:5
+    shortName: Iac 2:5
+    text: audite fratres mei dilectissimi nonne Deus elegit pauperes in hoc mundo
+      divites in fide et heredes regni quod repromisit Deus diligentibus se
+  - name: Epistula Iacobi 2:6
+    orderIndex: 5
+    osisId: Jas.2.6
+    sblId: Jas 2:6
+    shortName: Iac 2:6
+    text: vos autem exhonorastis pauperem nonne divites per potentiam opprimunt vos
+      et ipsi trahunt vos ad iudicia
+  - name: Epistula Iacobi 2:7
+    orderIndex: 6
+    osisId: Jas.2.7
+    sblId: Jas 2:7
+    shortName: Iac 2:7
+    text: nonne ipsi blasphemant bonum nomen quod invocatum est super vos
+  - name: Epistula Iacobi 2:8
+    orderIndex: 7
+    osisId: Jas.2.8
+    sblId: Jas 2:8
+    shortName: Iac 2:8
+    text: si tamen legem perficitis regalem secundum scripturas diliges proximum tuum
+      sicut te ipsum bene facitis
+  - name: Epistula Iacobi 2:9
+    orderIndex: 8
+    osisId: Jas.2.9
+    sblId: Jas 2:9
+    shortName: Iac 2:9
+    text: si autem personas accipitis peccatum operamini redarguti a lege quasi transgressores
+  - name: Epistula Iacobi 2:10
+    orderIndex: 9
+    osisId: Jas.2.10
+    sblId: Jas 2:10
+    shortName: Iac 2:10
+    text: quicumque autem totam legem servaverit offendat autem in uno factus est
+      omnium reus
+  - name: Epistula Iacobi 2:11
+    orderIndex: 10
+    osisId: Jas.2.11
+    sblId: Jas 2:11
+    shortName: Iac 2:11
+    text: qui enim dixit non moechaberis dixit et non occides quod si non moechaberis
+      occides autem factus es transgressor legis
+  - name: Epistula Iacobi 2:12
+    orderIndex: 11
+    osisId: Jas.2.12
+    sblId: Jas 2:12
+    shortName: Iac 2:12
+    text: sic loquimini et sic facite sicut per legem libertatis incipientes iudicari
+  - name: Epistula Iacobi 2:13
+    orderIndex: 12
+    osisId: Jas.2.13
+    sblId: Jas 2:13
+    shortName: Iac 2:13
+    text: iudicium enim sine misericordia illi qui non fecit misericordiam superexultat
+      autem misericordia iudicio
+  - name: Epistula Iacobi 2:14
+    orderIndex: 13
+    osisId: Jas.2.14
+    sblId: Jas 2:14
+    shortName: Iac 2:14
+    text: quid proderit fratres mei si fidem quis dicat se habere opera autem non
+      habeat numquid poterit fides salvare eum
+  - name: Epistula Iacobi 2:15
+    orderIndex: 14
+    osisId: Jas.2.15
+    sblId: Jas 2:15
+    shortName: Iac 2:15
+    text: si autem frater aut soror nudi sunt et indigent victu cotidiano
+  - name: Epistula Iacobi 2:16
+    orderIndex: 15
+    osisId: Jas.2.16
+    sblId: Jas 2:16
+    shortName: Iac 2:16
+    text: dicat autem aliquis de vobis illis ite in pace calefacimini et saturamini
+      non dederitis autem eis quae necessaria sunt corporis quid proderit
+  - name: Epistula Iacobi 2:17
+    orderIndex: 16
+    osisId: Jas.2.17
+    sblId: Jas 2:17
+    shortName: Iac 2:17
+    text: sic et fides si non habeat opera mortua est in semet ipsam
+  - name: Epistula Iacobi 2:18
+    orderIndex: 17
+    osisId: Jas.2.18
+    sblId: Jas 2:18
+    shortName: Iac 2:18
+    text: sed dicet quis tu fidem habes et ego opera habeo ostende mihi fidem tuam
+      sine operibus et ego ostendam tibi ex operibus fidem meam
+  - name: Epistula Iacobi 2:19
+    orderIndex: 18
+    osisId: Jas.2.19
+    sblId: Jas 2:19
+    shortName: Iac 2:19
+    text: tu credis quoniam unus est Deus bene facis et daemones credunt et contremescunt
+  - name: Epistula Iacobi 2:20
+    orderIndex: 19
+    osisId: Jas.2.20
+    sblId: Jas 2:20
+    shortName: Iac 2:20
+    text: vis autem scire o homo inanis quoniam fides sine operibus otiosa est
+  - name: Epistula Iacobi 2:21
+    orderIndex: 20
+    osisId: Jas.2.21
+    sblId: Jas 2:21
+    shortName: Iac 2:21
+    text: Abraham pater noster nonne ex operibus iustificatus est offerens Isaac filium
+      suum super altare
+  - name: Epistula Iacobi 2:22
+    orderIndex: 21
+    osisId: Jas.2.22
+    sblId: Jas 2:22
+    shortName: Iac 2:22
+    text: vides quoniam fides cooperabatur operibus illius et ex operibus fides consummata
+      est
+  - name: Epistula Iacobi 2:23
+    orderIndex: 22
+    osisId: Jas.2.23
+    sblId: Jas 2:23
+    shortName: Iac 2:23
+    text: et suppleta est scriptura dicens credidit Abraham Deo et reputatum est illi
+      ad iustitiam et amicus Dei appellatus est
+  - name: Epistula Iacobi 2:24
+    orderIndex: 23
+    osisId: Jas.2.24
+    sblId: Jas 2:24
+    shortName: Iac 2:24
+    text: videtis quoniam ex operibus iustificatur homo et non ex fide tantum
+  - name: Epistula Iacobi 2:25
+    orderIndex: 24
+    osisId: Jas.2.25
+    sblId: Jas 2:25
+    shortName: Iac 2:25
+    text: similiter autem et Raab meretrix nonne ex operibus iustificata est suscipiens
+      nuntios et alia via eiciens
+  - name: Epistula Iacobi 2:26
+    orderIndex: 25
+    osisId: Jas.2.26
+    sblId: Jas 2:26
+    shortName: Iac 2:26
+    text: sicut enim corpus sine spiritu emortuum est ita et fides sine operibus mortua
+      est
+  versesCount: 26
+- name: Epistula Iacobi 3
+  orderIndex: 2
+  osisId: Jas.3
+  sblId: Jas 3
+  shortName: Iac 3
+  verses:
+  - name: Epistula Iacobi 3:1
+    orderIndex: 0
+    osisId: Jas.3.1
+    sblId: Jas 3:1
+    shortName: Iac 3:1
+    text: nolite plures magistri fieri fratres mei scientes quoniam maius iudicium
+      sumitis
+  - name: Epistula Iacobi 3:2
+    orderIndex: 1
+    osisId: Jas.3.2
+    sblId: Jas 3:2
+    shortName: Iac 3:2
+    text: in multis enim offendimus omnes si quis in verbo non offendit hic perfectus
+      est vir potens etiam freno circumducere totum corpus
+  - name: Epistula Iacobi 3:3
+    orderIndex: 2
+    osisId: Jas.3.3
+    sblId: Jas 3:3
+    shortName: Iac 3:3
+    text: si autem equorum frenos in ora mittimus ad consentiendum nobis et omne corpus
+      illorum circumferimus
+  - name: Epistula Iacobi 3:4
+    orderIndex: 3
+    osisId: Jas.3.4
+    sblId: Jas 3:4
+    shortName: Iac 3:4
+    text: ecce et naves cum magnae sint et a ventis validis minentur circumferuntur
+      a modico gubernaculo ubi impetus dirigentis voluerit
+  - name: Epistula Iacobi 3:5
+    orderIndex: 4
+    osisId: Jas.3.5
+    sblId: Jas 3:5
+    shortName: Iac 3:5
+    text: ita et lingua modicum quidem membrum est et magna exultat ecce quantus ignis
+      quam magnam silvam incendit
+  - name: Epistula Iacobi 3:6
+    orderIndex: 5
+    osisId: Jas.3.6
+    sblId: Jas 3:6
+    shortName: Iac 3:6
+    text: et lingua ignis est universitas iniquitatis lingua constituitur in membris
+      nostris quae maculat totum corpus et inflammat rotam nativitatis nostrae inflammata
+      a gehenna
+  - name: Epistula Iacobi 3:7
+    orderIndex: 6
+    osisId: Jas.3.7
+    sblId: Jas 3:7
+    shortName: Iac 3:7
+    text: omnis enim natura bestiarum et volucrum et serpentium etiam ceterorum domantur
+      et domita sunt a natura humana
+  - name: Epistula Iacobi 3:8
+    orderIndex: 7
+    osisId: Jas.3.8
+    sblId: Jas 3:8
+    shortName: Iac 3:8
+    text: linguam autem nullus hominum domare potest inquietum malum plena veneno
+      mortifero
+  - name: Epistula Iacobi 3:9
+    orderIndex: 8
+    osisId: Jas.3.9
+    sblId: Jas 3:9
+    shortName: Iac 3:9
+    text: in ipsa benedicimus Dominum et Patrem et in ipsa maledicimus homines qui
+      ad similitudinem Dei facti sunt
+  - name: Epistula Iacobi 3:10
+    orderIndex: 9
+    osisId: Jas.3.10
+    sblId: Jas 3:10
+    shortName: Iac 3:10
+    text: ex ipso ore procedit benedictio et maledictio non oportet fratres mei haec
+      ita fieri
+  - name: Epistula Iacobi 3:11
+    orderIndex: 10
+    osisId: Jas.3.11
+    sblId: Jas 3:11
+    shortName: Iac 3:11
+    text: numquid fons de eodem foramine emanat dulcem et amaram aquam
+  - name: Epistula Iacobi 3:12
+    orderIndex: 11
+    osisId: Jas.3.12
+    sblId: Jas 3:12
+    shortName: Iac 3:12
+    text: numquid potest fratres mei ficus olivas facere aut vitis ficus sic neque
+      salsa dulcem potest facere aquam
+  - name: Epistula Iacobi 3:13
+    orderIndex: 12
+    osisId: Jas.3.13
+    sblId: Jas 3:13
+    shortName: Iac 3:13
+    text: quis sapiens et disciplinatus inter vos ostendat ex bona conversatione operationem
+      suam in mansuetudine sapientiae
+  - name: Epistula Iacobi 3:14
+    orderIndex: 13
+    osisId: Jas.3.14
+    sblId: Jas 3:14
+    shortName: Iac 3:14
+    text: quod si zelum amarum habetis et contentiones in cordibus vestris nolite
+      gloriari et mendaces esse adversus veritatem
+  - name: Epistula Iacobi 3:15
+    orderIndex: 14
+    osisId: Jas.3.15
+    sblId: Jas 3:15
+    shortName: Iac 3:15
+    text: non est ista sapientia desursum descendens sed terrena animalis diabolica
+  - name: Epistula Iacobi 3:16
+    orderIndex: 15
+    osisId: Jas.3.16
+    sblId: Jas 3:16
+    shortName: Iac 3:16
+    text: ubi enim zelus et contentio ibi inconstantia et omne opus pravum
+  - name: Epistula Iacobi 3:17
+    orderIndex: 16
+    osisId: Jas.3.17
+    sblId: Jas 3:17
+    shortName: Iac 3:17
+    text: quae autem desursum est sapientia primum quidem pudica est deinde pacifica
+      modesta suadibilis plena misericordia et fructibus bonis non iudicans sine simulatione
+  - name: Epistula Iacobi 3:18
+    orderIndex: 17
+    osisId: Jas.3.18
+    sblId: Jas 3:18
+    shortName: Iac 3:18
+    text: fructus autem iustitiae in pace seminatur facientibus pacem
+  versesCount: 18
+- name: Epistula Iacobi 4
+  orderIndex: 3
+  osisId: Jas.4
+  sblId: Jas 4
+  shortName: Iac 4
+  verses:
+  - name: Epistula Iacobi 4:1
+    orderIndex: 0
+    osisId: Jas.4.1
+    sblId: Jas 4:1
+    shortName: Iac 4:1
+    text: unde bella et lites in vobis nonne hinc ex concupiscentiis vestris quae
+      militant in membris vestris
+  - name: Epistula Iacobi 4:2
+    orderIndex: 1
+    osisId: Jas.4.2
+    sblId: Jas 4:2
+    shortName: Iac 4:2
+    text: concupiscitis et non habetis occiditis et zelatis et non potestis adipisci
+      litigatis et belligeratis non habetis propter quod non postulatis
+  - name: Epistula Iacobi 4:3
+    orderIndex: 2
+    osisId: Jas.4.3
+    sblId: Jas 4:3
+    shortName: Iac 4:3
+    text: petitis et non accipitis eo quod male petatis ut in concupiscentiis vestris
+      insumatis
+  - name: Epistula Iacobi 4:4
+    orderIndex: 3
+    osisId: Jas.4.4
+    sblId: Jas 4:4
+    shortName: Iac 4:4
+    text: adulteri nescitis quia amicitia huius mundi inimica est Dei quicumque ergo
+      voluerit amicus esse saeculi huius inimicus Dei constituitur
+  - name: Epistula Iacobi 4:5
+    orderIndex: 4
+    osisId: Jas.4.5
+    sblId: Jas 4:5
+    shortName: Iac 4:5
+    text: aut putatis quia inaniter scriptura dicat ad invidiam concupiscit Spiritus
+      qui inhabitat in nobis
+  - name: Epistula Iacobi 4:6
+    orderIndex: 5
+    osisId: Jas.4.6
+    sblId: Jas 4:6
+    shortName: Iac 4:6
+    text: maiorem autem dat gratiam propter quod dicit Deus superbis resistit humilibus
+      autem dat gratiam
+  - name: Epistula Iacobi 4:7
+    orderIndex: 6
+    osisId: Jas.4.7
+    sblId: Jas 4:7
+    shortName: Iac 4:7
+    text: subditi igitur estote Deo resistite autem diabolo et fugiet a vobis
+  - name: Epistula Iacobi 4:8
+    orderIndex: 7
+    osisId: Jas.4.8
+    sblId: Jas 4:8
+    shortName: Iac 4:8
+    text: adpropiate Domino et adpropinquabit vobis emundate manus peccatores et purificate
+      corda duplices animo
+  - name: Epistula Iacobi 4:9
+    orderIndex: 8
+    osisId: Jas.4.9
+    sblId: Jas 4:9
+    shortName: Iac 4:9
+    text: miseri estote et lugete et plorate risus vester in luctum convertatur et
+      gaudium in maerorem
+  - name: Epistula Iacobi 4:10
+    orderIndex: 9
+    osisId: Jas.4.10
+    sblId: Jas 4:10
+    shortName: Iac 4:10
+    text: humiliamini in conspectu Domini et exaltabit vos
+  - name: Epistula Iacobi 4:11
+    orderIndex: 10
+    osisId: Jas.4.11
+    sblId: Jas 4:11
+    shortName: Iac 4:11
+    text: nolite detrahere de alterutrum fratres qui detrahit fratri aut qui iudicat
+      fratrem suum detrahit legi et iudicat legem si autem iudicas legem non es factor
+      legis sed iudex
+  - name: Epistula Iacobi 4:12
+    orderIndex: 11
+    osisId: Jas.4.12
+    sblId: Jas 4:12
+    shortName: Iac 4:12
+    text: unus est legislator et iudex qui potest perdere et liberare tu autem quis
+      es qui iudicas proximum
+  - name: Epistula Iacobi 4:13
+    orderIndex: 12
+    osisId: Jas.4.13
+    sblId: Jas 4:13
+    shortName: Iac 4:13
+    text: ecce nunc qui dicitis hodie aut crastino ibimus in illam civitatem et faciemus
+      quidem ibi annum et mercabimur et lucrum faciemus
+  - name: Epistula Iacobi 4:14
+    orderIndex: 13
+    osisId: Jas.4.14
+    sblId: Jas 4:14
+    shortName: Iac 4:14
+    text: qui ignoratis quid erit in crastinum quae enim est vita vestra vapor est
+      ad modicum parens deinceps exterminatur
+  - name: Epistula Iacobi 4:15
+    orderIndex: 14
+    osisId: Jas.4.15
+    sblId: Jas 4:15
+    shortName: Iac 4:15
+    text: pro eo ut dicatis si Dominus voluerit et vixerimus faciemus hoc aut illud
+  - name: Epistula Iacobi 4:16
+    orderIndex: 15
+    osisId: Jas.4.16
+    sblId: Jas 4:16
+    shortName: Iac 4:16
+    text: nunc autem exultatis in superbiis vestris omnis exultatio talis maligna
+      est
+  - name: Epistula Iacobi 4:17
+    orderIndex: 16
+    osisId: Jas.4.17
+    sblId: Jas 4:17
+    shortName: Iac 4:17
+    text: scienti igitur bonum facere et non facienti peccatum est illi
+  versesCount: 17
+- name: Epistula Iacobi 5
+  orderIndex: 4
+  osisId: Jas.5
+  sblId: Jas 5
+  shortName: Iac 5
+  verses:
+  - name: Epistula Iacobi 5:1
+    orderIndex: 0
+    osisId: Jas.5.1
+    sblId: Jas 5:1
+    shortName: Iac 5:1
+    text: age nunc divites plorate ululantes in miseriis quae advenient vobis
+  - name: Epistula Iacobi 5:2
+    orderIndex: 1
+    osisId: Jas.5.2
+    sblId: Jas 5:2
+    shortName: Iac 5:2
+    text: divitiae vestrae putrefactae sunt et vestimenta vestra a tineis comesta
+      sunt
+  - name: Epistula Iacobi 5:3
+    orderIndex: 2
+    osisId: Jas.5.3
+    sblId: Jas 5:3
+    shortName: Iac 5:3
+    text: aurum et argentum vestrum eruginavit et erugo eorum in testimonium vobis
+      erit et manducabit carnes vestras sicut ignis thesaurizastis in novissimis diebus
+  - name: Epistula Iacobi 5:4
+    orderIndex: 3
+    osisId: Jas.5.4
+    sblId: Jas 5:4
+    shortName: Iac 5:4
+    text: ecce merces operariorum qui messuerunt regiones vestras qui fraudatus est
+      a vobis clamat et clamor ipsorum in aures Domini Sabaoth introiit
+  - name: Epistula Iacobi 5:5
+    orderIndex: 4
+    osisId: Jas.5.5
+    sblId: Jas 5:5
+    shortName: Iac 5:5
+    text: epulati estis super terram et in luxuriis enutristis corda vestra in die
+      occisionis
+  - name: Epistula Iacobi 5:6
+    orderIndex: 5
+    osisId: Jas.5.6
+    sblId: Jas 5:6
+    shortName: Iac 5:6
+    text: addixistis occidistis iustum non resistit vobis
+  - name: Epistula Iacobi 5:7
+    orderIndex: 6
+    osisId: Jas.5.7
+    sblId: Jas 5:7
+    shortName: Iac 5:7
+    text: patientes igitur estote fratres usque ad adventum Domini ecce agricola expectat
+      pretiosum fructum terrae patienter ferens donec accipiat temporivum et serotinum
+  - name: Epistula Iacobi 5:8
+    orderIndex: 7
+    osisId: Jas.5.8
+    sblId: Jas 5:8
+    shortName: Iac 5:8
+    text: patientes estote et vos confirmate corda vestra quoniam adventus Domini
+      adpropinquavit
+  - name: Epistula Iacobi 5:9
+    orderIndex: 8
+    osisId: Jas.5.9
+    sblId: Jas 5:9
+    shortName: Iac 5:9
+    text: nolite ingemescere fratres in alterutrum ut non iudicemini ecce iudex ante
+      ianuam adsistit
+  - name: Epistula Iacobi 5:10
+    orderIndex: 9
+    osisId: Jas.5.10
+    sblId: Jas 5:10
+    shortName: Iac 5:10
+    text: exemplum accipite fratres laboris et patientiae prophetas qui locuti sunt
+      in nomine Domini
+  - name: Epistula Iacobi 5:11
+    orderIndex: 10
+    osisId: Jas.5.11
+    sblId: Jas 5:11
+    shortName: Iac 5:11
+    text: ecce beatificamus qui sustinuerunt sufferentiam Iob audistis et finem Domini
+      vidistis quoniam misericors est Dominus et miserator
+  - name: Epistula Iacobi 5:12
+    orderIndex: 11
+    osisId: Jas.5.12
+    sblId: Jas 5:12
+    shortName: Iac 5:12
+    text: ante omnia autem fratres mei nolite iurare neque per caelum neque per terram
+      neque aliud quodcumque iuramentum sit autem vestrum est est non non uti non
+      sub iudicio decidatis
+  - name: Epistula Iacobi 5:13
+    orderIndex: 12
+    osisId: Jas.5.13
+    sblId: Jas 5:13
+    shortName: Iac 5:13
+    text: tristatur aliquis vestrum oret aequo animo est psallat
+  - name: Epistula Iacobi 5:14
+    orderIndex: 13
+    osisId: Jas.5.14
+    sblId: Jas 5:14
+    shortName: Iac 5:14
+    text: infirmatur quis in vobis inducat presbyteros ecclesiae et orent super eum
+      unguentes eum oleo in nomine Domini
+  - name: Epistula Iacobi 5:15
+    orderIndex: 14
+    osisId: Jas.5.15
+    sblId: Jas 5:15
+    shortName: Iac 5:15
+    text: et oratio fidei salvabit infirmum et adlevabit eum Dominus et si in peccatis
+      sit dimittentur ei
+  - name: Epistula Iacobi 5:16
+    orderIndex: 15
+    osisId: Jas.5.16
+    sblId: Jas 5:16
+    shortName: Iac 5:16
+    text: confitemini ergo alterutrum peccata vestra et orate pro invicem ut salvemini
+      multum enim valet deprecatio iusti adsidua
+  - name: Epistula Iacobi 5:17
+    orderIndex: 16
+    osisId: Jas.5.17
+    sblId: Jas 5:17
+    shortName: Iac 5:17
+    text: Helias homo erat similis nobis passibilis et oratione oravit ut non plueret
+      super terram et non pluit annos tres et menses sex
+  - name: Epistula Iacobi 5:18
+    orderIndex: 17
+    osisId: Jas.5.18
+    sblId: Jas 5:18
+    shortName: Iac 5:18
+    text: et rursum oravit et caelum dedit pluviam et terra dedit fructum suum
+  - name: Epistula Iacobi 5:19
+    orderIndex: 18
+    osisId: Jas.5.19
+    sblId: Jas 5:19
+    shortName: Iac 5:19
+    text: fratres mei si quis ex vobis erraverit a veritate et converterit quis eum
+  - name: Epistula Iacobi 5:20
+    orderIndex: 19
+    osisId: Jas.5.20
+    sblId: Jas 5:20
+    shortName: Iac 5:20
+    text: scire debet quoniam qui converti fecerit peccatorem ab errore viae suae
+      salvabit animam eius a morte et operit multitudinem peccatorum
+  versesCount: 20
+chaptersCount: 5
+name: Epistula Iacobi
+orderIndex: 58
+osisId: Jas
+sblId: Jas
+shortName: Iac
+versesCount: 108

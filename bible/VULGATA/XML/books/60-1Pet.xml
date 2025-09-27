@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="1Pet" sblId="1Pet" name="Epistula I Petri" shortName="1 Pt" orderIndex="59" chaptersCount="5" versesCount="105">
+  <chapters>
+    <Chapter osisId="1Pet.1" sblId="1Pet 1" name="Epistula I Petri 1" shortName="1 Pt 1" orderIndex="0" versesCount="25">
+      <verses>
+        <Verse osisId="1Pet.1.1" sblId="1Pet 1:1" name="Epistula I Petri 1:1" shortName="1 Pt 1:1" orderIndex="0">Petrus apostolus Iesu Christi electis advenis dispersionis Ponti Galatiae Cappadociae Asiae et Bithyniae</Verse>
+        <Verse osisId="1Pet.1.2" sblId="1Pet 1:2" name="Epistula I Petri 1:2" shortName="1 Pt 1:2" orderIndex="1">secundum praescientiam Dei Patris in sanctificatione Spiritus in oboedientiam et aspersionem sanguinis Iesu Christi gratia vobis et pax multiplicetur</Verse>
+        <Verse osisId="1Pet.1.3" sblId="1Pet 1:3" name="Epistula I Petri 1:3" shortName="1 Pt 1:3" orderIndex="2">benedictus Deus et Pater Domini nostri Iesu Christi qui secundum magnam misericordiam suam regeneravit nos in spem vivam per resurrectionem Iesu Christi ex mortuis</Verse>
+        <Verse osisId="1Pet.1.4" sblId="1Pet 1:4" name="Epistula I Petri 1:4" shortName="1 Pt 1:4" orderIndex="3">in hereditatem incorruptibilem et incontaminatam et inmarcescibilem conservatam in caelis in vobis</Verse>
+        <Verse osisId="1Pet.1.5" sblId="1Pet 1:5" name="Epistula I Petri 1:5" shortName="1 Pt 1:5" orderIndex="4">qui in virtute Dei custodimini per fidem in salutem paratam revelari in tempore novissimo</Verse>
+        <Verse osisId="1Pet.1.6" sblId="1Pet 1:6" name="Epistula I Petri 1:6" shortName="1 Pt 1:6" orderIndex="5">in quo exultatis modicum nunc si oportet contristati in variis temptationibus</Verse>
+        <Verse osisId="1Pet.1.7" sblId="1Pet 1:7" name="Epistula I Petri 1:7" shortName="1 Pt 1:7" orderIndex="6">ut probatum vestrae fidei multo pretiosius sit auro quod perit per ignem probato inveniatur in laudem et gloriam et honorem in revelatione Iesu Christi</Verse>
+        <Verse osisId="1Pet.1.8" sblId="1Pet 1:8" name="Epistula I Petri 1:8" shortName="1 Pt 1:8" orderIndex="7">quem cum non videritis diligitis in quem nunc quoque non videntes credentes autem exultatis laetitia inenarrabili et glorificata</Verse>
+        <Verse osisId="1Pet.1.9" sblId="1Pet 1:9" name="Epistula I Petri 1:9" shortName="1 Pt 1:9" orderIndex="8">reportantes finem fidei vestrae salutem animarum</Verse>
+        <Verse osisId="1Pet.1.10" sblId="1Pet 1:10" name="Epistula I Petri 1:10" shortName="1 Pt 1:10" orderIndex="9">de qua salute exquisierunt atque scrutati sunt prophetae qui de futura in vobis gratia prophetaverunt</Verse>
+        <Verse osisId="1Pet.1.11" sblId="1Pet 1:11" name="Epistula I Petri 1:11" shortName="1 Pt 1:11" orderIndex="10">scrutantes in quod vel quale tempus significaret in eis Spiritus Christi praenuntians eas quae in Christo sunt passiones et posteriores glorias</Verse>
+        <Verse osisId="1Pet.1.12" sblId="1Pet 1:12" name="Epistula I Petri 1:12" shortName="1 Pt 1:12" orderIndex="11">quibus revelatum est quia non sibi ipsis vobis autem ministrabant ea quae nunc nuntiata sunt vobis per eos qui evangelizaverunt vos Spiritu Sancto misso de caelo in quae desiderant angeli prospicere</Verse>
+        <Verse osisId="1Pet.1.13" sblId="1Pet 1:13" name="Epistula I Petri 1:13" shortName="1 Pt 1:13" orderIndex="12">propter quod succincti lumbos mentis vestrae sobrii perfecte sperate in eam quae offertur vobis gratiam in revelatione Iesu Christi</Verse>
+        <Verse osisId="1Pet.1.14" sblId="1Pet 1:14" name="Epistula I Petri 1:14" shortName="1 Pt 1:14" orderIndex="13">quasi filii oboedientiae non configurati prioribus ignorantiae vestrae desideriis</Verse>
+        <Verse osisId="1Pet.1.15" sblId="1Pet 1:15" name="Epistula I Petri 1:15" shortName="1 Pt 1:15" orderIndex="14">sed secundum eum qui vocavit vos sanctum et ipsi sancti in omni conversatione sitis</Verse>
+        <Verse osisId="1Pet.1.16" sblId="1Pet 1:16" name="Epistula I Petri 1:16" shortName="1 Pt 1:16" orderIndex="15">quoniam scriptum est sancti eritis quia ego sanctus sum</Verse>
+        <Verse osisId="1Pet.1.17" sblId="1Pet 1:17" name="Epistula I Petri 1:17" shortName="1 Pt 1:17" orderIndex="16">et si Patrem invocatis eum qui sine acceptione personarum iudicat secundum uniuscuiusque opus in timore incolatus vestri tempore conversamini</Verse>
+        <Verse osisId="1Pet.1.18" sblId="1Pet 1:18" name="Epistula I Petri 1:18" shortName="1 Pt 1:18" orderIndex="17">scientes quod non corruptibilibus argento vel auro redempti estis de vana vestra conversatione paternae traditionis</Verse>
+        <Verse osisId="1Pet.1.19" sblId="1Pet 1:19" name="Epistula I Petri 1:19" shortName="1 Pt 1:19" orderIndex="18">sed pretioso sanguine quasi agni incontaminati et inmaculati Christi</Verse>
+        <Verse osisId="1Pet.1.20" sblId="1Pet 1:20" name="Epistula I Petri 1:20" shortName="1 Pt 1:20" orderIndex="19">praecogniti quidem ante constitutionem mundi manifestati autem novissimis temporibus propter vos</Verse>
+        <Verse osisId="1Pet.1.21" sblId="1Pet 1:21" name="Epistula I Petri 1:21" shortName="1 Pt 1:21" orderIndex="20">qui per ipsum fideles estis in Deo qui suscitavit eum a mortuis et dedit ei gloriam ut fides vestra et spes esset in Deo</Verse>
+        <Verse osisId="1Pet.1.22" sblId="1Pet 1:22" name="Epistula I Petri 1:22" shortName="1 Pt 1:22" orderIndex="21">animas vestras castificantes in oboedientia caritatis in fraternitatis amore simplici ex corde invicem diligite adtentius</Verse>
+        <Verse osisId="1Pet.1.23" sblId="1Pet 1:23" name="Epistula I Petri 1:23" shortName="1 Pt 1:23" orderIndex="22">renati non ex semine corruptibili sed incorruptibili per verbum Dei vivi et permanentis</Verse>
+        <Verse osisId="1Pet.1.24" sblId="1Pet 1:24" name="Epistula I Petri 1:24" shortName="1 Pt 1:24" orderIndex="23">quia omnis caro ut faenum et omnis gloria eius tamquam flos faeni exaruit faenum et flos decidit</Verse>
+        <Verse osisId="1Pet.1.25" sblId="1Pet 1:25" name="Epistula I Petri 1:25" shortName="1 Pt 1:25" orderIndex="24">verbum autem Domini manet in aeternum hoc est autem verbum quod evangelizatum est in vos</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="1Pet.2" sblId="1Pet 2" name="Epistula I Petri 2" shortName="1 Pt 2" orderIndex="1" versesCount="25">
+      <verses>
+        <Verse osisId="1Pet.2.1" sblId="1Pet 2:1" name="Epistula I Petri 2:1" shortName="1 Pt 2:1" orderIndex="0">deponentes igitur omnem malitiam et omnem dolum et simulationes et invidias et omnes detractiones</Verse>
+        <Verse osisId="1Pet.2.2" sblId="1Pet 2:2" name="Epistula I Petri 2:2" shortName="1 Pt 2:2" orderIndex="1">sicut modo geniti infantes rationale sine dolo lac concupiscite ut in eo crescatis in salutem</Verse>
+        <Verse osisId="1Pet.2.3" sblId="1Pet 2:3" name="Epistula I Petri 2:3" shortName="1 Pt 2:3" orderIndex="2">si gustastis quoniam dulcis Dominus</Verse>
+        <Verse osisId="1Pet.2.4" sblId="1Pet 2:4" name="Epistula I Petri 2:4" shortName="1 Pt 2:4" orderIndex="3">ad quem accedentes lapidem vivum ab hominibus quidem reprobatum a Deo autem electum honorificatum</Verse>
+        <Verse osisId="1Pet.2.5" sblId="1Pet 2:5" name="Epistula I Petri 2:5" shortName="1 Pt 2:5" orderIndex="4">et ipsi tamquam lapides vivi superaedificamini domus spiritalis sacerdotium sanctum offerre spiritales hostias acceptabiles Deo per Iesum Christum</Verse>
+        <Verse osisId="1Pet.2.6" sblId="1Pet 2:6" name="Epistula I Petri 2:6" shortName="1 Pt 2:6" orderIndex="5">propter quod continet in scriptura ecce pono in Sion lapidem summum angularem electum pretiosum et qui crediderit in eo non confundetur</Verse>
+        <Verse osisId="1Pet.2.7" sblId="1Pet 2:7" name="Epistula I Petri 2:7" shortName="1 Pt 2:7" orderIndex="6">vobis igitur honor credentibus non credentibus autem lapis quem reprobaverunt aedificantes hic factus est in caput anguli</Verse>
+        <Verse osisId="1Pet.2.8" sblId="1Pet 2:8" name="Epistula I Petri 2:8" shortName="1 Pt 2:8" orderIndex="7">et lapis offensionis et petra scandali qui offendunt verbo nec credunt in quod et positi sunt</Verse>
+        <Verse osisId="1Pet.2.9" sblId="1Pet 2:9" name="Epistula I Petri 2:9" shortName="1 Pt 2:9" orderIndex="8">vos autem genus electum regale sacerdotium gens sancta populus adquisitionis ut virtutes adnuntietis eius qui de tenebris vos vocavit in admirabile lumen suum</Verse>
+        <Verse osisId="1Pet.2.10" sblId="1Pet 2:10" name="Epistula I Petri 2:10" shortName="1 Pt 2:10" orderIndex="9">qui aliquando non populus nunc autem populus Dei qui non consecuti misericordiam nunc autem misericordiam consecuti</Verse>
+        <Verse osisId="1Pet.2.11" sblId="1Pet 2:11" name="Epistula I Petri 2:11" shortName="1 Pt 2:11" orderIndex="10">carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus desideriis quae militant adversus animam</Verse>
+        <Verse osisId="1Pet.2.12" sblId="1Pet 2:12" name="Epistula I Petri 2:12" shortName="1 Pt 2:12" orderIndex="11">conversationem vestram inter gentes habentes bonam ut in eo quod detractant de vobis tamquam de malefactoribus ex bonis operibus considerantes glorificent Deum in die visitationis</Verse>
+        <Verse osisId="1Pet.2.13" sblId="1Pet 2:13" name="Epistula I Petri 2:13" shortName="1 Pt 2:13" orderIndex="12">subiecti estote omni humanae creaturae propter Dominum sive regi quasi praecellenti</Verse>
+        <Verse osisId="1Pet.2.14" sblId="1Pet 2:14" name="Epistula I Petri 2:14" shortName="1 Pt 2:14" orderIndex="13">sive ducibus tamquam ab eo missis ad vindictam malefactorum laudem vero bonorum</Verse>
+        <Verse osisId="1Pet.2.15" sblId="1Pet 2:15" name="Epistula I Petri 2:15" shortName="1 Pt 2:15" orderIndex="14">quia sic est voluntas Dei ut benefacientes obmutescere faciatis inprudentium hominum ignorantiam</Verse>
+        <Verse osisId="1Pet.2.16" sblId="1Pet 2:16" name="Epistula I Petri 2:16" shortName="1 Pt 2:16" orderIndex="15">quasi liberi et non quasi velamen habentes malitiae libertatem sed sicut servi Dei</Verse>
+        <Verse osisId="1Pet.2.17" sblId="1Pet 2:17" name="Epistula I Petri 2:17" shortName="1 Pt 2:17" orderIndex="16">omnes honorate fraternitatem diligite Deum timete regem honorificate</Verse>
+        <Verse osisId="1Pet.2.18" sblId="1Pet 2:18" name="Epistula I Petri 2:18" shortName="1 Pt 2:18" orderIndex="17">servi subditi in omni timore dominis non tantum bonis et modestis sed etiam discolis</Verse>
+        <Verse osisId="1Pet.2.19" sblId="1Pet 2:19" name="Epistula I Petri 2:19" shortName="1 Pt 2:19" orderIndex="18">haec est enim gratia si propter conscientiam Dei sustinet quis tristitias patiens iniuste</Verse>
+        <Verse osisId="1Pet.2.20" sblId="1Pet 2:20" name="Epistula I Petri 2:20" shortName="1 Pt 2:20" orderIndex="19">quae enim gloria est si peccantes et colaphizati suffertis sed si benefacientes et patientes sustinetis haec est gratia apud Deum</Verse>
+        <Verse osisId="1Pet.2.21" sblId="1Pet 2:21" name="Epistula I Petri 2:21" shortName="1 Pt 2:21" orderIndex="20">in hoc enim vocati estis quia et Christus passus est pro vobis vobis relinquens exemplum ut sequamini vestigia eius</Verse>
+        <Verse osisId="1Pet.2.22" sblId="1Pet 2:22" name="Epistula I Petri 2:22" shortName="1 Pt 2:22" orderIndex="21">qui peccatum non fecit nec inventus est dolus in ore ipsius</Verse>
+        <Verse osisId="1Pet.2.23" sblId="1Pet 2:23" name="Epistula I Petri 2:23" shortName="1 Pt 2:23" orderIndex="22">qui cum malediceretur non maledicebat cum pateretur non comminabatur tradebat autem iudicanti se iniuste</Verse>
+        <Verse osisId="1Pet.2.24" sblId="1Pet 2:24" name="Epistula I Petri 2:24" shortName="1 Pt 2:24" orderIndex="23">qui peccata nostra ipse pertulit in corpore suo super lignum ut peccatis mortui iustitiae viveremus cuius livore sanati estis</Verse>
+        <Verse osisId="1Pet.2.25" sblId="1Pet 2:25" name="Epistula I Petri 2:25" shortName="1 Pt 2:25" orderIndex="24">eratis enim sicut oves errantes sed conversi estis nunc ad pastorem et episcopum animarum vestrarum</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="1Pet.3" sblId="1Pet 3" name="Epistula I Petri 3" shortName="1 Pt 3" orderIndex="2" versesCount="22">
+      <verses>
+        <Verse osisId="1Pet.3.1" sblId="1Pet 3:1" name="Epistula I Petri 3:1" shortName="1 Pt 3:1" orderIndex="0">similiter mulieres subditae suis viris ut et si qui non credunt verbo per mulierum conversationem sine verbo lucri fiant</Verse>
+        <Verse osisId="1Pet.3.2" sblId="1Pet 3:2" name="Epistula I Petri 3:2" shortName="1 Pt 3:2" orderIndex="1">considerantes in timore castam conversationem vestram</Verse>
+        <Verse osisId="1Pet.3.3" sblId="1Pet 3:3" name="Epistula I Petri 3:3" shortName="1 Pt 3:3" orderIndex="2">quarum sit non extrinsecus capillaturae aut circumdatio auri aut indumenti vestimentorum cultus</Verse>
+        <Verse osisId="1Pet.3.4" sblId="1Pet 3:4" name="Epistula I Petri 3:4" shortName="1 Pt 3:4" orderIndex="3">sed qui absconditus cordis est homo in incorruptibilitate quieti et modesti spiritus quod est in conspectu Dei locuples</Verse>
+        <Verse osisId="1Pet.3.5" sblId="1Pet 3:5" name="Epistula I Petri 3:5" shortName="1 Pt 3:5" orderIndex="4">sic enim aliquando et sanctae mulieres sperantes in Deo ornabant se subiectae propriis viris</Verse>
+        <Verse osisId="1Pet.3.6" sblId="1Pet 3:6" name="Epistula I Petri 3:6" shortName="1 Pt 3:6" orderIndex="5">sicut Sarra oboediebat Abrahae dominum eum vocans cuius estis filiae benefacientes et non timentes ullam perturbationem</Verse>
+        <Verse osisId="1Pet.3.7" sblId="1Pet 3:7" name="Epistula I Petri 3:7" shortName="1 Pt 3:7" orderIndex="6">viri similiter cohabitantes secundum scientiam quasi infirmiori vaso muliebri inpertientes honorem tamquam et coheredibus gratiae vitae uti ne inpediantur orationes vestrae</Verse>
+        <Verse osisId="1Pet.3.8" sblId="1Pet 3:8" name="Epistula I Petri 3:8" shortName="1 Pt 3:8" orderIndex="7">in fine autem omnes unianimes conpatientes fraternitatis amatores misericordes humiles</Verse>
+        <Verse osisId="1Pet.3.9" sblId="1Pet 3:9" name="Epistula I Petri 3:9" shortName="1 Pt 3:9" orderIndex="8">non reddentes malum pro malo vel maledictum pro maledicto sed e contrario benedicentes quia in hoc vocati estis ut benedictionem hereditate possideatis</Verse>
+        <Verse osisId="1Pet.3.10" sblId="1Pet 3:10" name="Epistula I Petri 3:10" shortName="1 Pt 3:10" orderIndex="9">qui enim vult vitam diligere et videre dies bonos coerceat linguam suam a malo et labia eius ne loquantur dolum</Verse>
+        <Verse osisId="1Pet.3.11" sblId="1Pet 3:11" name="Epistula I Petri 3:11" shortName="1 Pt 3:11" orderIndex="10">declinet autem a malo et faciat bonum inquirat pacem et persequatur eam</Verse>
+        <Verse osisId="1Pet.3.12" sblId="1Pet 3:12" name="Epistula I Petri 3:12" shortName="1 Pt 3:12" orderIndex="11">quia oculi Domini super iustos et aures eius in preces eorum vultus autem Domini super facientes mala</Verse>
+        <Verse osisId="1Pet.3.13" sblId="1Pet 3:13" name="Epistula I Petri 3:13" shortName="1 Pt 3:13" orderIndex="12">et quis est qui vobis noceat si boni aemulatores fueritis</Verse>
+        <Verse osisId="1Pet.3.14" sblId="1Pet 3:14" name="Epistula I Petri 3:14" shortName="1 Pt 3:14" orderIndex="13">sed et si quid patimini propter iustitiam beati timorem autem eorum ne timueritis et non conturbemini</Verse>
+        <Verse osisId="1Pet.3.15" sblId="1Pet 3:15" name="Epistula I Petri 3:15" shortName="1 Pt 3:15" orderIndex="14">Dominum autem Christum sanctificate in cordibus vestris parati semper ad satisfactionem omni poscenti vos rationem de ea quae in vobis est spe</Verse>
+        <Verse osisId="1Pet.3.16" sblId="1Pet 3:16" name="Epistula I Petri 3:16" shortName="1 Pt 3:16" orderIndex="15">sed cum modestia et timore conscientiam habentes bonam ut in eo quod detrahunt vobis confundantur qui calumniantur vestram bonam in Christo conversationem</Verse>
+        <Verse osisId="1Pet.3.17" sblId="1Pet 3:17" name="Epistula I Petri 3:17" shortName="1 Pt 3:17" orderIndex="16">melius est enim benefacientes si velit voluntas Dei pati quam malefacientes</Verse>
+        <Verse osisId="1Pet.3.18" sblId="1Pet 3:18" name="Epistula I Petri 3:18" shortName="1 Pt 3:18" orderIndex="17">quia et Christus semel pro peccatis mortuus est iustus pro iniustis ut nos offerret Deo mortificatus carne vivificatus autem spiritu</Verse>
+        <Verse osisId="1Pet.3.19" sblId="1Pet 3:19" name="Epistula I Petri 3:19" shortName="1 Pt 3:19" orderIndex="18">in quo et his qui in carcere erant spiritibus veniens praedicavit</Verse>
+        <Verse osisId="1Pet.3.20" sblId="1Pet 3:20" name="Epistula I Petri 3:20" shortName="1 Pt 3:20" orderIndex="19">qui increduli fuerant aliquando quando expectabat Dei patientia in diebus Noe cum fabricaretur arca in qua pauci id est octo animae salvae factae sunt per aquam</Verse>
+        <Verse osisId="1Pet.3.21" sblId="1Pet 3:21" name="Epistula I Petri 3:21" shortName="1 Pt 3:21" orderIndex="20">quod et vos nunc similis formae salvos facit baptisma non carnis depositio sordium sed conscientiae bonae interrogatio in Deum per resurrectionem Iesu Christi</Verse>
+        <Verse osisId="1Pet.3.22" sblId="1Pet 3:22" name="Epistula I Petri 3:22" shortName="1 Pt 3:22" orderIndex="21">qui est in dextera Dei profectus in caelum subiectis sibi angelis et potestatibus et virtutibus</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="1Pet.4" sblId="1Pet 4" name="Epistula I Petri 4" shortName="1 Pt 4" orderIndex="3" versesCount="19">
+      <verses>
+        <Verse osisId="1Pet.4.1" sblId="1Pet 4:1" name="Epistula I Petri 4:1" shortName="1 Pt 4:1" orderIndex="0">Christo igitur passo in carne et vos eadem cogitatione armamini quia qui passus est carne desiit a peccatis</Verse>
+        <Verse osisId="1Pet.4.2" sblId="1Pet 4:2" name="Epistula I Petri 4:2" shortName="1 Pt 4:2" orderIndex="1">ut iam non hominum desideriis sed voluntate Dei quod reliquum est in carne vivat temporis</Verse>
+        <Verse osisId="1Pet.4.3" sblId="1Pet 4:3" name="Epistula I Petri 4:3" shortName="1 Pt 4:3" orderIndex="2">sufficit enim praeteritum tempus ad voluntatem gentium consummandam qui ambulaverunt in luxuriis desideriis vinolentiis comesationibus potationibus et inlicitis idolorum cultibus</Verse>
+        <Verse osisId="1Pet.4.4" sblId="1Pet 4:4" name="Epistula I Petri 4:4" shortName="1 Pt 4:4" orderIndex="3">in quo peregrinantur non concurrentibus vobis in eandem luxuriae confusionem blasphemantes</Verse>
+        <Verse osisId="1Pet.4.5" sblId="1Pet 4:5" name="Epistula I Petri 4:5" shortName="1 Pt 4:5" orderIndex="4">qui reddent rationem ei qui paratus est iudicare vivos et mortuos</Verse>
+        <Verse osisId="1Pet.4.6" sblId="1Pet 4:6" name="Epistula I Petri 4:6" shortName="1 Pt 4:6" orderIndex="5">propter hoc enim et mortuis evangelizatum est ut iudicentur quidem secundum homines in carne vivant autem secundum Deum spiritu</Verse>
+        <Verse osisId="1Pet.4.7" sblId="1Pet 4:7" name="Epistula I Petri 4:7" shortName="1 Pt 4:7" orderIndex="6">omnium autem finis adpropinquavit estote itaque prudentes et vigilate in orationibus</Verse>
+        <Verse osisId="1Pet.4.8" sblId="1Pet 4:8" name="Epistula I Petri 4:8" shortName="1 Pt 4:8" orderIndex="7">ante omnia mutuam in vosmet ipsos caritatem continuam habentes quia caritas operit multitudinem peccatorum</Verse>
+        <Verse osisId="1Pet.4.9" sblId="1Pet 4:9" name="Epistula I Petri 4:9" shortName="1 Pt 4:9" orderIndex="8">hospitales invicem sine murmuratione</Verse>
+        <Verse osisId="1Pet.4.10" sblId="1Pet 4:10" name="Epistula I Petri 4:10" shortName="1 Pt 4:10" orderIndex="9">unusquisque sicut accepit gratiam in alterutrum illam administrantes sicut boni dispensatores multiformis gratiae Dei</Verse>
+        <Verse osisId="1Pet.4.11" sblId="1Pet 4:11" name="Epistula I Petri 4:11" shortName="1 Pt 4:11" orderIndex="10">si quis loquitur quasi sermones Dei si quis ministrat tamquam ex virtute quam administrat Deus ut in omnibus honorificetur Deus per Iesum Christum cui est gloria et imperium in saecula saeculorum amen</Verse>
+        <Verse osisId="1Pet.4.12" sblId="1Pet 4:12" name="Epistula I Petri 4:12" shortName="1 Pt 4:12" orderIndex="11">carissimi nolite peregrinari in fervore qui ad temptationem vobis fit quasi novi aliquid vobis contingat</Verse>
+        <Verse osisId="1Pet.4.13" sblId="1Pet 4:13" name="Epistula I Petri 4:13" shortName="1 Pt 4:13" orderIndex="12">sed communicantes Christi passionibus gaudete ut et in revelatione gloriae eius gaudeatis exultantes</Verse>
+        <Verse osisId="1Pet.4.14" sblId="1Pet 4:14" name="Epistula I Petri 4:14" shortName="1 Pt 4:14" orderIndex="13">si exprobramini in nomine Christi beati quoniam gloriae Dei Spiritus in vobis requiescit</Verse>
+        <Verse osisId="1Pet.4.15" sblId="1Pet 4:15" name="Epistula I Petri 4:15" shortName="1 Pt 4:15" orderIndex="14">nemo enim vestrum patiatur quasi homicida aut fur aut maledicus aut alienorum appetitor</Verse>
+        <Verse osisId="1Pet.4.16" sblId="1Pet 4:16" name="Epistula I Petri 4:16" shortName="1 Pt 4:16" orderIndex="15">si autem ut Christianus non erubescat glorificet autem Deum in isto nomine</Verse>
+        <Verse osisId="1Pet.4.17" sblId="1Pet 4:17" name="Epistula I Petri 4:17" shortName="1 Pt 4:17" orderIndex="16">quoniam tempus ut incipiat iudicium de domo Dei si autem primum a nobis qui finis eorum qui non credunt Dei evangelio</Verse>
+        <Verse osisId="1Pet.4.18" sblId="1Pet 4:18" name="Epistula I Petri 4:18" shortName="1 Pt 4:18" orderIndex="17">et si iustus vix salvatur impius et peccator ubi parebit</Verse>
+        <Verse osisId="1Pet.4.19" sblId="1Pet 4:19" name="Epistula I Petri 4:19" shortName="1 Pt 4:19" orderIndex="18">itaque et hii qui patiuntur secundum voluntatem Dei fideli creatori commendant animas suas in benefactis</Verse>
+      </verses>
+    </Chapter>
+    <Chapter osisId="1Pet.5" sblId="1Pet 5" name="Epistula I Petri 5" shortName="1 Pt 5" orderIndex="4" versesCount="14">
+      <verses>
+        <Verse osisId="1Pet.5.1" sblId="1Pet 5:1" name="Epistula I Petri 5:1" shortName="1 Pt 5:1" orderIndex="0">seniores ergo qui in vobis sunt obsecro consenior et testis Christi passionum qui et eius quae in futuro revelanda est gloriae communicator</Verse>
+        <Verse osisId="1Pet.5.2" sblId="1Pet 5:2" name="Epistula I Petri 5:2" shortName="1 Pt 5:2" orderIndex="1">pascite qui est in vobis gregem Dei providentes non coacto sed spontanee secundum Deum neque turpis lucri gratia sed voluntarie</Verse>
+        <Verse osisId="1Pet.5.3" sblId="1Pet 5:3" name="Epistula I Petri 5:3" shortName="1 Pt 5:3" orderIndex="2">neque ut dominantes in cleris sed formae facti gregi et ex animo</Verse>
+        <Verse osisId="1Pet.5.4" sblId="1Pet 5:4" name="Epistula I Petri 5:4" shortName="1 Pt 5:4" orderIndex="3">et cum apparuerit princeps pastorum percipietis inmarcescibilem gloriae coronam</Verse>
+        <Verse osisId="1Pet.5.5" sblId="1Pet 5:5" name="Epistula I Petri 5:5" shortName="1 Pt 5:5" orderIndex="4">similiter adulescentes subditi estote senioribus omnes autem invicem humilitatem insinuate quia Deus superbis resistit humilibus autem dat gratiam</Verse>
+        <Verse osisId="1Pet.5.6" sblId="1Pet 5:6" name="Epistula I Petri 5:6" shortName="1 Pt 5:6" orderIndex="5">humiliamini igitur sub potenti manu Dei ut vos exaltet in tempore visitationis</Verse>
+        <Verse osisId="1Pet.5.7" sblId="1Pet 5:7" name="Epistula I Petri 5:7" shortName="1 Pt 5:7" orderIndex="6">omnem sollicitudinem vestram proicientes in eum quoniam ipsi cura est de vobis</Verse>
+        <Verse osisId="1Pet.5.8" sblId="1Pet 5:8" name="Epistula I Petri 5:8" shortName="1 Pt 5:8" orderIndex="7">sobrii estote vigilate quia adversarius vester diabolus tamquam leo rugiens circuit quaerens quem devoret</Verse>
+        <Verse osisId="1Pet.5.9" sblId="1Pet 5:9" name="Epistula I Petri 5:9" shortName="1 Pt 5:9" orderIndex="8">cui resistite fortes fide scientes eadem passionum ei quae in mundo est vestrae fraternitati fieri</Verse>
+        <Verse osisId="1Pet.5.10" sblId="1Pet 5:10" name="Epistula I Petri 5:10" shortName="1 Pt 5:10" orderIndex="9">Deus autem omnis gratiae qui vocavit nos in aeternam suam gloriam in Christo Iesu modicum passos ipse perficiet confirmabit solidabit</Verse>
+        <Verse osisId="1Pet.5.11" sblId="1Pet 5:11" name="Epistula I Petri 5:11" shortName="1 Pt 5:11" orderIndex="10">ipsi imperium in saecula saeculorum amen</Verse>
+        <Verse osisId="1Pet.5.12" sblId="1Pet 5:12" name="Epistula I Petri 5:12" shortName="1 Pt 5:12" orderIndex="11">per Silvanum vobis fidelem fratrem ut arbitror breviter scripsi obsecrans et contestans hanc esse veram gratiam Dei in qua state</Verse>
+        <Verse osisId="1Pet.5.13" sblId="1Pet 5:13" name="Epistula I Petri 5:13" shortName="1 Pt 5:13" orderIndex="12">salutat vos quae est in Babylone cumelecta et Marcus filius meus</Verse>
+        <Verse osisId="1Pet.5.14" sblId="1Pet 5:14" name="Epistula I Petri 5:14" shortName="1 Pt 5:14" orderIndex="13">salutate invicem in osculo sancto gratia vobis omnibus qui estis in Christo</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>

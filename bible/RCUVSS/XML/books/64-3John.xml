@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Book osisId="3John" sblId="3John" name="约翰三书" shortName="约三" orderIndex="63" chaptersCount="1" versesCount="15">
+  <chapters>
+    <Chapter osisId="3John.1" sblId="3John 1" name="约翰三书 1" shortName="约三 1" orderIndex="0" versesCount="15">
+      <verses>
+        <Verse osisId="3John.1.1" sblId="3John 1:1" name="约翰三书 1:1" shortName="约三 1:1" orderIndex="0">我作长老的写信给亲爱的 该犹 ，就是我真心所爱的。</Verse>
+        <Verse osisId="3John.1.2" sblId="3John 1:2" name="约翰三书 1:2" shortName="约三 1:2" orderIndex="1">亲爱的，我愿你事事安宁，身体健康，正如你的心神安宁一样。</Verse>
+        <Verse osisId="3John.1.3" sblId="3John 1:3" name="约翰三书 1:3" shortName="约三 1:3" orderIndex="2">我非常欢喜，有弟兄到这里来，证实你对真理的忠诚，就是你按着真理而行。</Verse>
+        <Verse osisId="3John.1.4" sblId="3John 1:4" name="约翰三书 1:4" shortName="约三 1:4" orderIndex="3">我听见我的儿女按真理而行，我的欢喜没有比这个更大的。</Verse>
+        <Verse osisId="3John.1.5" sblId="3John 1:5" name="约翰三书 1:5" shortName="约三 1:5" orderIndex="4">亲爱的，你对弟兄，特别是对作客旅的弟兄所做的都是忠诚的。</Verse>
+        <Verse osisId="3John.1.6" sblId="3John 1:6" name="约翰三书 1:6" shortName="约三 1:6" orderIndex="5">他们在教会面前证实了你的爱；你若以对得起上帝的方式，为他们送行就好了；</Verse>
+        <Verse osisId="3John.1.7" sblId="3John 1:7" name="约翰三书 1:7" shortName="约三 1:7" orderIndex="6">因为他们是为基督的名 出外，并没有从未信的人接受什么。</Verse>
+        <Verse osisId="3John.1.8" sblId="3John 1:8" name="约翰三书 1:8" shortName="约三 1:8" orderIndex="7">所以，我们应当接待这样的人，好让我们与他们在真理上成为同工。</Verse>
+        <Verse osisId="3John.1.9" sblId="3John 1:9" name="约翰三书 1:9" shortName="约三 1:9" orderIndex="8">我曾写过一些东西给教会，但他们中间那好作领袖的 丢特腓 不接纳我们。</Verse>
+        <Verse osisId="3John.1.10" sblId="3John 1:10" name="约翰三书 1:10" shortName="约三 1:10" orderIndex="9">为此，我若去，要提起他所做的事，就是他用恶言攻击我们，还不满足，他自己不接纳弟兄，有人愿意接纳，他还阻止，并且把接纳弟兄的人赶出教会。</Verse>
+        <Verse osisId="3John.1.11" sblId="3John 1:11" name="约翰三书 1:11" shortName="约三 1:11" orderIndex="10">亲爱的，不要效法恶，只要效法善。行善的人属乎上帝；行恶的人未曾见过上帝。</Verse>
+        <Verse osisId="3John.1.12" sblId="3John 1:12" name="约翰三书 1:12" shortName="约三 1:12" orderIndex="11">低米丢 行善，有众人给他作见证，又有真理给他作见证，就是我们也给他作见证，你知道我们的见证是真的。</Verse>
+        <Verse osisId="3John.1.13" sblId="3John 1:13" name="约翰三书 1:13" shortName="约三 1:13" orderIndex="12">我还有许多事要写给你，却不愿意用笔墨来写给你，</Verse>
+        <Verse osisId="3John.1.14" sblId="3John 1:14" name="约翰三书 1:14" shortName="约三 1:14" orderIndex="13">但盼望很快见到你，我们好面对面谈论。</Verse>
+        <Verse osisId="3John.1.15" sblId="3John 1:15" name="约翰三书 1:15" shortName="约三 1:15" orderIndex="14">愿你平安！朋友们都向你问安。请你替我按著名字一一向朋友们问安。</Verse>
+      </verses>
+    </Chapter>
+  </chapters>
+</Book>
